@@ -1,0 +1,3186 @@
+﻿<music 14>
+<background "ev999a00.agf" 10>
+\x2B\x2A -1 \x1A\x01\x09\x46\x00\x47\x00\x38\x00\x30\x00\x30\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :AA: 
+<music 11>
+<background "bg008a0.agf" 10>
+<choice :AA: "Full" \x00\x00>
+<choice :FFF9: "Short" \x00\x00>
+View the full prologue?
+#
+:AA
+<music 43>
+<background "ev009a00.agf" 10>
+<name "Royal Maid" "!PC0001">
+"Oh, excuse me.
+ Where are you bringing that?"
+#
+<name "Busy Maid" "!ZA0001">
+"The Overlord said he needed these."
+#
+<name "Royal Maid" "!PC0002">
+"He did?"
+#
+<name "Busy Maid" "!ZA0002">
+"Yes. Is something the matter?"
+#
+<name "Royal Maid" "!PC0003">
+"No. If he said he needs it, it's fine.
+ Please take it to him immediately."
+#
+<name "Busy Maid" "!ZA0003">
+"Yes, ma'am.
+ Excuse me."
+#
+...
+#
+<background "ev009a01.agf" 12>
+<name "Busy Maid" "!ZA0004">
+"Seems like she didn't realize."
+#
+<background "ev009a00.agf" 10>
+My name is Macdo.
+#
+I'm from the Netherworld.
+#
+Humans would call me a demon.
+#
+And right now, I'm disguised as a maid.
+#
+I'm actually an important bureaucrat of
+Gunguskar, an important organization in the
+Netherworld.
+#
+I've been given quite an important job.
+#
+There are two reasons why I'm here in disguise.
+#
+First, I'm supposed to be investigating the
+branch of our company located here.
+#
+Any decent branch knows to watch their step
+when an inspector comes, so it's much quicker
+to see how things really are like this.
+#
+Well, it's no secret I'd be showing up around
+now, but if they've got good heads on their
+shoulders, they'll realize I'm here.
+Until then, I can check them out at my leisure.
+#
+And there's another thing.
+#
+The other reason is much more serious.
+#
+It's to observe the Overlord here in 
+Forzelotte's Shrine.
+#
+<music 6>
+<background "bg001a2.agf" 10>
+This is the edge of a kingdom in the human
+world.
+#
+A vast forest with a serious of massive and
+complex dungeons hidden beneath it.
+#
+Humans call it the Forest of the Overlord, but
+its actual name is Forzelotte's Shrine.
+#
+It was built right after the truce with 
+Celestia and designed to collect mana in the
+human world and send it to the Netherworld.
+#
+Far too much mana was spread in the war with
+Celestia. That means more dangerous people born
+because of it. The goal is to reduce that.
+#
+That's also a good excuse to use it as a place
+to keep a military presence in the human world
+as kind of a neutral zone.
+#
+Celestia had the same idea and built their own
+similar structure. 
+Both sides accepted this compromise.
+#
+It's weird to say, but I agree with Celestia
+here.
+#
+If you really think about it, there had to have
+been a lot of strings being pulled behind the
+scenes.
+#
+<music 39>
+<background "bg002a0.agf" 10>
+Now then, Forzelotte's Shrine.
+#
+Forzelotte, who it's named for, is supposed to
+be the Overlord here, but a while back, out of
+nowhere, everybody was talking about it because
+a human became the Overlord instead.
+#
+When I heard that Overlord Aishies accepted it,
+I couldn't believe my ears.
+#
+Well, it's unusual, but if it's what's best for
+the Netherworld, it's fine.
+#
+That wouldn't be enough of a reason to send me
+to investigate.
+#
+I'm here because of something that happened a
+few years back.
+#
+<music 16>
+<background "bg006a0.agf" 10>
+Castle Baldaquin.
+#
+A place created by Celestials to collect mana.
+#
+They then converted it into a sky fortress,
+floating high in the air.
+#
+It fell.
+#
+It fell on top of Forzelotte's Shrine.
+#
+<background "ev092a00.agf" 10>
+Right before that happened, the Celestial army
+stationed there launched a huge ambush on
+Forzelotte's Shrine.
+#
+It very well could have lead to all out war
+with Celestia.
+#
+But this human Overlord successfully prevented
+that from happening.
+#
+I guess human Overlords have their uses.
+#
+It turned out to be because Celestia's mana
+collection system went crazy.
+#
+Put simply, it reacted with the Netherworld's
+mana collection system.
+#
+The two attracted each other and caused chaos.
+#
+Yeah, that's putting it mildly.
+#
+Castle Baldaquin wasn't the only sky fortress
+Celestia had that was made to collect mana.
+#
+They officially told the Netherworld they had
+12, but there were actually 16.
+#
+Half of them, eight in total, ended up above
+Forzelotte's Shrine, with five of them falling.
+#
+After the fifth time, Celestia decided it was
+serious enough to shut them all down.
+#
+But the damage to Forzelotte's Shrine from 
+having five castles fall on it cannot be
+understated.
+#
+Frankly, it was enough of a fiasco that the
+Netherworld could have extracted major
+concessions from Celestia.
+#
+But they didn't.
+#
+That's part of why I'm here.
+#
+<music 43>
+This human Overlord.
+His name is Darx.
+#
+After they drove back the Celestials who 
+attacked Forzelotte's Shrine, they 
+counterattacked Castle Baldaquin with a small
+number of warriors. 
+#
+<background "ev093a00.agf" 10>
+In the process, they captured, imprisoned, and
+raped a number of young women soldiers.
+#
+It didn't matter if they were some important
+person in Celestia or not.
+#
+To make things worse, many of them became
+pregnant with his children.
+#
+It wouldn't matter if it was only a few, or
+even a few dozen, but this was closer to 
+hundreds, close to thousands.
+#
+It was a huge joke in the Netherworld.
+#
+You almost can't help but feel sorry for them
+knowing what Celestia is like.
+#
+Celestials value their bloodlines. 
+They don't have sex with anybody but their
+spouses.
+#
+They're also exceedingly arrogant.
+Humans are lesser beings to them.
+Being raped by a human, and especially having
+one's child would make them pariahs.
+#
+Even though they're our enemies, I pity them
+that fate.
+#
+Because of that, almost all of them lost their
+homes in Celestia and wanted to move to
+Forzelotte's Shrine.
+#
+More than two thousand of them.
+#
+The big problem there is that almost all of
+them were soldiers.
+#
+It's not a significant number of Celestials, 
+but it is a significant number of Celestials
+in the human world.
+#
+<background "ev094a00.agf" 10>
+What's more, it includes some of their
+commanders.
+#
+So this is yet another incident that could've
+easily sparked war with Celestia.
+#
+The Netherworld should have rejected them and
+sent them away.
+#
+But they had no place in Celestia anymore.
+#
+Some of them may have even been imprisoned if
+they tried to go back.
+#
+The human Overlord wasn't willing to turn them
+away.
+#
+Apparently he told Lord Aishies that he would
+go to war with the Netherworld if he was 
+ordered to send them away.
+I don't know if he's brave or stupid.
+#
+I thought it was just a rumor, but I've also
+heard that one of the underlords who was 
+there when the message was delivered fainted.
+It must be true.
+#
+Anyway, the Netherworld accepted the refuges.
+Considering the mana absorption systems that
+went haywire, including Castle Baldaquin's,
+it was accepted as a wash.
+#
+<background "bg001a2.agf" 10>
+And the place they settled was Forzelotte's 
+Shrine.
+#
+It's probably already obvious.
+#
+That's what I'm here to look into.
+#
+<music 45>
+<background "ev071a00.agf" 10>
+This is a place in the human world where
+demons and Celestials live together under
+human leadership.
+#
+With a human calling himself an Overlord no
+less.
+#
+<music 43>
+<background "ev009a00.agf" 10>
+It cannot be ignored.
+#
+And if I judge it to be dangerous, then my
+priority changes from observation to 
+investigation.
+#
+<background "ev009a02.agf" 12>
+In the worst case, assassination of this
+human Overlord is not out of the question.
+#
+...
+#
+<background "ev009a00.agf" 12>
+Well, there's no need to get ahead of myself.
+#
+This human Overlord seems to be more aligned
+with the Netherworld.
+#
+He took the former Overlord, Forzelotte, as
+his wife, and had a child with her.
+#
+His reputation is good, and while I have my
+doubts regarding his capabailities, he's well
+supported by those around him.
+#
+His sexual proclivities towards women could be
+an issue, but the basics could be useful.
+#
+He's only violent with his enemies.
+#
+For me personally, considering the amount of
+business he does with Gunguskar, I would
+consider us to be on friendly terms.
+#
+<name "Macdo" "!ZA0005">
+"Well, I haven't seen him in action yet..."
+#
+<name "Macdo" "!ZA0006">
+"Anyway, let's get on with this."
+#
+<music 22>
+Hm?
+#
+What's that strange feeling?
+#
+<name "Macdo" "!ZA0007">
+"What is it?"
+#
+This room...
+I have no idea what's here.
+#
+All I know is that newcomers should stay away
+from it.
+#
+It's covered in strange locks.
+#
+But this would be an odd place for a treasure
+vault.
+#
+The human Overlord's room is further back than
+this.
+#
+Hmm.
+#
+<name "Macdo" "!ZA0008">
+"My mission is to investigate after all."
+#
+Her curiosity got the best of her.
+#
+<music 43>
+<background "bg002a0.agf" 10>
+<sprite "ta00a000.agf" 4 4 11>
+My name is Darx.
+#
+I'm the Overlord.
+#
+But I'm human.
+#
+<name "Loving Demon" "!QB0001">
+"Ooh?
+ You're human?"
+#
+<name "Sexy Demon" "!WB0001">
+"I thought you had gone beyond human."
+#
+<name "Darx">
+"Oh?"
+#
+<name "Loving Demon" "!QB0002">
+"Ordinary humans can't clone themselves with
+ mana."
+#
+<name "Darx">
+"Ah, that.
+ What do you think?"
+#
+<name "Loving Demon" "!QB0003">
+"I prefer being with you."
+#
+<name "Sexy Demon" "!WB0002">
+"Me too.
+ That thing's a little scary."
+#
+<name "Darx">
+"I see.
+ Doesn't have a good reputation, does it?"
+#
+<name "Loving Demon" "!QB0004">
+"Cause it looks like that..."
+#
+<name "Sexy Demon" "!WB0003">
+"Some people are into that though..."
+#
+<name "Darx">
+"Well, I guess."
+#
+<removesprite -1 11>
+<sprite "ta34a001.agf" 4 4 11>
+<name "Secretary Maid" "!AC0001">
+"My Lord, if you're playing around, does that
+ mean you're finished with your work?"
+#
+<name "Darx">
+"U-Um..."
+#
+<sprite "ta34a002.agf" 4 4 12>
+<name "Secretary Maid" "!AC0002">
+"Please have it done before noon.
+ I believe you already know what needs to be
+ done?"
+#
+<name "Darx">
+"I-I'll get right to it."
+#
+<sprite "ta34a001.agf" 4 4 12>
+<name "Secretary Maid" "!AC0003">
+"Thank you very much."
+#
+<removesprite -1 11>
+<name "Loving Demon" "!QB0005">
+"Hahaha...
+ Scary."
+#
+<name "Sexy Demon" "!WB0004">
+"Yep."
+#
+<sprite "ta00a000.agf" 4 4 11>
+<name "Darx">
+"You know, I need to ask you two something."
+#
+<name "Loving Demon" "!QB0006">
+"What is it?"
+#
+<name "Darx">
+"I am the Overlord, right?"
+#
+<name "Loving Demon" "!QB0007">
+"Yes, of course."
+#
+<name "Sexy Demon" "!WB0005">
+"Believe in yourself."
+#
+<name "Darx">
+"Sometimes I wonder."
+#
+<name "Secretary Maid" "!AC0004">
+"My Lord."
+#
+<name "Darx">
+"Ah, right.
+ On it."
+#
+<removesprite -1 11>
+Again, my name is Darx.
+#
+In search of a life of freedom, I became an
+adventurer, and during my life of adventure,
+I ended up losing to the Overlord and becoming
+a minion.
+#
+I didn't exactly have a choice in the matter.
+I was trying to kill the Overlord at the time,
+and it was either that or die.
+I lost, so I took the only choice I had.
+#
+Well, there is the point that the Overlord was
+a woman.
+#
+It definitely caught my eye.
+#
+As a useful minion, I advanced through the
+ranks.
+#
+And after a number of trials and tribulations,
+I ended up as Overlord before I realized it.
+#
+<sprite "ta34a000.agf" 4 4 11>
+<name "Secretary Maid" "!AC0005">
+"My Lord, please review these documents.
+ If you don't see any issues, sign here and
+ here."
+#
+<removesprite -1 11>
+<sprite "ta34a000.agf" 2 6 11>
+<sprite "ta34a000.agf" 6 4 11>
+<name "Serious Maid" "!DC0001">
+"My Lord, can you approve this?
+ The details and documents are here."
+#
+<removesprite -1 11>
+<sprite "ta34a000.agf" 2 4 11>
+<sprite "ta34a000.agf" 4 6 11>
+<sprite "ta34a000.agf" 6 5 11>
+<name "Interrupting Maid" "!PC0004">
+"My Lord, a visitor is here to see you.
+ They have no appointment, but it seems
+ important.
+ Understood, I'll ask them to wait."
+#
+<removesprite -1 11>
+And right now, I wouldn't be surprised if I
+drowned under this sea of paperwork.
+#
+I miss my carefree life of adventure.
+#
+<sprite "ta34a001.agf" 4 4 11>
+<name "Secretary Maid" "!AC0006">
+"My Lord, you've stopped signing."
+#
+<name "Darx">
+"Ah, right.
+ Is that okay?'
+#
+<sprite "ta34a000.agf" 4 4 12>
+<name "Secretary Maid" "!AC0007">
+"Yes.
+ Thank you very much."
+#
+<name "Darx">
+"*sigh*
+ How's reconstruction going?"
+#
+<sprite "ta34a002.agf" 4 4 12>
+<name "Secretary Maid" "!AC0008">
+"The west has largely stabilized.
+ Right now, focus has shifted to the north."
+#
+<name "Darx">
+"Still nothing on the east?"
+#
+<sprite "ta34a001.agf" 4 4 12>
+<name "Secretary Maid" "!AC0009">
+"Correct."
+#
+<name "Darx">
+"...Nowhere close to finished then.
+ Where's Meryl?"
+#
+<sprite "ta34a002.agf" 4 4 12>
+<name "Secretary Maid" "!AC0010">
+"She's on her way to inspect the east."
+#
+<name "Darx">
+"Shouldn't our roles be reversed?"
+#
+<sprite "ta34a004.agf" 4 4 12>
+<name "Secretary Maid" "!AC0011">
+"Not at all.
+ ...Okay, thank you very much.
+ That's all I need for now."
+#
+<name "Darx">
+"Ah, all right."
+#
+<sprite "ta34a000.agf" 4 4 12>
+<name "Secretary Maid" "!AC0012">
+"Please finish the rest by the end of the
+ day."
+#
+<name "Darx">
+"...I'll try."
+#
+<name "Secretary Maid" "!AC0013">
+"Thank you very much."
+#
+<removesprite -1 11>
+<sprite "ta34a000.agf" 2 6 11>
+<sprite "ta34a002.agf" 6 4 11>
+<name "Interrupting Maid" "!PC0005">
+"My Lord, your guest..."
+#
+<removesprite -1 11>
+<name "Darx">
+"Oh, right.
+ Where?"
+#
+<sprite "ta34a001.agf" 4 4 11>
+<name "Interrupting Maid" "!PC0006">
+"Reception Room #3."
+#
+<name "Darx">
+"Okay.
+ Ah, I'll get to those papers later.
+ Give me a break here."
+#
+<removesprite -1 11>
+Being Overlord is rough.
+#
+<background "bg017a0.agf" 10>
+<music 6>
+<background "bg001a2.agf" 10>
+<sprite "ta12a005.agf" 4 4 11>
+<name "Meryl" "!HA0001">
+"It's still bad here, huh?"
+#
+<name "Secretary" "!WB0006">
+"Thank you for coming, Dungeon Master."
+#
+<sprite "ta12a004.agf" 4 4 12>
+<name "Meryl" "!HA0002">
+"You're welcome.
+ How are things going?"
+#
+<name "Secretary" "!WB0007">
+"Much better since the west settled down."
+#
+<sprite "ta12a003.agf" 4 4 12>
+<name "Meryl" "!HA0003">
+"I see. Good.
+ What about security?"
+#
+<name "Secretary" "!WB0008">
+"We have regular patrols, but not enough 
+ people to cover the entire area, so there
+ hasn't been much improvement."
+#
+<name "Secretary" "!WB0009">
+"Some of them have made their lairs in the
+ fallen castles, so chasing after them would
+ be considerably dangerous."
+#
+<sprite "ta12a000.agf" 4 4 12>
+<name "Meryl" "!HA0004">
+"Indeed.
+ Well, we can leave that to the specialists."
+#
+<name "Secretary" "!WB0010">
+"There are specialists in that?"
+#
+<sprite "ta12a000.agf" 4 4 12>
+<name "Meryl" "!HA0005">
+"Such as our Overlord.
+ Well, the problem isn't going in, it's
+ getting back out."
+#
+<name "Secretary" "!WB0011">
+"Hahaha..."
+#
+<sprite "ta12a000.agf" 4 4 12>
+<name "Meryl" "!HA0006">
+"Anyway, let's do what we can for now."
+#
+<name "Secretary" "!WB0012">
+"Yes, ma'am."
+#
+<removesprite -1 11>
+\x2B
+<background "bg017a0.agf" 10>
+<music 41>
+<background "ev043a00.agf" 10>
+<name "Forzelotte" "!XA0001">
+"Hm?
+ You're home early."
+#
+<name "Cheerful Girl" "!HC0001">
+"Ah, it's daddy."
+#
+<name "Horned Girl" "!SB0001">
+"Daddy."
+#
+<name "Pretty Winged Girl" "!RB0001">
+"Not daddy.
+ Father."
+#
+<name "Shy Girl" "!LB0001">
+"Father."
+#
+<name "Long Haired Girl" "!GB0001">
+"Ah, no fair.
+ Me too, me too."
+#
+I pat the heads of all the kids around 
+Forzelotte.
+#
+They're all mine.
+#
+<name "Darx">
+"I wanted to eat early because I'm buried in
+ work."
+#
+<name "Forzelotte" "!XA0002">
+"I can't go anywhere because I have to take
+ care of the children, but if you want to eat,
+ I'm sure there are plenty who would want to
+ join you."
+#
+<name "Forzelotte" "!XA0003">
+"After all, you have quite the brood."
+#
+<name "Cheerful Girl" "!HC0002">
+"Brood?"
+#
+<name "Horned Girl" "!SB0002">
+"What a brood?"
+#
+<name "Forzelotte" "!XA0004">
+"Hahaha..."
+#
+She hugs all of them with a smile.
+#
+A radiant smile.
+#
+These are my children, but they're not hers.
+#
+But there is no resentment on her face.
+#
+She knows why I've had a lot of children.
+#
+<name "Darx">
+"Koze's not back yet?"
+#
+<name "Forzelotte" "!XA0005">
+"I think she's busy with her school club."
+#
+<name "Darx">
+"I see. 
+ Is it okay for the principal to be here like
+ this?"
+#
+<name "Forzelotte" "!XA0006">
+"I am principal specifically to keep you away
+ from it. 
+ So yes, I am far too busy."
+#
+<name "Darx">
+"Hahaha..."
+#
+Forzelotte Academy.
+#
+Built in Forzelotte's Shrine after the Castle
+Baldaquin incident.
+#
+Originally, it was planned to be a school 
+specifically for all my children.
+#
+But because the main school was damaged,
+we made the decision to rebuild it and just
+include that in its design.
+#
+That was an easy problem to solve.
+#
+I accepted it without complaint.
+#
+The next hitch came about my kids going to
+the school. People were worried that'd mean
+that I'd be showing up at the school too.
+#
+In other words, that I'd be hitting on the
+students.
+#
+How rude and pointless.
+#
+I'm Darx.
+#
+Going after my daughter's classmates is...
+#
+Well, there were some incidents.
+#
+I do regret them.
+#
+In order to prevent any more incidents, the
+former Overlord and my wife, Forzelotte, was
+appointed as the principal.
+#
+Also, I was banned from the school.
+#
+Haha...
+The Overlord is powerless...
+#
+<background "bg017a0.agf" 10>
+<music 47>
+<background "ev018b00.agf" 10>
+<name "Miartei" "!SA0001">
+"Is there truly a place where Celestials live
+ alongside demons?"
+#
+<name "Kuriha" "!FA0001">
+"Yes, it's true."
+#
+<name "Miartei" "!SA0002">
+"I'm surprised they don't consider it an
+ issue."
+#
+<name "Kuriha" "!FA0002">
+"They do, but they're still only discussing
+ what to do about it."
+#
+<name "Miartei" "!SA0003">
+"But we're not being told about it?"
+#
+<name "Kuriha" "!FA0003">
+"To be precise, you aren't.
+ I've been told quite a bit."
+#
+<name "Miartei" "!SA0004">
+"...What's that supposed to mean?"
+#
+<name "Kuriha" "!FA0004">
+"Miartei, you are a troublemaker."
+#
+<name "Miartei" "!SA0005">
+"If I'm too much of a troublemaker to know
+ about it, then why do you?"
+#
+<name "Kuriha" "!FA0005">
+"Haha.
+ It was just a joke.
+ Don't be upset."
+#
+<name "Kuriha" "!FA0006">
+"Most people are in the dark about this.
+ The reason I know is because I was given an
+ assignment."
+#
+<name "Miartei" "!SA0006">
+"An assignment?"
+#
+<name "Kuriha" "!FA0007">
+"Yes.
+ Observation."
+#
+<name "Miartei" "!SA0007">
+"..."
+#
+<name "Kuriha" "!FA0008">
+"Don't scowl like that."
+#
+<name "Miartei" "!SA0008">
+"They're still jerking us around, aren't
+ they?"
+#
+<name "Kuriha" "!FA0009">
+"You'd be in trouble if they knew you said
+ that, Miartei."
+#
+<name "Miartei" "!SA0009">
+"I'll be fine as long as you keep your mouth
+ shut.
+ Or were you going to betray me?"
+#
+<name "Kuriha" "!FA0010">
+"No, but I did tell you that I was involved
+ with it.
+ Please keep that in mind."
+#
+<name "Miartei" "!SA0010">
+"...Very well."
+#
+<name "Kuriha" "!FA0011">
+"Haha.
+ Thank you very much."
+#
+<background "bg017a0.agf" 10>
+<music 40>
+<background "bg004a0.agf" 10>
+<sprite "ta08a004.agf" 4 4 11>
+<name "Rakia" "!ZC0001">
+"Welcome, Darx."
+#
+This is Rakia.
+#
+She's the manager of Gunguskar's businesses
+within Forzelotte's Shrine, and also an 
+advisor to me as Overlord.
+#
+<sprite "ta08a005.agf" 4 4 12>
+<name "Rakia" "!ZC0002">
+"Are you here to eat?
+ Or did you have business?"
+#
+<name "Darx">
+"I ate at home, but I'll have a drink.
+ Also, I wanted to talk about that thing you
+ brought up earlier."
+#
+<sprite "ta08a004.agf" 4 4 12>
+<name "Rakia" "!ZC0003">
+"Understood.
+ I'll fetch drinks right away."
+#
+<name "Darx">
+"Okay.
+ ...Just asking, but is something going on
+ today? You seem unusually on top of things."
+#
+<sprite "ta08a023.agf" 4 4 12>
+<name "Rakia" "!ZC0004">
+"Hahaha.
+ I'm always on top of things."
+#
+<name "Darx">
+"Huh?
+ I guess."
+#
+<sprite "ta08a026.agf" 4 4 12>
+<name "Rakia" "!ZC0005">
+"Darx, I am always on top of things.
+ Don't you think so?
+ Don't tell me you think otherwise."
+#
+<name "Darx">
+"Oh, uh, yeah, sure.
+ You're always reliable and helping me out."
+#
+<sprite "ta08a023.agf" 4 4 12>
+<name "Rakia" "!ZC0006">
+"That's right."
+#
+<name "Darx">
+"Hahaha..."
+#
+<name "Darx">
+"Is something going on?"
+#
+<sprite "ta08a004.agf" 4 4 12>
+<name "Rakia" "!ZC0007">
+"Nothing at all.
+ Please excuse me."
+#
+<removesprite -1 11>
+...Something is definitely up.
+#
+I can't bear my curiosity, so I catch a
+passing waitress and grill her.
+#
+<sprite "ta34b002.agf" 4 4 11>
+<name "Waitress" "!PC0007">
+"Actually, there's going to be an inspection
+ here."
+#
+<name "Darx">
+"An inspection?
+ By who?"
+#
+<name "Waitress" "!PC0008">
+"The main office in the Netherworld.
+ I thought it wasn't supposed to be for a
+ while, but all the recent chaos caught their
+ attention."
+#
+<name "Darx">
+"I see."
+#
+<sprite "ta34b000.agf" 4 4 12>
+<name "Waitress" "!PC0009">
+"Which means we're increasing our discounts by
+ twenty percent for a while.
+ Thank you for your patronage!"
+#
+<name "Darx">
+"Right."
+#
+<removesprite -1 11>
+\x2B
+<background "bg017a0.agf" 10>
+<music 39>
+<background "bg002a0.agf" 10>
+<name "Darx">
+"Okay, back to work...
+ Hm?"
+#
+<name "Darx">
+"Huh?
+ Where'd it all go?"
+#
+The stack is almost gone.
+#
+<sprite "ta34a000.agf" 4 4 11>
+<name "Secretary Maid" "!AC0014">
+"See for yourself."
+#
+<name "Darx">
+"For myself?
+ Wasn't there a huge stack before?"
+#
+<name "Secretary Maid" "!AC0015">
+"There was."
+#
+<name "Darx">
+"Um... 
+ Sorry for letting it pile up."
+#
+<removesprite -1 11>
+<name "Loving Demon" "!QB0008">
+"My Lord, we worked really hard."
+#
+<name "Sexy Demon" "!WB0013">
+"All that's left is your final review and
+ approval."
+#
+<name "Darx">
+"I see.
+ You helped out?"
+#
+<name "Loving Demon" "!QB0009">
+"Yes, so, um..."
+#
+<name "Darx">
+"Yeah, I get it.
+ You want a reward."
+#
+<name "Sexy Demon" "!WB0014">
+"Yep."
+#
+<name "Darx">
+"Oh, but... lately I've been channeling most
+ of my lust to the other me."
+#
+<name "Loving Demon" "!QB0010">
+"Just you here is enough."
+#
+<name "Sexy Demon" "!WB0015">
+"Mm... If you'd be so kind..."
+#
+<name "Darx">
+"Ah..."
+#
+<removesprite -1 11>
+I pull the angels to me and hold them close.
+#
+As you can tell from how many children I 
+have, I am insatiable.
+#
+I was like that from the start, but I have
+the excuse of mana now.
+#
+It happened when I fought Forzelotte and
+lost.
+#
+I nearly died.
+#
+She saved my life, but the way she did it
+was pretty rough.
+#
+She forced some of her mana into me.
+#
+I was suddenly and involuntarily full of
+mana, and that drove my soul crazy.
+#
+The only way to keep myself intact is to
+expel mana.
+#
+In other words, sex with women.
+#
+<name "Loving Demon" "!QB0011">
+"Mmm... My Lord..."
+#
+<name "Sexy Demon" "!WB0016">
+"Mm...ah...ahhh..."
+#
+And my stamina was basically unlimited 
+because of the mana, so I had sex with 
+countless women.
+#
+Well, aside from those who come on to me
+themselves, only my enemies.
+#
+Especially my enemies.
+#
+I think it's because of the mana, or maybe
+just my natural wild side, but I want those
+who I can vent myself on without mercy.
+#
+When the Castle Baldaquin incident happened,
+it came with hundreds of enemies, and was the
+start of my brood.
+#
+The more times I did it, the more I've been
+able to control my own mana.
+#
+I've learned how to take mana from the ones
+I have sex with, and how I can more easily
+transfer it into them.
+#
+Recently, I even became able to create 
+another body using just my mana.
+I'm proud of my growth, if I do say so
+myself.
+#
+Well, what I can do with that other me is
+still pretty limited though.
+#
+<name "Loving Demon" "!QB0012">
+"My Lord?"
+#
+<name "Darx">
+"Sorry. I'll get serious now."
+#
+<name "Loving Demon" "!QB0013">
+"Huh? Oh, p-please."
+#
+<name "Sexy Demon" "!WB0017">
+"Me too, please."
+#
+Anyway, now's the time for fun.
+#
+<sprite "ta08a000.agf" 4 4 11>
+<name "Rakia" "!ZC0008">
+"Darx, may I have a moment?"
+#
+<name "Darx">
+"Hm? What is it?"
+#
+<sprite "ta08a001.agf" 4 4 12>
+<name "Rakia" "!ZC0009">
+"Have you heard anything from somebody named
+ Macdo recently?"
+#
+<name "Darx">
+"Macdo? No, doesn't ring a bell.
+ Should I double check?"
+#
+<sprite "ta08a021.agf" 4 4 12>
+<name "Rakia" "!ZC0010">
+"If you would, please."
+#
+<removesprite -1 11>
+Since she's asking so nicely, I have my
+minions check the records.
+#
+<name "Darx">
+"Is there some problem with me meeting this
+ Macdo?"
+#
+<sprite "ta08a021.agf" 4 4 11>
+<name "Rakia" "!ZC0011">
+"No, I don't think the problem would be for
+ you."
+#
+<name "Darx">
+"Huh?"
+#
+<sprite "ta08a019.agf" 4 4 12>
+<name "Rakia" "!ZC0012">
+"Um... I'm sure you've heard rumors, but she
+ was supposed to come to my restaurant."
+#
+<name "Darx">
+"Oh, this Macdo's that inspector then?"
+#
+<sprite "ta08a020.agf" 4 4 12>
+<name "Rakia" "!ZC0013">
+"Yes, but she hasn't arrived yet.
+ I was trying to find out if something
+ happened."
+#
+<name "Darx">
+"I'll help however I can."
+#
+<sprite "ta08a004.agf" 4 4 12>
+<name "Rakia" "!ZC0014">
+"Thank you very much."
+#
+<name "Darx">
+"But if she's coming here, wouldn't she use
+ one of the doors?"
+#
+<sprite "ta08a001.agf" 4 4 12>
+<name "Rakia" "!ZC0015">
+"There's no sign any have been used.
+ I believe she arrived somewhere else and was
+ planning on coming here from the surface."
+#
+<name "Darx">
+"You're sure about that?"
+#
+<sprite "ta08a003.agf" 4 4 12>
+<name "Rakia" "!ZC0016">
+"Yes. She definitely left the Netherworld."
+#
+<name "Darx">
+"Then maybe some adventurers up there found
+ her and killed her?"
+#
+<sprite "ta08a000.agf" 4 4 12>
+<name "Rakia" "!ZC0017">
+"It's difficult to imagine that."
+#
+<sprite "ta08a001.agf" 4 4 12>
+<name "Rakia" "!ZC0018">
+"I believe her strength is approximately
+ comparable to Ekate's."
+#
+<name "Darx">
+"I see. If she's that powerful, she wouldn't
+ be easy prey.
+ At the very least, there'd be word of some
+ kind of major fight."
+#
+<sprite "ta08a004.agf" 4 4 12>
+<name "Rakia" "!ZC0019">
+"Yes."
+#
+<name "Darx">
+"I've got it!
+ She already came, and left again before you
+ realized it."
+#
+<sprite "ta08a003.agf" 4 4 12>
+<name "Rakia" "!ZC0020">
+"That's impossible. She has another assignment
+ besides inspecting my restaurant.
+ I would absolutely expect her to formally
+ introduce herself to you."
+#
+<name "Darx">
+"Ah, so that's why you asked if I knew about
+ her."
+#
+<sprite "ta08a004.agf" 4 4 12>
+<name "Rakia" "!ZC0021">
+"Yes."
+#
+<removesprite -1 11>
+<sprite "ta08a004.agf" 2 5 11>
+<sprite "ta34a001.agf" 6 4 11>
+<name "Secretary Maid" "!AC0016">
+"Pardon me. I looked through the visitor list
+ while you were talking, but I don't see
+ anybody named Macdo."
+#
+<name "Secretary Maid" "!AC0017">
+"I looked for anything similar as well, but
+ nothing."
+#
+<name "Secretary Maid" "!AC0018">
+"Miss Rakia, could she be using an alias?"
+#
+<sprite "ta08a001.agf" 2 5 12>
+<name "Rakia" "!ZC0022">
+"Maybe for the inspection, but I doubt she
+ would for meeting Darx.
+ I suppose we can consider that a
+ possibility."
+#
+<name "Secretary Maid" "!AC0019">
+"Understood.
+ I'll double check each visitor's identity."
+#
+<sprite "ta08a004.agf" 2 5 12>
+<name "Rakia" "!ZC0023">
+"If you find anything, please let me know."
+#
+<name "Secretary Maid" "!AC0020">
+"Understood, ma'am."
+#
+<removesprite -1 11>
+<name "Darx">
+"Would it be okay if I asked around too?"
+#
+<sprite "ta08a023.agf" 4 4 11>
+<name "Rakia" "!ZC0024">
+"There's no need to hide the name of an
+ inspector. Feel free to ask anybody who
+ might be able to help.
+ Thank you very much."
+#
+<name "Darx">
+"Got it."
+#
+<removesprite -1 11>
+I talked to those who had contact with the
+outside world, but nobody could find a trace
+of this Macdo.
+#
+<music 14>
+<background "bg015a0.agf" 10>
+Three days later...
+#
+<music 39>
+<background "bg002a0.agf" 10>
+<sprite "ta08a001.agf" 4 4 11>
+<name "Rakia" "!ZC0025">
+"Darx, I have a request."
+#
+<name "Darx">
+"Hm?"
+#
+<sprite "ta08a003.agf" 4 4 12>
+<name "Rakia" "!ZC0026">
+"I'd like to form a search party to find
+ Macdo."
+#
+<name "Darx">
+"If that's what you want, it's fine.
+ Is she that important?"
+#
+<sprite "ta08a013.agf" 4 4 12>
+<name "Rakia" "!ZC0027">
+"She is absolutely important, but more than
+ that, her disappearance would cause a very
+ troubling situation."
+#
+<name "Darx">
+"Really?"
+#
+<sprite "ta08a014.agf" 4 4 12>
+<name "Rakia" "!ZC0028">
+"She was under orders from Lord Aishies, and
+ also delivering a message from him."
+#
+<name "Darx">
+"Meaning what?"
+#
+<sprite "ta08a015.agf" 4 4 12>
+<name "Rakia" "!ZC0029">
+"She works at the head office.
+ The head office of Gunguskar, located in
+ Gaies Castle in the Netherworld."
+#
+<name "Darx">
+"Gaies? You mean Overlord Aishies' castle?"
+#
+I've been there to meet him twice.
+#
+<sprite "ta08a014.agf" 4 4 12>
+<name "Rakia" "!ZC0030">
+"Meaning that she's under direct order from
+ Lord Aishies."
+#
+<name "Darx">
+"R-Really important then."
+#
+<sprite "ta08a012.agf" 4 4 12>
+<name "Rakia" "!ZC0031">
+"Aside from inspecting us, she was supposed
+ to come here to observe you."
+#
+<name "Darx">
+"Observe me?"
+#
+<sprite "ta08a016.agf" 4 4 12>
+<name "Rakia" "!ZC0032">
+"Yes, she was literally coming here to see
+ you."
+#
+<sprite "ta08a015.agf" 4 4 12>
+<name "Rakia" "!ZC0033">
+"Inspecting my restaurant was just for
+ convenience's sake."
+#
+<name "Darx">
+"I see."
+#
+<sprite "ta08a016.agf" 4 4 12>
+<name "Rakia" "!ZC0034">
+"And now she's missing in the human world."
+#
+<sprite "ta08a014.agf" 4 4 12>
+<name "Rakia" "!ZC0035">
+"It wouldn't be surprising if we were
+ suspected of foul play."
+#
+<name "Darx">
+"Huh?
+ You really think so?"
+#
+<name "Darx">
+"Can't we just tell them that she never
+ showed up?"
+#
+<sprite "ta08a013.agf" 4 4 12>
+<name "Rakia" "!ZC0036">
+"Um... She came here to observe you."
+#
+<name "Darx">
+"Right."
+#
+<sprite "ta08a012.agf" 4 4 12>
+<name "Rakia" "!ZC0037">
+"M-Maybe I didn't make it clear.
+ I'm sorry.
+ By observe, I mean she's an observer for
+ the Netherworld."
+#
+<name "Darx">
+"...Oh!
+ Like a watchdog!"
+#
+<sprite "ta08a021.agf" 4 4 12>
+<name "Rakia" "!ZC0038">
+"I believe you understand now."
+#
+<name "Darx">
+"I get it. If the watchdog goes missing, then
+ the one they were supposed to be keeping an
+ eye on is the primary suspect.
+ Is that it?"
+#
+<sprite "ta08a014.agf" 4 4 12>
+<name "Rakia" "!ZC0039">
+"Yes."
+#
+<sprite "ta08a012.agf" 4 4 12>
+<name "Rakia" "!ZC0040">
+"Even if you didn't actually do anything,
+ people will assume you did, and Lord Aishies
+ won't be able to turn a blind eye to it."
+#
+<name "Darx">
+"The king's gotta keep his house in order,
+ huh?"
+#
+<sprite "ta08a021.agf" 4 4 12>
+<name "Rakia" "!ZC0041">
+"Yes, and even if he didn't do anything, 
+ you've said things that have not made you the
+ most popular person in the Netherworld."
+#
+<name "Darx">
+"Hahaha..."
+#
+<sprite "ta08a016.agf" 4 4 12>
+<name "Rakia" "!ZC0042">
+"In the worst case, it could mean a very
+ dangerous situation."
+#
+<name "Darx">
+"Meaning what?"
+#
+<sprite "ta08a018.agf" 4 4 12>
+<name "Rakia" "!ZC0043">
+"An actual war with the Netherworld."
+#
+<name "Darx">
+"...What would Gunguskar do if that that
+ happened?"
+#
+<sprite "ta08a021.agf" 4 4 12>
+<name "Rakia" "!ZC0044">
+"It pains me to say this, but please try to
+ avoid war with the Netherworld."
+#
+<removesprite -1 11>
+Meaning that we wouldn't stand a chance.
+#
+<name "Darx">
+"It sounds pretty bad for this one person
+ to not show up."
+#
+<sprite "ta08a014.agf" 4 4 11>
+<name "Rakia" "!ZC0045">
+"Yes, even though that's why she was sent
+ here in the first place..."
+#
+<name "Darx">
+"Could somebody have killed or captured this
+ Macdo?"
+#
+<sprite "ta08a012.agf" 4 4 12>
+<name "Rakia" "!ZC0046">
+"The possibility isn't out of the question,
+ but first, let's make sure she's not in
+ Forzelotte's Shrine."
+#
+<sprite "ta08a020.agf" 4 4 12>
+<name "Rakia" "!ZC0047">
+"I hate to tempt fate, but if her body is 
+ found here, it's all over."
+#
+<name "Darx">
+"...How long do we have?"
+#
+<sprite "ta08a014.agf" 4 4 12>
+<name "Rakia" "!ZC0048">
+"I think we'll still be okay for about a
+ week."
+#
+<name "Darx">
+"Not time to give up hope yet then."
+#
+<removesprite -1 11>
+<name "Darx">
+"Let's see what we can do.
+ Anyway, I'll contact Lord Aishies and try to
+ smooth things over so they don't go south."
+#
+<sprite "ta34a001.agf" 4 4 11>
+<name "Secretary Maid" "!AC0021">
+"Yes, sir."
+#
+<name "Darx">
+"Rakia, make a search party, but be thorough.
+ Keep the search in the merchant areas for
+ now."
+#
+<sprite "ta08a021.agf" 4 4 11>
+<name "Rakia" "!ZC0049">
+"Understood.
+ May I have permission to go wherever we need
+ to?"
+#
+<name "Darx">
+"Yeah, that's fine.
+ The school and Forzelotte's room are yours to
+ check out. 
+ Oh, I'll tell her about it too."
+#
+<sprite "ta08a022.agf" 4 4 12>
+<name "Rakia" "!ZC0050">
+"Thank you very much."
+#
+<removesprite -1 11>
+Forzelotte's Shrine suddenly became a bustle
+of activity, but Macdo was found before the
+search party was even formed.
+#
+<background "bg017a0.agf" 10>
+<music 22>
+<background "ev010b00.agf" 10>
+<name "Rakia" "!ZC0051">
+"Um..."
+#
+<name "Macdo" "!ZA0009">
+"Mmgh! Mmmgh!
+ Nnnngh..."
+#
+In a room in the royal palace, wrapped in
+tentacles, being violated relentlessly.
+#
+<name "Macdo" "!ZA0010">
+"Ah...aah..."
+#
+These tentacles...
+#
+They're the other me.
+#
+I made it to deal with my lust.
+#
+Rakia says it looks like this because it's
+the avatar of my lust.
+#
+This me lives and breathes on its own, dealing
+with my lust.
+#
+Meaning it has sex with women.
+#
+It's just an extension of myself, and
+completely under control of the real me.
+#
+But it's not very bright.
+#
+About as smart as a well trained dog.
+#
+Most of its brain is focused on how to have
+sex with women, but since it was created to
+have sex without killing them, it's not 
+exactly safe to be around.
+#
+In particular, it doesn't think much about
+who it's with.
+#
+It won't go after my daughters because they
+have the same mana as me, but it's a threat
+to everybody else.
+#
+So it's kept locked up in a room by itself,
+and women for it to have sex with are thrown
+in.
+#
+Everybody knows about it.
+#
+And everybody knows to stay far away from the
+room.
+#
+I have no idea what she was doing there.
+#
+I wouldn't have thought she'd be caught by it.
+#
+The room is locked tight, but it's not like
+it's all that strong.
+#
+A regular person wouldn't stand a chance 
+against it, but a trained fighter would be
+able to handle it as long as they weren't
+careless.
+#
+Anyway, I touch one of my tentacles.
+#
+I can share its senses without touching it,
+but I can read its memories through contact,
+and recall the memories of the tentacles
+violating women.
+#
+<background "ev010a00.agf" 10>
+Macdo entered the room.
+#
+She was caught by complete surprise.
+#
+My tentacles were pleased to see a new woman
+and grabbed her by the arms and legs.
+#
+The rest is history.
+#
+And our memories align.
+#
+Ah, it was then...
+#
+Now that I understand what happened, I ask
+Rakia what we're going to do about it.
+#
+<name "Rakia" "!ZC0052">
+"W-We can't just say we didn't see anything,
+ can we?"
+#
+I've never seen her in tears before.
+#
+<background "bg017a0.agf" 10>
+<music 39>
+<background "bg002a0.agf" 10>
+<sprite "ta08a021.agf" 4 4 11>
+<name "Rakia" "!ZC0053">
+"I-In any case, she reported that she arrived
+ late herself, so the Netherworld won't be an
+ issue."
+#
+<name "Darx">
+"That's a relief."
+#
+<removesprite -1 11>
+<sprite "ta08a021.agf" 2 4 11>
+<sprite "ta02a019.agf" 6 5 11>
+<name "Macdo" "!ZA0011">
+"...May I introduce myself now?"
+#
+<name "Darx">
+"Y-Yeah.
+ Go ahead."
+#
+<removesprite -1 11>
+<sprite "ta02a020.agf" 4 4 11>
+<name "Macdo" "!ZA0012">
+"Macdo Markmalta, Gunguskar Company
+ headquarters management."
+#
+<name "Macdo" "!ZA0013">
+"Under orders of Great Lord Aishies, I will
+ be investigating you, Lord Darx.
+ The pleasure is yours."
+#
+<name "Darx">
+"Not like I can say no."
+#
+<sprite "ta02a019.agf" 4 4 12>
+<name "Macdo" "!ZA0014">
+"You could, but there would be consequences."
+#
+<name "Darx">
+"I'm sure.
+ ...Pleased to meet you."
+#
+<removesprite -1 11>
+I think about what Rakia told me before this.
+#
+<sprite "ta08a021.agf" 4 4 11>
+<name "Rakia" "!ZC0054">
+"Someone who works at Gunguskar headquarters
+ is far above any branch manager.
+ Please don't upset her, though it may be too
+ late for that."
+#
+<removesprite -1 11>
+<name "Darx">
+"Uh, there were some unfortunate accidents,
+ so, um..."
+#
+<sprite "ta02a028.agf" 4 4 11>
+<name "Macdo" "!ZA0015">
+"Overlord Darx, in regards to that, I share
+ my own part of the blame."
+#
+<name "Macdo" "!ZA0016">
+"Despite my orders from Lord Aishies, I
+ prioritized my inspection of our own company
+ and concealed my identity."
+#
+<removesprite -1 11>
+It wasn't just putting on a costume.
+She was using some kind of accessory that
+suppressed her own mana.
+#
+That's why she wasn't able to get away when
+the other me caught her.
+#
+<sprite "ta02a019.agf" 4 4 11>
+<name "Macdo" "!ZA0017">
+"If neither side has a stance, the question
+ becomes what to do about it."
+#
+<name "Macdo" "!ZA0018">
+"If you don't mind, I would prefer to simply
+ put it behind us."
+#
+<name "Darx">
+"If you're fine with it, that works for me."
+#
+<sprite "ta02a028.agf" 4 4 12>
+<name "Macdo" "!ZA0019">
+"I'm the one who suggested it."
+#
+<name "Darx">
+"Then nothing happened."
+#
+<sprite "ta02a019.agf" 4 4 12>
+<name "Macdo" "!ZA0020">
+"Yes, precisely."
+#
+<removesprite -1 11>
+She's not mad about the tentacles?
+#
+Well, I guess it makes sense.
+#
+She did break into the room.
+#
+<sprite "ta02a019.agf" 4 4 11>
+<name "Macdo" "!ZA0021">
+"Now then, let's get right to it, Darx."
+#
+<name "Darx">
+"Hm?"
+#
+<removesprite -1 11>
+<music 46>
+<background "ev011a00.agf" 10>
+<name "Macdo" "!ZA0022">
+"I have only had a brief chance to observe
+ you, but I already have significant doubts
+ as to your capabilities."
+#
+<name "Macdo" "!ZA0023">
+"Are you able to prove to me that you're
+ worthy of being Overlord?"
+#
+<name "Darx">
+"..."
+#
+I glance at Rakia.
+#
+<name "Rakia" "!ZC0055">
+"Nothing happened?
+ It won't be a problem?
+ There's just no way that's true.
+ She's definitely mad about it."
+#
+The look in her eyes make it clear I'm on my
+own.
+#
+I can't really argue with that.
+#
+<name "Darx">
+"Uh, what do you mean?"
+#
+<name "Macdo" "!ZA0024">
+"Maybe I was too indirect.
+ Let me make it simple for you."
+#
+<name "Macdo" "!ZA0025">
+"I have judged that your current abilities are
+ insufficient to be Overlord."
+#
+<name "Macdo" "!ZA0026">
+"If you disagree with this decision, then
+ prove yourself to me."
+#
+<name "Darx">
+"What reasons do you have to think I'm
+ 'insufficient?'"
+#
+<background "ev011b00.agf" 12>
+<name "Macdo" "!ZA0027">
+"Too many to count."
+#
+Documents appear out of thin air around her.
+#
+Some are papers identifying her, some are
+formal declarations of her authority, but most
+are research reports on me.
+#
+<name "Macdo" "!ZA0028">
+"Your leadership of singular or small groups
+ is sufficient, but you are grossly incapable
+ of commanding a large army, running a city,
+ or similar."
+#
+<name "Darx">
+"This gross incapability is the big reason
+ why I'm insufficient?"
+#
+That's not wrong, per se.
+#
+I would readily admit that myself.
+#
+<name "Macdo" "!ZA0029">
+"If you cannot convince me otherwise, then my
+ decision will be to revoke your status as
+ Overlord."
+#
+<name "Darx">
+"Ah, hold up.
+ Do you even have the authority to fire me?"
+#
+<name "Macdo" "!ZA0030">
+"I do not myself, but I report directly to
+ Lord Ashies of the Netherworld.
+ My report will go not only to him, but to
+ all of his aides."
+#
+<name "Darx">
+"...I see."
+#
+Same as if she had gone missing then.
+It's not something he'd be able to ignore.
+#
+She may not have the direct authority, but
+she can make it happen.
+#
+<name "Macdo" "!ZA0031">
+"Do we have an understanding?"
+#
+<name "Darx">
+"So it's war then."
+#
+<name "Macdo" "!ZA0032">
+"Huh?"
+#
+<name "Darx">
+"It's obvious it doesn't matter what I do.
+ You've already made up your mind.
+ And I don't feel like being your dancing
+ monkey."
+#
+<name "Darx">
+"I don't care if I'm not officially an
+ Overlord, but getting fired would cause me a
+ lot of problems."
+#
+Yeah, that barely begins to cover it.
+#
+<name "Darx">
+"I've got a lot of kids to take care of too."
+#
+<name "Macdo" "!ZA0033">
+"Oh?"
+#
+She responds to my open hostility.
+#
+<name "Macdo" "!ZA0034">
+"War? With the Netherworld?
+ Or with me?"
+#
+<name "Darx">
+"Both."
+#
+<name "Macdo" "!ZA0035">
+"Both? Heheheh...
+ Then I would have to stop that...
+ Perhaps by killing you right here."
+#
+<name "Darx">
+"Don't be ridiculous.
+ I don't know how you normally are, but the
+ other me had its way with you for days."
+#
+<name "Darx">
+"I don't think I'd even break a sweat killing
+ you right now."
+#
+<name "Darx">
+"Oh, but I think I'll throw you back to the
+ tentacles before I do.
+ It looked to me like they weren't finished
+ with you yet."
+#
+<background "ev011b01.agf" 12>
+<name "Macdo" "!ZA0036">
+"Y-You bastard!"
+#
+She moves to fight, but someone gets in the
+way.
+#
+<name "Rakia" "!ZC0056">
+"H-H-Hold on.
+ Hold on just a minute."
+#
+Rakia.
+#
+Ah, now she's really in tears.
+#
+<name "Rakia" "!ZC0057">
+"D-Darx, don't... don't lose your temper.
+ That won't help."
+#
+<name "Rakia" "!ZC0058">
+"Yes, that won't help anything.
+ Losing your temper never does any good.
+ Only merchants need to make snap decisions.
+ A king deliberates thoroughly before acting."
+#
+<name "Rakia" "!ZC0059">
+"Right?"
+#
+That final 'right' robs me of fight.
+She turns to Macdo.
+#
+<name "Rakia" "!ZC0060">
+"Miss Macdo, you're angry because and saying
+ that because you're mad at him for what
+ happened?"
+#
+<name "Macdo" "!ZA0037">
+"...No, I truly believe that he is
+ unqualified."
+#
+<name "Rakia" "!ZC0061">
+"Yes, I see.
+ I apologize for my assumption."
+#
+<name "Rakia" "!ZC0062">
+"However, you may not have realized before
+ coming here that there are a significant
+ number of Celestials here."
+#
+<name "Rakia" "!ZC0063">
+"From what you've said, I believe you want to
+ avoid this place becoming one of Celestia's
+ outposts.
+ Is that correct?"
+#
+<name "Macdo" "!ZA0038">
+"...As a demon, I would prefer that not to
+ happen."
+#
+<name "Rakia" "!ZC0064">
+"Yes, right?"
+#
+<name "Macdo" "!ZA0039">
+"...Perhaps I spoke out of line.
+ I apologize, Darx."
+#
+<name "Macdo" "!ZA0040">
+"However, I do not take back what I said."
+#
+<name "Macdo" "!ZA0041">
+"Your inadequacies are clear."
+#
+<name "Macdo" "!ZA0042">
+"Prove to me that you are not unqualified."
+#
+She's not backing down.
+#
+Rakia speaks up even before I reach for my
+sword.
+#
+<name "Rakia" "!ZC0065">
+"What if Gunguskar were to provide a task for
+ him to complete to prove himself.
+ Would that suffice?"
+#
+<name "Rakia" "!ZC0066">
+"He would be able to prove his capabilities,
+ and because our company's reputation would
+ be on the line, it would be impartial and
+ fair."
+#
+<name "Rakia" "!ZC0067">
+"And Darx, wouldn't that also assure you that
+ you are being given a fair chance and would
+ be agreeable with you?"
+#
+<name "Darx">
+"..."
+#
+<name "Rakia" "!ZC0068">
+"...Darx, please don't start any more fights
+ today."
+#
+<name "Rakia" "!ZC0069">
+"I don't want us to be enemies either."
+#
+<name "Darx">
+".........Fine.
+ If Gunguskar and Rakia put their names on
+ this, I'll prove what I'm capable of."
+#
+<name "Rakia" "!ZC0070">
+"Macdo."
+#
+<music 39>
+<background "bg002a0.agf" 10>
+<sprite "ta08a016.agf" 2 4 11>
+<sprite "ta02a023.agf" 6 5 11>
+<name "Macdo" "!ZA0043">
+"I'll allow you and Gunguskar to officially
+ advocate for him."
+#
+<sprite "ta08a023.agf" 2 4 12>
+<name "Rakia" "!ZC0071">
+"Thank you very much."
+#
+<removesprite -1 11>
+\x2B
+<music 15>
+<background "bg001a2.agf" 10>
+After that meeting, the two of them had their
+own private meeting.
+#
+To discuss how to measure me.
+#
+All we're doing is delaying the problem.
+#
+If I can't change her mind, I'll lose my
+position as Overlord.
+#
+If I fight back, that means war.
+#
+Maybe I should just abdicate.
+#
+...But when I think about Forzelotte, I know
+that's not an option.
+#
+We could always try for a puppet ruler...
+#
+Let's see what Rakia can manage for now.
+#
+If she's involved, it shouldn't be too awful.
+#
+<name "Darx">
+"My lack of ability isn't in question here,
+ so I've definitely got to figure out 
+ something."
+#
+<name "Loving Demon" "!QB0014">
+"But I don't think there's anything wrong with
+ you not being able to do things yourself."
+#
+<name "Sexy Demon" "!WB0018">
+"That's right. You put the right people in the
+ right places. I think it's your job to make
+ sure that they're all doing a good job."
+#
+<name "Loving Demon" "!QB0015">
+"Put that way, your personal failings are
+ actually quite admirable."
+#
+<name "Darx">
+"Hahaha...
+ Thanks."
+#
+<removesprite -1 11>
+\x2B
+<music 14>
+<background "bg015a0.agf" 10>
+\x2B\x2A 10 
+<music 39>
+<background "bg002a0.agf" 10>
+<sprite "ta02a001.agf" 4 4 11>
+<name "Macdo" "!ZA0045">
+"To prove himself, you must build a city in
+ the specified location on your own."
+#
+<name "Darx">
+"...Build a city?"
+#
+<sprite "ta02a002.agf" 4 4 12>
+<name "Macdo" "!ZA0047">
+"The main thing in question is your ability to
+ handle domestic affairs.
+ Does this not seem appropriate?"
+#
+<name "Darx">
+"I guess, but all by myself?"
+#
+<sprite "ta02a001.agf" 4 4 12>
+<name "Macdo" "!ZA0048">
+"You heard me.
+ You will bring nobody with you from 
+ Forzelotte's Shrine."
+#
+<sprite "ta02a028.agf" 4 4 12>
+<name "Macdo" "!ZA0049">
+"And might I add, your other self, that will
+ be locked up here where it is."
+#
+<name "Darx">
+"But that's me."
+#
+<sprite "ta02a000.agf" 4 4 12>
+<name "Macdo" "!ZA0050">
+"Most of the mana comprising it belongs to the
+ former Overlord."
+#
+<sprite "ta02a001.agf" 4 4 12>
+<name "Macdo" "!ZA0051">
+"It will stay sealed where it is."
+#
+<sprite "ta02a028.agf" 4 4 12>
+<name "Macdo" "!ZA0052">
+"Don't worry.
+ Rakia told me all about it.
+ I'll feed it enough women.
+ Will that be satisfactory?"
+#
+<name "Darx">
+"...Let her choose the women."
+#
+<removesprite -1 11>
+<sprite "ta08a004.agf" 2 4 11>
+<sprite "ta02a028.agf" 6 5 11>
+<name "Rakia" "!ZC0072">
+"I understand."
+#
+<removesprite -1 11>
+<sprite "ta02a001.agf" 4 4 11>
+<name "Macdo" "!ZA0053">
+"Now then, I said by yourself, but don't
+ worry. Even a qualified Overlord would take a
+ significant time to accomplish something of
+ this scope."
+#
+<sprite "ta02a000.agf" 4 4 12>
+<name "Macdo" "!ZA0054">
+"So Gunguskar will supply you with someone to
+ support you."
+#
+<name "Darx">
+"Support? Like Rakia?
+ Or you?"
+#
+<sprite "ta02a001.agf" 4 4 12>
+<name "Macdo" "!ZA0055">
+"Rakia has a business here.
+ I'm too busy, and I refuse."
+#
+<name "Darx">
+"Then who?"
+#
+<sprite "ta02a000.agf" 4 4 12>
+<name "Macdo" "!ZA0056">
+"I've arranged a newcomer for this.
+ Come in."
+#
+<removesprite -1 11>
+<sprite "ta01a004.agf" 4 4 11>
+<name "Sofia" "!ZB0001">
+"Pleased to meet you.
+ I'm Sofia."
+#
+<name "Darx">
+"This is the support I'm getting from
+ Gunguskar?"
+#
+<removesprite -1 11>
+<sprite "ta01a004.agf" 2 5 11>
+<sprite "ta02a001.agf" 6 4 11>
+<name "Macdo" "!ZA0057">
+"That's right."
+#
+<name "Darx">
+"If she's new, how do I know she's any good?"
+#
+<sprite "ta02a002.agf" 6 4 12>
+<name "Macdo" "!ZA0058">
+"She's new here, but she's an employee of
+ Gunguskar."
+#
+<sprite "ta02a000.agf" 6 4 12>
+<name "Macdo" "!ZA0059">
+"She will not disappoint you."
+#
+<name "Darx">
+"I see."
+#
+<sprite "ta01a026.agf" 2 5 12>
+<name "Sofia" "!ZB0002">
+"Eep!"
+#
+<removesprite -1 11>
+Just jolts when I look at her.
+#
+Is she really okay?
+#
+<sprite "ta02a001.agf" 4 4 11>
+<name "Macdo" "!ZA0060">
+"The city will be built in the location
+ specified. The foundation is already
+ prepared. If you are not grossly lacking,
+ I'm sure you'll be able to figure it out."
+#
+<name "Darx">
+"...Fine.
+ So when do we begin?"
+#
+<sprite "ta02a028.agf" 4 4 12>
+<name "Macdo" "!ZA0061">
+"Immediately."
+#
+<name "Darx">
+"Immediately?
+ Huh?
+ Isn't there a lot to figure out?"
+#
+<sprite "ta02a032.agf" 4 4 12>
+<name "Macdo" "!ZA0062">
+"No."
+#
+<sprite "ta02a028.agf" 4 4 12>
+<name "Macdo" "!ZA0063">
+"The current dungeon master will manage
+ Forzelotte's Shrine while you're gone.
+ Gunguskar will support her in all respects."
+#
+<removesprite -1 11>
+I'm not sure Forzelotte's Shrine is what I'm
+worried about.
+#
+<sprite "ta02a028.agf" 4 4 11>
+<name "Macdo" "!ZA0064">
+"I've fully briefed Sofia.
+ Ask her for what you need to know."
+#
+<name "Darx">
+"Yeah, yeah."
+#
+<removesprite -1 11>
+\x2B
+<music 42>
+<background "bg005a0.agf" 10>
+<sprite "ta01a000.agf" 4 4 11>
+<name "Sofia" "!ZB0004">
+"I'm sorry we have to leave so suddenly."
+#
+<name "Darx">
+"It's fine.
+ I'm not allowed to talk to anybody or get
+ any advice now that I know I have to do this,
+ right?"
+#
+<sprite "ta01a001.agf" 4 4 12>
+<name "Sofia" "!ZB0005">
+"N-No, I don't think so.
+ Um, you can come back here whenever you want."
+#
+<name "Darx">
+"Really?"
+#
+<sprite "ta01a004.agf" 4 4 12>
+<name "Sofia" "!ZB0007">
+"Yes. You're supposed to prove yourself by
+ building a city, so you need people to see
+ you do it and change their mind, right?"
+#
+<name "Darx">
+"Well, I guess so."
+#
+<sprite "ta01a005.agf" 4 4 12>
+<name "Sofia" "!ZB0008">
+"So the city has to make food, materials, and
+ money!"
+#
+<sprite "ta01a006.agf" 4 4 12>
+<name "Sofia" "!ZB0009">
+"And every so often, you send some amount of
+ it to Forzelotte's Shrine, thereby proving
+ that you're capable of being an Overlord."
+#
+<name "Darx">
+"I see."
+#
+<sprite "ta01a033.agf" 4 4 12>
+<name "Sofia" "!ZB0010">
+"It won't be too much or too fast...
+ In the worst case, you can do it by force."
+#
+<name "Darx">
+"By force?"
+#
+<sprite "ta01a005.agf" 4 4 12>
+<name "Sofia" "!ZB0011">
+"If you can't produce it in the city, you can
+ take it from somewhere else."
+#
+<name "Darx">
+"........."
+#
+<sprite "ta01a004.agf" 4 4 12>
+<name "Sofia" "!ZB0012">
+"Small raids would absolutely be the right of
+ an Overlord.
+ Rakia suggested that."
+#
+<name "Darx">
+"Sounds pretty underhanded."
+#
+<sprite "ta01a034.agf" 4 4 12>
+<name "Sofia" "!ZB0013">
+"Hahaha..."
+#
+<sprite "ta01a004.agf" 4 4 12>
+<name "Sofia" "!ZB0014">
+"She apparently put a lot of effort into 
+ determining where we'd be going.
+ I wouldn't worry about it."
+#
+<name "Darx">
+"Yeah, no argument."
+#
+<removesprite -1 11>
+I step through the door.
+#
+These are devices that magically teleport you
+in an instant.
+#
+Our destination is where I'll build a city.
+#
+And prove that I'm an Overlord.
+#
+To save Forzelotte's Shrine.
+#
+<music 62>
+<background "bg014a0.agf" 10>
+<name "Darx">
+"..."
+#
+<sprite "ta01a022.agf" 4 4 11>
+<name "Sofia" "!ZB0015">
+"..."
+#
+<name "Darx">
+"Just asking, but is this the right place?"
+#
+<sprite "ta01a028.agf" 4 4 12>
+<name "Sofia" "!ZB0016">
+"I-I've double checked.
+ This is it."
+#
+<removesprite -1 11>
+...
+#
+There's nothing here.
+#
+Just some cave.
+#
+<name "Darx">
+"Inside the cave, maybe?"
+#
+It seems deep, but there's no sign of anything
+in there.
+#
+It's just some cave.
+#
+<sprite "ta01a005.agf" 4 4 11>
+<name "Sofia" "!ZB0017">
+"U-Um, Miss Macdo said to open this bag when
+ I was in trouble!"
+#
+<name "Darx">
+"This is certainly troubling."
+#
+<sprite "ta01a033.agf" 4 4 12>
+<name "Sofia" "!ZB0018">
+"Yes, very troubling."
+#
+<name "Darx">
+"Open it up."
+#
+<sprite "ta01a034.agf" 4 4 12>
+<name "Sofia" "!ZB0019">
+"Right!"
+#
+<removesprite -1 11>
+She opens the bag from Macdo.
+#
+There are two stones in it.
+#
+<sprite "ta01a022.agf" 4 4 11>
+<name "Sofia" "!ZB0020">
+"...Flint?"
+#
+<name "Darx">
+"..."
+#
+<removesprite -1 11>
+<music 42>
+<background "bg005a0.agf" 10>
+\x2B\x2A 10 
+<music 40>
+<background "bg004a0.agf" 10>
+<name "Darx">
+"Excuse me.
+ The hardest drink you've got."
+#
+<sprite "ta01a010.agf" 4 4 11>
+<name "Sofia" "!ZB0022">
+"For me too."
+#
+<removesprite -1 11>
+<sprite "ta34b006.agf" 4 4 11>
+<name "Waitress" "!HC0003">
+"R-Right away."
+#
+<removesprite -1 11>
+It comes and I take a huge swig immediately.
+#
+<music 42>
+<background "bg005a0.agf" 10>
+\x2B\x2A 10 
+<music 62>
+<background "bg014a0.agf" 10>
+<name "Darx">
+"I swear I won't lose!"
+#
+<sprite "ta01a013.agf" 4 4 11>
+<name "Sofia" "!ZB0023">
+"Yeah!"
+#
+<removesprite -1 11>
+I don't know what's going to happen next, but
+this was the start of a strong bond between
+Sofia and me.
+#
+<background "bg017a0.agf" 10>
+\x2B\x42
+<video "data1.dat">
+\x2B\x42
+<background "bg017a0.agf" 10>
+\x2B
+<music 62>
+<background "bg014a0.agf" 10>
+<name "Darx">
+"Getting drunk only gets you so far..."
+#
+<sprite "ta01a036.agf" 4 4 11>
+<name "Sofia" "!ZB0024">
+"Yeah..."
+#
+<removesprite -1 11>
+It's been three days since we first came here.
+#
+I searched the area, but there's nothing.
+#
+When I needed to sleep or eat, I went back to
+Forzelotte's Shrine.
+#
+This place is on the southern side of the
+Forest of the Overlord.
+#
+It's somewhere that was relatively untouched
+by all the Castle Baldaquin chaos.
+#
+I've been here a few times back when I was an
+adventurer, but it wasn't good hunting.
+#
+<sprite "ta01a025.agf" 4 4 11>
+<name "Sofia" "!ZB0025">
+"Rakia helped choose this place.
+ I can't imagine there's really nothing
+ here."
+#
+<name "Darx">
+"Yeah."
+#
+<sprite "ta01a024.agf" 4 4 12>
+<name "Sofia" "!ZB0026">
+"Then..."
+#
+<name "Darx">
+"Flint."
+#
+<sprite "ta01a025.agf" 4 4 12>
+<name "Sofia" "!ZB0027">
+"Meaning we need fire..."
+#
+<name "Darx">
+"Meaning it's in the cave."
+#
+<sprite "ta01a036.agf" 4 4 12>
+<name "Sofia" "!ZB0028">
+"Yeah."
+#
+<name "Darx">
+"If it was from Rakia, I wouldn't worry, but
+ coming from Macdo, I'm not sure that's a
+ safe assumption."
+#
+<sprite "ta01a010.agf" 4 4 12>
+<name "Sofia" "!ZB0029">
+"Let's try our best to figure this out."
+#
+<name "Darx">
+"Right!
+ But first...
+ Can you fight?"
+#
+<sprite "ta01a028.agf" 4 4 12>
+<name "Sofia" "!ZB0030">
+"No way.
+ I am hopeless when it comes to anything
+ violent."
+#
+<name "Darx">
+"I see...
+ You can run though?"
+#
+<sprite "ta01a010.agf" 4 4 12>
+<name "Sofia" "!ZB0031">
+"I should be okay there."
+#
+<name "Darx">
+"Good enough.
+ If there aren't too many, I can keep you
+ safe.
+ Follow me."
+#
+<sprite "ta01a004.agf" 4 4 12>
+<name "Sofia" "!ZB0032">
+"O-Okay."
+#
+<sprite "ta01a018.agf" 4 4 12>
+<name "Sofia" "!ZB0033">
+"Um..."
+#
+<name "Darx">
+"Hm?
+ What is it?"
+#
+<sprite "ta01a004.agf" 4 4 12>
+<name "Sofia" "!ZB0034">
+"You're pretty different from the rumors..."
+#
+<name "Darx">
+"What rumors are these?"
+#
+<sprite "ta01a024.agf" 4 4 12>
+<name "Sofia" "!ZB0035">
+"Um...
+ Hahaha..."
+#
+<name "Darx">
+"Out with it.
+ I won't be mad."
+#
+<sprite "ta01a025.agf" 4 4 12>
+<name "Sofia" "!ZB0036">
+"A-As soon as you see a woman, you attack."
+#
+<name "Darx">
+"Hahahahaha..."
+#
+<name "Darx">
+"Don't get careless.
+ They're not wrong."
+#
+<sprite "ta01a024.agf" 4 4 12>
+<name "Sofia" "!ZB0037">
+"Huh?"
+#
+<name "Darx">
+"Hahahahaha!"
+#
+<sprite "ta01a037.agf" 4 4 12>
+<name "Sofia" "!ZB0039">
+"Huh?
+ Huh!?
+ Huh!?!?"
+#
+<name "Darx">
+"Just kidding.
+ It's just a joke.
+ You're on my side, right?"
+#
+<sprite "ta01a026.agf" 4 4 12>
+<name "Sofia" "!ZB0040">
+"Y-Yes?"
+#
+<name "Darx">
+"I don't hold back when it comes to enemies,
+ but I don't raise a hand against friends.
+ You can trust me."
+#
+<name "Darx">
+"And in the future, get your information from
+ Forzelotte's Shrine."
+#
+<sprite "ta01a035.agf" 4 4 12>
+<name "Sofia" "!ZB0041">
+"Um, that's where I heard it.
+ That's exactly what they said..."
+#
+<name "Darx">
+"I would dearly love to hear who told you
+ that."
+#
+<sprite "ta01a033.agf" 4 4 12>
+<name "Sofia" "!ZB0042">
+"Hahaha...
+ Please no."
+#
+<name "Darx">
+"Hmm...
+ Well, I haven't laid a finger on you,
+ right?"
+#
+<sprite "ta01a004.agf" 4 4 12>
+<name "Sofia" "!ZB0043">
+"T-That's true."
+#
+<name "Darx">
+"Besides, we can go back to Forzelotte's
+ Shrine. I have no shortage of women."
+#
+<sprite "ta01a036.agf" 4 4 12>
+<name "Sofia" "!ZB0044">
+"That's right.
+ But I do have my pride as a woman..."
+#
+<name "Darx">
+"Come on, let's go."
+#
+<sprite "ta01a037.agf" 4 4 12>
+<name "Sofia" "!ZB0045">
+"R-Right!"
+#
+<removesprite -1 11>
+<music 55>
+<background "bg015a0.agf" 10>
+Ten days later...
+#
+I've spent the whole time searching that cave.
+#
+There's nothing special about it.
+#
+There's only a few monsters, and they're all
+so weak that they ran off as soon as they saw
+me.
+#
+It's not dangerous.
+#
+The only dangerous thing here is the cave
+itself.
+#
+It's not an actual dungeon, just a regular,
+natural cave system.
+#
+So it's hard finding out where I'm even 
+supposed to be going.
+#
+<name "Sofia" "!ZB0046">
+"O-Overlord, p-please help me."
+#
+<name "Darx">
+"Don't struggle.
+ Hold still."
+#
+<name "Sofia" "!ZB0047">
+"Eek! I-I'm f-falling..."
+#
+<name "Darx">
+"You're fine.
+ Come on."
+#
+<name "Sofia" "!ZB0048">
+"T-Thank you very much."
+#
+I could be going faster if I was by myself,
+but having her with me is slowing me down.
+#
+Maybe I should leave her behind.
+#
+...No. If Macdo has something up her sleeve,
+I want to have someone from Gunguskar with me
+in case I need what's in her head.
+#
+It's the right call to bring her.
+#
+And that was proven correct when we reached
+the end of the cave.
+#
+<name "Sofia" "!ZB0049">
+"Overlord, there's something here."
+#
+<name "Darx">
+"Hm?"
+#
+Doesn't look like anything to me.
+#
+But she casts some kind of spell and then I
+can see it too.
+#
+<name "Sofia" "!ZB0050">
+"An elevator up?"
+#
+<name "Darx">
+"What's this doing here?"
+#
+We exchange a look and get on.
+#
+<music 11>
+<background "bg999a0.agf" 10>
+\x50 0  -500  0 \x50 0  0  1 \x2B\x2A 20 
+<name "Sofia" "!ZB0051">
+"This is..."
+#
+We emerge in a forest.
+#
+Considering how high up we are, this must be
+the surface.
+#
+But the thing that steals the view is the
+giant tree right in front of us.
+#
+I saw a lot of big trees as an adventurer,
+but this one is a whole different story.
+#
+Also, I can see windows and a door on it.
+#
+Is that a house?
+#
+I would assume the doors and windows are
+human size, but the trees so big that it
+makes it look like a house for fairies.
+#
+<sprite "ta08a004.agf" 4 4 11>
+<name "Rakia" "!ZC0073">
+"We've been waiting for you."
+#
+<name "Darx">
+"Rakia?
+ Wait, does that mean this is the actual place
+ for the city?"
+#
+<sprite "ta08a023.agf" 4 4 12>
+<name "Rakia" "!ZC0074">
+"Yes."
+#
+<name "Darx">
+"You could've just brought us here."
+#
+<sprite "ta08a024.agf" 4 4 12>
+<name "Rakia" "!ZC0075">
+"I'm very sorry.
+ It took time to grow the tree and make it
+ ready."
+#
+<name "Darx">
+"You grew that tree?"
+#
+<removesprite -1 11>
+<sprite "ta01a023.agf" 4 4 11>
+<name "Sofia" "!ZB0052">
+"Overlord, that big tree is from the
+ Netherworld. It's called a rijiulain tree.
+ It's an incredible tree that grows that big
+ from a sapling in only three days!"
+#
+<name "Darx">
+"Three days?
+ That is incredible."
+#
+<sprite "ta01a024.agf" 4 4 12>
+<name "Sofia" "!ZB0053">
+"Well, it takes about a thousand years to grow
+ from a seed to a sapling though."
+#
+<name "Darx">
+"...A tree outside of human scope then."
+#
+<removesprite -1 11>
+<sprite "ta08a004.agf" 4 4 11>
+<name "Rakia" "!ZC0076">
+"I think there are only maybe two or three of
+ them in this world."
+#
+<name "Darx">
+"So, what's the deal with it?"
+#
+<sprite "ta08a003.agf" 4 4 12>
+<name "Rakia" "!ZC0077">
+"There are a number of benefits to a rijiulain
+ tree. The foremost is that they're easy to
+ work with."
+#
+<name "Darx">
+"Work with?"
+#
+<sprite "ta08a004.agf" 4 4 12>
+<name "Rakia" "!ZC0078">
+"You can dig them out and make a home inside."
+#
+<name "Darx">
+"Right. The windows and doors."
+#
+<sprite "ta08a023.agf" 4 4 12>
+<name "Rakia" "!ZC0079">
+"Yes."
+#
+<sprite "ta08a004.agf" 4 4 12>
+<name "Rakia" "!ZC0080">
+"This will be your new base, and we have set
+ it up as a branch of Gunguskar."
+#
+<name "Darx">
+"Ooh."
+#
+<sprite "ta08a023.agf" 4 4 12>
+<name "Rakia" "!ZC0081">
+"Let me show you inside."
+#
+<removesprite -1 11>
+<music 4>
+<background "bg009a1.agf" 10>
+<sprite "ta08a004.agf" 4 4 11>
+<name "Rakia" "!ZC0082">
+"The first floor is a branch of Gunguskar."
+#
+<name "Darx">
+"It looks like your place."
+#
+<sprite "ta08a023.agf" 4 4 12>
+<name "Rakia" "!ZC0083">
+"It is the same company."
+#
+<sprite "ta08a003.agf" 4 4 12>
+<name "Rakia" "!ZC0084">
+"Food, drink, weapons, tools.
+ If you can pay, we can supply it."
+#
+<sprite "ta08a004.agf" 4 4 12>
+<name "Rakia" "!ZC0085">
+"We also have guest rooms, so we will be able
+ to accomodate unexpected visitors."
+#
+<name "Darx">
+"I'm not sure we're going to be seeing many
+ visitors here."
+#
+<sprite "ta08a023.agf" 4 4 12>
+<name "Rakia" "!ZC0086">
+"When this becomes a large city, there will be
+ plenty of visitors."
+#
+<name "Darx">
+"...Fair enough."
+#
+<sprite "ta08a004.agf" 4 4 12>
+<name "Rakia" "!ZC0087">
+"And Sofia."
+#
+<removesprite -1 11>
+<sprite "ta08a004.agf" 2 4 11>
+<sprite "ta01a000.agf" 6 5 11>
+<name "Sofia" "!ZB0054">
+"Y-Yes?"
+#
+<sprite "ta08a005.agf" 2 4 12>
+<name "Rakia" "!ZC0088">
+"You will be the branch manager here.
+ Work hard."
+#
+<sprite "ta01a022.agf" 6 5 12>
+<name "Sofia" "!ZB0055">
+"Huh?
+ I-I will?"
+#
+<sprite "ta08a004.agf" 2 4 12>
+<name "Rakia" "!ZC0089">
+"Yes.
+ Or do you believe you cannot handle it?"
+#
+<sprite "ta01a007.agf" 6 5 12>
+<name "Sofia" "!ZB0056">
+"N-No!
+ I'll do my best!"
+#
+<sprite "ta08a023.agf" 2 4 12>
+<name "Rakia" "!ZC0090">
+"Good answer."
+#
+<sprite "ta08a004.agf" 2 4 12>
+<name "Rakia" "!ZC0091">
+"Darx is an important customer to me.
+ Please do not embarrass yourself in front of
+ him."
+#
+<sprite "ta01a004.agf" 6 5 12>
+<name "Sofia" "!ZB0057">
+"Y-Yes, ma'am!"
+#
+<sprite "ta08a003.agf" 2 4 12>
+<name "Rakia" "!ZC0092">
+"Please talk to the people here for more
+ information.
+ I'll show Darx around."
+#
+<sprite "ta01a023.agf" 6 5 12>
+<name "Sofia" "!ZB0058">
+"Yes, ma'am."
+#
+<sprite "ta08a004.agf" 2 4 12>
+<name "Rakia" "!ZC0093">
+"Now, then, Darx."
+#
+<removesprite -1 11>
+<music 3>
+<background "bg010a0.agf" 10>
+<name "Darx">
+"A throne?"
+#
+<sprite "ta08a004.agf" 4 4 11>
+<name "Rakia" "!ZC0094">
+"You are an Overlord.
+ You should look the part at least a little."
+#
+<name "Darx">
+"Yeah, I got it."
+#
+<sprite "ta08a005.agf" 4 4 12>
+<name "Rakia" "!ZC0095">
+"This floor will be for civic affairs."
+#
+<sprite "ta08a023.agf" 4 4 12>
+<name "Rakia" "!ZC0096">
+"There are rooms for paperwork.
+ I suggest you show yourself around later."
+#
+<name "Darx">
+"Roger."
+#
+<sprite "ta08a004.agf" 4 4 12>
+<name "Rakia" "!ZC0097">
+"Let's continue up."
+#
+<removesprite -1 11>
+<music 5>
+<background "bg011a0.agf" 10>
+<sprite "ta08a004.agf" 4 4 11>
+<name "Rakia" "!ZC0098">
+"This will be your private room."
+#
+<sprite "ta08a005.agf" 4 4 12>
+<name "Rakia" "!ZC0099">
+"Everything you might need for a comfortable
+ life is here."
+#
+<name "Darx">
+"Yeah, looks like it."
+#
+<sprite "ta08a023.agf" 4 4 12>
+<name "Rakia" "!ZC0100">
+"And the basement is a warehouse.
+ Please use it for storage."
+#
+<name "Darx">
+"Got it."
+#
+<sprite "ta08a004.agf" 4 4 12>
+<name "Rakia" "!ZC0101">
+"Finally..."
+#
+<removesprite -1 11>
+<music 11>
+<background "bg008a1.agf" 10>
+<name "Darx">
+"A door?"
+#
+<sprite "ta08a004.agf" 4 4 11>
+<name "Rakia" "!ZC0102">
+"This door leads to a door in Forzelotte's
+ Shrine."
+#
+<name "Darx">
+"..."
+#
+<sprite "ta08a016.agf" 4 4 12>
+<name "Rakia" "!ZC0103">
+"Don't give me that look.
+ I would have thought you realized when you
+ saw us here."
+#
+<name "Darx">
+"I guess.
+ Just resenting having to comb through that
+ cave for no reason."
+#
+<sprite "ta08a015.agf" 4 4 12>
+<name "Rakia" "!ZC0104">
+"Forgive me.
+ That was to smooth Macdo's feathers."
+#
+<sprite "ta08a018.agf" 4 4 12>
+<name "Rakia" "!ZC0105">
+"If not for that, I wouldn't have been able to
+ do as much for you as I have."
+#
+<name "Darx">
+"Something to make sure I suffered?"
+#
+<sprite "ta08a021.agf" 4 4 12>
+<name "Rakia" "!ZC0106">
+"Yes."
+#
+<name "Darx">
+"..."
+#
+<removesprite -1 11>
+That's a deep chip on her shoulder.
+#
+<name "Darx">
+"Well, whatever."
+#
+<sprite "ta08a023.agf" 4 4 11>
+<name "Rakia" "!ZC0107">
+"Thank you for your understanding."
+#
+<sprite "ta08a004.agf" 4 4 12>
+<name "Rakia" "!ZC0108">
+"Also, that cave does have a purpose."
+#
+<name "Darx">
+"Hm?"
+#
+<sprite "ta08a003.agf" 4 4 12>
+<name "Rakia" "!ZC0109">
+"It's a path for humans... for adventurers to
+ find their way here."
+#
+<name "Darx">
+"Couldn't they walk straight here?"
+#
+<sprite "ta08a004.agf" 4 4 12>
+<name "Rakia" "!ZC0110">
+"There's a barrier in the forest around this
+ place, and beyond that, Marialis has also
+ posted a number of guards and patrols."
+#
+<name "Darx">
+"But they're not allowed to lend a hand?"
+#
+<sprite "ta08a023.agf" 4 4 12>
+<name "Rakia" "!ZC0111">
+"Only protect the forest."
+#
+<name "Darx">
+"All right, but why go out of your way to set
+ up a path for adventurers to get in?"
+#
+<sprite "ta08a004.agf" 4 4 12>
+<name "Rakia" "!ZC0112">
+"Because defending it will be part of your
+ duties."
+#
+<name "Darx">
+"..."
+#
+<sprite "ta08a005.agf" 4 4 12>
+<name "Rakia" "!ZC0113">
+"That cave is named the Temple of Darx.
+ Please keep it safe."
+#
+<name "Darx">
+"Roger.
+ The Temple of Darx, huh?"
+#
+<sprite "ta08a004.agf" 4 4 12>
+<name "Rakia" "!ZC0114">
+"Yes. Speaking of which, the name of the city
+ around this rijiulain tree has been declared
+ that it will be Darx City."
+#
+<name "Darx">
+"Now we're talking."
+#
+<sprite "ta08a023.agf" 4 4 12>
+<name "Rakia" "!ZC0115">
+"Hahaha.
+ If Sofia has problems, you can always count
+ on me."
+#
+<name "Darx">
+"Yeah, I know I can."
+#
+<sprite "ta08a004.agf" 4 4 12>
+<name "Rakia" "!ZC0116">
+"Also, I'll try to keep an eye on what Macdo
+ is up to, but there's only so much I can do.
+ Don't expect too much from me when it comes
+ to her."
+#
+<name "Darx">
+"Got it."
+#
+<name "Darx">
+"Well, guess it's time to knuckle down."
+#
+<sprite "ta08a021.agf" 4 4 12>
+<name "Rakia" "!ZC0117">
+"I'm sorry I can't be of more help."
+#
+<removesprite -1 11>
+\x2B\x15 :10653: 
+:FFF9
+<music 11>
+<background "bg001a2.agf" 10>
+<sprite "ta01a004.agf" 4 4 11>
+<name "Sofia" "!ZB0059">
+"Three line brief synopsis go!"
+#
+<sprite "ta01a034.agf" 4 4 12>
+<name "Sofia" "!ZB0060">
+"Protagonist Darx became an Overlord's minion!
+ Stuff happened, and he became the Overlord!
+ And he got a bunch of girls pregnant!"
+#
+<sprite "ta01a033.agf" 4 4 12>
+<name "Sofia" "!ZB0061">
+"The end!"
+#
+<removesprite -1 11>
+<name "Darx">
+"Isn't that a little too brief?"
+#
+<sprite "ta01a027.agf" 4 4 11>
+<name "Sofia" "!ZB0062">
+"There's too much to go over, so that'll have
+ to be good enough."
+#
+<name "Darx">
+"Still seems too brief."
+#
+<removesprite -1 11>
+<music 39>
+<background "bg002a0.agf" 10>
+<sprite "ta01a007.agf" 4 4 11>
+<name "Sofia" "!ZB0063">
+"Onward to the three line opening synopsis!"
+#
+<sprite "ta01a034.agf" 4 4 12>
+<name "Sofia" "!ZB0064">
+"Baby crazy Darx pissed somebody off!
+ It was the super talented beautiful Macdo!
+ It's a huge mess!"
+#
+<name "Darx">
+"I feel like that could've been cut down to
+ just two lines."
+#
+<sprite "ta01a028.agf" 4 4 12>
+<name "Sofia" "!ZB0065">
+"I'm scared of what might happen if I don't
+ suck up."
+#
+<name "Darx">
+"Well, I guess...
+ You still could've taken another line to do
+ a real explanation."
+#
+<sprite "ta01a027.agf" 4 4 12>
+<name "Sofia" "!ZB0066">
+"Then just one more."
+#
+<sprite "ta01a034.agf" 4 4 12>
+<name "Sofia" "!ZB0067">
+"Sofia's fate got somehow wrapped up in it!"
+#
+<sprite "ta01a033.agf" 4 4 12>
+<name "Sofia" "!ZB0068">
+"That's pretty much how the prologue goes."
+#
+<removesprite -1 11>
+\x2B\x15 :10653: \x15 :10653: 
+:10653
+\x0A\x44\x03\x20\x84\x01\x0A\x44\x00\x0A\x84\x01\x0A\x44\x01\xCC\x84\x01\x78\x78

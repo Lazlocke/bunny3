@@ -1,0 +1,27 @@
+﻿<music 11>
+<background "bg008a0.agf" 10>
+<sprite "ta22a003.agf" 4 4 11>
+<name "ナイン" "!QA0094">
+「あ、落し物だ」
+#
+<removesprite -1 11>
+<sprite "ta21a000.agf" 2 4 11>
+<sprite "ta22a003.agf" 6 5 11>
+<name "イシュ" "!AB0066">
+「良く見つけるね」
+#
+<sprite "ta22a004.agf" 6 5 12>
+<name "ナイン" "!QA0095">
+「逆さまだからね」
+#
+<sprite "ta21a001.agf" 2 4 12>
+<name "イシュ" "!AB0067">
+「まあ、羨ましいとは思わないけど。
+　パンツ丸出しだし」
+#
+<sprite "ta22a009.agf" 6 5 12>
+<name "ナイン" "!QA0096">
+「うう、これは魔王様がそうしろって言うからぁ」
+#
+<removesprite -1 11>
+\x2B\x78\x78

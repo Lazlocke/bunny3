@@ -1,0 +1,280 @@
+﻿\x15 :6: 
+:6
+\x78
+<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta34b004.agf" 2 4 11>
+<sprite "ta34b004.agf" 4 6 11>
+<sprite "ta34b004.agf" 6 5 11>
+<name "褒めるメイド" "!AC0275">
+「魔王様、かっこいい！」
+#
+<name "乗せるメイド" "!DC0435">
+「さすが！」
+#
+<name "煽てるメイド" "!PC0507">
+「お似合いですよ」
+#
+<name "ダークス">
+「そ、そうか？」
+#
+<removesprite -1 11>
+　……
+#
+<sprite "ta34b000.agf" 2 4 11>
+<sprite "ta34b000.agf" 4 6 11>
+<sprite "ta34b000.agf" 6 5 11>
+<name "褒めるメイド" "!AC0276">
+「褒めて伸ばす作戦、成功ね」
+#
+<name "乗せるメイド" "!DC0436">
+「うん」
+#
+<sprite "ta34b004.agf" 6 5 12>
+<name "煽てるメイド" "!PC0508">
+「でも、本当に似合ってた……かっこいい」
+#
+<sprite "ta34b008.agf" 2 4 12>
+<name "褒めるメイド" "!AC0277">
+「あ、一人だけ良い子になろうとして！」
+#
+<removesprite -1 11>
+<exit>
+<music 4>
+<background "bg009a0.agf" 10>
+<name "ダークス">
+「今日は、これにするか」
+#
+<sprite "ta34b000.agf" 4 4 11>
+<name "商会メイド" "!DC0437">
+「威力がありそうですね」
+#
+<name "ダークス">
+「だろ」
+#
+<removesprite -1 11>
+<exit>
+<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta34b000.agf" 4 4 11>
+<name "商会メイド" "!DC0438">
+「効果重視ですか？」
+#
+<name "ダークス">
+「ああ」
+#
+<removesprite -1 11>
+<exit>
+<music 4>
+<background "bg009a0.agf" 10>
+<name "ダークス">
+「たまには、こういった武器にするか」
+#
+<sprite "ta34b000.agf" 4 4 11>
+<name "商会メイド" "!DC0439">
+「面白い系ですか？」
+#
+<removesprite -1 11>
+<exit>
+<music 4>
+<background "bg009a0.agf" 10>
+<name "ダークス">
+「これを、装備するか」
+#
+<sprite "ta34b002.agf" 4 4 11>
+<name "商会メイド" "!DC0440">
+「あの、それ、タルですよ」
+#
+<removesprite -1 11>
+<exit>
+<music 4>
+<background "bg009a0.agf" 10>
+<name "ダークス">
+「これを装備するか」
+#
+<sprite "ta34b000.agf" 4 4 11>
+<name "商会メイド" "!PC0509">
+「お似合いですよ」
+#
+<name "ダークス">
+「ありがとう」
+#
+<removesprite -1 11>
+<exit>
+<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta34b002.agf" 4 4 11>
+<name "商会メイド" "!PC0510">
+「この防具を装備していない時は……
+　防具は何も装備していないって事ですか？」
+#
+<name "ダークス">
+「そんなワケないだろー」
+#
+<sprite "ta34b000.agf" 4 4 12>
+<name "商会メイド" "!PC0511">
+「ですよねー。
+　あははは」
+#
+<removesprite -1 11>
+<exit>
+<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta34b002.agf" 4 4 11>
+<name "商会メイド" "!PC0512">
+「防具は、手入れが大変です」
+#
+<name "ダークス">
+「油断すると、凄い匂いになるからな。
+　感謝しているよ」
+#
+<sprite "ta34b000.agf" 4 4 12>
+<name "商会メイド" "!PC0513">
+「いえ、これも仕事ですから」
+#
+<removesprite -1 11>
+<exit>
+<music 4>
+<background "bg009a0.agf" 10>
+<name "ダークス">
+「うーむ。
+　このサイズだと、他の道具も装備できそうな気が
+　するんだけど……」
+#
+<sprite "ta34b000.agf" 4 4 11>
+<name "商会メイド" "!PC0514">
+「効果が干渉して、意味がなくなるんです。
+　諦めてください」
+#
+<name "ダークス">
+「そ、そうか」
+#
+<removesprite -1 11>
+<exit>
+<music 4>
+<background "bg009a0.agf" 10>
+<name "ダークス">
+「この道具って、どうやって装備するんだ？」
+#
+<sprite "ta34b000.agf" 4 4 11>
+<name "商会メイド" "!PC0515">
+「手に持ってください」
+#
+<name "ダークス">
+「片手が塞がるのはちょっと」
+#
+<name "商会メイド" "!PC0516">
+「じゃあ、ロープで腰に結んでください」
+#
+<name "ダークス">
+「それで良いならそうするが……」
+#
+<name "ダークス">
+「格好悪いな」
+#
+<sprite "ta34b005.agf" 4 4 12>
+<name "商会メイド" "!PC0517">
+「見た目より、効果！」
+#
+<name "ダークス">
+「悪かった。
+　確かに、その通りだ」
+#
+<removesprite -1 11>
+<exit>
+<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta34b006.agf" 4 4 11>
+<name "考えるメイド" "!DC0441">
+「うーん、うーん……」
+#
+<removesprite -1 11>
+<sprite "ta34a000.agf" 2 4 11>
+<sprite "ta34b006.agf" 6 5 11>
+<name "休憩中のメイド" "!PC0518">
+「どうしたの？」
+#
+<name "考えるメイド" "!DC0442">
+「この道具、どうやって装備するのか解らなくて」
+#
+<name "休憩中のメイド" "!PC0519">
+「手で持ったら？」
+#
+<name "考えるメイド" "!DC0443">
+「魔王様が反対してて」
+#
+<name "休憩中のメイド" "!PC0520">
+「ロープで腰に結んだら？」
+#
+<name "考えるメイド" "!DC0444">
+「いや、それだと効果が出なくて」
+#
+<name "休憩中のメイド" "!PC0521">
+「じゃあ……いっそ、食べちゃえば？」
+#
+<sprite "ta34b004.agf" 6 5 12>
+<name "考えるメイド" "!DC0445">
+「貴女、天才だ」
+#
+<name "ダークス">
+「あー、俺は食わないからな」
+#
+<removesprite -1 11>
+<exit>
+<music 4>
+<background "bg009a0.agf" 10>
+<name "ダークス">
+「これ、どうやって装備するんだ？」
+#
+<sprite "ta34b000.agf" 4 4 11>
+<name "商会メイド" "!PC0522">
+「工夫してください」
+#
+<name "ダークス">
+「つ、突き放すなぁ」
+#
+<removesprite -1 11>
+<exit>
+<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta34b001.agf" 4 4 11>
+<name "商会メイド" "!PC0523">
+「何を装備するかは魔王様の自由ですけど……
+　どうして、そんな物を装備するのですか？」
+#
+<name "ダークス">
+「俺の魂が、そうしろと叫んでいる気がして……」
+#
+<removesprite -1 11>
+<exit>
+<music 3>
+<background "bg010a0.agf" 10>
+<name "部下魔族" "!HC0189">
+「おお、これをこの私に！
+　ありがとうございます！」
+#
+<name "部下魔族" "!HC0190">
+「ひゃっほー」
+#
+<name "ダークス">
+「ああまで喜ばれると、気持ち良いな」
+#
+<sprite "ta34b000.agf" 4 4 11>
+<name "商会メイド" "!PC0524">
+「ですね」
+#
+<removesprite -1 11>
+<exit>
+<music 11>
+<background "bg013a0.agf" 10>
+<name "迷宮で働く魔族" "!ZD0154">
+「お前、魔王様にそれを貸して貰ったのか」
+#
+<name "迷宮の警備兵" "!UA0184">
+「い、いいなぁ」
+#
+<name "部下魔族" "!ZE0248">
+「ふふふ」
+#
+<exit>
+\x78

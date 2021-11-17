@@ -1,0 +1,16 @@
+﻿<music 40>
+<background "bg004a0.agf" 10>
+<sprite "ta10a020.agf" 4 4 11>
+<name "フォーゼロッテ" "!XA0219">
+「なんだか……本妻の私より、ラキアの方が可愛が
+　られてないか？」
+#
+<removesprite -1 11>
+<sprite "ta08a020.agf" 2 4 11>
+<sprite "ta10a020.agf" 6 5 11>
+<name "ラキア" "!ZC0456">
+「き、気のせいですよ。
+　きっと」
+#
+<removesprite -1 11>
+\x2B\x78\x78

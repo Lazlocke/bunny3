@@ -1,0 +1,26 @@
+﻿<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta01a034.agf" 4 4 11>
+<name "ソフィア" "!ZB1022">
+「正社員、正社員♪」
+#
+<sprite "ta01a028.agf" 4 4 12>
+<name "ソフィア" "!ZB1023">
+「アルバイト時代の仲間達が妙に余所余所しい」
+#
+<sprite "ta01a029.agf" 4 4 12>
+<name "ソフィア" "!ZB1024">
+「どんなコネを使って特進したんだと、やっかまれ
+　ている」
+#
+<sprite "ta01a028.agf" 4 4 12>
+<name "ソフィア" "!ZB1025">
+「うう」
+#
+<removesprite -1 11>
+<sprite "ta02a016.agf" 4 4 11>
+<name "マクドゥ" "!ZA0493">
+「正直、巻き込んで申し訳無い」
+#
+<removesprite -1 11>
+\x2B\x78\x78

@@ -1,0 +1,229 @@
+﻿\x1A\x01\x0A\x46\x00\x32\x00\x34\x00\x33\x00\x33\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :46: \x1A\x01\x08\x46\x00\x32\x00\x31\x00\x35\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :46: \x0A\x04\x09\x81\x84\x01\x16 :710: \x15 :DE: 
+:46
+\x1A\x01\x0A\x46\x00\x32\x00\x34\x00\x33\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :8E: \x1A\x01\x09\x46\x00\x32\x00\x34\x00\x33\x00\x33\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :8E: \x0A\x04\x09\x82\x84\x01\x16 :FFD: \x15 :DE: 
+:8E
+\x1A\x01\x0C\x43\x00\x30\x00\x36\x00\x30\x00\x20\x00\x3C\x00\x3D\x00\x20\x00\x31\x00\x35\x00\x30\x00\x09\x00 :C6: \x0A\x04\x00\x93\x84\x01\x16 :DF: \x15 :DE: \x18 :D8: 
+:C6
+\x0A\x04\x00\x93\x84\x01\x16 :34A: \x15 :DE: 
+:D8
+\x15 :DE: 
+:DE
+\x78
+:DF
+<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta01a025.agf" 4 4 11>
+<name "ソフィア" "!ZB0764">
+「目標達成、できませんでしたね」
+#
+<name "ダークス">
+「ああ」
+#
+<removesprite -1 11>
+<sprite "ta02a028.agf" 4 4 11>
+<name "マクドゥ" "!ZA0461">
+「残念だが、私はお前を魔王とは認めない」
+#
+<name "ダークス">
+「……わかっている」
+#
+<sprite "ta02a000.agf" 4 4 12>
+<name "マクドゥ" "!ZA0462">
+「ジタバタしないのだけは褒めてやろう」
+#
+<removesprite -1 11>
+<music 9>
+<background "ev090a00.agf" 10>
+<background "ev090a01.agf" 10>
+\x2B\x2A -1 
+<background "ev090a02.agf" 10>
+<background "bg017a0.agf" 10>
+\x2B\x7A
+<exit>
+:34A
+<music 3>
+<background "bg010a0.agf" 10>
+<name "ダークス">
+「駄目だったか」
+#
+<sprite "ta01a036.agf" 4 4 11>
+<name "ソフィア" "!ZB0766">
+「も、申し訳ありません。
+　魔王様」
+#
+<name "ダークス">
+「……力不足だ」
+#
+<removesprite -1 11>
+<sprite "ta02a028.agf" 4 4 11>
+<name "マクドゥ" "!ZA0463">
+「素直に認める所は、褒めよう」
+#
+<name "ダークス">
+「マクドゥ」
+#
+<sprite "ta02a000.agf" 4 4 12>
+<name "マクドゥ" "!ZA0464">
+「残念だったな。
+　ああ、考えてはいないと思うが、ヘタな抵抗はし
+　ない方が身の為だ」
+#
+<sprite "ta02a001.agf" 4 4 12>
+<name "マクドゥ" "!ZA0465">
+「貴様が無事でも、貴様が大切にしている女達が死
+　ぬ事になる」
+#
+<name "ダークス">
+「……」
+#
+<sprite "ta02a003.agf" 4 4 12>
+<name "マクドゥ" "!ZA0466">
+「大魔王様の沙汰を待て」
+#
+<removesprite -1 11>
+<music 9>
+<background "ev090a00.agf" 10>
+<background "ev090a01.agf" 10>
+\x2B\x2A -1 
+<background "ev090a02.agf" 10>
+<background "bg017a0.agf" 10>
+\x2B\x7A
+<exit>
+:710
+<music 3>
+<background "bg010a0.agf" 10>
+<name "ダークス">
+「……駄目だったか」
+#
+<sprite "ta01a025.agf" 4 4 11>
+<name "ソフィア" "!ZB0767">
+「これで、魔王様は魔王として認められない」
+#
+<name "ダークス">
+「う……」
+#
+<sprite "ta01a010.agf" 4 4 12>
+<name "ソフィア" "!ZB0768">
+「魔王様。
+　ここは私がなんとかします」
+#
+<name "ダークス">
+「え？
+　なんとか？」
+#
+<sprite "ta01a012.agf" 4 4 12>
+<name "ソフィア" "!ZB0769">
+「この命に代えて、マクドゥ様にお目溢しを願います」
+#
+<name "ダークス">
+「待て。
+　そんな事をしても、次が無い」
+#
+<name "ダークス">
+「二人で駄目なのに、ソフィアが居なくなったら……」
+#
+<sprite "ta01a024.agf" 4 4 12>
+<name "ソフィア" "!ZB0770">
+「魔王様」
+#
+<removesprite -1 11>
+<sprite "ta02a028.agf" 4 4 11>
+<name "マクドゥ" "!ZA0467">
+「あー……いいかな」
+#
+<name "ダークス">
+「マクドゥ」
+#
+<sprite "ta02a005.agf" 4 4 12>
+<name "マクドゥ" "!ZA0468">
+「そう警戒するな。
+　少し、いいか」
+#
+<name "ダークス">
+「な、なんだ？」
+#
+<sprite "ta02a004.agf" 4 4 12>
+<name "マクドゥ" "!ZA0469">
+「別に、一回駄目だったぐらいで、魔王失格とかの
+　判断しないぞ」
+#
+<removesprite -1 11>
+<sprite "ta01a025.agf" 2 5 11>
+<sprite "ta02a004.agf" 6 4 11>
+<name "ソフィア" "!ZB0771">
+「え？」
+#
+<sprite "ta02a028.agf" 6 4 12>
+<name "マクドゥ" "!ZA0470">
+「トラブルは起きるものだ」
+#
+<sprite "ta01a005.agf" 2 5 12>
+<name "ソフィア" "!ZB0772">
+「じゃあ」
+#
+<removesprite -1 11>
+<sprite "ta02a000.agf" 4 4 11>
+<name "マクドゥ" "!ZA0471">
+「見逃すのは今回だけだ」
+#
+<sprite "ta02a001.agf" 4 4 12>
+<name "マクドゥ" "!ZA0472">
+「次は無い」
+#
+<name "ダークス">
+「おおっ」
+#
+<removesprite -1 11>
+<sprite "ta01a033.agf" 4 4 11>
+<name "ソフィア" "!ZB0773">
+「やりましたね。
+　魔王様」
+#
+<removesprite -1 11>
+<sprite "ta02a016.agf" 4 4 11>
+<name "マクドゥ" "!ZA0473">
+「いや、なにもやってないからな。
+　それに……」
+#
+<sprite "ta02a000.agf" 4 4 12>
+<name "マクドゥ" "!ZA0474">
+「次は次で、今回よりも条件は厳しい」
+#
+<sprite "ta02a001.agf" 4 4 12>
+<name "マクドゥ" "!ZA0475">
+「私を納得させてみせろ」
+#
+<name "ダークス">
+「おう、任せておけ！」
+#
+<removesprite -1 11>
+　一回、見逃して貰った。
+#
+<exit>
+:FFD
+<music 3>
+<background "bg010a0.agf" 10>
+<name "ダークス">
+「もう言い訳は無理だな」
+#
+<sprite "ta01a024.agf" 4 4 11>
+<name "ソフィア" "!ZB0774">
+「ですね」
+#
+<name "ダークス">
+「素直に認めよう」
+#
+<sprite "ta01a036.agf" 4 4 12>
+<name "ソフィア" "!ZB0775">
+「はい」
+#
+<removesprite -1 11>
+<music 9>
+<background "ev090a00.agf" 10>
+<background "ev090a01.agf" 10>
+\x2B\x2A -1 
+<background "ev090a02.agf" 10>
+<background "bg017a0.agf" 10>
+\x2B\x7A
+<exit>
+\x78

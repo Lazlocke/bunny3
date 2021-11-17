@@ -1,0 +1,208 @@
+﻿<music 11>
+<background "bg013a0.agf" 10>
+<sprite "ta05a003.agf" 4 4 11>
+<name "キュリハ" "!FA0560">
+「さて、いきますよ」
+#
+<removesprite -1 11>
+<sprite "ta05a003.agf" 2 4 11>
+<sprite "ta06a003.agf" 6 5 11>
+<name "スイセン" "!YA0321">
+「ええ」
+#
+<removesprite -1 11>
+<sprite "ta03a004.agf" 4 4 11>
+<name "ミアルテ" "!SA0280">
+「頑張りましょう」
+#
+<removesprite -1 11>
+<name "ダークス">
+「あの三人。
+　ずいぶん、気合が入ってるなぁ。
+　どこに行くんだ？」
+#
+<removesprite -1 11>
+<sprite "ta04a005.agf" 4 4 11>
+<name "ルーアルテ" "!RA0250">
+「合コンですよ」
+#
+<name "ダークス">
+「ほう」
+#
+<sprite "ta04a006.agf" 4 4 12>
+<name "ルーアルテ" "!RA0251">
+「あ、このお話の中ではダークス様との関係は無い
+　という設定でお願いします」
+#
+<name "ダークス">
+「そうか。
+　じゃあ、俺は男性側で参加？」
+#
+<removesprite -1 11>
+<sprite "ta10a009.agf" 4 4 11>
+<name "フォーゼロッテ" "!XA0307">
+「させーん！」
+#
+<name "ダークス">
+「うおっ、うあ、こら、あっ」
+#
+<removesprite -1 11>
+<sprite "ta11a009.agf" 4 4 11>
+<name "コゼロット" "!NA0177">
+「せいっ！」
+#
+<removesprite -1 11>
+<name "ダークス">
+「うぐうっ」
+#
+<sprite "ta10a007.agf" 4 4 11>
+<name "フォーゼロッテ" "!XA0308">
+「よし、大人しくなった。
+　連れ帰るぞ」
+#
+<removesprite -1 11>
+<sprite "ta11a012.agf" 2 4 11>
+<sprite "ta10a007.agf" 6 5 11>
+<name "コゼロット" "!NA0178">
+「はい。
+　お母様」
+#
+<removesprite -1 11>
+<sprite "ta04a011.agf" 4 4 11>
+<name "ルーアルテ" "!RA0252">
+「……あの二人、強いなぁ」
+#
+<sprite "ta04a002.agf" 4 4 12>
+<name "ルーアルテ" "!RA0253">
+「っと、気を取り直して」
+#
+<sprite "ta04a005.agf" 4 4 12>
+<name "ルーアルテ" "!RA0254">
+「カメラさん、三人の方を追っかけて」
+#
+<music 40>
+<background "bg004a0.agf" 10>
+<sprite "ta05a008.agf" 4 4 11>
+<name "キュリハ" "!FA0561">
+「到着しましたけど」
+#
+<removesprite -1 11>
+<sprite "ta06a000.agf" 4 4 11>
+<name "スイセン" "!YA0322">
+「相手はまだ来てないようね」
+#
+<removesprite -1 11>
+<sprite "ta03a011.agf" 4 4 11>
+<name "ミアルテ" "!SA0281">
+「女性を待たせるなんて、減点です」
+#
+<removesprite -1 11>
+<sprite "ta05a010.agf" 4 4 11>
+<name "キュリハ" "!FA0562">
+「まったくね。
+　とりあえず、どうします？」
+#
+<removesprite -1 11>
+<sprite "ta06a005.agf" 4 4 11>
+<name "スイセン" "!YA0323">
+「飲み物を頼んで待ちましょう」
+#
+<removesprite -1 11>
+<sprite "ta03a022.agf" 4 4 11>
+<name "ミアルテ" "!SA0282">
+「お食事は後ですね」
+#
+<removesprite -1 11>
+　十五分後
+#
+<sprite "ta05a014.agf" 4 4 11>
+<name "キュリハ" "!FA0563">
+「遅れてるのかしら？」
+#
+<removesprite -1 11>
+<sprite "ta06a010.agf" 4 4 11>
+<name "スイセン" "!YA0324">
+「まあ、気長に待ちましょう」
+#
+<removesprite -1 11>
+<sprite "ta03a005.agf" 2 4 11>
+<sprite "ta06a010.agf" 6 5 11>
+<name "ミアルテ" "!SA0283">
+「食べ物、頼んでも良いかな？」
+#
+<sprite "ta06a011.agf" 6 5 12>
+<name "スイセン" "!YA0325">
+「軽めにしなさいよ」
+#
+<removesprite -1 11>
+　四時間後
+#
+<removesprite -1 11>
+<sprite "ta05a016.agf" 4 4 11>
+<name "キュリハ" "!FA0564">
+「相手が来ませんね」
+#
+<removesprite -1 11>
+<sprite "ta06a012.agf" 4 4 11>
+<name "スイセン" "!YA0326">
+「来ないわね」
+#
+<removesprite -1 11>
+<sprite "ta03a024.agf" 4 4 11>
+<name "ミアルテ" "!SA0284">
+「すみませーん、牛刺しとビール、追加でー」
+#
+<removesprite -1 11>
+<background "bg016a0.agf" 10>
+\x2B\x2A 30 
+<background "bg015a0.agf" 10>
+　翌日朝
+#
+<music 11>
+<background "bg013a0.agf" 10>
+<sprite "ta04a012.agf" 4 4 11>
+<name "ルーアルテ" "!RA0255">
+「お姉様達が超酔って帰ってきた」
+#
+<sprite "ta04a013.agf" 4 4 12>
+<name "ルーアルテ" "!RA0256">
+「お持ち帰りどころか、すっぽかされるなんて……」
+#
+<sprite "ta04a017.agf" 4 4 12>
+<name "ルーアルテ" "!RA0257">
+「合コンのタイトルを完全に無視した展開」
+#
+<sprite "ta04a018.agf" 4 4 12>
+<name "ルーアルテ" "!RA0258">
+「今は寝ているけど、起きてからが怖いので、なん
+　とかしてくれませんか？」
+#
+<name "ダークス">
+「すまん。
+　今回の話では、三人と無関係な設定だから」
+#
+<name "ダークス">
+「あと、その無関係な三人が飲み食いした代金、俺
+　の名前でツケられてるんだけど……」
+#
+<sprite "ta04a012.agf" 4 4 12>
+<name "ルーアルテ" "!RA0259">
+「大変、申し訳ありません」
+#
+<removesprite -1 11>
+<music 14>
+<background "bg015a0.agf" 10>
+　行かなかった者達の理由。
+#
+<name "逃げた男" "!MB0173">
+「あの三人だって、知らなかったんだよ！」
+#
+<name "騙された男" "!CB0196">
+「俺は文科系の学園生三人が来るって聞いてたぞ」
+#
+<name "絶望した男" "!KB0310">
+「俺は獣耳の可愛い子だって聞いた」
+#
+　途中で気付いて逃げた模様。
+#
+\x78\x78

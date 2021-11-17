@@ -1,0 +1,17 @@
+﻿<music 3>
+<background "bg010a0.agf" 10>
+<sprite "ta21a012.agf" 4 4 11>
+<name "イシュ" "!AB0068">
+「母乳……頑張れば出ない事も」
+#
+<name "ダークス">
+「無理しなくて良いから。
+　あと、胸が無いのに無理して搾らないように」
+#
+<removesprite -1 11>
+<sprite "ta20a000.agf" 4 4 11>
+<name "ラフィノー" "!EB0074">
+「それ、私の事ですか？」
+#
+<removesprite -1 11>
+\x2B\x78\x78
