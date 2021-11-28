@@ -60,19 +60,22 @@
 :5A9
 <music 11>
 <background "bg008a0.agf" 10>
-　自分がずいぶんと魔族に染まったと思う瞬間。
+The moment when I realized I had truly become
+a demon was...
 #
-<name "ベト" "!HC0039">
-「ベートベト」（リンゴ、取って下さい）
+<name "Slime" "!HC0039">
+"Sqrch ch.
+(Please accept this apple.)
 #
-　ベトと自然に意思疎通している事に気付いた時。
+...When I realized I could understand slimes.
 #
-<name "ダークス">
-「犬や猫より、解りやすい」
+<name "Darx">
+"They're easier to understand than dogs or
+ cats."
 #
 <sprite "ta08a025.agf" 4 4 11>
-<name "ラキア" "!ZC0219">
-「そんなものです」
+<name "Rakia" "!ZC0219">
+"That's how it is."
 #
 <removesprite -1 11>
 <exit>
@@ -80,266 +83,277 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta01a004.agf" 4 4 11>
-<name "ソフィア" "!ZB0559">
-「魔王様は、ラキア様をラキアさんと呼びますけど、
-　どうしてマクドゥ様は呼び捨てなんですか？」
+<name "Sofia" "!ZB0559">
+"Why do you talk to Rakia informally, but are
+ much more respectful to Macdo?"
 #
-<name "ダークス">
-「純粋な強さかな」
+<name "Darx">
+"Pure strength, I guess."
 #
 <sprite "ta01a005.agf" 4 4 12>
-<name "ソフィア" "!ZB0560">
-「え？
-　ラキア様より、マクドゥ様の方が強いのでは？」
+<name "Sofia" "!ZB0560">
+"Huh? Is Macdo stronger than Rakia?"
 #
-<name "ダークス">
-「ラキアさんの方が強いと思うぞ」
+<name "Darx">
+"I actually think Rakia's the stronger one."
 #
-<name "ダークス">
-「それに、ギュンギュスカー商会は商才重視だろ」
+<name "Darx">
+"Also, Gunguskar values business acumen,
+ right?"
 #
 <sprite "ta01a016.agf" 4 4 12>
-<name "ソフィア" "!ZB0561">
-「確かにそうですけど……
-　そっかー、ラキア様の方が強いのかぁ」
+<name "Sofia" "!ZB0561">
+"That's true...
+ I see. Rakia's stronger, huh?"
 #
 <removesprite -1 11>
-　まあ、マクドゥもかなり強いと思うけどな。
+Well, Macdo's plenty strong too.
 #
-　呼び捨てなのは、第一印象だが……
+Plus there's the first impression.
 #
-　その事は、黙っていよう。
+But I'm not going to say that.
 #
 <exit>
 :A09
 <music 4>
 <background "bg009a0.agf" 10>
-<name "ダークス">
-「ギュンギュスカー商会における、ソフィアの階級
-　はどの辺りなんだ？」
+<name "Darx">
+"About what rank are you in Gunguskar?"
 #
 <sprite "ta01a004.agf" 4 4 11>
-<name "ソフィア" "!ZB0562">
-「新人ですから、少尉です」
+<name "Sofia" "!ZB0562">
+"I'm new, so sublieutenant."
 #
-<name "ダークス">
-「へぇ」
+<name "Darx">
+"Oh?"
 #
 <removesprite -1 11>
-　ちなみに、ラキアさんは中佐とか言っていたな。
+Rakia has said she's about a colonel.
 #
-<name "ダークス">
-「マクドゥは？」
+<name "Darx">
+"What's Macdo?"
 #
 <sprite "ta01a004.agf" 4 4 11>
-<name "ソフィア" "!ZB0563">
-「少将です」
+<name "Sofia" "!ZB0563">
+"General."
 #
-<name "ダークス">
-「…………………………偉かったんだな」
+<name "Darx">
+"........So she's a pretty big deal."
 #
 <sprite "ta01a025.agf" 4 4 12>
-<name "ソフィア" "!ZB0564">
-「偉いんですよ」
+<name "Sofia" "!ZB0564">
+"Very."
 #
 <removesprite -1 11>
-　ラキアさんの泣き顔を、ちょっと思い出した。
+I think back to the tears in Rakia's eyes.
 #
 <exit>
 :C9A
 <music 39>
 <background "bg002a0.agf" 10>
-<name "報告する親衛隊員" "!TC0050" "ka35b000.agf">
-「魔王様の一日レポート！」
+<name "Reporting Bodyguard" "!TC0050" "ka35b000.agf">
+"Report of the Overlord's day!"
 #
 <music 5>
 <background "bg011a0.agf" 10>
-<name "報告する親衛隊員" "!TC0051" "ka35b000.agf">
-「まず、起床」
+<name "Reporting Bodyguard" "!TC0051" "ka35b000.agf">
+"First, he wakes up!"
 #
 <music 11>
 <background "bg008a0.agf" 10>
-<name "報告する親衛隊員" "!TC0052" "ka35b000.agf">
-「朝にお風呂、身嗜みを整え、魔王亭一階で朝食」
+<name "Reporting Bodyguard" "!TC0052" "ka35b000.agf">
+"He takes a bath, cleans himself up, and eats
+ breakfast on the first floor of the 
+ Overlord's Retreat!"
 #
 <music 3>
 <background "bg010a0.agf" 10>
-<name "報告する親衛隊員" "!TC0053" "ka35b000.agf">
-「外に行く時は、この後、出発。
-　それ以外の時は、魔王亭の上でお仕事」
+<name "Reporting Bodyguard" "!TC0053" "ka35b000.agf">
+"When he goes out, he leaves after this.
+ Otherwise, he works in the Overlord's
+ Retreat."
 #
 <music 4>
 <background "bg009a0.agf" 10>
-<name "報告する親衛隊員" "!TC0054" "ka35b000.agf">
-「お昼になると、魔王亭の一階で昼食」
+<name "Reporting Bodyguard" "!TC0054" "ka35b000.agf">
+"At noon, lunch on the first floor of the
+ Overlord's Retreat."
 #
 <music 11>
 <background "bg008a0.agf" 10>
-<name "報告する親衛隊員" "!TC0055" "ka35b000.agf">
-「仕事に戻る間に、家庭菜園のお世話」
+<name "Reporting Bodyguard" "!TC0055" "ka35b000.agf">
+"After returning to work, he tends to his 
+ private vegetable garden."
 #
 <background "bg013a0.agf" 10>
-<name "報告する親衛隊員" "!TC0056" "ka35b000.agf">
-「終わったら、街の見回り」
+<name "Reporting Bodyguard" "!TC0056" "ka35b000.agf">
+"Aftering finishing, he patrols the city."
 #
 <music 3>
 <background "bg010a0.agf" 10>
-<name "報告する親衛隊員" "!TC0057" "ka35b000.agf">
-「帰ってきたら、夕食までの間、魔王亭で仕事」
+<name "Reporting Bodyguard" "!TC0057" "ka35b000.agf">
+"When he returns, he works in the Overlord's
+ Retreat until dinner."
 #
 <music 4>
 <background "bg009b1.agf" 10>
-<name "報告する親衛隊員" "!TC0058" "ka35b000.agf">
-「夕食も魔王亭」
+<name "Reporting Bodyguard" "!TC0058" "ka35b000.agf">
+"Dinner is also at the Overlord's Retreat."
 #
 <music 5>
 <background "bg011b0.agf" 10>
-<name "報告する親衛隊員" "!TC0059" "ka35b000.agf">
-「夕食後、仕事が残っていたら、その仕事に。
-　終わっていたら、就寝まではフリータイム」
+<name "Reporting Bodyguard" "!TC0059" "ka35b000.agf">
+"After dinner, if there is still work, he
+ finishes it.
+ If it's finished, it's free time until bed."
 #
-<name "報告する親衛隊員" "!TC0060" "ka35b000.agf">
-「と言っても、フリータイムには誰かしらが部屋に
-　来るので、真にフリータイムではない」
+<name "Reporting Bodyguard" "!TC0060" "ka35b000.agf">
+"That said, someone will be in his room, so
+ it's not really free time."
 #
 <music 39>
 <background "bg002a0.agf" 10>
-<name "報告する親衛隊員" "!TC0061" "ka35b000.agf">
-「以上。
-　魔王様の一日でした」
+<name "Reporting Bodyguard" "!TC0061" "ka35b000.agf">
+"The end.
+ That's the Overlord's day."
 #
 <sprite "ta34b000.agf" 2 4 11>
 <sprite "ta34c000.agf" 6 5 11>
-<name "聞いていたメイド" "!WB0068">
-「い、意外と仕事をしていますね」
+<name "Listening Maid" "!WB0068">
+"T-That's a surprisingly busy day."
 #
-<name "驚くウェイトレス" "!QB0073">
-「うん、驚いた」
+<name "Surprised Waitress" "!QB0073">
+"Yeah, I'm shocked."
 #
 <removesprite -1 11>
 <sprite "ta12a005.agf" 4 4 11>
-<name "メリル" "!HA0007">
-「あ、いや、ここに居た時もこれぐらいは働いてい
-　たからね」
+<name "Meryl" "!HA0007">
+"Oh, um, that's about how much he worked when
+ he was here."
 #
 <removesprite -1 11>
 <exit>
 :14D7
 <music 4>
 <background "ev001a00.agf" 10>
-<name "接客メイド" "!PC0172">
-「はい、六番テーブルのオーダーでーす」
+<name "Hostess Maid" "!PC0172">
+"Here, order for table six."
 #
-<name "調理メイド" "!AC0113">
-「はーい。
-　あ、材料が少し足りない」
+<name "Cooking Maid" "!AC0113">
+"Yep.
+ Oh, we don't have enough."
 #
-<name "接客メイド" "!PC0173">
-「え？
-　あ、これか……」
+<name "Hostess Maid" "!PC0173">
+"Huh?
+ Oh, these..."
 #
-<name "調理メイド" "!AC0114">
-「買いにいける？」
+<name "Cooking Maid" "!AC0114">
+"Can you go buy some?"
 #
-<name "接客メイド" "!PC0174">
-「大丈夫。
-　これならアテがあるから、すぐに」
+<name "Hostess Maid" "!PC0174">
+"Don't worry, if this is all we need, I'll be
+ right back."
 #
-<name "調理メイド" "!AC0115">
-「助かる」
+<name "Cooking Maid" "!AC0115">
+"Thanks."
 #
-　……
+...
 #
-<name "ダークス">
-「俺の家庭菜園を荒らしたヤツが居るんだが……」
+<name "Darx">
+"Someone raided my vegetable garden..."
 #
-<name "調理メイド" "!AC0116">
-「え？
-　あ……ま、まさか！」
+<name "Cooking Maid" "!AC0116">
+"Huh?
+ Ah... N-No way!"
 #
 <exit>
 :170A
 <music 10>
 <background "ev072a00.agf" 10>
-<name "ダークス">
-「一心不乱に畑と向き合う」
+<name "Darx">
+"Work the fields with your whole heart."
 #
-<name "ダークス">
-「ふふふ……」
+<name "Darx">
+"Heheheh..."
 #
-<name "見てたメイド" "!DC0151">
-「魔王様、農業が好きなのかな？」
+<name "Watching Maid" "!DC0151">
+"Does the Overlord like farming?"
 #
-<name "休憩中のメイド" "!PC0175">
-「まあ、種を蒔くのは好きだと思うよ」
+<name "Resting Maid" "!PC0175">
+"Well, I think he enjoys sowing his seeds."
 #
-<name "見てたメイド" "!DC0152">
-「あははは……
-　聞かれたら怒られるわよ」
+<name "Watching Maid" "!DC0152">
+"Hahahaha...
+ He'd be mad if I asked."
 #
-<name "ダークス">
-「大丈夫。
-　一心不乱に畑に向き合っていたから、怒らない」
+<name "Darx">
+"Don't worry.
+ I was working the fields with my whole heart,
+ so I can't be mad."
 #
-<name "休憩中のメイド" "!PC0176">
-「ひっ」
+<name "Resting Maid" "!PC0176">
+"Eep!"
 #
-<name "ダークス">
-「さて、そろそろ種を蒔くのだが……
-　畑とベッド、どっちが良い？」
+<name "Darx">
+"Now then, I think it's about time to sow my
+ seeds.
+ Which would be better, the field or in bed?"
 #
-<name "休憩中のメイド" "!PC0177">
-「あ、明日、仕事があるので、畑でお願いします」
+<name "Resting Maid" "!PC0177">
+"I-I have to work tomorrow, so the field,
+ please."
 #
-<name "ダークス">
-「よーし、野外が好きなのか。
-　なかなかワイルドな趣味だが、運良くそれを許容
-　する度量はあるぞ」
+<name "Darx">
+"Oh, you like doing it outside?
+ That's pretty daring, but luckily, I'm up to
+ the challenge."
 #
-<name "休憩中のメイド" "!PC0178">
-「え、ち、ちが、えー……」
+<name "Resting Maid" "!PC0178">
+"Huh? T-That's not what I...
+ Eeh!?"
 #
-　俺は種蒔きを頑張った。
+I sowed my seeds with gusto.
 #
-　豊作だと良いなぁ。
+I hope it's a good harvest.
 #
 <exit>
 :1A66
 <music 4>
 <background "bg009a0.agf" 10>
-<name "ダークス">
-「そういや、ここの食事。
-　俺好みのメニューが多いな」
+<name "Darx">
+"You know, most of the menu here is my 
+ favorite foods."
 #
 <sprite "ta01a004.agf" 4 4 11>
-<name "ソフィア" "!ZB0565">
-「ええ、ラキア様から伺っておりましたので、優先
-　的に用意しております」
+<name "Sofia" "!ZB0565">
+"Yes. I asked Rakia and gave them top
+ priority."
 #
-<name "ダークス">
-「そうか、ありがたい」
+<name "Darx">
+"I see.
+ Thanks."
 #
 <sprite "ta01a005.agf" 4 4 12>
-<name "ソフィア" "!ZB0566">
-「今日は牡蠣がお勧めですよ」
+<name "Sofia" "!ZB0566">
+"The oysters are good today."
 #
-<name "ダークス">
-「頂こう」
+<name "Darx">
+"I'll take them."
 #
 <removesprite -1 11>
-　……
+...
 #
 <sprite "ta34b001.agf" 4 4 11>
-<name "商会メイド" "!AC0117">
-「私は魔王様の精力を安定させる為の食事だって聞
-　いていますけど？」
+<name "Company Maid" "!AC0117">
+"But I heard they were foods that help
+ stabilize his stamina."
 #
 <removesprite -1 11>
 <sprite "ta01a027.agf" 2 5 11>
 <sprite "ta34b001.agf" 6 4 11>
-<name "ソフィア" "!ZB0567">
-「魔王様の好物が、そういったものだから、問題あ
-　りません」
+<name "Sofia" "!ZB0567">
+"Those are his favorites, so there's no
+ problem with that."
 #
 <removesprite -1 11>
 <exit>
@@ -347,27 +361,28 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta01a015.agf" 4 4 11>
-<name "ソフィア" "!ZB0569">
-「魔王様、魔王様」
+<name "Sofia" "!ZB0569">
+"Overlord, Overlord."
 #
-<name "ダークス">
-「ん？」
+<name "Darx">
+"Hm?"
 #
 <sprite "ta01a014.agf" 4 4 12>
-<name "ソフィア" "!ZB0570">
-「あの、失礼な質問かもしれませんが……」
+<name "Sofia" "!ZB0570">
+"Um, this may be rude to ask, but..."
 #
 <sprite "ta01a015.agf" 4 4 12>
-<name "ソフィア" "!ZB0573">
-「女性を妻と紹介する時と、そうでない時がありま
-　すが、どこで分けているのですか？」
+<name "Sofia" "!ZB0573">
+"Sometimes you introduce a woman as your wife,
+ but sometimes not.
+ What's the difference?"
 #
-<name "ダークス">
-「俺の子供を産んだら妻だ」
+<name "Darx">
+"If they've had my baby, they're my wife."
 #
 <sprite "ta01a022.agf" 4 4 12>
-<name "ソフィア" "!ZB0574">
-「なるほど」
+<name "Sofia" "!ZB0574">
+"I see."
 #
 <removesprite -1 11>
 <exit>
@@ -375,340 +390,350 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta01a004.agf" 4 4 11>
-<name "ソフィア" "!ZB0575">
-「魔王様。
-　奥さんの数が多いって聞きましたが、何人居るん
-　ですか？」
+<name "Sofia" "!ZB0575">
+"Overlord, I've heard you have a lot of wives,
+ but how many are there?"
 #
-<name "ダークス">
-「肉体関係があるだけなら、かなりの数だが……」
+<name "Darx">
+"If you just mean a physical relationship, too
+ many to count."
 #
-<name "ダークス">
-「妻と認定しているのは、子供を産んだヤツだけだ」
+<name "Darx">
+"But I only call the ones who have had a baby
+ from me as an actual wife."
 #
 <sprite "ta01a005.agf" 4 4 12>
-<name "ソフィア" "!ZB0576">
-「なるほど。
-　それで、その数は？」
+<name "Sofia" "!ZB0576">
+"I see.
+ So how many of them are there?"
 #
-<name "ダークス">
-「二百人までは数えた」
+<name "Darx">
+"About two hundred."
 #
 <sprite "ta01a004.agf" 4 4 12>
-<name "ソフィア" "!ZB0577">
-「………………」
+<name "Sofia" "!ZB0577">
+"........."
 #
-<name "ダークス">
-「ちなみに、産まれた子供の数はコゼロットを筆頭
-　に七百十七人」
+<name "Darx">
+"By the way, there are seven hundred and
+ seventeen children, starting with Kozelotte."
 #
-<name "ダークス">
-「二百五十二人が妊娠中だ」
+<name "Darx">
+"And two hundred fifty two are pregnant."
 #
 <sprite "ta01a015.agf" 4 4 12>
-<name "ソフィア" "!ZB0578">
-「こ、子沢山ですね」
+<name "Sofia" "!ZB0578">
+"T-That's a lot of kids."
 #
-<name "ダークス">
-「まあな」
+<name "Darx">
+"I guess."
 #
 <removesprite -1 11>
 <exit>
 :2328
 <music 11>
 <background "bg013a0.agf" 10>
-<name "普通の街の住民" "!CB0027">
-「おーい、飯に行こうぜ」
+<name "Ordinary Citizen" "!CB0027">
+"Hey, let's go get lunch."
 #
-<name "悩める街の住民" "!KB0087">
-「あ、えっと……すまん、無理だ」
+<name "Distressed Citizen" "!KB0087">
+"Oh, um...
+ I'm sorry.
+ I can't."
 #
-<name "普通の街の住民" "!CB0028">
-「どうしたんだ？
-　最近、付き合いが悪いじゃないか」
+<name "Ordinary Citizen" "!CB0028">
+"Is something the matter?
+ You haven't been going out at all lately?"
 #
-<name "悩める街の住民" "!KB0088">
-「ははは……
-　ちょっと、店と揉めてな、顔を出しにくいんだ」
+<name "Distressed Citizen" "!KB0088">
+"Hahaha...
+ I had an incident at the restaurant, so it's
+ hard to go."
 #
-<name "普通の街の住民" "!CB0029">
-「店と揉めたって……え？
-　お前、マジか！」
+<name "Ordinary Citizen" "!CB0029">
+"An incident? Huh?
+ Wait, seriously!?"
 #
-<name "悩める街の住民" "!KB0089">
-「こんな事、冗談で言えない」
+<name "Distressed Citizen" "!KB0089">
+"I wouldn't joke about that."
 #
-<name "普通の街の住民" "!CB0030">
-「何をやったんだ？」
+<name "Ordinary Citizen" "!CB0030">
+"What did you do?"
 #
-<name "悩める街の住民" "!KB0090">
-「言い訳になるけど……ものすっごい酔っててな」
+<name "Distressed Citizen" "!KB0090">
+"In my defense, I was really drunk."
 #
-<name "悩める街の住民" "!KB0091">
-「お店で、食い物にケチをつけて回った……」
+<name "Distressed Citizen" "!KB0091">
+"I started bitching about the food..."
 #
-<name "普通の街の住民" "!CB0031">
-「おま……」
+<name "Ordinary Citizen" "!CB0031">
+"You..."
 #
-<name "悩める街の住民" "!KB0092">
-「で、向こうがその……
-　お口に合わなかったようで申し訳ありません。
-　お代は結構ですので、今日はお引き取り下さい。
-　って、言ってきたから」
+<name "Distressed Citizen" "!KB0092">
+"So then they...
+ We're sorry the food doesn't meet your taste.
+ Don't worry about the cost. It's on the
+ house. That's what they said."
 #
-<name "悩める街の住民" "!KB0093">
-「そのまま帰った」
+<name "Distressed Citizen" "!KB0093">
+"And I left."
 #
-<name "普通の街の住民" "!CB0032">
-「え……代金は？」
+<name "Ordinary Citizen" "!CB0032">
+"Huh? So the money..."
 #
-<name "悩める街の住民" "!KB0094">
-「払ってない」
+<name "Distressed Citizen" "!KB0094">
+"I didn't pay."
 #
-<name "普通の街の住民" "!CB0033">
-「終わった。
-　ギュンギュスカー商会の店相手に、代金払わずに
-　帰るって……向こうに余程の落ち度が無いと許し
-　て貰えないぞ」
+<name "Ordinary Citizen" "!CB0033">
+"It's over. You left a Gunguskar associated
+ restaurant without paying, going back now...
+ They would never forgive you unless they
+ actually made a huge mistake."
 #
-<name "悩める街の住民" "!KB0095">
-「ああ。
-　以後、店には行けず……その噂を聞いた他の店か
-　らもハブられて……」
+<name "Distressed Citizen" "!KB0095">
+"Yeah. I haven't been able to go back there
+ since then, and all the other restaurants
+ also heard about what I did..."
 #
-<name "普通の街の住民" "!CB0034">
-「下手にお前と仲良くすると、商会を敵に回す事に
-　なるからなぁ」
+<name "Ordinary Citizen" "!CB0034">
+"So if they get friendly with you, it'd be a
+ slight against the company."
 #
-<name "悩める街の住民" "!KB0096">
-「うう……いっそ、酔っていた時の記憶が消えてい
-　れば、店に行く度胸が出るのに」
+<name "Distressed Citizen" "!KB0096">
+"Ooohh... I wish I could just forget ever
+ getting drunk and was brave enough to go
+ back there."
 #
-<name "普通の街の住民" "!CB0035">
-「だが、このまま放っておいたら、お先は真っ暗だ
-　ぞ」
+<name "Ordinary Citizen" "!CB0035">
+"But if you don't do something, you have no
+ future."
 #
-<name "悩める街の住民" "!KB0097">
-「わ、わかってるけど……」
+<name "Distressed Citizen" "!KB0097">
+"I-I know that, but..."
 #
-<name "普通の街の住民" "!CB0036">
-「金はあるのか？」
+<name "Ordinary Citizen" "!CB0036">
+"Do you have money?"
 #
-<name "悩める街の住民" "!KB0098">
-「金？」
+<name "Distressed Citizen" "!KB0098">
+"Money?"
 #
-<name "普通の街の住民" "!CB0037">
-「未払いの代金だよ」
+<name "Ordinary Citizen" "!CB0037">
+"For your unpaid bill."
 #
-<name "悩める街の住民" "!KB0099">
-「あ、ああ、チャンスがあれば払おうと思っていつ
-　も持ってる」
+<name "Distressed Citizen" "!KB0099">
+"Y-Yeah. I'd definitely pay if I had the
+ chance."
 #
-<name "普通の街の住民" "!CB0038">
-「よし。
-　なら、今から謝りに行こう。
-　俺も付いていってやるから」
+<name "Ordinary Citizen" "!CB0038">
+"Okay, then let's go apologize now.
+ I'll come with you."
 #
-<name "悩める街の住民" "!KB0100">
-「で、でも……」
+<name "Distressed Citizen" "!KB0100">
+"B-But..."
 #
-<name "普通の街の住民" "!CB0039">
-「とりあえず、代金を払う。
-　払わないと、向こうは一生、覚えているからな」
+<name "Ordinary Citizen" "!CB0039">
+"First, pay what you owe.
+ If you don't pay, they'll never forget it."
 #
-<name "普通の街の住民" "!CB0040">
-「で、向こうが話を聞いてくれそうなら、和解の申
-　し込みだ」
+<name "Ordinary Citizen" "!CB0040">
+"And if they're willing to listen to you,
+ offer some recompense."
 #
-<name "普通の街の住民" "!CB0041">
-「和解が成立すれば、しばらくは出禁かもしれない
-　が、他の店には行けるようになるだろう」
+<name "Ordinary Citizen" "!CB0041">
+"If you can reach an agreement, you might be
+ banned for a while, but you'll still be able
+ to go to other places."
 #
-<name "悩める街の住民" "!KB0101">
-「……そうだな」
+<name "Distressed Citizen" "!KB0101">
+"...You're right."
 #
-<name "普通の街の住民" "!CB0042">
-「交渉は俺がしてやるから、お前は心の底から謝罪」
+<name "Ordinary Citizen" "!CB0042">
+"I'll take care of the negotiations. 
+ You just apologize from the bottom of your
+ heart."
 #
-<name "普通の街の住民" "!CB0043">
-「交渉で一生禁酒ぐらいは言うが、その覚悟はある
-　よな」
+<name "Ordinary Citizen" "!CB0043">
+"I may have to offer a lifetime vow of
+ sobriety, so be prepared for that."
 #
-<name "悩める街の住民" "!KB0102">
-「酒、あれ以来、怖くて飲めない」
+<name "Distressed Citizen" "!KB0102">
+"I've already been too scared to drink since
+ then."
 #
-<name "普通の街の住民" "!CB0044">
-「ご愁傷様。
-　……よし、行くぞ！」
+<name "Ordinary Citizen" "!CB0044">
+"My condolences.
+ Okay, let's go!"
 #
-　ギュンギュスカー商会。
+Gunguskar.
 #
-　それは敵に回してはいけない相手。
+Someone you do not want to be your enemy.
 #
-<name "ダークス">
-「経済握ってる所って強いなぁ」
+<name "Darx">
+"Beware those who control the economy."
 #
 <exit>
 :2F13
 <music 4>
 <background "bg009a0.agf" 10>
-<name "飯を食う街の住民" "!KB0103">
-「魔王様って、魔界の大魔王様と会った事があるん
-　ですよね」
+<name "Dining Citizen" "!KB0103">
+"Overlord, you've met the Netherworld's Great
+ Overlord, right?"
 #
-<name "ダークス">
-「ああ」
+<name "Darx">
+"Yeah."
 #
-<name "飯を食う街の住民" "!KB0104">
-「やっぱり、凄い方ですか」
+<name "Dining Citizen" "!KB0104">
+"He's incredible, isn't he?"
 #
-<name "ダークス">
-「あー……凄いってもんじゃないな」
+<name "Darx">
+"Ooh, I don't know if I'd say that."
 #
-<name "ダークス">
-「一回目にあった時は、ただの人の良いおっさんに
-　見えたんだけど、二回目にあった時は……
-　あー……なんて言うの、宇宙？」
+<name "Darx">
+"The first time I met him, he seemed like just
+ a regular nice old man, but the second 
+ time...
+ Uh, how to put it... like space?"
 #
-<name "ダークス">
-「ともかく力のスケールが違い過ぎて、逆らおうと
-　かって気に全然なれなかった」
+<name "Darx">
+"Anyway, he's way past my power, so I wouldn't
+ even think about going against him."
 #
-<name "飯を食う街の住民" "!KB0105">
-「ま、魔王様がそこまで言うって……
-　よっぽどなんですね」
+<name "Dining Citizen" "!KB0105">
+"I-If you say that...
+ He must be really strong."
 #
-<name "ダークス">
-「ああ、それに周りに居た連中も、かなりのものだっ
-　た」
+<name "Darx">
+"Yeah, and so were all the guys around him."
 #
-<name "ダークス">
-「多分、一回目の時は魔力を扱いきれてなかったか
-　らわからなかったんだろうなぁ」
+<name "Darx">
+"I think maybe I could tell the first time I
+ met him because I wasn't that good with mana
+ yet."
 #
-<name "ダークス">
-「一回目に会った時、かなり調子扱いたから、二回
-　目の時は冷や汗だったぜ」
+<name "Darx">
+"The first time I met him, I handled it pretty
+ easily.
+ The second time, I was in a cold sweat."
 #
-<name "飯を食う街の住民" "!KB0106">
-「あはは……どんな事を言ったんで？」
+<name "Dining Citizen" "!KB0106">
+"Hahahaha...
+ What did you say to him?"
 #
-<name "ダークス">
-「思い出させないでくれ。
-　恥ずかしさに悶えてしまう。
-　……忘れる為に飲もう！」
+<name "Darx">
+"Please don't remind me.
+ I hate even thinking about it.
+ ...Let's drink to forget!"
 #
-<name "飯を食う街の住民" "!KB0107">
-「は、はい、飲みましょう！」
+<name "Dining Citizen" "!KB0107">
+"O-Okay!
+ Let's drink!"
 #
-　人間、誰しも忘れたい過去の一つや二つや三つや
-　四つはあるものだ。
+We all have one or two or three or four things
+we'd like to forget.
 #
 <exit>
 :33C4
 <music 11>
 <background "bg008a0.agf" 10>
-<name "散歩する街の住民" "!MB0020">
-「最近、街に女が増えたな」
+<name "Strolling Citizen" "!MB0020">
+"There's been more women in the city lately."
 #
-<name "買い物をする住民" "!CB0045">
-「魔王様が外から引っ張ってきているんだ」
+<name "Shopping Citizen" "!CB0045">
+"The Overlord's been bringing them in."
 #
-<name "モテたい住民" "!KB0108">
-「じゃあ、全部、お手つきか？」
+<name "Eager Citizen" "!KB0108">
+"Then they're all his?"
 #
-<name "買い物をする住民" "!CB0046">
-「いや、それがそうでもないみたいだぞ」
+<name "Shopping Citizen" "!CB0046">
+"No, it doesn't seem like it."
 #
-<name "散歩する街の住民" "!MB0021">
-「……じゃあ」
+<name "Strolling Citizen" "!MB0021">
+"...Then..."
 #
-<name "モテたい住民" "!KB0109">
-「つまり」
+<name "Eager Citizen" "!KB0109">
+"Meaning..."
 #
-<name "買い物をする住民" "!CB0047">
-「俺達にもチャンスはあるって事だ」
+<name "Shopping Citizen" "!CB0047">
+"It means we have a chance."
 #
-<name "散歩する街の住民" "!MB0022">
-「俺、頑張るぜ」
+<name "Strolling Citizen" "!MB0022">
+"I'll do my best."
 #
-<name "モテたい住民" "!KB0110">
-「ああ、俺もだ」
+<name "Eager Citizen" "!KB0110">
+"Yeah, me too."
 #
-<name "買い物をする住民" "!CB0048">
-「ふっ。
-　抜け駆けは許さないからな」
+<name "Shopping Citizen" "!CB0048">
+"Hmph.
+ You're not getting ahead of me."
 #
-　盛り上がる街の男性達だった。
+The men in the city are getting worked up.
 #
 <exit>
 :3699
 <music 11>
 <background "bg008a0.agf" 10>
-<name "気付いた街の住民" "!LB0079">
+<name "Thoughtful Citizen" "!LB0079">
 「お、女の数がどんどん増えているような気がする
 　んだけど……」
 #
-<name "事情を知る住民" "!GB0072">
+<name "Knowing Citizen" "!GB0072">
 「魔王様が外から連れて来ているからね」
 #
-<name "気付いた街の住民" "!LB0080">
+<name "Thoughtful Citizen" "!LB0080">
 「わ、私のリュー君に、他の女がベタベタと……」
 #
-<name "事情を知る住民" "!GB0073">
+<name "Knowing Citizen" "!GB0073">
 「良い男だからね。
 　あー、でも、アンタのってのは間違いね。
 　告白とかしてないでしょ」
 #
-<name "気付いた街の住民" "!LB0081">
+<name "Thoughtful Citizen" "!LB0081">
 「してなくても、ずっと一緒だったもん。
 　家も隣だし」
 #
-<name "事情を知る住民" "!GB0074">
+<name "Knowing Citizen" "!GB0074">
 「四軒隣だよね」
 #
-<name "気付いた街の住民" "!LB0082">
+<name "Thoughtful Citizen" "!LB0082">
 「隣は隣だよ」
 #
-<name "事情を知る住民" "!GB0075">
+<name "Knowing Citizen" "!GB0075">
 「それを言うと、私もお隣さんになっちゃうよ。
 　アンタより近い三軒隣」
 #
-<name "気付いた街の住民" "!LB0083">
+<name "Thoughtful Citizen" "!LB0083">
 「え、なに、私を苛めてるの？」
 #
-<name "事情を知る住民" "!GB0076">
+<name "Knowing Citizen" "!GB0076">
 「ヘタレをなじってるの。
-　このままじゃ、愛しのリュー君は他の娘に持って
-　いかれるよ」
+　このままじゃ、愛しのリュー君は他の娘に持っていかれるよ」
 #
-<name "気付いた街の住民" "!LB0084">
+<name "Thoughtful Citizen" "!LB0084">
 「それは駄目ー」
 #
-<name "事情を知る住民" "!GB0077">
+<name "Knowing Citizen" "!GB0077">
 「じゃあ、お弁当攻撃頑張ってね。
 　今日も作って来たんでしょ」
 #
-<name "気付いた街の住民" "!LB0085">
+<name "Thoughtful Citizen" "!LB0085">
 「それはそうだけど……」
 #
-<name "事情を知る住民" "!GB0078">
+<name "Knowing Citizen" "!GB0078">
 「私はお昼、購買に行くからね。
 　いつも通りに渡せなくても、食べてあげないよ」
 #
-<name "気付いた街の住民" "!LB0086">
+<name "Thoughtful Citizen" "!LB0086">
 「うん。
 　絶対に渡す！
 　そして告白も同時に！」
 #
-<name "事情を知る住民" "!GB0079">
+<name "Knowing Citizen" "!GB0079">
 「よし、玉砕してこい」
 #
-<name "気付いた街の住民" "!LB0087">
-「あの、応援の仕方が……もう少し明るい未来を想
-　像できるもので」
+<name "Thoughtful Citizen" "!LB0087">
+「あの、応援の仕方が……もう少し明るい未来を想像できるもので」
 #
-<name "事情を知る住民" "!GB0080">
+<name "Knowing Citizen" "!GB0080">
 「大丈夫大丈夫♪」
 #
 <exit>
@@ -765,13 +790,13 @@
 <name "信念を持つ魔族" "!ZD0021">
 「あ、魔王様」
 #
-<name "ダークス">
+<name "Darx">
 「ん？」
 #
 <name "信念を持つ魔族" "!ZD0022">
 「魔王様は、女性の胸はどれぐらいが理想ですか？」
 #
-<name "ダークス">
+<name "Darx">
 「はっはっはっはっ。
 　胸のサイズなんかどうでも良い。
 　胸を持つ女性の心、そっちの方が大事だよ」
@@ -796,32 +821,32 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta34a001.agf" 4 4 11>
-<name "商会メイド" "!PC0188">
+<name "Company Maid" "!PC0188">
 「魔王様。
 　先の発言の真意は？」
 #
-<name "ダークス">
+<name "Darx">
 「多数の女性と関わり過ぎて、どう応えても問題が
 　出る。
 　あの答え以外に、何も言えない」
 #
 <sprite "ta34a000.agf" 4 4 12>
-<name "商会メイド" "!PC0189">
+<name "Company Maid" "!PC0189">
 「ですよねぇ」
 #
 <sprite "ta34a001.agf" 4 4 12>
-<name "商会メイド" "!PC0190">
+<name "Company Maid" "!PC0190">
 「で、本音は？」
 #
-<name "ダークス">
+<name "Darx">
 「揉める程度にあれば楽しめる。
 　でか過ぎるのは逆に性欲をそそらない」
 #
 <sprite "ta34a000.agf" 4 4 12>
-<name "商会メイド" "!PC0191">
+<name "Company Maid" "!PC0191">
 「つまり、ほどほどの乳、ほにゅー派と」
 #
-<name "ダークス">
+<name "Darx">
 「変な派閥を作らないでくれ」
 #
 <removesprite -1 11>
@@ -918,7 +943,7 @@
 「魔王様。
 　お久しぶりです」
 #
-<name "ダークス">
+<name "Darx">
 「ん？
 　ああ、久しぶりだが……どうしたんだ？
 　ここに来て大丈夫なのか？」
@@ -929,14 +954,14 @@
 <name "ゴラン" "!CA0034" "ka32a000.agf">
 「幹部連中も、報告連絡でここに来ても良いと」
 #
-<name "ダークス">
+<name "Darx">
 「なるほど」
 #
 <name "ゴラン" "!CA0035" "ka32a000.agf">
 「こっちの行政に関しては口出しするなと言われま
 　したが、見張りがついてくるでもないので……」
 #
-<name "ダークス">
+<name "Darx">
 「一応のポーズだろう。
 　行政に関してって言われても、行政って幅が広い
 　からな。
@@ -945,7 +970,7 @@
 <name "ゴラン" "!CA0036" "ka32a000.agf">
 「確かに」
 #
-<name "ダークス">
+<name "Darx">
 「それに、俺が街の金で行政のアドバイザーを雇う
 　分にはセーフだ」
 #
@@ -954,7 +979,7 @@
 　こちらがお金を受け取れば、何を言ってもセーフ
 　と」
 #
-<name "ダークス">
+<name "Darx">
 「渡さなくても、後払いなんだと言い訳できる。
 　規制になっていない規制なんだよ」
 #
@@ -963,18 +988,18 @@
 <name "ゴラン" "!CA0038" "ka32a000.agf">
 「では、なぜそんな規制をマクドゥ殿は？」
 #
-<name "ダークス">
+<name "Darx">
 「ただの嫌がらせ……じゃないな。
 　街が小さい時は十分に縛りになったし」
 #
-<name "ダークス">
+<name "Darx">
 「まあ、ここまで大きくなったから、関係なくなっ
 　たって感じかな」
 #
 <name "ゴラン" "!CA0039" "ka32a000.agf">
 「はぁ」
 #
-<name "ダークス">
+<name "Darx">
 「ま、来れるのはありがたい。
 　向こうの情報は、扉の間に居る時に聞く程度だっ
 　たからな」
@@ -997,7 +1022,7 @@
 「あ、あの、嫁が居るから……
 　抱きつくのは遠慮して欲しい」
 #
-<name "ダークス">
+<name "Darx">
 「モテるなぁ」
 #
 <exit>
@@ -1007,14 +1032,14 @@
 <name "トージョ" "!KA0066" "ka33a000.agf">
 「ちーっす」
 #
-<name "ダークス">
+<name "Darx">
 「あー、裏切り者だ」
 #
 <name "トージョ" "!KA0067" "ka33a000.agf">
 「あははは。
 　やめてくださいよぉ」
 #
-<name "ダークス">
+<name "Darx">
 「冗談だよ。
 　なかなか苦労しているみたいだな」
 #
@@ -1026,7 +1051,7 @@
 <name "トージョ" "!KA0069" "ka33a000.agf">
 「お陰で、少しだけやり易くはなりましたよ」
 #
-<name "ダークス">
+<name "Darx">
 「ライバルが居るとそうなるか。
 　少し、感謝だな」
 #
@@ -1035,11 +1060,11 @@
 　まあ、見張る必要はあるでしょうから、このまま
 　裏切り者を継続しますよ」
 #
-<name "ダークス">
+<name "Darx">
 「頼んだ。
 　ああ、違った」
 #
-<name "ダークス">
+<name "Darx">
 「よくも裏切ったな」
 #
 <name "トージョ" "!KA0071" "ka33a000.agf">
@@ -1050,7 +1075,7 @@
 　くお願いしますよ。
 　部下達、寂しがってますから」
 #
-<name "ダークス">
+<name "Darx">
 「任せておけ」
 #
 <exit>
@@ -1094,7 +1119,7 @@
 :5D31
 <music 40>
 <background "bg004a0.agf" 10>
-<name "ダークス">
+<name "Darx">
 「久しぶりだな」
 #
 <sprite "ta08a004.agf" 4 4 11>
@@ -1102,7 +1127,7 @@
 「あら、ダークス様。
 　ここに来られて、大丈夫なのですか？」
 #
-<name "ダークス">
+<name "Darx">
 「ああ、なんとかね。
 　こっちの方はどう？」
 #
@@ -1110,7 +1135,7 @@
 <name "ラキア" "!ZC0265">
 「ダークス様が居ませんから、イマイチですね」
 #
-<name "ダークス">
+<name "Darx">
 「お世辞でもそう言って貰えると嬉しいな」
 #
 <sprite "ta08a022.agf" 4 4 12>
@@ -1120,7 +1145,7 @@
 　で買い物をするようになってしまったから、売り
 　上げが……」
 #
-<name "ダークス">
+<name "Darx">
 「ははは。
 　俺一人で、そこまで影響は無いだろ」
 #
@@ -1130,14 +1155,14 @@
 　ダークス様が購入されたと言う事で、購入される
 　お客様とかが居ますから」
 #
-<name "ダークス">
+<name "Darx">
 「……なるほど」
 #
 <sprite "ta08a004.agf" 4 4 12>
 <name "ラキア" "!ZC0268">
 「と、言うワケで……」
 #
-<name "ダークス">
+<name "Darx">
 「わかったよ。
 　でも、軽い宴会程度で済ませて欲しいな」
 #
@@ -1157,7 +1182,7 @@
 <name "ラキア" "!ZC0275">
 「ソフィアはちゃんとやれていますか？」
 #
-<name "商会メイド" "!DC0159">
+<name "Company Maid" "!DC0159">
 「ミスが多いですが、それを補う情熱があります」
 #
 <sprite "ta08a003.agf" 2 4 12>
@@ -1165,14 +1190,14 @@
 「ダークス様に対するお世話は？」
 #
 <sprite "ta34a002.agf" 6 5 12>
-<name "商会メイド" "!DC0160">
+<name "Company Maid" "!DC0160">
 「十分だと思いますが……その……」
 #
 <sprite "ta08a002.agf" 2 4 12>
 <name "ラキア" "!ZC0277">
 「なにか？」
 #
-<name "商会メイド" "!DC0161">
+<name "Company Maid" "!DC0161">
 「Ｈな事に関しては、弱いかと」
 #
 <sprite "ta08a021.agf" 2 4 12>
@@ -1185,7 +1210,7 @@
 　引き続き、よろしくお願いします」
 #
 <sprite "ta34a000.agf" 6 5 12>
-<name "商会メイド" "!DC0162">
+<name "Company Maid" "!DC0162">
 「はい」
 #
 <removesprite -1 11>
@@ -1403,7 +1428,7 @@
 　……
 #
 <sprite "ta34b006.agf" 4 4 11>
-<name "商会メイド" "!PC0182">
+<name "Company Maid" "!PC0182">
 「あの二人、怖い……」
 #
 <removesprite -1 11>
@@ -1533,7 +1558,7 @@
 :8809
 <music 39>
 <background "bg002a0.agf" 10>
-<name "ダークス">
+<name "Darx">
 「ゴラン、久しぶりだな」
 #
 <name "ゴラン" "!CA0019" "ka32a000.agf">
@@ -1547,7 +1572,7 @@
 <name "ゴラン" "!CA0021" "ka32a000.agf">
 「ははははは」
 #
-<name "ダークス">
+<name "Darx">
 「で、そっちの調子はどうだ？」
 #
 <name "ゴラン" "!CA0022" "ka32a000.agf">
@@ -1557,7 +1582,7 @@
 「あとは、非統治エリアの連中の動きも活発になっ
 　ていますね」
 #
-<name "ダークス">
+<name "Darx">
 「なるほど。
 　よくわかった。
 　何かあったら教えてくれ」
@@ -1566,14 +1591,14 @@
 「はい。
 　で、魔王様の方は？」
 #
-<name "ダークス">
+<name "Darx">
 「まぁ……順調だ」
 #
 <name "ゴラン" "!CA0025" "ka32a000.agf">
 「ははは。
 　頑張ってください」
 #
-<name "ダークス">
+<name "Darx">
 「おう」
 #
 <exit>
