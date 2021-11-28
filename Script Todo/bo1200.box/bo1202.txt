@@ -114,400 +114,419 @@
 :1E06
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
 <name "Darx">
-「さて、殴って住民を増やせと言われたが……」
+"Okay, they told me to just pressgang some
+ people for the city, but..."
 #
 <name "Company Maid" "!DC0002" "ka34c000.agf">
 "My Lord, if I may?"
 #
 <name "Darx">
-「ん？
-　なんだ？」
+"Hm? What is it?"
 #
 <name "Company Maid" "!DC0003" "ka34c000.agf">
-「我ら一同、魔王様の後方支援を行います」
+"We will be providing logistic support for
+ you."
 #
 <name "Darx">
-「具体的には？」
+"What exactly?"
 #
 <name "Company Maid" "!DC0004" "ka34c000.agf">
-「魔王様より少し離れた位置に控え、魔王様が捕ら
-　えた者などを後方に輸送します」
+"We'll keep our distance while you explore,
+ and hold the people you capture in reserve."
 #
 <name "Company Maid" "!DC0005" "ka34c000.agf">
-「でなければ、住民の確保も難しいかと」
+"If we didn't, wouldn't it be hard to capture
+ any real number of people?"
 #
 <name "Darx">
-「確かにな」
+"Fair point."
 #
-　殴って従わせるのは出来ても、その後で逃げない
-　ように街まで連れて行くのは少数では面倒だ。
+Even if I took some people captive, I would
+only be able to manage a few at most without
+them escaping.
 #
 <name "Darx">
-「よろしく」
+"Thanks."
 #
 <name "Company Maid" "!DC0006" "ka34c000.agf">
-「はい。
-　よろしくお願いします」
+"Yes.
+ We look forward to working with yu."
 #
-\x8A 0  0  0  0  "『スペシャルギュンギュスカー』が|使用可能になりました。" 
+\x8A 0  0  0  0  "Gunguskar Support can now be used." 
 <exit>
 :21AD
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
 <name "Company Maid" "!DC0375" "ka34c000.agf">
-「僭越ながら、場所のご説明を致します」
+"If you don't mind, I can introduce this
+ dungeon to you."
 #
 <name "Company Maid" "!DC0376" "ka34c000.agf">
-「この場の名称は炎山洞」
+"The name of this place is the Volcano 
+ Caverns."
 #
 <name "Company Maid" "!DC0377" "ka34c000.agf">
-「一部は魔王様の統治エリアですが、大半が非統治
-　エリアです」
+"Some of it is under your domain, but most
+ is not."
 #
 <name "Company Maid" "!DC0378" "ka34c000.agf">
-「これから向かう先は、その非統治エリアです。
-　敵対する者も居ると思われますので、ご注意くだ
-　さい」
+"We are now entering the area that is not.
+ Please be careful, as there may be hostiles."
 #
 <name "Darx">
-「わかった」
+"Got it."
 #
 <exit>
 :23CA
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
 <name "Company Maid" "!DC0379" "ka34c000.agf">
-「ここは千樹庭」
+"This is the Arboreal Garden."
 #
 <name "Company Maid" "!DC0380" "ka34c000.agf">
-「炎山洞と同様に、一部は魔王様の統治エリアです
-　が、大半が非統治エリアです」
+"Like with the Volcano Caverns, while part
+ are under your control, most is not."
 #
 <name "Company Maid" "!DC0381" "ka34c000.agf">
-「これから向かう先は、当然その非統治エリアにな
-　ります。
-　ご注意ください」
+"The place we're going is, of course, not
+ under your control.
+ Please be careful."
 #
 <name "Darx">
-「わかった」
+"Got it."
 #
 <exit>
 :2576
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
 <name "Company Maid" "!DC0382" "ka34c000.agf">
-「ここは絶命院」
+"This is the Shrine of Death."
 #
 <name "Company Maid" "!DC0383" "ka34c000.agf">
-「冒険者達にも発見されていない場所とされており
-　ますが、実際はここに来た冒険者の大半が命を落
-　とすので近付かない場所です」
+"It's said that it's unexplored even by
+ adventurers. Most stay away because almost
+ all the ones who come end up dying."
 #
 <name "Darx">
-「だから、絶命院。
-　冒険者時代、噂で聞いた事があるな」
+"So this is the Shrine of Death.
+ I heard rumors about it when I was an
+ adventurer."
 #
 <name "Company Maid" "!DC0384" "ka34c000.agf">
-「敵が強い以外にも、罠等にご注意ください」
+"Be careful not just of strong enemies, but
+ traps too."
 #
 <name "Darx">
-「わかった」
+"Got it."
 #
 <exit>
 :2777
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
 <name "Company Maid" "!DC0385" "ka34c000.agf">
-「ここは鳳蜘蛛」
+"This is the Royal Web."
 #
 <name "Company Maid" "!DC0386" "ka34c000.agf">
-「蜘蛛の手足のように分岐がある事と、蜘蛛の手足
-　のような長さが特徴……と私が貰った資料にはあ
-　ります」
+"It branches like the legs of a spider, and
+ is long like the legs of a spider.
+ ...That's what the reports I have say."
 #
 <name "Darx">
-「なんだ、歯切れが悪いな」
+"That's not very elucidating."
 #
 <name "Company Maid" "!DC0387" "ka34c000.agf">
-「すみません。
-　最後に、あんまり信用するなって注意文が書かれ
-　ているのを見つけちゃいました」
+"I'm sorry.
+ The last note left is a warning not to trust
+ the other part too much."
 #
 <name "Darx">
-「ははは。
-　注意しよう」
+"Hahahaha.
+ Let's be careful."
 #
 <exit>
 :298C
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
 <name "Company Maid" "!DC0388" "ka34c000.agf">
-「ここは雷貨の雲。
-　天蓋の城と同じタイプの施設で、飛んで来た所を
-　魔王様が撃墜しました」
+"This is the Thunder Nimbus.
+ It's the same kind of place as Castle
+ Baldaquin.
+ You shot it down as it flew here."
 #
 <name "Company Maid" "!DC0389" "ka34c000.agf">
-「魔王様、凄いです」
+"You are incredible."
 #
 <name "Darx">
-「ははは」
+"Hahaha."
 #
 <name "Company Maid" "!DC0390" "ka34c000.agf">
-「ただ、天界の残存戦力が残り、強固に抵抗してい
-　ます」
+"However, there are still angel soldiers here,
+ and they have dug themselves in."
 #
 <name "Company Maid" "!DC0391" "ka34c000.agf">
-「ご注意ください」
+"Please be very careful."
 #
 <name "Darx">
-「帰って立て直した方が正解だと思うけどなぁ」
+"I wish they would just go home and rebuild."
 #
 <name "Company Maid" "!DC0392" "ka34c000.agf">
-「色々な考え方がありますから」
+"They have their own opinions on that."
 #
 <exit>
 :2C15
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
 <name "Company Maid" "!DC0393" "ka34c000.agf">
-「ここは光峰の壁」
+"This is the Lucent Crown Wall."
 #
 <name "Company Maid" "!DC0394" "ka34c000.agf">
-「雷貨の雲と同じく、天蓋の城と同じタイプの施設
-　です」
+"Similar to the Thunder Nimbus, this is the
+ same kind of place as Castle Baldaquin." 
 #
 <name "Company Maid" "!DC0395" "ka34c000.agf">
-「もちろん、魔王様によって落とされました」
+"Of course, you knocked it out of the sky
+ too."
 #
 <name "Darx">
-「ははは」
+"Hahaha."
 #
 <name "Company Maid" "!DC0396" "ka34c000.agf">
-「比較的施設が無事な事もあって、こちらにも天界
-　の戦力が残って強固な抵抗活動をしています」
+"It fell relatively undamaged, so there are
+ many angels still here with very strong
+ defenses."
 #
 <name "Darx">
-「向こうが侵入者なんだけどな」
+"They're still intruders here."
 #
 <name "Company Maid" "!DC0397" "ka34c000.agf">
-「さっさと帰って欲しいです」
+"I wish they would go straight home."
 #
 <exit>
 :2EA3
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
 <name "Company Maid" "!DC0398" "ka34c000.agf">
-「ここは石葉層」
+"This is the Stoneleaf Vein."
 #
 <name "Company Maid" "!DC0399" "ka34c000.agf">
-「フォーゼロッテ宮が作られる前からあった場所で、
-　葉が石になるぐらい古い場所とされています」
+"It was here even before Forzelotte's Shrine
+ was built. It's said to be so old that even
+ the leaves have turned to stone."
 #
 <name "Company Maid" "!DC0400" "ka34c000.agf">
-「実際に葉が石になるぐらい古くはありませんけど
-　ね」
+"But it's not actually old enough for that to
+ have happened."
 #
 <name "Darx">
-「だろうな」
+"Right?"
 #
-　まあ、周囲の化石からそう名付けられたんだろう。
+Well, I'm sure it's named that from the
+fossils I can see all over the place here.
 #
 <exit>
 :307A
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
 <name "Company Maid" "!DC0401" "ka34c000.agf">
-「ここは氷掌閣」
+"This is the Frostgrip Dome."
 #
 <name "Company Maid" "!DC0402" "ka34c000.agf">
-「火炎洞の対となる場所、氷林窟をご存知ですか？」
+"Are you aware of the Flame Cave and Ice
+ Grotto?"
+--THESE ARE BB1 DUNGEONS. LOOK UP WHAT THE
+ TL WAS--
 #
 <name "Darx">
-「ああ。
-　昔に何度か」
+"Yeah, I've been there a few times."
 #
 <name "Company Maid" "!DC0403" "ka34c000.agf">
-「その氷林窟の奥がここ氷掌閣になります」
+"When you go deep enough into the Ice Grotto,
+ it becomes the Frostgrip Dome."
 #
 <name "Company Maid" "!DC0404" "ka34c000.agf">
-「名前が違う事からお分かりになられたでしょうが、
-　氷林窟とは別物です」
+"I'm sure you can tell by the different names,
+ but it's considered a very different place."
 #
 <name "Company Maid" "!DC0405" "ka34c000.agf">
-「ご注意ください」
+"Be on your guard."
 #
 <name "Darx">
-「わかった」
+"Got it."
 #
 <exit>
 :32DA
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
 <name "Company Maid" "!DC0406" "ka34c000.agf">
-「前に来た時と、全然雰囲気が違いますね」
+"It feels completely different from the last
+ time were were here."
 #
 <name "Company Maid" "!DC0407" "ka34c000.agf">
-「巨大な生物のお腹の中に飛び込む感じです」
+"It's like jumping straight into the mouth of
+ a monster."
 #
 <name "Darx">
-「だな」
+"Yeah."
 #
-　自分の腹って思うと、笑えないなぁ。
+When I wonder if it's my own stomach, it's
+hard to laugh about it.
 #
 <exit>
 :3412
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
 <name "Darx">
-「ここが堕天牢か」
+"So this is the Skyfall Prison."
 #
 <name "Company Maid" "!DC0408" "ka34c000.agf">
-「雰囲気は……完全に天界の施設ですね」
+"It feels... just like a true Celestial
+ place."
 #
 <name "Darx">
-「まあ、当たり前だな。
-　油断せずに行くぞ」
+"Well, naturally.
+ Don't let your guards down."
 #
 <exit>
 :3503
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "男の声" "!KB0046">
-「あ、あの魔王様……」
+<name "Man's Voice" "!KB0046">
+"U-Um, Overlord...
 #
 <name "Darx">
-「ん？
-　誰だ？」
+"Hm?
+ Who's there?"
 #
-<name "男の声" "!KB0047">
-「すみません。
-　俺、アンゴラメイ種族の男です。
-　魔王様が俺を探しているって聞いて、来ました」
-#
-<name "Darx">
-「そうか。
-　しかし、なぜ姿を見せない？
-　隠れているのか？」
-#
-<name "アンゴラメイの男" "!KB0048">
-「申し訳ありません。
-　姿を見せるワケにはいきません。
-　女性に見つかりたくないんです」
+<name "Man's Voice" "!KB0047">
+"I'm sorry.
+ I'm an angolamay man.
+ I heard you were looking for me, so here I
+ am."
 #
 <name "Darx">
-「見つかりたくない？」
+"I see, but why won't you show yourself?
+ Are you hiding?"
 #
-<name "アンゴラメイの男" "!KB0049">
-「はい。
-　もう、疲れたんです」
-#
-<name "アンゴラメイの男" "!KB0050">
-「今のアンゴラメイ種族の男女比、知ってますか？
-　一対千二百ぐらいです」
-#
-<name "アンゴラメイの男" "!KB0051">
-「つまり、俺一人で千二百人を相手にしなければな
-　らないんです」
-#
-<name "アンゴラメイの男" "!KB0052">
-「となると、女性達は男性を徹底した管理下に置い
-　て体調をコントロールしてくれます」
+<name "Angolamay Man" "!KB0048">
+"Forgive me.
+ I don't want anybody to see me.
+ I don't want the women to find me."
 #
 <name "Darx">
-「ほう」
+"You don't want to be found?"
 #
-<name "アンゴラメイの男" "!KB0053">
-「そして一日に数人を相手にする生活です」
+<name "Angolamay Man" "!KB0049">
+"Yes.
+ I'm so tired."
 #
-<name "Darx">
-「ある意味、男の理想的な生活じゃないか？」
+<name "Angolamay Man" "!KB0050">
+"Do you know how many angolamay women there
+ are for each man?
+ Almost 1,200."
 #
-<name "アンゴラメイの男" "!KB0054">
-「そ、それは、俺を求めてくれた時の話です。
-　彼女らは、アンゴラメイ種族の精液を求めている
-　のであって、俺の事はどうでも良いんです」
+<name "Angolamay Man" "!KB0051">
+"It means I have to deal with 1,200 women
+ by myself."
 #
-<name "アンゴラメイの男" "!KB0055">
-「愛が、愛が無いんです！」
-#
-<name "アンゴラメイの男" "!KB0056">
-「俺も頑張りました」
-#
-<name "アンゴラメイの男" "!KB0057">
-「向こうが愛してくれないなら、こっちからと」
-#
-<name "アンゴラメイの男" "!KB0058">
-「でも駄目だった……」
-#
-<name "アンゴラメイの男" "!KB0059">
-「俺が愛した女性達は、妊娠したら用済みとばかり
-　に顔も見せてくれませんでした」
-#
-<name "アンゴラメイの男" "!KB0060">
-「そして、次々と変わる面子」
-#
-<name "アンゴラメイの男" "!KB0061">
-「耐えられません」
+<name "Angolamay Man" "!KB0052">
+"Which means they keep the men under their
+ complete control and under strict
+ regulation."
 #
 <name "Darx">
-「そうか。
-　苦労したんだな」
+"Oh?"
 #
-<name "アンゴラメイの男" "!KB0062">
-「はい。
-　だからお願いです」
-#
-<name "アンゴラメイの男" "!KB0063">
-「もう探さないで下さい。
-　そして、そっとして置いて下さい」
-#
-　その要望に、同情すべきか、嫉妬するべきか、微
-　妙な感情が俺の中に渦巻いたが、最終的には男同
-　士の共感を優先した。
+<name "Angolamay Man" "!KB0053">
+"And I have to be with several women every
+ single day."
 #
 <name "Darx">
-「見逃してやる」
+"In a way, isn't that a man's dream life?"
 #
-<name "アンゴラメイの男" "!KB0064">
-「ありがとうございます！」
+<name "Angolamay Man" "!KB0054">
+"T-That's what they said when got me, but
+ angolamay women doesn't care about me, only
+ my sperm."
 #
-<name "Darx">
-「まあ、何かあったら街に来い。
-　種族問題にはなかなか立ち入れないが、出来るだ
-　けの事はしてやる」
+<name "Angolamay Man" "!KB0055">
+"It's making love without love!"
 #
-<name "アンゴラメイの男" "!KB0065">
-「は、はい」
+<name "Angolamay Man" "!KB0056">
+"I tried my best."
 #
-　少し、良い事をした気分になった。
+<name "Angolamay Man" "!KB0057">
+"Even if they didn't love me, I would love
+ them."
 #
-　……
+<name "Angolamay Man" "!KB0058">
+"But it didn't work..."
 #
-<name "ヤーヌ" "!NB0037" "ka24a000.agf">
-「雄の匂いがしますね」
+<name "Angolamay Man" "!KB0059">
+"All the women I loved... as soon as they got
+ pregnant, they never wanted to see me again."
 #
-<name "Darx">
-「え？」
+<name "Angolamay Man" "!KB0060">
+"And it was just one after another."
 #
-<name "ヤーヌ" "!NB0038" "ka24a001.agf">
-「私達の種族の男に会いました？」
-#
-<name "Darx">
-「ああ……逃げられたけどな」
-#
-<name "ヤーヌ" "!NB0039" "ka24a010.agf">
-「そうですか。
-　では、私達の種族は未だに男不在」
-#
-<name "ヤーヌ" "!NB0040" "ka24a003.agf">
-「代理を魔王様に頼んでも良いですよね」
+<name "Angolamay Man" "!KB0061">
+"I couldn't take it."
 #
 <name "Darx">
-「……し、仕事に支障の無いレベルでな」
+"I see.
+ It sounds like you had a hard time."
 #
-　希望するアンゴラメイ種族の女達を、抱いてやっ
-　た。
+<name "Angolamay Man" "!KB0062">
+"Yes, so please."
+#
+<name "Angolamay Man" "!KB0063">
+"Don't look for me any more.
+ And please don't leave me be."
+#
+I don't know whether to sympathize or be
+jealous, but despit the conflicting feelings,
+I do feel bad for him.
+#
+<name "Darx">
+"You can go."
+#
+<name "Angolamay Man" "!KB0064">
+"Thank you very much!"
+#
+<name "Darx">
+"Well, if anything happens, come to the city.
+ I can't meddle with your race's stuff, but
+ I'll do what I can."
+#
+<name "Angolamay Man" "!KB0065">
+"O-Okay."
+#
+I feel like I did some good.
+#
+...
+#
+<name "Yahnu" "!NB0037" "ka24a000.agf">
+"I smell a male."
+#
+<name "Darx">
+"Huh?"
+#
+<name "Yahnu" "!NB0038" "ka24a001.agf">
+"Did you run into one of our kind's males?"
+#
+<name "Darx">
+"Yeah, but he ran off."
+#
+<name "Yahnu" "!NB0039" "ka24a010.agf">
+"I see.
+ Then our tribe is still without a man."
+#
+<name "Yahnu" "!NB0040" "ka24a003.agf">
+"Maybe we should ask you to take his place."
+#
+<name "Darx">
+"...I-If it won't get in the way of my work."
+#
+I had sex with a bunch of angolamay women.
 #
 <exit>
 :40B8
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
 <name "Company Maid" "!AC0105" "ka34c000.agf">
-「長時間、触れない特性を生かして、ゲリラ戦術を
-　仕掛ければそれなりに強いのでは？」
+「長時間、触れない特性を生かして、
+ゲリラ戦術を仕掛ければそれなりに強いのでは？」
 #
-<name "黒い婦人" "!HC0038" "ka37a000.agf">
+<name "Dark Lady" "!HC0038" "ka37a000.agf">
 「あはは……
-　相手が本気になったら、成仏させられちゃいます
-　から」
+　相手が本気になったら、成仏させられちゃいますから」
 #
 <exit>
 :41F8
@@ -553,8 +572,7 @@
 <removesprite -1 11>
 <sprite "ta18a000.agf" 4 4 11>
 <name "Lotta" "!HB0008">
-「やられたらやり返さないと、集団は維持できない
-　もんね」
+「やられたらやり返さないと、集団は維持できないもんね」
 #
 <removesprite -1 11>
 <sprite "ta16a000.agf" 4 4 11>
@@ -678,13 +696,12 @@
 　で、どうして男が少ないんだ？」
 #
 <name "Knowing Woman" "!QB0056">
-「城が落ちる少し前、天界の連中が攻めて来たのは
-　知ってる？
+「城が落ちる少し前、天界の連中が攻めて来たのは知ってる？
 　あれと戦ってほとんどが死んだのよ」
 #
 <name "Knowing Woman" "!QB0057">
-「で、数少なく生き残っていたのも、落ちた城を拠
-　点にした天界の連中にやられたの」
+「で、数少なく生き残っていたのも、
+落ちた城を拠点にした天界の連中にやられたの」
 #
 <name "Knowing Woman" "!QB0058">
 「天界の連中、なぜか男ばかり狙って来たから……
@@ -711,17 +728,16 @@
 「なるほど」
 #
 <name "Company Maid" "!PC0111" "ka34c000.agf">
-「ですが、種族の滅亡に関しては、魔界に行けばそ
-　れなりに数が居ますから現実的ではありません」
+「ですが、種族の滅亡に関しては、
+魔界に行けばそれなりに数が居ますから現実的ではありません」
 #
 <name "Darx">
 「あー、そうか」
 #
 <name "Company Maid" "!PC0112" "ka34c000.agf">
-「ですので……魔王様を狙ったが、男であるという
-　情報しかなかった。
-　もしくは、魔王様の行為によって発生した男性に
-　対する嫌悪感から」
+「ですので……魔王様を狙ったが、
+男であるという情報しかなかった。
+　もしくは、魔王様の行為によって発生した男性に対する嫌悪感から」
 #
 <name "Company Maid" "!PC0113" "ka34c000.agf">
 「という理由はどうでしょう」
@@ -741,12 +757,10 @@
 #
 <name "Darx">
 「老人と子供か……
-　どっちも、冒険者の時は大事にしろって言われて
-　たな」
+　どっちも、冒険者の時は大事にしろって言われてたな」
 #
 <name "Darx">
-「って事で、不平が出ないレベルで優遇してやって
-　くれ」
+「って事で、不平が出ないレベルで優遇してやってくれ」
 #
 <name "Company Maid" "!PC0115" "ka34c000.agf">
 「よろしいので？」

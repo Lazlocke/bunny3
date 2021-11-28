@@ -19,100 +19,100 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta01a024.agf" 4 4 11>
-<name "ソフィア" "!ZB0079">
-「あ、あの？」
+<name "Sofia" "!ZB0079">
+"U-Um..."
 #
-<name "ダークス">
-「どうした？」
+<name "Darx">
+"What is it?"
 #
 <sprite "ta01a026.agf" 4 4 12>
-<name "ソフィア" "!ZB0080">
-「ラキア様から伺っていたのですが、その……
-　夜のお相手に関してです」
+<name "Sofia" "!ZB0080">
+"Rakia told me that you, um... need someone
+ at night."
 #
-<name "ダークス">
-「どういう風に聞いているんだ？」
+<name "Darx">
+"What did she tell you exactly?"
 #
 <sprite "ta01a025.agf" 4 4 12>
-<name "ソフィア" "!ZB0081">
-「えっと、定期的に女性を抱いて魔力を放出しない
-　といけないと……」
+<name "Sofia" "!ZB0081">
+"Um, that you need to have sex with women
+ regularly to release mana..."
 #
-<name "ダークス">
-「事実だが、今ではかなり魔力をコントロールでき
-　る。
-　しばらく抱かなくても大丈夫だ」
+<name "Darx">
+"That's true, but I can control it pretty well
+ now.
+ I won't need to have sex for a while."
 #
 <removesprite -1 11>
-　分身体に任せている面もあるしな。
+I can also leave that to my other body.
 #
 <sprite "ta01a025.agf" 4 4 11>
-<name "ソフィア" "!ZB0082">
-「では、お相手をご用意する必要は……」
+<name "Sofia" "!ZB0082">
+"So about needing to find someone..."
 #
-<name "ダークス">
-「しばらくは必要無い」
+<name "Darx">
+"Not for a while."
 #
 <sprite "ta01a004.agf" 4 4 12>
-<name "ソフィア" "!ZB0083">
-「そうですか。
-　承知しました」
+<name "Sofia" "!ZB0083">
+"I see.
+ I understand."
 #
 <sprite "ta01a033.agf" 4 4 12>
-<name "ソフィア" "!ZB0084">
-「では、必要な時はお声掛け下さい」
+<name "Sofia" "!ZB0084">
+"Then please tell me when you do need 
+ someone."
 #
-<name "ダークス">
-「ああ、そうさせて貰うよ」
+<name "Darx">
+"Yeah, I'll do that."
 #
 <removesprite -1 11>
-　まあ、必要なら自分でなんとかするが……
+Well, I can handle that myself if push comes
+to shove.
 #
-　……
+...
 #
-<name "ダークス">
-「あー、質問だが」
+<name "Darx">
+"Oh, question."
 #
 <sprite "ta01a004.agf" 4 4 11>
-<name "ソフィア" "!ZB0085">
-「はい？」
+<name "Sofia" "!ZB0085">
+"Yes?"
 #
-<name "ダークス">
-「その相手ってのはお前か？」
+<name "Darx">
+"Were you suggesting yourself?"
 #
 <sprite "ta01a037.agf" 4 4 12>
-<name "ソフィア" "!ZB0086">
-「え？
-　あ、ち、違いますよ。
-　変な事、言わないでください」
+<name "Sofia" "!ZB0086">
+"Huh? Oh, n-no.
+ Please don't suggest anything strange."
 #
-<name "ダークス">
-「そうか。
-　期待しているなら、相手をしてやろうと思っただ
-　けだ」
+<name "Darx">
+"I see.
+ I was just saying that I'd be happy to do it
+ with you if that's what you wanted."
 #
 <sprite "ta01a010.agf" 4 4 12>
-<name "ソフィア" "!ZB0087">
-「し、してません」
+<name "Sofia" "!ZB0087">
+"I-It's not."
 #
-<name "ダークス">
-「悪かった。
-　が、必要な時は言えよ」
+<name "Darx">
+"Sorry, but tell me if you want to."
 #
 <sprite "ta01a013.agf" 4 4 12>
-<name "ソフィア" "!ZB0088">
-「い、言いません！
-　失礼します」
+<name "Sofia" "!ZB0088">
+"I-I will not!
+ Excuse me!"
 #
 <removesprite -1 11>
 <exit>
 :9F7
 <music 5>
 <background "bg011a0.agf" 10>
-<name "ダークス">
+<name "Darx">
 「さて、仕事を……ん？」
 #
-<name "ダークス">
+<name "Darx">
 「なんだこれ？」
 #
 <sprite "ta34a000.agf" 4 4 11>
@@ -121,11 +121,11 @@
 　なんでも、魔王様向きだって担当者が持ってきま
 　したよ」
 #
-<name "ダークス">
+<name "Darx">
 「俺向き？」
 #
 <removesprite -1 11>
-<name "ダークス">
+<name "Darx">
 「まあ、読めばわかるか」
 #
 　俺は本を開いた。
@@ -184,8 +184,7 @@
 #
 　だが、裏社会と繋がってた。
 #
-　それを知った時には、引き返せない所まで話が進
-　んでいた。
+　それを知った時には、引き返せない所まで話が進んでいた。
 #
 　だから、騙し切るしかないと覚悟した。
 #
@@ -440,20 +439,20 @@
 <name "秘書メイド" "!AC0309">
 「どうでした？」
 #
-<name "ダークス">
+<name "Darx">
 「どうもこうも……」
 #
 <name "秘書メイド" "!AC0310">
 「魔王様向きではありませんでしたか？」
 #
-<name "ダークス">
+<name "Darx">
 「俺向きだったけどさ」
 #
 <removesprite -1 11>
 　周囲にどう思われているか、疑ってしまう俺だっ
 　たが……
 #
-<name "ダークス">
+<name "Darx">
 「とりあえず、ちょっと来い」
 #
 <sprite "ta34a002.agf" 4 4 11>
@@ -468,12 +467,12 @@
 :2262
 <music 5>
 <background "bg011a0.agf" 10>
-<name "ダークス">
+<name "Darx">
 「さてと……また本があるな」
 #
 　冒険者が所持していた本か。
 #
-<name "ダークス">
+<name "Darx">
 「まあ、いいけどな」
 #
 <background "bg017a0.agf" 10>
@@ -681,10 +680,10 @@
 <background "bg017a0.agf" 10>
 <music 5>
 <background "bg011a0.agf" 10>
-<name "ダークス">
+<name "Darx">
 「むー」
 #
-<name "ダークス">
+<name "Darx">
 「むむー」
 #
 <sprite "ta34a000.agf" 4 4 11>
@@ -692,14 +691,14 @@
 「あら、魔王様。
 　どうかされました？」
 #
-<name "ダークス">
+<name "Darx">
 「今、このタイミングでここに来た君はラッキーだ」
 #
 <sprite "ta34a002.agf" 4 4 12>
 <name "秘書メイド" "!AC0313">
 「え？」
 #
-<name "ダークス">
+<name "Darx">
 「さあ、こちらへどうぞ。
 　お嬢様」
 #
@@ -711,7 +710,7 @@
 　合意の上、楽しんだ。
 #
 <sprite "ta01a108.agf" 4 4 11>
-<name "ソフィア" "!ZB1019">
+<name "Sofia" "!ZB1019">
 「し、仕事中のメイドを抱くのは止めてください」
 #
 <removesprite -1 11>
@@ -722,25 +721,25 @@
 :33BA
 <music 5>
 <background "bg011a0.agf" 10>
-<name "ダークス">
+<name "Darx">
 「ん？
 　本か？」
 #
-<name "ダークス">
+<name "Darx">
 「あれ？
 　普通のとは少し違うみたいだな」
 #
-<name "ダークス">
+<name "Darx">
 「誰か説明……」
 #
-<name "ダークス">
+<name "Darx">
 「誰も居ない」
 #
-<name "ダークス">
+<name "Darx">
 「ん？
 　なんだ、最初に説明文があるじゃないか」
 #
-<name "ダークス">
+<name "Darx">
 「えっと、用意しなければいけない物があるのか？
 　変わった本だな」
 #
@@ -1068,28 +1067,28 @@
 <background "bg017a0.agf" 10>
 <music 5>
 <background "bg011a0.agf" 10>
-<name "ダークス">
+<name "Darx">
 「むう。
 　なんとかエンディングまでいけた。
 　良かった」
 #
-<name "ダークス">
+<name "Darx">
 「シートを見ると、八回も失敗したのか。
 　なかなか難しいものだ」
 #
-<name "ダークス">
+<name "Darx">
 「まあ、それゆえの達成感か」
 #
-<name "ダークス">
+<name "Darx">
 「……」
 #
-<name "ダークス">
+<name "Darx">
 「ぬぬぬ、あの分岐でこっちを選んだ方が良かった
 　のかもしれないが……」
 #
 　それなりにハマる俺だった。
 #
-<name "ダークス">
+<name "Darx">
 「行き先ナンバーの大小で、行動を選ぶのは邪道だ
 　な」
 #
@@ -1098,20 +1097,20 @@
 :4F8C
 <music 5>
 <background "bg011a0.agf" 10>
-<name "ダークス">
+<name "Darx">
 「新しい本か」
 #
 <sprite "ta34b000.agf" 4 4 11>
 <name "清掃メイド" "!PC0563">
 「本です」
 #
-<name "ダークス">
+<name "Darx">
 「学術書とか、そういった高尚な本じゃないよな」
 #
 <removesprite -1 11>
 　いつも通りなら、エッチな本だ。
 #
-<name "ダークス">
+<name "Darx">
 「冒険者がこういった本を持っている事にも疑問だ」
 #
 　ブツブツ言いながらも、ページをめくる俺だった。
@@ -1464,14 +1463,14 @@
 <background "bg017a0.agf" 10>
 <music 5>
 <background "bg011a0.agf" 10>
-<name "ダークス">
+<name "Darx">
 「女って、怖いなぁ」
 #
 <sprite "ta34b002.agf" 4 4 11>
 <name "清掃メイド" "!PC0564">
 「え？」
 #
-<name "ダークス">
+<name "Darx">
 「あ、いや、なんでもない」
 #
 <sprite "ta34b000.agf" 4 4 12>
@@ -1480,34 +1479,34 @@
 　ですが、女の私からすれば、男の方が怖いですけ
 　ど」
 #
-<name "ダークス">
+<name "Darx">
 「ん？
 　そうなのか？」
 #
 <name "清掃メイド" "!PC0566">
 「ええ、いつ襲われるかわかりませんから」
 #
-<name "ダークス">
+<name "Darx">
 「おおっと。
 　俺を警戒しているのかな？」
 #
 <name "清掃メイド" "!PC0567">
 「魔王様は優しいですから」
 #
-<name "ダークス">
+<name "Darx">
 「それは光栄だな」
 #
 <sprite "ta34b002.agf" 4 4 12>
 <name "清掃メイド" "!PC0568">
 「でも、他の方は……ちょっと」
 #
-<name "ダークス">
+<name "Darx">
 「しかし、それだと仕事に支障が出るだろう」
 #
 <name "清掃メイド" "!PC0569">
 「ええ、なんとかなりませんか」
 #
-<name "ダークス">
+<name "Darx">
 「なんとかしてやろう。
 　とりあえず、襲われた時の対処法の研究などはど
 　うだろう？」
@@ -1515,7 +1514,7 @@
 <name "清掃メイド" "!PC0570">
 「ベッドの中で、ですか？」
 #
-<name "ダークス">
+<name "Darx">
 「襲われた感を出す為、床で」
 #
 <sprite "ta34b000.agf" 4 4 12>
@@ -1537,7 +1536,7 @@
 <name "秘書メイド" "!AC0316">
 「あと、その際は私も参加希望です」
 #
-<name "ダークス">
+<name "Darx">
 「……」
 #
 <removesprite -1 11>
@@ -1583,7 +1582,7 @@
 \x2E\x22\x00\x05 1  10 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x35\x00\x20\x00\x3C\x00\x3D\x00\x20\x00\x31\x00 :7423: 
 <music 5>
 <background "bg011a0.agf" 10>
-<name "ダークス">
+<name "Darx">
 「素直に寝よう」
 #
 :7423
@@ -1591,10 +1590,10 @@
 <music 5>
 <background "bg011a0.agf" 10>
 <sprite "ta01a000.agf" 4 4 11>
-<name "ソフィア" "!ZB0998">
+<name "Sofia" "!ZB0998">
 「お休みなさいませ」
 #
-<name "ダークス">
+<name "Darx">
 「ああ」
 #
 <removesprite -1 11>
@@ -1608,7 +1607,7 @@
 「お身体を休めるのも大事です。
 　ごゆっくり」
 #
-<name "ダークス">
+<name "Darx">
 「ありがとう」
 #
 <removesprite -1 11>
@@ -1617,49 +1616,49 @@
 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x34\x00 :763E: 
 <music 5>
 <background "bg011a0.agf" 10>
-<name "ダークス">
+<name "Darx">
 「のんびり」
 #
 :763E
 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x35\x00 :76A2: 
 <music 5>
 <background "bg011a0.agf" 10>
-<name "ダークス">
+<name "Darx">
 「すやすや……」
 #
 :76A2
 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x36\x00 :7702: 
 <music 5>
 <background "bg011a0.agf" 10>
-<name "ダークス">
+<name "Darx">
 「ぐー……」
 #
 :7702
 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x37\x00 :7768: 
 <music 5>
 <background "bg011a0.agf" 10>
-<name "ダークス">
+<name "Darx">
 「たまには休暇を」
 #
 :7768
 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x38\x00 :77CE: 
 <music 5>
 <background "bg011a0.agf" 10>
-<name "ダークス">
+<name "Darx">
 「ふう……疲れた」
 #
 :77CE
 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00 :7836: 
 <music 5>
 <background "bg011a0.agf" 10>
-<name "ダークス">
+<name "Darx">
 「寝るしかないよな」
 #
 :7836
 \x1A\x01\x0B\x43\x00\x4C\x00\x30\x00\x30\x00\x35\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x30\x00 :789A: 
 <music 5>
 <background "bg011a0.agf" 10>
-<name "ダークス">
+<name "Darx">
 「……寝よう」
 #
 :789A

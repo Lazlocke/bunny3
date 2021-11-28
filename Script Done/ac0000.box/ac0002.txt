@@ -1,8 +1,8 @@
 ﻿\x1A\x01\x0A\x46\x00\x47\x00\x38\x00\x30\x00\x31\x00\x20\x00\x6F\x00\x6E\x00\x09\x00\x09\x00 :80: 
-<choice :79: "引き継ぐ" \x00\x00>
-<choice :80: "引き継がない" \x00\x00>
-　引き継ぎデータがあります。
-　引き継ぎますか？
+<choice :79: "New Game+" \x00\x00>
+<choice :80: "Do not use New Game+" \x00\x00>
+New Game+ save data detected.
+Begin a new game using this save data?
 #
 :79
 \x86\x15 :80: 
@@ -21,45 +21,46 @@
 \x1A\x01\x0C\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x09\x00\x09\x00 :2B9: 
 <music 14>
 <background "bg015a0.agf" 10>
-　インフォメーション！
+Special Announcement!
 #
-　ＢＵＮＮＹ　ＢＬＡＣＫ（１ｏｒ２）の
-　インストールを確認しました。
+Bunny Black 1 or 2 installation detected!
+Extra characters can join your party on a
+New Game+.
 #
 :1F0
-<choice :293: "使用する" \x00\x00>
-<choice :2B9: "使用しない" \x00\x00>
-　二周目以降に選択可能な特殊ユニットを使用しま
-　すか？
-（数名のメンバーが、ストーリーを無視して仲間に
-　なります）
+<choice :293: "Recruit" \x00\x00>
+<choice :2B9: "Do Not Recruit" \x00\x00>
+Do you want these characters to join your
+party in New Game+?
+This has no effect on story events.
 #
 :293
 \x0A\x04\x11\x94\x84\x01
-　特殊ユニットが加入します。
+The extra units will join your party.
 #
 :2B9
 \x1A\x01\x0A\x46\x00\x47\x00\x30\x00\x31\x00\x35\x00\x20\x00\x6F\x00\x6E\x00\x09\x00\x09\x00 :409: 
-<choice :371: "初期の強さ" \x00\x00>
-<choice :3A3: "周回用の強さ" \x00\x00>
-<choice :3D7: "極めの強さ" \x00\x00>
-　敵の強さを調整できます。
-　どうしますか？
-（極めの強さは、クリアの保障ができません）
+<choice :371: "Default" \x00\x00>
+<choice :3A3: "Expert" \x00\x00>
+<choice :3D7: "Overlord" \x00\x00>
+You may adjust the difficulty.
+Expert is recommended for New Game+.
+Overlord is meant to be a significant 
+challenge even during New Game+.
 #
 :371
 \x0A\x02\x01\x87 0 \x0A\x02\x01\x88 0 
-　敵は初期の強さです。
+The difficulty has been set to Default.
 #
 \x15 :409: 
 :3A3
 \x0A\x02\x01\x87 20 \x0A\x02\x01\x88 2 
-　敵は周回用の強さです。
+The difficulty has been set to Expert.
 #
 \x15 :409: 
 :3D7
 \x0A\x02\x01\x87 50 \x0A\x02\x01\x88 5 
-　敵は極めの強さです。
+The difficulty has been set to Overlord.
 #
 \x15 :409: 
 :409

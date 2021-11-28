@@ -6066,7 +6066,7 @@ A snake somewhere cold?
 "Yeah."
 #
 <removesprite -1 11>
-To the Icegrip Dome!
+To the Frostgrip Dome!
 #
 \x0A\x44\x01\xCF\x84\x01\x0A\x44\x02\x0E\x84\x01
 <exit>

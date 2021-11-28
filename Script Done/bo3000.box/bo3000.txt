@@ -1,8 +1,8 @@
 ﻿\x1A\x01\x0B\x43\x00\x30\x00\x39\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x32\x00\x30\x00\x09\x00 :FD: \x1A\x01\x09\x46\x00\x31\x00\x30\x00\x30\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :B7: \x0A\x04\x00\x64\x84\x01
-　迷宮に潜ります。
-　敵を倒す事で、住民、資金、資源、食料を入手す
-　る事が可能になります。
-　頑張ってください。
+Explore dungeons.
+Defeat the enemies within to obtain residents,
+money, resources, and food.
+Good luck.
 #
 :B7
 \x1A\x01\x08\x46\x00\x31\x00\x38\x00\x30\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :D5: \x15 :DD7: 
@@ -10,20 +10,21 @@
 \x0A\x04\x00\xB4\x84\x01\x6E 1  "bo3000.box" \x15 :DD7: 
 :FD
 \x1A\x01\x0B\x43\x00\x30\x00\x39\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x32\x00\x31\x00\x09\x00 :2E2: \x1A\x01\x09\x46\x00\x31\x00\x30\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :29C: \x0A\x04\x00\x65\x84\x01
-　内政を行います。
-『視察』『イベント』『交換』が出来ます。
+Administrative activities are now unlocked.
+Inspect, Event, and Exchange are available.
 #
-『視察』
-　街を見回る事で、施設が得る経験値を増やします。
-　街を早く発展させたい時などにお勧めです。
+Inspect
+By inspecting the city, you can increase the
+amount of experience facilities gain. Do this
+when you want the city to grow quickly.
 #
-『イベント』
-　施設によって発生するイベントを実行できます。
-　実行する事で、様々な効果を得ます。
+Event
+Hold various events at constructed facilities.
+A number of different effects are possible.
 #
-『交換』
-　所持している資金、資源、食料を特定レートで交
-　換します。
+Exchange
+Trade money, resources, and food for each
+other, but at a cost.
 #
 :29C
 \x1A\x01\x08\x46\x00\x31\x00\x38\x00\x31\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :2BA: \x15 :DD7: 
@@ -33,9 +34,10 @@
 \x1A\x01\x0B\x43\x00\x30\x00\x39\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x32\x00\x32\x00\x09\x00 :3D4: 
 <music 14>
 \x2B\x1A\x01\x09\x46\x00\x31\x00\x30\x00\x32\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :38E: \x0A\x04\x00\x66\x84\x01
-　休憩します。
-　体力が回復し、ターンが経過します。
-　負傷した仲間の回復も僅かに早くなります。
+Rest
+A turn passes, but recover some health.
+Injured companies will also recover more
+quickly.
 #
 :38E
 \x1A\x01\x08\x46\x00\x31\x00\x38\x00\x32\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :3AC: \x15 :DD7: 
@@ -45,25 +47,28 @@
 \x1A\x01\x0B\x43\x00\x30\x00\x39\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x32\x00\x33\x00\x09\x00 :692: 
 <music 10>
 \x2B\x1A\x01\x09\x46\x00\x31\x00\x30\x00\x33\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :64C: \x0A\x04\x00\x67\x84\x01
-　施設を建設します。
-　施設によっては、毎ターン、資金、資源、食料を
-　生産してくれます。
+Construct
+Each different facility you build will have
+its own effect. Most produce money, resources,
+or food.
 #
-　最初は微々たる量ですが、ターン経過や内政の視
-　察、イベント等で経験値を獲得し、施設が成長す
-　る事で、生産量が増えていきます。
+At first, they will only produce a small
+amount, but as time passes, they gain 
+experience, and events affect them, the amount
+will increase.
 #
-　また、施設によって各種のイベント内容が増えま
-　す。
+Various events can also occur depending on
+the facility.
 #
-　住民系のＨシーンや、ＢＢ１、ＢＢ２のキャラク
-　ター達とのＨシーンを見るには、ここでの施設の
-　建て方がポイントになります。
+Seeing special scenes with the city's 
+residents, as well as characters from previous
+games, relies on building the right 
+facilities.
 #
-　注意）
-　施設が稼動するには、一定の住民数が必要です。
-　住民が少ないのに施設を多く建てても稼動しない
-　のでバランスが大事です。
+Pay attention though. Your city needs enough
+people to man the facilities or they will not
+function. Maintain a balance between your
+population and your construction.
 #
 :64C
 \x1A\x01\x08\x46\x00\x31\x00\x38\x00\x33\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :66A: \x15 :DD7: 
@@ -73,29 +78,34 @@
 \x1A\x01\x0B\x43\x00\x30\x00\x39\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x32\x00\x34\x00\x09\x00 :986: 
 <music 4>
 \x2B\x1A\x01\x09\x46\x00\x31\x00\x30\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :940: \x0A\x04\x00\x68\x84\x01
-　メンバーのポジションを決めます。
+Determine the deployment of your companions.
 #
-　ポジションは大きく下記の三つに分類できます。
-『フィールド』『リザーブ』『ガヴァメント』
+Broadly speaking, there are three roles.
+Each unit has a passive skill for each role
+that is only active when they're deployed in
+that position.
 #
-『フィールド』
-　ダークスと共に迷宮に潜り、戦います。
-　フィールド能力が発揮されます。
+Party
+Party members will join Darx when he enters
+dungeons and fight at his side. 
 #
-『リザーブ』
-　フィールドと同じく、ダークスと共に迷宮に潜り
-　ますが、戦いには直接参加しません。
+Reserve
+Similar to Party members, they will enter
+dungeons with Darx, but they will not
+directly participate in battle.
 #
-　リザーブに居る事で発揮するリザーブ能力で、ダ
-　ークスをサポートします。
+These units mainly support Darx through their
+passive ability.
 #
-『ガヴァメント』
-　街の役職です。
-　迷宮に行くダークスとは行動を共にしません。
+Government
+A leadership position within the city.
+They will stay in the city even when Darx
+goes into dungeons.
 #
-　各役職につく事で、街に様々な効果を与えます。
-　また、ガヴァメントに居る事でガヴァメント能力
-　が発揮されます。
+Each different city job can have its own
+effect, and certain people are especially
+well, or especially poorly, suited for civic
+duty.
 #
 :940
 \x1A\x01\x08\x46\x00\x31\x00\x38\x00\x34\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :95E: \x15 :DD7: 
@@ -105,9 +115,9 @@
 \x1A\x01\x0B\x43\x00\x30\x00\x39\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x32\x00\x35\x00\x09\x00 :A7E: 
 <music 4>
 \x2B\x1A\x01\x09\x46\x00\x31\x00\x30\x00\x35\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :A38: \x0A\x04\x00\x69\x84\x01
-　メンバーにアイテムを装備させます。
-（今作では、メンバー個々にアイテムを装備させる
-　事ができます）
+Equip items on your characters.
+Each individual character is able to carry
+and use various equipment.
 #
 :A38
 \x1A\x01\x08\x46\x00\x31\x00\x38\x00\x35\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :A56: \x15 :DD7: 
@@ -117,8 +127,9 @@
 \x1A\x01\x0B\x43\x00\x30\x00\x39\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x32\x00\x36\x00\x09\x00 :B65: 
 <music 4>
 \x2B\x1A\x01\x09\x46\x00\x31\x00\x30\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :B1F: \x0A\x04\x00\x6A\x84\x01
-　レベルアップによって獲得したスキルポイントを
-　消費して、メンバーの成長を行います。
+When a character levels up, they earn skill
+points that can be used to improve their
+abilities.
 #
 :B1F
 \x1A\x01\x08\x46\x00\x31\x00\x38\x00\x36\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :B3D: \x15 :DD7: 
@@ -128,7 +139,7 @@
 \x1A\x01\x0B\x43\x00\x30\x00\x39\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x32\x00\x37\x00\x09\x00 :C11: 
 <music 4>
 \x2B\x1A\x01\x09\x46\x00\x31\x00\x30\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :BCB: \x0A\x04\x00\x6B\x84\x01
-　商会で買い物等を行います。
+You may buy needed supplies at Gunguskar.
 #
 :BCB
 \x1A\x01\x08\x46\x00\x31\x00\x38\x00\x37\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :BE9: \x15 :DD7: 
@@ -138,15 +149,17 @@
 \x1A\x01\x0B\x43\x00\x30\x00\x39\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x32\x00\x38\x00\x09\x00 :DD7: 
 <music 43>
 \x2B\x1A\x01\x09\x46\x00\x31\x00\x30\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :D91: \x0A\x04\x00\x6C\x84\x01
-　ダークスの街が管理する迷宮の様子です。
-　迷宮関連のポジションにメンバーを配置したり、
-　街の施設を増やす事で強化ができます。
+This is the dungeon Darx must manage.
+You may deploy your companions in positions
+here related to the dungeon, and strengthen
+it with various city facilities.
 #
-　迷宮を上手く利用する事で、資金、資源、食料を
-　入手したりできますが、逆に冒険者によって大き
-　な損害を受ける事もあります。
+The dungeon can be a good source of money,
+resources, and food, but adventurers can also
+cause major harm.
 #
-　冒険者関連のＨを見るには、ここが重要です。
+This is also an important resource for having
+special fun with adventurers.
 #
 :D91
 \x1A\x01\x08\x46\x00\x31\x00\x38\x00\x38\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :DAF: \x15 :DD7: 

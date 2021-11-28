@@ -91,114 +91,117 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta01a004.agf" 4 4 11>
-<name "ソフィア" "!ZB0855">
-「魔王様。
-　住民の数が増えてきたので、防犯を考えた方が良
-　いと思います」
+<name "Sofia" "!ZB0855">
+"Overlord, now that we have more residents,
+ I think we need to start worrying about
+ ."
 #
-<name "ダークス">
-「具体的には？」
+<name "Darx">
+"Anything in particular?"
 #
 <sprite "ta01a006.agf" 4 4 12>
-<name "ソフィア" "!ZB0856">
-「取り締まる者を用意すれば良いかと」
+<name "Sofia" "!ZB0856">
+"We need people to manage it."
 #
-<name "ダークス">
-「まあ、そうだな」
+<name "Darx">
+"Well, I guess."
 #
 <sprite "ta01a004.agf" 4 4 12>
-<name "ソフィア" "!ZB0857">
-「そこで警備砦の建設を推奨します」
+<name "Sofia" "!ZB0857">
+"So I recommend you construct a Guard Fort."
 #
-<name "ダークス">
-「警備砦？」
+<name "Darx">
+"A Guard Fort?"
 #
 <sprite "ta01a005.agf" 4 4 12>
-<name "ソフィア" "!ZB0858">
-「取り締まり役の者達の詰め所です」
+<name "Sofia" "!ZB0858">
+"A garrison for peacekeepers."
 #
-<name "ダークス">
-「それはわかるが、どうして砦なんだ？」
+<name "Darx">
+"I get that, but why a fort?"
 #
 <sprite "ta01a004.agf" 4 4 12>
-<name "ソフィア" "!ZB0859">
-「いざと言う時の避難所も兼ねているからです」
+<name "Sofia" "!ZB0859">
+"In case of an emergency, it can also be used
+ as a shelter."
 #
-<name "ダークス">
-「……」
+<name "Darx">
+"..."
 #
 <sprite "ta01a037.agf" 4 4 12>
-<name "ソフィア" "!ZB0860">
-「け、決して、建設費の高い建物をなんとか建てて
-　貰おうと考えているワケではありませんよ」
+<name "Sofia" "!ZB0860">
+"I-I wouldn't suggest building something 
+ expensive just because of the money."
 #
-<name "ダークス">
-「わかっている。
-　疑ったワケじゃない」
+<name "Darx">
+"I know.
+ I wasn't questioning you."
 #
 <removesprite -1 11>
-　避難所の事を、まるっきり頭になかった自分を恥
-　じていただけだ。
+I'm more annoyed at myself for not even
+considering that some kind of shelter might
+be needed.
 #
-<name "ダークス">
-「警備砦の件、考えておこう。
-　資料を用意してくれ」
+<name "Darx">
+"I'll consider it.
+ Put the files together I'd need for one."
 #
 <sprite "ta01a004.agf" 4 4 11>
-<name "ソフィア" "!ZB0861">
-「承知しました」
+<name "Sofia" "!ZB0861">
+"Understood."
 #
 <removesprite -1 11>
 <exit>
 :137F
 <music 3>
 <background "bg010a0.agf" 10>
-<name "ダークス">
-「防犯が上手く行っていない？」
+<name "Darx">
+"Crime is rising?"
 #
 <sprite "ta01a028.agf" 4 4 11>
-<name "ソフィア" "!ZB0862">
-「はい。
-　残念ながら、被害が出ています」
+<name "Sofia" "!ZB0862">
+"Yes, unfortunately, it's starting to cause
+ real problems."
 #
-<name "ダークス">
-「対策はどうすれば良い？」
+<name "Darx">
+"What should we do?"
 #
 <sprite "ta01a016.agf" 4 4 12>
-<name "ソフィア" "!ZB0863">
-「取り締まる者を増やすのが確実です」
+<name "Sofia" "!ZB0863">
+"We should definitely assign more people to
+ be guards."
 #
-<name "ダークス">
-「そうか」
+<name "Darx">
+"I see."
 #
 <sprite "ta01a036.agf" 4 4 12>
-<name "ソフィア" "!ZB0864">
-「ご検討をお願いします」
+<name "Sofia" "!ZB0864">
+"Please consider it."
 #
 <removesprite -1 11>
 <exit>
 :157C
 <music 3>
 <background "bg010a0.agf" 10>
-<name "ダークス">
-「治療施設？」
+<name "Darx">
+"An Infirmary?"
 #
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!AC0244">
-「はい。
-　これまでは魔王亭で行っておりましたが、街の規
-　模も大きくなり、魔王亭だけでは施設不足かと」
+<name "Company Maid" "!AC0244">
+"Yes. We've been using the Overlord's Retreat,
+ but as the city gets bigger, we're running
+ out of space there."
 #
-<name "ダークス">
-「ふむ」
+<name "Darx">
+"Hmm."
 #
-<name "商会メイド" "!AC0245">
-「プランはこちらに。
-　ご検討をお願いします」
+<name "Company Maid" "!AC0245">
+"Here's the plans.
+ Please look over them."
 #
-<name "ダークス">
-「わかった。
-　考えておこう」
+<name "Darx">
+"Got it.
+ I'll think about it."
 #
 <removesprite -1 11>
 <exit>
@@ -206,34 +209,32 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta01a004.agf" 4 4 11>
-<name "ソフィア" "!ZB0917">
-「魔王様。
-　一部の種族から、大きな水源が欲しいとの要望が
-　出ています」
+<name "Sofia" "!ZB0917">
+"Overlord, some of the groups here have been
+ asking for a larger source of water."
 #
-<name "ダークス">
-「水源？」
+<name "Darx">
+"Water?"
 #
 <sprite "ta01a005.agf" 4 4 12>
-<name "ソフィア" "!ZB0918">
-「具体的には川か池です」
+<name "Sofia" "!ZB0918">
+"Specifically, a river or a lake."
 #
-<name "ダークス">
-「川か池か……」
+<name "Darx">
+"A lake, huh?"
 #
 <sprite "ta01a004.agf" 4 4 12>
-<name "ソフィア" "!ZB0919">
-「はい。
-　火災等に備える事を考えても、池を作る事をお勧
-　めします」
+<name "Sofia" "!ZB0919">
+"Yes. It would also be good to have one handy
+ in case of a fire."
 #
-<name "ダークス">
-「わかった。
-　検討しておこう」
+<name "Darx">
+"All right.
+ I'll consider it."
 #
 <sprite "ta01a033.agf" 4 4 12>
-<name "ソフィア" "!ZB0920">
-「よろしくお願いします」
+<name "Sofia" "!ZB0920">
+"Thank you very much."
 #
 <removesprite -1 11>
 <exit>
@@ -241,84 +242,83 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta01a005.agf" 4 4 11>
-<name "ソフィア" "!ZB0922">
-「新しい施設の提案が上がっています。
-　目を通してくださいね」
+<name "Sofia" "!ZB0922">
+"New facilities are being requested.
+ Please review the reports."
 #
-<name "ダークス">
-「わかった」
+<name "Darx">
+"Got it."
 #
 <removesprite -1 11>
 <exit>
 :1AA6
 <music 10>
 <background "ev003a00.agf" 10>
-<name "商会メイド" "!DC0337">
-「そろそろ、新しい施設の提案をまとめましょうか」
+<name "Company Maid" "!DC0337">
+"Shall we propose some new facilities soon?"
 #
-<name "事務メイド" "!PC0454">
-「そうですね」
+<name "Office Maid" "!PC0454">
+"Okay."
 #
 <exit>
 :1B52
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!PC0455">
-「魔王様、魔王様、魔王様！」
+<name "Company Maid" "!PC0455">
+"Overlord! Overlord! Overlord!"
 #
-<name "ダークス">
-「な、なんだ？」
+<name "Darx">
+"W-What is it?"
 #
 <sprite "ta34a004.agf" 4 4 12>
-<name "商会メイド" "!PC0456">
-「新しい施設の提案書です！
-　ご確認ください！」
+<name "Company Maid" "!PC0456">
+"I have proposals for new facilities!
+ Please look them over!"
 #
-<name "ダークス">
-「お、おう」
+<name "Darx">
+"O-Okay."
 #
 <sprite "ta34a000.agf" 4 4 12>
-<name "商会メイド" "!PC0457">
-「では、失礼しました！」
+<name "Company Maid" "!PC0457">
+"Okay, excuse me!"
 #
 <removesprite -1 11>
-<name "ダークス">
-「……ソフィア」
+<name "Darx">
+"...Sofia."
 #
 <sprite "ta01a004.agf" 4 4 11>
-<name "ソフィア" "!ZB0923">
-「なんですか？」
+<name "Sofia" "!ZB0923">
+"Yes?"
 #
-<name "ダークス">
-「今の、どうして、あんなにハイテンションだった
-　んだ？」
+<name "Darx">
+"What was all that excitement about?"
 #
 <sprite "ta01a014.agf" 4 4 12>
-<name "ソフィア" "!ZB0924">
-「えっと……提案書、貸して貰えますか？」
+<name "Sofia" "!ZB0924">
+"Um... Can I see that proposal?"
 #
-<name "ダークス">
-「ああ」
+<name "Darx">
+"Yeah."
 #
 <sprite "ta01a028.agf" 4 4 12>
-<name "ソフィア" "!ZB0925">
-「さっきのは、多分、ハイテンションな勢いに任せ
-　て、不当な施設提案を紛れ込ませて……
-　ああ、ありました。
-　これですね」
+<name "Sofia" "!ZB0925">
+"I think they might have snuck something in
+ which is why they were so excited.
+ Yeah, here it is.
+ This one."
 #
-<name "ダークス">
-「お菓子の家か。
-　面白そうではあるけど……」
+<name "Darx">
+"A Confectionery?
+ Seems interesting though..."
 #
 <sprite "ta01a036.agf" 4 4 12>
-<name "ソフィア" "!ZB0926">
-「怒っておきます」
+<name "Sofia" "!ZB0926">
+"Now I'm mad."
 #
-<name "ダークス">
-「ははは。
-　軽めにな」
+<name "Darx">
+"Hahaha.
+ Go easy on them."
 #
 <removesprite -1 11>
 <exit>
@@ -326,55 +326,58 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta34a004.agf" 4 4 11>
-<name "商会メイド" "!PC0458">
-「くらえっ！
-　提案書！」
+<name "Company Maid" "!PC0458">
+"Take this!
+ Proposal!"
 #
-<name "ダークス">
-「なんのっ！」
+<name "Darx">
+"You dare!?"
 #
 <sprite "ta34a008.agf" 4 4 12>
-<name "商会メイド" "!PC0459">
-「馬鹿なっ！
-　防がれた……だと」
+<name "Company Maid" "!PC0459">
+"Impossible!
+ Rejected..."
 #
-<name "ダークス">
-「ふははは。
-　この魔王ダークス、これしきの提案書、受け取れ
-　ると思ったかね」
+<name "Darx">
+"Wahahaha!
+ You think the great Overlord Darx would
+ accept a proposal like that?"
 #
 <sprite "ta34a006.agf" 4 4 12>
-<name "商会メイド" "!PC0460">
-「ぬうう、こうなれば必殺の色仕掛けを」
+<name "Company Maid" "!PC0460">
+"Grrrr!
+ Then it's time for my seductive special
+ attack!"
 #
 <removesprite -1 11>
 <sprite "ta01a036.agf" 4 4 11>
-<name "ソフィア" "!ZB0927">
-「はいはい。
-　茶番はそこまで。
-　真面目に仕事をしてください」
+<name "Sofia" "!ZB0927">
+"Yes, yes.
+ Enough playing around.
+ Take your job seriously."
 #
 <removesprite -1 11>
 <sprite "ta34a004.agf" 4 4 11>
-<name "商会メイド" "!PC0461">
-「はーい」
+<name "Company Maid" "!PC0461">
+"Yes, ma'aaaam."
 #
 <removesprite -1 11>
-<name "ダークス">
-「えー、色仕掛けはー」
+<name "Darx">
+"Awww... But the seduction..."
 #
 <sprite "ta34a004.agf" 4 4 11>
-<name "商会メイド" "!PC0462">
-「あーとーでー」
+<name "Company Maid" "!PC0462">
+"Laaater."
 #
-<name "ダークス">
-「わかったー、待ってるー」
+<name "Darx">
+"Got it.
+ I'll be waiting."
 #
 <removesprite -1 11>
 <sprite "ta01a028.agf" 4 4 11>
-<name "ソフィア" "!ZB0928">
-「…………はぁ。
-　私がしっかりしなきゃ」
+<name "Sofia" "!ZB0928">
+".........
+ I have to be strong."
 #
 <removesprite -1 11>
 <exit>
@@ -382,9 +385,9 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta01a004.agf" 4 4 11>
-<name "ソフィア" "!ZB0929">
-「新しい施設提案、こちらになります。
-　ご確認ください」
+<name "Sofia" "!ZB0929">
+"Here are the new facilities being proposed.
+ Please look them over."
 #
 <removesprite -1 11>
 <exit>
@@ -392,36 +395,37 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!PC0463">
-「新しい施設の提案書になります。
-　ご確認をお願いします」
+<name "Company Maid" "!PC0463">
+"There's a proposal for a new facility.
+ Please look over it."
 #
 <sprite "ta34a002.agf" 4 4 12>
-<name "商会メイド" "!PC0464">
-「……あれ？
-　魔王様は？」
+<name "Company Maid" "!PC0464">
+"...Huh?
+ Where's the Overlord?"
 #
 <removesprite -1 11>
 <sprite "ta34a002.agf" 2 4 11>
 <sprite "ta34b001.agf" 6 5 11>
-<name "見てたメイド" "!DC0338">
-「フォーゼロッテ様が強奪していきました」
+<name "Knowing Maid" "!DC0338">
+"Forzelotte took him away."
 #
 <sprite "ta34a001.agf" 2 4 12>
-<name "商会メイド" "!PC0465">
-「という事は……」
+<name "Company Maid" "!PC0465">
+"Meaning..."
 #
 <sprite "ta34b000.agf" 6 5 12>
-<name "見てたメイド" "!DC0339">
-「寝室です」
+<name "Knowing Maid" "!DC0339">
+"The bedroom."
 #
 <sprite "ta34a000.agf" 2 4 12>
-<name "商会メイド" "!PC0466">
-「終わるのを待つ……のは無駄ですね。
-　別の機会にします」
+<name "Company Maid" "!PC0466">
+"Waiting for them to finish... isn't an 
+ option, is it?
+ It'll have to be later."
 #
 <removesprite -1 11>
-　後日、受け取った。
+I got the proposal later.
 #
 <exit>
 \x78
