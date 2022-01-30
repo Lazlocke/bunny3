@@ -56,1408 +56,1481 @@
 :983
 <music 3>
 <background "bg010a0.agf" 10>
-<name "ダークス">
-「学園を視察するぞ」
+<name "Darx">
+"I'm going to visit the school."
 #
 <sprite "ta34b000.agf" 4 4 11>
-<name "商会メイド" "!DC0466">
-「学園に迷惑を掛けないようにしてくださいね」
+<name "Company Maid" "!DC0466">
+"Please try to stay out of trouble there."
 #
-<name "ダークス">
-「自分の子供達が通う場所だ。
-　問題を起こしたりはしないさ」
+<name "Darx">
+"My kids go there.
+ I'm not going to cause problems."
 #
 <sprite "ta34b001.agf" 4 4 12>
-<name "商会メイド" "!DC0467">
-「わかりました。
-　言い方を変えましょう」
+<name "Company Maid" "!DC0467">
+"Very well.
+ Let me put it a different way."
 #
 <sprite "ta34b000.agf" 4 4 12>
-<name "商会メイド" "!DC0468">
-「学園内の女性に手を出さないでくださいね」
+<name "Company Maid" "!DC0468">
+"Please keep your hands off of all of the 
+ girls at the school."
 #
-<name "ダークス">
-「…………」
+<name "Darx">
+"..."
 #
-<name "商会メイド" "!DC0469">
-「お返事は？」
+<name "Company Maid" "!DC0469">
+"Your answer?"
 #
-<name "ダークス">
-「えーっと……」
+<name "Darx">
+"Um..."
 #
 <sprite "ta34b001.agf" 4 4 12>
-<name "商会メイド" "!DC0470">
-「学園に連絡。
-　危険人物が接近中と」
+<name "Company Maid" "!DC0470">
+"Contact the school.
+ Someone dangerous is coming."
 #
-<name "ダークス">
-「出しません！
-　絶対に出しません！」
+<name "Darx">
+"I won't!
+ I promise I won't!"
 #
 <removesprite -1 11>
-　俺は本当に魔王だろうか。
+Am I really the Overlord?
 #
-　そう思いながら、学園を見学した。
+That was all I could think about as I visited
+the school.
 #
 <exit>
 :CFF
 <music 8>
 <background "ev054a00.agf" 10>
-<name "イザナ" "!AA0035">
-「無駄口は慎むように」
+<name "Izana" "!AA0035">
+"Enough chattering."
 #
-　学園は、多数の生徒と少数の教師で構成されてい
-　る。
+The school has a bunch of students and a small
+collection of teachers.
 #
-　基本、フォーゼロッテ宮もここも人手不足なので、
-　特に教師の数が問題らしい。
+Both here and Forzelotte's Shrine are short on
+staff, and a lack of teachers especially is a
+big problem.
 #
-　そんな中、教師として活躍しているのがロギウス
-　とイザナ。
+Which is why Logius and Izana both work
+regularly as teachers.
 #
-　特にイザナは性に合っていたのだろう。
+Izana took to it particularly well.
 #
-　教師としての才能を大きく開花させた。
+Her talent for teaching has flourished.
 #
-　イザナは、元々、天蓋の城の領主の一人。
+She used to be one of the lords of Castle
+Baldaquin.
 #
-　つまりは天界の住人で、ここに居るという事は俺
-　の妻の一人でもある。
+Meaning she's an angel, and her being here now
+beings she's one of my wives.
 #
-<name "イザナ" "!AA0036">
-「今日は実験を行います。
-　実験……良い響き」
+<name "Izana" "!AA0036">
+"Today we will be conducting an experiment.
+ An experiment...
+ I like the sound of that."
 #
-<name "イザナ" "!AA0037">
-「そう、実験！
-　つまり爆発だ！
-　思いっきり爆発させます！」
+<name "Izana" "!AA0037">
+"Yes, an experiment!
+ In other words, an explosion!
+ An explosion with all our might!"
 #
-　あれが妻か……
+That's my wife...
 #
-　学園は、賑やかだ。
+The school is bustling.
 #
 <exit>
 :FCE
 <music 8>
 <background "ev054a00.agf" 10>
-<name "イザナ" "!AA0038">
-「今日の私の授業は、魔法学に関してだ」
+<name "Izana" "!AA0038">
+"For my class today we will be studying
+ magic."
 #
-　学園の授業は、大きく分けて二段階に別ける事が
-　出来る。
+The school's classes can be broadly divided 
+into two levels.
 #
-　一つ目が、基礎授業。
+First are the basics.
 #
-　読み書きなどの基礎的な学力を学ぶ授業だ。
+Classes to learn the basics to learn, like
+reading and writing.
 #
-　学園生は、まずこの授業を一年、受ける。
+All students take these classes for a year.
 #
-　そして、基礎授業で合格を貰えば、次は選択授業
-　となる。
+Once you pass the basics, the next level is
+electives.
 #
-　不合格ならもう一年だ。
+If you fail, you have to take the basic 
+classes for another year.
 #
-　選択授業は、各教師が講義する授業を自由に選択
-　し、参加するスタイルだ。
+Everyone is free to choose whichever electives
+they want, and which teachers or classes 
+they'll be participating in.
 #
-　統一した授業で、全員に等しく教えようとの意見
-　もあったが、種族による特性の問題で却下になっ
-　た。
+It has been suggested to make everybody take
+the same curriculum, but that was rejected due
+to the issue of all the different races.
 #
-　人間ならともかく、多種多様な種族の居る魔族で
-　は、得意不得意が大きく影響するからだ。
+Humans are mostly all the same, but there are
+so many different races of demon, and many of
+them naturally excel or struggle with certain
+things.
 #
-　理由を聞けば納得だ。
+It makes sense when you hear the specifics.
 #
-　そして、選択授業で一番人気がイザナの授業だ。
+The most popular elective is Izana's class.
 #
-　テーマは総合。
+Its theme is synthesis.
 #
-　つまり、なんでもありだ。
+Which is to say, basically everything.
 #
-<name "イザナ" "!AA0039">
-「魔法と言えば、実戦」
+<name "Izana" "!AA0039">
+"And if we're talking about magic, that means
+ actual combat."
 #
-<name "イザナ" "!AA0040">
-「本を見て魔法が使えるようにはならない」
+<name "Izana" "!AA0040">
+"You can't learn magic from a book."
 #
-<name "イザナ" "!AA0041">
-「使って覚える」
+<name "Izana" "!AA0041">
+"Learn by doing."
 #
-<name "イザナ" "!AA0042">
-「本はその後。
-　発展させる際に、他者の知恵として読みなさい」
+<name "Izana" "!AA0042">
+"Books come later.
+ Read them as other people's knowledge while
+ developing your own."
 #
-<name "イザナ" "!AA0043">
-「ちなみに、私が良く読む本は失敗談を書いている
-　ものです」
+<name "Izana" "!AA0043">
+"By the way, most of the books I read are
+ stories of failure."
 #
-<name "イザナ" "!AA0044">
-「性格が悪い？
-　成功談を読んだ方が良い？」
+<name "Izana" "!AA0044">
+"Am I a bad person?
+ Should I read success stories instead?"
 #
-<name "イザナ" "!AA0045">
-「なにを言う。
-　他人の成功談を聞かされても、イラつくだけだ。
-　特に無意味な自慢が多いヤツは燃やしたくなる」
+<name "Izana" "!AA0045">
+"What are you talking about? It's obnoxious to
+ hear other people singing their own praises. 
+ Especially the ones bragging about nothing.
+ I want to burn them."
 #
-<name "イザナ" "!AA0046">
-「精神の安定の為にも、他者の失敗談から学ぶよう
-　にしなさい」
+<name "Izana" "!AA0046">
+"Learn from the mistakes of others to give
+ yourself confidence."
 #
-<name "イザナ" "!AA0047">
-「ああ、魔法の授業でした。
-　とりあえず、簡単に火と水の魔法から始めましょ
-　う。
-　予習は当然、終わっているわね」
+<name "Izana" "!AA0047">
+"Ah, this is supposed to be a magic class.
+ For now, let's start with simple fire and 
+ water spells.
+ You've all done your prep work, right?"
 #
-　学園は、今日も賑やかだ。
+The school is especially lively today.
 #
 <exit>
 :1629
 <music 8>
 <background "ev054a00.agf" 10>
-<name "イザナ" "!AA0048">
-「この事案は、この勢力に問題があった」
+<name "Izana" "!AA0048">
+"In this case, the issue was his strength."
 #
-<name "イザナ" "!AA0049">
-「虚勢を内外部に喧伝し、外部は笑っていたが、内
-　部はその虚勢を真実と信じてしまった」
+<name "Izana" "!AA0049">
+"Others laughed at the false bravado he 
+ bragged so much of, while those around him
+ believed the lie to be true."
 #
-<name "イザナ" "!AA0050">
-「無能なのに、有能と信じてしまったのだな」
+<name "Izana" "!AA0050">
+"He was pathetic, but he believed he was
+ strong."
 #
-<name "イザナ" "!AA0051">
-「個人なら笑い話で終わりだが、小さいなりともあ
-　る程度の勢力であったのが悲劇だったな」
+<name "Izana" "!AA0051">
+"If it was just one man, it would have been a
+ funny story, but because he had some measure
+ of influence, it became a tragedy."
 #
-<name "イザナ" "!AA0052">
-「この事から、自分の吐いた嘘を信じるのは愚か者
-　だとわかる」
+<name "Izana" "!AA0052">
+"From this, learn that only a fool believes
+ their own lies."
 #
-　……
+...
 #
-<name "ダークス">
-「イザナにしては、まともな授業だな。
-　もっとぶっ飛んだ授業かと思ったぞ」
+<name "Darx">
+"That's a pretty good class from her.
+ I was expecting something more
+ incomprehensible."
 #
-<name "ロギウス" "!PA0051">
-「イザナ教師は優秀ですから」
+<name "Logius" "!PA0051">
+"She's a fine teacher."
 #
-<name "ダークス">
-「そうか。
-　で、だ……」
+<name "Darx">
+"I see.
+ So, well..."
 #
-<name "ロギウス" "!PA0052">
-「なんですか？」
+<name "Logius" "!PA0052">
+"What is it?"
 #
-<name "ダークス">
-「俺、学園視察に来たんだよな」
+<name "Darx">
+"I'm here to check out the school, right?"
 #
-<name "ロギウス" "!PA0053">
-「ええ」
+<name "Logius" "!PA0053">
+"Yes."
 #
-<name "ダークス">
-「俺、魔王だよな」
+<name "Darx">
+"I'm the Overlord, right?"
 #
-<name "ロギウス" "!PA0054">
-「はい」
+<name "Logius" "!PA0054">
+"Yes."
 #
-<name "ダークス">
-「つまり、魔王が学園視察に来たんだよな」
+<name "Darx">
+"So the Overlord's here to check out the
+ school?"
 #
-<name "ロギウス" "!PA0055">
-「ええ、そうですとも」
+<name "Logius" "!PA0055">
+"Yes, that's right."
 #
-<name "ダークス">
-「なら……どうして俺の身体に鎖が巻かれているん
-　だ？」
+<name "Darx">
+"Then... why am I tied up in chains?"
 #
-<name "ロギウス" "!PA0056">
-「それは当然、学園内の女子に手を出さないように
-　です。
-　ちなみに、この処置は学園長、生徒会長の許可を
-　頂いております」
+<name "Logius" "!PA0056">
+"To keep you from touching any of the girls in
+ school, of course. You should know, this
+ procedure has been approved by the principal
+ and the student council president."
 #
-<name "ダークス">
-「うぬ」
+<name "Darx">
+"Grr..."
 #
-<name "ダークス">
-「教室に男子率が高いのも、それか？」
+<name "Darx">
+"Is that also why there are so many boys in
+ that class?"
 #
-<name "ロギウス" "!PA0057">
-「もちろんです。
-　では、次の教室に……ああ、私の指定するコース
-　以外に進まれた場合、容赦の無い私の攻撃が開始
-　されますのでご注意ください」
+<name "Logius" "!PA0057">
+"Of course. Now, to the next classroom...
+ Oh, please note that if you deviate from the
+ marked path, I will begin to attack without
+ mercy."
 #
-　ほとんど視察にならなかった。
+Was this really a visit at all?
 #
 <exit>
 :1C43
 <music 8>
 <background "ev054a00.agf" 10>
-<name "喋る学園生徒" "!ZD0028">
-「イザナ先生の授業はわかりやすくて好きだなぁ」
+<name "Talking Student" "!ZD0028">
+"I love Ms. Izana's classes because they're
+ easy to understand."
 #
-<name "普通の学園生徒" "!JA0025">
-「ああ」
+<name "Regular Student" "!JA0025">
+"Yeah."
 #
-<name "喋る学園生徒" "!ZD0029">
-「でも、時々、痛い話をするんだよなぁ」
+<name "Talking Student" "!ZD0029">
+"But sometimes she talks about painful stuff."
 #
-<name "普通の学園生徒" "!JA0026">
-「痛い話？」
+<name "Regular Student" "!JA0026">
+"Painful stuff?"
 #
-<name "喋る学園生徒" "!ZD0030">
-「拷問器具とか、処刑方法とか」
+<name "Talking Student" "!ZD0030">
+"Like torture instruments, or execution
+ methods."
 #
-<name "普通の学園生徒" "!JA0027">
-「あー、そっちの痛い話ね。
-　なんでまた？」
+<name "Regular Student" "!JA0027">
+"Ah, that kind of painful.
+ Why does she do that again?"
 #
-<name "喋る学園生徒" "!ZD0031">
-「勇者の話とかになると、そっちに話が流れる」
+<name "Talking Student" "!ZD0031">
+"Whenever heroes come up, it always ends up
+ there."
 #
-<name "普通の学園生徒" "!JA0028">
-「イザナ先生、勇者の話とか嫌いなのか？」
+<name "Regular Student" "!JA0028">
+"She hates talking about heroes?"
 #
-<name "喋る学園生徒" "!ZD0032">
-「逆に大好き」
+<name "Talking Student" "!ZD0032">
+"The opposite.
+ She loves it."
 #
-<name "喋る学園生徒" "!ZD0033">
-「大好き過ぎて、残念な方に……」
+<name "Talking Student" "!ZD0033">
+"She loves it so much, I almost feel bad for
+ her..."
 #
-<name "普通の学園生徒" "!JA0029">
-「あー、なるほど」
+<name "Regular Student" "!JA0029">
+"Aah, I see."
 #
-<name "イザナ" "!AA0053">
-「こら、そこ！
-　無駄話をしない！」
+<name "Izana" "!AA0053">
+"Hey, you there!
+ No pointless gossipping!"
 #
-<name "普通の学園生徒" "!JA0030">
-「や、やば」
+<name "Regular Student" "!JA0030">
+"O-Oh crap."
 #
-<name "喋る学園生徒" "!ZD0034">
-「大丈夫だ」
+<name "Talking Student" "!ZD0034">
+"Don't worry."
 #
-<name "喋る学園生徒" "!ZD0035">
-「すみません！
-　少し勇者談義をしておりました！」
+<name "Talking Student" "!ZD0035">
+"Excuse us!
+ We were just talking about heroes!"
 #
-<name "イザナ" "!AA0054">
-「…………………………授業のテーマを変えます」
+<name "Izana" "!AA0054">
+".........New subject for today."
 #
-<name "良く知る学園生徒" "!ZF0025">
-「あ、こら！
-　勇者の話に持っていくなよ！」
+<name "Knowing Student" "!ZF0025">
+"Ah, hero!
+ Don't bring up heroes!"
 #
-<name "経験ある学園生徒" "!ZG0012">
-「最後は血生臭い話になるんだからさ」
+<name "Experienced Student" "!ZG0012">
+"It's just going to end up bloody."
 #
-<name "笑顔の学園生徒" "!ZH0028">
-「俺は興味あるからＯＫ」
+<name "Smiling Student" "!ZH0028">
+"I'm interested, so it's okay with me."
 #
-　学園は今日も賑やかだ。
+Another busy school day.
 #
-<name "ロギウス" "!PA0058">
-「素直に勇者学を教えるようにしたら？」
+<name "Logius" "!PA0058">
+"Why don't you just give up and teach about
+ heroes?"
 #
-<name "イザナ" "!AA0055">
-「パニとウルが止めとけって煩くて」
+<name "Izana" "!AA0055">
+"Pani and Ul got fed up with it and made me
+ stop."
 #
 <exit>
 :2213
 <music 8>
 <background "ev054a00.agf" 10>
-<name "イザナ" "!AA0056">
-「今日の授業は、武器の歴史です」
+<name "Izana" "!AA0056">
+"Today's class will be the history of
+ weapons."
 #
-<name "イザナ" "!AA0057">
-「世の中にはあらゆる武器があります」
+<name "Izana" "!AA0057">
+"Many different kinds of weapons exist."
 #
-<name "イザナ" "!AA0058">
-「この武器の発展していった歴史を学んでいきましょ
-　う」
+<name "Izana" "!AA0058">
+"Let's study the history of how this
+ particular weapon came about."
 #
-<name "予想する学園生徒" "!ZH0029">
-「あの、先生。
-　血生臭いシーンしか思い浮かばないので、テーマ
-　を変えてください」
+<name "Anticipating Student" "!ZH0029">
+"Um, ma'am. I can only imagine this ends in
+ blood. Can we please study something else?"
 #
 <exit>
 :2392
 <music 8>
 <background "ev047b00.agf" 10>
-<name "喜ぶ学園生徒" "!HC0054">
-「ひゃぁっ、冷たい」
+<name "Happy Student" "!HC0054">
+"Aaah!
+ It's cold!"
 #
-<name "笑顔の学園生徒" "!SB0135">
-「気持ち良いわね」
+<name "Smiling Student" "!SB0135">
+"It feels nice."
 #
-<name "体操する学園生徒" "!RB0110">
-「うん」
+<name "Exercising Student" "!RB0110">
+"Yeah."
 #
-<name "喜ぶ学園生徒" "!HC0055">
-「迷宮の中じゃ、こんな開放感は無いもんね」
+<name "Happy Student" "!HC0055">
+"You don't get this kind of openness in the
+ dungeon."
 #
-<name "監督する学園教師" "!TC0142">
-「遊んでないで準備運動。
-　終わったら、泳げない者は第一コースに集合。
-　泳げるのは第一コース以外で自由に泳いで良し」
+<name "Supervising Teacher" "!TC0142">
+"Quit messing around and start stretching.
+ When you're finished, whoever can't swim head
+ to the first lane. If you can swim, you're
+ free to swim outside that area."
 #
-<name "喜ぶ学園生徒" "!HC0056">
-「はーい」
+<name "Happy Student" "!HC0056">
+"Yes, ma'am."
 #
-<name "コゼロット" "!NA0043">
-「ん？」
+<name "Kozelotte" "!NA0043">
+"Hm?"
 #
-<name "体操する学園生徒" "!RB0111">
-「生徒会長、なにかあった？」
+<name "Exercising Student" "!RB0111">
+"Is something the matter, president?"
 #
-<name "コゼロット" "!NA0044">
-「いえ……あ」
+<name "Kozelotte" "!NA0044">
+"No...
+ Ah."
 #
-<name "ダークス">
-「よっ」
+<name "Darx">
+"Hey."
 #
-<name "コゼロット" "!NA0045">
-「お、お父様」
+<name "Kozelotte" "!NA0045">
+"D-Dad."
 #
-<name "ダークス">
-「いやー、学園の生徒がプールを使うからって見学
-　に来たんだ」
+<name "Darx">
+"Ah, well, I came to visit because I heard
+ the students would be using the pool."
 #
-<name "ダークス">
-「なかなか似合うな」
+<name "Darx">
+"You look pretty good."
 #
-<name "コゼロット" "!NA0046">
-「ありがとうございます。
-　ですが、今は女子の時間です。
-　男性であるお父様が近付くのは……」
+<name "Kozelotte" "!NA0046">
+"Thank you very much, but it's the girls' time
+ right now.
+ You, a man, should not be here..."
 #
-<name "ダークス">
-「大丈夫大丈夫。
-　俺、魔王だぞ」
+<name "Darx">
+"Don't sweat it.
+ I'm the Overlord."
 #
-<name "コゼロット" "!NA0047">
-「お父様、そういった態度は反感を買います。
-　ご自重下さい」
+<name "Kozelotte" "!NA0047">
+"Dad, that attitude just makes me angry.
+ Please show some dignity."
 #
-<name "ロギウス" "!PA0059">
-「ええ、まったく、その通りですね」
+<name "Logius" "!PA0059">
+"Yes. Honestly.
+ You're exactly right."
 #
-<name "ダークス">
-「おう、ロギウス。
-　お前もなかなか似合ってるぞ」
+<name "Darx">
+"Hey, Logius.
+ You're looking pretty good too."
 #
-<name "ロギウス" "!PA0060">
-「ありがとうございます」
+<name "Logius" "!PA0060">
+"Thank you very much."
 #
-<name "ロギウス" "!PA0061">
-「しかし……やはり来ましたね」
+<name "Logius" "!PA0061">
+"But... 
+ So you came after all."
 #
-<name "ロギウス" "!PA0062">
-「私は色々と対策したんですよ。
-　警備員を増やし、トラップを仕掛け、さらには親
-　衛隊の方々にも協力して頂き……」
+<name "Logius" "!PA0062">
+"I took a lot of precautions.
+ Increased patrols, set traps, and enlisted
+ the help of the bodyguards..."
 #
-<name "ロギウス" "!PA0063">
-「ですが、それらを突破して来ました。
-　流石は魔王様ですね」
+<name "Logius" "!PA0063">
+"But you made it through all of them.
+ You indeed are the Overlord."
 #
-<name "ダークス">
-「ははは、そう褒めるなよ」
+<name "Darx">
+"Hahaha.
+ No need for such praise."
 #
-<name "ロギウス" "!PA0064">
-「あははははは。
-　では、さようならです」
+<name "Logius" "!PA0064">
+"Hahahahahaha.
+ Well then, goodbye."
 #
-<name "ダークス">
-「え？」
+<name "Darx">
+"Huh?"
 #
-<name "ロギウス" "!PA0065">
-「死ねぃっ！」
+<name "Logius" "!PA0065">
+"Die!"
 #
-<name "ダークス">
-「うおおっ！」
+<name "Darx">
+"Aah!"
 #
-<name "ロギウス" "!PA0066">
-「止められるなら、この私が止めて見せる！」
+<name "Logius" "!PA0066">
+"If you won't stop, then I'll stop you
+ myself!"
 #
-<name "ダークス">
-「な、な、なんだ、え、うおおっ！」
+<name "Darx">
+"W-W-What the... Ah!
+ Aaahh!"
 #
-<name "ロギウス" "!PA0067">
-「生徒はこの私が守る！」
+<name "Logius" "!PA0067">
+"I will protect my students!"
 #
-<name "ロギウス" "!PA0068">
-「生徒会長、君はどちらにつく！」
+<name "Logius" "!PA0068">
+"Student president, which side are you on!?"
 #
-<name "コゼロット" "!NA0048">
-「今回の件ではお父様に非があります。
-　ロギウス教師長、援護します」
+<name "Kozelotte" "!NA0048">
+"In this case, my dad's wrong.
+ Ms. Logius, I'll support you."
 #
-<name "ロギウス" "!PA0069">
-「よし！
-　他の者はそのまま授業を続行。
-　担当教師、監視を怠るな！
-　生徒を溺れさせたら首を物理的に切るからな」
+<name "Logius" "!PA0069">
+"Okay! The rest of you, back to class.
+ Teacher, do not take your eyes off them!
+ If any students drown, I will cut off your
+ head myself!"
 #
-<name "監督する学園教師" "!TC0143">
-「は、はい！」
+<name "Supervising Teacher" "!TC0143">
+"Y-Yes, ma'am!"
 #
-<name "ロギウス" "!PA0070">
-「では、行くぞ魔王！」
+<name "Logius" "!PA0070">
+"Now, let's go, Overlord!"
 #
-　俺はロギウスとコゼロットのコンビの攻撃を避け
-　ながら撤退するしかなかった。
+I was forced to beat a hasty retreat while
+dodging the attacks of Logius and Kozelotte.
 #
-　まあ、ロギウスとコゼロットの水着姿は堪能でき
-　たので良しとしよう。
+Well, I got to see those two in their
+swimsuits, so we can call that a success.
 #
 \x0A\x44\x01\xE3\x84\x01\x0A\x44\x02\x31\x84\x01
 <exit>
 :2DB9
 <music 8>
 <background "ev047b00.agf" 10>
-<name "気になる学園生徒" "!RB0112">
-「ロギウス先生。
-　妙に周囲を気にしているような」
+<name "Concerned Student" "!RB0112">
+"Ms. Logius seems unusually on guard."
 #
-<name "普通の学園生徒" "!LB0096">
-「男子の目を気にしているんじゃない？」
+<name "Regular Student" "!LB0096">
+"Is she worried about boys peeping?"
 #
-<name "気になる学園生徒" "!RB0113">
-「テレているようには見えないわよ。
-　どちらかと言えば、殺気立っている感じ……
-　あ、魔法を使った」
+<name "Concerned Student" "!RB0113">
+"It doesn't seem like she's embarrassed.
+ If anything, more like murderous...
+ Ah, she cast a spell."
 #
-<name "警備する学園生徒" "!GB0089">
-「覗き犯、確保！」
+<name "Guarding Student" "!GB0089">
+"Peeping tom captured!"
 #
-<name "ロギウス" "!PA0071">
-「魔王様か！」
+<name "Logius" "!PA0071">
+"The Overlord!?"
 #
-<name "警備する学園生徒" "!GB0090">
-「違います」
+<name "Guarding Student" "!GB0090">
+"No."
 #
-<name "ロギウス" "!PA0072">
-「ちいっ」
+<name "Logius" "!PA0072">
+"Tch."
 #
-<name "気になる学園生徒" "!RB0114">
-「思いっきり、舌打ちしたよね」
+<name "Concerned Student" "!RB0114">
+"She seems really annoyed by that."
 #
-<name "普通の学園生徒" "!LB0097">
-「あはは……見なかった事にしよう」
+<name "Regular Student" "!LB0097">
+"Hahaha...
+ Let's pretend we didn't see anything."
 #
 \x0A\x44\x02\x32\x84\x01
 <exit>
 :3072
 <music 8>
 <background "ev047b00.agf" 10>
-<name "ダークス">
-「ロギウス君。
-　もう少し、俺を信じてくれても良いんじゃないかな」
+<name "Darx">
+"Logius, couldn't you have a little more faith
+ in me?"
 #
-<name "ロギウス" "!PA0073">
-「面白い冗談です」
+<name "Logius" "!PA0073">
+"What a funny joke."
 #
-　ものっ凄い目で見られた。
+She looks at me in naked disbelief.
 #
-<name "ダークス">
-「あれ、俺の部下だよな」
+<name "Darx">
+"I am her boss, right?"
 #
-<name "ソフィア" "!ZB0787">
-「た、多分」
+<name "Sofia" "!ZB0787">
+"P-Probably."
 #
 \x0A\x44\x02\x33\x84\x01
 <exit>
 :319B
 <music 11>
 <background "bg013a0.agf" 10>
-<name "角のある学園生徒" "!HC0057">
-「コゼロットお姉さま。
-　昼食、ご一緒してもよろしいですか？」
+<name "Horned Student" "!HC0057">
+"Kozelotte, may I have lunch with you?"
 #
 <sprite "ta11a004.agf" 4 4 11>
-<name "コゼロット" "!NA0049">
-「ええ。
-　構わないわよ」
+<name "Kozelotte" "!NA0049">
+"Yes, I don't mind."
 #
-<name "角のある学園生徒" "!HC0058">
-「ありがとうございます」
+<name "Horned Student" "!HC0058">
+"Thank you very much."
 #
 <removesprite -1 11>
-<name "コゼの同級生" "!SB0136">
-「相変わらず、モテるわねぇ」
+<name "Koze's Classmate" "!SB0136">
+"As popular as ever."
 #
 <sprite "ta11a002.agf" 4 4 11>
-<name "コゼロット" "!NA0050">
-「そんなのじゃないわよ」
+<name "Kozelotte" "!NA0050">
+"It's not like that."
 #
-<name "コゼの同級生" "!SB0137">
-「えー、でもお姉さまって呼ばれてたじゃない。
-　普通は先輩でしょ」
+<name "Koze's Classmate" "!SB0137">
+"Eh? But you heard how she talked to you.
+ Normally it's much more respectful."
 #
 <sprite "ta11a001.agf" 4 4 12>
-<name "コゼロット" "!NA0051">
-「妹なんだから、仕方が無いでしょ」
+<name "Kozelotte" "!NA0051">
+"She is my little sister, so what did you
+ expect?"
 #
-<name "コゼの同級生" "!SB0138">
-「……あー」
+<name "Koze's Classmate" "!SB0138">
+"...Oh."
 #
 <sprite "ta11a002.agf" 4 4 12>
-<name "コゼロット" "!NA0052">
-「この学園、通っている生徒の半分以上は私の妹と
-　弟だからね」
+<name "Kozelotte" "!NA0052">
+"More than half the students at this school
+ are my little sisters and brothers."
 #
-<name "コゼの同級生" "!SB0139">
-「お姉ちゃんは、大変だ」
+<name "Koze's Classmate" "!SB0139">
+"It's rough being a big sister."
 #
 <sprite "ta11a016.agf" 4 4 12>
-<name "コゼロット" "!NA0053">
-「モテてるって言われるよりは、しっくりくるわね」
+<name "Kozelotte" "!NA0053">
+"Better than than just being popular."
 #
 <removesprite -1 11>
 <exit>
 :35EF
 <music 11>
 <background "bg013a0.agf" 10>
-<name "大食漢な学園生徒" "!JA0031">
-「大食い研究会、参上！」
+<name "Gourmand Student" "!JA0031">
+"The gluttony club has arrived!"
 #
-<name "街の定食屋の親父" "!ZF0026">
-「来たな」
+<name "Restaurant Owner" "!ZF0026">
+"Welcome."
 #
-<name "大食漢な学園生徒" "!JA0032">
-「料理は準備できていますね」
+<name "Gourmand Student" "!JA0032">
+"The food is ready?"
 #
-<name "街の定食屋の親父" "!ZF0027">
-「当然だ」
+<name "Restaurant Owner" "!ZF0027">
+"Of course."
 #
-<name "大食漢な学園生徒" "!JA0033">
-「では、事前にお伝えしたルールで」
+<name "Gourmand Student" "!JA0033">
+"Then repeat the rules we discussed."
 #
-<name "街の定食屋の親父" "!ZF0028">
-「おう！
-　こっちが用意した大盛り料理を三十分の制限時間
-　内に完食できればタダ。
-　できなければ料金百Ｂを支払って貰う」
+<name "Restaurant Owner" "!ZF0028">
+"Right! If you can finish the entire full
+ course meal within 30 minutes, it's free.
+ But if you can't, it will cost you 100Ｂ."
 #
-<name "街の定食屋の親父" "!ZF0029">
-「百Ｂの準備は出来ているな！」
+<name "Restaurant Owner" "!ZF0029">
+"Let's see your 100Ｂ if you're ready!"
 #
-<name "大食漢な学園生徒" "!JA0034">
-「ここに。
-　しかし、お渡ししません！」
+<name "Gourmand Student" "!JA0034">
+"It's right here, but I won't be handing it
+ over to you!"
 #
-<name "街の定食屋の親父" "!ZF0030">
-「勝負だ！」
+<name "Restaurant Owner" "!ZF0030">
+"The match is on!"
 #
-<name "大食漢な学園生徒" "!JA0035">
-「はい！」
+<name "Gourmand Student" "!JA0035">
+"Yes!"
 #
-　……
+...
 #
-<name "ダークス">
-「賑やかだな」
+<name "Darx">
+"It's busy."
 #
 <sprite "ta01a004.agf" 4 4 11>
-<name "ソフィア" "!ZB0788">
-「学園のサークル活動の一つですね」
+<name "Sofia" "!ZB0788">
+"There's a school club activity."
 #
 <sprite "ta01a033.agf" 4 4 12>
-<name "ソフィア" "!ZB0789">
-「お陰で商店が盛り上がっています」
+<name "Sofia" "!ZB0789">
+"Thanks to that, business is booming."
 #
 <removesprite -1 11>
 <exit>
 :3A03
 <music 11>
 <background "bg013a0.agf" 10>
-<name "普通の学園生徒" "!ZF0031">
-「ＭＭＭ？
-　なんだそれ？」
+<name "Regular Student" "!ZF0031">
+"M.M.M.?
+ What's that?"
 #
-<name "事情通の学園生徒" "!ZH0030">
-「学園の非公認サークル」
+<name "Knowing Student" "!ZH0030">
+"An unofficial school club."
 #
-<name "普通の学園生徒" "!ZF0032">
-「何をやるサークルなんだ？」
+<name "Regular Student" "!ZF0032">
+"What's it do?"
 #
-<name "事情通の学園生徒" "!ZH0031">
-「簡単に言うと、魔王様を讃えるサークルだよ」
+<name "Knowing Student" "!ZH0031">
+"In short, a club that adores the Overlord."
 #
-<name "普通の学園生徒" "!ZF0033">
-「……まともだな。
-　それがどうして非公認なんだ？」
+<name "Regular Student" "!ZF0033">
+"...That seems fine.
+ Why is it unofficial?"
 #
-<name "事情通の学園生徒" "!ZH0032">
-「詳しく言うと、魔王様のようにモテたいって会だ
-　からな」
+<name "Knowing Student" "!ZH0032">
+"More specifically, a club that wants to be
+ popular like the Overlord."
 #
-<name "普通の学園生徒" "!ZF0034">
-「すまん。
-　非公認で正解だ」
+<name "Regular Student" "!ZF0034">
+"Sorry.
+ Unofficial is best."
 #
-<name "事情通の学園生徒" "!ZH0033">
-「ちなみに、魔王様に抱かれたいって活動をする非
-　公認サークルもあるが、それはロギウス先生が徹
-　底して弾圧している」
+<name "Knowing Student" "!ZH0033">
+"By the way, there was also an unofficial club
+ of girls who want to have sex with the 
+ Overlord, but Ms. Logius aggressively stamped
+ it out."
 #
-<name "普通の学園生徒" "!ZF0035">
-「俺、ロギウス先生の応援するわ」
+<name "Regular Student" "!ZF0035">
+"I'm on her side."
 #
-<name "事情通の学園生徒" "!ZH0034">
-「それもあるな。
-　ロギウス先生を応援する会。
-　こっちはもうすぐ公認サークルになるみたいだぞ」
+<name "Knowing Student" "!ZH0034">
+"There's also a club for supporting Ms.
+ Logius.
+ It looks like that one may be official
+ soon."
 #
 <exit>
 :3DB7
 <music 8>
 <background "ev054a00.agf" 10>
-<name "真面目な学園生徒" "!LB0098">
-「この授業の後、身体測定があるのよね」
+<name "Serious Student" "!LB0098">
+"We have to do our physicals after this
+ class."
 #
-<name "笑顔の学園生徒" "!GB0091">
-「うん。
-　え？
-　そうなの？
-　し、知らなかったなぁ」
+<name "Smiling Student" "!GB0091">
+"Yeah.
+ Huh? Really?
+ I-I had no idea."
 #
-<name "真面目な学園生徒" "!LB0099">
-「さっきから、お腹が鳴っているんだけど」
+<name "Serious Student" "!LB0099">
+"Your stomach's been growling for a while."
 #
-<name "笑顔の学園生徒" "!GB0092">
-「え？
-　あ、うん、今日は朝、バタバタして食べられなかっ
-　たから」
+<name "Smiling Student" "!GB0092">
+"Huh?
+ Oh, yeah. I was so busy this morning that I
+ didn't get a chance to eat."
 #
-<name "真面目な学園生徒" "!LB0100">
-「早弁する？」
+<name "Serious Student" "!LB0100">
+"Want to get an early lunch?"
 #
-<name "笑顔の学園生徒" "!GB0093">
-「ううん。
-　授業中に食事なんて、とてもとても」
+<name "Smiling Student" "!GB0093">
+"No. I couldn't possibly eat during class."
 #
-　……
+...
 #
-<name "イザナ" "!AA0059">
-「お腹の音がうるさくて、授業にならない」
+<name "Izana" "!AA0059">
+"Your stomach is making so much noise that I
+ can't teach."
 #
 <exit>
 :4029
 <music 8>
 <background "ev054a00.agf" 10>
-<name "気楽な学園生徒" "!KB0111">
-「この授業の後、身体測定があるんだよな」
+<name "Easygoing Student" "!KB0111">
+"I think physicals are after this class."
 #
-<name "理解ある学園生徒" "!MB0027">
-「ああ、みたいだな。
-　女子が殺気立ってる」
+<name "Understanding Student" "!MB0027">
+"Yeah, seems like it.
+ The girls are all excited about it."
 #
-<name "気楽な学園生徒" "!KB0112">
-「そんなに気合を入れなくても良いと思うけどな」
+<name "Easygoing Student" "!KB0112">
+"I don't know why they have to get so worked
+ up over it."
 #
-<name "理解ある学園生徒" "!MB0028">
-「ははは。
-　女子は体重とバストサイズの測定に、妙に拘るか
-　らなぁ」
+<name "Understanding Student" "!MB0028">
+"Hahaha.
+ Girls are weirdly obsessed with measuring
+ their weight and bust sizes."
 #
-<name "気楽な学園生徒" "!KB0113">
-「バストサイズはともかく、体重なんて男子はどう
-　でも良いと思っているのに……」
+<name "Easygoing Student" "!KB0113">
+"Setting aside the bust size, I don't think
+ most guys care about specific weights..."
 #
-<name "理解ある学園生徒" "!MB0029">
-「男子なんて、ハナから眼中に無いさ。
-　気にするのは同じ女子達の数値。
-　一見、仲良く会話しているように見えても、牽制
-　の嵐だ」
+<name "Understanding Student" "!MB0029">
+"It's not the guys they're worried about.
+ They're worried about how they measure up to
+ the other girls. It may look like friendly
+ chatting, but it's a storm of deception."
 #
-<name "気楽な学園生徒" "!KB0114">
-「女子……怖い生き物だ」
+<name "Easygoing Student" "!KB0114">
+"Girls... are scary."
 #
-<name "イザナ" "!AA0060">
-「まったくだが、私の授業を聞かないのも怖くない
-　かな？」
+<name "Izana" "!AA0060">
+"True, and yet, you're not scared to be
+ ignoring my lecture?"
 #
-<name "気楽な学園生徒" "!KB0115">
-「あ、す、すみません」
+<name "Easygoing Student" "!KB0115">
+"Ah, s-sorry."
 #
 <exit>
 :43B1
 <music 11>
 <background "bg013a0.agf" 10>
-<name "寮に入る学園生徒" "!BC0060">
-「学園寮のお陰で、夢の一人暮らし！」
+<name "Dorm Student" "!BC0060">
+"Thanks to the school dorm, I can finally live
+ on my own like I dreamed of."
 #
-<name "寮に入る学園生徒" "!BC0061">
-「憧れてたんだぁ」
+<name "Dorm Student" "!BC0061">
+"I've wanted this forever!"
 #
-<name "寮に入る学園生徒" "!BC0062">
-「よーし！
-　これから頑張るぞー！」
+<name "Dorm Student" "!BC0062">
+"Okay!
+ Now to live my life to the fullest!"
 #
-　……
+...
 #
-<name "寮に入る学園生徒" "!BC0063">
-「と、思っていた数日前」
+<name "Dorm Student" "!BC0063">
+"That's what I thought a few days ago."
 #
-<name "寮に入る学園生徒" "!BC0064">
-「自分の無力さに押し潰されそうです」
+<name "Dorm Student" "!BC0064">
+"I'm being crushed by my own helplessness."
 #
-<name "寮に入る学園生徒" "!BC0065">
-「お母様、貴女の作る毎日の料理。
-　いつもご苦労をお掛けしておりました」
+<name "Dorm Student" "!BC0065">
+"Mom, you made food for me every day.
+ I'm sorry for all the trouble I caused."
 #
-<name "寮に入る学園生徒" "!BC0066">
-「お父様、貴方が毎日働くその姿。
-　尊敬を覚えます」
+<name "Dorm Student" "!BC0066">
+"Dad, you worked every day.
+ I have newfound respect for you."
 #
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta01a004.agf" 4 4 11>
-<name "ソフィア" "!ZB0790">
-「学園寮、親御さんに評判が良いみたいです」
+<name "Sofia" "!ZB0790">
+"The dorms are apparently very popular with
+ the parents."
 #
-<name "ダークス">
-「本人じゃなくて？」
+<name "Darx">
+"...Not the students?"
 #
 <removesprite -1 11>
 <exit>
 :46E2
 <music 11>
 <background "bg013a0.agf" 10>
-<name "通いの生徒" "!KB0116">
-「お前、寮組？」
+<name "Commuting Student" "!KB0116">
+"You live in the dorm?"
 #
-<name "寮暮らしの生徒" "!ZG0013">
-「ああ」
+<name "Dorm Student" "!ZG0013">
+"Yeah."
 #
-<name "通いの生徒" "!KB0117">
-「いいなぁ。
-　色々と自由なんだろ」
+<name "Commuting Student" "!KB0117">
+"How nice.
+ You must have a lot of freedom."
 #
-<name "寮暮らしの生徒" "!ZG0014">
-「自由だけど、大変だぞ」
+<name "Dorm Student" "!ZG0014">
+"You're free, but it's hard."
 #
-<name "寮暮らしの生徒" "!ZG0015">
-「特に飯。
-　食事は当番制で、生徒達で作るんだ」
+<name "Dorm Student" "!ZG0015">
+"Especially food.
+ The students have to cook, and we rotate who
+ does it."
 #
-<name "通いの生徒" "!KB0118">
-「……それ、食えるものが出来るのか？」
+<name "Commuting Student" "!KB0118">
+"...Is the food you guys make actually
+ edible?"
 #
-<name "寮暮らしの生徒" "!ZG0016">
-「一応、指導してくれる人は居るよ。
-　手は出してくれないけど」
+<name "Dorm Student" "!ZG0016">
+"There's people who oversee things.
+ They don't do any actual work though."
 #
-<name "通いの生徒" "!KB0119">
-「大変だな」
+<name "Commuting Student" "!KB0119">
+"Sounds rough."
 #
-<name "寮暮らしの生徒" "!ZG0017">
-「ああ、お陰で寮じゃ、勉強ができるヤツより、飯
-　を美味く作れるヤツの方が偉いってヒエラルキー
-　も出来つつある」
+<name "Dorm Student" "!ZG0017">
+"Yeah, because of that, in the dorms, instead 
+ of the smart people being on top of the heap,
+ it's whoever can cook the best."
 #
-<name "寮暮らしの生徒" "!ZG0018">
-「サークル活動も、料理系が一番人気だ」
+<name "Dorm Student" "!ZG0018">
+"Cooking is the most popular club too."
 #
-<name "通いの生徒" "!KB0120">
-「……俺、自宅組でよかったと思うべきなのかな」
+<name "Commuting Student" "!KB0120">
+"...I think I'm glad I live at home."
 #
-<name "寮暮らしの生徒" "!ZG0019">
-「さあ、どうだろうな」
+<name "Dorm Student" "!ZG0019">
+"Eh, I don't know about that."
 #
-<name "通いの生徒" "!KB0121">
-「え？」
+<name "Commuting Student" "!KB0121">
+"Huh?"
 #
-<name "寮暮らしの生徒" "!ZG0020">
-「飯作れる男、それなりにモテるんだ。
-　ちなみに、俺はそれで彼女が出来た」
+<name "Dorm Student" "!ZG0020">
+"A guy who can cook is pretty popular.
+ By the way, that's how I got a girlfriend."
 #
-<name "通いの生徒" "!KB0122">
-「…………俺も寮に入れるように、親を説得する」
+<name "Commuting Student" "!KB0122">
+"...I'll try to convince my parents to let me
+ live in the dorms too."
 #
-<name "寮暮らしの生徒" "!ZG0021">
-「頑張れよー」
+<name "Dorm Student" "!ZG0021">
+"Good luck."
 #
 <exit>
 :4BB2
 <music 11>
 <background "bg013a0.agf" 10>
-<name "ロギウス" "!PA0074" "ka26a000.agf">
-「男子寮には、女子厳禁。
-　女子寮には、男子厳禁」
+<name "Logius" "!PA0074" "ka26a000.agf">
+"No girls allowed in the boys dorm.
+ No boys allowed in the girls dorm."
 #
-<name "ロギウス" "!PA0075" "ka26a000.agf">
-「このルールがなぜあるか知っていますか？」
+<name "Logius" "!PA0075" "ka26a000.agf">
+"Do you know why this rule exists?"
 #
-<name "聞かれた生徒" "!ZH0035">
-「異性との交遊を抑制する為だと思います」
+<name "Questioned Student" "!ZH0035">
+"I believe it's to discourage relationships
+ between boys and girls."
 #
-<name "ロギウス" "!PA0076" "ka26a000.agf">
-「その通りです」
+<name "Logius" "!PA0076" "ka26a000.agf">
+"That's right."
 #
-<name "ロギウス" "!PA0077" "ka26a000.agf">
-「ではなぜ、異性との交遊が抑制されなければなら
-　ないか、知っていますか？」
+<name "Logius" "!PA0077" "ka26a000.agf">
+"And do you know why we want to discourage
+ relations between boys and girls?"
 #
-<name "聞かれた生徒" "!ZH0036">
-「す、すみません。
-　わかりません」
+<name "Questioned Student" "!ZH0036">
+"I-I'm sorry.
+ I don't."
 #
-<name "ロギウス" "!PA0079" "ka26a000.agf">
-「お教えしましょう」
+<name "Logius" "!PA0079" "ka26a000.agf">
+"I'll tell you."
 #
-<name "ロギウス" "!PA0080" "ka26a000.agf">
-「まだ早いからです！」
+<name "Logius" "!PA0080" "ka26a000.agf">
+"Because it's still too soon!"
 #
-<name "ロギウス" "!PA0081" "ka26a000.agf">
-「シンプルな理由です！
-　わかりましたね！」
+<name "Logius" "!PA0081" "ka26a000.agf">
+"Such a simple reason!
+ You understand!?"
 #
-<name "聞かれた生徒" "!ZH0037">
-「は、はい」
+<name "Questioned Student" "!ZH0037">
+"Y-Yes, ma'am."
 #
-　……
+...
 #
-<name "見てた生徒" "!MB0030">
-「ロギウス教師長、良い先生なんだけど、妙に男女
-　の仲には厳しいんだよな」
+<name "Watching Student" "!MB0030">
+"Ms Logius is a good teacher, but she's 
+ unusually strict about boys and girls."
 #
-<name "聞かれた生徒" "!ZH0038">
-「ああ」
+<name "Questioned Student" "!ZH0038">
+"Yeah."
 #
 <exit>
 :4FE2
 <music 11>
 <background "bg013a0.agf" 10>
-<name "運動したい生徒" "!RB0115">
-「先輩。
-　棒で球を打つ競技、ドラゴンスレイヤーを知って
-　いますか？」
+<name "Sporty Student" "!RB0115">
+"Kozelotte, have you heard about that sport
+ where you hit a ball with sticks, dragon
+ slayer?"
 #
 <sprite "ta11a002.agf" 4 4 11>
-<name "コゼロット" "!NA0054">
-「一応ね。
-　どうしたの？」
+<name "Kozelotte" "!NA0054">
+"A little bit.
+ What about it?"
 #
-<name "運動したい生徒" "!RB0116">
-「私達でチームを作りません？」
+<name "Sporty Student" "!RB0116">
+"Would you like to join our team?"
 #
 <sprite "ta11a016.agf" 4 4 12>
-<name "コゼロット" "!NA0055">
-「面倒臭いから遠慮するわ」
+<name "Kozelotte" "!NA0055">
+"That seems like a lot of work.
+ No thank you."
 #
-<name "運動したい生徒" "!RB0119">
-「そうですか……残念です」
+<name "Sporty Student" "!RB0119">
+"I see.
+ That's too bad."
 #
-<name "運動したい生徒" "!RB0120">
-「魔王様、ザ・魔王帝というチームを作っているか
-　ら、対戦できると思ったのに……」
+<name "Sporty Student" "!RB0120">
+"The Overlord is making a team called The
+ Overlords.
+ I thought you might want to play against
+ them."
 #
 <sprite "ta11a015.agf" 4 4 12>
-<name "コゼロット" "!NA0056">
-「気が変わったわ。
-　メンバーを集めなさい！
-　そして、大会の準備も！」
+<name "Kozelotte" "!NA0056">
+"I changed my mind.
+ Gather your team!
+ And prepare for the tournament!"
 #
-<name "運動したい生徒" "!RB0121">
-「え、あ、はい！」
+<name "Sporty Student" "!RB0121">
+"Huh? Oh, yes!"
 #
 <removesprite -1 11>
 <background "bg015a0.agf" 10>
-　……
+...
 #
 <background "bg013a0.agf" 10>
-<name "運動したい生徒" "!RB0122">
-「やりましたね！
-　優勝です！」
+<name "Sporty Student" "!RB0122">
+"We did it!
+ We won!"
 #
 <sprite "ta11a001.agf" 4 4 11>
-<name "コゼロット" "!NA0057">
-「ええ。
-　でも、お父様のチームと対戦しなかったけど」
+<name "Kozelotte" "!NA0057">
+"Yes, but we didn't play against my dad's
+ team."
 #
-<name "運動したい生徒" "!RB0123">
-「え？
-　ああ、魔王様のチームは一回戦負けでしたから」
+<name "Sporty Student" "!RB0123">
+"Huh?
+ Oh, his team lost in the first round."
 #
 <sprite "ta11a011.agf" 4 4 12>
-<name "コゼロット" "!NA0058">
-「…………」
+<name "Kozelotte" "!NA0058">
+"..."
 #
 <removesprite -1 11>
 <exit>
 :550E
 <music 11>
 <background "bg013a0.agf" 10>
-<name "ダークス">
-「コゼ～」
+<name "Darx">
+"Kozeee."
 #
 <sprite "ta11a004.agf" 4 4 11>
-<name "コゼロット" "!NA0059">
-「お父様」
+<name "Kozelotte" "!NA0059">
+"Dad."
 #
-<name "ダークス">
-「棒で球を打つ競技、ドラゴンスレイヤーで優勝し
-　たんだってな」
+<name "Darx">
+"I heard you won that sport where you hit a
+ ball with sticks, dragon slayer."
 #
 <sprite "ta11a005.agf" 4 4 12>
-<name "コゼロット" "!NA0060">
-「ええ、はい」
+<name "Kozelotte" "!NA0060">
+"Yes, that's right."
 #
-<name "ダークス">
-「出てるなら言ってくれれば良かったのに。
-　応援し損ねたじゃないか」
+<name "Darx">
+"You should've told me you were playing.
+ I missed out on cheering you on."
 #
 <sprite "ta11a011.agf" 4 4 12>
-<name "コゼロット" "!NA0061">
-「すみません。
-　驚かせようと思っていたので……」
+<name "Kozelotte" "!NA0061">
+"I'm sorry.
+ I wanted to surprise you."
 #
-<name "ダークス">
-「あー、こっちは一回戦負けだったからな」
+<name "Darx">
+"Ooh, we did lose in the first round."
 #
 <sprite "ta11a004.agf" 4 4 12>
-<name "コゼロット" "!NA0062">
-「次は、対戦するまで頑張ってください」
+<name "Kozelotte" "!NA0062">
+"Next time, play hard so we can play against
+ each other."
 #
-<name "ダークス">
-「おう、任せておけ！
-　新たなる魔球を考えたからな」
+<name "Darx">
+"Yeah, leave it to me!
+ I've thought up a new magic pitch."
 #
 <sprite "ta11a005.agf" 4 4 12>
-<name "コゼロット" "!NA0063">
-「期待しています」
+<name "Kozelotte" "!NA0063">
+"I'm looking forward to it."
 #
 <removesprite -1 11>
 <background "bg015a0.agf" 10>
-　……
+...
 #
-　後日
+Later...
 #
-　第二回大会で、コゼロットのチームと、ザ・魔王
-　帝は対決を果たした。
+At the second tournament, Kozelotte's team
+faced The Overlords.
 #
-　名勝負だったが、俺はずっとベンチを温めていた。
+It was a great game, but I spent the entire
+thing on the bench.
 #
 <background "bg013a0.agf" 10>
 <sprite "ta11a011.agf" 4 4 11>
-<name "コゼロット" "!NA0064">
-「お、お父様」
+<name "Kozelotte" "!NA0064">
+"D-Dad..."
 #
 <removesprite -1 11>
-<name "ダークス">
-「チ、チームが勝つ為には……
-　仕方の無い決断がある」
+<name "Darx">
+"S-Some decisions have to be made... so that
+ the team can win."
 #
 <sprite "ta34c001.agf" 4 4 11>
-<name "商会メイド" "!AC0206">
-「さ、最後の方で出てもらおうと思ったのですが、
-　相手が強くて隙がなく……すみません」
+<name "Company Maid" "!AC0206">
+"I-I was going to call you out at the very
+ end, but the last hitter was too good and
+ you wouldn't have had a chance.
+ ...I'm sorry."
 #
-<name "ダークス">
-「あー、いいの。
-　わかってるから。
-　ははは」
+<name "Darx">
+"Nah, it's okay.
+ I know that.
+ Hahaha!"
 #
 <removesprite -1 11>
-<name "応援してた住民" "!ZD0036">
-「な、なんて寂しそうな背中だ」
+<name "Cheering Citizen" "!ZD0036">
+"W-What a sad look in his eyes."
 #
 <exit>
 :5B5D
 <music 11>
 <background "bg013a0.agf" 10>
-<name "角のある生徒" "!RB0124">
-「お姉様」
+<name "Horned Student" "!RB0124">
+"Kozelotte."
 #
-<name "羽のある生徒" "!LB0101">
-「姉貴」
+<name "Winged Student" "!LB0101">
+"Koze."
 #
-<name "髪の長い生徒" "!GB0094">
-「お姉ちゃん」
+<name "Long Haired Student" "!GB0094">
+"Sis."
 #
-<name "後輩っぽい生徒" "!KB0123">
-「先輩」
+<name "Younger Student" "!KB0123">
+"Sister."
 #
-<name "真面目そうな生徒" "!BC0067">
-「生徒会長」
+<name "Serious Student" "!BC0067">
+"President."
 #
-　……
+...
 #
-<name "聞いてた生徒" "!HC0059">
-「呼び名、一杯あるね」
+<name "Listening Student" "!HC0059">
+"So many nicknames."
 #
 <sprite "ta11a010.agf" 4 4 11>
-<name "コゼロット" "!NA0065">
-「呼ばれる方としては、統一して欲しい」
+<name "Kozelotte" "!NA0065">
+"I wish they'd all just use the same one."
 #
 <removesprite -1 11>
 <exit>
 :5D3C
 <music 11>
 <background "bg013a0.agf" 10>
-<name "真面目そうな生徒" "!SB0140">
-「お姉様」
+<name "Serious Student" "!SB0140">
+"Kozelotte."
 #
-<name "強そうな生徒" "!RB0125">
-「姉貴」
+<name "Strong Student" "!RB0125">
+"Sis."
 #
-<name "清楚な生徒" "!LB0102">
-「お姉ちゃん」
+<name "Prim Student" "!LB0102">
+"Sister."
 #
-<name "武士っぽい生徒" "!GB0095">
-「姉上」
+<name "Samurai Student" "!GB0095">
+"Honored sister."
 #
-　……
+...
 #
-<name "聞いていた生徒" "!HC0060">
-「百合？」
+<name "Listening Student" "!HC0060">
+"Kiss-ups?"
 #
 <sprite "ta11a010.agf" 4 4 11>
-<name "コゼロット" "!NA0066">
-「いや、全員、リアル妹だから」
+<name "Kozelotte" "!NA0066">
+"No, they're all my actual sisters."
 #
 <removesprite -1 11>
 <exit>
 :5ED7
 <music 11>
 <background "bg013a0.agf" 10>
-<name "噂する学園生徒" "!SB0142">
-「生徒会長は、やっぱりコゼロット様よね」
+<name "Gossiping Student" "!SB0142">
+"Kozelotte is the student council president?"
 #
-<name "頷く学園生徒" "!ZE0051">
-「ああ。
-　成績優秀だし、文句無しだ」
+<name "Nodding Student" "!ZE0051">
+"Yeah.
+ She gets top marks.
+ Nobody has any problem with it."
 #
-　……
+...
 #
-<name "冷静な学園生徒" "!JA0036">
-「と言うか……魔王様の子供が半数を占める学園で、
-　一般住民の子供に生徒会長をさせるなんて、ただ
-　の拷問だと思う」
+<name "Calm Student" "!JA0036">
+"That said... in a school where half the 
+ students are the Overlord's kids, making 
+ some regular person be school president
+ would be basically torture."
 #
-<name "賛同する学園生徒" "!ZF0036">
-「うん、確かにね」
+<name "Agreeing Student" "!ZF0036">
+"Yeah, that's for sure."
 #
 <exit>
 :6078
 <music 4>
 <background "bg009a0.agf" 10>
 <sprite "ta11a004.agf" 4 4 11>
-<name "コゼロット" "!NA0067">
-「お父様」
+<name "Kozelotte" "!NA0067">
+"Dad."
 #
-<name "ダークス">
-「コゼか。
-　久しぶりだな」
+<name "Darx">
+"Koze?
+ Been awhile."
 #
 <sprite "ta11a005.agf" 4 4 12>
-<name "コゼロット" "!NA0068">
-「ええ、あまり会いに来てくれませんから」
+<name "Kozelotte" "!NA0068">
+"Yes, you haven't been coming to see me much."
 #
-<name "ダークス">
-「そう怒るな。
-　こっちの件は知っているだろ？」
+<name "Darx">
+"Don't be mad.
+ You know everything that's going on with
+ me."
 #
 <sprite "ta11a004.agf" 4 4 12>
-<name "コゼロット" "!NA0069">
-「はい」
+<name "Kozelotte" "!NA0069">
+"Yes."
 #
-<name "ダークス">
-「出来ればお前にも、こっちを手伝って貰いたいん
-　だが……色々とうるさいのが居るからな」
+<name "Darx">
+"I wish I could have you help out.
+ There's so many different annoying things to
+ deal with."
 #
 <sprite "ta11a010.agf" 4 4 12>
-<name "コゼロット" "!NA0070">
-「みたいですね。
-　私も注意を受けました」
+<name "Kozelotte" "!NA0070">
+"Seems like it.
+ I was warned not to help too."
 #
-<name "ダークス">
-「……気に入らなくても、攻撃しないようにな」
+<name "Darx">
+"...Even if you don't like it, don't 
+ antagonize her."
 #
 <sprite "ta11a016.agf" 4 4 12>
-<name "コゼロット" "!NA0071">
-「承知しております」
+<name "Kozelotte" "!NA0071">
+"I know that."
 #
-<name "ダークス">
-「そうか」
+<name "Darx">
+"Okay."
 #
-<name "ダークス">
-「今日はここに用事か？」
+<name "Darx">
+"You have business here today?"
 #
 <sprite "ta11a004.agf" 4 4 12>
-<name "コゼロット" "!NA0072">
-「ええ、ソフィアさんのお店に買い物を」
+<name "Kozelotte" "!NA0072">
+"Yes. Shopping at Sofia's."
 #
-<name "ダークス">
-「軽く食事でもどうだ？」
+<name "Darx">
+"Want to get dinner?"
 #
 <sprite "ta11a010.agf" 4 4 12>
-<name "コゼロット" "!NA0073">
-「嬉しいですけど、時間に余裕がなくて……」
+<name "Kozelotte" "!NA0073">
+"I'd love to, but I don't have time."
 #
-<name "ダークス">
-「そうか。
-　そりゃ悪かった。
-　じゃあ、頑張れよ」
+<name "Darx">
+"I see.
+ That's too bad.
+ Well, keep up the hard work."
 #
 <sprite "ta11a005.agf" 4 4 12>
-<name "コゼロット" "!NA0074">
-「はい。
-　お父様も、頑張ってください」
+<name "Kozelotte" "!NA0074">
+"Yes.
+ You too, Dad."
 #
-<name "ダークス">
-「おう」
+<name "Darx">
+"Yeah."
 #
 <removesprite -1 11>
 <music 11>
 <background "bg008a0.agf" 10>
-<name "同行した学園生徒" "!RB0126">
-「生徒会長って、本当に魔王様の娘だったんですね」
+<name "Accompanying Student" "!RB0126">
+"You really are the Overlord's daughter."
 #
 <sprite "ta11a001.agf" 4 4 11>
-<name "コゼロット" "!NA0075">
-「有名だと思っていたけど？」
+<name "Kozelotte" "!NA0075">
+"I thought everyone knew that."
 #
-<name "同行した学園生徒" "!RB0127">
-「有名ですけど、あまりにその……」
+<name "Accompanying Student" "!RB0127">
+"I knew, but it's still so..."
 #
 <sprite "ta11a002.agf" 4 4 12>
-<name "コゼロット" "!NA0076">
-「似てません？」
+<name "Kozelotte" "!NA0076">
+"I look nothing like him?"
 #
-<name "同行した学園生徒" "!RB0128">
-「ええ」
+<name "Accompanying Student" "!RB0128">
+"Yeah."
 #
 <sprite "ta11a004.agf" 4 4 12>
-<name "コゼロット" "!NA0077">
-「ふふ。
-　似てませんか」
+<name "Kozelotte" "!NA0077">
+"Haha.
+ I guess I don't."
 #
-<name "同行した学園生徒" "!RB0129">
-「似てないのが嬉しいのですか？」
+<name "Accompanying Student" "!RB0129">
+"Are you happy you don't resemble him?"
 #
 <sprite "ta11a005.agf" 4 4 12>
-<name "コゼロット" "!NA0078">
-「娘としては少し残念ですよ。
-　さあ、ゆっくりしていたら遅れてしまいます。
-　急ぎましょう」
+<name "Kozelotte" "!NA0078">
+"As his daughter, it's a little disappointing.
+ Come on, we'll be late if we hang around.
+ Let's hurry up."
 #
-<name "同行した学園生徒" "!RB0130">
-「は、はい」
+<name "Accompanying Student" "!RB0130">
+"R-Right."
 #
 <removesprite -1 11>
 <music 8>
 <background "bg031a0.agf" 10>
-<name "頼んだ学園教師" "!GB0096">
-「ご苦労様。
-　助かったよ」
+<name "Helped Teacher" "!GB0096">
+"Good job.
+ Thanks a lot."
 #
 <sprite "ta11a005.agf" 4 4 11>
-<name "コゼロット" "!NA0079">
-「いえ、ではこれで」
+<name "Kozelotte" "!NA0079">
+"It was nothing.
+ I have to be going now."
 #
-<name "頼んだ学園教師" "!GB0097">
-「ん？
-　お礼にお茶ぐらい出すよ」
+<name "Helped Teacher" "!GB0097">
+"Hm?
+ I can at least offer you a drink."
 #
 <sprite "ta11a004.agf" 4 4 12>
-<name "コゼロット" "!NA0080">
-「ありがとうございます。
-　ですが、他にも仕事を頼まれていまして」
+<name "Kozelotte" "!NA0080">
+"Thank you very much, but I have other work
+ to take care of."
 #
-<name "頼んだ学園教師" "!GB0098">
-「そうか。
-　忙しいね」
+<name "Helped Teacher" "!GB0098">
+"I see.
+ You're very busy."
 #
 <sprite "ta11a005.agf" 4 4 12>
-<name "コゼロット" "!NA0081">
-「自分で引き受けた仕事ですから。
-　では、失礼します」
+<name "Kozelotte" "!NA0081">
+"I took this job myself.
+ Okay, please excuse me."
 #
-<name "頼んだ学園教師" "!GB0099">
-「ああ、頑張ってね」
+<name "Helped Teacher" "!GB0099">
+"Yes. Good luck."
 #
 <removesprite -1 11>
-　……
+...
 #
 <background "bg012a0.agf" 10>
 <sprite "ta11a016.agf" 4 4 11>
-<name "コゼロット" "!NA0082">
-「ふう……」
+<name "Kozelotte" "!NA0082">
+"Sigh..."
 #
 <sprite "ta11a003.agf" 4 4 12>
-<name "コゼロット" "!NA0083">
-「周囲に誰も居ない」
+<name "Kozelotte" "!NA0083">
+"There's nobody around."
 #
 <sprite "ta11a016.agf" 4 4 12>
-<name "コゼロット" "!NA0084">
-「感知……問題無し」
+<name "Kozelotte" "!NA0084">
+"Sensing...
+ Definitely nobody."
 #
 <sprite "ta11a004.agf" 4 4 12>
-<name "コゼロット" "!NA0085">
-「では……」
+<name "Kozelotte" "!NA0085">
+"Then..."
 #
 <sprite "ta11a005.agf" 4 4 12>
-<name "コゼロット" "!NA0086">
-「お父様」
+<name "Kozelotte" "!NA0086">
+"Dad!"
 #
 <sprite "ta11a017.agf" 4 4 12>
-<name "コゼロット" "!NA0087">
-「お父様、お父様、お父様♪」
+<name "Kozelotte" "!NA0087">
+"Daddy♪! Daddy♪! Daddy♪!"
 #
 <sprite "ta11a018.agf" 4 4 12>
-<name "コゼロット" "!NA0088">
-「あー、お父様お父様お父様♪」
+<name "Kozelotte" "!NA0088">
+"Aaah! Daddy♪! Daddy♪! Daddy♪!"
 #
 <sprite "ta11a017.agf" 4 4 12>
-<name "コゼロット" "!NA0089">
-「最高♪」
+<name "Kozelotte" "!NA0089">
+"You're the best!♪"
 #
 <sprite "ta11a018.agf" 4 4 12>
-<name "コゼロット" "!NA0090">
-「素敵♪」
+<name "Kozelotte" "!NA0090">
+"You're wonderful!♪"
 #
 <sprite "ta11a017.agf" 4 4 12>
-<name "コゼロット" "!NA0091">
-「はぁぁぁぁぁぁぁぁぁ」
+<name "Kozelotte" "!NA0091">
+"Ahhhhhhh..."
 #
 <sprite "ta11a018.agf" 4 4 12>
-<name "コゼロット" "!NA0092">
-「喋っちゃった、喋っちゃった、喋っちゃった！」
+<name "Kozelotte" "!NA0092">
+"I said it! I said it! I said it!"
 #
 <sprite "ta11a017.agf" 4 4 12>
-<name "コゼロット" "!NA0093">
-「ああああ、誘っても貰えたし」
+<name "Kozelotte" "!NA0093">
+"Aaaah!
+ He even asked me out!"
 #
 <sprite "ta11a018.agf" 4 4 12>
-<name "コゼロット" "!NA0094">
-「なのに、お断りしなきゃいけないなんて！」
+<name "Kozelotte" "!NA0094">
+"But I can't believe I had to say no!"
 #
 <sprite "ta11a017.agf" 4 4 12>
-<name "コゼロット" "!NA0095">
-「でも、でも、二人っきりなんて……」
+<name "Kozelotte" "!NA0095">
+"But, but, if it was just the two of us..."
 #
 <removesprite -1 11>
 <music 17>
 <background "ev048a00.agf" 10>
-<name "コゼロット" "!NA0096">
-「こーんな感じになっちゃうに違いないわ」
+<name "Kozelotte" "!NA0096">
+"It'd definitely end up like this."
 #
-<name "コゼロット" "!NA0097">
-「そう。
-　お父様は優しいから」
+<name "Kozelotte" "!NA0097">
+"Yes.
+ Because he's so kind."
 #
-<name "コゼロット" "!NA0098">
-「ああ……」
+<name "Kozelotte" "!NA0098">
+"Aahh..."
 #
-<name "コゼロット" "!NA0099">
-「後ろからガンガン突かれたい」
+<name "Kozelotte" "!NA0099">
+"I want to be taken from behind."
 #
-<name "コゼロット" "!NA0100">
-「力尽くで抑え込まれて求められる」
+<name "Kozelotte" "!NA0100">
+"I want to be held down and ravaged."
 #
-<name "コゼロット" "!NA0101">
-「ぁっ、ふぁ、ぁっ……お父様」
+<name "Kozelotte" "!NA0101">
+"Aah...ahhh...ahhh...
+ Daddy..."
 #
-<name "コゼロット" "!NA0102">
-「お父様、お父様、お父様ぁ♪」
+<name "Kozelotte" "!NA0102">
+"Daddy... Daddy... Daddy...♪"
 #
-<name "コゼロット" "!NA0103">
-「きっとそう、こんな感じで……んぁ、ふぁ」
+<name "Kozelotte" "!NA0103">
+"I know it'd be like this...
+ Mmm...aahhh..."
 #
-<name "コゼロット" "!NA0104">
-「ぁっ、そんな……んぁ、胸を……ぁ」
+<name "Kozelotte" "!NA0104">
+"Aah... No... 
+ Mmm... My breasts...
+ Ah..."
 #
 <background "ev048a01.agf" 10>
-<name "コゼロット" "!NA0105">
-「は、激しっ、激しいです」
+<name "Kozelotte" "!NA0105">
+"Ah... So rough...
+ So intense..."
 #
-<name "コゼロット" "!NA0106">
-「でも、は、はい、好きに……ええ、耐えてみせます」
+<name "Kozelotte" "!NA0106">
+"But... Y-Yes, I love it...
+ Yes, I can take it..."
 #
-<name "コゼロット" "!NA0107">
-「んはっ、ぁぁっ、ふぁんっ」
+<name "Kozelotte" "!NA0107">
+"Mmmm...aah...aahhh..."
 #
-<name "コゼロット" "!NA0108">
-「あ、そ、そんな目で……ふひっ……
-　お父様ぁ」
+<name "Kozelotte" "!NA0108">
+"Ah... T-The way you're looking at me...
+ Yes... Daddy..."
 #
-<name "コゼロット" "!NA0109">
-「ぁ、ん、キ、キス……は、はい」
+<name "Kozelotte" "!NA0109">
+"Ah...mmm...
+ K-Kiss me...
+ Y-Yes..."
 #
-<name "コゼロット" "!NA0110">
-「ぁ、ひぁ……お父様、お父様ぁ」
+<name "Kozelotte" "!NA0110">
+"Ah...aah...
+ Daddy... Daddy..."
 #
-<name "コゼロット" "!NA0111">
-「ん、ん、んぁっ……も、もう……」
+<name "Kozelotte" "!NA0111">
+"Mm...mmm...mmm...
+ I-I can't..."
 #
-<name "コゼロット" "!NA0112">
-「ひっ……」
+<name "Kozelotte" "!NA0112">
+"Ah..."
 #
-<name "コゼロット" "!NA0113">
-「ぁ……お、お父様を……
-　んぁ、わ、私の、なかに……
-　ぁ、んっ……ひっ」
+<name "Kozelotte" "!NA0113">
+"Ah... D-Daddy...
+ Mmm... T-That's my... but...
+ Ah...mmm...ah!"
 #
-<name "コゼロット" "!NA0114">
-「ひっ、ぁ、ぁ……んぁぁぁぁぁぁぁん！」
+<name "Kozelotte" "!NA0114">
+"Ah! Ah! Ah...mmmmmmmmm!"
 #
-<name "コゼロット" "!NA0115">
-「ぁ……ぁぁ……お父様」
+<name "Kozelotte" "!NA0115">
+"Ah...aahhh...
+ Daddy..."
 #
-<name "コゼロット" "!NA0116">
-「ぁ……ん……ふぁ……」
+<name "Kozelotte" "!NA0116">
+"Ah...mm...aahhhh..."
 #
-<name "コゼロット" "!NA0117">
-「ぁぁ……」
+<name "Kozelotte" "!NA0117">
+"Aahhh..."
 #
 <music 8>
 <background "bg012a0.agf" 10>
 <sprite "ta11a011.agf" 4 4 11>
-<name "コゼロット" "!NA0118">
-「やってしまった」
+<name "Kozelotte" "!NA0118">
+"I did it."
 #
 <sprite "ta11a010.agf" 4 4 12>
-<name "コゼロット" "!NA0119">
-「うう、部屋まで我慢できなかった」
+<name "Kozelotte" "!NA0119">
+"Oooh... 
+ I couldn't hold back until I got to my room."
 #
 <sprite "ta11a011.agf" 4 4 12>
-<name "コゼロット" "!NA0120">
-「自制しないと……」
+<name "Kozelotte" "!NA0120">
+"I need to control myself."
 #
 <sprite "ta11a017.agf" 4 4 12>
-<name "コゼロット" "!NA0121">
-「ぁぁ……でも、お父様と二人っきりで食事なんて、
-　自分を抑え切る自信がありませんからね」
+<name "Kozelotte" "!NA0121">
+"Aah... but I don't think I could completely
+ stand it if I had dinner alone with him."
 #
 <sprite "ta11a016.agf" 4 4 12>
-<name "コゼロット" "!NA0122">
-「一緒に居た娘を同席させるのも手ですが……」
+<name "Kozelotte" "!NA0122">
+"I would have to bring another girl to come
+ to dinner with me..."
 #
 <sprite "ta11a010.agf" 4 4 12>
-<name "コゼロット" "!NA0123">
-「あの娘がお父様に興味を持っては困ります」
+<name "Kozelotte" "!NA0123">
+"But I don't want anybody else becoming
+ interested in him either."
 #
 <sprite "ta11a011.agf" 4 4 12>
-<name "コゼロット" "!NA0124">
-「ただでさえ、ライバルは多いのですから」
+<name "Kozelotte" "!NA0124">
+"And there are already so many other rivals."
 #
 <sprite "ta11a016.agf" 4 4 12>
-<name "コゼロット" "!NA0125">
-「残念ですけど、あそこは断るのが正解」
+<name "Kozelotte" "!NA0125">
+"It's awful, but it was right for me to say
+ no."
 #
 <sprite "ta11a005.agf" 4 4 12>
-<name "コゼロット" "!NA0126">
-「優しいお父様なら、また食事に誘ってくれるに違
-　いありません」
+<name "Kozelotte" "!NA0126">
+"I'm sure my kind father will invite me out
+ again."
 #
 <removesprite -1 11>
 \x2B\x0A\x44\x01\xE4\x84\x01\x0A\x44\x02\x34\x84\x01
@@ -1465,164 +1538,168 @@
 :7CAD
 <music 11>
 <background "bg013a0.agf" 10>
-<name "通り掛った生徒" "!ZD0037">
-「お、今日の生徒会長。
-　超機嫌が良いな」
+<name "Passing Student" "!ZD0037">
+"Oh, the president's in a really good mood
+ today."
 #
-<name "予想する生徒" "!ZE0052">
-「良い事があったのかな？」
+<name "Guessing Student" "!ZE0052">
+"Did something good happen?"
 #
-<name "通り掛った生徒" "!ZD0038">
-「今なら、あの件を通してくれるかもしれない」
+<name "Passing Student" "!ZD0038">
+"Maybe she'll approve that now."
 #
-<name "予想する生徒" "!ZE0053">
-「よ、よーし」
+<name "Guessing Student" "!ZE0053">
+"A-All right."
 #
-　当然、駄目だった。
+Obviously, it was denied.
 #
 <exit>
 :7E00
 <music 41>
 <background "bg003a0.agf" 10>
 <sprite "ta09a014.agf" 4 4 11>
-<name "フォーゼロッテ" "!XA0256">
-「前々から気付いてはいたが……」
+<name "Forzelotte" "!XA0256">
+"I've known for a while..."
 #
 <sprite "ta09a020.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0257">
-「少し引くレベルのファザコン」
+<name "Forzelotte" "!XA0257">
+"She has a bit of a father complex."
 #
 <sprite "ta09a021.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0258">
-「なんとかせねば」
+<name "Forzelotte" "!XA0258">
+"I must do something about that."
 #
 <sprite "ta09a019.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0259">
-「そう、なんとかせねばならぬ」
+<name "Forzelotte" "!XA0259">
+"Yes, I must think of something."
 #
 <sprite "ta09a010.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0262">
-「万が一、というか……
-　コゼの誘いを、ダークスが退けられるとは思えん」
+<name "Forzelotte" "!XA0262">
+"Or rather...
+ I don't think he would be able to resist
+ her temptations."
 #
 <sprite "ta09a009.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0261">
-「いや、一回二回なら退けてくれるだろう。
-　しかし……男の下半身に理性を期待するほど、私
-　も乙女ではない」
+<name "Forzelotte" "!XA0261">
+"No, he will reject her once or twice, but I
+ am not such a blushing virgin to expect
+ reason from below a man's belt."
 #
 <sprite "ta09a012.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0263">
-「万全をもって、迎え撃つ！」
+<name "Forzelotte" "!XA0263">
+"I must face this will all my resolve!"
 #
 <sprite "ta09a013.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0264">
-「でなければならぬ！」
+<name "Forzelotte" "!XA0264">
+"I will not allow it!"
 #
 <sprite "ta09a012.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0265">
-「母として！
-　そして、一人の女として！」
+<name "Forzelotte" "!XA0265">
+"As a mother!
+ And as a woman!"
 #
 <sprite "ta09a011.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0266">
-「娘になぞ負けるものかぁ！」
+<name "Forzelotte" "!XA0266">
+"I will not be defeated by my daughter!"
 #
 <removesprite -1 11>
-　……
+...
 #
-<name "活発な娘" "!HC0061">
-「フォーゼママが怖い……」
+<name "Active Girl" "!HC0061">
+"Forze is scary..."
 #
-<name "真面目な娘" "!SB0143">
-「コゼお姉ちゃんと仲が悪いのかな？」
+<name "Serious Girl" "!SB0143">
+"Does she not get along with Koze?"
 #
-<name "冷静な娘" "!RB0131">
-「さあ？」
+<name "Relaxed Girl" "!RB0131">
+"I'm not sure."
 #
-<name "考える娘" "!LB0103">
-「でも、このままじゃ……」
+<name "Thinking Girl" "!LB0103">
+"But if this keeps up..."
 #
-<name "提案する娘" "!GB0100">
-「パ、パパに相談？」
+<name "Thoughtful Girl" "!GB0100">
+"S-Should we talk to daddy?"
 #
-<name "活発な娘" "!HC0062">
-「そうだね。
-　ラキアおば……お姉ちゃんに頼んで伝えて貰おう」
+<name "Active Girl" "!HC0062">
+"Maybe...
+ We should ask aun... 
+ We should ask Rakia."
 #
-<name "真面目な娘" "!SB0144">
-「あー、おばちゃんって言った！
-　おこられるー」
+<name "Serious Girl" "!SB0144">
+"Aah! You called her aunt!
+ She's gonna be mad!"
 #
-<name "活発な娘" "!HC0063">
-「言ってない。
-　セーフ、あれはセーフ！」
+<name "Active Girl" "!HC0063">
+"I didn't say it!
+ I fixed myself!"
 #
-<name "冷静な娘" "!RB0132">
-「け、喧嘩してる場合じゃないと思うけど……」
+<name "Relaxed Girl" "!RB0132">
+"I-I don't think this is the time to be
+ fighting..."
 #
 \x0A\x44\x02\x35\x84\x01
 <exit>
 :858F
 <music 8>
 <background "ev054a00.agf" 10>
-<name "提案する学園生徒" "!HC0064">
-「イザナ先生のイチャイチャ授業♪」
+<name "Proposing Student" "!HC0064">
+"It's Izana's love class!♪"
 #
-<name "イザナ" "!AA0066">
-「え？
-　なに、それ？」
+<name "Izana" "!AA0066">
+"Huh?
+ What's that?"
 #
-<name "提案する学園生徒" "!HC0065">
-「イチャイチャ授業ですよ」
+<name "Proposing Student" "!HC0065">
+"A love class."
 #
-<name "イザナ" "!AA0067">
-「そう言われても……
-　なにをどうすればいいんだ？」
+<name "Izana" "!AA0067">
+"You said that already...
+ What am I supposed to do?"
 #
-<name "提案する学園生徒" "!HC0066">
-「そうですね。
-　あ、そうだ！
-　魔王様との馴れ初めとか、教えてください」
+<name "Proposing Student" "!HC0066">
+"Let's see.
+ Ah, I know!
+ Tell us about you fell in love with the
+ Overlord."
 #
-<name "イザナ" "!AA0068">
-「あ、あはは……」
+<name "Izana" "!AA0068">
+"A-Ahaha..."
 #
-<name "イザナ" "!AA0070">
-「その話を、天界からの移住組に聞くのは無しだ」
+<name "Izana" "!AA0070">
+"Never ask the immigrants from Celestia about
+ that."
 #
-<name "提案する学園生徒" "!HC0067">
-「え？」
+<name "Proposing Student" "!HC0067">
+"Huh?"
 #
-<name "イザナ" "!AA0071">
-「マジな話です。
-　禁止事項にしなさい」
+<name "Izana" "!AA0071">
+"I'm serious.
+ It's strictly off-limits."
 #
-<name "コゼロット" "!NA0167">
-「先生。
-　生徒会規約に追加しておきます」
+<name "Kozelotte" "!NA0167">
+"Ma'am, I'll add it to the school rules."
 #
-<name "イザナ" "!AA0072">
-「そうすべきです」
+<name "Izana" "!AA0072">
+"You absolutely should."
 #
-<name "提案する学園生徒" "!HC0068">
-「どういう事？」
+<name "Proposing Student" "!HC0068">
+"What does that mean?"
 #
-<name "イザナ" "!AA0073">
-「貴女がもう少し大人になったら、わかるから」
+<name "Izana" "!AA0073">
+"You'll understand when you get older."
 #
-<name "コゼロット" "!NA0168">
-「知らない方が幸せって事もあるのよ」
+<name "Kozelotte" "!NA0168">
+"Ignorance is bliss."
 #
-<name "提案する学園生徒" "!HC0069">
-「ワ、ワケがわからない」
+<name "Proposing Student" "!HC0069">
+"I-I don't get it."
 #
 \x0A\x44\x02\x36\x84\x01
 <exit>
 :89C1
 <music 8>
 <background "ev054a00.agf" 10>
-　学園は平和なようだ。
+The school seems to be at peace.
 #
 <exit>
 \x78
