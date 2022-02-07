@@ -317,7 +317,7 @@
 <exit>
 <music 4>
 <background "ev001a00.agf" 10>
-　今日も忙しそうだ。
+Seems busy again today.
 #
 \x15 :156E: 
 :156E
@@ -325,1199 +325,1246 @@
 :156F
 <music 4>
 <background "ev001a00.agf" 10>
-<name "食事を楽しむ住民" "!SB0080">
-「肉料理は、食べたって感じがするわね」
+<name "Dining Citizen" "!SB0080">
+"I'm always ready to eat a nice meat dish."
 #
-<name "満腹な住民" "!RB0068">
-「特に牛はそうですね」
+<name "Satisfied Citizen" "!RB0068">
+"Especially beef."
 #
 <exit>
 :161F
 <music 4>
 <background "ev001a00.agf" 10>
-<name "食事を楽しむ住民" "!SB0081">
-「牛肉料理の代表！
-　それはステーキ！」
+<name "Dining Citizen" "!SB0081">
+"When you think of a beef dish, it's gotta be
+ steak!"
 #
-<name "満腹な住民" "!RB0069">
-「美味しい部分だけを切り取って焼くなんて、かな
-　り贅沢！」
+<name "Satisfied Citizen" "!RB0069">
+"It's quite a luxury to cut out and only cook
+ the tastiest parts!"
 #
 <exit>
 :16F9
 <music 4>
 <background "ev001a00.agf" 10>
-<name "食事を楽しむ住民" "!SB0082">
-「牛肉料理の弱点、それは女の子が食べているとパ
-　ワフル過ぎる感じがするところ！」
+<name "Dining Citizen" "!SB0082">
+"Beef dishes have a weakness.
+ When a girl eats them, they feel too
+ powerful!"
 #
-<name "満腹な住民" "!RB0070">
-「別にそんな事は無いんじゃないかなぁ」
+<name "Satisfied Citizen" "!RB0070">
+"Is that even a real thing?"
 #
 <exit>
 :17E6
 <music 4>
 <background "ev001a00.agf" 10>
-<name "食事を楽しむ住民" "!SB0083">
-「豚肉も侮れませんね」
+<name "Dining Citizen" "!SB0083">
+"Don't underestimate pork."
 #
-<name "満腹な住民" "!RB0071">
-「私は牛よりも豚の方が好き」
+<name "Satisfied Citizen" "!RB0071">
+"I like pigs more than cows."
 #
 <exit>
 :188C
 <music 4>
 <background "ev001a00.agf" 10>
-<name "食事を楽しむ住民" "!SB0084">
-「豚肉料理は好きだけど、原型が見えるのは嫌だな」
+<name "Dining Citizen" "!SB0084">
+"I like pork dishes, but I hate seeing the
+ original."
 #
-<name "満腹な住民" "!RB0072">
-「原型が見える？」
+<name "Satisfied Citizen" "!RB0072">
+"Seeing the original?"
 #
-<name "食事を楽しむ住民" "!SB0085">
-「頭とか足とか」
+<name "Dining Citizen" "!SB0085">
+"The head or feet."
 #
-<name "満腹な住民" "!RB0073">
-「なるほど。
-　賛同！」
+<name "Satisfied Citizen" "!RB0073">
+"I see.
+ Agreed!"
 #
 <exit>
 :19B5
 <music 4>
 <background "ev001a00.agf" 10>
-<name "食事を楽しむ住民" "!SB0086">
-「羊肉は、味わいがあって美味しい」
+<name "Dining Citizen" "!SB0086">
+"Mutton is delicious and flavorful."
 #
-<name "満腹な住民" "!RB0074">
-「でも、家で作るとどうしても臭みが気になるのよ
-　ねー」
+<name "Satisfied Citizen" "!RB0074">
+"But when I cook it at home, I always worry
+ about the smell."
 #
-<name "食事を楽しむ住民" "!SB0087">
-「しっかり調理すれば、臭みは消えるわよ。
-　手を抜かないの」
+<name "Dining Citizen" "!SB0087">
+"If you cook it right, it won't smell bad.
+ Don't cut corners."
 #
 <exit>
 :1AE9
 <music 4>
 <background "ev001a00.agf" 10>
-<name "食事を楽しむ住民" "!SB0088">
-「羊肉は、羊の年齢で味わいが変わるのよね」
+<name "Dining Citizen" "!SB0088">
+"Did you know that the flavor of mutton
+ changes with the age of the sheep?"
 #
-<name "満腹な住民" "!RB0075">
-「子羊は美味しいけど、贅沢過ぎる」
+<name "Satisfied Citizen" "!RB0075">
+"Lamb is delicious, but it's too expensive."
 #
 <exit>
 :1BA9
 <music 4>
 <background "ev001a00.agf" 10>
-<name "食事を楽しむ住民" "!SB0089">
-「鶏肉の安定感」
+<name "Dining Citizen" "!SB0089">
+"Chicken is consistent."
 #
-<name "満腹な住民" "!RB0076">
-「値段も手頃ですし、庶民の味方ですね」
+<name "Satisfied Citizen" "!RB0076">
+"Affordable too.
+ The dish of the common man."
 #
 <exit>
 :1C53
 <music 4>
 <background "ev001a00.agf" 10>
-<name "食事を楽しむ住民" "!SB0090">
-「手羽先……超美味い」
+<name "Dining Citizen" "!SB0090">
+"Chicken wings are... super tasty."
 #
-<name "満腹な住民" "!RB0077">
-「だからって、そればっかり食べるのは……」
+<name "Satisfied Citizen" "!RB0077">
+"Still though, you shouldn't eat them all the
+ time."
 #
 <exit>
 :1D07
 <music 4>
 <background "ev001a00.agf" 10>
-<name "食事を楽しむ住民" "!SB0091">
-「小さい鳥は、食べた感じがしない」
+<name "Dining Citizen" "!SB0091">
+"It hardly feels like you've eaten after a
+ game hen."
 #
-<name "満腹な住民" "!RB0078">
-「でも、美味しいわよね」
+<name "Satisfied Citizen" "!RB0078">
+"But they are tasty."
 #
 <exit>
 :1DB5
 <music 4>
 <background "ev001a00.agf" 10>
-<name "調理するメイド" "!DC0197">
-「川魚って、焼かないと駄目なのよねぇ」
+<name "Cooking Maid" "!DC0197">
+"River fish need to be roasted."
 #
-<name "料理長メイド" "!AC0156">
-「生は危険ですから、しっかり焼きましょうね」
+<name "Chef Maid" "!AC0156">
+"It's dangerous to eat them raw, so make sure
+ they're cooked through."
 #
-<name "調理するメイド" "!DC0198">
-「はーい」
+<name "Cooking Maid" "!DC0198">
+"Yep."
 #
 <exit>
 :1EAB
 <music 4>
 <background "ev001a00.agf" 10>
-<name "給仕メイド" "!DC0199">
-「川魚の仕入れって、どうやっているの？」
+<name "Serving Maid" "!DC0199">
+"How do you get river fish?"
 #
-<name "調理メイド" "!AC0157">
-「近くの川で、プロが釣ってます」
+<name "Cooking Maid" "!AC0157">
+"A professional fishes them up from a nearby
+ river."
 #
 <exit>
 :1F61
 <music 4>
 <background "ev001a00.agf" 10>
-<name "食事を楽しむ住民" "!SB0092">
-「川魚……うん、美味しい！」
+<name "Dining Citizen" "!SB0092">
+"River fish...
+ Yep, delicious!"
 #
-<name "満腹な住民" "!RB0079">
-「でも、これって自分で釣ればタダじゃない？」
+<name "Satisfied Citizen" "!RB0079">
+"But wouldn't this be free if you caught it
+ yourself?"
 #
-<name "食事を楽しむ住民" "!SB0093">
-「釣って焼く手間賃よ」
+<name "Dining Citizen" "!SB0093">
+"I'm paying for the fishing and cooking."
 #
 <exit>
 :205B
 <music 4>
 <background "ev001a00.agf" 10>
-<name "食事を楽しむ住民" "!SB0094">
-「ウナギ」
+<name "Dining Citizen" "!SB0094">
+"Eel."
 #
-<name "満腹な住民" "!RB0080">
-「誰も逆らえない香り」
+<name "Satisfied Citizen" "!RB0080">
+"A scent nobody can resist."
 #
-<name "食事を楽しむ住民" "!SB0095">
-「ついつい、食べてしまう」
+<name "Dining Citizen" "!SB0095">
+"I can't stop eating it."
 #
 <exit>
 :2131
 <music 4>
 <background "ev001a00.agf" 10>
-<name "食事を楽しむ住民" "!SB0096">
-「ウナギ料理」
+<name "Dining Citizen" "!SB0096">
+"An eel dish."
 #
-<name "満腹な住民" "!RB0081">
-「値段だけが弱点よね」
+<name "Satisfied Citizen" "!RB0081">
+"The only problem is the price."
 #
 <exit>
 :21C9
 <music 4>
 <background "ev001a00.agf" 10>
-<name "調理するメイド" "!DC0200">
-「ウナギ料理って、調理が大変なのよね」
+<name "Cooking Maid" "!DC0200">
+"Eel is very difficult to prepare."
 #
-<name "料理長メイド" "!AC0158">
-「血に毒があるから、慣れた人以外は触らないよう
-　に」
+<name "Chef Maid" "!AC0158">
+"The blood is poisonous, so don't touch it if
+ you don't know what you're doing."
 #
 <exit>
 :229A
 <music 4>
 <background "ev001a00.agf" 10>
-<name "調理するメイド" "!DC0201">
-「海の魚って、美味しいし、色々な料理が出来るん
-　だけど……
-　手に入れ難いのが、欠点なのよね」
+<name "Cooking Maid" "!DC0201">
+"Ocean fish are delicious and can be cooked
+ many different ways, but the problem is that
+ they're hard to get."
 #
-<name "給仕メイド" "!AC0159">
-「ラキアさんのお店頼りになるのが悔しい」
+<name "Serving Maid" "!AC0159">
+"It's frustrating to have to rely on Rakia's
+ business."
 #
 <exit>
 :2396
 <music 4>
 <background "ev001a00.agf" 10>
-<name "調理するメイド" "!DC0202">
-「川魚ではありえない、大きさ」
+<name "Cooking Maid" "!DC0202">
+"That can't be a river fish.
+ It's too big."
 #
-<name "給仕メイド" "!AC0160">
-「調理が、大工仕事みたいになっていますからねぇ」
+<name "Serving Maid" "!AC0160">
+"Cooking is kind of like carpentry, isn't it?"
 #
 <exit>
 :2456
 <music 4>
 <background "ev001a00.agf" 10>
-<name "料理を楽しむ住民" "!SB0097">
-「フグ料理」
+<name "Cooking Citizen" "!SB0097">
+"Puffer fish cooking."
 #
-<name "料理を楽しむ住民" "!SB0098">
-「それは美味しいけど、危険な料理」
+<name "Cooking Citizen" "!SB0098">
+"A delicious, but dangerous dish."
 #
-<name "お酒を楽しむ住民" "!RB0082">
-「危険なの？」
+<name "Drinking Citizen" "!RB0082">
+"It's dangerous?"
 #
-<name "料理を楽しむ住民" "!SB0099">
-「毒があるから」
+<name "Cooking Citizen" "!SB0099">
+"There's poison in it."
 #
-<name "お酒を楽しむ住民" "!RB0083">
-「…………それ、料理として出しちゃ駄目なんじゃ
-　ないかな？」
+<name "Drinking Citizen" "!RB0083">
+"...Doesn't that mean you shouldn't serve it
+ as food then?"
 #
-<name "料理を楽しむ住民" "!SB0100">
-「それをＯＫとさせる美味しさ」
+<name "Cooking Citizen" "!SB0100">
+"It's delicious, so it's okay."
 #
 <exit>
 :2619
 <music 4>
 <background "ev001a00.agf" 10>
-<name "調理メイド" "!AC0161">
-「フグの調理は、知識のある人のみ許可します」
+<name "Cooking Maid" "!AC0161">
+"Preparing blowfish is only for those who
+ know how."
 #
-<name "給仕メイド" "!DC0203">
-「フグの種類毎に毒の位置が違うって、嫌がらせみ
-　たいな魚よね」
+<name "Serving Maid" "!DC0203">
+"The place where you find the poison is
+ different for each kind of blowfish.
+ What an annoying fish."
 #
-<name "仕入れ担当メイド" "!PC0223">
-「でも、味は極上だから……」
+<name "Purchasing Maid" "!PC0223">
+"But it tastes so incredible..."
 #
-<name "給仕メイド" "!DC0204">
-「さらに嫌がらせよ」
+<name "Serving Maid" "!DC0204">
+"That makes it even more annoying."
 #
 <exit>
 :276E
 <music 4>
 <background "ev001a00.agf" 10>
-<name "メニューを見る客" "!RB0084">
-「サメって、食べられるんですか？」
+<name "Menu Reader" "!RB0084">
+"You can eat shark?"
 #
-<name "食通のお客" "!SB0101">
-「身は、捕まえてすぐじゃないと無理ね。
-　すっごく臭くなるのよ」
+<name "Gourmet Customer" "!SB0101">
+"You can't unless you cook it as soon as you
+ catch it.
+ It smells so bad."
 #
-<name "メニューを見る客" "!RB0085">
-「へぇ」
+<name "Menu Reader" "!RB0085">
+"Oh?"
 #
-<name "食通のお客" "!SB0102">
-「食べるのは尾びれとか背びれ。
-　色々と加工してなんとかするんだけど、手間が掛
-　かってる分、お値段が高くなるけどね」
+<name "Gourmet Customer" "!SB0102">
+"What you want is the fin or the tail.
+ There are multiple ways to prepare them, but
+ the more time it takes, the more expensive
+ it'll be."
 #
 <exit>
 :290F
 <music 4>
 <background "ev001a00.agf" 10>
-<name "調理メイド" "!AC0162">
-「そっち、抑えて！
-　まだ生きてる！」
+<name "Cooking Maid" "!AC0162">
+"Catch that!
+ It's still alive!"
 #
-<name "手伝うメイド" "!PC0224">
-「ちぃっ、生意気な！」
+<name "Helping Maid" "!PC0224">
+"Tch! Gutsy!"
 #
-<name "調理メイド" "!AC0163">
-「トドメを！」
+<name "Cooking Maid" "!AC0163">
+"I got it!"
 #
-<name "仕入れ担当メイド" "!DC0205">
-「サメ料理は、格闘ねぇ」
+<name "Purchasing Maid" "!DC0205">
+"Cooking shark is a struggle."
 #
-<name "調理メイド" "!AC0164">
-「いや、締めてからこっちに持ってくれば良かった
-　んじゃないかなぁ」
+<name "Cooking Maid" "!AC0164">
+"Well, they should've just cut it up before
+ bringing it here."
 #
 <exit>
 :2A93
 <music 4>
 <background "ev001a00.agf" 10>
-<name "料理を楽しむ住民" "!SB0103">
-「サザエ、美味い！」
+<name "Cooking Citizen" "!SB0103">
+"Mollusks are tasty!"
 #
-<name "食事を楽しむ住民" "!RB0086">
-「同意！」
+<name "Dining Citizen" "!RB0086">
+"Agreed!"
 #
 <exit>
 :2B2B
 <music 4>
 <background "ev001a00.agf" 10>
-<name "料理を楽しむ住民" "!SB0104">
-「ホタテ、超美味い！」
+<name "Cooking Citizen" "!SB0104">
+"Scallops are super tasty!"
 #
-<name "食事を楽しむ住民" "!RB0087">
-「網焼き、最高！」
+<name "Dining Citizen" "!RB0087">
+"Grilled is the best!"
 #
 <exit>
 :2BCD
 <music 4>
 <background "ev001a00.agf" 10>
-<name "給仕メイド" "!DC0206">
-「貝って、当然、海まで行かないと手に入らないの
-　よね」
+<name "Serving Maid" "!DC0206">
+"Shellfish, obviously, can only be gotten from
+ the ocean."
 #
-<name "調理メイド" "!AC0165">
-「ええ、そこで倒れている彼女に感謝を」
+<name "Cooking Maid" "!AC0165">
+"Yes. So be thankful to that collapsed woman."
 #
-<name "給仕メイド" "!DC0207">
-「彼女、どうして倒れているんですか？」
+<name "Serving Maid" "!DC0207">
+"Why did she collapse?"
 #
-<name "調理メイド" "!AC0166">
-「海まで飛んでいったからです」
+<name "Cooking Maid" "!AC0166">
+"Because she flew all the way to the ocean."
 #
-<name "給仕メイド" "!DC0208">
-「扉を使えば、楽だったのでは？」
+<name "Serving Maid" "!DC0208">
+"Wouldn't it have been easy to just use a
+ door?"
 #
-<name "調理メイド" "!AC0167">
-「……それに気付いても、今は言ってはいけません」
+<name "Cooking Maid" "!AC0167">
+"...Even if you realized that, don't tell her
+ right now."
 #
-<name "給仕メイド" "!DC0209">
-「失礼しました」
+<name "Serving Maid" "!DC0209">
+"Sorry."
 #
 <exit>
 :2DE8
 <music 4>
 <background "ev001a00.agf" 10>
-<name "啓蒙する街の住民" "!SB0105">
-「野菜も食べましょう」
+<name "Enlightened Citizen" "!SB0105">
+"Eat your vegetables too."
 #
-<name "素直な街の住民" "!RB0088">
-「はーい」
+<name "Obedient Citizen" "!RB0088">
+"Okaaay."
 #
 <exit>
 :2E80
 <music 4>
 <background "ev001a00.agf" 10>
-<name "食事中の親衛隊員" "!WB0126">
-「サラダばっかり食べてると、草食動物になった気
-　分になる」
+<name "Eating Guard" "!WB0126">
+"I feel like an herbivore when all I eat is a
+ salad."
 #
-<name "休憩中の親衛隊員" "!TC0121">
-「草食動物は、ピーマン避けたりしないと思うなぁ」
+<name "Resting Guard" "!TC0121">
+"I don't think an herbivore would be avoiding
+ the green peppers."
 #
 <exit>
 :2F67
 <music 4>
 <background "ev001a00.agf" 10>
-<name "調理メイド" "!AC0168">
-「サラダに掛けるドレッシング。
-　これに無限の可能性を感じます」
+<name "Cooking Maid" "!AC0168">
+"Salad has to have a dressing.
+ I feel unlimited potential here."
 #
-<name "仕入れ担当メイド" "!DC0210">
-「その可能性、無数の失敗作と共存してるんですよ
-　ねぇ」
+<name "Purchasing Maid" "!DC0210">
+"Those possibilities exist next to countless
+ failures."
 #
-<name "調理メイド" "!AC0169">
-「無数とは失礼な。
-　たまに失敗するだけです」
+<name "Cooking Maid" "!AC0169">
+"Countless is rude.
+ I just mess up sometimes."
 #
 <exit>
 :30A6
 <music 4>
 <background "ev001a00.agf" 10>
-<name "食事をする住民" "!ZE0047">
-「このパンって、誰が焼いているの？」
+<name "Eating Citizen" "!ZE0047">
+"Who baked this bread?"
 #
-<name "給仕メイド" "!AC0170">
-「当番の人です」
+<name "Serving Maid" "!AC0170">
+"Whoever's turn it was."
 #
 <exit>
 :314C
 <music 4>
 <background "ev001a00.agf" 10>
-<name "新入りの住民" "!ZE0048">
-「ここって、パンを焼く専門の人って居ないの？」
+<name "New Citizen" "!ZE0048">
+"Isn't there anybody here who specifically
+ bakes bread?"
 #
-<name "古参の住民" "!JA0024">
-「各家庭で作るのが主流かな」
+<name "Longtime Citizen" "!JA0024">
+"I think most people just make it at home."
 #
 <exit>
 :3206
 <music 4>
 <background "ev001a00.agf" 10>
-<name "笑顔の親衛隊員" "!QB0132">
-「長いパンに、具材を挟んで貰って簡易お弁当」
+<name "Smiling Guard" "!QB0132">
+"Food between two long pieces of bread.
+ A simple lunch."
 #
-<name "羨ましい親衛隊員" "!TC0122">
-「私も、私も欲しい」
+<name "Jealous Guard" "!TC0122">
+"Me too.
+ I want that too."
 #
 <exit>
 :32BE
 <music 4>
 <background "ev001a00.agf" 10>
-<name "頑張るメイド" "!DC0211">
-「パスタ料理って、奥が深い」
+<name "Hardworking Maid" "!DC0211">
+"There's a lot of depth to pasta."
 #
-<name "調理メイド" "!AC0171">
-「奥が深いのは認めるけど、小麦粉をコネる所で失
-　敗してる人には関係無くない？」
+<name "Cooking Maid" "!AC0171">
+"I admit that it's deep, but does that matter
+ to people who can't even mix flour right?"
 #
 <exit>
 :339B
 <music 4>
 <background "ev001a00.agf" 10>
-<name "ほお張る住民" "!ZD0025">
-「ここのパスタ料理は最高に美味いな！」
+<name "Chewing Citizen" "!ZD0025">
+"The pasta here is incredibly delicious!"
 #
-<name "心配する住民" "!UA0038">
-「おいおい。
-　あんまり大きな声で言うと、お前の奥さんに聞か
-　れるぞ」
+<name "Worried Citizen" "!UA0038">
+"Hey, don't say that so loud or your wife will
+ hear you."
 #
 <exit>
 :347D
 <music 4>
 <background "ev001a00.agf" 10>
-<name "食事する親衛隊員" "!TC0123">
-「スパゲティは、フォークでぐるぐるぐる」
+<name "Eating Guard" "!TC0123">
+"Spaghetti gets wrapped around your fork."
 #
-<name "阻止する親衛隊員" "!QB0133">
-「全部、持って行かない！」
+<name "Interrupting Guard" "!QB0133">
+"Don't take all of it!"
 #
 <exit>
 :3539
 <music 4>
 <background "ev001a00.agf" 10>
-<name "試食する住民" "!RB0089">
-「ハンバーグ？」
+<name "Sampling Citizen" "!RB0089">
+"Hamburger?"
 #
-<name "料理した住民" "!SB0106">
-「お肉をミンチにした後、固めて焼いたものよ」
+<name "Cooking Citizen" "!SB0106">
+"It's meat that's been minced, packed
+ together, and then cooked."
 #
-<name "試食する住民" "!RB0090">
-「美味しいけど……
-　どうしてそんな手間を？」
+<name "Sampling Citizen" "!RB0090">
+"It's tasty, but why do all that work?"
 #
-<name "料理した住民" "!SB0107">
-「ミンチにしないと硬過ぎて食べれない部分とかあ
-　るからでしょ」
+<name "Cooking Citizen" "!SB0107">
+"Because there's parts that are too hard to
+ eat unless you mince it up."
 #
 <exit>
 :369F
 <music 4>
 <background "ev001a00.agf" 10>
-<name "一般的な住民" "!QB0134">
-「牛肉に比べ、ハンバーグはお値段が優しい」
+<name "Regular Citizen" "!QB0134">
+"Hamburger is more affordable than real
+ beef."
 #
 <exit>
 :3717
 <music 4>
 <background "ev001a00.agf" 10>
-<name "食べる住民" "!QB0135">
-「揚げ物、最高♪」
+<name "Eating Citizen" "!QB0135">
+"Fried food is the best.♪"
 #
-<name "飲む住民" "!WB0127">
-「揚げ物があれば、満足です」
+<name "Drinking Citizen" "!WB0127">
+"If it's fried, I'm happy."
 #
-<name "笑顔の住民" "!TC0124">
-「揚げ物の満腹感は、優秀過ぎます」
+<name "Smiling Citizen" "!TC0124">
+"The sense of fullness after eating fried food
+ is unbeatable."
 #
-<name "食べる住民" "!QB0136">
-「でも、太るのよね」
+<name "Eating Citizen" "!QB0136">
+"But you do get fat."
 #
 <exit>
 :382B
 <music 4>
 <background "ev001a00.agf" 10>
-<name "料理長メイド" "!AC0172">
-「油の鮮度に注意するように。
-　油も味の一つだからね」
+<name "Chef Maid" "!AC0172">
+"Be aware of the freshness of the oil.
+ Oil is one of the flavors too."
 #
-<name "調理メイド" "!DC0212">
-「はーい」
+<name "Cooking Maid" "!DC0212">
+"Yes, ma'am."
 #
 <exit>
 :38DC
 <music 4>
 <background "ev001a00.agf" 10>
-<name "給仕メイド" "!AC0173">
-「シチューは基本ですよね」
+<name "Serving Maid" "!AC0173">
+"Stew is a fundamental."
 #
-<name "ダークス">
-「シチューとパンで、一食」
+<name "Darx">
+"Stew and bread makes a meal."
 #
-<name "ダークス">
-「冒険者時代を思い出す」
+<name "Darx">
+"Reminds me of my adventurer days."
 #
 <exit>
 :3996
 <music 4>
 <background "ev001a00.agf" 10>
-<name "給仕メイド" "!DC0213">
-「魔王様、シチュー好きだなぁ」
+<name "Serving Maid" "!DC0213">
+"The Overlord sure loves stew."
 #
-<name "秘書メイド" "!PC0225">
-「ハズレが無いからじゃない？」
+<name "Secretary Maid" "!PC0225">
+"Maybe because you can't mess it up?"
 #
-<name "調理メイド" "!AC0174">
-「失礼な。
-　ウチの料理にハズレはない」
+<name "Cooking Maid" "!AC0174">
+"How rude.
+ We never mess up any dishes."
 #
 <exit>
 :3A8B
 <music 4>
 <background "ev001a00.agf" 10>
-<name "考える街の住民" "!WB0128">
-「シチューって、各家庭の味があるよね」
+<name "Thinking Citizen" "!WB0128">
+"Each family's stew has its own taste."
 #
-<name "思い出す住民" "!TC0125">
-「あー、各家庭でも、毎日味が変わったりするから
-　ね」
+<name "Remembering Citizen" "!TC0125">
+"Um, each one does, but the taste changes
+ every day."
 #
-<name "考える街の住民" "!WB0129">
-「そうなの？」
+<name "Thinking Citizen" "!WB0129">
+"Really?"
 #
-<name "思い出す住民" "!TC0126">
-「ウチの母、同じ味に再現できなかった」
+<name "Remembering Citizen" "!TC0126">
+"My mom could never make it taste the same
+ way twice."
 #
-<name "考える街の住民" "!WB0130">
-「へ、変化のある食卓で、良かったんじゃない？」
+<name "Thinking Citizen" "!WB0130">
+"Well, it's nice to have variety, right?"
 #
 <exit>
 :3C2E
 <music 4>
 <background "ev001a00.agf" 10>
-<name "調理メイド" "!AC0175">
-「料理下手でも、それなりに出来る料理。
-　それが煮込み料理」
+<name "Cooking Maid" "!AC0175">
+"Even if you're a bad cook, you can still do 
+ it. That's what making stew is all about."
 #
-<name "思い出すメイド" "!DC0214">
-「あ、いや、本当に下手な人はそれすら無理だから」
+<name "Remembering Maid" "!DC0214">
+"Oh, um, if you're genuinely bad at it, you
+ can't handle even that."
 #
 <exit>
 :3D0D
 <music 4>
 <background "ev001a00.agf" 10>
-<name "感動した街の住民" "!ZD0026">
-「美味い！
-　なんて美味い煮込み料理なんだ！
-　感動だぜ！」
+<name "Impressed Citizen" "!ZD0026">
+"Delicious!
+ What a delicious stew!
+ I love it!"
 #
-<name "調理メイド" "!AC0176">
-「時間を掛けて煮込むのがコツです」
+<name "Cooking Maid" "!AC0176">
+"The trick is to let it simmer for a long
+ time."
 #
 <exit>
 :3DE1
 <music 4>
 <background "ev001a00.agf" 10>
-<name "休憩中の親衛隊員" "!TC0127">
-「煮込み料理」
+<name "Resting Guard" "!TC0127">
+"Stew."
 #
-<name "休憩中の親衛隊員" "!TC0128">
-「私達のサバイバル料理と、一緒ですよね」
+<name "Resting Guard" "!TC0128">
+"It's the same as our survival cooking."
 #
-<name "素直な親衛隊員" "!QB0137">
-「一緒にしない。
-　味が二段階ぐらい上だから」
+<name "Honest Guard" "!QB0137">
+"It's not the same.
+ The taste is about two steps above that."
 #
 <exit>
 :3EE6
 <music 4>
 <background "ev001a00.agf" 10>
-<name "料理を楽しむ住民" "!SB0108">
-「ご飯、美味しい」
+<name "Cooking Citizen" "!SB0108">
+"This rice is delicious!"
 #
-<name "賛同する住民" "!RB0091">
-「白米、サイコー！」
+<name "Agreeing Citizen" "!RB0091">
+"White rice is the best!"
 #
 <exit>
 :3F82
 <music 4>
 <background "ev001a00.agf" 10>
-<name "料理を楽しむ住民" "!SB0109">
-「白いご飯に、焼いたシャケ」
+<name "Cooking Citizen" "!SB0109">
+"Grilled salmon on white rice."
 #
-<name "賛同する住民" "!RB0092">
-「最高の食事です」
+<name "Agreeing Citizen" "!RB0092">
+"An exquisite meal."
 #
 <exit>
 :4026
 <music 4>
 <background "ev001a00.agf" 10>
-<name "料理を楽しむ住民" "!SB0110">
-「酔った後はこれだなぁ」
+<name "Cooking Citizen" "!SB0110">
+"This is for after getting drunk."
 #
-<name "賛同する住民" "!RB0093">
-「お茶漬け、文句ありません」
+<name "Agreeing Citizen" "!RB0093">
+"No complaints about porridge."
 #
 <exit>
 :40D0
 <music 4>
 <background "ev001a00.agf" 10>
-<name "考えたメイド" "!AC0177">
-「ふふふ……白いご飯。
-　塩を持った手でこれを握って……ライスボール！」
+<name "Thoughtful Maid" "!AC0177">
+"Heheheh... White rice.
+ Take it in your hands with salt, and...
+ Rice balls!"
 #
-<name "驚くメイド" "!DC0215">
-「い、意外な美味しさ！
-　なぜ！」
+<name "Surprised Maid" "!DC0215">
+"T-They're unexpectedly delicious!
+ How!?"
 #
 <exit>
 :41AC
 <music 4>
 <background "ev001a00.agf" 10>
-<name "料理を楽しむ住民" "!QB0138">
-「栗ご飯、なぜこうも美味しいのか」
+<name "Cooking Citizen" "!QB0138">
+"Why does chestnut rice taste so good?"
 #
 <exit>
 :4220
 <music 4>
 <background "ev001a00.agf" 10>
-<name "悩める住民" "!WB0131">
-「栗ご飯、毎日食べたいけど、栗がある時期しか駄
-　目なのよねぇ」
+<name "Troubled Citizen" "!WB0131">
+"I wish I could eat chestnut rice every day,
+ but it's only available when chestnuts are."
 #
 <exit>
 :42AD
 <music 4>
 <background "ev001a00.agf" 10>
-<name "頑張る街の住民" "!TC0129">
-「栗ご飯、今日の活力はこれだ！」
+<name "Hardworking Citizen" "!TC0129">
+"Chestnut rice is what will power me today!"
 #
 <exit>
 :431D
 <music 4>
 <background "ev001a00.agf" 10>
-<name "料理を楽しむ住民" "!QB0139">
-「混ぜご飯、色々と種類があるよね」
+<name "Cooking Citizen" "!QB0139">
+"There's lots of kinds of mixed rice."
 #
 <exit>
 :4391
 <music 4>
 <background "ev001a00.agf" 10>
-<name "料理を楽しむ住民" "!WB0132">
-「混ぜご飯の美味しさは、反則過ぎる！」
+<name "Cooking Citizen" "!WB0132">
+"Mixed rice tastes too good for it to be
+ fair!"
 #
-<name "賛同する住民" "!TC0130">
-「つい、食べ過ぎちゃうよね」
+<name "Agreeing Citizen" "!TC0130">
+"You accidentally ate too much, didn't you?"
 #
 <exit>
 :4449
 <music 4>
 <background "ev001a00.agf" 10>
-<name "鍋が大好きな住民" "!QB0140">
-「鍋料理なら、毎日でも構わない」
+<name "Hot Pot Citizen" "!QB0140">
+"I wouldn't mind eating hot pot every day."
 #
-<name "食べる住民" "!WB0133">
-「流石に毎日は……太っちゃうよ」
+<name "Eating Citizen" "!WB0133">
+"Every day would... definitely make you fat."
 #
 <exit>
 :44FD
 <music 4>
 <background "ev001a00.agf" 10>
-<name "鍋が大好きな住民" "!QB0141">
-「寒い時は鍋料理」
+<name "Hot Pot Citizen" "!QB0141">
+"Hot pot is good when it's cold out."
 #
-<name "聞いていた住民" "!WB0134">
-「そうだね」
+<name "Listening Citizen" "!WB0134">
+"Yeah."
 #
-<name "鍋が大好きな住民" "!QB0142">
-「暑い時も鍋料理」
+<name "Hot Pot Citizen" "!QB0142">
+"It's good when it's hot too."
 #
-<name "聞いていた住民" "!WB0135">
-「あ、それには賛同できない」
+<name "Listening Citizen" "!WB0135">
+"Ah, that I disagree with."
 #
 <exit>
 :460F
 <music 4>
 <background "ev001a00.agf" 10>
-<name "考える住民" "!SB0111">
-「鍋は、少人数で食べるのはちょっとねー」
+<name "Thinking Citizen" "!SB0111">
+"Hot pot isn't good for only a small group."
 #
-<name "鍋が大好きな住民" "!QB0143">
-「ご一緒します？」
+<name "Hot Pot Citizen" "!QB0143">
+"Would you like to join us?"
 #
-<name "考える住民" "!SB0112">
-「よろしくお願いします」
+<name "Thinking Citizen" "!SB0112">
+"Thank you very much."
 #
-<name "横に居た住民" "!RB0094">
-「一切の躊躇が無かったなぁ」
+<name "Neighboring Citizen" "!RB0094">
+"Didn't even hesitate a second."
 #
-<name "鍋が大好きな住民" "!QB0144">
-「あ、貴女も遠慮なくどうぞ」
+<name "Hot Pot Citizen" "!QB0144">
+"Y-You can join us too."
 #
-<name "横に居た住民" "!RB0095">
-「……すみません。
-　では、参加させて貰います」
+<name "Neighboring Citizen" "!RB0095">
+"...Excuse me.
+ Then I'll accept your invitation."
 #
 <exit>
 :47D0
 <music 4>
 <background "ev001a00.agf" 10>
-<name "料理を楽しむ住民" "!SB0113">
-「卵料理って、綺麗なのが多いよねー」
+<name "Cooking Citizen" "!SB0113">
+"There are a lot of really pretty egg dishes,
+ aren't there?"
 #
-<name "食事中の街の住民" "!RB0096">
-「美味しいし、言う事無し！」
+<name "Dining Citizen" "!RB0096">
+"And delicious!
+ Nothing more to say!"
 #
 <exit>
 :488A
 <music 4>
 <background "ev001a00.agf" 10>
-<name "抵抗する住民" "!QB0145">
-「な、生卵は無理！
-　加熱してください」
+<name "Resisting Citizen" "!QB0145">
+"Y-You can't eat raw eggs!
+ You have to cook them."
 #
-<name "横に居る友人" "!WB0136">
-「半熟ならＯＫなんだよね」
+<name "Friend Citizen" "!WB0136">
+"Soft boiled is okay though."
 #
 <exit>
 :493F
 <music 4>
 <background "ev001a00.agf" 10>
-<name "調理メイド" "!AC0178">
-「卵料理は、料理の基本。
-　頑張って料理してください」
+<name "Cooking Maid" "!AC0178">
+"Eggs are a fundamental of cooking.
+ Work hard to cook them."
 #
-<name "見習いメイド" "!DC0216">
-「はい」
+<name "Apprentice Maid" "!DC0216">
+"Okay."
 #
-<name "調理メイド" "!AC0179">
-「失敗作は、貴女の夕飯になります。
-　気合を入れてください」
+<name "Cooking Maid" "!AC0179">
+"Your mistakes will be your dinner.
+ Do it with gusto."
 #
-<name "見習いメイド" "!DC0217">
-「は、はい、気合を入れます」
+<name "Apprentice Maid" "!DC0217">
+"Y-Yes, ma'am.
+ I'll try real hard."
 #
 <exit>
 :4A8D
 <music 4>
 <background "ev001a00.agf" 10>
-<name "調理メイド" "!AC0180">
-「私の卵料理専用のフライパンに触ったら、殺す」
+<name "Cooking Maid" "!AC0180">
+"If you touch my special egg frying pan, I'll
+ kill you."
 #
-<name "見習いメイド" "!DC0218">
-「し、失礼しました」
+<name "Apprentice Maid" "!DC0218">
+"E-Excuse me."
 #
 <exit>
 :4B3F
 <music 4>
 <background "ev001a00.agf" 10>
-<name "休憩中の元天界兵" "!QB0146">
-「優雅な一杯」
+<name "Resting Angel" "!QB0146">
+"What an elegant teacup."
 #
-<name "驚く元天界兵" "!WB0137">
-「天界よりも、人間界の方が紅茶の種類が多いって
-　驚きよね」
+<name "Surprised Angel" "!WB0137">
+"I was surprised there are more kinds of tea
+ in the human world than in Celestia."
 #
-<name "反省する元天界兵" "!TC0131">
-「天界が最高と思っていた自分が恥ずかしい」
+<name "Reflecting Angel" "!TC0131">
+"I'm ashamed that I used to think Celestia's 
+ was the best."
 #
 <exit>
 :4C52
 <music 4>
 <background "ev001a00.agf" 10>
-<name "香りに詳しい住民" "!SB0114">
-「むっ。
-　この紅茶……香りが良い」
+<name "Sniffing Citizen" "!SB0114">
+"Mm...
+ This tea... smells so nice."
 #
-<name "冷静な住民" "!RB0097">
-「でも、飲むと考えると、少しキツ過ぎません？」
+<name "Calm Citizen" "!RB0097">
+"But isn't it too bitter to drink?"
 #
-<name "香りに詳しい住民" "!SB0115">
-「確かに」
+<name "Sniffing Citizen" "!SB0115">
+"Indeed."
 #
 <exit>
 :4D4B
 <music 4>
 <background "ev001a00.agf" 10>
-<name "寝起きの住民" "!SB0116">
-「朝は、紅茶と共に……」
+<name "Sleepy Citizen" "!SB0116">
+"I need my tea in the morning..."
 #
 <exit>
 :4DB1
 <music 4>
 <background "ev001a00.agf" 10>
-<name "コーヒーを飲む女" "!RB0098">
-「うわ、苦い」
+<name "Coffee Woman" "!RB0098">
+"Whoa.
+ That's bitter."
 #
-<name "付き合う友人" "!SB0117">
-「苦いけど、なんだか癖になる」
+<name "Woman's Friend" "!SB0117">
+"It's bitter, but kind of addictive."
 #
 <exit>
 :4E53
 <music 4>
 <background "ev001a00.agf" 10>
-<name "飲む住民" "!RB0099">
-「むー、コーヒーって誰が考えたんだろ」
+<name "Drinking Citizen" "!RB0099">
+"Hmmmmm.
+ I wonder who came up with coffee."
 #
-<name "考える住民" "!SB0118">
-「多分、砂糖を売る業者じゃないかな」
+<name "Thinking Citizen" "!SB0118">
+"Probably some sugar trader."
 #
-<name "飲む住民" "!RB0100">
-「ははは」
+<name "Drinking Citizen" "!RB0100">
+"Hahaha..."
 #
 <exit>
 :4F33
 <music 4>
 <background "ev001a00.agf" 10>
-<name "寝起きの親衛隊員" "!WB0138">
-「コーヒーって、目が覚めるわよねぇ」
+<name "Sleepy Guard" "!WB0138">
+"Coffee really wakes you up."
 #
-<name "その同僚" "!TC0132">
-「朝の一杯には丁度良いわね」
+<name "Other Guard" "!TC0132">
+"It's a perfect morning drink."
 #
 <exit>
 :4FE5
 <music 4>
 <background "ev001a00.agf" 10>
-<name "試飲するメイド" "!DC0219">
-「コーヒーって淹れ方で、味がすっごく変わるのよ
-　ね」
+<name "Sampling Maid" "!DC0219">
+"Coffee can taste very differently depending
+ on how you brew it."
 #
-<name "ベテランメイド" "!AC0181">
-「ええ、ですから早く、お店の淹れ方を覚えてくだ
-　さい」
+<name "Veteran Maid" "!AC0181">
+"Right, so hurry up and figure out how to
+ brew your own already."
 #
-<name "試飲するメイド" "!DC0220">
-「ど、努力します」
+<name "Sampling Maid" "!DC0220">
+"I-I'll try."
 #
 <exit>
 :5103
 <music 4>
 <background "ev001a00.agf" 10>
-<name "新入りメイド" "!PC0226">
-「なにをやっているんですか？」
+<name "Rookie Maid" "!PC0226">
+"What are you doing?"
 #
-<name "ベテランメイド" "!AC0182">
-「豆の選別。
-　焙煎前に避けておかないと、味が悪くなるのよ」
+<name "Veteran Maid" "!AC0182">
+"Sorting beans.
+ If you don't sort them by size before
+ roasting, it'll taste bad."
 #
-<name "新入りメイド" "!PC0227">
-「へぇ。
-　コーヒーって手間が掛かるなぁ」
+<name "Rookie Maid" "!PC0227">
+"Oh? Coffee takes a lot of hard work."
 #
 <exit>
 :5221
 <music 4>
 <background "ev001a00.agf" 10>
-<name "お茶する住民" "!SB0119">
-「んー……
-　緑のお茶、美味しい」
+<name "Tea Citizen" "!SB0119">
+"Mmmmm...
+ Gree tea is delicious."
 #
-<name "付き合う住民" "!RB0101">
-「私は普通の方が好きだなぁ」
+<name "Fellow Citizen" "!RB0101">
+"I prefer regular tea."
 #
 <exit>
 :52D2
 <music 4>
 <background "ev001a00.agf" 10>
-<name "お茶する住民" "!SB0120">
-「緑茶、落ち着くけど……甘いものが欲しくなる」
+<name "Tea Citizen" "!SB0120">
+"Green tea is calming, but then I want
+ something sweet."
 #
-<name "商会メイド" "!AC0183">
-「ご用意、しております」
+<name "Merchant Maid" "!AC0183">
+"I can take your order any time."
 #
 <exit>
 :5388
 <music 4>
 <background "ev001a00.agf" 10>
-<name "思い出す元天界兵" "!TC0133">
-「緑茶は、天界の方が充実していたなぁ」
+<name "Remembering Angel" "!TC0133">
+"The green tea in Celestia was much richer."
 #
-<name "商会メイド" "!AC0184">
-「え？
-　本当ですか？」
+<name "Merchant Maid" "!AC0184">
+"Huh?
+ Is that true?"
 #
-<name "思い出す元天界兵" "!TC0134">
-「うん」
+<name "Remembering Angel" "!TC0134">
+"Yeah."
 #
-<name "商会メイド" "!AC0185">
-「ぬぬぬ……ギュンギュスカー商会として、負ける
-　ワケにはいきません。
-　詳しくお願いします」
+<name "Merchant Maid" "!AC0185">
+"Grrrrrr...
+ Gunguskar cannot afford to be second best.
+ Tell me everything."
 #
-<name "思い出す元天界兵" "!TC0135">
-「う、うん。
-　教えるから……迫らないで」
+<name "Remembering Angel" "!TC0135">
+"O-Okay.
+ I'll tell you, so... settle down."
 #
 <exit>
 :5540
 <music 4>
 <background "ev001a00.agf" 10>
-<name "喜ぶ住民" "!SB0121">
-「生ハム、生ハム～♪
-　超美味しい」
+<name "Happy Citizen" "!SB0121">
+"Prosciutto.♪ Prosciutto.♪
+ Super yummy."
 #
-<name "ダークス">
-「評判、良いな。
-　俺も美味いと思うし、もっと作ったらどうだ？」
+<name "Darx">
+"It does have a good reputation.
+ I think it's tasty too, so why not make
+ more of it?"
 #
-<name "疲れたメイド" "!DC0221">
-「手間がハンパじゃない……」
+<name "Tired Maid" "!DC0221">
+"It takes forever..."
 #
-<name "疲労したメイド" "!AC0186">
-「職人さんの凄さを思い知った」
+<name "Exhausted Maid" "!AC0186">
+"I realized how incredble artisans are."
 #
-<name "ダークス">
-「あー、すまん。
-　俺の言った事は忘れてくれ」
+<name "Darx">
+"Aah, sorry.
+ Forget I said anything."
 #
 <exit>
 :56C5
 <music 4>
 <background "ev001a00.agf" 10>
-<name "食事を楽しむ住民" "!RB0102">
-「生ハム、美味しい」
+<name "Dining Citizen" "!RB0102">
+"Prosciutto is delicious!"
 #
-<name "食事を楽しむ住民" "!RB0103">
-「けど、生ハムだけじゃ食べ飽きちゃうわよね」
+<name "Dining Citizen" "!RB0103">
+"But I'm sure you'd get bored of it if that
+ was all you ate."
 #
-<name "商会メイド" "!AC0187">
-「そういった方の為に、多数の生ハムを使ったお料
-　理を用意しております」
+<name "Merchant Maid" "!AC0187">
+"For those people, we've prepared a wide
+ variety of dishes using prosciutto."
 #
-<name "食事を楽しむ住民" "!RB0104">
-「おおっ」
+<name "Dining Citizen" "!RB0104">
+"Oooh!"
 #
-<name "商会メイド" "!AC0188">
-「どれにします？」
+<name "Merchant Maid" "!AC0188">
+"Which would you like?"
 #
-<name "食事を楽しむ住民" "!RB0105">
-「……お値段、お高めだね」
+<name "Dining Citizen" "!RB0105">
+"...They're all so expensive."
 #
-<name "商会メイド" "!AC0189">
-「生ハム自体が、高いですから」
+<name "Merchant Maid" "!AC0189">
+"Prosciutto is expensive."
 #
 <exit>
 :58D2
 <music 4>
 <background "ev001a00.agf" 10>
-<name "夢を語る親衛隊員" "!WB0139">
-「生ハムって、薄く切って食べるでしょ」
+<name "Dreaming Guard" "!WB0139">
+"Prosciutto is eaten in thin slices, right?"
 #
-<name "聞いてた親衛隊員" "!QB0147">
-「うん」
+<name "Listening Guard" "!QB0147">
+"Yeah."
 #
-<name "夢を語る親衛隊員" "!WB0140">
-「あれ、切らずに食べるのが夢なの」
+<name "Dreaming Guard" "!WB0140">
+"I've always dreamed of eating it without
+ cutting it like that."
 #
-<name "聞いてた親衛隊員" "!QB0148">
-「……じゃあ、叶えてあげる。
-　どうぞ」
+<name "Listening Guard" "!QB0148">
+"...Then do it.
+ Go ahead."
 #
-<name "夢を語る親衛隊員" "!WB0141">
-「え？
-　良いの？」
+<name "Dreaming Guard" "!WB0141">
+"Huh?
+ Are you sure?"
 #
-<name "聞いてた親衛隊員" "!QB0149">
-「うん、どうぞ」
+<name "Listening Guard" "!QB0149">
+"Yeah, go ahead."
 #
-<name "夢を語る親衛隊員" "!WB0142">
-「わーい。
-　………………………………か、噛み切れない？」
+<name "Dreaming Guard" "!WB0142">
+"Yay.
+ ............I-I can't bite through it."
 #
-<name "聞いてた親衛隊員" "!QB0150">
-「薄く切るのは切るで、理由があるのよ」
+<name "Listening Guard" "!QB0150">
+"That's why they cut it so thin."
 #
-<name "夢を語る親衛隊員" "!WB0143">
-「うぐぐ」
+<name "Dreaming Guard" "!WB0143">
+"Gah..."
 #
 <exit>
 :5B6D
 <music 4>
 <background "ev001a00.agf" 10>
-<name "歓喜する住民" "!SB0122">
-「ケーキ、それは神がもたらしたお菓子」
+<name "Celebrating Citizen" "!SB0122">
+"Cake is sweets brought by God."
 #
-<name "浸る住民" "!RB0106">
-「至福の空間へと、私達をいざなってくれる」
+<name "Basking Citizen" "!RB0106">
+"It invites us to euphoria."
 #
-<name "冷静なメイド" "!DC0222">
-「体重計という地獄が後で待っているけどね」
+<name "Calm Maid" "!DC0222">
+"But the hell of the scales waits for later."
 #
-<name "強欲な商会メイド" "!AC0190">
-「こら、売り上げが下がる事を言わない」
+<name "Greedy Maid" "!AC0190">
+"Hey. Don't say things that'll hurt sales."
 #
 <exit>
 :5CC7
 <music 4>
 <background "ev001a00.agf" 10>
-<name "自分に甘い住民" "!TC0136">
-「今日は、ケーキを食べても良い日ですよね」
+<name "Indulgent Citizen" "!TC0136">
+"Today is a good day to eat cake."
 #
-<name "その友人" "!WB0144">
-「駄目な日ってあったの？」
+<name "Friend Citizen" "!WB0144">
+"Is there ever a bad day?"
 #
 <exit>
 :5D7B
 <music 4>
 <background "ev001a00.agf" 10>
-<name "甘味大好きな住民" "!SB0123">
-「ふふふ。
-　私が来たからには、お店のケーキは消えると思う
-　が良い」
+<name "Sweet Tooth Citizen" "!SB0123">
+"Heheheh...
+ Now that I'm here, all the cake in your shop
+ is as good as gone."
 #
-<name "商会メイド" "!AC0191">
-「ど、独占はご容赦ください」
+<name "Merchant Maid" "!AC0191">
+"P-Please leave some for everybody else."
 #
 <exit>
 :5E53
 <music 4>
 <background "ev001a00.agf" 10>
-<name "甘味大好きな住民" "!SB0124">
-「ふふふ。
-　私が来たからには……」
+<name "Sweet Tooth Citizen" "!SB0124">
+"Heheheh...
+ Now that I'm here..."
 #
-<name "立ちはだかる住民" "!TC0137">
-「ケーキを求めるのは、貴女だけと？」
+<name "Interrupting Citizen" "!TC0137">
+"You think you're the only one who wants
+ cake?"
 #
-<name "甘味大好きな住民" "!SB0125">
-「……勝負ね」
+<name "Sweet Tooth Citizen" "!SB0125">
+"...The battle is on."
 #
-<name "立ちはだかる住民" "!TC0138">
-「ええ」
+<name "Interrupting Citizen" "!TC0138">
+"Yes."
 #
-<name "見ていた住民" "!RB0107">
-「大食い勝負？」
+<name "Watching Citizen" "!RB0107">
+"An eating contest?"
 #
-<name "立ちはだかる住民" "!TC0139">
-「いえ、そんな野蛮な事はしません」
+<name "Interrupting Citizen" "!TC0139">
+"No, I wouldn't do something so uncivilized."
 #
-<name "甘味大好きな住民" "!SB0126">
-「イチゴの乗ったケーキを一つ用意して、お互いが
-　フォークで一口づつ食べていくの」
+<name "Sweet Tooth Citizen" "!SB0126">
+"Prepare a cake with strawberries on it.
+ We will alternate bites with our forks."
 #
-<name "立ちはだかる住民" "!TC0140">
-「イチゴを皿に落とした方の負けよ」
+<name "Interrupting Citizen" "!TC0140">
+"Whoever drops a strawberry onto the plate
+ first loses."
 #
-<name "見ていた住民" "!RB0108">
-「……へ、平和だなぁ」
+<name "Watching Citizen" "!RB0108">
+"...Eh.
+ That's so peaceful."
 #
 <exit>
 :60F9
 <music 4>
 <background "ev001a00.agf" 10>
-<name "食べる親衛隊員" "!QB0151">
-「お団子、お団子♪」
+<name "Eating Guard" "!QB0151">
+"Dangos.♪ Dangos.♪"
 #
-<name "お茶する親衛隊員" "!WB0145">
-「食べ過ぎると、仕事に支障が出るわよ」
+<name "Tea Making Guard" "!WB0145">
+"Don't eat too much or it'll interfere with
+ work."
 #
-<name "食べる親衛隊員" "!QB0152">
-「大丈夫、大丈夫。
-　お団子は別腹なのよ」
+<name "Eating Guard" "!QB0152">
+"Don't worry. Don't worry.
+ Dangos don't count."
 #
-<name "お茶する親衛隊員" "!WB0146">
-「前、そう言って食べ過ぎで倒れたわよね」
+<name "Tea Making Guard" "!WB0146">
+"Last time you said that, you collapsed from
+ overeating."
 #
-<name "食べる親衛隊員" "!QB0153">
-「うう。
-　これで最後にします」
+<name "Eating Guard" "!QB0153">
+"Awwww...
+ This is the last one."
 #
 <exit>
 :6293
 <music 4>
 <background "ev001a00.agf" 10>
-<name "思い出す元天界兵" "!TC0141">
-「お団子。
-　天界にあったあのお店。
-　美味しかったわよねぇ」
+<name "Remembering Angel" "!TC0141">
+"There was this shop in Celestia where the
+ dangos were super tasty."
 #
-<name "商会メイド" "!AC0192">
-「うぬぬぬぬ」
+<name "Merchant Maid" "!AC0192">
+"Grrrrrrr!"
 #
-<name "気遣う住民" "!UA0039">
-「わ、悪いけど、他所のお店を褒めるのは、店員の
-　居ない場所でお願いできるかな」
+<name "Worried Citizen" "!UA0039">
+"I-I'm sorry, but maybe you can sing the
+ praises of other shops out of earshot of the
+ workers here?"
 #
-<name "賛同する住民" "!ZE0049">
-「店員さん、機嫌が悪くなると怖いからなぁ」
+<name "Agreeing Citizen" "!ZE0049">
+"They're scary when they're in a bad mood."
 #
 <exit>
 :6416
 <music 4>
 <background "ev001a00.agf" 10>
-<name "調理メイド" "!AC0193">
-「お団子を作る為、朝早くに餅つきをする毎日」
+<name "Cooking Maid" "!AC0193">
+"You have to get up early every day to make
+ mochi so you make dangos."
 #
-<name "頑張るメイド" "!DC0223">
-「筋肉が付いちゃうなぁ」
+<name "Hardworking Maid" "!DC0223">
+"You'll get a real workout."
 #
 <exit>
 :64CA
 <music 4>
 <background "ev001a00.agf" 10>
-<name "拘るメイド" "!DC0224">
-「……だ、駄目だ。
-　形が気に入らない」
+<name "Fixated Maid" "!DC0224">
+"...N-No way.
+ I hate the shape."
 #
-<name "拘るメイド" "!DC0225">
-「処分だ。
-　もぐもぐ」
+<name "Fixated Maid" "!DC0225">
+"It must be disposed of.
+ Mphmph..."
 #
-<name "調理メイド" "!AC0194">
-「お団子作りに職人魂を発揮するなとは言わないけ
-　ど、時間には間に合わせてよ」
+<name "Cooking Maid" "!AC0194">
+"I'm not saying not to put your artisan's
+ spirit into making dango, but just finish
+ them all on schedule."
 #
-<name "拘るメイド" "!DC0226">
-「ど、努力します」
+<name "Fixated Maid" "!DC0226">
+"I-I'll try."
 #
 <exit>
 :661F
 <music 4>
 <background "ev001a00.agf" 10>
-<name "新入りメイド" "!DC0227">
-「フルーツ盛り合わせ」
+<name "Rookie Maid" "!DC0227">
+"A fruit platter."
 #
-<name "新入りメイド" "!DC0228">
-「料理下手でも出来る料理」
+<name "Rookie Maid" "!DC0228">
+"A dish even a talentless cook can manage."
 #
-<name "調理メイド" "!AC0195">
-「盛り合わせるだけだから、料理じゃないと思う」
+<name "Cooking Maid" "!AC0195">
+"It's just plating.
+ It's not really cooking."
 #
 <exit>
 :6711
 <music 4>
 <background "ev001a00.agf" 10>
-<name "商会メイド" "!DC0229">
-「フルーツの盛り合わせですね。
-　承知しました」
+<name "Merchant Maid" "!DC0229">
+"A fruit platter for you?
+ Understood."
 #
-<name "お金持ちな住民" "!SB0127">
-「ああ。
-　できれば、持って来るの男性スタッフにお願いで
-　きる？」
+<name "Wealthy Citizen" "!SB0127">
+"Oh, if possible, can you have it brought out
+ by a male employee?"
 #
-<name "商会メイド" "!DC0230">
-「ええ、構いませんが……」
+<name "Merchant Maid" "!DC0230">
+"Yes, that's fine..."
 #
-　……
+...
 #
-<name "イケメン従業員" "!BC0059">
-「お待たせしました。
-　フルーツの盛り合わせです」
+<name "Handsome Employee" "!BC0059">
+"Thank you for waiting.
+ Your fruit platter."
 #
-<name "お金持ちな住民" "!SB0128">
-「きゃー、素敵ー♪」
+<name "Wealthy Citizen" "!SB0128">
+"Eeek! Wonderful!♪"
 #
-<name "その友人" "!RB0109">
-「座って座って♪」
+<name "Friend Citizen" "!RB0109">
+"Sit.♪ Sit.♪"
 #
-　……
+...
 #
-<name "商会メイド" "!DC0231">
-「な、なんだか違うお店になりつつ……」
+<name "Merchant Maid" "!DC0231">
+"W-We're becoming a different kind of
+ restaurant..."
 #
-<name "考えるメイド" "!AC0196">
-「次、男性スタッフを要求されたら、魔王様に運ん
-　で貰いましょう」
+<name "Thinking Maid" "!AC0196">
+"The next time they ask for a male employee,
+ send the Overlord."
 #
 <exit>
 :69BE
 <music 4>
 <background "ev001a00.agf" 10>
-<name "ダークス">
-「フルーツ盛り合わせ。
-　お待たせしました」
+<name "Darx">
+"Your fruit platter.
+ Thank you for waiting."
 #
-<name "お金持ちな住民" "!SB0129">
-「きゃー♪」
+<name "Wealthy Citizen" "!SB0129">
+"Eeek!♪"
 #
-<name "給仕メイド" "!AC0197">
-「い、意外と受けているわね」
+<name "Serving Maid" "!AC0197">
+"I-It's going surprisingly well."
 #
-<name "秘書メイド" "!PC0228">
-「魔王様、身内には優しいから」
+<name "Secretary Maid" "!PC0228">
+"The Overlord is kind to his family."
 #
-<name "事務メイド" "!DC0232">
-「ですが、その、フォーゼロッテ宮から大量の抗議
-　文が来てますけど……」
+<name "Office Maid" "!DC0232">
+"But, um, there are a lot of complaints
+ coming from Forzelotte's Shrine..."
 #
-<name "秘書メイド" "!PC0229">
-「エカテー様や、パニバーナ様、ああっ、コゼロッ
-　ト様からも来てる。
-　かなりマズイですよ」
+<name "Secretary Maid" "!PC0229">
+"Ekate, Paniverna, oh, and Kozelotte too.
+ This is pretty bad."
 #
-<name "給仕メイド" "!AC0198">
-「放置。
-　そんな抗議文は見なかった」
+<name "Serving Maid" "!AC0198">
+"Ignore them.
+ I don't care about those complaints."
 #
-<name "秘書メイド" "!PC0230">
-「ラキア様からのもありますけど」
+<name "Secretary Maid" "!PC0230">
+"Rakia too though."
 #
-<name "給仕メイド" "!AC0199">
-「魔王様が運ぶサービスは、本日で終了です」
+<name "Serving Maid" "!AC0199">
+"The Overlord's serving days are finished as
+ of today."
 #
 <exit>
 \x78
