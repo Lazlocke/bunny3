@@ -59,16 +59,16 @@
 <music 4>
 <background "bg009a0.agf" 10>
 <sprite "ta02a000.agf" 4 4 11>
-<name "マクドゥ" "!ZA0109">
-「順調なようだな」
+<name "Macdo" "!ZA0109">
+"You seem to be doing fine."
 #
-<name "ダークス">
-「まあな。
-　この調子で頑張るよ」
+<name "Darx">
+"I guess.
+ I'm doing my best, given the situation."
 #
 <sprite "ta02a001.agf" 4 4 12>
-<name "マクドゥ" "!ZA0110">
-「ふん」
+<name "Macdo" "!ZA0110">
+"Hmph."
 #
 <removesprite -1 11>
 <exit>
@@ -76,16 +76,16 @@
 <music 4>
 <background "bg009a0.agf" 10>
 <sprite "ta02a001.agf" 4 4 11>
-<name "マクドゥ" "!ZA0111">
-「……ん」
+<name "Macdo" "!ZA0111">
+"Hm..."
 #
-<name "ダークス">
-「なにか問題か？
-　条件はしっかりとクリアしたと思うが」
+<name "Darx">
+"Is something the matter?
+ I believe I fulfilled all your conditions."
 #
 <sprite "ta02a032.agf" 4 4 12>
-<name "マクドゥ" "!ZA0112">
-「いや、なんでもない」
+<name "Macdo" "!ZA0112">
+"No, it's nothing."
 #
 <removesprite -1 11>
 <exit>
@@ -94,21 +94,21 @@
 <background "bg009a0.agf" 10>
 <sprite "ta34a001.agf" 2 4 11>
 <sprite "ta34b001.agf" 6 5 11>
-<name "心配するメイド" "!DC0058">
-「なんだか、最近のマクドゥ様。
-　荒れてない？」
+<name "Worried Maid" "!DC0058">
+"Lately, doesn't Macdo seem to be in kind of a
+ bad mood?"
 #
-<name "働くメイド" "!PC0045">
-「前からあんな感じだったと思うけど」
+<name "Working Maid" "!PC0045">
+"I think she's always been like that."
 #
-<name "心配するメイド" "!DC0059">
-「そうかなぁ」
+<name "Worried Maid" "!DC0059">
+"I guess."
 #
 <removesprite -1 11>
-　……
+...
 #
-<name "ダークス">
-「ふむ」
+<name "Darx">
+"Hmmm..."
 #
 <exit>
 :C4F
@@ -116,348 +116,359 @@
 <background "bg009a0.agf" 10>
 <sprite "ta34a000.agf" 2 4 11>
 <sprite "ta34b001.agf" 6 5 11>
-<name "休憩中のメイド" "!DC0060">
-「マクドゥ様。
-　結構、物に当たるよね」
+<name "Resting Maid" "!DC0060">
+"Macdo really hits things a lot, doesn't she?"
 #
-<name "サボるメイド" "!PC0046">
-「そうなの？」
+<name "Slacking Maid" "!PC0046">
+"She does?"
 #
-<name "休憩中のメイド" "!DC0061">
-「ええ、事務机、殴って凹ませてたもの。
-　もちろん、後で反省して新しいのを設置してたけど」
+<name "Resting Maid" "!DC0061">
+"Yes. She hit her desk once and left a big
+ dent in it.
+ Of course, she regretted it later and had a
+ new one brought in."
 #
-<name "サボるメイド" "!PC0047">
-「反省するなら、殴るのを止めれば良いのに……」
+<name "Slacking Maid" "!PC0047">
+"If you're going to regret it, then just stop
+ hitting things..."
 #
-<name "休憩中のメイド" "!DC0062">
-「それほど頭にきてたんじゃない」
+<name "Resting Maid" "!DC0062">
+"She must've been really mad." 
 #
-<name "サボるメイド" "!PC0048">
-「誰が怒らせたの？」
+<name "Slacking Maid" "!PC0048">
+"Mad at who?"
 #
-<name "休憩中のメイド" "!DC0063">
-「さあ？
-　一人だったから……思い出し怒り？」
+<name "Resting Maid" "!DC0063">
+"Who knows?
+ She was by herself so... maybe remembering
+ something that made her mad?"
 #
 <sprite "ta34a004.agf" 2 4 11>
-<name "サボるメイド" "!PC0049">
-「あはは。
-　かもね」
+<name "Slacking Maid" "!PC0049">
+"Hahaha...
+ Maybe."
 #
 <removesprite -1 11>
-　……
+...
 #
-<name "ダークス">
-「なるほどねぇ」
+<name "Darx">
+"I see."
 #
 <exit>
 :F9A
 <music 4>
 <background "bg009a0.agf" 10>
 <sprite "ta02a016.agf" 4 4 11>
-<name "マクドゥ" "!ZA0113">
-「むう……」
+<name "Macdo" "!ZA0113">
+"Hmmmmm..."
 #
-<name "ダークス">
-「マクドゥか、久しぶりだな」
-#
-<sprite "ta02a032.agf" 4 4 12>
-<name "マクドゥ" "!ZA0114">
-「ふんっ」
-#
-<name "ダークス">
-「つれないな。
-　条件はちゃんと今回も達成したぞ」
-#
-<sprite "ta02a012.agf" 4 4 12>
-<name "マクドゥ" "!ZA0115">
-「魔王を名乗るなら、達成できて当然だ」
-#
-<sprite "ta02a013.agf" 4 4 12>
-<name "マクドゥ" "!ZA0116">
-「それと、お前と親しくした覚えはない」
-#
-<name "ダークス">
-「そうか。
-　ところでマクドゥは……まあ、いいか」
-#
-<sprite "ta02a012.agf" 4 4 12>
-<name "マクドゥ" "!ZA0117">
-「……途中で話を止めるな、気になるだろう」
-#
-<name "ダークス">
-「いや、余計なお世話かなと思って」
-#
-<name "マクドゥ" "!ZA0118">
-「それを判断するのは私だ。
-　言え」
-#
-<name "ダークス">
-「マクドゥの身体は大丈夫かと思ってな」
-#
-<name "マクドゥ" "!ZA0119">
-「なんの事だ？」
-#
-<name "ダークス">
-「ああいった事があって、しばらく経っただろ」
+<name "Darx">
+"Macdo?
+ Been a while."
 #
 <sprite "ta02a032.agf" 4 4 12>
-<name "マクドゥ" "!ZA0120">
-「ふんっ」
+<name "Macdo" "!ZA0114">
+"Hmph!"
 #
-<name "ダークス">
-「途中でラキアさんに発見されて、解放したから中
-　途半端になっていないかなって」
+<name "Darx">
+"Don't be rude.
+ I fulfilled all your conditions again."
 #
 <sprite "ta02a012.agf" 4 4 12>
-<name "マクドゥ" "!ZA0121">
-「……中途半端？」
-#
-<name "ダークス">
-「最近、ストレスが溜まっていないか？」
+<name "Macdo" "!ZA0115">
+"If you're calling yourself Overlord, I would
+ expect you to."
 #
 <sprite "ta02a013.agf" 4 4 12>
-<name "マクドゥ" "!ZA0122">
-「お前と話をしているのがストレスだ」
+<name "Macdo" "!ZA0116">
+"And I don't remember being your friend."
 #
-<name "ダークス">
-「イライラしているだろ」
+<name "Darx">
+"I see.
+ By the way, you...
+ Well, forget it."
 #
 <sprite "ta02a012.agf" 4 4 12>
-<name "マクドゥ" "!ZA0123">
-「お前と話をしていればな」
+<name "Macdo" "!ZA0117">
+"...Don't bring something up and then stop.
+ Now I need to know."
 #
-<name "ダークス">
-「……俺の分身体に弄ばれている女達をどう見てい
-　る」
+<name "Darx">
+"No, I think it's probably none of my
+ business."
 #
-<name "マクドゥ" "!ZA0124">
-「……なにが言いたい？」
+<name "Macdo" "!ZA0118">
+"I'll be the judge of that.
+ Out with it."
 #
-<name "ダークス">
-「お前のストレス解消に、付き合ってやろうと言っ
-　ているんだ」
+<name "Darx">
+"I just wanted to make sure you were feeling
+ okay."
+#
+<name "Macdo" "!ZA0119">
+"What do you mean?"
+#
+<name "Darx">
+"It's been a while since that happened."
+#
+<sprite "ta02a032.agf" 4 4 12>
+<name "Macdo" "!ZA0120">
+"Hmph!"
+#
+<name "Darx">
+"Rakia found you in the middle of it, and you
+ were let go halfway, without finishing."
+#
+<sprite "ta02a012.agf" 4 4 12>
+<name "Macdo" "!ZA0121">
+"...Halfway?"
+#
+<name "Darx">
+"Hasn't the stress been piling up lately?"
 #
 <sprite "ta02a013.agf" 4 4 12>
-<name "マクドゥ" "!ZA0125">
-「殴られてくれるのか？」
+<name "Macdo" "!ZA0122">
+"My stress is from talking to you."
 #
-<name "ダークス">
-「お前の身体の疼きを、止めてやろうと言っている
-　んだ」
+<name "Darx">
+"You must be frustrated."
 #
 <sprite "ta02a012.agf" 4 4 12>
-<name "マクドゥ" "!ZA0126">
-「余計なお世話だ」
+<name "Macdo" "!ZA0123">
+"From talking to you."
 #
-<name "ダークス">
-「だろ。
-　だから、余計なお世話かなって言うのを止めたん
-　だ」
+<name "Darx">
+"...Haven't you seen how the women are who
+ get played with by my other body?"
 #
-<name "ダークス">
-「言わせたのはそっちだぞ」
+<name "Macdo" "!ZA0124">
+"...What are you trying to say?"
+#
+<name "Darx">
+"I'm saying I can be with you to get rid of
+ some of that stress."
+#
+<sprite "ta02a013.agf" 4 4 12>
+<name "Macdo" "!ZA0125">
+"Are you trying to make me kill you?"
+#
+<name "Darx">
+"I'm saying it'll stop that ache inside you."
+#
+<sprite "ta02a012.agf" 4 4 12>
+<name "Macdo" "!ZA0126">
+"Mind your own business."
+#
+<name "Darx">
+"Right, see?
+ That's why I said I shouldn't say anything."
+#
+<name "Darx">
+"You're the one who made me say it."
 #
 <sprite "ta02a016.agf" 4 4 12>
-<name "マクドゥ" "!ZA0127">
-「う……」
+<name "Macdo" "!ZA0127">
+"..."
 #
-<name "ダークス">
-「まあ、ものは試しだ。
-　少しやってみるか？」
+<name "Darx">
+"Well, no harm in trying.
+ Want to give it a go?"
 #
 <sprite "ta02a017.agf" 4 4 12>
-<name "マクドゥ" "!ZA0128">
-「あっ」
+<name "Macdo" "!ZA0128">
+"Ah!"
 #
 <removesprite -1 11>
 <music 17>
 <background "ev014a00.agf" 10>
-<name "マクドゥ" "!ZA0129">
-「ぅぁ、くっ」
+<name "Macdo" "!ZA0129">
+"Ah...ngh..."
 #
-　俺はマクドゥの胸を揉みながら、モノを少しずつ
-　挿入していく。
+I slowly push my dick into her as I rub her
+breasts.
 #
-<name "マクドゥ" "!ZA0130">
-「ううっ」
+<name "Macdo" "!ZA0130">
+"Nnnh..."
 #
-　マクドゥの膣内は、行為に始まった瞬間から濡れ
-　始めていた。
+Her pussy started getting wet the second that
+we started.
 #
-　予想通り、マクドゥの身体は男を求めて疼いてい
-　たのだろう。
+Just like I thought, her body was aching for a
+man.
 #
-　マクドゥは俺の分身体の責めに精神は耐えられて
-　も、肉体は耐えられていなかったと言う事だ。
+Even if her mind resists the torture my other
+body put he through, her body didn't.
 #
-　そして、その精神と肉体のバランスが崩れていた
-　のが、ここ最近の荒れ具合なのだろう。
+And the balance between what her body wants
+and what her mind wants was broken, so she's
+been in a particularly bad mood.
 #
-　別に気を回してやる事もないが、ああいった事を
-　した手前、フォローはしてやろう。
+I don't think I need to be the one to take
+care of her, but I did start this, so I can
+at least deal with it.
 #
-<name "マクドゥ" "!ZA0131">
-「ぁっ」
+<name "Macdo" "!ZA0131">
+"Ah!"
 #
-　俺のモノ先がマクドゥの膣奥に到達した。
+The head of my dick reaches the back of her
+pussy.
 #
-<name "マクドゥ" "!ZA0132">
-「んぁ……ぁ」
+<name "Macdo" "!ZA0132">
+"Mmm...ah..."
 #
-<name "ダークス">
-「大丈夫か？」
+<name "Darx">
+"Are you okay?"
 #
-<name "マクドゥ" "!ZA0133">
-「こ、これしきで……」
+<name "Macdo" "!ZA0133">
+"T-This is nothing..."
 #
-<name "ダークス">
-「力を抜け」
+<name "Darx">
+"Relax."
 #
-<name "マクドゥ" "!ZA0134">
-「ぅぅ」
+<name "Macdo" "!ZA0134">
+"..."
 #
-　マクドゥは俺の指示に従わず、力を入れて身体を
-　強張らせる。
+She ignores me and just stiffens up more.
 #
-<name "ダークス">
-「まあ、いいけどな」
+<name "Darx">
+"Well, whatever."
 #
-　俺はマクドゥの胸を優しく揉みながら、腰をゆっ
-　くりと動かした。
+I gently rub her breasts and move slowly.
 #
 <background "ev014a01.agf" 10>
-<name "マクドゥ" "!ZA0135">
-「ぁ、ううっ、くぅぅっ……」
+<name "Macdo" "!ZA0135">
+"Ah...nnnh...nnngh..."
 #
-　俺の分身体に責められていたとはいえ、まだまだ
-　未熟なマクドゥの膣内は狭く俺のモノもスムーズ
-　に動けない。
+Even after all the toying my other self did to
+her, her pussy is still inexperienced and it's
+hard to move.
 #
-<name "マクドゥ" "!ZA0136">
-「ううっ、ふぁ、あっ……うぁ」
+<name "Macdo" "!ZA0136">
+"Nnnn...ahh...ah...aah..."
 #
-　しかし、マクドゥが身体を強張らせているので、
-　モノはなんとか膣内を前後する。
+But because she's holding so stiff, I can at 
+least smoothly go back and forth.
 #
-<name "マクドゥ" "!ZA0137">
-「んぁ……ぁ、ふぁ……んんっ」
+<name "Macdo" "!ZA0137">
+"Mm...ah...ah...nnh..."
 #
-　まずは、マクドゥが慣れるまでは単純な動きを繰
-　り返す。
+Just simple motions until she gets used to it.
 #
-<name "マクドゥ" "!ZA0138">
-「ぁ、ふぁ、あっ、んんぁ」
+<name "Macdo" "!ZA0138">
+"A...ahh...ah...mmm..."
 #
-　胸の方も、リズミカルに。
+Massaging her chest rhythmically too.
 #
-　どうされるかを予想しやすいようにしてやる。
+I'm making it easy for her to tell what's 
+going to happen.
 #
-<name "マクドゥ" "!ZA0139">
-「ふぁ、ぁ、ぁあ、ん、あ、ふぁっ」
+<name "Macdo" "!ZA0139">
+"Aah...ah...aah...mmm...ah...ahhh..."
 #
-　そして、マクドゥがそれに慣れを見せ始めた頃に、
-　腰の動きに変化を持たせる。
+And as she starts to get used to it, I change
+how I'm moving my hips.
 #
 <background "ev014a02.agf" 10>
-<name "マクドゥ" "!ZA0140">
-「あっ、ひあっ、あ、うあっ、あっ、ああっ」
+<name "Macdo" "!ZA0140">
+"Aah! Ahh! Ah! Aah! Ah! Aaah!"
 #
-　その変化に少しは驚いたようだったが、マクドゥ
-　はすぐに受け入れた。
+She seems a little surprised, but accepts it
+right away.
 #
-<name "マクドゥ" "!ZA0141">
-「ん、んん、ふぁ、ぁっ、ひぁっ、あ……」
+<name "Macdo" "!ZA0141">
+"Mm...mmm...aah...ah...aah...ah..."
 #
-　そして、さらなる刺激を求めて自分から腰を揺す
-　り始めた。
+And then she starts shaking her hips on her
+own for more stimulation.
 #
-　良い感じだ。
+It feels good.
 #
-　俺は自分が喜ぶ事よりも、マクドゥを喜ばせる事
-　を重視して腰を動かす。
+I move my hips, concentrating on pleasuring
+her more than myself.
 #
-<name "マクドゥ" "!ZA0142">
-「ぁ、ふぁ、あっ」
+<name "Macdo" "!ZA0142">
+"Ah...ahh...ah!"
 #
-　俺とマクドゥの肉体がぶつかり、良い音が響く。
+My body hits against hers, making a nice 
+sound.
 #
-<name "マクドゥ" "!ZA0143">
-「んぁ、ぁっ、ぁっ、ふぁぁ……」
+<name "Macdo" "!ZA0143">
+"Mm...ah...ah...aahhh..."
 #
-　不意に、マクドゥが身体の動きを止めた。
+She unexpectedly suddenly stops.
 #
-　が、俺はそれに合わせるようにさらに腰の動きを
-　速めた。
+But I speed up to make up for it.
 #
-<name "マクドゥ" "!ZA0144">
-「ぁ、ぁ、うぁ、ぁ、や、やめ、ふぁ……」
+<name "Macdo" "!ZA0144">
+"Ah...ah...ah...ah...
+ S-Stop...
+ Ahhh..."
 #
-　マクドゥが耐える。
+She holds herself back.
 #
-<name "マクドゥ" "!ZA0145">
-「ぁ……うぁ……」
+<name "Macdo" "!ZA0145">
+"Ah...aah..."
 #
-　だが、俺はそれを許さない。
+But I don't let her.
 #
-　さらに激しく腰を動かし、マクドゥの膣内に深く
-　潜り込み、子宮を突き上げた。
+I move my hips more violently and drive deep
+into her pussy, stabbing at her womb.
 #
 <background "ev014a03.agf" 10>
-<name "マクドゥ" "!ZA0146">
-「ぁ……うぁ、ひ……ぁっ。
-　っ、っ……ふぁぁぁぁぁぁぁぁぁぁっ！！」
+<name "Macdo" "!ZA0146">
+"Ah...aah...ah...ah!
+ Ah...aaaaaaaaaahhhhhhhh!!!"
 #
-　マクドゥが達した。
+She comes.
 #
-　その達したマクドゥの膣内の脈動に誘われるよう
-　に、俺は射精を開始していた。
+Drawn by the throbbing of her pussy as she
+orgasms, I start coming too.
 #
 <background "ev014a04.agf" 10>
-<name "マクドゥ" "!ZA0147">
-「ぁ、うぁ……ぁ…………ぁぁ」
+<name "Macdo" "!ZA0147">
+"Ah...aah...ah...ah...aaaahh..."
 #
-　……
+...
 #
-<name "マクドゥ" "!ZA0148">
-「ぁ……ふぁ」
+<name "Macdo" "!ZA0148">
+"Ah...aah..."
 #
-　本来なら、このまま続けるのが俺だが、今日はこ
-　こまでにしておく。
+Normally, I'd keep going, but that's enough
+for today.
 #
 <music 4>
 <background "bg009a0.agf" 10>
-<name "ダークス">
-「楽になったか？」
+<name "Darx">
+"Feel better?"
 #
 <sprite "ta02a012.agf" 4 4 11>
-<name "マクドゥ" "!ZA0149">
-「……ふん」
+<name "Macdo" "!ZA0149">
+"...Hmph."
 #
-<name "ダークス">
-「駄目だったなら、申し訳ない」
+<name "Darx">
+"If not, I'm sorry."
 #
 <removesprite -1 11>
-　俺はマクドゥの頭を撫でてやる。
+I pay her on the head.
 #
 <sprite "ta02a013.agf" 4 4 11>
-<name "マクドゥ" "!ZA0150">
-「撫でるなっ」
+<name "Macdo" "!ZA0150">
+"Don't touch me."
 #
-<name "ダークス">
-「可愛かったぞ」
+<name "Darx">
+"You were cute."
 #
 <sprite "ta02a012.agf" 4 4 12>
-<name "マクドゥ" "!ZA0151">
-「だ、黙れ」
+<name "Macdo" "!ZA0151">
+"S-Shut up."
 #
-<name "ダークス">
-「また、ストレスを発散したくなったら言ってくれ」
+<name "Darx">
+"If you ever need to relieve some stress
+ again, just tell me."
 #
 <sprite "ta02a013.agf" 4 4 12>
-<name "マクドゥ" "!ZA0152">
-「言うか！」
+<name "Macdo" "!ZA0152">
+"Like hell!"
 #
 <removesprite -1 11>
 \x2B\x0A\x44\x02\xF2\x84\x01
@@ -465,45 +476,44 @@
 :2890
 <music 17>
 <background "ev014a02.agf" 10>
-<name "マクドゥ" "!ZA0153">
-「ん、んぁ、ふぁっ、あっ、んんんっ……」
+<name "Macdo" "!ZA0153">
+"Mm...mm...aah...ah...mmm..."
 #
 <background "ev014a03.agf" 10>
-<name "マクドゥ" "!ZA0154">
-「んぁぁぁぁぁぁぁっ！」
+<name "Macdo" "!ZA0154">
+"Aaaaahhhhh!"
 #
-　俺はマクドゥが達したのを確認してから、射精を
-　開始した。
+After making sure she came, I start to come
+myself.
 #
 <background "ev014a04.agf" 10>
-<name "マクドゥ" "!ZA0155">
-「ぁ、……うぁ、ぁ……」
+<name "Macdo" "!ZA0155">
+"Ah...aah...ah..."
 #
-　ストレス解消として関係を持ち始め、それなりに
-　結構な回数を相手にした事になる。
+This relationship began to relieve her stress,
+and we've done it quite a bit since then.
 #
-<name "マクドゥ" "!ZA0156">
-「ぁ……」
+<name "Macdo" "!ZA0156">
+"Ah..."
 #
-<name "マクドゥ" "!ZA0157">
-「か、勘違いするな……」
+<name "Macdo" "!ZA0157">
+"D-Don't misunderstand."
 #
-<name "マクドゥ" "!ZA0158">
-「ただのストレス発散の為に、貴様を使ってやって
-　いるだけだ」
+<name "Macdo" "!ZA0158">
+"I'm just using you to relieve my stress."
 #
-<name "ダークス">
-「ああ、わかっている」
+<name "Darx">
+"Yeah, I know."
 #
-<name "ダークス">
-「条件を達成した俺へのご褒美みたいなものなんだ
-　ろ」
+<name "Darx">
+"Like a reward for fulfilling your conditions,
+ right?"
 #
-<name "マクドゥ" "!ZA0159">
-「そうだ」
+<name "Macdo" "!ZA0159">
+"That's right."
 #
-<name "ダークス">
-「ああ、それで構わないさ」
+<name "Darx">
+"Yeah, I don't mind that."
 #
 \x0A\x44\x02\xF3\x84\x01
 <exit>
@@ -511,24 +521,24 @@
 <music 39>
 <background "bg002a0.agf" 10>
 <sprite "ta02a012.agf" 4 4 11>
-<name "マクドゥ" "!ZA0160">
-「駄目だ」
+<name "Macdo" "!ZA0160">
+"It's useless."
 #
 <sprite "ta02a016.agf" 4 4 12>
-<name "マクドゥ" "!ZA0161">
-「またあの男の事を考えている」
+<name "Macdo" "!ZA0161">
+"I keep thinking about him."
 #
 <sprite "ta02a017.agf" 4 4 12>
-<name "マクドゥ" "!ZA0162">
-「くそ……」
+<name "Macdo" "!ZA0162">
+"Damn it..."
 #
 <sprite "ta02a018.agf" 4 4 12>
-<name "マクドゥ" "!ZA0163">
-「私はどうしてしまったのだ」
+<name "Macdo" "!ZA0163">
+"What's wrong with me?"
 #
 <sprite "ta02a016.agf" 4 4 12>
-<name "マクドゥ" "!ZA0164">
-「このままでは……」
+<name "Macdo" "!ZA0164">
+"If this keeps up..."
 #
 <removesprite -1 11>
 <exit>
@@ -536,365 +546,378 @@
 <music 39>
 <background "bg002a0.agf" 10>
 <sprite "ta02a016.agf" 4 4 11>
-<name "マクドゥ" "!ZA0165">
-「駄目だ。
-　耐え切れない」
+<name "Macdo" "!ZA0165">
+"It's not working.
+ I can't take it."
 #
 <sprite "ta02a017.agf" 4 4 12>
-<name "マクドゥ" "!ZA0166">
-「うう……」
+<name "Macdo" "!ZA0166">
+"..."
 #
 <removesprite -1 11>
 <exit>
 :2EF4
 <music 19>
 <background "ev012a00.agf" 10>
-<name "マクドゥ" "!ZA0237">
-「んぁ、ふぁ、あ、ああ、ふぁん、ぁぁっ」
+<name "Macdo" "!ZA0237">
+"Mm...ahhh...ah...aah...ahh...ahhh..."
 #
-　俺はマクドゥと行為を楽しんでいた。
+I'm enjoying myself with Macdo.
 #
-<name "マクドゥ" "!ZA0238">
-「ん、ん、ふぁ、あっ、んぁ……ああん」
+<name "Macdo" "!ZA0238">
+"Mm...mm...ahhh...ah...mmm...aaah!"
 #
-　これまでのマクドゥと違い、快楽を求めて腰を使
-　い、その手足は俺を離さない。
+Unlike before, she's using her hips for 
+pleasure, and her hands and legs are wrapped
+around me, refusing to let me go.
 #
-<name "マクドゥ" "!ZA0239">
-「あ、ん、ふぁ、あっ、あはぁ、ん、む、胸を」
+<name "Macdo" "!ZA0239">
+"Ah...mm...aah...ah...aahh...
+ M-My chest..."
 #
-　そして、自分の肉体の全てを使って俺を誘惑しよ
-　うとしてくる。
+And she uses all of her body to tempt me.
 #
-<name "マクドゥ" "!ZA0240">
-「ふぁ、そ、そう、もっと、ん、ふぁ、吸うのは、
-　ぁ、ぁ、ぁぁぁん」
+<name "Macdo" "!ZA0240">
+"Aah... Y-Yes... More...
+ Aah... Suck on them...
+ Ah...ah...aaahh!"
 #
-　俺はその誘惑に抗わず、心地良い快楽に溺れなが
-　らマクドゥの肉体を求めた。
+I can't resist the temptation and seek out her
+flesh, drowning in pleasure.
 #
-<name "マクドゥ" "!ZA0241">
-「ぁぁ、ふぁ、ん、んぁ、あっ」
+<name "Macdo" "!ZA0241">
+"Aah! Aahh! Mm! Mmm! Ah!"
 #
-　そしてお互いを刺激し続けると、マクドゥが俺を
-　強く抱き締めてくる。
+We continue stimulating each other, and she
+clings tight to me.
 #
-　その行為で察した俺は、マクドゥの為に腰の動き
-　を強めた。
+I can tell by that and move my hips faster for
+her.
 #
-<name "マクドゥ" "!ZA0242">
-「ぁ、ふぁ、ぁ、ぁぁっ」
+<name "Macdo" "!ZA0242">
+"Ah! Ahh! Ah! Aaah!"
 #
-　そろそろだ。
+She's almost there.
 #
-<name "マクドゥ" "!ZA0243">
-「んんぁ……」
+<name "Macdo" "!ZA0243">
+"Mmmm..."
 #
-　それに合わせたかのように、俺の興奮も高まって
-　いく。
+My own excitement is also building with hers.
 #
 <background "ev012a02.agf" 10>
-<name "マクドゥ" "!ZA0244">
-「ぁ、や……ひぁ……ん、ふぁぁぁぁぁぁぁぁっ！」
+<name "Macdo" "!ZA0244">
+"Ah! Ah...ah...mm...
+ Aaaaahhhhhhh!!!"
 #
-　そして、マクドゥが全身を震わせて大きく達した
-　と同時に、俺は射精を開始する。
+At the same time that her whole body shakes
+with a big orgasm, I start coming too.
 #
-　ドクンッドクンッドクンッと鼓動に合わせ、まる
-　で自分の生命力を相手に注ぎ込むように。
+My dick throbs and pulses, pouring everything
+into her.
 #
 <background "ev012a03.agf" 10>
-<name "マクドゥ" "!ZA0245">
-「うぁ、ぁ、ぁ……ぁぁ……」
+<name "Macdo" "!ZA0245">
+"Aah...ah...ah...aah..."
 #
-　マクドゥは荒い息を吐きながら、長く絶頂の余韻
-　に浸った。
+She breathes roughly as she basks in the
+afterglow of her orgasm.
 #
-　俺も射精の快楽を味わいながら、マクドゥの身体
-　を抱き締め続けた。
+I keep holding onto her as I enjoy coming as
+well.
 #
-<name "マクドゥ" "!ZA0246">
-「ふぁ……」
+<name "Macdo" "!ZA0246">
+"Ahhh..."
 #
-　そして、またお互いの身体が動きだす。
+And then we both start to move again.
 #
-　肉欲は飽きない。
+Lust is never satiated.
 #
-<name "マクドゥ" "!ZA0247">
-「ふぁ、ぁ、ぁぁ……」
+<name "Macdo" "!ZA0247">
+"Aah...ah...aah..."
 #
-　だが、俺の中ではそろそろ答えが欲しいと思って
-　いた。
+But I think I'm overdue for an answer.
 #
-<name "ダークス">
-「そろそろ……心変わりした理由を聞かせて貰える
-　か？」
+<name "Darx">
+"I think it's time...
+ Can you tell me what changed your mind?"
 #
-　腰の動きを少し緩めながら、問いかけた。
+I ask, while slowing my movement.
 #
-　後で話すと言われてから、ずいぶんと待った気が
-　する。
+I've waited quite a while since she said that
+she'd tell me.
 #
-<name "マクドゥ" "!ZA0248">
-「んぁ、その……笑わないと、ん、約束してくれ」
+<name "Macdo" "!ZA0248">
+"Mm... Um...
+ If you promise... mm... not to laugh..."
 #
-<name "ダークス">
-「別に笑ったりはしないと思うが……」
+<name "Darx">
+"I don't think I will..."
 #
-<name "マクドゥ" "!ZA0249">
-「私は……」
+<name "Macdo" "!ZA0249">
+"I..."
 #
-<name "マクドゥ" "!ZA0250">
-「その……」
+<name "Macdo" "!ZA0250">
+"Um..."
 #
-<name "マクドゥ" "!ZA0251">
-「子供の頃からの夢があった」
+<name "Macdo" "!ZA0251">
+"I had a dream when I was little."
 #
-<name "ダークス">
-「ん？」
+<name "Darx">
+"Hm?"
 #
-<name "マクドゥ" "!ZA0252">
-「他愛無い夢だ」
+<name "Macdo" "!ZA0252">
+"Just a silly dream."
 #
-<name "マクドゥ" "!ZA0253">
-「ダーリィーストンの娘になりたかった」
+<name "Macdo" "!ZA0253">
+"I wanted to be Darleyston's daughter."
 #
-<name "ダークス">
-「誰だ？
-　それ？」
+<name "Darx">
+"Who's that?"
 #
-<name "マクドゥ" "!ZA0254">
-「ああ、実際に誰かの娘になりたいワケではない」
+<name "Macdo" "!ZA0254">
+"Oh, it's not that I literally wanted to be
+ someone's daughter."
 #
-<name "マクドゥ" "!ZA0255">
-「人間風に言うと……白馬の王子様を待っていた、
-　と言うヤツだ」
+<name "Macdo" "!ZA0255">
+"In human terms, it's like... waiting for
+ Prince Charming."
 #
-<name "マクドゥ" "!ZA0256">
-「それなりに優れた男に見初められ、熱烈な告白を
-　され、周囲に祝福されて結婚する」
+<name "Macdo" "!ZA0256">
+"Falling in love with a fine man, a romantic
+ proposal, blessed by everybody, and getting
+ married."
 #
-<name "マクドゥ" "!ZA0257">
-「ダーリィーストンの娘が、実際にそれをされて有
-　名なんだ」
+<name "Macdo" "!ZA0257">
+"Darlyston's daughter is famous for that
+ actually happening for her."
 #
-<name "ダークス">
-「なるほど」
+<name "Darx">
+"I see."
 #
-<name "マクドゥ" "!ZA0258">
-「まあ、私もそういったのを夢見ていた」
+<name "Macdo" "!ZA0258">
+"Well, I dreamed of that."
 #
-<name "マクドゥ" "!ZA0259">
-「だが、それなりに経験を積むと……そうそう実現
-　するものではないと理解はしていた」
+<name "Macdo" "!ZA0259">
+"But as I grew up and matured...
+ I knew that was never going to actually
+ happen."
 #
-<name "マクドゥ" "!ZA0262">
-「徐々に妥協をしていく」
+<name "Macdo" "!ZA0262">
+"You compromise, little by little."
 #
-<name "マクドゥ" "!ZA0263">
-「しかし、譲れない一線がある」
+<name "Macdo" "!ZA0263">
+"But there was one line I couldn't cross."
 #
-<name "ダークス">
-「なんだ？」
+<name "Darx">
+"What's that?"
 #
-<name "マクドゥ" "!ZA0264">
-「……初めての相手と結ばれると」
+<name "Macdo" "!ZA0264">
+"...Being with my first partner."
 #
-<name "ダークス">
-「………………」
+<name "Darx">
+"........."
 #
-<name "マクドゥ" "!ZA0265">
-「なのに、あれだ」
+<name "Macdo" "!ZA0265">
+"And then that happened."
 #
-<name "マクドゥ" "!ZA0266">
-「大切にしていたものが、全て砕かれた気分だった」
+<name "Macdo" "!ZA0266">
+"It felt like everything I cared about was
+ shattered."
 #
-<name "マクドゥ" "!ZA0267">
-「しかも、悪いのはお前ではない。
-　自分だ。
-　自分のミスでだ」
+<name "Macdo" "!ZA0267">
+"And it wasn't your fault.
+ It was mine.
+ It was my mistake."
 #
-<name "マクドゥ" "!ZA0268">
-「わかっていたんだ」
+<name "Macdo" "!ZA0268">
+"I knew that."
 #
-<name "マクドゥ" "!ZA0269">
-「でも、お前を恨まずにはいられなかった」
+<name "Macdo" "!ZA0269">
+"But I couldn't help hating you for it."
 #
-<name "マクドゥ" "!ZA0270">
-「そうしないと、心の平静が保てなかった」
+<name "Macdo" "!ZA0270">
+"I had to, or I couldn't still be me."
 #
-<name "ダークス">
-「…………そうか」
+<name "Darx">
+"...I see."
 #
-<name "マクドゥ" "!ZA0271">
-「すまなかった。
-　お前には理不尽な事を」
+<name "Macdo" "!ZA0271">
+"I'm sorry.
+ It wasn't fair to you."
 #
-<name "ダークス">
-「いや、まあ……仕方が無いだろ。
-　気持ちは……それなりに察する」
+<name "Darx">
+"No, well, you couldn't help it.
+ I think I... know the feeling."
 #
-<name "マクドゥ" "!ZA0272">
-「ん……」
+<name "Macdo" "!ZA0272">
+"Mm..."
 #
-<name "マクドゥ" "!ZA0273">
-「だが、初めての相手がお前自身だとわかると。
-　頑なだった心が晴れた」
+<name "Macdo" "!ZA0273">
+"But when I realized that my first was you.
+ Everything cleared up inside me."
 #
-<name "ダークス">
-「……」
+<name "Darx">
+"..."
 #
-<name "マクドゥ" "!ZA0274">
-「しかも、殺す気で挑んだ私を負かす相手だ」
+<name "Macdo" "!ZA0274">
+"What's more, you defeated me when I tried to
+ kill you."
 #
-<name "マクドゥ" "!ZA0276">
-「多少、周囲に女が多過ぎる気はするが……」
+<name "Macdo" "!ZA0276">
+"I still think there are too many women around
+ you, but..."
 #
-<name "マクドゥ" "!ZA0277">
-「問題ではない」
+<name "Macdo" "!ZA0277">
+"It doesn't matter."
 #
-<name "マクドゥ" "!ZA0278">
-「改めて、私をお前の女に」
+<name "Macdo" "!ZA0278">
+"Make me your woman again."
 #
-<name "ダークス">
-「……歓迎する」
+<name "Darx">
+"...With pleasure."
 #
-<name "マクドゥ" "!ZA0279">
-「では、このままその証拠を見せてくれ」
+<name "Macdo" "!ZA0279">
+"Then prove it to me."
 #
-<name "ダークス">
-「ああ」
+<name "Darx">
+"Okay."
 #
-　俺は長く、マクドゥとの行為を楽しんだ。
+I enjoy myself with her for a long time.
 #
 \x0A\x44\x02\xF4\x84\x01
 <exit>
 :4066
 <music 19>
 <background "ev012a01.agf" 10>
-<name "マクドゥ" "!ZA0280">
-「んぁ、ふぁ、あ、んんぁ、ああむ」
+<name "Macdo" "!ZA0280">
+"Mm...ahh...ah...mmm...aaah..."
 #
-　マクドゥが来ると、だいたいの夜はこうなる。
+Whenever Macdo comes, the nights always end up
+like this.
 #
-<name "マクドゥ" "!ZA0281">
-「ふぁ、ぁ、ダ、ダークス様、んぁ、ふぁ、ぁっ」
+<name "Macdo" "!ZA0281">
+"Aah...ah... D-Darx...
+ Mm...aah...ah!"
 #
-　誘うのは俺だが、誘って欲しいオーラを全開で出
-　されては無視できない。
+Technically, I'm the one who asks for her, but
+I can't exactly ignore the aura she's putting
+out demanding it.
 #
-　他の者達が睨むものの、マクドゥを相手に露骨に
-　喧嘩を売る者もいない。
+Other people give her dirty looks, but nobody
+is willing to pick a fight with her.
 #
-<name "マクドゥ" "!ZA0282">
-「んぁ、ぁ、ぁ、く、くる、ふぁ、ぁ……」
+<name "Macdo" "!ZA0282">
+"Mm...ah...ah...ahh...
+ C-Come...
+ Aah...ah..."
 #
-　俺はマクドゥの高まりに合わせ、腰を動かす。
+I move my hips with her climax.
 #
 <background "ev012a02.agf" 10>
-<name "マクドゥ" "!ZA0283">
-「ぁぁぁぁぁぁぁぁっ」
+<name "Macdo" "!ZA0283">
+"Aaaaahhhhh!!!"
 #
-　そして、マクドゥの絶頂と同時の射精。
+And come at the same time as she orgasms.
 #
 <background "ev012a03.agf" 10>
-<name "マクドゥ" "!ZA0284">
-「ふぁ……」
+<name "Macdo" "!ZA0284">
+"Aah..."
 #
-<name "マクドゥ" "!ZA0285">
-「ぁ……ダークス様」
+<name "Macdo" "!ZA0285">
+"Ah... Darx..."
 #
-<name "ダークス">
-「ん？」
+<name "Darx">
+"Hm?"
 #
-<name "マクドゥ" "!ZA0286">
-「次は、もう少し激しく……お願いします」
+<name "Macdo" "!ZA0286">
+"Next time, a little rougher... please."
 #
-<name "ダークス">
-「了解」
+<name "Darx">
+"Roger."
 #
-　最初の件もあるし、なんだかんだでマクドゥに甘
-　い俺だった。
+There was still the first time, and I have a
+soft spot for her.
 #
 \x0A\x44\x02\xF5\x84\x01
 <exit>
 :4429
 <music 19>
 <background "ev012a03.agf" 10>
-<name "マクドゥ" "!ZA0287">
-「ダークス」
+<name "Macdo" "!ZA0287">
+"Darx."
 #
-<name "ダークス">
-「ん？」
+<name "Darx">
+"Hm?"
 #
-<name "マクドゥ" "!ZA0288">
-「分身体、出せるか？」
+<name "Macdo" "!ZA0288">
+"Can you bring out the other you?"
 #
-<name "ダークス">
-「ああ」
+<name "Darx">
+"Yeah."
 #
-　俺は肩口から触手を数本、出してみせる。
+I summon a couple tentacles from my shoulders.
 #
-<name "マクドゥ" "!ZA0289">
-「……ふふ」
+<name "Macdo" "!ZA0289">
+"...Heheh..."
 #
-<name "ダークス">
-「どうした？」
+<name "Darx">
+"What is it?"
 #
-<name "マクドゥ" "!ZA0290">
-「あれほど嫌悪していたのに、愛おしく見えてしま
-　うとは……」
+<name "Macdo" "!ZA0290">
+"I hated them so much, I never though they'd
+ look lovable..."
 #
-<name "マクドゥ" "!ZA0291">
-「私の心は単純なようだ」
+<name "Macdo" "!ZA0291">
+"My mind is apparently simple."
 #
-<name "ダークス">
-「どうする？
-　これで苛めてやろうか？」
+<name "Darx">
+"How what?
+ Tease you with them?"
 #
-<name "マクドゥ" "!ZA0292">
-「いや、本体で頼む」
+<name "Macdo" "!ZA0292">
+"No, the real you, please."
 #
-<name "ダークス">
-「良いだろう」
+<name "Darx">
+"Sounds good."
 #
-　俺はマクドゥとの行為を楽しみ続けた。
+I continue enjoying myself with her.
 #
 \x0A\x44\x02\xF6\x84\x01
 <exit>
 :46B2
 <music 19>
 <background "ev012a02.agf" 10>
-<name "マクドゥ" "!ZA0293">
-「んぁ、ぁ、ぁぁぁぁ……」
+<name "Macdo" "!ZA0293">
+"Mm...ah...aaaaahhh..."
 #
-　俺は何回目かの射精を終え、息をつく。
+I finish coming multiple times and catch my
+breath.
 #
 <background "ev012a03.agf" 10>
-<name "マクドゥ" "!ZA0294">
-「ダークス様」
+<name "Macdo" "!ZA0294">
+"Darx."
 #
-<name "ダークス">
-「ん？」
+<name "Darx">
+"Hm?"
 #
-<name "マクドゥ" "!ZA0295">
-「前が終わったら、次は後ろになるのが自然の流れ
-　だと思いますが」
+<name "Macdo" "!ZA0295">
+"When you're finished with the front, I 
+ believe the next natural step is the back."
 #
-<name "ダークス">
-「……」
+<name "Darx">
+"..."
 #
-　最初の方にハードプレイを体験しているだけあっ
-　て、要求が激しい。
+After such hard play right from the start,
+her demands are intense.
 #
-<name "マクドゥ" "!ZA0297">
-「それとも、私の穴では不満と」
+<name "Macdo" "!ZA0297">
+"Or are you dissatisfied with my hole?"
 #
-<name "ダークス">
-「……」
+<name "Darx">
+"..."
 #
-　俺はマクドゥの尻を思いっきり叩いた後、望み通
-　りにしてやった。
+I slap her ass hard, and then have my way with
+it.
 #
 \x0A\x44\x02\xF7\x84\x01
 <exit>
@@ -902,57 +925,58 @@
 <music 39>
 <background "bg002a0.agf" 10>
 <sprite "ta08a004.agf" 4 4 11>
-<name "ラキア" "!ZC0197">
-「あの、ダークス様」
+<name "Rakia" "!ZC0197">
+"Um, Darx."
 #
-<name "ダークス">
-「ん？」
+<name "Darx">
+"Hm?"
 #
 <sprite "ta08a005.agf" 4 4 12>
-<name "ラキア" "!ZC0198">
-「マクドゥ様との件、聞きました」
+<name "Rakia" "!ZC0198">
+"I heard about Macdo."
 #
-<name "ダークス">
-「そうか」
+<name "Darx">
+"Oh?"
 #
 <sprite "ta08a026.agf" 4 4 12>
-<name "ラキア" "!ZC0199">
-「まずは、凄い！」
+<name "Rakia" "!ZC0199">
+"First, incredible!"
 #
-<name "ダークス">
-「ははは」
+<name "Darx">
+"Hahaha."
 #
 <sprite "ta08a011.agf" 4 4 12>
-<name "ラキア" "!ZC0200">
-「ついで、私というものがありながら」
+<name "Rakia" "!ZC0200">
+"Second, how could you not tell me?"
 #
-<name "ダークス">
-「はははは」
+<name "Darx">
+"Hahahaha..."
 #
 <sprite "ta08a004.agf" 4 4 12>
-<name "ラキア" "!ZC0201">
-「どうやって、あのマクドゥ様を？」
+<name "Rakia" "!ZC0201">
+"Just what did you do to her?"
 #
-<name "ダークス">
-「絡まっていた糸を解いただけだ」
+<name "Darx">
+"Just untied something that was knotted up."
 #
 <sprite "ta08a012.agf" 4 4 12>
-<name "ラキア" "!ZC0202">
-「？」
+<name "Rakia" "!ZC0202">
+"Huh?"
 #
-<name "ダークス">
-「卑怯な事はしてないから、安心してくれ」
+<name "Darx">
+"Don't worry, I didn't do anything 
+ underhanded."
 #
 <sprite "ta08a004.agf" 4 4 12>
-<name "ラキア" "!ZC0203">
-「ええ、それは信じてます」
+<name "Rakia" "!ZC0203">
+"Yes, I believe that."
 #
-<name "ダークス">
-「ま、話せる部分だけな」
+<name "Darx">
+"Well, that's all I can tell you."
 #
 <sprite "ta08a023.agf" 4 4 12>
-<name "ラキア" "!ZC0204">
-「一杯、奢りましょう」
+<name "Rakia" "!ZC0204">
+"Drinks are on me."
 #
 <removesprite -1 11>
 \x2B\x0A\x44\x02\xF8\x84\x01
@@ -962,29 +986,30 @@
 <background "bg004a0.agf" 10>
 <sprite "ta34a000.agf" 2 4 11>
 <sprite "ta34b000.agf" 6 5 11>
-<name "先輩メイド" "!DC0066">
-「マクドゥ様。
-　最近、軟らかくなったよね」
+<name "Experienced Maid" "!DC0066">
+"Hasn't Macdo softened lately?"
 #
-<name "後輩メイド" "!PC0050">
-「うん。
-　まあ、仕事の厳しさは変わらないけどね」
+<name "Junior Maid" "!PC0050">
+"Yeah.
+ Well, the strictness of her work hasn't
+ changed."
 #
-<name "先輩メイド" "!DC0067">
-「ギュンギュスカー商会の幹部が、感情で左右され
-　たりはしないわよ」
+<name "Experienced Maid" "!DC0067">
+"The executives of Gunguskar don't let
+ emotions influence them."
 #
 <sprite "ta34b001.agf" 6 5 12>
-<name "後輩メイド" "!PC0051">
-「最初、思いっきり左右されてた気がするけど……」
+<name "Junior Maid" "!PC0051">
+"At first, it felt like emotions completely
+ controlled her though..."
 #
-<name "先輩メイド" "!DC0068">
-「あー、そういえばそうだった」
+<name "Experienced Maid" "!DC0068">
+"Ah, I guess it was like that."
 #
 <sprite "ta34b000.agf" 6 5 12>
-<name "後輩メイド" "!PC0052">
-「とりあえず、仕事。
-　頑張ろう」
+<name "Junior Maid" "!PC0052">
+"Anyway, work.
+ Let's do our best."
 #
 <removesprite -1 11>
 \x2B\x0A\x44\x02\xF9\x84\x01
@@ -994,41 +1019,43 @@
 <background "bg009a0.agf" 10>
 <sprite "ta34a000.agf" 2 4 11>
 <sprite "ta34b001.agf" 6 5 11>
-<name "給仕するメイド" "!DC0069">
-「私、ダークス様って凄いと思う」
+<name "Serving Maid" "!DC0069">
+"I think Darx is incredible."
 #
-<name "料理をするメイド" "!PC0053">
-「今更？
-　私は前から凄いと思っていたけど」
+<name "Cooking Maid" "!PC0053">
+"Just now?
+ I've thought he was incredible for a long
+ time."
 #
-<name "給仕するメイド" "!DC0070">
-「今日、改めて思ったの」
+<name "Serving Maid" "!DC0070">
+"I was newly impressed today."
 #
-<name "料理をするメイド" "!PC0054">
-「なにかあったの？」
+<name "Cooking Maid" "!PC0054">
+"Did something happen?"
 #
-<name "給仕するメイド" "!DC0071">
-「マクドゥ様がダークス様に甘えているのを見たの」
+<name "Serving Maid" "!DC0071">
+"I saw Macdo fawning all over him."
 #
 <sprite "ta34a002.agf" 2 4 12>
-<name "料理をするメイド" "!PC0055">
-「……あー、それは確かにダークス様、凄い」
+<name "Cooking Maid" "!PC0055">
+"...Aah, that is indeed just like him.
+ Incredible."
 #
-<name "給仕するメイド" "!DC0072">
-「フォーゼロッテ様を落としたんだから、ありえな
-　い事じゃないと思うけど、マクドゥ様ってかなり
-　ダークス様の事を嫌ってたからね」
+<name "Serving Maid" "!DC0072">
+"He won over Forzelotte, so I don't think it
+ was impossible, but Macdo really did hate
+ him quite a bit."
 #
-<name "料理をするメイド" "!PC0056">
-「そのマクドゥ様がデレるのか……」
+<name "Cooking Maid" "!PC0056">
+"And now she's all lovey-dovey..."
 #
-<name "給仕するメイド" "!DC0074">
-「マクドゥ様に怒られるような事態になったら、ダー
-　クス様に取り成して貰おう」
+<name "Serving Maid" "!DC0074">
+"If she gets mad at us, let's try to have him
+ step in."
 #
 <sprite "ta34a000.agf" 2 4 12>
-<name "料理をするメイド" "!PC0057">
-「うん」
+<name "Cooking Maid" "!PC0057">
+"Yeah."
 #
 <removesprite -1 11>
 \x2B\x0A\x44\x02\xFA\x84\x01
@@ -1038,77 +1065,79 @@
 <background "bg010a0.agf" 10>
 \x2B
 <sprite "ta02a000.agf" 4 4 11>
-<name "マクドゥ" "!ZA0298">
-「ダークス様」
+<name "Macdo" "!ZA0298">
+"Darx."
 #
 <removesprite -1 11>
 <sprite "ta10a001.agf" 4 4 11>
-<name "フォーゼロッテ" "!XA0007">
-「ん」
+<name "Forzelotte" "!XA0007">
+"Hm?"
 #
 <sprite "ta10a004.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0008">
-「ずいぶんと雰囲気が変わったな」
+<name "Forzelotte" "!XA0008">
+"You've changed quite a lot."
 #
 <removesprite -1 11>
 <sprite "ta02a002.agf" 2 4 11>
 <sprite "ta10a004.agf" 6 5 11>
-<name "マクドゥ" "!ZA0299">
-「そうですか。
-　それほど変わったつもりはありませんが」
+<name "Macdo" "!ZA0299">
+"Have I?
+ It wasn't my intention to change that much."
 #
 <sprite "ta10a020.agf" 6 5 12>
-<name "フォーゼロッテ" "!XA0009">
-「ふむ。
-　我が夫が魅力的過ぎるのも、問題だな」
+<name "Forzelotte" "!XA0009">
+"Hmmm.
+ There is also the problem that my husband's
+ charisma is too excessive."
 #
 <sprite "ta02a026.agf" 2 4 12>
-<name "マクドゥ" "!ZA0300">
-「ああ、妻が見劣りしますものね」
+<name "Macdo" "!ZA0300">
+"Yeah, completely unfitting to him to have
+ such a lacking wife."
 #
 <sprite "ta10a008.agf" 6 5 12>
-<name "フォーゼロッテ" "!XA0010">
-「……ほう」
+<name "Forzelotte" "!XA0010">
+"...Oh?"
 #
 <sprite "ta02a000.agf" 2 4 12>
-<name "マクドゥ" "!ZA0301">
-「なにか？」
+<name "Macdo" "!ZA0301">
+"What?"
 #
-<name "ダークス">
-「フォーゼ、緊張感を変に高めるな」
+<name "Darx">
+"Forze, don't start a fight."
 #
 <sprite "ta10a022.agf" 6 5 12>
-<name "フォーゼロッテ" "!XA0011">
-「だってぇ」
+<name "Forzelotte" "!XA0011">
+"But..."
 #
-<name "ダークス">
-「すまん。
-　マクドゥ。
-　今日の俺はフォーゼロッテのものだ」
+<name "Darx">
+"I'm sorry.
+ Macdo, today I'm with Forzelotte."
 #
 <removesprite -1 11>
-　妻であるフォーゼロッテ第一は、変わらない。
+She's the wife, and top of the pecking order.
+That hasn't changed.
 #
 <sprite "ta02a004.agf" 4 4 11>
-<name "マクドゥ" "!ZA0302">
-「心得ております。
-　フォーゼロッテ様にお飽きになられた際は、お申
-　し出ください」
+<name "Macdo" "!ZA0302">
+"I'm aware.
+ When you get tired of her, come see me."
 #
 <sprite "ta02a026.agf" 4 4 12>
-<name "マクドゥ" "!ZA0303">
-「フォーゼロッテ様にない魅力を教えて差し上げま
-　す」
+<name "Macdo" "!ZA0303">
+"I'll let you experience the charm that she
+ lacks."
 #
 <removesprite -1 11>
 <sprite "ta10a010.agf" 4 4 11>
-<name "フォーゼロッテ" "!XA0012">
-「小娘ぇ……」
+<name "Forzelotte" "!XA0012">
+"That girl..."
 #
 <removesprite -1 11>
-　その日のフォーゼロッテは、超激しかった。
+Forzelotte was extremely intense that day.
 #
-　あとで本体の方にも、機嫌を取りに行こう。
+I'll have to go to her main body to fix her
+mood later.
 #
 \x0A\x44\x02\xFB\x84\x01
 <exit>
@@ -1116,85 +1145,90 @@
 <music 40>
 <background "bg004a0.agf" 10>
 <sprite "ta08a000.agf" 4 4 11>
-<name "ラキア" "!ZC0242">
-「マクドゥ様」
+<name "Rakia" "!ZC0242">
+"Macdo."
 #
 <removesprite -1 11>
 <sprite "ta08a000.agf" 2 4 11>
 <sprite "ta02a000.agf" 6 5 11>
-<name "マクドゥ" "!ZA0350">
-「ん？」
+<name "Macdo" "!ZA0350">
+"Hm?"
 #
 <sprite "ta08a003.agf" 2 4 12>
-<name "ラキア" "!ZC0243">
-「最近、お姿を見ませんでしたが、どちらに？」
+<name "Rakia" "!ZC0243">
+"I haven't seen you lately.
+ Where have you been?"
 #
 <sprite "ta02a001.agf" 6 5 12>
-<name "マクドゥ" "!ZA0351">
-「宮の見回りだ。
-　フォーゼロッテ宮の、魔力収集機能に問題が無い
-　かをチェックしていた」
+<name "Macdo" "!ZA0351">
+"Keeping an eye on the Shrine.
+ I've been inspecting for any issues in the
+ mana collection of Forzelotte's Shrine."
 #
 <sprite "ta08a004.agf" 2 4 12>
-<name "ラキア" "!ZC0244">
-「そうでしたか」
+<name "Rakia" "!ZC0244">
+"Oh, I see."
 #
 <sprite "ta02a000.agf" 6 5 12>
-<name "マクドゥ" "!ZA0352">
-「一声、掛けた方が良かったか？」
+<name "Macdo" "!ZA0352">
+"Should I have told you?"
 #
 <sprite "ta08a005.agf" 2 4 12>
-<name "ラキア" "!ZC0245">
-「いえ。
-　私にマクドゥ様の行動を縛る権限はありません」
+<name "Rakia" "!ZC0245">
+"No.
+ I don't have the authority to forbid you from
+ doing anything."
 #
 <sprite "ta02a001.agf" 6 5 12>
-<name "マクドゥ" "!ZA0353">
-「そうか」
+<name "Macdo" "!ZA0353">
+"Uh huh."
 #
 <sprite "ta02a000.agf" 6 5 12>
-<name "マクドゥ" "!ZA0354">
-「……まあ、そう怖い顔で私を見るな」
+<name "Macdo" "!ZA0354">
+"...Well, don't glare at me like that then."
 #
-<name "マクドゥ" "!ZA0355">
-「確かに、あの男に対する怒りはある」
+<name "Macdo" "!ZA0355">
+"I am indeed angry at that man."
 #
-<name "マクドゥ" "!ZA0356">
-「女として、あのような目に遭わされたのだ」
+<name "Macdo" "!ZA0356">
+"As a woman, I was subjected to that
+ experience."
 #
-<name "マクドゥ" "!ZA0357">
-「その辺りは共感して貰えると思うのだが？」
+<name "Macdo" "!ZA0357">
+"I'm sure you can sympathize?"
 #
 <sprite "ta08a003.agf" 2 4 12>
-<name "ラキア" "!ZC0246">
-「確かに……ですが、あれは事故です。
-　ダークス様の意思で、ああいった事をしたわけで
-　はありません」
+<name "Rakia" "!ZC0246">
+"Indeed, but it was an accident.
+ He didn't intend for that to happen."
 #
 <sprite "ta02a023.agf" 6 5 12>
-<name "マクドゥ" "!ZA0358">
-「それも理解している。
-　理解しているが、許せんものは許せん」
+<name "Macdo" "!ZA0358">
+"I'm aware of that.
+ I'm aware of it, but I still can't forgive
+ it."
 #
 <sprite "ta02a028.agf" 6 5 12>
-<name "マクドゥ" "!ZA0359">
-「だが、ここしばらくで、かなり落ち着いた」
+<name "Macdo" "!ZA0359">
+"But at least for now, things have settled
+ down significantly."
 #
-<name "マクドゥ" "!ZA0360">
-「少々、熱くなっていたのは確かだ」
+<name "Macdo" "!ZA0360">
+"It was certainly a heated situation."
 #
 <sprite "ta08a001.agf" 2 4 12>
-<name "ラキア" "!ZC0249">
-「マクドゥ様」
+<name "Rakia" "!ZC0249">
+"Macdo."
 #
 <sprite "ta02a000.agf" 6 5 12>
-<name "マクドゥ" "!ZA0361">
-「評価は正当に行う。
-　あの男の能力を信じるなら、安心しろ」
+<name "Macdo" "!ZA0361">
+"I will evaluate him fairly.
+ If you have faith in his abilities, you have
+ nothing to worry about."
 #
 <sprite "ta08a023.agf" 2 4 12>
-<name "ラキア" "!ZC0250">
-「承知しました」
+<name "Rakia" "!ZC0250">
+"I understand."
 #
 <removesprite -1 11>
 <exit>
@@ -1202,115 +1236,121 @@
 <music 40>
 <background "bg004a0.agf" 10>
 <sprite "ta12a000.agf" 4 4 11>
-<name "メリル" "!HA0051">
-「あの、ラキア様」
+<name "Meryl" "!HA0051">
+"Um, Rakia."
 #
 <removesprite -1 11>
 <sprite "ta08a004.agf" 2 5 11>
 <sprite "ta12a000.agf" 6 4 11>
-<name "ラキア" "!ZC0251">
-「どうかしましたか？」
+<name "Rakia" "!ZC0251">
+"How can I help you?"
 #
 <sprite "ta12a006.agf" 6 4 12>
-<name "メリル" "!HA0052">
-「あのマクドゥさん。
-　ギュンギュスカー商会のお墨付きですが、本当に
-　信用して大丈夫なのですか？」
+<name "Meryl" "!HA0052">
+"It's this Macdo.
+ I understand she's authorized by Gunguskar,
+ but are we really going to be okay trusting
+ her?"
 #
 <sprite "ta08a005.agf" 2 5 12>
-<name "ラキア" "!ZC0252">
-「ええ、大丈夫ですよ。
-　アイシエス王にお仕えできるほどの方ですし……」
+<name "Rakia" "!ZC0252">
+"Yes, it'll be fine.
+ She is trustworthy enough to serve Lord
+ Aishies."
 #
 <sprite "ta08a020.agf" 2 5 12>
-<name "ラキア" "!ZC0253">
-「ひょっとして、お仕事でご迷惑をお掛けしていま
-　す？」
+<name "Rakia" "!ZC0253">
+"Is she perhaps causing you trouble with your
+ work?"
 #
 <sprite "ta12a000.agf" 6 4 12>
-<name "メリル" "!HA0053">
-「ご迷惑と言うか……
-　こちらの仕事を手伝ってくれているので、助かっ
-　ています」
+<name "Meryl" "!HA0053">
+"Not trouble, exactly...
+ She's been helping out with work, and I'm
+ thankful for that."
 #
 <sprite "ta08a021.agf" 2 5 12>
-<name "ラキア" "!ZC0254">
-「能力は高い方ですから」
+<name "Rakia" "!ZC0254">
+"She is quite capable."
 #
 <sprite "ta12a001.agf" 6 4 12>
-<name "メリル" "!HA0054">
-「ですが、それでここの情報、かなり持っていかれ
-　ましたよ。
-　流石に機密関連には触らせていませんけど」
+<name "Meryl" "!HA0054">
+"But she's also carried off a lot of our
+ information.
+ I obviously haven't let her touch anything
+ top secret though."
 #
 <sprite "ta08a016.agf" 2 5 12>
-<name "ラキア" "!ZC0255">
-「……すみません。
-　この埋め合わせは、いずれきっと、必ず」
+<name "Rakia" "!ZC0255">
+"...I'm sorry.
+ I'm sure she'll compensate you for that
+ eventually."
 #
 <sprite "ta12a003.agf" 6 4 12>
-<name "メリル" "!HA0055">
-「いえ、文句を言いに来たワケではありませんから」
+<name "Meryl" "!HA0055">
+"It's fine.
+ I didn't mean to complain to you."
 #
 <sprite "ta12a004.agf" 6 4 12>
-<name "メリル" "!HA0056">
-「それに、ラキア様が色々と魔王様の為にしてくれ
-　ているようで……
-　ありがとうございます」
+<name "Meryl" "!HA0056">
+"Besides, I know you're doing a lot for the
+ Overlord, so...
+ Thank you."
 #
 <sprite "ta08a012.agf" 2 5 12>
-<name "ラキア" "!ZC0256">
-「いえ、こちらも色々と事情がありますから」
+<name "Rakia" "!ZC0256">
+"It's nothing.
+ I have my own circumstances as well."
 #
 <sprite "ta12a003.agf" 6 4 12>
-<name "メリル" "!HA0057">
-「将来の利益の為ですか？」
+<name "Meryl" "!HA0057">
+"For future profits?"
 #
 <sprite "ta08a021.agf" 2 5 12>
-<name "ラキア" "!ZC0257">
-「そんな所です」
+<name "Rakia" "!ZC0257">
+"Something like that."
 #
 <sprite "ta12a004.agf" 6 4 12>
-<name "メリル" "!HA0058">
-「あはは。
-　ああ、もう一つ。
-　あのマクドゥさん、どうして魔王様を嫌っている
-　のですか？」
+<name "Meryl" "!HA0058">
+"Hahaha.
+ Oh, one other thing.
+ Why does this Macdo hate the Overlord so
+ much?"
 #
 <sprite "ta08a012.agf" 2 5 12>
-<name "ラキア" "!ZC0258">
-「き、嫌っています？」
+<name "Rakia" "!ZC0258">
+"H-Hate?"
 #
 <sprite "ta12a000.agf" 6 4 12>
-<name "メリル" "!HA0059">
-「魔王様の話題が出ると、微妙にですが機嫌が悪く
-　なりますから」
+<name "Meryl" "!HA0059">
+"Whenever he comes up, it's not obvious, but
+ her mood definitely sours."
 #
 <sprite "ta08a022.agf" 2 5 12>
-<name "ラキア" "!ZC0259">
-「あ、あはは……
-　最初の出会いが悪かったのでしょう。
-　ですが、仕事には影響しない筈です」
+<name "Rakia" "!ZC0259">
+"H-Hahaha...
+ I think their first meeting didn't go well.
+ But I'm sure that won't affect her job."
 #
 <sprite "ta12a001.agf" 6 4 12>
-<name "メリル" "!HA0060">
-「そうですか。
-　では、関係改善の為に何かしようと思ったのです
-　が……」
+<name "Meryl" "!HA0060">
+"I see.
+ Well, I thought there might be something I
+ could do to improve things between them..."
 #
 <sprite "ta08a021.agf" 2 5 12>
-<name "ラキア" "!ZC0260">
-「い、今はまだ、止めておいた方が良いかと」
+<name "Rakia" "!ZC0260">
+"I-I think it'd be better to stay out of it."
 #
 <sprite "ta12a000.agf" 6 4 12>
-<name "メリル" "!HA0061">
-「……わかりました。
-　では、そのように」
+<name "Meryl" "!HA0061">
+"...All right.
+ So that's how it is."
 #
 <sprite "ta08a016.agf" 2 5 12>
-<name "ラキア" "!ZC0261">
-「すみません。
-　よろしくお願いします」
+<name "Rakia" "!ZC0261">
+"I'm sorry.
+ Thank you very much."
 #
 <removesprite -1 11>
 <exit>
@@ -1318,65 +1358,66 @@
 <music 40>
 <background "bg004a0.agf" 10>
 <sprite "ta02a000.agf" 4 4 11>
-<name "マクドゥ" "!ZA0362">
-「そこの娘」
+<name "Macdo" "!ZA0362">
+"You there, girl."
 #
 <removesprite -1 11>
 <sprite "ta11a003.agf" 4 4 11>
-<name "コゼロット" "!NA0037">
-「……私？」
+<name "Kozelotte" "!NA0037">
+"...Me?"
 #
 <removesprite -1 11>
 <sprite "ta11a003.agf" 2 5 11>
 <sprite "ta02a000.agf" 6 4 11>
-<name "マクドゥ" "!ZA0363">
-「そうだ。
-　私はマクドゥと言う。
-　娘の名は？」
+<name "Macdo" "!ZA0363">
+"That's right.
+ I'm Macdo.
+ What's your name?"
 #
 <sprite "ta11a002.agf" 2 5 12>
-<name "コゼロット" "!NA0038">
-「コゼロットです」
+<name "Kozelotte" "!NA0038">
+"Kozelotte."
 #
 <sprite "ta02a001.agf" 6 4 12>
-<name "マクドゥ" "!ZA0364">
-「では、前魔王と現魔王の娘か？」
+<name "Macdo" "!ZA0364">
+"Then you're the daughter of the former
+ Overlord and the current Overlord?"
 #
 <sprite "ta11a003.agf" 2 5 12>
-<name "コゼロット" "!NA0039">
-「そうですが、何か御用ですか？」
+<name "Kozelotte" "!NA0039">
+"That's right.
+ Can I help you with something?"
 #
 <sprite "ta02a005.agf" 6 4 12>
-<name "マクドゥ" "!ZA0365">
-「いや、顔を見たかっただけだ。
-　ラキアから色々と聞いている。
-　才覚ある娘だと」
+<name "Macdo" "!ZA0365">
+"No, I just wanted to meet you.
+ Rakia has told me a lot about you.
+ That you're a talented girl."
 #
 <sprite "ta11a004.agf" 2 5 12>
-<name "コゼロット" "!NA0040">
-「ありがとうございます。
-　ですが、私はラキアさんから貴女の事を聞いてい
-　ません。
-　不公平だと思いませんか？」
+<name "Kozelotte" "!NA0040">
+"Thank you very much, but she hasn't told me
+ anything about you.
+ Don't you think that's unfair?"
 #
 <sprite "ta02a004.agf" 6 4 12>
-<name "マクドゥ" "!ZA0366">
-「む……確かにな。
-　では、その不公平をどう埋めれば良い？」
+<name "Macdo" "!ZA0366">
+"Hm... That's true.
+ Then how should we balance the scales?"
 #
 <sprite "ta11a005.agf" 2 5 12>
-<name "コゼロット" "!NA0041">
-「お茶を奢って頂ければ」
+<name "Kozelotte" "!NA0041">
+"You could buy my a drink."
 #
 <sprite "ta02a026.agf" 6 4 12>
-<name "マクドゥ" "!ZA0367">
-「よかろう。
-　この店で構わないか？
-　商会員割引がある」
+<name "Macdo" "!ZA0367">
+"Very well.
+ Would here be okay?
+ I have a company discount."
 #
 <sprite "ta11a004.agf" 2 5 12>
-<name "コゼロット" "!NA0042">
-「ええ、私もこのお店は好きですから」
+<name "Kozelotte" "!NA0042">
+"Yes, I like this place."
 #
 <removesprite -1 11>
 <exit>
@@ -1384,75 +1425,79 @@
 <music 39>
 <background "bg002a0.agf" 10>
 <sprite "ta02a028.agf" 4 4 11>
-<name "マクドゥ" "!ZA0368">
-「魔王ダークス」
+<name "Macdo" "!ZA0368">
+"Overlord Darx."
 #
-<name "マクドゥ" "!ZA0369">
-「クヴァルの件と、城の件で、ここの住民からは絶
-　大な支持を得ている」
+<name "Macdo" "!ZA0369">
+"During the Cuvar and Castle incidents, he
+ obtained overwhelming support from the
+ residents here."
 #
-<name "マクドゥ" "!ZA0370">
-「あの人気があれば、特に問題は無い筈だ」
+<name "Macdo" "!ZA0370">
+"If it was a matter of popularity, there would
+ be no issue."
 #
-<name "マクドゥ" "!ZA0371">
-「正直、他者を使うのも才覚だ。
-　魔王が必ずしも内政に優れる必要は無い」
-#
-<sprite "ta02a000.agf" 4 4 12>
-<name "マクドゥ" "!ZA0372">
-「魔界はなぜ、私をここに送り込んだのだ？」
-#
-<sprite "ta02a001.agf" 4 4 12>
-<name "マクドゥ" "!ZA0373">
-「大魔王アイシエス様が、本当に幹部連中の圧力に
-　負けたとは思えない」
+<name "Macdo" "!ZA0371">
+"To be honest, he has a talent for managing
+ others. An Overlord does not necessarily
+ need to excel in domestic administration."
 #
 <sprite "ta02a000.agf" 4 4 12>
-<name "マクドゥ" "!ZA0374">
-「第一、適任者なら他にも居る。
-　私には簡単過ぎる任務だ」
+<name "Macdo" "!ZA0372">
+"So why did the Netherworld send me here?"
 #
 <sprite "ta02a001.agf" 4 4 12>
-<name "マクドゥ" "!ZA0375">
-「まさか、ギュンギュスカー商会の支店視察に考慮
-　してくれたなどという理由ではあるまい」
+<name "Macdo" "!ZA0373">
+"I cannot believe that Lord Aishies truly
+ gave in to the pressure of other leaders."
+#
+<sprite "ta02a000.agf" 4 4 12>
+<name "Macdo" "!ZA0374">
+"First of all, there are others qualified to
+ handle this.
+ It is far too trivial an assignment for me."
+#
+<sprite "ta02a001.agf" 4 4 12>
+<name "Macdo" "!ZA0375">
+"It cannot possibly be for the inspection of
+ the Gunguskar branch here either."
 #
 <sprite "ta02a028.agf" 4 4 12>
-<name "マクドゥ" "!ZA0376">
-「私をここに送り込んだ理由がある筈だ」
+<name "Macdo" "!ZA0376">
+"There must be a reason I was sent here."
 #
 <removesprite -1 11>
-　……
+...
 #
 <sprite "ta02a016.agf" 4 4 11>
-<name "マクドゥ" "!ZA0377">
-「ひょっとして……アイシエス様は、私がダークス
-　に対して配慮する事を期待したのか？」
+<name "Macdo" "!ZA0377">
+"Could it be... Lord Aishies exected me to be
+ taken with Darx?"
 #
 <sprite "ta02a017.agf" 4 4 12>
-<name "マクドゥ" "!ZA0378">
-「……あの出会いがなければ、私はダークスを容認
-　する方に傾いていただろう」
+<name "Macdo" "!ZA0378">
+"...If not for what happened, I would have 
+ been somewhat inclined to approve of him."
 #
 <sprite "ta02a016.agf" 4 4 12>
-<name "マクドゥ" "!ZA0379">
-「それが、あの出会いによって私はダークス排除に
-　動いてしまった……」
+<name "Macdo" "!ZA0379">
+"That experience is what pushed me to 
+ rejecting him..."
 #
 <sprite "ta02a017.agf" 4 4 12>
-<name "マクドゥ" "!ZA0380">
-「私はひょっとしてアイシエス様の意図と違う事を
-　しているのではないか？」
+<name "Macdo" "!ZA0380">
+"Could I be acting differently from what Lord
+ Aishies expected?"
 #
 <sprite "ta02a028.agf" 4 4 12>
-<name "マクドゥ" "!ZA0381">
-「…………考え過ぎか」
+<name "Macdo" "!ZA0381">
+"...I'm overthinking it."
 #
 <sprite "ta02a000.agf" 4 4 12>
-<name "マクドゥ" "!ZA0383">
-「まあ、これぐらいの試練を乗り越えられんようで
-　は、アイシエス様が気にするほどの者ではないと
-　いう事だしな」
+<name "Macdo" "!ZA0383">
+"Well, if he can't overcome these challenges,
+ it just means that he's not the man that
+ Lord Aishies expects him to be."
 #
 <removesprite -1 11>
 <exit>
@@ -1460,128 +1505,136 @@
 <music 40>
 <background "bg004a0.agf" 10>
 <sprite "ta02a000.agf" 4 4 11>
-<name "マクドゥ" "!ZA0384">
-「ラキア」
+<name "Macdo" "!ZA0384">
+"Rakia."
 #
 <removesprite -1 11>
 <sprite "ta08a000.agf" 2 5 11>
 <sprite "ta02a000.agf" 6 4 11>
-<name "ラキア" "!ZC0262">
-「はい」
+<name "Rakia" "!ZC0262">
+"Yes?"
 #
 <sprite "ta02a001.agf" 6 4 12>
-<name "マクドゥ" "!ZA0385">
-「魔界への連絡は取れているな？」
+<name "Macdo" "!ZA0385">
+"You're in contact with the Netherworld?"
 #
 <sprite "ta08a001.agf" 2 5 12>
-<name "ラキア" "!ZC0263">
-「ええ、問題無く。
-　なにか不審な点でも？」
+<name "Rakia" "!ZC0263">
+"Yes, all's clear.
+ Is there something on your mind?"
 #
 <sprite "ta02a028.agf" 6 4 12>
-<name "マクドゥ" "!ZA0386">
-「いや、手紙の往来について少し気になっただけだ」
+<name "Macdo" "!ZA0386">
+"No, just a little concerned about messages
+ coming and going."
 #
 <removesprite -1 11>
 <music 39>
 <background "bg002a0.agf" 10>
-　……
+...
 #
 <sprite "ta02a000.agf" 4 4 11>
-<name "マクドゥ" "!ZA0387">
-「アイシエス様に現状報告を送ったが、反応が薄い」
+<name "Macdo" "!ZA0387">
+"I sent a status report to Lord Aishies, but
+ barely got a response."
 #
 <sprite "ta02a001.agf" 4 4 12>
-<name "マクドゥ" "!ZA0388">
-「手加減してやれとも、派手にやれともない。
-　魔界は気にせず、好きにやれと取れる内容だ」
+<name "Macdo" "!ZA0388">
+"Don't take it easy, but don't make waves.
+ Do whatever you like without worrying about
+ the Netherworld."
 #
-<name "マクドゥ" "!ZA0389">
-「僅かに気にされているのが、アンゼルム商会に関
-　して……」
+<name "Macdo" "!ZA0389">
+"What worries me a little is Anselm..."
 #
 <sprite "ta02a028.agf" 4 4 12>
-<name "マクドゥ" "!ZA0390">
-「しかし、私がギュンギュスカー商会の者だから不
-　自然さは無い」
+<name "Macdo" "!ZA0390">
+"But that's to be expected because I'm from
+ Gunguskar."
 #
-<name "マクドゥ" "!ZA0391">
-「アイシエス様は何を考えているのか……」
+<name "Macdo" "!ZA0391">
+"What is Lord Aishies thinking?"
 #
 <removesprite -1 11>
-　……
+...
 #
 <sprite "ta02a000.agf" 4 4 11>
-<name "マクドゥ" "!ZA0392">
-「ともかく、居なくて困っているから早く帰って来
-　て欲しい、ぐらいは書いて欲しかった」
+<name "Macdo" "!ZA0392">
+"Anyway, what I wish I could write was that I
+ want to go home right away because there's
+ no problems here."
 #
 <removesprite -1 11>
 <exit>
 :83FF
 <music 39>
 <background "bg002a0.agf" 10>
-<name "トージョ" "!KA0026" "ka33a000.agf">
-「マクドゥさん」
+<name "Tojo" "!KA0026" "ka33a000.agf">
+"Macdo."
 #
 <sprite "ta02a000.agf" 4 4 11>
-<name "マクドゥ" "!ZA0416">
-「ん？」
+<name "Macdo" "!ZA0416">
+"Hm?"
 #
-<name "トージョ" "!KA0027" "ka33a000.agf">
-「何度かお顔を拝見してるけど、覚えてくれてる？」
+<name "Tojo" "!KA0027" "ka33a000.agf">
+"We've met a few times.
+ Do you remember me?"
 #
 <sprite "ta02a001.agf" 4 4 12>
-<name "マクドゥ" "!ZA0417">
-「迷宮長のトージョだな。
-　私に何か用か？」
+<name "Macdo" "!ZA0417">
+"Dungeon Boss Tojo, I believe.
+ Can I help you with something?"
+ (PROBABLY SHOULD LOOK UP THE PREVIOUS 
+  VERBIAGE HERE)
 #
-<name "トージョ" "!KA0028" "ka33a000.agf">
-「そうピリピリしないでくれる？
-　一応、良い話を持ってきたつもりなんだけど」
+<name "Tojo" "!KA0028" "ka33a000.agf">
+"No need to be so prickly.
+ I had some juicy information for you."
 #
 <sprite "ta02a000.agf" 4 4 12>
-<name "マクドゥ" "!ZA0418">
-「良い話？」
+<name "Macdo" "!ZA0418">
+"Juicy information?"
 #
-<name "トージョ" "!KA0029" "ka33a000.agf">
-「お、食いついたねぇ」
+<name "Tojo" "!KA0029" "ka33a000.agf">
+"Oh, you bit."
 #
 <sprite "ta02a028.agf" 4 4 12>
-<name "マクドゥ" "!ZA0419">
-「どういった話だ？
-　手早く言ってくれ」
+<name "Macdo" "!ZA0419">
+"What are you talking about?
+ Just tell me already."
 #
-<name "トージョ" "!KA0030" "ka33a000.agf">
-「当然、ダークスに関しての話さ。
-　色々と調べているだろうけど、捗ってないだろ？
-　なんだかんだで人気者だからな」
+<name "Tojo" "!KA0030" "ka33a000.agf">
+"It's about Darx, naturally.
+ You've been checking him out but getting
+ nowhere, right?
+ Cause he's pretty popular."
 #
-<name "トージョ" "!KA0031" "ka33a000.agf">
-「で、俺が情報提供をしてやろうかって話だ」
+<name "Tojo" "!KA0031" "ka33a000.agf">
+"So I can give you some of the information
+ you're looking for."
 #
 <sprite "ta02a000.agf" 4 4 12>
-<name "マクドゥ" "!ZA0420">
-「それは助かる話だが……
-　そちらにメリットを感じないが？」
+<name "Macdo" "!ZA0420">
+"That would be useful, but...
+ What's in it for you?"
 #
-<name "トージョ" "!KA0032" "ka33a000.agf">
-「上が空けば、下のヤツが上に行くだろ」
+<name "Tojo" "!KA0032" "ka33a000.agf">
+"When there's an opening at the top, the
+ little guys move up."
 #
-<name "トージョ" "!KA0033" "ka33a000.agf">
-「ってのは建前だな」
+<name "Tojo" "!KA0033" "ka33a000.agf">
+"But that's just an excuse."
 #
-<name "トージョ" "!KA0034" "ka33a000.agf">
-「本音は、俺は人間が大嫌いって事だ」
+<name "Tojo" "!KA0034" "ka33a000.agf">
+"Actually, I hate humans."
 #
 <sprite "ta02a004.agf" 4 4 12>
-<name "マクドゥ" "!ZA0421">
-「……情報提供を受けよう。
-　よろしく頼む」
+<name "Macdo" "!ZA0421">
+"...I'll take your information.
+ Thank you."
 #
-<name "トージョ" "!KA0035" "ka33a000.agf">
-「ああ。
-　任せておきな」
+<name "Tojo" "!KA0035" "ka33a000.agf">
+"Yeah, leave it to me."
 #
 <removesprite -1 11>
 <exit>
@@ -1589,301 +1642,309 @@
 <music 39>
 <background "bg002a0.agf" 10>
 <sprite "ta02a000.agf" 4 4 11>
-<name "マクドゥ" "!ZA0422">
-「トージョ、少し良いか？」
+<name "Macdo" "!ZA0422">
+"Tojo, do you have some time?"
 #
-<name "トージョ" "!KA0036" "ka33a000.agf">
-「なんすかー？」
+<name "Tojo" "!KA0036" "ka33a000.agf">
+"What's up?"
 #
 <sprite "ta02a001.agf" 4 4 12>
-<name "マクドゥ" "!ZA0423">
-「各地を回りたい。
-　護衛と道案内を頼めるか？」
+<name "Macdo" "!ZA0423">
+"I want to visit some places.
+ Can you escort and guide me?"
 #
-<name "トージョ" "!KA0037" "ka33a000.agf">
-「そんなの俺に言わなくても……ってワケにはいか
-　ないね。
-　魔界からのお客様だ。
-　丁重に扱わないと」
+<name "Tojo" "!KA0037" "ka33a000.agf">
+"Even if I wanted to say no... it's not like
+ I can.
+ You're a VIP from the Netherworld.
+ We've gotta take care of you."
 #
 <sprite "ta02a004.agf" 4 4 12>
-<name "マクドゥ" "!ZA0424">
-「ああ、頼んだぞ」
+<name "Macdo" "!ZA0424">
+"Yeah, please."
 #
 <removesprite -1 11>
 <music 42>
 <background "bg005a0.agf" 10>
-<name "トージョ" "!KA0038" "ka33a000.agf">
-「もうちょっと、目立たない方法で呼んでくれない
-　か？」
+<name "Tojo" "!KA0038" "ka33a000.agf">
+"You know, could you talk to me a little less
+ obviously?"
 #
 <sprite "ta02a000.agf" 4 4 11>
-<name "マクドゥ" "!ZA0425">
-「ん？
-　十分、配慮したつもりだが？」
+<name "Macdo" "!ZA0425">
+"Hm?
+ I thought I was being considerate enough."
 #
-<name "トージョ" "!KA0039" "ka33a000.agf">
-「あんな風におおっぴらにアンタに呼ばれて、素直
-　に従ってたら俺がアンタ側についたってバレるだ
-　ろ」
+<name "Tojo" "!KA0039" "ka33a000.agf">
+"When you just talk to me out in public like
+ it's nothing, and I jump at your call, 
+ people are gonna find out that I'm on your
+ side."
 #
 <sprite "ta02a001.agf" 4 4 12>
-<name "マクドゥ" "!ZA0426">
-「それに問題があるのか？」
+<name "Macdo" "!ZA0426">
+"Is that a problem?"
 #
-<name "トージョ" "!KA0040" "ka33a000.agf">
-「万が一を考えたら用心はしたいし、これからの情
-　報収集に支障がでる」
+<name "Tojo" "!KA0040" "ka33a000.agf">
+"Better safe than sorry, and it might get in
+ the way of gathering information later."
 #
-<name "トージョ" "!KA0041" "ka33a000.agf">
-「前も言ったろ。
-　アイツはそれなりに人気者なんだ」
+<name "Tojo" "!KA0041" "ka33a000.agf">
+"Like I said, he's a popular guy."
 #
-<name "トージョ" "!KA0042" "ka33a000.agf">
-「俺に情報を出すのを渋るヤツが出てきてもおかし
-　くないんだ」
+<name "Tojo" "!KA0042" "ka33a000.agf">
+"It wouldn't be funny if somebody was 
+ reluctant to talk to me about him cause of 
+ you."
 #
 <sprite "ta02a028.agf" 4 4 12>
-<name "マクドゥ" "!ZA0427">
-「なるほど。
-　わかった。
-　今後はもう少し配慮しよう」
+<name "Macdo" "!ZA0427">
+"I see.
+ Very well.
+ I'll be more careful in the future."
 #
 <sprite "ta02a001.agf" 4 4 12>
-<name "マクドゥ" "!ZA0428">
-「しかし、今の言動、気に入らんな」
+<name "Macdo" "!ZA0428">
+"But I'm not sure I like what you just said."
 #
-<name "トージョ" "!KA0043" "ka33a000.agf">
-「ん？」
+<name "Tojo" "!KA0043" "ka33a000.agf">
+"Hm?"
 #
 <sprite "ta02a000.agf" 4 4 12>
-<name "マクドゥ" "!ZA0429">
-「万が一の用心が必要な事態とはなんだ？」
+<name "Macdo" "!ZA0429">
+"What is the situation that it is better to
+ be safe than sorry?"
 #
-<name "トージョ" "!KA0045" "ka33a000.agf">
-「そりゃ、ダークスを蹴落とすのに失敗して、アン
-　タがここから追い出された時って事だよ」
+<name "Tojo" "!KA0045" "ka33a000.agf">
+"If you don't manage to kick him out and
+ you're the one that gets chased out of here."
 #
-<name "トージョ" "!KA0046" "ka33a000.agf">
-「アンタに協力したのがバレてたら、俺は終わりだ
-　ろ。
-　アイツ、女には優しいけど、男には超厳しいんだ
-　ぜ」
+<name "Tojo" "!KA0046" "ka33a000.agf">
+"If it comes out that I worked with you, then
+ I'm finished.
+ He's nice to women, but a merciless beast to
+ men."
 #
 <sprite "ta02a004.agf" 4 4 12>
-<name "マクドゥ" "!ZA0430">
-「なるほど。
-　しかし、それは無用な心配だな」
+<name "Macdo" "!ZA0430">
+"I see, but that's a needless concern."
 #
-<name "トージョ" "!KA0047" "ka33a000.agf">
-「ん？
-　自分は失敗しないって事か？」
+<name "Tojo" "!KA0047" "ka33a000.agf">
+"Hm?
+ You think you're not going to fail?"
 #
 <sprite "ta02a005.agf" 4 4 12>
-<name "マクドゥ" "!ZA0431">
-「いや、違う。
-　万が一の事態になった時は、お前がダークスの擁
-　護をしたと言ってやる。
-　なら、私に近付いていても問題なかろう」
+<name "Macdo" "!ZA0431">
+"No, not that.
+ In the unlikely event that it happens, I will
+ say that you defended him, so there will not
+ be any issues for us to be associated."
 #
-<name "トージョ" "!KA0048" "ka33a000.agf">
-「本当か」
+<name "Tojo" "!KA0048" "ka33a000.agf">
+"Really?"
 #
 <sprite "ta02a004.agf" 4 4 12>
-<name "マクドゥ" "!ZA0432">
-「ああ。
-　だから、遠慮せずに情報を渡せ」
+<name "Macdo" "!ZA0432">
+"Yes, so don't hesitate to give me any
+ information you have."
 #
-<name "トージョ" "!KA0049" "ka33a000.agf">
-「お、おう」
+<name "Tojo" "!KA0049" "ka33a000.agf">
+"R-Right."
 #
 <removesprite -1 11>
 <exit>
 :9663
 <music 39>
 <background "bg002a0.agf" 10>
-<name "トージョ" "!KA0050" "ka33a000.agf">
-「無理無理無理、もう精神が持たない！」
+<name "Tojo" "!KA0050" "ka33a000.agf">
+"I can't do it! I can't do it! I can'd do it!
+ I can't take this anymore!"
 #
-<name "ゴラン" "!CA0026" "ka32a000.agf">
-「もう少し、頑張れ」
+<name "Golan" "!CA0026" "ka32a000.agf">
+"Just hang in there a little longer."
 #
-<name "メリル" "!HA0069" "ka12a000.agf">
-「お願いします」
+<name "Meryl" "!HA0069" "ka12a000.agf">
+"Please."
 #
-<name "トージョ" "!KA0051" "ka33a000.agf">
-「いや、かなり厳しいよ。
-　あのマクドゥっての、警戒は絶対に解かないって
-　感じだし、俺の言葉一つ一つを吟味するんだから」
+<name "Tojo" "!KA0051" "ka33a000.agf">
+"No way, it's so rough.
+ It feels like I'm never going to get past
+ Macdo's guard. It's like she picks apart
+ every single word I say."
 #
-<name "トージョ" "!KA0052" "ka33a000.agf">
-「大体、俺がマクドゥ側についたって設定、おかし
-　くない？
-　それなりに魔王様と仲良かったって評判があると
-　思うんだけど」
+<name "Tojo" "!KA0052" "ka33a000.agf">
+"And isn't it weird for me to pretend to be
+ on her side?
+ I thought I had the reputation of being one
+ of the Overlord's best friends."
 #
-<name "ゴラン" "!CA0027" "ka32a000.agf">
-「そういうな」
+<name "Golan" "!CA0027" "ka32a000.agf">
+"It has to be like this."
 #
-<name "ゴラン" "!CA0028" "ka32a000.agf">
-「元天界の奴等は魔王様によって寝返ったのだから、
-　裏切るのはおかしいし、エカテーはまあ、あれだ
-　から無理だろ」
+<name "Golan" "!CA0028" "ka32a000.agf">
+"All the angels betrayed their side for him,
+ so it's be weird to betray him, and Ekate,
+ well, she's obviously impossible."
 #
-<name "ゴラン" "!CA0029" "ka32a000.agf">
-「ロギウスはそれなりに適任だが、本気で裏切る可
-　能性があるから駄目だ」
+<name "Golan" "!CA0029" "ka32a000.agf">
+"Logius might work for this, but she's not an
+ option because she might genuinely betray
+ him."
 #
-<name "ゴラン" "!CA0030" "ka32a000.agf">
-「で、俺や迷宮総長は立場的に裏切るとフォーゼロッ
-　テ宮の運営に支障が出る。
-　てか、出さないと裏切った事にならない。
-　残っているのはお前だけだ」
+<name "Golan" "!CA0030" "ka32a000.agf">
+"And it'd be a problem running Forzelotte's
+ Shrine if me or the Dungeon master betrayed
+ him, so the only one left who can safely be a 
+ convincing traitor is you."
 #
-<name "トージョ" "!KA0053" "ka33a000.agf">
-「俺が裏切っても支障が出ると思うんですけど」
+<name "Tojo" "!KA0053" "ka33a000.agf">
+"I feel like it'd be a problem if I betrayed
+ him too though."
 #
-<name "メリル" "!HA0070" "ka12a000.agf">
-「支障が最低限になるよう、頑張っています」
+<name "Meryl" "!HA0070" "ka12a000.agf">
+"I'm doing my best to minimize any issues."
 #
-<name "トージョ" "!KA0054" "ka33a000.agf">
-「うう……」
+<name "Tojo" "!KA0054" "ka33a000.agf">
+"Oohh..."
 #
-<name "ゴラン" "!CA0031" "ka32a000.agf">
-「トージョ、お前の活躍。
-　期待している」
+<name "Golan" "!CA0031" "ka32a000.agf">
+"Tojo, we're counting on your results."
 #
-<name "メリル" "!HA0071" "ka12a000.agf">
-「魔王様が戻ってきたら、頑張ったって報告します
-　から」
+<name "Meryl" "!HA0071" "ka12a000.agf">
+"When the Overlord comes back, I'll report
+ how hard you worked."
 #
-<name "トージョ" "!KA0055" "ka33a000.agf">
-「ぜ、絶対だからな」
+<name "Tojo" "!KA0055" "ka33a000.agf">
+"Y-You better."
 #
 <exit>
 :9D51
 <music 39>
 <background "bg002a0.agf" 10>
 <sprite "ta12a001.agf" 4 4 11>
-<name "メリル" "!HA0072">
-「ふう。
-　んーーー」
+<name "Meryl" "!HA0072">
+"Whew.
+ Mmmmmmmmm..."
 #
-<name "トージョ" "!KA0056" "ka33a000.agf">
-「お疲れ」
+<name "Tojo" "!KA0056" "ka33a000.agf">
+"Working hard?"
 #
 <sprite "ta12a003.agf" 4 4 12>
-<name "メリル" "!HA0073">
-「ああ、失礼しました。
-　なにか？」
+<name "Meryl" "!HA0073">
+"Ah, excuse me.
+ Can I help you?"
 #
-<name "トージョ" "!KA0057" "ka33a000.agf">
-「いくつか情報。
-　そっちに渡すから、好きに使ってくれ」
+<name "Tojo" "!KA0057" "ka33a000.agf">
+"I had some information to give you.
+ Use however you want."
 #
 <sprite "ta12a004.agf" 4 4 12>
-<name "メリル" "!HA0074">
-「ありがとうございます」
+<name "Meryl" "!HA0074">
+"Thank you."
 #
-<name "トージョ" "!KA0058" "ka33a000.agf">
-「で、エカテーが魔王様の所で見つかったってのは
-　本当か？」
+<name "Tojo" "!KA0058" "ka33a000.agf">
+"So, is it true Ekate was found at the
+ Overlord's place?"
 #
 <sprite "ta12a005.agf" 4 4 12>
-<name "メリル" "!HA0075">
-「ええ。
-　魔王様が管理している迷宮に隠れていたって感じ
-　ですね」
+<name "Meryl" "!HA0075">
+"Yes.
+ It seems like she was hiding in the dungeon
+ that he's managing right now."
 #
-<name "トージョ" "!KA0059" "ka33a000.agf">
-「あー、正確な情報だったか。
-　これ、マクドゥに伝えた方が良いかな？」
+<name "Tojo" "!KA0059" "ka33a000.agf">
+"Aah, so it was true.
+ Should I pass that along to Macdo?"
 #
 <sprite "ta12a003.agf" 4 4 12>
-<name "メリル" "!HA0076">
-「いずれバレる事です。
-　なら、トージョの好感度ＵＰに使えば良いかと」
+<name "Meryl" "!HA0076">
+"She'll find out sooner or later.
+ So it'd be a good excuse to score you some
+ good will."
 #
-<name "トージョ" "!KA0060" "ka33a000.agf">
-「好感度じゃなく、信頼度な」
+<name "Tojo" "!KA0060" "ka33a000.agf">
+"I don't want good will.
+ I want her trust."
 #
-<name "トージョ" "!KA0061" "ka33a000.agf">
-「俺、マクドゥは全然好みじゃないから」
+<name "Tojo" "!KA0061" "ka33a000.agf">
+"I don't like her one bit."
 #
 <sprite "ta12a004.agf" 4 4 12>
-<name "メリル" "!HA0077">
-「そう言っていたのに、いつの間にやら……」
+<name "Meryl" "!HA0077">
+"You say that now, but before you know it..."
 #
-<name "トージョ" "!KA0062" "ka33a000.agf">
-「ないない。
-　じゃ、まー、適当に伝えておくわ」
+<name "Tojo" "!KA0062" "ka33a000.agf">
+"No way in hell.
+ Okay, well, I'll make sure she knows."
 #
 <sprite "ta12a003.agf" 4 4 12>
-<name "メリル" "!HA0078">
-「よろしくお願いします」
+<name "Meryl" "!HA0078">
+"Thank you very much."
 #
 <removesprite -1 11>
 <exit>
 :A387
 <music 39>
 <background "bg002a0.agf" 10>
-<name "トージョ" "!KA0063" "ka33a000.agf">
-「あー、仲直りしちゃいましたか」
+<name "Tojo" "!KA0063" "ka33a000.agf">
+"Aah, so you patched things up?"
 #
 <sprite "ta02a016.agf" 4 4 11>
-<name "マクドゥ" "!ZA0433">
-「すまない」
+<name "Macdo" "!ZA0433">
+"Sorry."
 #
-<name "マクドゥ" "!ZA0434">
-「これまでの情報提供には、本当に感謝している。
-　今後は出来る限りの事をしよう」
+<name "Macdo" "!ZA0434">
+"I really am grateful for everything you told
+ me. I hope we can work together in the
+ future."
 #
-<name "マクドゥ" "!ZA0435">
-「もちろん、お前が不利になるような発言をダーク
-　ス様にする気もない。
-　なんだったら、お前を持ち上げるように言っても
-　構わない」
+<name "Macdo" "!ZA0435">
+"Of course, I don't intend to say anything to
+ Darx that would reflect poorly on you.
+ If anything, I wouldn't mind telling him
+ how helpful and supportive you've been."
 #
 <sprite "ta02a017.agf" 4 4 12>
-<name "マクドゥ" "!ZA0436">
-「これで許してくれ」
+<name "Macdo" "!ZA0436">
+"So let's put it behind us."
 #
-<name "トージョ" "!KA0064" "ka33a000.agf">
-「え？
-　あ、は、はい、じゃあ、それで……
-　よろしくお願いします」
+<name "Tojo" "!KA0064" "ka33a000.agf">
+"Huh?
+ Oh, y-yeah, then, okay...
+ Thank you."
 #
 <removesprite -1 11>
-　……
+...
 #
-<name "トージョ" "!KA0065" "ka33a000.agf">
-「りょ、良心が……痛む」
+<name "Tojo" "!KA0065" "ka33a000.agf">
+"M-My conscience... hurts."
 #
-　……
+...
 #
 <sprite "ta08a020.agf" 4 4 11>
-<name "ラキア" "!ZC0312">
-「マクドゥ様。
-　トージョ様をからかうのはお止めください」
+<name "Rakia" "!ZC0312">
+"Macdo, please stop teasing him."
 #
 <removesprite -1 11>
 <sprite "ta08a020.agf" 2 5 11>
 <sprite "ta02a028.agf" 6 4 11>
-<name "マクドゥ" "!ZA0437">
-「そう怒るな。
-　向こうはこちらを騙そうとしていたのだ」
+<name "Macdo" "!ZA0437">
+"Don't be mad.
+ He's the one who lied to me first."
 #
 <sprite "ta02a004.agf" 6 4 12>
-<name "マクドゥ" "!ZA0438">
-「これぐらいは、許される」
+<name "Macdo" "!ZA0438">
+"I'm allowed to do at least this much."
 #
 <sprite "ta08a016.agf" 2 5 12>
-<name "ラキア" "!ZC0313">
-「もう……かなり早い段階で気付いていたクセに」
+<name "Rakia" "!ZC0313">
+"Honestly...
+ You realized what he was doing right away
+ too."
 #
 <sprite "ta02a026.agf" 6 4 12>
-<name "マクドゥ" "!ZA0439">
-「ふふふ」
+<name "Macdo" "!ZA0439">
+"Heheheh..."
 #
 <removesprite -1 11>
 <exit>
@@ -1891,36 +1952,36 @@
 <music 11>
 <background "bg013a0.agf" 10>
 <sprite "ta04a000.agf" 4 4 11>
-<name "ルーアルテ" "!RA5000">
-「良い天気」
+<name "Rualtei" "!RA5000">
+"A fine day."
 #
 <sprite "ta04a021.agf" 4 4 12>
-<name "ルーアルテ" "!RA5001">
-「こんな日は……」
+<name "Rualtei" "!RA5001">
+"On days like this..."
 #
 <sprite "ta04a006.agf" 4 4 12>
-<name "ルーアルテ" "!RA5002">
-「武器の手入れね」
+<name "Rualtei" "!RA5002">
+"We take care of our weapons."
 #
 <removesprite -1 11>
-　……
+...
 #
 <sprite "ta02a015.agf" 4 4 11>
-<name "マクドゥ" "!ZA5000">
-「……あれは、覇王鎚」
+<name "Macdo" "!ZA5000">
+"...That was the Dynast's Mace."
 #
 <sprite "ta02a014.agf" 4 4 12>
-<name "マクドゥ" "!ZA5001">
-「なんで、あんな物が……」
+<name "Macdo" "!ZA5001">
+"What could it possibly be doing here?"
 #
 <removesprite -1 11>
 <exit>
 :AB9B
 <music 11>
 <background "bg008a0.agf" 10>
-　……マクドゥを見つけられなかった。
+...Macdo was nowhere to be found.
 #
-　残念。
+Too bad.
 #
 <exit>
 \x78
