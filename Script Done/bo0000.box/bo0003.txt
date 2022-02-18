@@ -2318,7 +2318,7 @@ Another day later...
 <sprite "ta10a005.agf" 4 4 12>
 <name "Forzelotte" "!XA0091">
 "I only have the good times thanks to 
- Filiane and Kasha."
+ Filliane and Kasha."
 #
 <name "Darx">
 "Right?"
