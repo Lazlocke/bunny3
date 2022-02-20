@@ -15,41 +15,40 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta01a000.agf" 4 4 11>
-<name "ソフィア" "!ZB0684">
-「魔王様。
-　マクドゥ様から達成条件が示されました」
+<name "Sofia" "!ZB0684">
+"Overlord, Macdo has given us our new goals."
 #
 <sprite "ta01a001.agf" 4 4 12>
-<name "ソフィア" "!ZB0685">
-「このようになっております」
+<name "Sofia" "!ZB0685">
+"Here's what they are."
 #
-<name "ダークス">
-「なるほど。
-　とりあえず、これを用意できれば問題無しって事
-　だな」
+<name "Darx">
+"I see.
+ So if we can get this, then all is good?"
 #
 <sprite "ta01a024.agf" 4 4 12>
-<name "ソフィア" "!ZB0686">
-「はい。
-　ああ、でも一回達成しただけでは流石に……」
+<name "Sofia" "!ZB0686">
+"Yes.
+ Oh, but it's not just a one time thing..."
 #
-<name "ダークス">
-「わかっている。
-　何度かする必要があるんだな」
+<name "Darx">
+"I know.
+ I'll need to go through this multiple times."
 #
 <sprite "ta01a004.agf" 4 4 12>
-<name "ソフィア" "!ZB0687">
-「はい」
+<name "Sofia" "!ZB0687">
+"Yes."
 #
 <sprite "ta01a005.agf" 4 4 12>
-<name "ソフィア" "!ZB0688">
-「この達成条件には、ラキア様も関わっている筈な
-　ので、そうそう無茶は言って来ないと思います。
-　頑張りましょう」
+<name "Sofia" "!ZB0688">
+"Rakia helped decided these conditions, so I
+ think they should usually be pretty 
+ reasonable.
+ Good luck."
 #
-<name "ダークス">
-「わかった。
-　これを目標に頑張っていこう」
+<name "Darx">
+"All right.
+ Let's all work hard."
 #
 <removesprite -1 11>
 <exit>
@@ -57,13 +56,13 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta01a004.agf" 4 4 11>
-<name "ソフィア" "!ZB0706">
-「次の達成条件です」
+<name "Sofia" "!ZB0706">
+"Here is the next goal."
 #
 <sprite "ta01a005.agf" 4 4 12>
-<name "ソフィア" "!ZB0707">
-「街を大きくして、どんどんさっさとクリアしちゃ
-　いましょう！」
+<name "Sofia" "!ZB0707">
+"Let's make the city bigger and get clearing
+ it right away!"
 #
 <removesprite -1 11>
 <exit>
@@ -71,19 +70,20 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta01a004.agf" 4 4 11>
-<name "ソフィア" "!ZB0708">
-「次の達成条件が届きました」
+<name "Sofia" "!ZB0708">
+"Your next goal is here."
 #
 <sprite "ta01a024.agf" 4 4 12>
-<name "ソフィア" "!ZB0709">
-「少し難しそうですね」
+<name "Sofia" "!ZB0709">
+"This looks a little difficult."
 #
-<name "ダークス">
-「なーに、これぐらい、軽くクリアしてやるさ」
+<name "Darx">
+"Oh come on.
+ I'll have it done, no sweat."
 #
 <sprite "ta01a033.agf" 4 4 12>
-<name "ソフィア" "!ZB0710">
-「おお、頼もしい」
+<name "Sofia" "!ZB0710">
+"Ooh, sounding confident."
 #
 <removesprite -1 11>
 <exit>
@@ -91,24 +91,26 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta01a024.agf" 4 4 11>
-<name "ソフィア" "!ZB0711">
-「次の達成条件ですが……厳しいですね」
+<name "Sofia" "!ZB0711">
+"Here's your next goal, but... it'll be
+ tough."
 #
-<name "ダークス">
-「街だけじゃなく、外にも頼らないと駄目か」
+<name "Darx">
+"We might have to rely on resources outside
+ the city."
 #
 <sprite "ta01a004.agf" 4 4 12>
-<name "ソフィア" "!ZB0712">
-「ですね。
-　というか、多分、それも込みでの達成条件ではな
-　いかと？」
+<name "Sofia" "!ZB0712">
+"Yeah.
+ Maybe that's assumed for achieving this goal
+ though?"
 #
-<name "ダークス">
-「まあ、頑張るだけだ」
+<name "Darx">
+"Well, we'll just have to work hard."
 #
 <sprite "ta01a005.agf" 4 4 12>
-<name "ソフィア" "!ZB0713">
-「お願いします」
+<name "Sofia" "!ZB0713">
+"Please."
 #
 <removesprite -1 11>
 <exit>
@@ -116,49 +118,48 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta01a024.agf" 4 4 11>
-<name "ソフィア" "!ZB0714">
-「次の達成条件が決まりましたが……
-　かなり厳しいですね」
+<name "Sofia" "!ZB0714">
+"Your next goal's been chosen...
+ It's a pretty hard one."
 #
-<name "ダークス">
-「そうなのか？」
+<name "Darx">
+"Really?"
 #
 <sprite "ta01a004.agf" 4 4 12>
-<name "ソフィア" "!ZB0715">
-「はい。
-　ですが、私は魔王様を信じています。
-　頑張ってください」
+<name "Sofia" "!ZB0715">
+"Yes, but I believe in you, Overlord.
+ Good luck."
 #
 <removesprite -1 11>
 <exit>
 :AD1
 <music 3>
 <background "bg010a0.agf" 10>
-<name "ダークス">
-「そういえばソフィア」
+<name "Darx">
+"Hey, Sofia."
 #
 <sprite "ta01a004.agf" 4 4 11>
-<name "ソフィア" "!ZB0716">
-「なんですか？」
+<name "Sofia" "!ZB0716">
+"What is it?"
 #
-<name "ダークス">
-「後、どれだけ条件をクリアすれば、俺の能力を認
-　めて貰えるんだ？」
+<name "Darx">
+"How many more goals do I need to meet until
+ I've proven myself?"
 #
 <sprite "ta01a033.agf" 4 4 12>
-<name "ソフィア" "!ZB0717">
-「そうですね。
-　あと、これだけですね」
+<name "Sofia" "!ZB0717">
+"Let's see.
+ After that, there's just this."
 #
-<name "ダークス">
-「……なるほど」
+<name "Darx">
+"...I see."
 #
 <sprite "ta01a004.agf" 4 4 12>
-<name "ソフィア" "!ZB0718">
-「頑張ってください」
+<name "Sofia" "!ZB0718">
+"Good luck."
 #
-<name "ダークス">
-「ああ」
+<name "Darx">
+"Yeah."
 #
 <removesprite -1 11>
 <exit>
