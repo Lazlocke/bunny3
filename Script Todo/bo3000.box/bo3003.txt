@@ -1603,7 +1603,7 @@ to shove.
 <music 5>
 <background "bg011a0.agf" 10>
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!AC0307">
+<name "Company Maid" "!AC0307">
 「お身体を休めるのも大事です。
 　ごゆっくり」
 #

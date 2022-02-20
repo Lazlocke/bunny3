@@ -21,21 +21,21 @@
 <music 4>
 <background "bg009a0.agf" 10>
 <sprite "ta34b000.agf" 4 4 11>
-<name "商会メイド" "!AC0278">
+<name "Company Maid" "!AC0278">
 「いらっしゃいませ」
 #
-<name "ダークス">
+<name "Darx">
 「……見慣れた顔だな」
 #
-<name "商会メイド" "!AC0279">
+<name "Company Maid" "!AC0279">
 「はい。
 　フォーゼロッテ宮支店からの応援ですので」
 #
-<name "ダークス">
+<name "Darx">
 「頼りにしている」
 #
 <sprite "ta34b004.agf" 4 4 12>
-<name "商会メイド" "!AC0280">
+<name "Company Maid" "!AC0280">
 「ありがとうございます」
 #
 <removesprite -1 11>
@@ -44,15 +44,15 @@
 <music 4>
 <background "bg009a0.agf" 10>
 <sprite "ta01a004.agf" 4 4 11>
-<name "ソフィア" "!ZB0977">
+<name "Sofia" "!ZB0977">
 「魔王様。
 　いらっしゃいませ。
 　お買い物ですか？」
 #
-<name "ダークス">
+<name "Darx">
 「ああ、商品リストを見せてくれ」
 #
-<name "ソフィア" "!ZB0978">
+<name "Sofia" "!ZB0978">
 「まだ少ないですが……」
 #
 <removesprite -1 11>
@@ -61,7 +61,7 @@
 <music 4>
 <background "bg009a0.agf" 10>
 <sprite "ta01a004.agf" 4 4 11>
-<name "ソフィア" "!ZB0979">
+<name "Sofia" "!ZB0979">
 「魔王様。
 　商品リストが更新されました。
 　よろしければ、見て行ってください」

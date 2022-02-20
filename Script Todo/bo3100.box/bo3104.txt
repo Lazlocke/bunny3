@@ -216,17 +216,17 @@
 <music 4>
 <background "bg009a0.agf" 10>
 <sprite "ta01a001.agf" 4 4 11>
-<name "ソフィア" "!ZB0865">
+<name "Sofia" "!ZB0865">
 「治療所の医者は、厳選するように」
 #
 <sprite "ta01a000.agf" 4 4 12>
-<name "ソフィア" "!ZB0866">
+<name "Sofia" "!ZB0866">
 「色々とトラブルの元ですから」
 #
 <removesprite -1 11>
 <sprite "ta01a000.agf" 2 5 11>
 <sprite "ta34a000.agf" 6 4 11>
-<name "商会メイド" "!PC0318">
+<name "Company Maid" "!PC0318">
 「承知しました」
 #
 <removesprite -1 11>
@@ -235,22 +235,22 @@
 <music 4>
 <background "bg009a0.agf" 10>
 <sprite "ta34a001.agf" 4 4 11>
-<name "商会メイド" "!PC0319">
+<name "Company Maid" "!PC0319">
 「治療所を作っても、医者が……」
 #
-<name "商会メイド" "!PC0320">
+<name "Company Maid" "!PC0320">
 「フォーゼロッテ宮に頼っても、大丈夫かなぁ」
 #
 <removesprite -1 11>
 <sprite "ta08a004.agf" 4 4 11>
-<name "ラキア" "!ZC0471">
+<name "Rakia" "!ZC0471">
 「その辺りに制限をつけるほど、馬鹿ではありません。
 　存分に頼ってください」
 #
 <removesprite -1 11>
 <sprite "ta08a004.agf" 2 5 11>
 <sprite "ta34a000.agf" 6 4 11>
-<name "商会メイド" "!PC0321">
+<name "Company Maid" "!PC0321">
 「よ、よろしくお願いします」
 #
 <removesprite -1 11>
@@ -318,14 +318,14 @@
 <name "大工の作業員" "!ZE0088">
 「へーい、へいへい」
 #
-<name "ソフィア" "!ZB0867">
+<name "Sofia" "!ZB0867">
 「何やってるんですか？」
 #
 <name "大工の棟梁" "!ZG0049">
 「見てわかるだろ。
 　塀を作っているんだ」
 #
-<name "ソフィア" "!ZB0868">
+<name "Sofia" "!ZB0868">
 「いや、それはわかるんですけど……
 　なんでもないです」
 #
@@ -387,17 +387,17 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!PC0335">
+<name "Company Maid" "!PC0335">
 「高級住宅の建設、順調ですね」
 #
-<name "ダークス">
+<name "Darx">
 「順調だが……ソフィアが手伝っているのに、お前
 　は手伝わなくて良いのか？」
 #
-<name "商会メイド" "!PC0336">
+<name "Company Maid" "!PC0336">
 「適材適所という言葉があります」
 #
-<name "ダークス">
+<name "Darx">
 「むう」
 #
 <removesprite -1 11>
@@ -406,23 +406,23 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!PC0337">
+<name "Company Maid" "!PC0337">
 「高級住宅の建設が始まったと同時に、入居希望者
 　が集まり始めています」
 #
-<name "ダークス">
+<name "Darx">
 「へぇ。
 　人気だな。
 　高級住宅は家賃を取るんだろ？」
 #
-<name "商会メイド" "!PC0338">
+<name "Company Maid" "!PC0338">
 「家賃を払う事が、一種のステータスになるよう、
 　努力してきましたから」
 #
-<name "ダークス">
+<name "Darx">
 「住民に、あまり負担を掛けるなよ」
 #
-<name "商会メイド" "!PC0339">
+<name "Company Maid" "!PC0339">
 「承知しております」
 #
 <removesprite -1 11>
@@ -479,26 +479,26 @@
 :375C
 <music 3>
 <background "bg010a0.agf" 10>
-<name "ダークス">
+<name "Darx">
 「豪邸じゃなきゃ、嫌だって種族も居るわけか」
 #
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!PC0344">
+<name "Company Maid" "!PC0344">
 「はい」
 #
 <sprite "ta34a006.agf" 4 4 12>
-<name "商会メイド" "!PC0345">
+<name "Company Maid" "!PC0345">
 「エリート意識が強いと言うか、なんと言うか……」
 #
 <sprite "ta34a000.agf" 4 4 12>
-<name "商会メイド" "!PC0346">
+<name "Company Maid" "!PC0346">
 「まあ、収入が増えるのでありがたいんですけどね」
 #
-<name "ダークス">
+<name "Darx">
 「確かにな」
 #
 <sprite "ta34a004.agf" 4 4 12>
-<name "商会メイド" "!PC0347">
+<name "Company Maid" "!PC0347">
 「ともかく、豪邸の建設、ありがとうございます」
 #
 <removesprite -1 11>
@@ -607,21 +607,21 @@
 :41C2
 <music 11>
 <background "bg013a0.agf" 10>
-<name "ダークス">
+<name "Darx">
 「人型じゃないのって、色々と大変だな」
 #
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!PC0370">
+<name "Company Maid" "!PC0370">
 「ええ、どうしても街は人型を基準にしていますから」
 #
-<name "ダークス">
+<name "Darx">
 「しかし、人型じゃなくても街の住民だ」
 #
-<name "商会メイド" "!PC0371">
+<name "Company Maid" "!PC0371">
 「承知しております。
 　必ず、満足できる住居にしてみせます」
 #
-<name "ダークス">
+<name "Darx">
 「頼んだ」
 #
 <removesprite -1 11>
@@ -636,15 +636,15 @@
 「べとべと、べと、べとぉ」
 #
 <sprite "ta34a006.agf" 4 4 11>
-<name "商会メイド" "!PC0372">
+<name "Company Maid" "!PC0372">
 「よ、要望が複雑過ぎて、受け止めきれない」
 #
 <sprite "ta34a005.agf" 4 4 12>
-<name "商会メイド" "!PC0373">
+<name "Company Maid" "!PC0373">
 「し、しかし、負けない！」
 #
 <sprite "ta34a004.agf" 4 4 12>
-<name "商会メイド" "!PC0374">
+<name "Company Maid" "!PC0374">
 「立派な住居を作ってみせる！」
 #
 <removesprite -1 11>
@@ -686,13 +686,13 @@
 「ん、あぁ」
 #
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!AC0246">
+<name "Company Maid" "!AC0246">
 「発注先、間違えた感じですよね」
 #
 <removesprite -1 11>
 <sprite "ta01a000.agf" 2 5 11>
 <sprite "ta34a000.agf" 6 4 11>
-<name "ソフィア" "!ZB0875">
+<name "Sofia" "!ZB0875">
 「だね」
 #
 <removesprite -1 11>
@@ -755,7 +755,7 @@
 <name "クワを持つ住民" "!GB0169">
 「ど、どうなるのかしら！」
 #
-<name "商会メイド" "!PC0380" "ka34d000.agf">
+<name "Company Maid" "!PC0380" "ka34d000.agf">
 「どうにもなりません。
 　ほら、遊んでないで作業、作業」
 #
@@ -786,13 +786,13 @@
 「二人が出会ってしまった！
 　いったいどうなってしまうんだ！」
 #
-<name "商会メイド" "!PC0381" "ka34d000.agf">
+<name "Company Maid" "!PC0381" "ka34d000.agf">
 「畑を作るんですよ」
 #
 <name "事情通の住民" "!JA0063">
 「で、ですよねー」
 #
-<name "商会メイド" "!PC0382" "ka34d000.agf">
+<name "Company Maid" "!PC0382" "ka34d000.agf">
 「手伝うなら、作業着を貸し出しています。
 　あちらで受け取ってください」
 #
@@ -802,7 +802,7 @@
 <name "二毛作のＨＢ" "!UA0089">
 「俺も」
 #
-<name "商会メイド" "!PC0383" "ka34d000.agf">
+<name "Company Maid" "!PC0383" "ka34d000.agf">
 「では、作業を割り振ります。
 　頑張ってください」
 #
@@ -820,7 +820,7 @@
 「ダーク……シャドウさん？
 　が居ると思って来ました！」
 #
-<name "商会メイド" "!DC0280" "ka34d000.agf">
+<name "Company Maid" "!DC0280" "ka34d000.agf">
 「誰？
 　あの二人？」
 #
@@ -834,7 +834,7 @@
 <name "黄金畑のＤＳ" "!BC0101">
 「畑、作っちゃうぜ！」
 #
-<name "商会メイド" "!PC0385" "ka34d000.agf">
+<name "Company Maid" "!PC0385" "ka34d000.agf">
 「はい、頑張ってください」
 #
 <exit>
@@ -844,7 +844,7 @@
 <name "二毛作のＨＢ" "!UA0091">
 「畑が俺を呼んでいる！」
 #
-<name "商会メイド" "!PC0386" "ka34d000.agf">
+<name "Company Maid" "!PC0386" "ka34d000.agf">
 「はい、よろしくお願いします」
 #
 <exit>
@@ -949,7 +949,7 @@
 <music 4>
 <background "bg009a0.agf" 10>
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!PC0389">
+<name "Company Maid" "!PC0389">
 「果樹園の経営に興味があると？
 　色々と説明しますよ」
 #
@@ -957,7 +957,7 @@
 「さっそくだが、成果物は個人で販売しなきゃなら
 　んのか？」
 #
-<name "商会メイド" "!PC0390">
+<name "Company Maid" "!PC0390">
 「組合や街での買い取りを行っていますから、ご安
 　心ください。
 　もちろん、個人販売も可能ですよ」
@@ -966,14 +966,14 @@
 「そうか。
 　あと、不作時に関して……」
 #
-<name "商会メイド" "!PC0391">
+<name "Company Maid" "!PC0391">
 「はい。
 　不作時の貸付等、色々とプランがありまして……」
 #
 <removesprite -1 11>
 <music 3>
 <background "bg010a0.agf" 10>
-<name "ダークス">
+<name "Darx">
 「果樹園を作っても、経営してくれる者が居ないと
 　どうしようもないからなぁ」
 #
@@ -995,7 +995,7 @@
 :60D7
 <music 10>
 <background "ev002a00.agf" 10>
-<name "ソフィア" "!ZB0886">
+<name "Sofia" "!ZB0886">
 「手伝っちゃいますよー！」
 #
 <name "大工の作業員" "!ZE0124">
@@ -1033,11 +1033,11 @@
 <music 11>
 <background "bg013a0.agf" 10>
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!AC0248">
+<name "Company Maid" "!AC0248">
 「ここに集積場ですか。
 　悪くは無いと思います」
 #
-<name "ダークス">
+<name "Darx">
 「そう言って貰えると、助かる」
 #
 <removesprite -1 11>
@@ -1147,24 +1147,24 @@
 <music 4>
 <background "bg009a0.agf" 10>
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!AC0345">
+<name "Company Maid" "!AC0345">
 「新しく出来る商店にこちらとこちらの商品を任せ
 　て、魔王亭は手を引きましょう」
 #
 <removesprite -1 11>
 <sprite "ta01a004.agf" 2 5 11>
 <sprite "ta34a000.agf" 6 4 11>
-<name "ソフィア" "!ZB0894">
+<name "Sofia" "!ZB0894">
 「そうね。
 　そのように商店に伝えて。
 　ああ、でも手を引くのは緩やかにね」
 #
 <sprite "ta01a027.agf" 2 5 12>
-<name "ソフィア" "!ZB0895">
+<name "Sofia" "!ZB0895">
 「向こうが失敗した時、街への迷惑は最小限になる
 　ように」
 #
-<name "商会メイド" "!AC0318">
+<name "Company Maid" "!AC0318">
 「承知しました」
 #
 <removesprite -1 11>
@@ -1226,15 +1226,15 @@
 :71A7
 <music 10>
 <background "ev002a00.agf" 10>
-<name "ダークス">
+<name "Darx">
 「Ｈなお店を作るのを手伝う事に、恥ずかしさは無
 　いのか？」
 #
-<name "ソフィア" "!ZB0903">
+<name "Sofia" "!ZB0903">
 「なにをいまさら。
 　魔王様のお傍に居て、耐性が出来ました」
 #
-<name "ダークス">
+<name "Darx">
 「そっかー」
 #
 <exit>
@@ -1272,7 +1272,7 @@
 :748D
 <music 4>
 <background "bg009a0.agf" 10>
-<name "ダークス">
+<name "Darx">
 「Ｈなお店の情報、俺に回してくれるのは嬉しいけ
 　ど……
 　作れと言ってるの、俺だからな」
@@ -1281,13 +1281,13 @@
 「そ、そうか！
 　気付かなかった！」
 #
-<name "ダークス">
+<name "Darx">
 「ちなみに、オープン時のサービス券だ」
 #
 <name "親切な街の住民" "!ZF0118">
 「魔王様に永遠の忠誠を」
 #
-<name "ダークス">
+<name "Darx">
 「敵に女が居たら寝返る忠誠はいらないぞー」
 #
 <name "親切な街の住民" "!ZF0119">
@@ -1298,28 +1298,28 @@
 <music 4>
 <background "bg009a0.agf" 10>
 <sprite "ta01a004.agf" 4 4 11>
-<name "ソフィア" "!ZB0904">
+<name "Sofia" "!ZB0904">
 「スタジアムの建設により、娯楽の提供が可能に。
 　そのスタジアム内で行われる競技、イベントによ
 　る儲けを考えれば……」
 #
 <sprite "ta01a025.agf" 4 4 12>
-<name "ソフィア" "!ZB0905">
+<name "Sofia" "!ZB0905">
 「トントンぐらい？」
 #
 <removesprite -1 11>
 <sprite "ta01a025.agf" 2 5 11>
 <sprite "ta34a002.agf" 6 4 11>
-<name "商会メイド" "!AC0348">
+<name "Company Maid" "!AC0348">
 「ですね」
 #
 <sprite "ta01a033.agf" 2 5 12>
-<name "ソフィア" "!ZB0906">
+<name "Sofia" "!ZB0906">
 「トントンなら、ＧＯです！
 　遠慮なく作っちゃいましょう」
 #
 <sprite "ta34a000.agf" 6 4 12>
-<name "商会メイド" "!AC0349">
+<name "Company Maid" "!AC0349">
 「はい」
 #
 <removesprite -1 11>
@@ -1335,7 +1335,7 @@
 <removesprite -1 11>
 <sprite "ta34a000.agf" 2 4 11>
 <sprite "ta34b006.agf" 6 5 11>
-<name "商会メイド" "!AC0350">
+<name "Company Maid" "!AC0350">
 「魔王様のお考えです。
 　疑問を持つのは止めましょう」
 #
@@ -1497,7 +1497,7 @@
 :861B
 <music 10>
 <background "ev002a00.agf" 10>
-<name "ソフィア" "!ZB0907">
+<name "Sofia" "!ZB0907">
 「温泉って、作れるんですか？」
 #
 <name "大工の作業員" "!JA0120">
@@ -1508,26 +1508,26 @@
 <name "大工の作業員" "!JA0122">
 「俺達が作るのは脱衣所とかの周辺施設だ」
 #
-<name "ソフィア" "!ZB0908">
+<name "Sofia" "!ZB0908">
 「なるほど」
 #
 <name "大工の作業員" "!JA0123">
 「お嬢ちゃんは、女性目線で何か気付いた事があっ
 　たら言ってくれ」
 #
-<name "ソフィア" "!ZB0909">
+<name "Sofia" "!ZB0909">
 「了解ですが……」
 #
 <name "大工の作業員" "!JA0124">
 「なにかあるのか？」
 #
-<name "ソフィア" "!ZB0910">
+<name "Sofia" "!ZB0910">
 「あの建物、更衣室にしては大きいですよね」
 #
 <name "大工の作業員" "!JA0125">
 「宿泊施設だ」
 #
-<name "ソフィア" "!ZB0911">
+<name "Sofia" "!ZB0911">
 「……えっと」
 #
 <name "大工の作業員" "!JA0126">
@@ -1538,13 +1538,13 @@
 <name "大工の作業員" "!JA0127">
 「それに関しては気にするな」
 #
-<name "ソフィア" "!ZB0912">
+<name "Sofia" "!ZB0912">
 「どうして？」
 #
 <name "大工の作業員" "!JA0128">
 「ギュンギュスカー商会、本社からの指示だから」
 #
-<name "ソフィア" "!ZB0913">
+<name "Sofia" "!ZB0913">
 「嫌がらせ？」
 #
 <name "大工の作業員" "!JA0129">
@@ -1552,7 +1552,7 @@
 　いだろ。
 　嫌がらせなら、もっと高度にやる」
 #
-<name "ソフィア" "!ZB0914">
+<name "Sofia" "!ZB0914">
 「た、確かに」
 #
 <name "大工の作業員" "!JA0130">
@@ -1560,14 +1560,14 @@
 　きっと、俺達には理解できない何か考えがあるん
 　だろ」
 #
-<name "ソフィア" "!ZB0915">
+<name "Sofia" "!ZB0915">
 「ですね」
 #
 <name "大工の作業員" "!JA0131">
 「まあ、視察に来た時の宿泊施設が欲しいだけかも
 　しれないけどな」
 #
-<name "ソフィア" "!ZB0916">
+<name "Sofia" "!ZB0916">
 「あはは……ありえる」
 #
 <exit>
@@ -1612,19 +1612,19 @@
 :8F34
 <music 10>
 <background "ev002a00.agf" 10>
-<name "商会メイド" "!DC0330">
+<name "Company Maid" "!DC0330">
 「公園の発注でしたよね」
 #
 <name "大工の棟梁" "!ZG0116">
 「ああ」
 #
-<name "商会メイド" "!DC0331">
+<name "Company Maid" "!DC0331">
 「あの大きな城はなんですか？」
 #
 <name "大工の棟梁" "!ZG0117">
 「手が勝手にだな……」
 #
-<name "商会メイド" "!DC0332">
+<name "Company Maid" "!DC0332">
 「潰してください」
 #
 <name "大工の棟梁" "!ZG0118">
@@ -1883,7 +1883,7 @@
 　嬢ちゃん、アンタ、政治とか難しい仕事も抱えて
 　いるんだろ？」
 #
-<name "ソフィア" "!ZB0930">
+<name "Sofia" "!ZB0930">
 「ここの仕事も大事ですよー。
 　ああ、邪魔ならハッキリと言ってくださいよ」
 #
@@ -1895,14 +1895,14 @@
 「色気の無い仕事だから、歓迎さ。
 　でも、無理の無い程度にね」
 #
-<name "ソフィア" "!ZB0931">
+<name "Sofia" "!ZB0931">
 「はーい」
 #
 <exit>
 :A3F2
 <music 10>
 <background "ev002a00.agf" 10>
-<name "ソフィア" "!ZB0932">
+<name "Sofia" "!ZB0932">
 「建設、頑張ろー！」
 #
 <name "大工の作業員" "!ZE0227">
@@ -2013,27 +2013,27 @@
 #
 　……
 #
-<name "ソフィア" "!ZB0933">
+<name "Sofia" "!ZB0933">
 「良い親方ですね」
 #
 <name "大工の作業員" "!ZE0235">
 「ああ、それは認める」
 #
-<name "ソフィア" "!ZB0934">
+<name "Sofia" "!ZB0934">
 「なにか問題でも？」
 #
 <name "大工の作業員" "!ZE0236">
 「俺も、ああやって大工の道に引きずり込まれたん
 　だよなぁ」
 #
-<name "ソフィア" "!ZB0935">
+<name "Sofia" "!ZB0935">
 「あはは」
 #
 <exit>
 :AD23
 <music 10>
 <background "ev002a00.agf" 10>
-<name "ダークス">
+<name "Darx">
 「調子はどうだ？」
 #
 <name "大工の作業員" "!ZE0237">
@@ -2042,10 +2042,10 @@
 <name "大工の棟梁" "!ZG0157">
 「順調ですよ」
 #
-<name "ソフィア" "!ZB0936">
+<name "Sofia" "!ZB0936">
 「魔王様も手伝います？」
 #
-<name "ダークス">
+<name "Darx">
 「じゃあ、少しだけ。
 　邪魔なら早めに言ってくれよ」
 #
@@ -2055,7 +2055,7 @@
 　作業の種類は色々とありますから、邪魔者にはし
 　ません」
 #
-<name "ダークス">
+<name "Darx">
 「お、お手柔らかに」
 #
 　砂利の大きさを合わせるのは、なかなかの苦行だっ

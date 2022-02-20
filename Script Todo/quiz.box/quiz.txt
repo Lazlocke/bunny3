@@ -328,10 +328,10 @@
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x30\x00 :1966: 
 <name "クイズ担当メイド" "*" "ka34e000.agf">
 「学園長は誰？」
-<choice :10CE: "フォーゼロッテ" \x00\x00>
+<choice :10CE: "Forzelotte" \x00\x00>
 <choice :112B: "コゼロット" \x00\x00>
 <choice :112B: "ロギウス" \x00\x00>
-<choice :112B: "イザナ" \x00\x00>
+<choice :112B: "Izana" \x00\x00>
 #
 \x18 :46A6: 
 :1966
@@ -541,9 +541,9 @@
 <name "クイズ担当メイド" "*" "ka34e000.agf">
 「ダークスが温泉に入っている時、一緒に入ってい
 　るのは誰？」
-<choice :112B: "パニバーナ" \x00\x00>
-<choice :112B: "イザナ" \x00\x00>
-<choice :10CE: "ウルティニア" \x00\x00>
+<choice :112B: "Paniverna" \x00\x00>
+<choice :112B: "Izana" \x00\x00>
+<choice :10CE: "Ultinia" \x00\x00>
 <choice :112B: "メリル" \x00\x00>
 #
 \x18 :46A6: 
@@ -663,10 +663,10 @@
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x34\x00\x33\x00 :3324: 
 <name "クイズ担当メイド" "*" "ka34e000.agf">
 「帽子をかぶっているのは誰？」
-<choice :112B: "ラフィノー" \x00\x00>
-<choice :112B: "ナイン" \x00\x00>
-<choice :10CE: "ヒビ" \x00\x00>
-<choice :112B: "ヤーヌ" \x00\x00>
+<choice :112B: "Raffino" \x00\x00>
+<choice :112B: "Nein" \x00\x00>
+<choice :10CE: "Hibi" \x00\x00>
+<choice :112B: "Yahnu" \x00\x00>
 #
 \x18 :46A6: 
 :3324
@@ -753,10 +753,10 @@
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x35\x00\x32\x00 :39C3: 
 <name "クイズ担当メイド" "*" "ka34e000.agf">
 「魔王亭と名付けのは誰？」
-<choice :112B: "ダークス" \x00\x00>
-<choice :10CE: "ソフィア" \x00\x00>
-<choice :112B: "ラキア" \x00\x00>
-<choice :112B: "マクドゥ" \x00\x00>
+<choice :112B: "Darx" \x00\x00>
+<choice :10CE: "Sofia" \x00\x00>
+<choice :112B: "Rakia" \x00\x00>
+<choice :112B: "Macdo" \x00\x00>
 #
 \x18 :46A6: 
 :39C3
@@ -837,7 +837,7 @@
 <choice :112B: "ロギウス" \x00\x00>
 <choice :10CE: "メリル" \x00\x00>
 <choice :112B: "トージョ" \x00\x00>
-<choice :112B: "パニバーナ" \x00\x00>
+<choice :112B: "Paniverna" \x00\x00>
 #
 \x18 :46A6: 
 :402E
@@ -860,7 +860,7 @@
 <choice :10CE: "マリーアリス" \x00\x00>
 <choice :112B: "メリル" \x00\x00>
 <choice :112B: "コゼロット" \x00\x00>
-<choice :112B: "フォーゼロッテ" \x00\x00>
+<choice :112B: "Forzelotte" \x00\x00>
 #
 \x18 :46A6: 
 :4209

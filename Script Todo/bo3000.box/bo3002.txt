@@ -17,11 +17,11 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta01a024.agf" 4 4 11>
-<name "ソフィア" "!ZB0216">
+<name "Sofia" "!ZB0216">
 「壁からの攻撃があるなか、そういった事はしない
 　方が良いかと」
 #
-<name "ダークス">
+<name "Darx">
 「……確かにな」
 #
 <removesprite -1 11>

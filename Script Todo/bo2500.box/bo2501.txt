@@ -97,16 +97,16 @@
 <exit>
 :9BE
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "ダークス">
+<name "Darx">
 「っと、お前がアンゴラメイ種族のヤーヌか」
 #
-<name "ヤーヌ" "!NB0013" "ka24a007.agf">
+<name "Yahnu" "!NB0013" "ka24a007.agf">
 「問答無用。
 　お命、頂きます！」
 #
 　ヤーヌの目は、怒りに燃えている。
 #
-<name "ダークス">
+<name "Darx">
 「いいだろう。
 　返り討ちだ」
 #
@@ -114,44 +114,44 @@
 :AD8
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 
 <sprite "ta21a006.agf" 4 4 11>
-<name "イシュ" "!AB0013">
+<name "Ish" "!AB0013">
 「私の仲間を次々倒してる敵ってのは貴方の事ね」
 #
-<name "ダークス">
+<name "Darx">
 「……」
 #
 <sprite "ta21a007.agf" 4 4 12>
-<name "イシュ" "!AB0014">
+<name "Ish" "!AB0014">
 「ちょっと調子に乗ってるみたいだから、痛い目に
 　遭ってちょうだい」
 #
-<name "ダークス">
+<name "Darx">
 「サマキューのイシュだな」
 #
 <sprite "ta21a010.agf" 4 4 12>
-<name "イシュ" "!AB0015">
+<name "Ish" "!AB0015">
 「ん？
 　そうよ。
 　良く知っていたわね」
 #
-<name "ダークス">
+<name "Darx">
 「俺はお前を探していた」
 #
 <sprite "ta21a011.agf" 4 4 12>
-<name "イシュ" "!AB0016">
+<name "Ish" "!AB0016">
 「ん？
 　なにか用でもあった？」
 #
-<name "ダークス">
+<name "Darx">
 「ああ、街を燃やされた恨み。
 　晴らさせて貰うぞ」
 #
 <sprite "ta21a009.agf" 4 4 12>
-<name "イシュ" "!AB0017">
+<name "Ish" "!AB0017">
 「あはははは」
 #
 <sprite "ta21a007.agf" 4 4 12>
-<name "イシュ" "!AB0018">
+<name "Ish" "!AB0018">
 「やれるもんなら、どうぞ」
 #
 <removesprite -1 11>
@@ -159,11 +159,11 @@
 :E76
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 
 <sprite "ta22a009.agf" 4 4 11>
-<name "ナイン" "!QA0047">
+<name "Nein" "!QA0047">
 「も、もう逃げられない……」
 #
 <sprite "ta22a007.agf" 4 4 12>
-<name "ナイン" "!QA0048">
+<name "Nein" "!QA0048">
 「なら、た、戦うしかないわよね」
 #
 <name "ナインの部下" "!RB0047">
@@ -171,10 +171,10 @@
 　お供します」
 #
 <sprite "ta22a006.agf" 4 4 12>
-<name "ナイン" "!QA0049">
+<name "Nein" "!QA0049">
 「よろしく」
 #
-<name "ダークス">
+<name "Darx">
 「覚悟は決まったな。
 　行くぞ」
 #
@@ -182,35 +182,35 @@
 <exit>
 :1052
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "ダークス">
+<name "Darx">
 「……ん？」
 #
-<name "ヒビ" "!DB0007" "ka23a001.agf">
+<name "Hibi" "!DB0007" "ka23a001.agf">
 「私はヒビ」
 #
-<name "ダークス">
+<name "Darx">
 「ああ、連合の仲間か」
 #
-<name "ヒビ" "!DB0008" "ka23a000.agf">
+<name "Hibi" "!DB0008" "ka23a000.agf">
 「そう」
 #
-<name "ダークス">
+<name "Darx">
 「降伏しろ」
 #
-<name "ヒビ" "!DB0009" "ka23a007.agf">
+<name "Hibi" "!DB0009" "ka23a007.agf">
 「貴方に降った後、移住させられる。
 　それは受け入れられない」
 #
-<name "ヒビ" "!DB0010" "ka23a005.agf">
+<name "Hibi" "!DB0010" "ka23a005.agf">
 「ここは私達の場所」
 #
-<name "ダークス">
+<name "Darx">
 「そうか」
 #
-<name "ダークス">
+<name "Darx">
 「じゃあ、力尽くになるぞ」
 #
-<name "ヒビ" "!DB0011" "ka23a006.agf">
+<name "Hibi" "!DB0011" "ka23a006.agf">
 「構わない。
 　勝つのは私」
 #
@@ -222,7 +222,7 @@
 　敵がもうすぐそこまで来ています」
 #
 <sprite "ta20a017.agf" 4 4 11>
-<name "ラフィノー" "!EB0014">
+<name "Raffino" "!EB0014">
 「みんな、やられてしまったの」
 #
 <name "ラフィノーの部下" "!HC0026">
@@ -234,17 +234,17 @@
 　お逃げください」
 #
 <sprite "ta20a006.agf" 4 4 12>
-<name "ラフィノー" "!EB0015">
+<name "Raffino" "!EB0015">
 「嬉しい言葉ですが……もう手遅れのようです」
 #
-<name "ダークス">
+<name "Darx">
 「……見つけたぞ」
 #
 <name "ラフィノーの部下" "!HC0028">
 「ひっ」
 #
 <sprite "ta20a009.agf" 4 4 12>
-<name "ラフィノー" "!EB0016">
+<name "Raffino" "!EB0016">
 「我が勢力の命運、この一戦にあります！
 　掛かってください！」
 #
@@ -274,64 +274,64 @@
 <exit>
 :180E
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "ダークス">
+<name "Darx">
 「話し合い？」
 #
-<name "ネイマール" "!UA0015" "ka39a000.agf">
+<name "Neymal" "!UA0015" "ka39a000.agf">
 「うむ。
 　私はこの辺りの勢力を率いているネイマール。
 　ジューシーボディ種族だ」
 #
-<name "ネイマール" "!UA0016" "ka39a000.agf">
+<name "Neymal" "!UA0016" "ka39a000.agf">
 「暴力だけでは何も解決しない。
 　話し合いはどうだろう」
 #
-<name "ダークス">
+<name "Darx">
 「お前の所も連合に参加しているのか？」
 #
-<name "ネイマール" "!UA0017" "ka39a000.agf">
+<name "Neymal" "!UA0017" "ka39a000.agf">
 「している。
 　だが、それは弱小勢力が生き残る道だ。
 　参加しなければ、生存できなかった」
 #
-<name "ダークス">
+<name "Darx">
 「で、生き残る為に俺の街を攻撃したと？」
 #
-<name "ダークス">
+<name "Darx">
 「なら、こっちが生き残る為にお前らを殲滅しても
 　文句を言われる事はないな」
 #
-<name "ネイマール" "!UA0018" "ka39a000.agf">
+<name "Neymal" "!UA0018" "ka39a000.agf">
 「た、確かにその通りだが……」
 #
-<name "ダークス">
+<name "Darx">
 「なら、これは話し合いではなく、お前らの降伏交
 　渉だ」
 #
-<name "ダークス">
+<name "Darx">
 「こちらの条件は二つ。
 　一つ、俺に従え。
 　もう一つ、移住して俺の街の住人になれ」
 #
-<name "ダークス">
+<name "Darx">
 「降伏しないならお前を倒し、降伏する者が出てく
 　るまで続けてやろう」
 #
-<name "ネイマール" "!UA0019" "ka39a000.agf">
+<name "Neymal" "!UA0019" "ka39a000.agf">
 「…………お前達の力は理解している。
 　理解しているが、はいそうですかと降伏はできな
 　い」
 #
-<name "ネイマール" "!UA0020" "ka39a000.agf">
+<name "Neymal" "!UA0020" "ka39a000.agf">
 「したところで意味がない」
 #
-<name "ネイマール" "!UA0021" "ka39a000.agf">
+<name "Neymal" "!UA0021" "ka39a000.agf">
 「納得できない連中が暴れるからな」
 #
-<name "ダークス">
+<name "Darx">
 「で」
 #
-<name "ネイマール" "!UA0022" "ka39a000.agf">
+<name "Neymal" "!UA0022" "ka39a000.agf">
 「やれやれ……
 　痛い目は見たくないのだが、やるしかないようだ
 　な」
@@ -339,15 +339,15 @@
 <exit>
 :1E0B
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "ダークス">
+<name "Darx">
 「と……空気が違うな」
 #
 <sprite "ta17a005.agf" 4 4 11>
-<name "タマガ" "!PB0033">
+<name "Tamaga" "!PB0033">
 「ティーグレ種族のタマガだ」
 #
 <sprite "ta17a006.agf" 4 4 12>
-<name "タマガ" "!PB0032">
+<name "Tamaga" "!PB0032">
 「行くぞ」
 #
 <removesprite -1 11>
@@ -355,24 +355,24 @@
 :1F2E
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 
 <sprite "ta19a000.agf" 4 4 11>
-<name "アオ" "!WA0044">
+<name "Ao" "!WA0044">
 「色々とやってくれたね」
 #
-<name "ダークス">
+<name "Darx">
 「誰だ？」
 #
 <sprite "ta19a004.agf" 4 4 12>
-<name "アオ" "!WA0045">
+<name "Ao" "!WA0045">
 「ブラウのアオ。
 　この辺りの勢力を仕切らせて貰ってる」
 #
-<name "ダークス">
+<name "Darx">
 「そうか。
 　では、街を攻撃した恨み。
 　晴らさせて貰うぞ」
 #
 <sprite "ta19a006.agf" 4 4 12>
-<name "アオ" "!WA0046">
+<name "Ao" "!WA0046">
 「どうぞ。
 　やれるならね」
 #
@@ -381,24 +381,24 @@
 :2121
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 
 <sprite "ta18a008.agf" 4 4 11>
-<name "ロッタ" "!HB0024">
+<name "Lotta" "!HB0024">
 「えっと」
 #
-<name "ダークス">
+<name "Darx">
 「お前がロッタか？」
 #
 <sprite "ta18a003.agf" 4 4 12>
-<name "ロッタ" "!HB0025">
+<name "Lotta" "!HB0025">
 「うん」
 #
-<name "ダークス">
+<name "Darx">
 「一応聞くが、降伏する気はないか？」
 #
 <sprite "ta18a015.agf" 4 4 12>
-<name "ロッタ" "!HB0026">
+<name "Lotta" "!HB0026">
 「みんなが戦っているのに、降伏なんかできないよ」
 #
-<name "ダークス">
+<name "Darx">
 「まあ、そうだな。
 　では遠慮なく、叩きのめさせて貰おう」
 #
@@ -407,75 +407,75 @@
 :232A
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 
 <sprite "ta16a000.agf" 4 4 11>
-<name "ファレン" "!FB0069">
+<name "Farren" "!FB0069">
 「……私がファレンよ。
 　貴方がダークス？」
 #
-<name "ダークス">
+<name "Darx">
 「そうだ」
 #
 <sprite "ta16a001.agf" 4 4 12>
-<name "ファレン" "!FB0070">
+<name "Farren" "!FB0070">
 「そう」
 #
 <sprite "ta16a000.agf" 4 4 12>
-<name "ファレン" "!FB0071">
+<name "Farren" "!FB0071">
 「色々と言いたい事はあるけど……」
 #
 <sprite "ta16a001.agf" 4 4 12>
-<name "ファレン" "!FB0072">
+<name "Farren" "!FB0072">
 「これだけは約束して」
 #
-<name "ダークス">
+<name "Darx">
 「なんだ？」
 #
 <sprite "ta16a000.agf" 4 4 12>
-<name "ファレン" "!FB0073">
+<name "Farren" "!FB0073">
 「戦っていない者達に、手は出さないで」
 #
-<name "ダークス">
+<name "Darx">
 「そんな約束に意味があると思うか？」
 #
 <sprite "ta16a001.agf" 4 4 12>
-<name "ファレン" "!FB0074">
+<name "Farren" "!FB0074">
 「どういう事？」
 #
-<name "ダークス">
+<name "Darx">
 「俺がどう答えても、お前は信じないだろ」
 #
 <sprite "ta16a015.agf" 4 4 12>
-<name "ファレン" "!FB0078">
+<name "Farren" "!FB0078">
 「……確かにね。
 　馬鹿な事を言ったわ」
 #
-<name "ダークス">
+<name "Darx">
 「まったくだ」
 #
-<name "ダークス">
+<name "Darx">
 「が、一応は答えてやろう」
 #
-<name "ダークス">
+<name "Darx">
 「戦っていない者達には手を出さない。
 　街への移住はさせるが、惨たらしい扱いもしない」
 #
-<name "ダークス">
+<name "Darx">
 「俺が手を出すのは、戦いを挑んだ連中。
 　特に、街への攻撃に参加した奴等だ」
 #
-<name "ダークス">
+<name "Darx">
 「ああ、お前はどうなんだ？
 　俺の街を攻撃したか？」
 #
 <sprite "ta16a000.agf" 4 4 12>
-<name "ファレン" "!FB0076">
+<name "Farren" "!FB0076">
 「したわ」
 #
-<name "ダークス">
+<name "Darx">
 「そうか。
 　なら、死ぬ気で掛かって来た方がいいぞ」
 #
 <sprite "ta16a006.agf" 4 4 12>
-<name "ファレン" "!FB0077">
+<name "Farren" "!FB0077">
 「最初っからそのつもりよ！」
 #
 <removesprite -1 11>
@@ -483,98 +483,98 @@
 :2959
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 
 <sprite "ta04a002.agf" 4 4 11>
-<name "ルーアルテ" "!RA0049">
+<name "Rualtei" "!RA0049">
 「……ひょっとして街の連中？」
 #
-<name "ダークス">
+<name "Darx">
 「ん？
 　誰だ？」
 #
 <removesprite -1 11>
 <music 46>
 <background "ev024a00.agf" 10>
-<name "ルーアルテ" "!RA0050">
+<name "Rualtei" "!RA0050">
 「……ここなら、ふふ。
 　私はルーアルテ！
 　恨みはないけど、ここで死んで貰うわ」
 #
-<name "ダークス">
+<name "Darx">
 「お、おい、ちょっと待て……」
 #
-<name "ルーアルテ" "!RA0051">
+<name "Rualtei" "!RA0051">
 「問答無用！」
 #
 <exit>
 :2B25
 <music 46>
 <background "ev024a00.agf" 10>
-<name "ルーアルテ" "!RA0067">
+<name "Rualtei" "!RA0067">
 「来たなっ！」
 #
-<name "ダークス">
+<name "Darx">
 「こっちのセリフだ。
 　前にキュリハさんに助けられた事、忘れてないな」
 #
-<name "ルーアルテ" "!RA0068">
+<name "Rualtei" "!RA0068">
 「黙れ！
 　あの時は何かの間違いだったんだ！」
 #
-<name "ダークス">
+<name "Darx">
 「言っても無駄なようだ」
 #
-<name "ダークス">
+<name "Darx">
 「後悔するなよ」
 #
 <exit>
 :2C72
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "ダークス">
+<name "Darx">
 「変な機械があるな」
 #
-<name "商会メイド" "!DC0015" "ka34c000.agf">
+<name "Company Maid" "!DC0015" "ka34c000.agf">
 「多分、これが街を攻撃している装置かと」
 #
-<name "ダークス">
+<name "Darx">
 「ぶち壊せ！」
 #
-<name "商会メイド" "!DC0016" "ka34c000.agf">
+<name "Company Maid" "!DC0016" "ka34c000.agf">
 「はい……あっ！」
 #
 <name "天界兵部隊長" "!GB0010">
 「侵入者発見！
 　防げ！」
 #
-<name "ダークス">
+<name "Darx">
 「ちっ。
 　簡単には壊させないってか！」
 #
-<name "ダークス">
+<name "Darx">
 「俺が敵を倒す。
 　その間に、破壊を任せても良いか？」
 #
-<name "商会メイド" "!DC0017" "ka34c000.agf">
+<name "Company Maid" "!DC0017" "ka34c000.agf">
 「はい。
 　頑張ります」
 #
 <exit>
 :2EAA
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "商会メイド" "!DC0024" "ka34c000.agf">
+<name "Company Maid" "!DC0024" "ka34c000.agf">
 「ありましたね」
 #
-<name "ダークス">
+<name "Darx">
 「ああ」
 #
 　すぐに使える状態ではないが、同様の物が三基。
 #
-<name "ダークス">
+<name "Darx">
 「潰せ」
 #
-<name "商会メイド" "!DC0025" "ka34c000.agf">
+<name "Company Maid" "!DC0025" "ka34c000.agf">
 「了解しました。
 　魔王様は敵を防いで下さい」
 #
-<name "ダークス">
+<name "Darx">
 「おう」
 #
 　敵が来た。
@@ -584,197 +584,197 @@
 <music 9>
 \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 
 <sprite "ta03a004.agf" 4 4 11>
-<name "ミアルテ" "!SA0048">
+<name "Miartei" "!SA0048">
 「ようこそ、歓迎いたしますわ」
 #
-<name "ダークス">
+<name "Darx">
 「お前がミアルテか？」
 #
 <sprite "ta03a005.agf" 4 4 12>
-<name "ミアルテ" "!SA0049">
+<name "Miartei" "!SA0049">
 「そうです。
 　貴方は？」
 #
-<name "ダークス">
+<name "Darx">
 「ダークス。
 　あの街の魔王だ」
 #
 <sprite "ta03a004.agf" 4 4 12>
-<name "ミアルテ" "!SA0050">
+<name "Miartei" "!SA0050">
 「貴方が噂の……」
 #
 <sprite "ta03a007.agf" 4 4 12>
-<name "ミアルテ" "!SA0051">
+<name "Miartei" "!SA0051">
 「では、私の装置を壊したのも、貴方なのですね」
 #
-<name "ダークス">
+<name "Darx">
 「ああ」
 #
 <sprite "ta03a008.agf" 4 4 12>
-<name "ミアルテ" "!SA0052">
+<name "Miartei" "!SA0052">
 「私の可愛い妹を倒したのも」
 #
-<name "ダークス">
+<name "Darx">
 「そうだ」
 #
 <removesprite -1 11>
 <music 16>
 <background "ev019a00.agf" 10>
-<name "ミアルテ" "!SA0053">
+<name "Miartei" "!SA0053">
 「ふふ。
 　嬉しいですわね」
 #
-<name "ミアルテ" "!SA0054">
+<name "Miartei" "!SA0054">
 「わざわざ、来て頂いて」
 #
-<name "ミアルテ" "!SA0055">
+<name "Miartei" "!SA0055">
 「本当に」
 #
-<name "ミアルテ" "!SA0056">
+<name "Miartei" "!SA0056">
 「ええ、本当に嬉しいですわ」
 #
-<name "ミアルテ" "!SA0057">
+<name "Miartei" "!SA0057">
 「この私の手で……」
 #
 <background "ev019b00.agf" 12>
-<name "ミアルテ" "!SA0058">
+<name "Miartei" "!SA0058">
 「薙ぎ払えるのですから」
 #
 <exit>
 :347B
 <music 14>
 <background "ev030a00.agf" 10>
-<name "キュリハ" "!FA0248">
+<name "Kyuriha" "!FA0248">
 「さすがはダークス様です」
 #
-<name "ダークス">
+<name "Darx">
 「丁重なお出迎えだったな」
 #
-<name "キュリハ" "!FA0249">
+<name "Kyuriha" "!FA0249">
 「それほどでもありませんよ」
 #
-<name "キュリハ" "!FA0250">
+<name "Kyuriha" "!FA0250">
 「それに、宴の本番はこれからですから」
 #
-<name "ダークス">
+<name "Darx">
 「ああ、そうだな」
 #
-<name "キュリハ" "!FA0251">
+<name "Kyuriha" "!FA0251">
 「では」
 #
 <background "ev030b00.agf" 10>
-<name "キュリハ" "!FA0252">
+<name "Kyuriha" "!FA0252">
 「一差し、舞わせて頂きます」
 #
-<name "ダークス">
+<name "Darx">
 「む……」
 #
 <background "ev030b01.agf" 10>
-<name "キュリハ" "!FA0253">
+<name "Kyuriha" "!FA0253">
 「お付き合いください」
 #
 <exit>
 :36A8
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 
 <sprite "ta02a000.agf" 4 4 11>
-<name "ダークス">
+<name "Darx">
 「マクドゥ？
 　どうしてここに？」
 #
 <sprite "ta02a001.agf" 4 4 12>
-<name "マクドゥ" "!ZA0169">
+<name "Macdo" "!ZA0169">
 「私は……貴様と決着を付けねば気がすまない」
 #
-<name "ダークス">
+<name "Darx">
 「突然だな」
 #
 <sprite "ta02a019.agf" 4 4 12>
-<name "マクドゥ" "!ZA0170">
+<name "Macdo" "!ZA0170">
 「それは謝ろう。
 　だが、受けて貰う」
 #
-<name "ダークス">
+<name "Darx">
 「まあ、いいが……
 　俺の仲間が一緒でも構わないのか？」
 #
 <sprite "ta02a028.agf" 4 4 12>
-<name "マクドゥ" "!ZA0171">
+<name "Macdo" "!ZA0171">
 「それも貴様の力だ」
 #
-<name "ダークス">
+<name "Darx">
 「そうか。
 　ああ、もう一つ確認だ」
 #
-<name "ダークス">
+<name "Darx">
 「商会の連中って、自分から戦いに参加できないん
 　じゃなかったか？」
 #
 <sprite "ta02a032.agf" 4 4 12>
-<name "マクドゥ" "!ZA0172">
+<name "Macdo" "!ZA0172">
 「その通りだ」
 #
 <sprite "ta02a020.agf" 4 4 12>
-<name "マクドゥ" "!ZA0173">
+<name "Macdo" "!ZA0173">
 「だが、これはただのじゃれ合いだ。
 　戦いではない」
 #
-<name "ダークス">
+<name "Darx">
 「ラキアさんが聞いたら、頭を抱えそうだな」
 #
 <sprite "ta02a019.agf" 4 4 12>
-<name "マクドゥ" "!ZA0174">
+<name "Macdo" "!ZA0174">
 「ふん」
 #
-<name "ダークス">
+<name "Darx">
 「もう一つ」
 #
-<name "ダークス">
+<name "Darx">
 「俺がお前を倒しても、魔界や商会に喧嘩を売ったっ
 　て事にはならないよな」
 #
 <sprite "ta02a032.agf" 4 4 12>
-<name "マクドゥ" "!ZA0175">
+<name "Macdo" "!ZA0175">
 「じゃれ合いと言っただろ。
 　安心しろ」
 #
 <removesprite -1 11>
 <music 16>
 <background "ev013a00.agf" 10>
-<name "マクドゥ" "!ZA0176">
+<name "Macdo" "!ZA0176">
 「それよりも貴様が心配すべきは、今から始まるじゃ
 　れ合いをどう生き抜くかではないか？」
 #
-<name "ダークス">
+<name "Darx">
 「命懸けのじゃれ合いだなぁ」
 #
-<name "マクドゥ" "!ZA0177">
+<name "Macdo" "!ZA0177">
 「手は抜かない。
 　私を殺す気で掛かってこい」
 #
-<name "ダークス">
+<name "Darx">
 「あー……殺しはしないさ。
 　もったいないからな。
 　俺が勝ったらその身体、好きにさせて貰うぞ」
 #
-<name "マクドゥ" "!ZA0178">
+<name "Macdo" "!ZA0178">
 「ふんっ。
 　クズが」
 #
-<name "ダークス">
+<name "Darx">
 「やっぱり、最初にこうしておけば面倒は無かった」
 #
-<name "マクドゥ" "!ZA0179">
+<name "Macdo" "!ZA0179">
 「その点には同意する」
 #
-<name "ダークス">
+<name "Darx">
 「ま、良い経験にはなったけどな」
 #
 <background "ev013a01.agf" 12>
-<name "マクドゥ" "!ZA0180">
+<name "Macdo" "!ZA0180">
 「そう。
 　じゃあ、死になさい」
 #
-<name "ダークス">
+<name "Darx">
 「断る！」
 #
 <exit>
@@ -788,23 +788,23 @@
 「お引き返しください」
 #
 <removesprite -1 11>
-<name "ダークス">
+<name "Darx">
 「そうか」
 #
-<name "商会メイド" "!AC0065" "ka34d000.agf">
+<name "Company Maid" "!AC0065" "ka34d000.agf">
 「魔王様！
 　お待ちください！」
 #
-<name "ダークス">
+<name "Darx">
 「ん？」
 #
-<name "商会メイド" "!AC0066" "ka34d000.agf">
+<name "Company Maid" "!AC0066" "ka34d000.agf">
 「その者達は敵です！」
 #
-<name "商会メイド" "!AC0067" "ka34d000.agf">
+<name "Company Maid" "!AC0067" "ka34d000.agf">
 「商会の者ではありません！」
 #
-<name "ダークス">
+<name "Darx">
 「！」
 #
 <music 9>
@@ -820,20 +820,20 @@
 <music 9>
 \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 
 <sprite "ta17a000.agf" 4 4 11>
-<name "タマガ" "!PB0005">
+<name "Tamaga" "!PB0005">
 「手合わせ、願おう」
 #
-<name "ダークス">
+<name "Darx">
 「……タマガ？」
 #
 <removesprite -1 11>
-<name "タマガ" "!PB0006" "ka17a000.agf">
+<name "Tamaga" "!PB0006" "ka17a000.agf">
 「私はここに居る」
 #
-<name "ダークス">
+<name "Darx">
 「つまり、偽者か？」
 #
-<name "タマガ" "!PB0007" "ka17a007.agf">
+<name "Tamaga" "!PB0007" "ka17a007.agf">
 「叩きのめす」
 #
 \x15 :452C: 
@@ -842,20 +842,20 @@
 <music 9>
 \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 
 <sprite "ta17a000.agf" 4 4 11>
-<name "タマガ" "!PB0008">
+<name "Tamaga" "!PB0008">
 「覚悟は良いか」
 #
-<name "ダークス">
+<name "Darx">
 「タマガ？」
 #
 <removesprite -1 11>
 　いや、違う。
 #
-<name "ダークス">
+<name "Darx">
 「偽者か！」
 #
 <sprite "ta17a006.agf" 4 4 11>
-<name "タマガ" "!PB0009">
+<name "Tamaga" "!PB0009">
 「勝負だ」
 #
 <removesprite -1 11>
@@ -864,7 +864,7 @@
 \x1A\x01\x09\x46\x00\x32\x00\x33\x00\x35\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :452C: 
 <music 9>
 \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "ダークス">
+<name "Darx">
 「ちいっ。
 　邪魔をするな！」
 #
@@ -876,17 +876,17 @@
 <music 9>
 \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 
 <sprite "ta18a001.agf" 4 4 11>
-<name "ロッタ" "!HB0003">
+<name "Lotta" "!HB0003">
 「あれ？」
 #
 <removesprite -1 11>
-<name "ロッタ" "!HB0004" "ka18a001.agf">
+<name "Lotta" "!HB0004" "ka18a001.agf">
 「あれれ？」
 #
-<name "ロッタ" "!HB0005" "ka18a001.agf">
+<name "Lotta" "!HB0005" "ka18a001.agf">
 「えっと……」
 #
-<name "ダークス">
+<name "Darx">
 「偽者だ！
 　やるぞ！」
 #
@@ -896,10 +896,10 @@
 <music 9>
 \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 
 <sprite "ta18a004.agf" 4 4 11>
-<name "ロッタ" "!HB0006">
+<name "Lotta" "!HB0006">
 「敵はっけーん」
 #
-<name "ダークス">
+<name "Darx">
 「ロッタ？」
 #
 <removesprite -1 11>
@@ -907,7 +907,7 @@
 #
 　ロッタがここに居る筈がない。
 #
-<name "ダークス">
+<name "Darx">
 「偽者だ！
 　倒せ！」
 #
@@ -917,10 +917,10 @@
 <music 9>
 \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 
 <sprite "ta18a003.agf" 4 4 11>
-<name "ロッタ" "!HB0007">
+<name "Lotta" "!HB0007">
 「さあ、やっちゃうぞー！」
 #
-<name "ダークス">
+<name "Darx">
 「ちっ。
 　邪魔者が……」
 #
@@ -933,20 +933,20 @@
 <music 9>
 \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 
 <sprite "ta19a001.agf" 4 4 11>
-<name "アオ" "!WA0008">
+<name "Ao" "!WA0008">
 「さーて、僕の出番だね」
 #
 <removesprite -1 11>
-<name "アオ" "!WA0009" "ka19a010.agf">
+<name "Ao" "!WA0009" "ka19a010.agf">
 「偽者か……僕はもう少し可愛いと思うけど」
 #
-<name "ダークス">
+<name "Darx">
 「そっくりだ」
 #
-<name "商会メイド" "!PC0068" "ka34d000.agf">
+<name "Company Maid" "!PC0068" "ka34d000.agf">
 「見分けがつきません」
 #
-<name "アオ" "!WA0010" "ka19a010.agf">
+<name "Ao" "!WA0010" "ka19a010.agf">
 「……むう。
 　とにかく、倒すよ！」
 #
@@ -957,19 +957,19 @@
 <music 9>
 \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 
 <sprite "ta19a000.agf" 4 4 11>
-<name "アオ" "!WA0011">
+<name "Ao" "!WA0011">
 「魔王様」
 #
-<name "ダークス">
+<name "Darx">
 「アオ……じゃないな」
 #
 <sprite "ta19a016.agf" 4 4 12>
-<name "アオ" "!WA0012">
+<name "Ao" "!WA0012">
 「やっぱりねー。
 　そう簡単に騙せるとは思ってなかったけど……」
 #
 <sprite "ta19a005.agf" 4 4 12>
-<name "アオ" "!WA0013">
+<name "Ao" "!WA0013">
 「じゃ、サクサクっと戦ってよね」
 #
 <removesprite -1 11>
@@ -979,10 +979,10 @@
 <music 9>
 \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 
 <sprite "ta19a003.agf" 4 4 11>
-<name "アオ" "!WA0014">
+<name "Ao" "!WA0014">
 「ここから先は通さないよ」
 #
-<name "ダークス">
+<name "Darx">
 「邪魔するな」
 #
 <removesprite -1 11>
@@ -994,36 +994,36 @@
 <music 9>
 \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 
 <sprite "ta16a000.agf" 4 4 11>
-<name "ファレン" "!FB0005">
+<name "Farren" "!FB0005">
 「私にまで回ってくるなんてね」
 #
 <removesprite -1 11>
-<name "ダークス">
+<name "Darx">
 「ああ、やっぱり居たか」
 #
-<name "ファレン" "!FB0006" "ka16a000.agf">
+<name "Farren" "!FB0006" "ka16a000.agf">
 「魔王様、魔王様」
 #
-<name "ダークス">
+<name "Darx">
 「ん？」
 #
-<name "ファレン" "!FB0007" "ka16a001.agf">
+<name "Farren" "!FB0007" "ka16a001.agf">
 「反応が違います。
 　ここは」
 #
-<name "ファレン" "!FB0008" "ka16a008.agf">
+<name "Farren" "!FB0008" "ka16a008.agf">
 「ファレンほどの美人がそうそう居るか！」
 #
-<name "ファレン" "!FB0009" "ka16a019.agf">
+<name "Farren" "!FB0009" "ka16a019.agf">
 「そう言ってください」
 #
-<name "ダークス">
+<name "Darx">
 「……お前、偽者を前に余裕だなぁ」
 #
-<name "ファレン" "!FB0010" "ka16a003.agf">
+<name "Farren" "!FB0010" "ka16a003.agf">
 「魔王様は偽者なんかに負けません」
 #
-<name "ダークス">
+<name "Darx">
 「まあな」
 #
 \x15 :5216: 
@@ -1032,11 +1032,11 @@
 <music 9>
 \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 
 <sprite "ta16a006.agf" 4 4 11>
-<name "ファレン" "!FB0011">
+<name "Farren" "!FB0011">
 「この時を。
 　復讐する時を待っていたぞ」
 #
-<name "ダークス">
+<name "Darx">
 「偽者が、黙ってろ」
 #
 <removesprite -1 11>
@@ -1046,10 +1046,10 @@
 <music 9>
 \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 
 <sprite "ta16a006.agf" 4 4 11>
-<name "ファレン" "!FB0012">
+<name "Farren" "!FB0012">
 「邪魔させて貰おう」
 #
-<name "ダークス">
+<name "Darx">
 「本当に邪魔だ」
 #
 <removesprite -1 11>
@@ -1060,120 +1060,120 @@
 <music 7>
 \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 
 <sprite "ta06a003.agf" 4 4 11>
-<name "スイセン" "!YA0149">
+<name "Suisen" "!YA0149">
 「やはり、死んでませんね」
 #
-<name "ダークス">
+<name "Darx">
 「まあな。
 　途中のワケのわからん連中は、お前の仕掛けか？」
 #
 <sprite "ta06a010.agf" 4 4 12>
-<name "スイセン" "!YA0150">
+<name "Suisen" "!YA0150">
 「ワケのわからん連中？」
 #
-<name "ダークス">
+<name "Darx">
 「消える奴等だ」
 #
 <sprite "ta06a004.agf" 4 4 12>
-<name "スイセン" "!YA0151">
+<name "Suisen" "!YA0151">
 「あー、はいはい」
 #
 <sprite "ta06a005.agf" 4 4 12>
-<name "スイセン" "!YA0152">
+<name "Suisen" "!YA0152">
 「素直に教えるとでも？」
 #
-<name "ダークス">
+<name "Darx">
 「……」
 #
 <sprite "ta06a003.agf" 4 4 12>
-<name "スイセン" "!YA0153">
+<name "Suisen" "!YA0153">
 「ふふふ。
 　冗談ですよ」
 #
 <sprite "ta06a004.agf" 4 4 12>
-<name "スイセン" "!YA0154">
+<name "Suisen" "!YA0154">
 「彼女らは、私が作った幻影」
 #
 <sprite "ta06a005.agf" 4 4 12>
-<name "スイセン" "!YA0155">
+<name "Suisen" "!YA0155">
 「偽者です」
 #
 <sprite "ta06a003.agf" 4 4 12>
-<name "スイセン" "!YA0156">
+<name "Suisen" "!YA0156">
 「解りやすく言えば、小さなフォーゼロッテと一緒
 　ですよ」
 #
 <sprite "ta06a004.agf" 4 4 12>
-<name "スイセン" "!YA0157">
+<name "Suisen" "!YA0157">
 「フォーゼロッテは意識を移した本物ですが、私の
 　は仮の意志と命令を与えたものです」
 #
 <sprite "ta06a005.agf" 4 4 12>
-<name "スイセン" "!YA0158">
+<name "Suisen" "!YA0158">
 「なかなか面白かったでしょ」
 #
 <sprite "ta06a019.agf" 4 4 12>
-<name "スイセン" "!YA0159">
+<name "Suisen" "!YA0159">
 「あれを使って、魔族連中を引っ掻き回すのは楽し
 　かったですよ」
 #
-<name "ダークス">
+<name "Darx">
 「なるほど」
 #
-<name "ダークス">
+<name "Darx">
 「非統治エリアの勢力を操っていたのはお前か」
 #
 <sprite "ta06a003.agf" 4 4 12>
-<name "スイセン" "!YA0160">
+<name "Suisen" "!YA0160">
 「はい。
 　もー、面白いようにコロコロと引っかかってくれ
 　るものですから、笑い過ぎてお腹が痛くなっちゃ
 　いましたよ」
 #
 \x1A\x01\x08\x46\x00\x32\x00\x33\x00\x36\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :5A10: 
-<name "ダークス">
+<name "Darx">
 「ひょっとして、ロッタの時の幻影も……」
 #
 <sprite "ta06a004.agf" 4 4 12>
-<name "スイセン" "!YA0161">
+<name "Suisen" "!YA0161">
 「ええ、私です」
 #
 <sprite "ta06a003.agf" 4 4 12>
-<name "スイセン" "!YA0162">
+<name "Suisen" "!YA0162">
 「タフですね。
 　普通なら、あれで精神が自閉するか、崩壊するか
 　なんですが……」
 #
 :5A10
 <sprite "ta06a020.agf" 4 4 12>
-<name "スイセン" "!YA0163">
+<name "Suisen" "!YA0163">
 「まあ、お話はこの辺りで」
 #
 <sprite "ta06a003.agf" 4 4 12>
-<name "スイセン" "!YA0164">
+<name "Suisen" "!YA0164">
 「貴方もそうでしょ。
 　そろそろ、怒りが抑えきれてませんよ」
 #
-<name "ダークス">
+<name "Darx">
 「抑えきれてないか……
 　娘を浚おうとしたヤツが目の前に居るんだから、
 　当然といえば当然だな」
 #
 <sprite "ta06a005.agf" 4 4 12>
-<name "スイセン" "!YA0165">
+<name "Suisen" "!YA0165">
 「ふふ」
 #
 <removesprite -1 11>
 <music 9>
 <background "ev037a00.agf" 10>
-<name "スイセン" "!YA0166">
+<name "Suisen" "!YA0166">
 「では、始めましょうか」
 #
-<name "ダークス">
+<name "Darx">
 「ああ……」
 #
 <background "ev037a01.agf" 10>
-<name "スイセン" "!YA0167">
+<name "Suisen" "!YA0167">
 「スーちゃん」
 #
 　スイセンの声によって、大量のヘビがこちらに牙
@@ -1189,7 +1189,7 @@
 　君がダークスだな。
 　よく参られた」
 #
-<name "ダークス">
+<name "Darx">
 「誰だ？」
 #
 <sprite "ta07a004.agf" 4 4 12>
@@ -1197,108 +1197,108 @@
 「私の名はワダツミ」
 #
 <sprite "ta07a003.agf" 4 4 12>
-<name "ワダツミ" "!MA0017">
+<name "Wadatsumi" "!MA0017">
 「君の敵だ」
 #
-<name "ダークス">
+<name "Darx">
 「スイセンの上に居たのはお前か」
 #
 <sprite "ta07a004.agf" 4 4 12>
-<name "ワダツミ" "!MA0018">
+<name "Wadatsumi" "!MA0018">
 「その通りだ」
 #
 <sprite "ta07a003.agf" 4 4 12>
-<name "ワダツミ" "!MA0019">
+<name "Wadatsumi" "!MA0019">
 「別に私の名前とか言ってくれても良かったのだが、
 　スイセン君は忠義深いようだ」
 #
 <sprite "ta07a004.agf" 4 4 12>
-<name "ワダツミ" "!MA0020">
+<name "Wadatsumi" "!MA0020">
 「お陰でかなり時間を稼いでくれた。
 　感謝すべきだな。
 　うむ」
 #
-<name "ダークス">
+<name "Darx">
 「ずいぶんと俺を前に余裕だな」
 #
 <sprite "ta07a003.agf" 4 4 12>
-<name "ワダツミ" "!MA0021">
+<name "Wadatsumi" "!MA0021">
 「余裕？
 　私の態度がかね？」
 #
 <sprite "ta07a004.agf" 4 4 12>
-<name "ワダツミ" "!MA0022">
+<name "Wadatsumi" "!MA0022">
 「人間の世界に来るのに、かなりの力を削ぎ落とさ
 　れたこの私が、余裕に見えるかね？」
 #
-<name "ダークス">
+<name "Darx">
 「切羽詰っているようには見えないな」
 #
 <sprite "ta07a003.agf" 4 4 12>
-<name "ワダツミ" "!MA0023">
+<name "Wadatsumi" "!MA0023">
 「それはね、年の功というものだよ」
 #
 <sprite "ta07a004.agf" 4 4 12>
-<name "ワダツミ" "!MA0024">
+<name "Wadatsumi" "!MA0024">
 「長く生きていると、色々な事態に遭遇する」
 #
 <sprite "ta07a003.agf" 4 4 12>
-<name "ワダツミ" "!MA0025">
+<name "Wadatsumi" "!MA0025">
 「その度に、策を弄して粘ったものだよ」
 #
 <sprite "ta07a004.agf" 4 4 12>
-<name "ワダツミ" "!MA0026">
+<name "Wadatsumi" "!MA0026">
 「今回もそうだ」
 #
 <sprite "ta07a003.agf" 4 4 12>
-<name "ワダツミ" "!MA0027">
+<name "Wadatsumi" "!MA0027">
 「天界の者が、魔界の者と手を組み、一つの街で生
 　きる」
 #
 <sprite "ta07a004.agf" 4 4 12>
-<name "ワダツミ" "!MA0028">
+<name "Wadatsumi" "!MA0028">
 「とんでもない事態だ」
 #
 <sprite "ta07a005.agf" 4 4 12>
-<name "ワダツミ" "!MA0029">
+<name "Wadatsumi" "!MA0029">
 「許しがたい」
 #
 <sprite "ta07a006.agf" 4 4 12>
-<name "ワダツミ" "!MA0030">
+<name "Wadatsumi" "!MA0030">
 「いや、許してはいけない」
 #
 <sprite "ta07a005.agf" 4 4 12>
-<name "ワダツミ" "!MA0031">
+<name "Wadatsumi" "!MA0031">
 「君は、隣人が凶暴な者とわかっていて、日々を安
 　心して暮らせるかい？」
 #
 <sprite "ta07a000.agf" 4 4 12>
-<name "ワダツミ" "!MA0032">
+<name "Wadatsumi" "!MA0032">
 「無理だろう」
 #
 <sprite "ta07a001.agf" 4 4 12>
-<name "ワダツミ" "!MA0033">
+<name "Wadatsumi" "!MA0033">
 「なのに、そんな街が出来てしまうと、純粋な天界
 　の者達はコロッと騙されてしまう」
 #
 <sprite "ta07a002.agf" 4 4 12>
-<name "ワダツミ" "!MA0034">
+<name "Wadatsumi" "!MA0034">
 「隣人は、実は良いヤツなんじゃないかと」
 #
 <sprite "ta07a006.agf" 4 4 12>
-<name "ワダツミ" "!MA0035">
+<name "Wadatsumi" "!MA0035">
 「愚かしい」
 #
 <sprite "ta07a003.agf" 4 4 12>
-<name "ワダツミ" "!MA0036">
+<name "Wadatsumi" "!MA0036">
 「愚かしいが愛しい天界の者達の為に。
 　あの街と……そして君には消えて貰いたい」
 #
-<name "ダークス">
+<name "Darx">
 「俺もか？」
 #
 <sprite "ta07a004.agf" 4 4 12>
-<name "ワダツミ" "!MA0037">
+<name "Wadatsumi" "!MA0037">
 「ああ、君もだ」
 #
 <removesprite -1 11>
@@ -1308,34 +1308,34 @@
 #
 　その分身体の中央には、フォーゼロッテの姿。
 #
-<name "ワダツミ" "!MA0038">
+<name "Wadatsumi" "!MA0038">
 「この分身体。
 　なかなかのものだ」
 #
-<name "ワダツミ" "!MA0039">
+<name "Wadatsumi" "!MA0039">
 「私の子であるなら、よくやったと頭を撫でてやる
 　ところだが……」
 #
-<name "ワダツミ" "!MA0040">
+<name "Wadatsumi" "!MA0040">
 「人間となると、そうもいかん」
 #
-<name "ワダツミ" "!MA0041">
+<name "Wadatsumi" "!MA0041">
 「人間の分際で、これだけの魔力を持つ者など、存
 　在を許してはいかんのだ」
 #
-<name "ダークス">
+<name "Darx">
 「なるほど。
 　それだけ喋っているのに、話し合いでの解決は無
 　理って事だな」
 #
-<name "ワダツミ" "!MA0042">
+<name "Wadatsumi" "!MA0042">
 「うむ。
 　素直に死んでくれと頼んでも、無理だろう」
 #
-<name "ダークス">
+<name "Darx">
 「確かにな」
 #
-<name "ワダツミ" "!MA0043">
+<name "Wadatsumi" "!MA0043">
 「では、命令だ。
 　死にたまえ」
 #
@@ -1343,99 +1343,99 @@
 <exit>
 :6B6E
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "ダークス">
+<name "Darx">
 「ん？
 　なんだ？」
 #
-<name "ダークス">
+<name "Darx">
 「敵によって作られた幻影？」
 #
-<name "商会メイド" "!PC0084" "ka34c000.agf">
+<name "Company Maid" "!PC0084" "ka34c000.agf">
 「いえ、実態はあります」
 #
-<name "ダークス">
+<name "Darx">
 「じゃあ、あれは……分身体。
 　分身体の分身体って事か？」
 #
-<name "ダークス">
+<name "Darx">
 「そっくりに作りやがって」
 #
-<name "商会メイド" "!PC0085" "ka34c000.agf">
+<name "Company Maid" "!PC0085" "ka34c000.agf">
 「どうします？」
 #
-<name "ダークス">
+<name "Darx">
 「倒すしかない！
 　行くぞ！」
 #
 <exit>
 :6D35
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "商会メイド" "!DC0093" "ka34c000.agf">
+<name "Company Maid" "!DC0093" "ka34c000.agf">
 「生み出される分身体は、女性ばかりですね」
 #
-<name "ダークス">
+<name "Darx">
 「そうだな。
 　なにか法則でもあるのか？」
 #
-<name "商会メイド" "!DC0094" "ka34c000.agf">
+<name "Company Maid" "!DC0094" "ka34c000.agf">
 「検討してみます」
 #
 <exit>
 :6E52
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "商会メイド" "!DC0095" "ka34c000.agf">
+<name "Company Maid" "!DC0095" "ka34c000.agf">
 「ダークス様。
 　分身体が女性ばかりな理由、予想しました」
 #
-<name "ダークス">
+<name "Darx">
 「法則でも見つけたのか？」
 #
-<name "商会メイド" "!DC0096" "ka34c000.agf">
+<name "Company Maid" "!DC0096" "ka34c000.agf">
 「共通点が一つ、ありました」
 #
-<name "ダークス">
+<name "Darx">
 「なんだ？」
 #
-<name "商会メイド" "!DC0097" "ka34c000.agf">
+<name "Company Maid" "!DC0097" "ka34c000.agf">
 「ダークス様に抱かれた事がある方です」
 #
-<name "ダークス">
+<name "Darx">
 「……」
 #
-<name "商会メイド" "!DC0098" "ka34c000.agf">
+<name "Company Maid" "!DC0098" "ka34c000.agf">
 「多分、ダークス様との行為によって入手した魔力
 　情報を、分身体が再現しているのかと」
 #
-<name "ダークス">
+<name "Darx">
 「なるほど」
 #
-<name "ダークス">
+<name "Darx">
 「つまり……」
 #
 <sprite "ta13a000.agf" 4 4 11>
-<name "エカテー" "!TA0002">
+<name "Ekate" "!TA0002">
 「あら敵なの？」
 #
 <removesprite -1 11>
 <sprite "ta14a008.agf" 4 4 11>
-<name "パニバーナ" "!DA0054">
+<name "Paniverna" "!DA0054">
 「生意気ねー」
 #
 <removesprite -1 11>
-<name "イザナ" "!AA0019" "ka28a000.agf">
+<name "Izana" "!AA0019" "ka28a000.agf">
 「刀のサビにしてくれる」
 #
-<name "ウルティニア" "!EA0021" "ka29a000.agf">
+<name "Ultinia" "!EA0021" "ka29a000.agf">
 「手早く、終わらせましょう」
 #
-<name "ダークス">
+<name "Darx">
 「って事もあるわけだ」
 #
-<name "商会メイド" "!DC0099" "ka34c000.agf">
+<name "Company Maid" "!DC0099" "ka34c000.agf">
 「はい。
 　ご注意ください」
 #
-<name "ダークス">
+<name "Darx">
 「頑張ってみるよ」
 #
 <removesprite -1 11>
@@ -1443,21 +1443,21 @@
 :7310
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 
 <sprite "ta10a025.agf" 4 4 11>
-<name "ダークス">
+<name "Darx">
 「まあ、居るだろうとは思ったけどな」
 #
 <removesprite -1 11>
 <exit>
 :73B0
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "ダークス">
+<name "Darx">
 「次は……カーシャか」
 #
 <removesprite -1 11>
 <exit>
 :7415
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "ダークス">
+<name "Darx">
 「そろそろ、慣れたな」
 #
 <removesprite -1 11>
@@ -1465,29 +1465,29 @@
 :747A
 \x2B\x6E 1  "bo1000.box" 
 <background "ev078a00.agf" 10>
-<name "ダークス">
+<name "Darx">
 「ここか」
 #
 　予想以上に大きくなっていた。
 #
 　触手の塊……触手の山だな。
 #
-<name "商会メイド" "!PC0088">
+<name "Company Maid" "!PC0088">
 「どうします？」
 #
-<name "ダークス">
+<name "Darx">
 「どうしますもなにも、話し合いは無理だろ」
 #
-<name "商会メイド" "!PC0089">
+<name "Company Maid" "!PC0089">
 「確かに」
 #
-<name "ダークス">
+<name "Darx">
 「ヘビは……ああ、大丈夫だ」
 #
-<name "商会メイド" "!PC0090">
+<name "Company Maid" "!PC0090">
 「え？」
 #
-<name "ダークス">
+<name "Darx">
 「ヘビのスーちゃんは気にするな。
 　全力で叩きのめすぞ！」
 #
@@ -1499,13 +1499,13 @@
 　ここは我の聖地。
 　直ちに立ち去るが良い」
 #
-<name "ダークス">
+<name "Darx">
 「……」
 #
 <name "ドラゴン" "!ZF0003">
 「……どうした？」
 #
-<name "ダークス">
+<name "Darx">
 「色々と言いたい事があるが……
 　とりあえず一勝負、頼めるかな」
 #
@@ -1516,14 +1516,14 @@
 <exit>
 :77BA
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "ダークス">
+<name "Darx">
 「駄目元で勧誘してみるか」
 #
-<name "ダークス">
+<name "Darx">
 「ダークスの街では、住民を募集しております。
 　住居、仕事、すぐに提供できます」
 #
-<name "ダークス">
+<name "Darx">
 「また、移住された方の生活をサポートするサービ
 　スも多数取り揃えており……」
 #
@@ -1533,13 +1533,13 @@
 <name "荒ぶる天界兵" "!GB0045">
 「うらー！」
 #
-<name "ダークス">
+<name "Darx">
 「やっぱり、話は聞いて貰えないか……」
 #
 <exit>
 :7971
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "ダークス">
+<name "Darx">
 「勧誘を……」
 #
 <name "武器を持つ天界兵" "!LB0054">
@@ -1551,13 +1551,13 @@
 <exit>
 :7A47
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "ダークス">
+<name "Darx">
 「あのー、お話を……」
 #
 <name "真面目な天界兵" "!LB0055">
 「聞くと思う？」
 #
-<name "ダークス">
+<name "Darx">
 「お、思わないけど」
 #
 <name "真面目な天界兵" "!LB0056">
@@ -1566,7 +1566,7 @@
 <exit>
 :7B28
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "ダークス">
+<name "Darx">
 「争いは醜い！
 　そう思いませんか！」
 #
@@ -1623,14 +1623,14 @@
 <name "男の天界兵" "!ZD0007">
 「ここから先は、簡単には進ませないぜ」
 #
-<name "ダークス">
+<name "Darx">
 「ほう」
 #
 <name "男の天界兵" "!ZD0008">
 「お、やるってのか？
 　いいぜ、勝負してやるぜ」
 #
-<name "ダークス">
+<name "Darx">
 「わかった」
 #
 <name "男の天界兵" "!ZD0009">
@@ -1638,13 +1638,13 @@
 　ちょっと待て。
 　本気でやるのか？」
 #
-<name "ダークス">
+<name "Darx">
 「当たり前だ」
 #
 <name "男の天界兵" "!ZD0010">
 「か、考え直さないか？」
 #
-<name "ダークス">
+<name "Darx">
 「……」
 #
 <name "男の天界兵" "!ZD0011">
@@ -1653,14 +1653,14 @@
 　俺は追いかけたりはしない。
 　約束する」
 #
-<name "ダークス">
+<name "Darx">
 「どけ。
 　俺はそこを通る」
 #
 <name "男の天界兵" "!ZD0012">
 「………………どうしても？」
 #
-<name "ダークス">
+<name "Darx">
 「どうしてもだ！」
 #
 <name "男の天界兵" "!ZD0013">

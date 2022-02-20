@@ -15,39 +15,39 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta01a000.agf" 4 4 11>
-<name "ソフィア" "!ZB0684">
+<name "Sofia" "!ZB0684">
 「魔王様。
 　マクドゥ様から達成条件が示されました」
 #
 <sprite "ta01a001.agf" 4 4 12>
-<name "ソフィア" "!ZB0685">
+<name "Sofia" "!ZB0685">
 「このようになっております」
 #
-<name "ダークス">
+<name "Darx">
 「なるほど。
 　とりあえず、これを用意できれば問題無しって事
 　だな」
 #
 <sprite "ta01a024.agf" 4 4 12>
-<name "ソフィア" "!ZB0686">
+<name "Sofia" "!ZB0686">
 「はい。
 　ああ、でも一回達成しただけでは流石に……」
 #
-<name "ダークス">
+<name "Darx">
 「わかっている。
 　何度かする必要があるんだな」
 #
 <sprite "ta01a004.agf" 4 4 12>
-<name "ソフィア" "!ZB0687">
+<name "Sofia" "!ZB0687">
 「はい」
 #
 <sprite "ta01a005.agf" 4 4 12>
-<name "ソフィア" "!ZB0688">
+<name "Sofia" "!ZB0688">
 「この達成条件には、ラキア様も関わっている筈な
 　ので、そうそう無茶は言って来ないと思います。
 　頑張りましょう」
 #
-<name "ダークス">
+<name "Darx">
 「わかった。
 　これを目標に頑張っていこう」
 #
@@ -57,11 +57,11 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta01a004.agf" 4 4 11>
-<name "ソフィア" "!ZB0706">
+<name "Sofia" "!ZB0706">
 「次の達成条件です」
 #
 <sprite "ta01a005.agf" 4 4 12>
-<name "ソフィア" "!ZB0707">
+<name "Sofia" "!ZB0707">
 「街を大きくして、どんどんさっさとクリアしちゃ
 　いましょう！」
 #
@@ -71,18 +71,18 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta01a004.agf" 4 4 11>
-<name "ソフィア" "!ZB0708">
+<name "Sofia" "!ZB0708">
 「次の達成条件が届きました」
 #
 <sprite "ta01a024.agf" 4 4 12>
-<name "ソフィア" "!ZB0709">
+<name "Sofia" "!ZB0709">
 「少し難しそうですね」
 #
-<name "ダークス">
+<name "Darx">
 「なーに、これぐらい、軽くクリアしてやるさ」
 #
 <sprite "ta01a033.agf" 4 4 12>
-<name "ソフィア" "!ZB0710">
+<name "Sofia" "!ZB0710">
 「おお、頼もしい」
 #
 <removesprite -1 11>
@@ -91,23 +91,23 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta01a024.agf" 4 4 11>
-<name "ソフィア" "!ZB0711">
+<name "Sofia" "!ZB0711">
 「次の達成条件ですが……厳しいですね」
 #
-<name "ダークス">
+<name "Darx">
 「街だけじゃなく、外にも頼らないと駄目か」
 #
 <sprite "ta01a004.agf" 4 4 12>
-<name "ソフィア" "!ZB0712">
+<name "Sofia" "!ZB0712">
 「ですね。
 　というか、多分、それも込みでの達成条件ではな
 　いかと？」
 #
-<name "ダークス">
+<name "Darx">
 「まあ、頑張るだけだ」
 #
 <sprite "ta01a005.agf" 4 4 12>
-<name "ソフィア" "!ZB0713">
+<name "Sofia" "!ZB0713">
 「お願いします」
 #
 <removesprite -1 11>
@@ -116,15 +116,15 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta01a024.agf" 4 4 11>
-<name "ソフィア" "!ZB0714">
+<name "Sofia" "!ZB0714">
 「次の達成条件が決まりましたが……
 　かなり厳しいですね」
 #
-<name "ダークス">
+<name "Darx">
 「そうなのか？」
 #
 <sprite "ta01a004.agf" 4 4 12>
-<name "ソフィア" "!ZB0715">
+<name "Sofia" "!ZB0715">
 「はい。
 　ですが、私は魔王様を信じています。
 　頑張ってください」
@@ -134,30 +134,30 @@
 :AD1
 <music 3>
 <background "bg010a0.agf" 10>
-<name "ダークス">
+<name "Darx">
 「そういえばソフィア」
 #
 <sprite "ta01a004.agf" 4 4 11>
-<name "ソフィア" "!ZB0716">
+<name "Sofia" "!ZB0716">
 「なんですか？」
 #
-<name "ダークス">
+<name "Darx">
 「後、どれだけ条件をクリアすれば、俺の能力を認
 　めて貰えるんだ？」
 #
 <sprite "ta01a033.agf" 4 4 12>
-<name "ソフィア" "!ZB0717">
+<name "Sofia" "!ZB0717">
 「そうですね。
 　あと、これだけですね」
 #
-<name "ダークス">
+<name "Darx">
 「……なるほど」
 #
 <sprite "ta01a004.agf" 4 4 12>
-<name "ソフィア" "!ZB0718">
+<name "Sofia" "!ZB0718">
 「頑張ってください」
 #
-<name "ダークス">
+<name "Darx">
 「ああ」
 #
 <removesprite -1 11>

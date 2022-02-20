@@ -13,22 +13,22 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta01a025.agf" 4 4 11>
-<name "ソフィア" "!ZB0764">
+<name "Sofia" "!ZB0764">
 「目標達成、できませんでしたね」
 #
-<name "ダークス">
+<name "Darx">
 「ああ」
 #
 <removesprite -1 11>
 <sprite "ta02a028.agf" 4 4 11>
-<name "マクドゥ" "!ZA0461">
+<name "Macdo" "!ZA0461">
 「残念だが、私はお前を魔王とは認めない」
 #
-<name "ダークス">
+<name "Darx">
 「……わかっている」
 #
 <sprite "ta02a000.agf" 4 4 12>
-<name "マクドゥ" "!ZA0462">
+<name "Macdo" "!ZA0462">
 「ジタバタしないのだけは褒めてやろう」
 #
 <removesprite -1 11>
@@ -43,41 +43,41 @@
 :34A
 <music 3>
 <background "bg010a0.agf" 10>
-<name "ダークス">
+<name "Darx">
 「駄目だったか」
 #
 <sprite "ta01a036.agf" 4 4 11>
-<name "ソフィア" "!ZB0766">
+<name "Sofia" "!ZB0766">
 「も、申し訳ありません。
 　魔王様」
 #
-<name "ダークス">
+<name "Darx">
 「……力不足だ」
 #
 <removesprite -1 11>
 <sprite "ta02a028.agf" 4 4 11>
-<name "マクドゥ" "!ZA0463">
+<name "Macdo" "!ZA0463">
 「素直に認める所は、褒めよう」
 #
-<name "ダークス">
+<name "Darx">
 「マクドゥ」
 #
 <sprite "ta02a000.agf" 4 4 12>
-<name "マクドゥ" "!ZA0464">
+<name "Macdo" "!ZA0464">
 「残念だったな。
 　ああ、考えてはいないと思うが、ヘタな抵抗はし
 　ない方が身の為だ」
 #
 <sprite "ta02a001.agf" 4 4 12>
-<name "マクドゥ" "!ZA0465">
+<name "Macdo" "!ZA0465">
 「貴様が無事でも、貴様が大切にしている女達が死
 　ぬ事になる」
 #
-<name "ダークス">
+<name "Darx">
 「……」
 #
 <sprite "ta02a003.agf" 4 4 12>
-<name "マクドゥ" "!ZA0466">
+<name "Macdo" "!ZA0466">
 「大魔王様の沙汰を待て」
 #
 <removesprite -1 11>
@@ -92,108 +92,108 @@
 :710
 <music 3>
 <background "bg010a0.agf" 10>
-<name "ダークス">
+<name "Darx">
 「……駄目だったか」
 #
 <sprite "ta01a025.agf" 4 4 11>
-<name "ソフィア" "!ZB0767">
+<name "Sofia" "!ZB0767">
 「これで、魔王様は魔王として認められない」
 #
-<name "ダークス">
+<name "Darx">
 「う……」
 #
 <sprite "ta01a010.agf" 4 4 12>
-<name "ソフィア" "!ZB0768">
+<name "Sofia" "!ZB0768">
 「魔王様。
 　ここは私がなんとかします」
 #
-<name "ダークス">
+<name "Darx">
 「え？
 　なんとか？」
 #
 <sprite "ta01a012.agf" 4 4 12>
-<name "ソフィア" "!ZB0769">
+<name "Sofia" "!ZB0769">
 「この命に代えて、マクドゥ様にお目溢しを願います」
 #
-<name "ダークス">
+<name "Darx">
 「待て。
 　そんな事をしても、次が無い」
 #
-<name "ダークス">
+<name "Darx">
 「二人で駄目なのに、ソフィアが居なくなったら……」
 #
 <sprite "ta01a024.agf" 4 4 12>
-<name "ソフィア" "!ZB0770">
+<name "Sofia" "!ZB0770">
 「魔王様」
 #
 <removesprite -1 11>
 <sprite "ta02a028.agf" 4 4 11>
-<name "マクドゥ" "!ZA0467">
+<name "Macdo" "!ZA0467">
 「あー……いいかな」
 #
-<name "ダークス">
+<name "Darx">
 「マクドゥ」
 #
 <sprite "ta02a005.agf" 4 4 12>
-<name "マクドゥ" "!ZA0468">
+<name "Macdo" "!ZA0468">
 「そう警戒するな。
 　少し、いいか」
 #
-<name "ダークス">
+<name "Darx">
 「な、なんだ？」
 #
 <sprite "ta02a004.agf" 4 4 12>
-<name "マクドゥ" "!ZA0469">
+<name "Macdo" "!ZA0469">
 「別に、一回駄目だったぐらいで、魔王失格とかの
 　判断しないぞ」
 #
 <removesprite -1 11>
 <sprite "ta01a025.agf" 2 5 11>
 <sprite "ta02a004.agf" 6 4 11>
-<name "ソフィア" "!ZB0771">
+<name "Sofia" "!ZB0771">
 「え？」
 #
 <sprite "ta02a028.agf" 6 4 12>
-<name "マクドゥ" "!ZA0470">
+<name "Macdo" "!ZA0470">
 「トラブルは起きるものだ」
 #
 <sprite "ta01a005.agf" 2 5 12>
-<name "ソフィア" "!ZB0772">
+<name "Sofia" "!ZB0772">
 「じゃあ」
 #
 <removesprite -1 11>
 <sprite "ta02a000.agf" 4 4 11>
-<name "マクドゥ" "!ZA0471">
+<name "Macdo" "!ZA0471">
 「見逃すのは今回だけだ」
 #
 <sprite "ta02a001.agf" 4 4 12>
-<name "マクドゥ" "!ZA0472">
+<name "Macdo" "!ZA0472">
 「次は無い」
 #
-<name "ダークス">
+<name "Darx">
 「おおっ」
 #
 <removesprite -1 11>
 <sprite "ta01a033.agf" 4 4 11>
-<name "ソフィア" "!ZB0773">
+<name "Sofia" "!ZB0773">
 「やりましたね。
 　魔王様」
 #
 <removesprite -1 11>
 <sprite "ta02a016.agf" 4 4 11>
-<name "マクドゥ" "!ZA0473">
+<name "Macdo" "!ZA0473">
 「いや、なにもやってないからな。
 　それに……」
 #
 <sprite "ta02a000.agf" 4 4 12>
-<name "マクドゥ" "!ZA0474">
+<name "Macdo" "!ZA0474">
 「次は次で、今回よりも条件は厳しい」
 #
 <sprite "ta02a001.agf" 4 4 12>
-<name "マクドゥ" "!ZA0475">
+<name "Macdo" "!ZA0475">
 「私を納得させてみせろ」
 #
-<name "ダークス">
+<name "Darx">
 「おう、任せておけ！」
 #
 <removesprite -1 11>
@@ -203,18 +203,18 @@
 :FFD
 <music 3>
 <background "bg010a0.agf" 10>
-<name "ダークス">
+<name "Darx">
 「もう言い訳は無理だな」
 #
 <sprite "ta01a024.agf" 4 4 11>
-<name "ソフィア" "!ZB0774">
+<name "Sofia" "!ZB0774">
 「ですね」
 #
-<name "ダークス">
+<name "Darx">
 「素直に認めよう」
 #
 <sprite "ta01a036.agf" 4 4 12>
-<name "ソフィア" "!ZB0775">
+<name "Sofia" "!ZB0775">
 「はい」
 #
 <removesprite -1 11>

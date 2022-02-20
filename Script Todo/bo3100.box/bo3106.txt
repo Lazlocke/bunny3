@@ -15,7 +15,7 @@
 <name "煽てるメイド" "!PC0507">
 「お似合いですよ」
 #
-<name "ダークス">
+<name "Darx">
 「そ、そうか？」
 #
 <removesprite -1 11>
@@ -42,14 +42,14 @@
 <exit>
 <music 4>
 <background "bg009a0.agf" 10>
-<name "ダークス">
+<name "Darx">
 「今日は、これにするか」
 #
 <sprite "ta34b000.agf" 4 4 11>
-<name "商会メイド" "!DC0437">
+<name "Company Maid" "!DC0437">
 「威力がありそうですね」
 #
-<name "ダークス">
+<name "Darx">
 「だろ」
 #
 <removesprite -1 11>
@@ -57,46 +57,46 @@
 <music 4>
 <background "bg009a0.agf" 10>
 <sprite "ta34b000.agf" 4 4 11>
-<name "商会メイド" "!DC0438">
+<name "Company Maid" "!DC0438">
 「効果重視ですか？」
 #
-<name "ダークス">
+<name "Darx">
 「ああ」
 #
 <removesprite -1 11>
 <exit>
 <music 4>
 <background "bg009a0.agf" 10>
-<name "ダークス">
+<name "Darx">
 「たまには、こういった武器にするか」
 #
 <sprite "ta34b000.agf" 4 4 11>
-<name "商会メイド" "!DC0439">
+<name "Company Maid" "!DC0439">
 「面白い系ですか？」
 #
 <removesprite -1 11>
 <exit>
 <music 4>
 <background "bg009a0.agf" 10>
-<name "ダークス">
+<name "Darx">
 「これを、装備するか」
 #
 <sprite "ta34b002.agf" 4 4 11>
-<name "商会メイド" "!DC0440">
+<name "Company Maid" "!DC0440">
 「あの、それ、タルですよ」
 #
 <removesprite -1 11>
 <exit>
 <music 4>
 <background "bg009a0.agf" 10>
-<name "ダークス">
+<name "Darx">
 「これを装備するか」
 #
 <sprite "ta34b000.agf" 4 4 11>
-<name "商会メイド" "!PC0509">
+<name "Company Maid" "!PC0509">
 「お似合いですよ」
 #
-<name "ダークス">
+<name "Darx">
 「ありがとう」
 #
 <removesprite -1 11>
@@ -104,15 +104,15 @@
 <music 4>
 <background "bg009a0.agf" 10>
 <sprite "ta34b002.agf" 4 4 11>
-<name "商会メイド" "!PC0510">
+<name "Company Maid" "!PC0510">
 「この防具を装備していない時は……
 　防具は何も装備していないって事ですか？」
 #
-<name "ダークス">
+<name "Darx">
 「そんなワケないだろー」
 #
 <sprite "ta34b000.agf" 4 4 12>
-<name "商会メイド" "!PC0511">
+<name "Company Maid" "!PC0511">
 「ですよねー。
 　あははは」
 #
@@ -121,62 +121,62 @@
 <music 4>
 <background "bg009a0.agf" 10>
 <sprite "ta34b002.agf" 4 4 11>
-<name "商会メイド" "!PC0512">
+<name "Company Maid" "!PC0512">
 「防具は、手入れが大変です」
 #
-<name "ダークス">
+<name "Darx">
 「油断すると、凄い匂いになるからな。
 　感謝しているよ」
 #
 <sprite "ta34b000.agf" 4 4 12>
-<name "商会メイド" "!PC0513">
+<name "Company Maid" "!PC0513">
 「いえ、これも仕事ですから」
 #
 <removesprite -1 11>
 <exit>
 <music 4>
 <background "bg009a0.agf" 10>
-<name "ダークス">
+<name "Darx">
 「うーむ。
 　このサイズだと、他の道具も装備できそうな気が
 　するんだけど……」
 #
 <sprite "ta34b000.agf" 4 4 11>
-<name "商会メイド" "!PC0514">
+<name "Company Maid" "!PC0514">
 「効果が干渉して、意味がなくなるんです。
 　諦めてください」
 #
-<name "ダークス">
+<name "Darx">
 「そ、そうか」
 #
 <removesprite -1 11>
 <exit>
 <music 4>
 <background "bg009a0.agf" 10>
-<name "ダークス">
+<name "Darx">
 「この道具って、どうやって装備するんだ？」
 #
 <sprite "ta34b000.agf" 4 4 11>
-<name "商会メイド" "!PC0515">
+<name "Company Maid" "!PC0515">
 「手に持ってください」
 #
-<name "ダークス">
+<name "Darx">
 「片手が塞がるのはちょっと」
 #
-<name "商会メイド" "!PC0516">
+<name "Company Maid" "!PC0516">
 「じゃあ、ロープで腰に結んでください」
 #
-<name "ダークス">
+<name "Darx">
 「それで良いならそうするが……」
 #
-<name "ダークス">
+<name "Darx">
 「格好悪いな」
 #
 <sprite "ta34b005.agf" 4 4 12>
-<name "商会メイド" "!PC0517">
+<name "Company Maid" "!PC0517">
 「見た目より、効果！」
 #
-<name "ダークス">
+<name "Darx">
 「悪かった。
 　確かに、その通りだ」
 #
@@ -216,21 +216,21 @@
 <name "考えるメイド" "!DC0445">
 「貴女、天才だ」
 #
-<name "ダークス">
+<name "Darx">
 「あー、俺は食わないからな」
 #
 <removesprite -1 11>
 <exit>
 <music 4>
 <background "bg009a0.agf" 10>
-<name "ダークス">
+<name "Darx">
 「これ、どうやって装備するんだ？」
 #
 <sprite "ta34b000.agf" 4 4 11>
-<name "商会メイド" "!PC0522">
+<name "Company Maid" "!PC0522">
 「工夫してください」
 #
-<name "ダークス">
+<name "Darx">
 「つ、突き放すなぁ」
 #
 <removesprite -1 11>
@@ -238,11 +238,11 @@
 <music 4>
 <background "bg009a0.agf" 10>
 <sprite "ta34b001.agf" 4 4 11>
-<name "商会メイド" "!PC0523">
+<name "Company Maid" "!PC0523">
 「何を装備するかは魔王様の自由ですけど……
 　どうして、そんな物を装備するのですか？」
 #
-<name "ダークス">
+<name "Darx">
 「俺の魂が、そうしろと叫んでいる気がして……」
 #
 <removesprite -1 11>
@@ -256,11 +256,11 @@
 <name "部下魔族" "!HC0190">
 「ひゃっほー」
 #
-<name "ダークス">
+<name "Darx">
 「ああまで喜ばれると、気持ち良いな」
 #
 <sprite "ta34b000.agf" 4 4 11>
-<name "商会メイド" "!PC0524">
+<name "Company Maid" "!PC0524">
 「ですね」
 #
 <removesprite -1 11>

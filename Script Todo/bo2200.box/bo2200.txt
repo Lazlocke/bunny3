@@ -27,7 +27,7 @@
 <name "部下魔族" "!UA0165">
 「ふう、一休み一休み」
 #
-<name "ダークス">
+<name "Darx">
 「気を抜き過ぎるなよ」
 #
 <name "部下魔族" "!UA0166">
@@ -46,7 +46,7 @@
 <name "驚く部下魔族" "!JA0144">
 「いつの間に」
 #
-<name "ダークス">
+<name "Darx">
 「そうだな。
 　よし、飯にしよう」
 #
@@ -86,7 +86,7 @@
 <name "部下魔族" "!ZF0142">
 「魔王様のプライベートを守れ！」
 #
-<name "ダークス">
+<name "Darx">
 「え、えっと、別にトイレぐらいでそこまで警戒し
 　なくても……」
 #
@@ -151,93 +151,93 @@
 <exit>
 :D88
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "商会メイド" "!DC0409" "ka34c000.agf">
+<name "Company Maid" "!DC0409" "ka34c000.agf">
 「迷宮で輝く素敵な音色。
 　それはお金。
 　そして、それを求める熟練お手伝い集団！」
 #
-<name "商会メイド" "!DC0410" "ka34c004.agf">
+<name "Company Maid" "!DC0410" "ka34c004.agf">
 「ス、ペ、シャ、ル、ギュンギュスカー♪」
 #
-<name "商会メイド" "!DC0411" "ka34c000.agf">
+<name "Company Maid" "!DC0411" "ka34c000.agf">
 「ただいま、参上！」
 #
-<name "商会メイド" "!DC0412" "ka34c000.agf">
+<name "Company Maid" "!DC0412" "ka34c000.agf">
 「お呼びでしょうか、魔王様！」
 #
-<name "ダークス">
+<name "Darx">
 「いや、呼んだけど……なに？
 　いまの登場？」
 #
-<name "商会メイド" "!DC0413" "ka34c004.agf">
+<name "Company Maid" "!DC0413" "ka34c004.agf">
 「スペシャル感を演出してみました」
 #
-<name "ダークス">
+<name "Darx">
 「そ、そうか」
 #
-<name "商会メイド" "!DC0414" "ka34c000.agf">
+<name "Company Maid" "!DC0414" "ka34c000.agf">
 「では、リストです。
 　どうぞ」
 #
-<name "ダークス">
+<name "Darx">
 「おう」
 #
 \x8A 0  0  0  0  "スペシャルギュンギュスカーの効果が|増えました。|（迷宮内の総歩数で解放されます）" 
 <exit>
 :10ED
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "商会メイド" "!DC0415" "ka34c004.agf">
+<name "Company Maid" "!DC0415" "ka34c004.agf">
 「イエス、スペシャルギュンギュスカー♪」
 #
-<name "ダークス">
+<name "Darx">
 「……」
 #
-<name "商会メイド" "!DC0416" "ka34c004.agf">
+<name "Company Maid" "!DC0416" "ka34c004.agf">
 「魔王様も一緒に。
 　イエス、スペシャルギュンギュスカー♪」
 #
-<name "ダークス">
+<name "Darx">
 「い、いえす、すぺしゃるぎゅんぎゅすかー」
 #
-<name "商会メイド" "!DC0417" "ka34c004.agf">
+<name "Company Maid" "!DC0417" "ka34c004.agf">
 「声が小さい。
 　もう一回」
 #
-<name "ダークス">
+<name "Darx">
 「イエス、スペシャルギュンギュスカー♪」
 #
-<name "商会メイド" "!DC0418" "ka34c004.agf">
+<name "Company Maid" "!DC0418" "ka34c004.agf">
 「ありがとうございます！
 　はい、リストです」
 #
-<name "ダークス">
+<name "Darx">
 「……今のやりとり、なんだったんだ？」
 #
-<name "商会メイド" "!DC0419" "ka34c000.agf">
+<name "Company Maid" "!DC0419" "ka34c000.agf">
 「細かい事は気にしない」
 #
 \x8A 0  0  0  0  "スペシャルギュンギュスカーの効果が|増えました。|（迷宮内の総歩数で解放されます）" 
 <exit>
 :1439
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "ダークス">
+<name "Darx">
 「スペシャルギュンギュスカーとは！」
 #
-<name "ダークス">
+<name "Darx">
 「俺の活動を助ける為の特別サービス！」
 #
-<name "ダークス">
+<name "Darx">
 「とっても頼りになる存在だ！」
 #
-<name "商会メイド" "!DC0420" "ka34c000.agf">
+<name "Company Maid" "!DC0420" "ka34c000.agf">
 「か、感動です。
 　魔王様がそこまで私達の事を……」
 #
-<name "ダークス">
+<name "Darx">
 「ふふふ。
 　さあ、リストを見せてくれ」
 #
-<name "商会メイド" "!DC0421" "ka34c000.agf">
+<name "Company Maid" "!DC0421" "ka34c000.agf">
 「どうぞ」
 #
 <name "感心するメイド" "!PC0493" "ka34f000.agf">
