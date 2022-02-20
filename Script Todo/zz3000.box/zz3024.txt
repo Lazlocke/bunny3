@@ -1,0 +1,34 @@
+﻿<music 11>
+<background "bg008a0.agf" 10>
+<sprite "ta03a011.agf" 4 4 11>
+<name "ミアルテ" "!SA0203">
+「私の方が先に従っているから、私が先輩で良いの
+　かしら？」
+#
+<removesprite -1 11>
+<sprite "ta03a011.agf" 2 4 11>
+<sprite "ta04a017.agf" 6 5 11>
+<name "ルーアルテ" "!RA0215">
+「お姉様。
+　それを言われると、私の方が先なのですが……」
+#
+<removesprite -1 11>
+<sprite "ta05a017.agf" 4 4 11>
+<name "キュリハ" "!FA0314">
+「私はどちらでも構いませんよ。
+　先輩方」
+#
+<removesprite -1 11>
+<sprite "ta03a014.agf" 4 4 11>
+<name "ミアルテ" "!SA0204">
+「ごめんなさい。
+　今まで通りでいきましょう」
+#
+<removesprite -1 11>
+<sprite "ta03a014.agf" 2 4 11>
+<sprite "ta04a018.agf" 6 5 11>
+<name "ルーアルテ" "!RA0216">
+「ですね」
+#
+<removesprite -1 11>
+\x2B\x78\x78

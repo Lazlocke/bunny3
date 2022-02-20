@@ -1,0 +1,61 @@
+﻿<music 4>
+<background "bg009a0.agf" 10>
+<sprite "ta16a000.agf" 4 4 11>
+<name "ファレン" "!FB0133">
+「ダークス様が、まさか魔王様なんてね」
+#
+<removesprite -1 11>
+<sprite "ta16a000.agf" 2 4 11>
+<sprite "ta18a001.agf" 6 5 11>
+<name "ロッタ" "!HB0083">
+「驚いたね」
+#
+<sprite "ta16a001.agf" 2 4 12>
+<name "ファレン" "!FB0134">
+「しかも、あのフォーゼロッテを奥さんにしている
+　んでしょ」
+#
+<removesprite -1 11>
+<sprite "ta19a010.agf" 4 4 11>
+<name "アオ" "!WA0145">
+「お爺ちゃんから聞いた事があるけど、フォーゼロッ
+　テってものすっごく怖いから近付いちゃ駄目だって」
+#
+<removesprite -1 11>
+<sprite "ta19a010.agf" 2 5 11>
+<sprite "ta17a011.agf" 6 4 11>
+<name "タマガ" "!PB0106">
+「うん。
+　しかし、絶世の美女だとも聞いた事がある」
+#
+<removesprite -1 11>
+<sprite "ta18a004.agf" 4 4 11>
+<name "ロッタ" "!HB0084">
+「あー、聞いた聞いた。
+　すっごい美人だって」
+#
+<removesprite -1 11>
+<sprite "ta19a011.agf" 4 4 11>
+<name "アオ" "!WA0146">
+「それが魔王様の奥さん」
+#
+<removesprite -1 11>
+<sprite "ta16a016.agf" 4 4 11>
+<name "ファレン" "!FB0135">
+「うう、か、勝てる気が……」
+#
+<removesprite -1 11>
+　……
+#
+<sprite "ta10a021.agf" 4 4 11>
+<name "フォーゼロッテ" "!XA0039">
+「私の紹介は、もう少し後にするか」
+#
+<removesprite -1 11>
+<sprite "ta34a000.agf" 2 4 11>
+<sprite "ta10a021.agf" 6 5 11>
+<name "商会メイド" "!PC0141">
+「あはは」
+#
+<removesprite -1 11>
+\x2B\x78\x78

@@ -1,0 +1,18 @@
+﻿<music 11>
+<background "bg013a0.agf" 10>
+<sprite "ta03a022.agf" 4 4 11>
+<name "ミアルテ" "!SA0159">
+「ふふ」
+#
+<removesprite -1 11>
+<sprite "ta04a002.agf" 4 4 11>
+<name "ルーアルテ" "!RA0205">
+「最近のお姉様。
+　なんだか昔に戻ったみたい」
+#
+<sprite "ta04a005.agf" 4 4 12>
+<name "ルーアルテ" "!RA0206">
+「……良い事だよね、これ」
+#
+<removesprite -1 11>
+\x2B\x78\x78
