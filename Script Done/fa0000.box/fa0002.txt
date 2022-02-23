@@ -47,125 +47,127 @@
 <music 4>
 <background "bg009a0.agf" 10>
 <sprite "ta01a004.agf" 4 4 11>
-<name "ソフィア" "!ZB0719">
-「条件達成です。
-　あとは、この書類をフォーゼロッテ宮のラキア様
-　にお渡しすれば完了です」
+<name "Sofia" "!ZB0719">
+"You've achieved your goals.
+ All that's left is for me to go to
+ Forzelotte's Shrine and give this report to
+ Rakia."
 #
-<name "ダークス">
-「ああ、ラキアさんのお店に行くなら、ついて行こう。
-　構わないだろ？」
+<name "Darx">
+"Oh, if you're going to Rakia's place, I'll
+ come along.
+ You don't mind?"
 #
 <sprite "ta01a033.agf" 4 4 12>
-<name "ソフィア" "!ZB0720">
-「はい。
-　どうぞ」
+<name "Sofia" "!ZB0720">
+"Okay. 
+ Please."
 #
 <removesprite -1 11>
 <music 40>
 <background "bg004a0.agf" 10>
 <sprite "ta08a004.agf" 4 4 11>
-<name "ラキア" "!ZC0353">
-「はい、受け取りました。
-　これで、マクドゥ様の示した条件をクリアした事
-　になります」
+<name "Rakia" "!ZC0353">
+"Yes, I understand.
+ This means you have fulfilled the conditions
+ set by Macdo."
 #
 <removesprite -1 11>
 <sprite "ta08a004.agf" 2 4 11>
 <sprite "ta01a004.agf" 6 5 11>
-<name "ソフィア" "!ZB0721">
-「ふう」
+<name "Sofia" "!ZB0721">
+"Whew."
 #
 <sprite "ta08a023.agf" 2 4 12>
-<name "ラキア" "!ZC0354">
-「ご苦労様」
+<name "Rakia" "!ZC0354">
+"Well done."
 #
 <removesprite -1 11>
-<name "ダークス">
-「俺には言ってくれないのか？」
+<name "Darx">
+"I don't get that too?"
 #
 <sprite "ta08a004.agf" 4 4 11>
-<name "ラキア" "!ZC0355">
-「ダークス様もご苦労様でした」
+<name "Rakia" "!ZC0355">
+"You also did well."
 #
-<name "ダークス">
-「で、次の条件は？」
+<name "Darx">
+"So, what's next?"
 #
 <sprite "ta08a005.agf" 4 4 12>
-<name "ラキア" "!ZC0356">
-「すぐにご用意致しますが、ここでお渡しするわけ
-　には参りませんので」
+<name "Rakia" "!ZC0356">
+"We'll prepare it right away, but I won't be
+ able to give it to you now."
 #
-<name "ダークス">
-「帰って待ってろって事だな」
+<name "Darx">
+"Go home and wait then?"
 #
 <sprite "ta08a004.agf" 4 4 12>
-<name "ラキア" "!ZC0357">
-「はい」
+<name "Rakia" "!ZC0357">
+"Yes."
 #
-<name "ソフィア" "!ZB0722">
-「魔王様。
-　いまのうちに色々とやっておきましょう」
+<name "Sofia" "!ZB0722">
+"Overlord, let's get as much work done while
+ we have some time."
 #
 <sprite "ta08a023.agf" 4 4 12>
-<name "ラキア" "!ZC0358">
-「それが良いかと」
+<name "Rakia" "!ZC0358">
+"That's a good idea."
 #
-<name "ダークス">
-「へいへい。
-　まあ、でもだ」
+<name "Darx">
+"Yeah, yeah.
+ But, you know..."
 #
-<name "ダークス">
-「ここで飲むぐらいの時間はあるだろ？」
+<name "Darx">
+"Don't we have some time to get a drink?"
 #
 <removesprite -1 11>
 <sprite "ta01a025.agf" 4 4 11>
-<name "ソフィア" "!ZB0723">
-「……私のお店じゃ駄目ですか？」
+<name "Sofia" "!ZB0723">
+"...Not at my place?"
 #
-<name "ダークス">
-「駄目とは言わないさ。
-　が、勉強も兼ねて付き合え」
+<name "Darx">
+"I'm not saying no, but this is a chance to
+ hang out and for you to learn study up."
 #
 <sprite "ta01a024.agf" 4 4 12>
-<name "ソフィア" "!ZB0724">
-「え？
-　あ、はい、じゃあ」
+<name "Sofia" "!ZB0724">
+"Huh?
+ Oh, okay, then..."
 #
 <removesprite -1 11>
 <music 11>
 <background "bg015a0.agf" 10>
-　翌日。
+The next day...
 #
 <music 4>
 <background "bg009a0.agf" 10>
-<name "ダークス">
-「あれ？
-　ソフィアは？」
+<name "Darx">
+"Huh?
+ Where's Sofia?"
 #
 <sprite "ta34b000.agf" 4 4 11>
-<name "商会メイド" "!AC0200">
-「頑張ってます。
-　昨日、何があったんですか？」
+<name "Company Maid" "!AC0200">
+"Working hard.
+ Did something happen yesterday?"
 #
-<name "ダークス">
-「ラキアさんのお店で飲んだ」
+<name "Darx">
+"We got drinks at Rakia's place."
 #
-<name "商会メイド" "!AC0201">
-「あー、なるほど。
-　色々と勉強になったんでしょうね」
+<name "Company Maid" "!AC0201">
+"Ah, I see.
+ So she was meant to lear from a master?"
 #
-<name "ダークス">
-「頑張れるなら見込みがあるさ」
+<name "Darx">
+"I thought it might inspire her."
 #
-<name "商会メイド" "!AC0202">
-「魔王様。
-　ソフィア様はまだ頼りないかもしれませんが、ギュ
-　ンギュスカー商会の正社員です。
-　格上のお店を見たぐらいで潰れたりはしません」
+<name "Company Maid" "!AC0202">
+"Overlord, Sofia may still be somewhat
+ undependable, but she is a full fledged
+ Gunguskar employee. She won't be discouraged
+ from seeing a better store."
 #
-<name "ダークス">
-「それは失礼した」
+<name "Darx">
+"Sorry about that."
 #
 <removesprite -1 11>
 <exit>
@@ -173,46 +175,46 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta01a004.agf" 4 4 11>
-<name "ソフィア" "!ZB0725">
-「魔王様。
-　条件達成、おめでとうございます」
+<name "Sofia" "!ZB0725">
+"Overlord, congratulations on completing your
+ assignment."
 #
-<name "ダークス">
-「ああ。
-　これぐらいは軽いもんだ」
+<name "Darx">
+"Yeah. That was an easy one."
 #
 <sprite "ta01a033.agf" 4 4 12>
-<name "ソフィア" "!ZB0726">
-「次も頑張ってくださいね」
+<name "Sofia" "!ZB0726">
+"Good luck with the next one too."
 #
-<name "ダークス">
-「おう。
-　で、次の条件は？」
+<name "Darx">
+"Yeah.
+ So, what is next?"
 #
 <sprite "ta01a004.agf" 4 4 12>
-<name "ソフィア" "!ZB0727">
-「現在、検討中です。
-　まだしばらく掛かるみたいなので、今のうちに色
-　々とやりましょう」
+<name "Sofia" "!ZB0727">
+"That's still under consideration.
+ It looks like it may take some time, so let's
+ get things done while we have the chance."
 #
-<name "ダークス">
-「そうだな」
+<name "Darx">
+"All right."
 #
 <removesprite -1 11>
 <exit>
 :12D0
 <music 3>
 <background "bg010a0.agf" 10>
-<name "ダークス">
-「依頼は期間内に終わらせる！
-　それが優秀な冒険者！」
+<name "Darx">
+"Job finished on time!
+ That's a real adventurer for you!"
 #
-<name "ダークス">
-「そして、俺は元優秀な冒険者だった！」
+<name "Darx">
+"And I used to be a great adventurer!"
 #
 <sprite "ta01a004.agf" 4 4 11>
-<name "ソフィア" "!ZB0728">
-「期間内の条件達成、おめでとうございます」
+<name "Sofia" "!ZB0728">
+"Congratulations on finishing your assignment
+ on time."
 #
 <removesprite -1 11>
 <exit>
@@ -220,19 +222,19 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta01a033.agf" 4 4 11>
-<name "ソフィア" "!ZB0729">
-「条件達成ですね。
-　おめでとうございます」
+<name "Sofia" "!ZB0729">
+"You finished your assignment.
+ Congratulations."
 #
-<name "ダークス">
-「ま、なんとかな」
+<name "Darx">
+"Well, we managed."
 #
 <sprite "ta01a004.agf" 4 4 12>
-<name "ソフィア" "!ZB0730">
-「次も頑張ってくださいね」
+<name "Sofia" "!ZB0730">
+"Work hard next time too."
 #
-<name "ダークス">
-「おう」
+<name "Darx">
+"Yeah."
 #
 <removesprite -1 11>
 <exit>
@@ -240,13 +242,14 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta01a033.agf" 4 4 11>
-<name "ソフィア" "!ZB0731">
-「条件達成ですね。
-　次も頑張ってくださいね」
+<name "Sofia" "!ZB0731">
+"You completed your goals.
+ Good luck with the next one too."
 #
-<name "ダークス">
-「ああ。
-　ま、次の条件が決まるまで、色々やってるよ」
+<name "Darx">
+"Yeah.
+ Well, I've still got some time to work on a
+ few things until the next goal's picked."
 #
 <removesprite -1 11>
 <exit>
@@ -254,12 +257,12 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta01a033.agf" 4 4 11>
-<name "ソフィア" "!ZB0732">
-「条件達成です。
-　流石ですね」
+<name "Sofia" "!ZB0732">
+"Conditions complete.
+ I expected no less."
 #
-<name "ダークス">
-「おう、任せておけ」
+<name "Darx">
+"Yeah, leave it to me."
 #
 <removesprite -1 11>
 <exit>
@@ -267,26 +270,26 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta01a004.agf" 4 4 11>
-<name "ソフィア" "!ZB0733">
-「魔王様。
-　条件期間が迫っておりましたので、こちらで手続
-　きをしてクリアしておきました」
+<name "Sofia" "!ZB0733">
+"Overlord, since the deadline was approaching,
+ I went ahead and filed the report to have it
+ completed."
 #
-<name "ダークス">
-「そうか。
-　助かる」
+<name "Darx">
+"I see.
+ Thanks."
 #
 <sprite "ta01a027.agf" 4 4 12>
-<name "ソフィア" "!ZB0734">
-「できれば次からはもう少し余裕を持ってください
-　ね」
+<name "Sofia" "!ZB0734">
+"Next time, it would be good to leave a little
+ more leeway."
 #
 <sprite "ta01a004.agf" 4 4 12>
-<name "ソフィア" "!ZB0735">
-「何があるかわからないんですから」
+<name "Sofia" "!ZB0735">
+"You never know what might happen."
 #
-<name "ダークス">
-「ああ」
+<name "Darx">
+"Yeah."
 #
 <removesprite -1 11>
 <exit>
@@ -294,13 +297,12 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta01a004.agf" 4 4 11>
-<name "ソフィア" "!ZB0736">
-「魔王様。
-　条件期間がギリギリでしたので、こちらで手続き
-　しました」
+<name "Sofia" "!ZB0736">
+"Overlord, the deadline was coming up, so I
+ handled things."
 #
-<name "ダークス">
-「助かる」
+<name "Darx">
+"Thanks."
 #
 <removesprite -1 11>
 <exit>
@@ -308,13 +310,12 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta01a004.agf" 4 4 11>
-<name "ソフィア" "!ZB0737">
-「魔王様。
-　条件期間の締め切りでしたので、こちらで処理し
-　ました」
+<name "Sofia" "!ZB0737">
+"Overlord, the deadline for our assignment
+ came up, so I processed things."
 #
-<name "ダークス">
-「助かる」
+<name "Darx">
+"Thanks."
 #
 <removesprite -1 11>
 <exit>
@@ -322,276 +323,270 @@
 <music 40>
 <background "bg004a0.agf" 10>
 <sprite "ta08a004.agf" 4 4 11>
-<name "ラキア" "!ZC0363">
-「おや、ダークス様。
-　どうされました？」
+<name "Rakia" "!ZC0363">
+"If it isn't Darx.
+ Can I help you?"
 #
-<name "ダークス">
-「ああ、条件を達成したから証明書類を持ってきた」
+<name "Darx">
+"Yeah, I'm finished with my assignment, so I
+ brought the report."
 #
 <sprite "ta08a023.agf" 4 4 12>
-<name "ラキア" "!ZC0364">
-「……確かに。
-　お疲れ様です」
+<name "Rakia" "!ZC0364">
+"...Indeed.
+ Well done."
 #
-<name "ダークス">
-「しかし、条件が徐々に厳しくなるな」
+<name "Darx">
+"Still, don't these conditions keep getting
+ tougher each time?"
 #
 <sprite "ta08a004.agf" 4 4 12>
-<name "ラキア" "!ZC0365">
-「申し訳ありません。
-　ですが、ダークス様ならこなせると信じておりま
-　す」
+<name "Rakia" "!ZC0365">
+"I'm very sorry, but I have faith that you can
+ handle them."
 #
-<name "ダークス">
-「……」
+<name "Darx">
+"..."
 #
 <sprite "ta08a002.agf" 4 4 12>
-<name "ラキア" "!ZC0366">
-「あの？
-　なにか？」
+<name "Rakia" "!ZC0366">
+"Um, what is it?"
 #
 <removesprite -1 11>
-　俺はラキアさんを物陰に連れ込む。
+I pull Rakia into a corner.
 #
 <music 49>
 <background "ev041a00.agf" 10>
-<name "ラキア" "!ZC0367">
-「ぁ、ちょ、ちょっと、ダークス様？」
+<name "Rakia" "!ZC0367">
+"Ah... H-Hold on, Darx?"
 #
-<name "ダークス">
-「駄目か？」
+<name "Darx">
+"No?"
 #
-　俺はそう言いながら、ラキアさんのお尻を撫で回
-　す。
+I stroke her butt as I speak.
 #
-<name "ラキア" "!ZC0368">
-「……も、もう。
-　じゃあ、一回だけ……
-　でも、これでお怒りは鎮めてくださいね」
+<name "Rakia" "!ZC0368">
+"...H-Honestly.
+ Then, just once, but please let this calm
+ your temper."
 #
-<name "ダークス">
-「別に怒ってないよ」
+<name "Darx">
+"I'm not mad."
 #
-<name "ラキア" "!ZC0369">
-「そうですか？
-　そんな風には見えませんけど」
+<name "Rakia" "!ZC0369">
+"Really?
+ It doesn't seem that way to me."
 #
-<name "ダークス">
-「じゃあ、怒ってる」
+<name "Darx">
+"Okay, then I am mad."
 #
-<name "ラキア" "!ZC0370">
-「はい、わかりました。
-　では、ん、ぁ……」
+<name "Rakia" "!ZC0370">
+"Yes, I understand.
+ So...mm...ah..."
 #
-　俺はラキアさんのスカートを捲り上げた。
+I lift her skirt.
 #
 <background "ev041b00.agf" 10>
-<name "ラキア" "!ZC0371">
-「ぁ……そんなにじっくり見ないでください」
+<name "Rakia" "!ZC0371">
+"Ah...
+ Please don't stare so hard."
 #
-<name "ダークス">
-「じゃあ」
+<name "Darx">
+"Then..."
 #
-　下着越しに、ラキアさんのお尻を撫でる。
+I stroke her butt over her underwear.
 #
-<name "ラキア" "!ZC0372">
-「んぁ……ぁ、その……」
+<name "Rakia" "!ZC0372">
+"Mm...ah... 
+ Um..."
 #
-<name "ダークス">
-「わかってる」
+<name "Darx">
+"I know."
 #
-　このまま続けたら、下着が汚れる事を心配してい
-　るのだろう。
+She's worried about her clothes getting dirty
+if I keep this up.
 #
-　俺はラキアさんの下着をゆっくりとずらした。
+I slowly lower her underwear.
 #
 <background "ev041c00.agf" 10>
-<name "ラキア" "!ZC0373">
-「ぁ……」
+<name "Rakia" "!ZC0373">
+"Ah..."
 #
-　ラキアさんの陰部が丸見えになる。
+All of her is completely visible.
 #
-　俺は早々に、そこに顔を近づけ、舌を伸ばして愛
-　撫を始めた。
+I immediately bring my face close, reach out
+with my tongue, and begin carressing her. 
 #
-<name "ラキア" "!ZC0374">
-「ぁ、ん、んんぁ……」
+<name "Rakia" "!ZC0374">
+"Ah...mm...mmm..."
 #
-　ラキアさんは、受け入れるつもりになっているの
-　で、あっと言う間に陰部は愛液でベトベトになっ
-　ていく。
+Because she has every intention of accepting
+me, her entrance immediately gets dripping
+wet.
 #
-<name "ラキア" "!ZC0375">
-「ふぁ……ぁっ」
+<name "Rakia" "!ZC0375">
+"Aah...ah..."
 #
-　俺はラキアさんの陰部から顔を離し、代わりに腰
-　で暴発しそうなほど大きくなっているモノを近づ
-　けた。
+I move away and instead bring out my dick,
+already big enough and ready to explode.
 #
 <background "ev041c01.agf" 10>
-<name "ラキア" "!ZC0376">
-「ん、んんっ」
+<name "Rakia" "!ZC0376">
+"Mm...mmm..."
 #
-　俺のモノ先がラキアさんの陰部を分け入り、膣口
-　にハマる。
+My dick goes through her lips and enters her.
 #
-　そして、そのままゆっくりと腰に力を入れると、
-　俺のモノは吸い込まれるようにラキアさんの膣内
-　に潜り込んでいく。
+And as I slowly push forward, it sinks deep
+inside of her like it's being sucked in.
 #
-<name "ラキア" "!ZC0377">
-「んはぁ……」
+<name "Rakia" "!ZC0377">
+"Mmmm..."
 #
-　俺のモノ先がラキアさんの膣奥を突くと同時に発
-　せられた甘い声。
+She moans at the same time as I pierce her.
 #
-　それを合図にしたかのように、俺の腰が激しく動
-　き出す。
+And as if that was a signal, I intensely start
+thrusting my hips.
 #
-<name "ラキア" "!ZC0378">
-「んぁ、ふぁ、あっ、んん、ダ、ダークス、様っ、
-　ふぁ、ぁ、ぁ、んぁぁぁっ！」
+<name "Rakia" "!ZC0378">
+"Mm...aah...ah...mm... D-Darx...
+ Aah...ah...ah...aaah!"
 #
-　俺の激しい動きに対し、ラキアさんはジッとして
-　動かない。
+She holds still against my intense movements.
 #
-<name "ラキア" "!ZC0379">
-「ひぅ、ひぅぁ、あ、んぁ、ふぁ、あんっ、んぁっ、
-　や、やぁ、ひぁ、ひぁぅぁ、ぁぁぁひっ」
+<name "Rakia" "!ZC0379">
+"Ah! Ahh! Ah! Ahh! Ah! Aah! Ah!
+ Ah! Aah! Ahhh! Ah! Aaaahhh! Ahhh!"
 #
-　俺の好きなようにしろと言う事だろう。
+Like she's telling me to do whatever I want.
 #
-<name "ラキア" "!ZC0380">
-「あん、んっ、んんぁ、ふぁ、ふぁ、ぁっ」
+<name "Rakia" "!ZC0380">
+"Aah! Ahh! Mmmm! Ahhh! Ahh! Ah!"
 #
-　そう察した俺は、ラキアさんのお尻に身体をぶつ
-　け、激しい音を立てながら一回目の射精に向かっ
-　た。
+Which is why I slam against her butt, aiming
+to come right away through the intense sounds.
 #
-<name "ラキア" "!ZC0381">
-「ぁ、んぁ、あっ、ふぁ、ぁっ、ぁっ、ひぁ」
+<name "Rakia" "!ZC0381">
+"Ah! Aah! Ah! Ahh! Ah! Ahh! Aah!"
 #
-　だが、勝手に俺だけ射精するような真似はしない。
+But I don't intend to come on my own.
 #
-<name "ラキア" "!ZC0382">
-「ひ、ひっ、ひぁっ、うぁ、あっ、だ、駄目、ひぁ、
-　そ、そこは、ぁっ」
+<name "Rakia" "!ZC0382">
+"Ah! Ah! Ah! Aah! Ah!
+ N-No! Aah!
+ T-That spot's... Ah!"
 #
-　そう、俺がラキアさんを喜ばせても問題は無い筈
-　だ。
+Yeah, she won't have any complaints if I
+pleasure her too.
 #
-<name "ラキア" "!ZC0383">
-「ぁ、ぁ、ぁ……」
+<name "Rakia" "!ZC0383">
+"Ah...ah...ah..."
 #
-　俺はラキアさんをイかせようとモノを動かし、そ
-　して達すると思った瞬間にラキアさんにキスをし
-　た。
+I move to try to make her come too, and kiss
+her right at the moment I know she's close.
 #
-<name "ラキア" "!ZC0384">
-「むううううううううっ！」
+<name "Rakia" "!ZC0384">
+"Mmmmmmmmmmm!!!"
 #
-　そして、俺の射精。
+And then I come.
 #
-　ドクンッドクンッドクンッとモノを震わせながら、
-　ラキアさんの子宮に精液を流し込んでいく。
+My dick throbs and pours semen into her womb.
 #
 <background "ev041c02.agf" 10>
-<name "ラキア" "!ZC0385">
-「ん、んんんんっ……」
+<name "Rakia" "!ZC0385">
+"Mm...mmmmmmm..."
 #
-　俺は自分の長い射精が終わるまで、ラキアさんと
-　のキスを楽しみ続けた。
+I enjoy kissing her until my long ejaculation
+finishes.
 #
 <background "ev041c03.agf" 10>
-<name "ラキア" "!ZC0386">
-「ぁ、うぁ……ぁ……も、もう、キスする体位じゃ
-　ないと思います」
+<name "Rakia" "!ZC0386">
+"Ah...aah...ah...
+ H-Honestly, that isn't a position for
+ kissing..."
 #
-<name "ダークス">
-「そう？」
+<name "Darx">
+"Oh?"
 #
-　十分に堪能できた、つもりだが。
+I think we both enjoyed it though.
 #
-<name "ラキア" "!ZC0387">
-「それと、どうしてまた腰を動かしているんですか？」
+<name "Rakia" "!ZC0387">
+"And why are you moving your hips again?"
 #
-<name "ダークス">
-「二回目」
+<name "Darx">
+"Another time."
 #
-<name "ラキア" "!ZC0388">
-「……ですよね。
-　んぁ、ふぁ、も、もう……諦めました。
-　好きにしてください」
+<name "Rakia" "!ZC0388">
+"...Very well.
+ Mmm...aah... H-Honestly... I give up.
+ Do whatever you like."
 #
-<name "ダークス">
-「ああ」
+<name "Darx">
+"Yeah."
 #
-　俺はラキアさんとの行為を楽しみ、ラキアさんの
-　二回目の絶頂と共に、そのお尻に精液をぶっかけ
-　た。
+I enjoy myself with her, and for the second
+time, come over her ass.
 #
 <background "ev041c05.agf" 10>
-<name "ラキア" "!ZC0389">
-「ぁ、ん、んぁ…………そ、外ですか？」
+<name "Rakia" "!ZC0389">
+"Ah...mm...mm...
+ O-Outside?"
 #
-<name "ダークス">
-「基本、膣内射精派の俺だが、ラキアさんには掛け
-　たくなる」
+<name "Darx">
+"I normally prefer to come inside, but I 
+ wanted to mark you."
 #
-<name "ラキア" "!ZC0390">
-「ど、どういう意味ですか？」
+<name "Rakia" "!ZC0390">
+"W-What do you mean?"
 #
-<name "ダークス">
-「ラキアさんを俺の精液塗れにしたい」
+<name "Darx">
+"I wanted to paint you with my semen."
 #
-<name "ラキア" "!ZC0391">
-「ぇ、ぁ、ダークス様」
+<name "Rakia" "!ZC0391">
+"Ah...ah...
+ Darx..."
 #
-<name "ダークス">
-「ラキアさん」
+<name "Darx">
+"Rakia."
 #
-　俺はラキアさんを離さず、行為を続けた。
+I didn't let her go for a long time.
 #
 <background "bg017a0.agf" 10>
 <music 40>
 <background "bg004a0.agf" 10>
 <sprite "ta34b000.agf" 4 4 11>
-<name "商会メイド" "!AC0203">
-「ダークス様。
-　ラキア様を知りませんか？」
+<name "Company Maid" "!AC0203">
+"Darx, do you know where Rakia is?"
 #
-<name "ダークス">
-「あー、今日は病欠だ」
+<name "Darx">
+"Oh, she's out sick today."
 #
 <sprite "ta34b002.agf" 4 4 12>
-<name "商会メイド" "!AC0204">
-「え？
-　あのラキア様が？」
+<name "Company Maid" "!AC0204">
+"Huh?
+ Rakia is?"
 #
-<name "ダークス">
-「ははは。
-　詮索は止めてやってくれ」
+<name "Darx">
+"Hahaha.
+ No questions."
 #
 <sprite "ta34b001.agf" 4 4 12>
-<name "商会メイド" "!AC0205">
-「はぁ」
+<name "Company Maid" "!AC0205">
+"Um..."
 #
 <removesprite -1 11>
 <music 11>
 <background "bg016a0.agf" 10>
-　ラキアさんが動けなくなるほど続けた俺は、満足
-　して帰る事にした。
+I didn't stop until she could no longer stand
+straight, and then went home satisfied.
 #
-<name "ラキア" "!ZC0392" "ka08a111.agf">
-「ダークス様。
-　後で怖いですからね」
+<name "Rakia" "!ZC0392" "ka08a111.agf">
+"Darx, be afraid of what comes after this."
 #
-<name "ダークス">
-「……」
+<name "Darx">
+"..."
 #
-　もちろん、ラキアさんをラキアさんの家まで、丁
-　寧に送ってからだ。
+Of course, after I very politely made sure she
+got home okay.
 #
 \x0A\x44\x02\xFC\x84\x01
 <exit>
@@ -599,561 +594,570 @@
 <music 40>
 <background "bg004a0.agf" 10>
 <sprite "ta08a004.agf" 4 4 11>
-<name "ラキア" "!ZC0393">
-「もう達成されたのですか？
-　凄い速さですね」
+<name "Rakia" "!ZC0393">
+"You've finished already?
+ Very impressively quick."
 #
-<name "ダークス">
-「運が良かったって事かな」
+<name "Darx">
+"I just got lucky, I guess."
 #
 <sprite "ta08a023.agf" 4 4 12>
-<name "ラキア" "!ZC0394">
-「運も実力の内です。
-　次も頑張ってくださいね」
+<name "Rakia" "!ZC0394">
+"Luck is also a skill.
+ Work hard for the next time too, all right?"
 #
-<name "ダークス">
-「ああ、そうしたいから」
+<name "Darx">
+"Yeah, I intend to."
 #
 <sprite "ta08a001.agf" 4 4 12>
-<name "ラキア" "!ZC0395">
-「え？」
+<name "Rakia" "!ZC0395">
+"Huh?"
 #
 <removesprite -1 11>
-　俺はラキアさんを裏手の倉庫に連れ込んだ。
+I pull her to the back of the storage area.
 #
 <music 49>
 <background "ev042a00.agf" 10>
-<name "ラキア" "!ZC0396">
-「も、もうっ、ダークス様ったら……
-　ぁっ、ん、んぁっ、ふぁ」
+<name "Rakia" "!ZC0396">
+"H-Honestly, Darx...
+ Ah...mmm...mm...aah..."
 #
-　倉庫にあるテーブルにラキアさんを座らせ、強引
-　にキスをする。
+I push her onto a table in the warehouse and
+force a kiss on her.
 #
-<name "ラキア" "!ZC0397">
-「んんぁ……ぁっ」
+<name "Rakia" "!ZC0397">
+"Mmmm...ah!"
 #
-　そうして口を塞いでおきながら、俺は手早くラキ
-　アさんの衣服を脱がす。
+While keeping her mouth closed, I quickly
+undress her.
 #
-　ラキアさんもそれに気付いているが、キスによっ
-　て抵抗できない。
+She realizes what's happening, but can't 
+resist the kiss.
 #
-<name "ラキア" "!ZC0398">
-「ふぁ、んっ」
+<name "Rakia" "!ZC0398">
+"Ahh...mmm..."
 #
-　そして、一気に愛撫。
+And immediately caress her.
 #
-　間髪を入れない挿入。
+Then stick it in immediately after.
 #
 <background "ev042a01.agf" 10>
-<name "ラキア" "!ZC0399">
-「ふぁ、も、もうっ、ダークス様は……」
+<name "Rakia" "!ZC0399">
+"Aah... H-Honestly, you're so..."
 #
-　俺のモノがラキアさんの膣内をかき回し始めると、
-　ラキアさんは抵抗を諦めた。
+As soon as my dick begins stirring up her
+pussy, she gives up fighting it.
 #
-<name "ラキア" "!ZC0400">
-「強引なんですから、んあ、はぁん、ぁ、ぁっ」
+<name "Rakia" "!ZC0400">
+"You're so pushy...
+ Mmm...aaah...ah...ah..."
 #
-<name "ダークス">
-「ラキアさんが魅力的過ぎるんだよ」
+<name "Darx">
+"Because you're too attractive."
 #
-<name "ラキア" "!ZC0401">
-「ぁ、んぁ、ど、どうして、ふぁ、私の時は……
-　そうやって、んんぁ、ほ、褒めて、ぁぁん」
+<name "Rakia" "!ZC0401">
+"Ah...ah... W-Why...ah... when you do this...
+ you only...mmm... f-flatter me...
+ Ahhhh!"
 #
-<name "ダークス">
-「褒めるところしかないからさ」
+<name "Darx">
+"There's only things to flatter."
 #
-<name "ラキア" "!ZC0402">
-「ぁ……ん、も、もう」
+<name "Rakia" "!ZC0402">
+"Am...mm...
+ H-Honestly..."
 #
-　俺はラキアさんの胸に吸い付く。
+I suck on her breasts.
 #
-<name "ラキア" "!ZC0403">
-「あっ、ふぁ、あっ、そ、そんな。
-　噛むのは、や、ひぁ、んんんっ」
+<name "Rakia" "!ZC0403">
+"Ah...aah...ah... D-Don't...
+ Y-You're biti...ah!
+ Aah! Mmmm!"
 #
-　ラキアさんとも長い付き合いだ。
+I've known her for a very long time.
 #
-　弱点はほぼ理解している。
+I know almost all her weaknesses.
 #
-　しかし、回数を重ねての新たな発見もある。
+But there are always new things to discover,
+even ones I've found before.
 #
-　褒めるのは、その一旦。
+One of the first ones was flattery.
 #
-　ラキアさんは仕事以外を褒められる事に弱い。
+Aside from her work, she's exceptionally weak
+to flattery.
 #
-　だが、行為に及びたいから言っているワケではな
-　い。
+But I'm not saying it just to turn her on.
 #
-　本心だ。
+It's the truth.
 #
 <background "ev042a02.agf" 10>
-<name "ラキア" "!ZC0404">
-「ぁ、ぁ、ぁ、ふぁ」
+<name "Rakia" "!ZC0404">
+"Ah...ah...ah...ahhh..."
 #
-　ラキアさんに、虚偽の褒め言葉など通用する筈が
-　ない。
+She has no need for insincere praise.
 #
-　俺の本心だと理解してくれているからこそ、弱い
-　のだろう。
+Maybe she's so weak to it because she knows
+it's how I really feel.
 #
-<name "ラキア" "!ZC0405">
-「ん、ぁ、ダ、ダークス、様ぁ」
+<name "Rakia" "!ZC0405">
+"Mm...ah... D-Darx..."
 #
-　ラキアさんが、腰を動かし始めた。
+She starts moving her hips.
 #
-　台にしているテーブルがガタガタと音を立て始め
-　る。
+The table she's sitting on creaks and groans.
 #
-　俺はラキアさんの要求に応えるように、さらに腰
-　の動きを速くしていく。
+I move my hips faster like she wants.
 #
-<name "ラキア" "!ZC0406">
-「ぁ、うぁ、あ、ふぁ、ああ、んんんんっ」
+<name "Rakia" "!ZC0406">
+"Ah...aah...ah...ahhh...aaah...mmmmmm!"
 #
-　腰の速度を速くしようと前屈みになった所を、ラ
-　キアさんが俺の頭を掴んでキスをしてきた。
+When I bend forward to go faster, she grabs
+my face and kisses me.
 #
-<name "ラキア" "!ZC0407">
-「むぁ、あっ、ぬぁん、んぬぁっ、あっ」
+<name "Rakia" "!ZC0407">
+"Mmmm...ah...mmmm...mmm...ah!"
 #
-　行為がエスカレートしていく。
+The act quickly escalates.
 #
-　机の音、俺とラキアさんの肉体がぶつかる音、そ
-　してラキアさんの膣内を俺のモノがかき回す音。
+The sound of the table, the sound of our
+bodies slapping together, and the sound of my
+dick stirring up her pussy. 
 #
-　それらを感じながら、俺とラキアさんは一つになっ
-　ていく。
+The feeling of us being one.
 #
-<name "ラキア" "!ZC0408">
-「むぅ、ぁ、ぁ、ふぁ、ぁっ、ぁぁっ！」
+<name "Rakia" "!ZC0408">
+"Mmm...aah! Ah! Ahh! Ah! Aahhh!"
 #
-　ラキアさんが俺を強く抱き締め、大きく達した。
+She hugs me tight and has a big orgasm.
 #
-<name "ラキア" "!ZC0409">
-「ふぁぁぁぁぁぁぁぁっ！」
+<name "Rakia" "!ZC0409">
+"Aaaaaahhhhhhhhh!!!"
 #
-　それに少し遅れ、俺はラキアさんの膣奥で射精を
-　開始する。
+Just after her, I come in her pussy.
 #
 <background "ev042a03.agf" 10>
-<name "ラキア" "!ZC0410">
-「ぁ、うぁ……ふぁ……」
+<name "Rakia" "!ZC0410">
+"Ah...aah...ahhh..."
 #
-　俺とラキアさんの目が合う。
+Our eyes meet.
 #
 <background "ev042a04.agf" 10>
-<name "ラキア" "!ZC0411">
-「まだ、終わりませんよね」
+<name "Rakia" "!ZC0411">
+"You're not done yet, are you?"
 #
-<name "ダークス">
-「当然だ」
+<name "Darx">
+"Of course not."
 #
-　俺はまた腰を動かし、ラキアさんの肉体を求める。
+I move my hips again, coveting her body.
 #
-　ラキアさんも腰を動かし、全身を使って俺を求め
-　てくる。
+She moves her hips as well, using her whole
+body to entice me.
 #
-　それらを楽しみながら、俺は何度も何度も射精を
-　繰り返した。
+We enjoy each other, and I come over and over.
 #
 <background "ev042a06.agf" 10>
-<name "ラキア" "!ZC0412">
-「ぁ……ふぁ……ぁ……」
+<name "Rakia" "!ZC0412">
+"Ah...aahhh...ah..."
 #
-　……少し、やりすぎた。
+...I may have overdone it a little.
 #
-　ラキアさんは、この日。
-　お店を休んだ。
+Rakia took a break from the store that day.
 #
 \x0A\x44\x02\xFD\x84\x01
 <exit>
 :3F66
 <music 49>
 <background "ev041c05.agf" 10>
-<name "ラキア" "!ZC0413">
-「ふぁ……ぁ……ぁぁ……
-　うう、またこんなに精液塗れにされてしまいまし
-　た……」
+<name "Rakia" "!ZC0413">
+"Aah...ah...aahh...
+ Oooh... 
+ You smeared me in so much semen again..."
 #
-<name "ダークス">
-「駄目だった？」
+<name "Darx">
+"I shouldn't have?"
 #
-<name "ラキア" "!ZC0414">
-「ここまでされると、着替えに戻らないといけませ
-　ん。
-　それに、シャワーも浴びないとお客様の前には出
-　れませんから」
+<name "Rakia" "!ZC0414">
+"When it's this bad, I need to change clothes
+ before going back.
+ And if I don't take a shower, I can't go in
+ front of customers."
 #
-<name "ダークス">
-「じゃあ、もう少し徹底的にやっても同じだな」
+<name "Darx">
+"Then it's the same if I go a little further."
 #
-<name "ラキア" "!ZC0415">
-「え？
-　あ、ま、待って、ダークス様。
-　待って……ひぁ、あっ、ああああっ」
+<name "Rakia" "!ZC0415">
+"Huh?
+ Ah, w-wait, Darx.
+ Wait... Aah! Ah! Aahhh!"
 #
-　俺はラキアさんとの行為を、存分に楽しんだ。
+I fully enjoyed myself with her.
 #
-<name "ラキア" "!ZC0416">
-「う、後ろの穴まで使われてしまった……」
+<name "Rakia" "!ZC0416">
+"Y-You even used the other hole..."
 #
-<name "ダークス">
-「ラキアさん」
+<name "Darx">
+"Rakia."
 #
-<name "ラキア" "!ZC0417">
-「なんですか？」
+<name "Rakia" "!ZC0417">
+"What?"
 #
-<name "ダークス">
-「ラキアさん、ラキアさん、ラキアさん」
+<name "Darx">
+"Rakia, Rakia, Rakia."
 #
-　発情した犬のように、俺はラキアさんに抱きつい
-　た。
+I cling to her like a horny dog.
 #
-<name "ラキア" "!ZC0418">
-「ダークス様？
-　あ、また、大きくなって、ちょ、だ、駄目、シャ
-　ワー浴びたのに、あ、あ、あぁあぁっ！」
+<name "Rakia" "!ZC0418">
+"Darx?
+ Ah... It's getting big again...
+ Hey, n-no, I just took a shower...
+ Ah! Ah! Aaahhh!"
 #
-　その日、ラキアさんはお店を欠席した。
+She didn't get back to work in the shop that
+day.
 #
-　あと、俺にあだ名がついた。
+And I got a new nickname.
 #
-<name "ラキア" "!ZC0419">
-「は、発情犬」
+<name "Rakia" "!ZC0419">
+"H-Horny dog."
 #
-　不名誉なあだ名だが、ラキアさんから言われる分
-　には受け止めよう。
+It's an unpleasant nickname, but I'll accept
+it from her.
 #
 \x0A\x44\x02\xFE\x84\x01
 <exit>
 :43E9
 <music 49>
 <background "ev042a00.agf" 10>
-<name "ラキア" "!ZC0420">
-「きゅ、急には流石に困るのですが……」
+<name "Rakia" "!ZC0420">
+"D-Doing it without warning is quite
+ bothersome..."
 #
-<name "ダークス">
-「ラキアさん」
+<name "Darx">
+"Rakia."
 #
-<name "ラキア" "!ZC0421">
-「な、なんです」
+<name "Rakia" "!ZC0421">
+"W-What?"
 #
-<name "ダークス">
-「困った顔も魅力的だ」
+<name "Darx">
+"You're pretty when you're bothered."
 #
-<name "ラキア" "!ZC0422">
-「もう……ダークス様は……」
+<name "Rakia" "!ZC0422">
+"Honestly...
+ You're..."
 #
 <background "ev042a01.agf" 10>
-<name "ラキア" "!ZC0423">
-「いいです。
-　好きにしてください」
+<name "Rakia" "!ZC0423">
+"Very well.
+ Do as you wish."
 #
-<name "ダークス">
-「じゃあ」
+<name "Darx">
+"Then..."
 #
-<name "ラキア" "!ZC0424">
-「ああ、その前に」
+<name "Rakia" "!ZC0424">
+"Ah, but first..."
 #
-<name "ダークス">
-「？」
+<name "Darx">
+"Hm?"
 #
-<name "ラキア" "!ZC0425">
-「キス、してからです」
+<name "Rakia" "!ZC0425">
+"Kiss me."
 #
-<name "ダークス">
-「ああ」
+<name "Darx">
+"Yeah."
 #
-　俺はラキアさんと濃厚なキスをしてから、何度も
-　行為を楽しんだ。
+I share a passionate kiss with her, and then
+enjoy myself many times.
 #
 \x0A\x44\x01\xCE\x84\x01\x0A\x44\x02\xFF\x84\x01
 <exit>
 :466C
 <music 49>
 <background "ev042a02.agf" 10>
-<name "ラキア" "!ZC0426">
-「あん、あ、ふぁ、あ、あ、ああん、ふぁっ」
+<name "Rakia" "!ZC0426">
+"Aah! Ah! Aah! Ah! Ah! Aaah! Ahhhh!"
 #
-　俺はラキアさんの肉体を楽しむ。
+I enjoy Rakia's body.
 #
-　達成条件をクリアした事を報告した際に、そのま
-　ま雪崩れ込んだ。
+After reporting that we finished our 
+assignment, things escalated quickly.
 #
-　ラキアさんも、ご褒美的な感覚で相手をしてくれ
-　ているのかもしれない。
+Rakia may also feel like being with me is kind
+of a reward.
 #
-　なら、素直に受け取ろう。
+So she accepts it without complaint.
 #
-<name "ラキア" "!ZC0427">
-「あ、ふぁ、ぁっ、ぁ、ぁ……んんんっ」
+<name "Rakia" "!ZC0427">
+"Ah...aah...ah...ah...mmmmmm..."
 #
-　俺はラキアさんの膣奥を、モノ先で強くノックし
-　た。
+I beat against the back of her pussy with my
+dick.
 #
 <background "ev042a03.agf" 10>
-<name "ラキア" "!ZC0428">
-「ぁ……ゃ……んぁぁぁぁぁぁぁぁぁぁっ」
+<name "Rakia" "!ZC0428">
+"Ah...ah...mmmmmmmmaaaaaahhhhh!!!"
 #
-　ラキアさんの達した顔。
+She climaxes.
 #
-　それに誘われたように、俺のモノ先からは大量の
-　精液がラキアさんの膣奥で発射されていた。
+And drawn by it, a flood of semen erupts from
+my dick into her.
 #
-<name "ラキア" "!ZC0429">
-「んぁ……」
+<name "Rakia" "!ZC0429">
+"Mmmm..."
 #
-<name "ダークス">
-「ラキアさん」
+<name "Darx">
+"Rakia."
 #
-<name "ラキア" "!ZC0430">
-「ぁ」
+<name "Rakia" "!ZC0430">
+"Ah..."
 #
-　俺はラキアさんにキスをし、さらに求め続けた。
+I kiss her and demanded more.
 #
 \x0A\x44\x03\x00\x84\x01
 <exit>
 :49BB
 <music 49>
 <background "ev041c00.agf" 10>
-<name "ラキア" "!ZC0431">
-「あの……」
+<name "Rakia" "!ZC0431">
+"Um..."
 #
-<name "ダークス">
-「なに？」
+<name "Darx">
+"What?"
 #
-<name "ラキア" "!ZC0432">
-「どうして、先ほどからお尻を撫でるだけなのです
-　か？」
+<name "Rakia" "!ZC0432">
+"Why have you only been stroking my butt?"
 #
-<name "ダークス">
-「早く挿入した方が良かった？」
+<name "Darx">
+"You want me to put it in faster?"
 #
-　ラキアさんの太ももには、愛液が伝っている。
+Her juices are dripping down her thighs.
 #
-<name "ラキア" "!ZC0433">
-「いえ、そうではなく……」
+<name "Rakia" "!ZC0433">
+"No, that's not it..."
 #
-<name "ダークス">
-「えっと……
-　タイミングを見計らっているんだ」
+<name "Darx">
+"Um...
+ Just thinking about the timing."
 #
-<name "ラキア" "!ZC0434">
-「タイミング？」
+<name "Rakia" "!ZC0434">
+"The timing?"
 #
-<name "ダークス">
-「ああ。
-　ん……」
+<name "Darx">
+"Yeah.
+ Hm..."
 #
-<name "商会メイド" "!PC0231">
-「ラキア様、いますかー？」
+<name "Company Maid" "!PC0231">
+"Rakia, are you here?"
 #
-<name "ラキア" "!ZC0435">
-「ぁ」
+<name "Rakia" "!ZC0435">
+"Ah..."
 #
-　メイドの一人がラキアさんを探しに来たタイミン
-　グで、俺はラキアさんの膣内にモノを捻じ込んだ。
+Right as one of the maids comes looking for
+her, I sink my dick inside her.
 #
 <background "ev041c01.agf" 10>
-<name "ラキア" "!ZC0436">
-「ダ、ダークス様、だ、駄目、あ、ひぁ、ぁっ」
+<name "Rakia" "!ZC0436">
+"D-Darx, d-don't...
+ Ah! Aahh!"
 #
-　ずっと撫でられていたラキアさんの下半身は、準
-　備万端だ。
+Her body is more than ready after the long
+foreplay.
 #
-　俺のモノを素直に受け入れている。
+It accepts my dick immediately.
 #
-　が、近くにメイドが居る事で、抵抗する。
+But with a maid nearby, she tries to fight it.
 #
-<name "ラキア" "!ZC0437">
-「ダークス様、お、怒りますよ。
-　ふぁ、ぁ、ぁ……」
+<name "Rakia" "!ZC0437">
+"Darx, y-you'll make me mad.
+ Aah...ah...ah..."
 #
-<name "商会メイド" "!PC0232">
-「ラキア様、いませんかー？」
+<name "Company Maid" "!PC0232">
+"Rakia, where are you?"
 #
-<name "ダークス">
-「返事をどうぞ」
+<name "Darx">
+"You should answer her."
 #
-<name "ラキア" "!ZC0438">
-「ぁ、う、ぁ……ひぁ」
+<name "Rakia" "!ZC0438">
+"Ah...ah...ah...ahh!"
 #
-<name "ダークス">
-「じゃあ代わりに、ここにラキアさんが居るぞー」
+<name "Darx">
+"Then I'll have to tell her you're here."
 #
-<name "商会メイド" "!PC0233">
-「魔王様？
-　あ、そこでしたか」
+<name "Company Maid" "!PC0233">
+"Overlord?
+ Oh, you're here?"
 #
-<name "ダークス">
-「ああ、すまない。
-　そこでストップだ」
+<name "Darx">
+"Yeah, sorry.
+ Stop right there."
 #
-<name "商会メイド" "!PC0234">
-「え？」
+<name "Company Maid" "!PC0234">
+"Huh?"
 #
-<name "ダークス">
-「ちょっとした秘密会議をしてる最中だ。
-　見られちゃマズイ物を広げているんだ」
+<name "Darx">
+"We're having a private meeting.
+ Not for your eyes."
 #
-<name "商会メイド" "!PC0235">
-「そ、そうでしたか。
-　お邪魔して申し訳ありません」
+<name "Company Maid" "!PC0235">
+"I-I see.
+ I'm sorry for bothering you."
 #
-<name "ダークス">
-「いや、気にするな。
-　ラキアさんへの用事は？」
+<name "Darx">
+"No, it's fine.
+ Did you need Rakia for something?"
 #
-<name "商会メイド" "!PC0236">
-「はい。
-　ソフィア様のお店に送る商品リストはどこかと」
+<name "Company Maid" "!PC0236">
+"Yes.
+ Where is the list of products that need to
+ be sent to Sofia's store?"
 #
-<name "ダークス">
-「だって？」
+<name "Darx">
+"Well?"
 #
-　俺はメイドとの会話中、常にラキアさんの膣内を
-　掻き回していたが、ラキアさんはそれに声を出さ
-　ないように耐えていた。
+I keep moving inside of Rakia's pussy as I
+talk to the maid, even as she fights not to
+moan.
 #
-<name "ラキア" "!ZC0439">
-「ぁ、うぁ……ごめんなさい。
-　渡そうと思っていたのに、うっかりしていました。
-　私の事務机の横にある棚。
-　わかりますか？」
+<name "Rakia" "!ZC0439">
+"Ah...ah... I'm sorry.
+ I meant to give it to her but I forgot.
+ It's on the shelf in my office next to my 
+ desk. Do you know where that is?"
 #
-<name "商会メイド" "!PC0237">
-「ええ。
-　あの青い背表紙の本が沢山ある棚ですよね」
+<name "Company Maid" "!PC0237">
+"Yes.
+ The shelf with the blue books on it?"
 #
-<name "ラキア" "!ZC0440">
-「そう。
-　そこの真ん中の段、開けてすぐの所にあります」
+<name "Rakia" "!ZC0440">
+"That's right.
+ It's in the middle row there, right at the
+ front."
 #
-<name "ラキア" "!ZC0441">
-「日付を確認後、手配をお願いします」
+<name "Rakia" "!ZC0441">
+"Check the date, and then please take care of
+ the rest."
 #
-<name "商会メイド" "!PC0238">
-「はい。
-　承知しました。
-　失礼します」
+<name "Company Maid" "!PC0238">
+"Yes, ma'am.
+ I understand.
+ Excuse me."
 #
-　……
+...
 #
-　メイドは去っていった。
+The maid leaves.
 #
-<name "ラキア" "!ZC0442">
-「ぁ、ふぁ、ダ、ダークス様ぁ」
+<name "Rakia" "!ZC0442">
+"Ah...aah...
+ D-Darx..."
 #
-　怒って涙目のラキアさんに、俺は大量の膣内射精
-　を開始した。
+I start to come inside her as she glares at
+me through tears.
 #
 <music 40>
 <background "bg004a0.agf" 10>
 <sprite "ta08a118.agf" 4 4 11>
-<name "ラキア" "!ZC0443">
-「き、気付かれたらどうするんですか」
+<name "Rakia" "!ZC0443">
+"W-What would have happened if she saw us?"
 #
-<name "ダークス">
-「別におかしい事じゃないだろ」
+<name "Darx">
+"It's nothing special, right?"
 #
 <sprite "ta08a116.agf" 4 4 12>
-<name "ラキア" "!ZC0444">
-「私にも威厳というものがあります」
+<name "Rakia" "!ZC0444">
+"I have my dignity too."
 #
 <removesprite -1 11>
 <sprite "ta08a116.agf" 2 5 11>
 <sprite "ta34b000.agf" 6 4 11>
-<name "商会メイド" "!PC0239">
-「あ、ラキア様。
-　会議は終わりましたか？」
+<name "Company Maid" "!PC0239">
+"Ah, Rakia.
+ Are you done with your meeting?"
 #
 <sprite "ta08a022.agf" 2 5 12>
-<name "ラキア" "!ZC0445">
-「え？
-　ええ、なんとか。
-　リストは見つかったのですか？」
+<name "Rakia" "!ZC0445">
+"Huh?
+ Yes, I think so.
+ Did you find the list?"
 #
-<name "商会メイド" "!PC0240">
-「はい。
-　なんとか。
-　では、失礼します」
+<name "Company Maid" "!PC0240">
+"Yes, eventually.
+ Okay, excuse me."
 #
 <removesprite -1 11>
 <sprite "ta08a024.agf" 4 4 11>
-<name "ラキア" "!ZC0446">
-「……あの様子ですと、気付いていませんね」
+<name "Rakia" "!ZC0446">
+"...She really didn't realize."
 #
-<name "ダークス">
-「まあ、ラキアさんが仕事中に裏でＨな事をしてい
-　るなんて、想像もしないんじゃないか」
+<name "Darx">
+"Well, she probably wouldn't even imagine the
+ great Rakia having sex in the back while at
+ work."
 #
 <sprite "ta08a018.agf" 4 4 12>
-<name "ラキア" "!ZC0447">
-「うう」
+<name "Rakia" "!ZC0447">
+"Oooh..."
 #
-<name "ダークス">
-「ラキアさんが、嫌がるならもうしないでおくよ」
+<name "Darx">
+"If you don't like it, I won't do it
+ anymore."
 #
 <sprite "ta08a116.agf" 4 4 12>
-<name "ラキア" "!ZC0448">
-「……ズ、ズルいです」
+<name "Rakia" "!ZC0448">
+"...Y-You're mean."
 #
-<name "ダークス">
-「じゃあ、またしよう」
+<name "Darx">
+"Then let's do it again."
 #
 <sprite "ta08a117.agf" 4 4 12>
-<name "ラキア" "!ZC0449">
-「そ、それも困ります」
+<name "Rakia" "!ZC0449">
+"T-That's also questionable."
 #
 <removesprite -1 11>
-　俺はラキアさんとイチャイチャした。
+I make love with her.
 #
 \x0A\x44\x03\x01\x84\x01
 <exit>
 :591A
 <music 49>
 <background "ev042a05.agf" 10>
-<name "ラキア" "!ZC0450">
-「ふぁ……ぁぁぁぁ……」
+<name "Rakia" "!ZC0450">
+"Aah...ahhh..."
 #
-<name "ダークス">
-「ん……大丈夫？」
+<name "Darx">
+"Mmm...
+ Are you okay?"
 #
-<name "ラキア" "!ZC0451">
-「んぁ……ぁ……駄目……です」
+<name "Rakia" "!ZC0451">
+"Mm...ah...
+ I can't... move."
 #
 <music 40>
 <background "bg004a0.agf" 10>
 <sprite "ta08a004.agf" 4 4 11>
-<name "ラキア" "!ZC0452">
-「いらっしゃいませ」
+<name "Rakia" "!ZC0452">
+"Welcome."
 #
-<name "ダークス">
-「回復、早くなったな」
+<name "Darx">
+"You recover quickly."
 #
 <sprite "ta08a023.agf" 4 4 12>
-<name "ラキア" "!ZC0453">
-「な、慣れですね」
+<name "Rakia" "!ZC0453">
+"Y-You get used to it."
 #
-<name "ダークス">
-「そうか。
-　慣れられたかぁ」
+<name "Darx">
+"I see.
+ So, you're used to it, huh?"
 #
 <sprite "ta08a018.agf" 4 4 12>
-<name "ラキア" "!ZC0454">
-「へ、変な事、考えてませんよね」
+<name "Rakia" "!ZC0454">
+"D-Don't get any funny ideas."
 #
-<name "ダークス">
-「変な事じゃない。
-　素敵な事だ」
+<name "Darx">
+"Not funny.
+ Wonderful."
 #
 <sprite "ta08a021.agf" 4 4 12>
-<name "ラキア" "!ZC0455">
-「も、もう……」
+<name "Rakia" "!ZC0455">
+"H-Honestly..."
 #
 <removesprite -1 11>
 \x2B\x0A\x44\x03\x02\x84\x01
@@ -1161,261 +1165,271 @@
 :5C25
 <music 41>
 <background "ev043a00.agf" 10>
-　俺は条件を達成した事をラキアさんに伝えると、
-　家に向かった。
+After reporting to Rakia that I finished my
+tasks, I went home.
 #
-<name "角のある娘" "!HC0049">
-「あ、パパだー」
+<name "Horned Girl" "!HC0049">
+"Ah, it's daddy!"
 #
-<name "羽の綺麗な娘" "!SB0130">
-「お帰りー」
+<name "Pretty Winged Girl" "!SB0130">
+"Welcome home."
 #
-<name "フォーゼロッテ" "!XA0156">
-「うむ。
-　お帰り。
-　どうかしたのか？」
+<name "Forzelotte" "!XA0156">
+"Mm.
+ Welcome home.
+ How have you been?"
 #
-<name "ダークス">
-「その前に……
-　カーシャがお菓子を作ってくれているぞ。
-　急いで、移動だ」
+<name "Darx">
+"First...
+ Kasha is making sweets for you.
+ Hurry up and go get some."
 #
-<name "角のある娘" "!HC0050">
-「ほんとー」
+<name "Horned Girl" "!HC0050">
+"Really?"
 #
-<name "羽の綺麗な娘" "!SB0131">
-「やたー！」
+<name "Pretty Winged Girl" "!SB0131">
+"Yay!"
 #
 <background "bg003a0.agf" 10>
-　フォーゼロッテの周りに居た俺の子供達が、一斉
-　に部屋から出て行く。
+My kids around Forzelotte all go racing out
+of the room.
 #
-　最後の一人が部屋から出て行った瞬間、俺は部屋
-　の鍵を閉めた。
+As soon as the last one's out, I lock the 
+door.
 #
 <sprite "ta09a003.agf" 4 4 11>
-<name "フォーゼロッテ" "!XA0157">
-「え？」
+<name "Forzelotte" "!XA0157">
+"Huh?"
 #
 <removesprite -1 11>
-　そして、フォーゼロッテを押し倒す。
+And push down Forzelotte.
 #
 <music 50>
 <background "ev045a00.agf" 10>
-<name "フォーゼロッテ" "!XA0158">
-「きゅ、急になんじゃ。
-　こら、あっ、ま、待て、まだ近くに……」
+<name "Forzelotte" "!XA0158">
+"S-So sudden.
+ Hey, ah, w-wait, they're still near..."
 #
-　遠慮無く胸に吸い付き、その味を確かめながらフォ
-　ーゼロッテの身体を弄る。
+I immediately begin sucking on her chest and
+touch her all over as I taste her.
 #
 <background "ev045a01.agf" 10>
-<name "フォーゼロッテ" "!XA0159">
-「んぁ、ふぁ、あっ、ああっ……も、もう」
+<name "Forzelotte" "!XA0159">
+"Mm...aah...ah...aaah...
+ H-Honestly..."
 #
-　フォーゼロッテは抵抗したが、すぐに諦めた。
+She resists for a moment, but quickly gives 
+in.
 #
-<name "フォーゼロッテ" "!XA0160">
-「ふぁ、ぁっ……んん、んぁっ」
+<name "Forzelotte" "!XA0160">
+"Aah...ah...mmm...mmm..."
 #
-　フォーゼロッテの肉体も、俺を求めていたからだ。
+Her body also wants me.
 #
-<name "フォーゼロッテ" "!XA0161">
-「ん、も、急に帰ったと思ったら、んぁ、あっ」
+<name "Forzelotte" "!XA0161">
+"Mmm... Honestly...
+ I was wondering why you'd suddenly come
+ back...
+ Mmm...ah!"
 #
-　俺は早々に股間のモノをフォーゼロッテの膣内に
-　挿入する。
+I quickly put my dick inside her.
 #
-<name "フォーゼロッテ" "!XA0162">
-「んっ……」
+<name "Forzelotte" "!XA0162">
+"Mmm..."
 #
-　フォーゼロッテの膣内は、キツい締まりながらも
-　優しく俺のモノを咥え込んでくれた。
+Her pussy gently sucks me in and squeezes
+tight.
 #
 <background "ev045a02.agf" 10>
-<name "フォーゼロッテ" "!XA0163">
-「ぁ、ん」
+<name "Forzelotte" "!XA0163">
+"Ah...mmm..."
 #
-　そして感じる温かさ。
+And soaks me in her warmth.
 #
-<name "フォーゼロッテ" "!XA0164">
-「ぁ、や、ふぁ……」
+<name "Forzelotte" "!XA0164">
+"Ah...ah...ahhh..."
 #
-　あっと言う間に、膣内はフォーゼロッテの分泌し
-　た愛液によって満たされ、俺のモノの動きをサポ
-　ートしてくれる。
+Her insides are filled with her love juices,
+letting me move easily.
 #
-<name "フォーゼロッテ" "!XA0165">
-「ひぁ、ぁっ、うぁ……ぁあん」
+<name "Forzelotte" "!XA0165">
+"Aah...ah...aah...aaah..."
 #
-　俺は全身でフォーゼロッテを感じる。
+I experience her with my entire body.
 #
-　姿、声、匂い、味、感触……
+Her appearance, her voice, her smell, her
+taste, her touch...
 #
-　そして、その全てに俺の肉体は素直に反応し、フォ
-　ーゼロッテの身体を求めた。
+And my body reacts to all of it.
+It demands her body.
 #
-<name "フォーゼロッテ" "!XA0166">
-「ぁ、ぁっ、ふぁっ、ひぁうっ」
+<name "Forzelotte" "!XA0166">
+"Ah...aah...ahhh...ah!"
 #
-　傍から見れば、俺がフォーゼロッテを襲っている
-　ようにしか見えないだろう。
+If you were watching us, it would look like
+I'm one-sidedly assaulting her.
 #
-　だが、それをも受け止めてくれると解るフォーゼ
-　ロッテにしかしない。
+But she knows what I want, and completely
+accepts it.
 #
-　激しい行為。
+An intense act.
 #
-<name "フォーゼロッテ" "!XA0167">
-「んぁ、ふぁ、あっ、あっ、ああっ」
+<name "Forzelotte" "!XA0167">
+"Aah! Ahh! Ah! Ah! Aah!"
 #
-　少し前まで、魔王として迷宮に君臨していた者と
-　は思えない可愛い声を上げながら、フォーゼロッ
-　テは感情を高めていった。
+Not that long ago, nobody would ever think the
+Overlord reigning over the dungeon would moan
+like this, but she's learned to enjoy her
+emotions.
 #
-　それに遅れまいと、俺もさらに高めていく。
+And I help her enjoy them even more.
 #
 <background "ev045a03.agf" 10>
-<name "フォーゼロッテ" "!XA0168">
-「ひぁ、ぁ、ふぁっ、ぁぁぁぁぁぁぁぁぁっ！」
+<name "Forzelotte" "!XA0168">
+"Ah! Aah! Ahh! Aaaahhhh!!!"
 #
-　フォーゼロッテが達したのは、俺の射精が終わっ
-　たすぐだった。
+She climaxes just as I finish coming myself.
 #
-　離れていた所為で、俺が少し我慢できなかった。
+After being away from her, I was a little
+impatient.
 #
 <background "ev045a04.agf" 10>
-<name "フォーゼロッテ" "!XA0169">
-「ん、んぁ、ふぁ……ダークス」
+<name "Forzelotte" "!XA0169">
+"Mm...mm...ah...
+ Darx..."
 #
-<name "ダークス">
-「ん？」
+<name "Darx">
+"Hm?"
 #
-<name "フォーゼロッテ" "!XA0170">
-「ここで終わったりしないのが、お主の良い所でも
-　あり、悪い所でもある」
+<name "Forzelotte" "!XA0170">
+"It's a strength of yours to not be finished
+ with just this, but also a weakness."
 #
-<name "ダークス">
-「……駄目か？」
+<name "Darx">
+"...I can't?"
 #
-<name "フォーゼロッテ" "!XA0171">
-「断るなら、さっさと突き放しておる」
+<name "Forzelotte" "!XA0171">
+"If you refuse, I will rid myself of you
+ immediately."
 #
-<name "ダークス">
-「だな」
+<name "Darx">
+"Right?"
 #
-　俺はフォーゼロッテと融合するかのように、お互
-　いを求め続けた。
+We continued to covet each other's body, as
+if we were one.
 #
 <background "bg017a0.agf" 10>
 <music 41>
 <background "bg003a0.agf" 10>
 <sprite "ta09a014.agf" 4 4 11>
-<name "フォーゼロッテ" "!XA0172">
-「ひ、久しぶりだと、キツい」
+<name "Forzelotte" "!XA0172">
+"I-It has been a while.
+ That hurt."
 #
-<name "ダークス">
-「可愛かったぞ」
+<name "Darx">
+"You were cute."
 #
 <sprite "ta09a016.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0173">
-「むう……」
+<name "Forzelotte" "!XA0173">
+"Mmm..."
 #
-<name "ダークス">
-「愛してる」
+<name "Darx">
+"I love you."
 #
 <sprite "ta09a023.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0174">
-「私もだ」
+<name "Forzelotte" "!XA0174">
+"And I you."
 #
 <sprite "ta09a010.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0175">
-「しかし、行為には手順というものがあってだな」
+<name "Forzelotte" "!XA0175">
+"However, there is an order to things."
 #
-<name "ダークス">
-「ああ、これプレゼント」
+<name "Darx">
+"Yeah. Here, a present."
 #
 <sprite "ta09a004.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0176">
-「お土産か？」
+<name "Forzelotte" "!XA0176">
+"A souvenir?"
 #
-<name "ダークス">
-「いや、それは向こうで子供達に渡した。
-　これはフォーゼだけの特別」
+<name "Darx">
+"No, that's for the children.
+ This one's special, just for you."
 #
 <sprite "ta09a023.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0177">
-「特別というのは良い響きだ」
+<name "Forzelotte" "!XA0177">
+"Special has a nice ring to it."
 #
 <sprite "ta09a003.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0178">
-「しかし、中はなんだ？
-　まさか、お主のモノを模ったハリガタとかだと怒
-　るぞ」
+<name "Forzelotte" "!XA0178">
+"But what is inside?
+ I will be very angry if it is a mold of your
+ thing."
 #
-<name "ダークス">
-「俺のプレゼントセンス、どう思われているんだ？」
+<name "Darx">
+"Just what do you think I would call a
+ present?"
 #
 <sprite "ta09a020.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0179">
-「以前、穴空きの下着とか、拘束器具とか……」
+<name "Forzelotte" "!XA0179">
+"In the past, it has been underwear full of
+ holes, bondage equipment..."
 #
-<name "ダークス">
-「あれは、カタログで目に入ったからで……
-　それに実用的だったろ」
+<name "Darx">
+"Those were in the catalog.
+ And they were practical."
 #
 <sprite "ta09a023.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0180">
-「その話は、タブーとしよう。
-　で、今回のは？」
+<name "Forzelotte" "!XA0180">
+"Let us not speak any more of that.
+ So, what is it this time?"
 #
-<name "ダークス">
-「今回のは大丈夫だ」
+<name "Darx">
+"It'll be fine."
 #
 <sprite "ta09a005.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0181">
-「そうか」
+<name "Forzelotte" "!XA0181">
+"I see."
 #
 <removesprite -1 11>
-　フォーゼロッテは、俺の手渡した小箱を開けた。
+She opens the small box I gave her.
 #
 <sprite "ta09a004.agf" 4 4 11>
-<name "フォーゼロッテ" "!XA0182">
-「ふむ。
-　スカーフか。
-　なかなか高級そうな生地だし……
-　デザインも悪くない」
+<name "Forzelotte" "!XA0182">
+"Hmm. A scarf?
+ The fabric seems quite expensive...
+ The design is not bad as well."
 #
-<name "ダークス">
-「だろ」
+<name "Darx">
+"Right?"
 #
 <sprite "ta09a006.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0183">
-「大事にさせて貰おう」
+<name "Forzelotte" "!XA0183">
+"I shall treasure it."
 #
-<name "ダークス">
-「そうしてくれ」
+<name "Darx">
+"I told you so."
 #
 <sprite "ta09a005.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0184">
-「今日はゆっくりできるのか？」
+<name "Forzelotte" "!XA0184">
+"Do you have today off?"
 #
-<name "ダークス">
-「一日ぐらいなら」
+<name "Darx">
+"Just about a day."
 #
 <sprite "ta09a001.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0185">
-「そうか。
-　では、久しぶりにお主の手料理を味わいたい」
+<name "Forzelotte" "!XA0185">
+"I see.
+ Then since it has been so long, I would like
+ to taste your cooking."
 #
-<name "ダークス">
-「わかった。
-　サービスします」
+<name "Darx">
+"All right.
+ My special treat."
 #
 <sprite "ta09a006.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0186">
-「ふふふ。
-　流石は私の旦那様だ」
+<name "Forzelotte" "!XA0186">
+"Heheheh. 
+ I expect no less of my husband."
 #
 <removesprite -1 11>
 \x2B\x0A\x44\x03\x03\x84\x01
@@ -1423,186 +1437,193 @@
 :729D
 <music 50>
 <background "ev045a05.agf" 10>
-<name "フォーゼロッテ" "!XA0187">
-「んぁ、ふぁ、ふぁ、あ、ん、むぁっ」
+<name "Forzelotte" "!XA0187">
+"Mm...ahh...ahh...ah...mm...mmm..."
 #
-　俺はフォーゼロッテと何度目かの行為を行ってい
-　た。
+I've done it several times with her now.
 #
-<name "フォーゼロッテ" "!XA0188">
-「ん、ん、んぁ、ひぁ、ん、ふぁ、ぁ、ダー、ダー
-　クス……ん、んぁ、ひぁ、ふぁっ！」
+<name "Forzelotte" "!XA0188">
+"Mm...mmm...mm...ah...mmm...
+ D-Darx...
+ Mmm...mmm...aah...aah!"
 #
-　疲労が無いわけでは無いが、魔力で回復したりは
-　しない。
+I'm getting tired, but I'm not recovering
+with magic.
 #
-　この疲労も、行為の一環だ。
+Exhaustion is part of the act.
 #
-　フォーゼロッテの為に疲れるのに、抵抗は無い。
+I'm completely fine with exhausting myself
+for Forzelotte.
 #
-<name "フォーゼロッテ" "!XA0189">
-「ん、んん、あぁ、ふぁ、ぁっ」
+<name "Forzelotte" "!XA0189">
+"Mm...mmm...aaah...aah...ah!"
 #
-　フォーゼロッテがキスをせがんで来た。
+She pesters me for a kiss.
 #
-　俺は少し焦らしてから、濃厚なキスする。
+I tease her for just a moment, and then kiss
+her.
 #
-<name "フォーゼロッテ" "!XA0190">
-「むぅぁ、んん、ふぁ、ん、ぬぁんっ」
+<name "Forzelotte" "!XA0190">
+"Mmm...mmm...ahh...mmm...mmmmm!"
 #
-　それが決め手になったのだろう。
+That was probably the tipping point.
 #
-<name "フォーゼロッテ" "!XA0191">
-「ん、んっ、んぁ、ぁ、んんっ」
+<name "Forzelotte" "!XA0191">
+"Mm! Mm! Mmm! Ah! Mmmm!"
 #
-　フォーゼロッテが絶頂に向かっていく。
+She's on the edge of orgasm.
 #
-　俺はそれをサポートするように、腰を動かし、膣
-　内をかき回す。
+I move my hips to help her and stir up her
+insides.
 #
-　俺も限界が近い。
+I'm almost there too.
 #
 <background "ev045a06.agf" 10>
-<name "フォーゼロッテ" "!XA0192">
-「ぁ……んぁぁぁぁぁぁぁぁぁぁ！」
+<name "Forzelotte" "!XA0192">
+"Ah...mmmmmaaaaaahhhhhh!!!"
 #
-　フォーゼロッテの達した声。
+She comes loudly.
 #
-　それを聞きながら、俺の射精も開始されている。
+As I listen to her voice, I start to come too.
 #
-<name "フォーゼロッテ" "!XA0193">
-「ぁ、ふぁ、ぁ……ぁ……ぁぁ」
+<name "Forzelotte" "!XA0193">
+"Ah...aah...ah...ah...aah..."
 #
-<name "フォーゼロッテ" "!XA0194">
-「……ダークス」
+<name "Forzelotte" "!XA0194">
+"...Darx..."
 #
-<name "ダークス">
-「ん？」
+<name "Darx">
+"Hm?"
 #
-<name "フォーゼロッテ" "!XA0195">
-「次をやっても良いが、少し休憩だ。
-　抱き締めてくれ」
+<name "Forzelotte" "!XA0195">
+"You may continue, but a short break.
+ Hold me close."
 #
-<name "ダークス">
-「ああ」
+<name "Darx">
+"Yeah."
 #
-　俺は素直に抱き締める。
+I hug her obediently.
 #
-<name "フォーゼロッテ" "!XA0196">
-「こうやって他者と触れ合える。
-　お前と出会えた」
+<name "Forzelotte" "!XA0196">
+"I can touch others like this.
+ Because I met you."
 #
-<name "フォーゼロッテ" "!XA0197">
-「それだけで、私は十分なのに子供まで出来た」
+<name "Forzelotte" "!XA0197">
+"That alone was enough for me, but I also had
+ a child."
 #
-<name "フォーゼロッテ" "!XA0198">
-「ダークス」
+<name "Forzelotte" "!XA0198">
+"Darx."
 #
-<name "ダークス">
-「ん？」
+<name "Darx">
+"Hm?"
 #
-<name "フォーゼロッテ" "!XA0199">
-「感謝している」
+<name "Forzelotte" "!XA0199">
+"I truly am thankful."
 #
-<name "ダークス">
-「こちらこそだ」
+<name "Darx">
+"Me too."
 #
-<name "フォーゼロッテ" "!XA0200">
-「……ダークス」
+<name "Forzelotte" "!XA0200">
+"...Darx."
 #
-<name "ダークス">
-「ん？」
+<name "Darx">
+"Hm?"
 #
-<name "フォーゼロッテ" "!XA0201">
-「もう少し、こうしていたい気持ちも無いわけでも
-　ないが……休憩は終わりにしよう」
+<name "Forzelotte" "!XA0201">
+"I would like to be like this a little
+ longer... but I also want to end this break."
 #
-<name "ダークス">
-「わかった」
+<name "Darx">
+"All right."
 #
-　俺は激しく、フォーゼロッテとの行為を楽しんだ。
+I enjoy an intense session with her.
 #
 <background "bg017a0.agf" 10>
 <music 41>
 <background "ev043a00.agf" 10>
-<name "角のある娘" "!HC0051">
-「ママ、元気になったね」
+<name "Horned Girl" "!HC0051">
+"Mommy's feeling better now."
 #
-<name "羽の綺麗な娘" "!SB0132">
-「うん、元気になったね」
+<name "Pretty Winged Girl" "!SB0132">
+"Yep. She's better."
 #
-<name "フォーゼロッテ" "!XA0202">
-「ふふ。
-　私は前から元気だぞ」
+<name "Forzelotte" "!XA0202">
+"Haha...
+ I have been well for a long time."
 #
-<name "フォーゼロッテ" "!XA0203">
-「お前達が居るからな」
+<name "Forzelotte" "!XA0203">
+"Because you're all here."
 #
-<name "角のある娘" "!HC0052">
-「えへへ。
-　ママ、本じゃなくてボール投げしよう」
+<name "Horned Girl" "!HC0052">
+"Hahaha...
+ Mommy, let's throw the ball instead of
+ reading."
 #
-<name "羽の綺麗な娘" "!SB0133">
-「あ、私もー」
+<name "Pretty Winged Girl" "!SB0133">
+"Ah, me too."
 #
-<name "フォーゼロッテ" "!XA0204">
-「ああ、動くのは無理だ。
-　今日は許してくれ」
+<name "Forzelotte" "!XA0204">
+"Oh, I can't move.
+ Please go easy on me today."
 #
-<name "角のある娘" "!HC0053">
-「ええー」
+<name "Horned Girl" "!HC0053">
+"Eeeh?"
 #
-<name "羽の綺麗な娘" "!SB0134">
-「どうしてー」
+<name "Pretty Winged Girl" "!SB0134">
+"Why?"
 #
-<name "フォーゼロッテ" "!XA0205">
-「あ、愛情の深さ、とだけ答えておこう」
+<name "Forzelotte" "!XA0205">
+"L-Let's leave it at the price of love."
 #
 \x0A\x44\x03\x04\x84\x01
 <exit>
 :7D3D
 <music 50>
 <background "ev045a07.agf" 10>
-<name "フォーゼロッテ" "!XA0206">
-「ぁひ……ふぁ……ぁぁ……」
+<name "Forzelotte" "!XA0206">
+"Aah...ahh...aah..."
 #
-<name "ダークス">
-「フォーゼ」
+<name "Darx">
+"Forze."
 #
-<name "フォーゼロッテ" "!XA0207">
-「ぁぁ……うぁ……ん？」
+<name "Forzelotte" "!XA0207">
+"Aah...ah...hm?"
 #
-<name "ダークス">
-「可愛かったぞ」
+<name "Darx">
+"You're adorable."
 #
-<name "フォーゼロッテ" "!XA0208">
-「と、当然だ」
+<name "Forzelotte" "!XA0208">
+"O-Of course."
 #
-<name "ダークス">
-「…………」
+<name "Darx">
+"..."
 #
-<name "フォーゼロッテ" "!XA0209">
-「え？
-　ぁ、こ、こら、も、もう、流石に……」
+<name "Forzelotte" "!XA0209">
+"Huh?
+ Ah, h-hey... H-Honestly...
+ Why would I expect anything else..."
 #
-　俺はさらにフォーゼロッテを求めた。
+I lust for her more.
 #
 <background "bg017a0.agf" 10>
 <music 41>
 <background "bg003a0.agf" 10>
 <sprite "ta09a016.agf" 4 4 11>
-<name "フォーゼロッテ" "!XA0210">
-「お、お主が戻ってくる度に、ボロボロにされる」
+<name "Forzelotte" "!XA0210">
+"E-Every time you come back, I end up worn
+ out."
 #
-<name "ダークス">
-「されない方が良いか？」
+<name "Darx">
+"Should I not?"
 #
 <sprite "ta09a023.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0211">
-「…………わかり切っておる質問をするな」
+<name "Forzelotte" "!XA0211">
+"...Do not ask questions you know the answer
+ to."
 #
-<name "ダークス">
-「だな」
+<name "Darx">
+"Thought so."
 #
 <removesprite -1 11>
 \x2B\x0A\x44\x03\x05\x84\x01
@@ -1610,53 +1631,55 @@
 :808D
 <music 50>
 <background "ev045a04.agf" 10>
-<name "フォーゼロッテ" "!XA0212">
-「少し、思い出すな」
+<name "Forzelotte" "!XA0212">
+"This brings back memories."
 #
-<name "ダークス">
-「ん？」
+<name "Darx">
+"Hm?"
 #
-<name "フォーゼロッテ" "!XA0213">
-「コゼが産まれたばかりの頃、お前はやたらと私の
-　胸を吸っていたな」
+<name "Forzelotte" "!XA0213">
+"Just after Koze was born, you would suck on
+ my breasts quite frequently."
 #
-<name "ダークス">
-「だったか？」
+<name "Darx">
+"Did I?"
 #
-<name "フォーゼロッテ" "!XA0217">
-「今思えば、コゼに対する嫉妬か？
-　私をコゼに取られるとでも思ったか？」
+<name "Forzelotte" "!XA0217">
+"Thinking about it now, were you jealous of
+ her?
+ Did you think she'd steal me away?"
 #
-<name "ダークス">
-「……かもな」
+<name "Darx">
+"...Maybe."
 #
-<name "フォーゼロッテ" "!XA0215">
-「ふふふ……
-　私の気持ちは……コゼに少しは分けるが、基本的
-　にはお主のものだ」
+<name "Forzelotte" "!XA0215">
+"Heheheh...
+ My heart... I have given some of it to Koze,
+ but it chiefly belongs to you." 
 #
-<name "ダークス">
-「わかってる」
+<name "Darx">
+"I see."
 #
-<name "フォーゼロッテ" "!XA0216">
-「……ところで、母乳はもう出ないが、私の胸もな
-　かなかのものだと自負している」
+<name "Forzelotte" "!XA0216">
+"...Just so you are aware, while I am not
+ producing milk any longer, I am proud of how
+ well endowed my breasts are."
 #
-<name "ダークス">
-「胸を責めて欲しいなら、回りくどい事を言わない
-　で欲しいな」
+<name "Darx">
+"That's a roundabout way of telling me you
+ want me to tease your breasts."
 #
-　俺が断ったりはしないのだから。
+I don't refuse her.
 #
-　俺は徹底してフォーゼロッテの胸を責めたプレイ
-　を続けた。
+I continue playing with her, focusing
+thoroughly on her chest.
 #
 <background "bg017a0.agf" 10>
 <music 41>
 <background "bg003a0.agf" 10>
 <sprite "ta09a019.agf" 4 4 11>
-<name "フォーゼロッテ" "!XA0218">
-「い、弄り過ぎだ」
+<name "Forzelotte" "!XA0218">
+"Y-You groped too much."
 #
 <removesprite -1 11>
 \x2B\x0A\x44\x03\x06\x84\x01
@@ -1664,19 +1687,19 @@
 :84A7
 <music 3>
 <background "bg010a0.agf" 10>
-<name "ダークス">
-「どうだ？」
+<name "Darx">
+"How's that?"
 #
 <sprite "ta02a000.agf" 4 4 11>
-<name "マクドゥ" "!ZA0313">
-「見事だ」
+<name "Macdo" "!ZA0313">
+"Excellent."
 #
 <sprite "ta02a028.agf" 4 4 12>
-<name "マクドゥ" "!ZA0314">
-「次は……しばらく待ってやる」
+<name "Macdo" "!ZA0314">
+"Next will... take some time."
 #
-<name "ダークス">
-「助かる」
+<name "Darx">
+"Thanks."
 #
 <removesprite -1 11>
 <exit>
