@@ -325,7 +325,7 @@ fossils I can see all over the place here.
 <name "Company Maid" "!DC0402" "ka34c000.agf">
 "Are you aware of the Flame Cave and Ice
  Grotto?"
---THESE ARE BB1 DUNGEONS. LOOK UP WHAT THE
+--THESE WERE BB1 DUNGEONS. LOOK UP WHAT THE
  TL WAS--
 #
 <name "Darx">
