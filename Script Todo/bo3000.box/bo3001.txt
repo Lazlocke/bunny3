@@ -62,144 +62,144 @@
 :FF5
 <music 42>
 <background "bg005a0.agf" 10>
-<name "ダークス">
+<name "Darx">
 「えっと……」
 #
 <music 11>
 <background "bg008a1.agf" 10>
 <sprite "ta01a014.agf" 4 4 11>
-<name "ソフィア" "!ZB0140">
+<name "Sofia" "!ZB0140">
 「どうしました？」
 #
-<name "ダークス">
+<name "Darx">
 「俺、一人で出発？」
 #
 <sprite "ta01a016.agf" 4 4 12>
-<name "ソフィア" "!ZB0141">
+<name "Sofia" "!ZB0141">
 「違うんですか？」
 #
-<name "ダークス">
+<name "Darx">
 「えっと……戦力……傭兵とか居ないの？」
 #
 <sprite "ta01a029.agf" 4 4 12>
-<name "ソフィア" "!ZB0142">
+<name "Sofia" "!ZB0142">
 「出来立ての街ですから、契約している傭兵なんて
 　居ませんよ」
 #
-<name "ダークス">
+<name "Darx">
 「ギュ、ギュンギュスカー商会の方でキープしてい
 　る傭兵とかは？」
 #
 <sprite "ta01a028.agf" 4 4 12>
-<name "ソフィア" "!ZB0143">
+<name "Sofia" "!ZB0143">
 「すみません。
 　予定に無いです」
 #
-<name "ダークス">
+<name "Darx">
 「ラキアさんの所には居たぞ」
 #
 <sprite "ta01a029.agf" 4 4 12>
-<name "ソフィア" "!ZB0144">
+<name "Sofia" "!ZB0144">
 「じょ、状況が違いますから」
 #
-<name "ダークス">
+<name "Darx">
 「……と言うと？」
 #
 <sprite "ta01a015.agf" 4 4 12>
-<name "ソフィア" "!ZB0145">
+<name "Sofia" "!ZB0145">
 「フォーゼロッテ宮は、魔界の命令で建設された場
 　所ですし、万が一は人間や天界と戦う可能性のあ
 　る場所です。
 　ギュンギュスカー商会は自衛の必要があります」
 #
-<name "ダークス">
+<name "Darx">
 「一応、ここもその可能性があるが……」
 #
 <sprite "ta01a028.agf" 4 4 12>
-<name "ソフィア" "!ZB0146">
+<name "Sofia" "!ZB0146">
 「ここは出来立ての街ですし、支店です。
 　作る理由も、魔界からの命令ではありませんしね。
 　万が一の際は、潰れちゃった。
 　で、済ましてしまいます」
 #
-<name "ダークス">
+<name "Darx">
 「……」
 #
 <sprite "ta01a036.agf" 4 4 12>
-<name "ソフィア" "!ZB0147">
+<name "Sofia" "!ZB0147">
 「すみません。
 　傭兵、抱えているだけで出費してしまいますから」
 #
-<name "ダークス">
+<name "Darx">
 「む……」
 #
-<name "ダークス">
+<name "Darx">
 「！」
 #
-<name "ダークス">
+<name "Darx">
 「ああっ！
 　どうせ扉を使って移動するのだから、ラキアさん
 　のお店で傭兵を……」
 #
 <sprite "ta01a037.agf" 4 4 12>
-<name "ソフィア" "!ZB0148">
+<name "Sofia" "!ZB0148">
 「すみません。
 　それは駄目です」
 #
-<name "ダークス">
+<name "Darx">
 「なのか？」
 #
 <sprite "ta01a026.agf" 4 4 12>
-<name "ソフィア" "!ZB0149">
+<name "Sofia" "!ZB0149">
 「ラキア様のお店に限らず、他店での傭兵契約は、
 　魔王様の能力証明に違反します」
 #
 <sprite "ta01a024.agf" 4 4 12>
-<name "ソフィア" "!ZB0150">
+<name "Sofia" "!ZB0150">
 「それを許せば、各所から優秀な人材を引き抜いて
 　くればＯＫとなってしまいますから」
 #
 <sprite "ta01a026.agf" 4 4 12>
-<name "ソフィア" "!ZB0151">
+<name "Sofia" "!ZB0151">
 「傭兵契約は、この街でのみ行ってください」
 #
-<name "ダークス">
+<name "Darx">
 「じゃあ、俺が戦力を増やそうと思ったら……」
 #
 <sprite "ta01a005.agf" 4 4 12>
-<name "ソフィア" "!ZB0152">
+<name "Sofia" "!ZB0152">
 「住民からの志願を待つか、敵対者を従わせるのが
 　一番かと」
 #
-<name "ダークス">
+<name "Darx">
 「……一応、聞くけど住民からの志願は？」
 #
 <sprite "ta01a036.agf" 4 4 12>
-<name "ソフィア" "!ZB0153">
+<name "Sofia" "!ZB0153">
 「ま、まだ、ありません」
 #
-<name "ダークス">
+<name "Darx">
 「だよな」
 #
 <sprite "ta01a024.agf" 4 4 12>
-<name "ソフィア" "!ZB0154">
+<name "Sofia" "!ZB0154">
 「まだ住民の数が少ないですから」
 #
-<name "ダークス">
+<name "Darx">
 「わかった。
 　志願があった場合は、そっちで管理してくれるん
 　だよな」
 #
 <sprite "ta01a033.agf" 4 4 12>
-<name "ソフィア" "!ZB0155">
+<name "Sofia" "!ZB0155">
 「はい。
 　その点はお任せください」
 #
-<name "ダークス">
+<name "Darx">
 「では、行って来る」
 #
 <sprite "ta01a004.agf" 4 4 12>
-<name "ソフィア" "!ZB0156">
+<name "Sofia" "!ZB0156">
 「いってらっしゃいませ。
 　お気をつけて」
 #
@@ -208,11 +208,11 @@
 :1C89
 <music 11>
 <background "bg008a0.agf" 10>
-<name "ダークス">
+<name "Darx">
 「よーし、行くか」
 #
 <sprite "ta01a004.agf" 4 4 11>
-<name "ソフィア" "!ZB0157">
+<name "Sofia" "!ZB0157">
 「お気をつけて」
 #
 <removesprite -1 11>
@@ -220,11 +220,11 @@
 :1D41
 <music 42>
 <background "bg005a0.agf" 10>
-<name "ダークス">
+<name "Darx">
 「さーて、どこにしようかな」
 #
 <sprite "ta14a005.agf" 4 4 11>
-<name "パニバーナ" "!DA0001">
+<name "Paniverna" "!DA0001">
 「魔王様。
 　お久しぶり」
 #
@@ -232,64 +232,64 @@
 #
 　俺の嫁の一人であり、現在は王宮の警備担当だ。
 #
-<name "ダークス">
+<name "Darx">
 「元気にしていたか？」
 #
 <sprite "ta14a006.agf" 4 4 12>
-<name "パニバーナ" "!DA0002">
+<name "Paniverna" "!DA0002">
 「それはもう。
 　でも、そっちの様子を見に行く事すら禁止にされ
 　ているから、色々な所から不満が出てるわよ」
 #
-<name "ダークス">
+<name "Darx">
 「そうか」
 #
 <sprite "ta14a018.agf" 4 4 12>
-<name "パニバーナ" "!DA0003">
+<name "Paniverna" "!DA0003">
 「もちろん、私も不満だからね」
 #
-<name "ダークス">
+<name "Darx">
 「……悪かったな」
 #
 <sprite "ta14a019.agf" 4 4 12>
-<name "パニバーナ" "!DA0004">
+<name "Paniverna" "!DA0004">
 「あのマクドゥって女を殺そうとしたのが居たから
 　止めたけど、止めない方が良かった？」
 #
-<name "ダークス">
+<name "Darx">
 「あはは……
 　色々とマズイから止めてくれ」
 #
 <sprite "ta14a005.agf" 4 4 12>
-<name "パニバーナ" "!DA0005">
+<name "Paniverna" "!DA0005">
 「魔王様がそう言うなら」
 #
-<name "ダークス">
+<name "Darx">
 「ああ。
 　で、ここには偶然か？」
 #
 <sprite "ta14a006.agf" 4 4 12>
-<name "パニバーナ" "!DA0006">
+<name "Paniverna" "!DA0006">
 「ううん。
 　魔王様が来たら案内しろって言われた行き先があ
 　るの」
 #
-<name "ダークス">
+<name "Darx">
 「誰から？」
 #
 <sprite "ta14a005.agf" 4 4 12>
-<name "パニバーナ" "!DA0007">
+<name "Paniverna" "!DA0007">
 「マクドゥ」
 #
-<name "ダークス">
+<name "Darx">
 「……」
 #
 <sprite "ta14a001.agf" 4 4 12>
-<name "パニバーナ" "!DA0008">
+<name "Paniverna" "!DA0008">
 「どうしたの？
 　微妙な顔をして」
 #
-<name "ダークス">
+<name "Darx">
 「いや、そういった仕事を引き受けてくれてありが
 　とうって気持ちと、一応は幹部なんだからもう少
 　し威厳をって気持ちがぶつかった」
@@ -301,96 +301,96 @@
 　偉い立場の筈だ。
 #
 <sprite "ta14a006.agf" 4 4 11>
-<name "パニバーナ" "!DA0009">
+<name "Paniverna" "!DA0009">
 「まあまあ、こうやって話す機会も欲しかったし」
 #
 <sprite "ta14a005.agf" 4 4 12>
-<name "パニバーナ" "!DA0010">
+<name "Paniverna" "!DA0010">
 「久しぶりに会えて、嬉しかったでしょ」
 #
-<name "ダークス">
+<name "Darx">
 「まあな
 　しかし、マクドゥが指示した場所だから、何かあ
 　るんだろうなぁ」
 #
 <sprite "ta14a022.agf" 4 4 12>
-<name "パニバーナ" "!DA0011">
+<name "Paniverna" "!DA0011">
 「魔王様なら、大丈夫よ。
 　なにせ、天蓋の城に乗り込んだぐらいなんだから」
 #
-<name "ダークス">
+<name "Darx">
 「だと良いが……」
 #
 <sprite "ta14a006.agf" 4 4 12>
-<name "パニバーナ" "!DA0012">
+<name "Paniverna" "!DA0012">
 「案内する場所は、このフォーゼロッテ宮の非統治
 　エリア。
 　要は魔王様の言う事を聞かない勢力の場所」
 #
 <sprite "ta14a005.agf" 4 4 12>
-<name "パニバーナ" "!DA0013">
+<name "Paniverna" "!DA0013">
 「マクドゥの言い分としては、街作りと平行して統
 　治エリアの拡大を目指す。
 　だったかな」
 #
-<name "ダークス">
+<name "Darx">
 「なるほど」
 #
 　まあ、理に適っている。
 #
 <sprite "ta14a006.agf" 4 4 12>
-<name "パニバーナ" "!DA0014">
+<name "Paniverna" "!DA0014">
 「その場にラキアも居たから、仕掛けがあるとは思
 　えないけど……油断はしないでね」
 #
-<name "ダークス">
+<name "Darx">
 「おう」
 #
 <sprite "ta14a005.agf" 4 4 12>
-<name "パニバーナ" "!DA0015">
+<name "Paniverna" "!DA0015">
 「あ、ここの扉」
 #
-<name "ダークス">
+<name "Darx">
 「わかった」
 #
 <sprite "ta14a018.agf" 4 4 12>
-<name "パニバーナ" "!DA0017">
+<name "Paniverna" "!DA0017">
 「できれば一緒に行きたいんだけど……」
 #
-<name "ダークス">
+<name "Darx">
 「禁止されているんだろ」
 #
 <sprite "ta14a020.agf" 4 4 12>
-<name "パニバーナ" "!DA0018">
+<name "Paniverna" "!DA0018">
 「うん」
 #
-<name "ダークス">
+<name "Darx">
 「その気持ちで十分だ」
 #
 <removesprite -1 11>
 　まあ、頑張るしかない。
 #
 <sprite "ta14a013.agf" 4 4 11>
-<name "パニバーナ" "!DA0019">
+<name "Paniverna" "!DA0019">
 「あと一つ、報告し忘れ」
 #
-<name "ダークス">
+<name "Darx">
 「ん？」
 #
 <sprite "ta14a005.agf" 4 4 12>
-<name "パニバーナ" "!DA0020">
+<name "Paniverna" "!DA0020">
 「私のこの案内に関しては、とある方から奪った
 　形になっちゃった」
 #
-<name "ダークス">
+<name "Darx">
 「？」
 #
 <sprite "ta14a006.agf" 4 4 12>
-<name "パニバーナ" "!DA0021">
+<name "Paniverna" "!DA0021">
 「伝言や案内を頼むなら、王宮守備担当の私より、
 　扉の間の守備担当の方が適任じゃない？」
 #
-<name "ダークス">
+<name "Darx">
 「ああ、確かにそうだな、……え」
 #
 <removesprite -1 11>
@@ -400,33 +400,33 @@
 #
 　頼もしい俺の味方であり、俺の嫁の一人だ。
 #
-<name "ダークス">
+<name "Darx">
 「そう言えば、俺が来るとなれば即座に此処に飛ん
 　できそうだが……」
 #
 　来ていない？
 #
 <sprite "ta14a005.agf" 4 4 11>
-<name "パニバーナ" "!DA0022">
+<name "Paniverna" "!DA0022">
 「さっき、言ったでしょ」
 #
-<name "ダークス">
+<name "Darx">
 「え？」
 #
 <sprite "ta14a006.agf" 4 4 12>
-<name "パニバーナ" "!DA0023">
+<name "Paniverna" "!DA0023">
 「マクドゥを殺そうとしたのが居たから、止めたっ
 　て」
 #
-<name "ダークス">
+<name "Darx">
 「…………えー、あれエカテーの事なのか？」
 #
 <sprite "ta14a022.agf" 4 4 12>
-<name "パニバーナ" "!DA0024">
+<name "Paniverna" "!DA0024">
 「最初の頃は納得していたみたいだけど、やっぱり
 　キレちゃって……」
 #
-<name "ダークス">
+<name "Darx">
 「よ、よく止められたな」
 #
 <removesprite -1 11>
@@ -449,85 +449,85 @@
 #
 　そこを任せるポジションの者が、殺しに動いた。
 #
-<name "ダークス">
+<name "Darx">
 「マクドゥが善戦したのか？」
 #
 <sprite "ta14a006.agf" 4 4 11>
-<name "パニバーナ" "!DA0025">
+<name "Paniverna" "!DA0025">
 「あはは……」
 #
 <sprite "ta14a018.agf" 4 4 12>
-<name "パニバーナ" "!DA0026">
+<name "Paniverna" "!DA0026">
 「エカテーの動きを察した私、ウルティニア、イザ
 　ナ、ゴラン、トージョ、ロギウスの総掛りで抑え
 　込んだ」
 #
-<name "ダークス">
+<name "Darx">
 「おお」
 #
 　幹部勢だ。
 #
 <sprite "ta14a019.agf" 4 4 12>
-<name "パニバーナ" "!DA0027">
+<name "Paniverna" "!DA0027">
 「ロギウスが、かなり根性を見せて頑張ってくれた
 　から、なんとか抑え込んだって感じ」
 #
 <sprite "ta14a018.agf" 4 4 12>
-<name "パニバーナ" "!DA0029">
+<name "Paniverna" "!DA0029">
 「被害としては一部施設の崩壊と、ロギウス、ウル
 　ティニア、ゴラン、トージョが負傷」
 #
-<name "ダークス">
+<name "Darx">
 「大丈夫なのか？」
 #
 <sprite "ta14a005.agf" 4 4 12>
-<name "パニバーナ" "!DA0030">
+<name "Paniverna" "!DA0030">
 「負傷と言っても、四人とも仕事に向かったから大
 　丈夫でしょ」
 #
-<name "ダークス">
+<name "Darx">
 「で、エカテーは？」
 #
 <sprite "ta14a018.agf" 4 4 12>
-<name "パニバーナ" "!DA0031">
+<name "Paniverna" "!DA0031">
 「隙を見て逃走して、行方不明」
 #
-<name "ダークス">
+<name "Darx">
 「え、えっと……」
 #
 <sprite "ta14a019.agf" 4 4 12>
-<name "パニバーナ" "!DA0032">
+<name "Paniverna" "!DA0032">
 「臨時で、私が扉の間の警備をやっているわけ」
 #
-<name "ダークス">
+<name "Darx">
 「な、なるほど……」
 #
 <sprite "ta14a005.agf" 4 4 12>
-<name "パニバーナ" "!DA0033">
+<name "Paniverna" "!DA0033">
 「マクドゥの警備はメリルとラキアの部下がこっそ
 　りとやっているけど、エカテーの不意打ちはちょっ
 　と怖いわね」
 #
-<name "ダークス">
+<name "Darx">
 「ああ」
 #
 　考えただけで、足が震えそうだ。
 #
 <sprite "ta14a006.agf" 4 4 12>
-<name "パニバーナ" "!DA0034">
+<name "Paniverna" "!DA0034">
 「見つけたら報告するから、魔王様の方でフォロー
 　をなんとかお願いできないかな」
 #
-<name "ダークス">
+<name "Darx">
 「出来る限りの事はする。
 　頼んだぞ」
 #
 <sprite "ta14a005.agf" 4 4 12>
-<name "パニバーナ" "!DA0035">
+<name "Paniverna" "!DA0035">
 「うん。
 　そっちで見つけた時もよろしくね」
 #
-<name "ダークス">
+<name "Darx">
 「了解した」
 #
 <removesprite -1 11>
@@ -544,7 +544,7 @@
 「魔王様。
 　お久しぶりです」
 #
-<name "ダークス">
+<name "Darx">
 「おう。
 　久しいな」
 #
@@ -554,31 +554,31 @@
 「さっそくですが、ラキア様より魔王様が来られた
 　ら案内するように言われている場所があります」
 #
-<name "ダークス">
+<name "Darx">
 「ん？」
 #
 <name "扉の間の門番" "!KB0003" "ka49a000.agf">
 「行き先リストです」
 #
-<name "ダークス">
+<name "Darx">
 「千樹庭なら、知ってるぞ」
 #
 <name "扉の間の門番" "!KB0004" "ka49a000.agf">
 「ですが、使う扉は初めてだと思われます」
 #
-<name "ダークス">
+<name "Darx">
 「という事は……危ない場所か？」
 #
 <name "扉の間の門番" "!KB0007" "ka49a000.agf">
 「それなりに」
 #
-<name "ダークス">
+<name "Darx">
 「……」
 #
 <name "扉の間の門番" "!KB0008" "ka49a000.agf">
 「ですが、魔王様なら大丈夫でしょう」
 #
-<name "ダークス">
+<name "Darx">
 「だと良いが」
 #
 <name "扉の間の門番" "!KB0009" "ka49a000.agf">
@@ -586,7 +586,7 @@
 　ああ、こちらの扉になります。
 　ご武運を」
 #
-<name "ダークス">
+<name "Darx">
 「案内、ご苦労」
 #
 <exit>
@@ -597,7 +597,7 @@
 「魔王様。
 　新しい行き先候補です」
 #
-<name "ダークス">
+<name "Darx">
 「ここもやっぱり」
 #
 <name "扉の間の門番" "!KB0011" "ka49a000.agf">
@@ -605,7 +605,7 @@
 　非統治エリアになります。
 　ご注意ください」
 #
-<name "ダークス">
+<name "Darx">
 「わかった」
 #
 <exit>
@@ -616,20 +616,20 @@
 「魔王様。
 　新しい行き先のご案内を致します」
 #
-<name "ダークス">
+<name "Darx">
 「今度は、どこになるんだ？」
 #
 <name "扉の間の門番" "!KB0013" "ka49a000.agf">
 「雷貨の雲です」
 #
-<name "ダークス">
+<name "Darx">
 「雷貨の雲って……」
 #
 <name "扉の間の門番" "!KB0014" "ka49a000.agf">
 「天蓋の城と同様、天界の施設で落ちてきた城です
 　ね」
 #
-<name "ダークス">
+<name "Darx">
 「あそこって立ち入り禁止じゃなかったか？」
 #
 <name "扉の間の門番" "!KB0015" "ka49a000.agf">
@@ -640,7 +640,7 @@
 <name "扉の間の門番" "!KB0016" "ka49a000.agf">
 「魔王様の武勇、期待しております」
 #
-<name "ダークス">
+<name "Darx">
 「頑張るよ」
 #
 <exit>
@@ -650,13 +650,13 @@
 <name "扉の間の門番" "!KB0017" "ka49a000.agf">
 「新しい扉のご案内を致します」
 #
-<name "ダークス">
+<name "Darx">
 「次はどこだ？」
 #
 <name "扉の間の門番" "!KB0018" "ka49a000.agf">
 「光峰の壁です」
 #
-<name "ダークス">
+<name "Darx">
 「光峰の壁か」
 #
 　天蓋の城、雷貨の雲と同じく、天界の施設であり、
@@ -670,10 +670,10 @@
 「どうも天界兵の一部が、あそこで頑張っているよ
 　うで」
 #
-<name "ダークス">
+<name "Darx">
 「一部って……」
 #
-<name "ダークス">
+<name "Darx">
 「天界からの救援が来た時、帰らなかったのか？」
 #
 　五つ目の城が落下した後、こちらに寝返った天界
@@ -689,14 +689,14 @@
 「回収されなかった部隊が、そのままゲリラ活動と
 　いう流れかと」
 #
-<name "ダークス">
+<name "Darx">
 「声を掛けて、帰還させるってのは？」
 #
 <name "扉の間の門番" "!KB0021" "ka49a000.agf">
 「すでに何度か交渉に向かいましたが、駄目でした。
 　聞く耳を持たない感じですね」
 #
-<name "ダークス">
+<name "Darx">
 「頭が痛いな」
 #
 <name "扉の間の門番" "!KB0022" "ka49a000.agf">
@@ -711,13 +711,13 @@
 　新しい扉の設置が完了しましたので、ご報告しま
 　す」
 #
-<name "ダークス">
+<name "Darx">
 「そうか」
 #
 <name "扉の間の門番" "!KB0024" "ka49a000.agf">
 「これからも、頑張ってくださいね」
 #
-<name "ダークス">
+<name "Darx">
 「おう」
 #
 <exit>
@@ -729,7 +729,7 @@
 　新しい扉の使用許可が降りました。
 　ご案内致します」
 #
-<name "ダークス">
+<name "Darx">
 「ああ、頼む」
 #
 <exit>
@@ -741,21 +741,21 @@
 　新しい扉の使用が可能となりました。
 　ご案内致します」
 #
-<name "ダークス">
+<name "Darx">
 「ああ、頼む」
 #
 <exit>
 :48AE
 <music 42>
 <background "bg005a0.agf" 10>
-<name "ダークス">
+<name "Darx">
 「そう言えば……
 　この迷宮の名前って、誰がつけているんだ？」
 #
 <name "扉の間の門番" "!KB0027" "ka49a000.agf">
 「昔の方だと聞いています」
 #
-<name "ダークス">
+<name "Darx">
 「そうなのか？」
 #
 <name "扉の間の門番" "!KB0028" "ka49a000.agf">
@@ -770,7 +770,7 @@
 <name "扉の間の門番" "!KB0030" "ka49a000.agf">
 「とも言ってました」
 #
-<name "ダークス">
+<name "Darx">
 「な、なるほど」
 #
 　頂いたんですね。
@@ -779,7 +779,7 @@
 :4B3F
 <music 42>
 <background "bg005a0.agf" 10>
-<name "ダークス">
+<name "Darx">
 「ここに来るのも悪くないが、新しい扉は向こうの
 　街に繋げてくれた方が便利なんだがな」
 #
@@ -787,7 +787,7 @@
 「すると、向こうに扉防衛の為の戦力を置かないと
 　駄目になりますよ」
 #
-<name "ダークス">
+<name "Darx">
 「あー、そっか」
 #
 　敵に扉を利用された時の用心だ。
@@ -796,7 +796,7 @@
 「その点、一度突破されたとは言え、ここはかなり
 　強固ですから」
 #
-<name "ダークス">
+<name "Darx">
 「確かにな。
 　つまらん事を言った、忘れてくれ」
 #
@@ -807,11 +807,11 @@
 :4D9B
 <background "bg005a0.agf" 10>
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!AC0361">
+<name "Company Maid" "!AC0361">
 「出発ですか？
 　お気をつけて」
 #
-<name "ダークス">
+<name "Darx">
 「おう」
 #
 <removesprite -1 11>
@@ -819,10 +819,10 @@
 :4E54
 <background "bg005a0.agf" 10>
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!AC0362">
+<name "Company Maid" "!AC0362">
 「支援はお任せください」
 #
-<name "ダークス">
+<name "Darx">
 「ああ、頼りにしている」
 #
 <removesprite -1 11>
@@ -830,11 +830,11 @@
 :4F14
 <background "bg005a0.agf" 10>
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!AC0363">
+<name "Company Maid" "!AC0363">
 「そろそろ、条件の日付が迫っています。
 　頑張って下さい」
 #
-<name "ダークス">
+<name "Darx">
 「おう」
 #
 <removesprite -1 11>
@@ -842,11 +842,11 @@
 :4FE7
 <background "bg005a0.agf" 10>
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!AC0364">
+<name "Company Maid" "!AC0364">
 「魔王様。
 　ご武運を」
 #
-<name "ダークス">
+<name "Darx">
 「頑張ってくる」
 #
 <removesprite -1 11>
@@ -854,46 +854,46 @@
 :50A0
 <background "bg005a0.agf" 10>
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!AC0365">
+<name "Company Maid" "!AC0365">
 「留守はお任せください」
 #
-<name "ダークス">
+<name "Darx">
 「ああ」
 #
 <removesprite -1 11>
 <exit>
 :5150
 <background "bg005a0.agf" 10>
-<name "ダークス">
+<name "Darx">
 「戻ったか」
 #
 <sprite "ta13a000.agf" 4 4 11>
-<name "エカテー" "!TA0076">
+<name "Ekate" "!TA0076">
 「うん」
 #
-<name "ダークス">
+<name "Darx">
 「すまないな。
 　落ち着いたら、また考える。
 　しばらくはここの守備に専念してくれ」
 #
 <sprite "ta13a004.agf" 4 4 12>
-<name "エカテー" "!TA0077">
+<name "Ekate" "!TA0077">
 「わかってる。
 　任せて」
 #
-<name "ダークス">
+<name "Darx">
 「その素直さ。
 　流石はエカテー」
 #
 <sprite "ta13a005.agf" 4 4 12>
-<name "エカテー" "!TA0078">
+<name "Ekate" "!TA0078">
 「えへへ」
 #
-<name "ダークス">
+<name "Darx">
 「ちょっと建物の影に行くか」
 #
 <sprite "ta13a006.agf" 4 4 12>
-<name "エカテー" "!TA0079">
+<name "Ekate" "!TA0079">
 「うん♪」
 #
 <removesprite -1 11>
@@ -902,7 +902,7 @@
 :53D5
 <background "bg005a0.agf" 10>
 <sprite "ta13a008.agf" 4 4 11>
-<name "エカテー" "!TA0080">
+<name "Ekate" "!TA0080">
 「ここは絶対に通さない！」
 #
 <name "扉を守る魔族" "!GB0114">
@@ -920,11 +920,11 @@
 <music 42>
 <background "bg005a0.agf" 10>
 <sprite "ta08a012.agf" 4 4 11>
-<name "ラキア" "!ZC0214">
+<name "Rakia" "!ZC0214">
 「ダークス様。
 　あまり猶予はないようです」
 #
-<name "ダークス">
+<name "Darx">
 「ああ、急ぐ」
 #
 <removesprite -1 11>
@@ -933,11 +933,11 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta01a025.agf" 4 4 11>
-<name "ソフィア" "!ZB0539">
+<name "Sofia" "!ZB0539">
 「魔王様。
 　フォーゼロッテ様の救出、お急ぎ下さい」
 #
-<name "ダークス">
+<name "Darx">
 「わかっている」
 #
 <removesprite -1 11>
@@ -945,7 +945,7 @@
 :56D7
 <music 9>
 \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "フォーゼロッテ" "!XA0014" "ka10a015.agf">
+<name "Forzelotte" "!XA0014" "ka10a015.agf">
 「うう……」
 #
 <exit>
@@ -953,14 +953,14 @@
 <music 42>
 <background "bg005a0.agf" 10>
 <sprite "ta08a002.agf" 4 4 11>
-<name "ラキア" "!ZC0215">
+<name "Rakia" "!ZC0215">
 「ダークス様」
 #
-<name "ダークス">
+<name "Darx">
 「迷惑を掛けるな」
 #
 <sprite "ta08a023.agf" 4 4 12>
-<name "ラキア" "!ZC0216">
+<name "Rakia" "!ZC0216">
 「いえ。
 　ご無事で」
 #
@@ -970,18 +970,18 @@
 <music 42>
 <background "bg005a0.agf" 10>
 <sprite "ta02a000.agf" 4 4 11>
-<name "ダークス">
+<name "Darx">
 「マクドゥ……」
 #
-<name "ダークス">
+<name "Darx">
 「魔王なら、これぐらいはなんとかするもんだろ」
 #
 <sprite "ta02a004.agf" 4 4 12>
-<name "マクドゥ" "!ZA0315">
+<name "Macdo" "!ZA0315">
 「……そうだな。
 　見せて貰おう」
 #
-<name "ダークス">
+<name "Darx">
 「ああ」
 #
 <removesprite -1 11>
@@ -989,19 +989,19 @@
 :599F
 <music 41>
 <background "bg003a0.agf" 10>
-<name "ダークス">
+<name "Darx">
 「フォーゼロッテ。
 　お前は、ここを頼む」
 #
 <sprite "ta10a005.agf" 4 4 11>
-<name "フォーゼロッテ" "!XA0036">
+<name "Forzelotte" "!XA0036">
 「わかった」
 #
-<name "ダークス">
+<name "Darx">
 「あと、コゼロットにもよろしくな」
 #
 <sprite "ta10a006.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0037">
+<name "Forzelotte" "!XA0037">
 「うむ」
 #
 <removesprite -1 11>

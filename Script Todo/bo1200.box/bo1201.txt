@@ -48,348 +48,348 @@
 \x16 :234C: \x16 :23FC: \x16 :247E: \x16 :24F8: \x16 :25D1: \x16 :2735: \x16 :28A9: \x16 :2991: \x16 :2A8E: \x16 :2B19: \x16 :2BA7: \x16 :2C77: \x16 :2D83: \x16 :2E9C: 
 :68A
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "ダークス">
+<name "Darx">
 「住民の確保だが、殴る以外には無いのか？」
 #
-<name "商会メイド" "!DC0351" "ka34c000.agf">
+<name "Company Maid" "!DC0351" "ka34c000.agf">
 「説得も可能ですが、一人一人を相手にするのは厳
 　しいと思います」
 #
-<name "商会メイド" "!DC0352" "ka34c000.agf">
+<name "Company Maid" "!DC0352" "ka34c000.agf">
 「人数がいる時に、呼びかけてみる感じでどうでしょ
 　う」
 #
-<name "ダークス">
+<name "Darx">
 「だな。
 　それ以外には？」
 #
-<name "商会メイド" "!DC0353" "ka34c000.agf">
+<name "Company Maid" "!DC0353" "ka34c000.agf">
 「やはり、殴って従わせるのが一番ですね。
 　基本、強い者に従いますから」
 #
-<name "商会メイド" "!DC0354" "ka34c000.agf">
+<name "Company Maid" "!DC0354" "ka34c000.agf">
 「ああ、そういう意味では、集団のリーダーを従わ
 　せれば、その下が一緒について来る可能性があり
 　ます」
 #
-<name "ダークス">
+<name "Darx">
 「なるほど。
 　一人一人を殴るよりは良いか」
 #
-<name "商会メイド" "!DC0355" "ka34c000.agf">
+<name "Company Maid" "!DC0355" "ka34c000.agf">
 「でも、そういったリーダーはなかなか前に出て来
 　ませんけどね」
 #
-<name "ダークス">
+<name "Darx">
 「確かに」
 #
-<name "ダークス">
+<name "Darx">
 「ま、頑張ってみるさ」
 #
 <exit>
 :A39
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "ダークス">
+<name "Darx">
 「集落ですかね？」
 #
-<name "商会メイド" "!DC0356" "ka34c000.agf">
+<name "Company Maid" "!DC0356" "ka34c000.agf">
 「魔王様、演説をお願いします」
 #
-<name "ダークス">
+<name "Darx">
 「ああ」
 #
 <exit>
 :AFD
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "商会メイド" "!DC0357" "ka34c000.agf">
+<name "Company Maid" "!DC0357" "ka34c000.agf">
 「魔王様、この辺りで演説など」
 #
-<name "ダークス">
+<name "Darx">
 「そうだな」
 #
 <exit>
 :BA2
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "商会メイド" "!DC0358" "ka34c000.agf">
+<name "Company Maid" "!DC0358" "ka34c000.agf">
 「魔王様、移住者をそれなりに確保しました」
 #
-<name "ダークス">
+<name "Darx">
 「よくやった」
 #
 <exit>
 :C55
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "商会メイド" "!DC0359" "ka34c000.agf">
+<name "Company Maid" "!DC0359" "ka34c000.agf">
 「魔王様。
 　街への移住希望者を確保しました」
 #
-<name "ダークス">
+<name "Darx">
 「街へ送ってくれ」
 #
-<name "商会メイド" "!DC0360" "ka34c000.agf">
+<name "Company Maid" "!DC0360" "ka34c000.agf">
 「はい」
 #
 <exit>
 :D54
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "ダークス">
+<name "Darx">
 「集落っぽいな。
 　勧誘するか」
 #
 <exit>
 :DB5
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "商会メイド" "!PC0471" "ka34c000.agf">
+<name "Company Maid" "!PC0471" "ka34c000.agf">
 「魔王様。
 　資金を入手しました」
 #
-<name "ダークス">
+<name "Darx">
 「え？
 　すまん、何を入手したって？」
 #
-<name "商会メイド" "!PC0472" "ka34c000.agf">
+<name "Company Maid" "!PC0472" "ka34c000.agf">
 「資金です」
 #
-<name "ダークス">
+<name "Darx">
 「……どうやって？」
 #
-<name "商会メイド" "!PC0473" "ka34c000.agf">
+<name "Company Maid" "!PC0473" "ka34c000.agf">
 「どうやってって……そこに金庫が」
 #
-<name "ダークス">
+<name "Darx">
 「………………なぜ、こんな所に金庫がある！
 　そして、それを難なく開けれる君達に驚きだ！」
 #
-<name "商会メイド" "!PC0474" "ka34c000.agf">
+<name "Company Maid" "!PC0474" "ka34c000.agf">
 「てへ」
 #
-<name "ダークス">
+<name "Darx">
 「よーし、話し合おうか。
 　まあ、座りたまえ」
 #
-<name "商会メイド" "!PC0475" "ka34c000.agf">
+<name "Company Maid" "!PC0475" "ka34c000.agf">
 「はい」
 #
-<name "ダークス">
+<name "Darx">
 「なぜ、こんな所に金庫が？」
 #
-<name "商会メイド" "!PC0476" "ka34c000.agf">
+<name "Company Maid" "!PC0476" "ka34c000.agf">
 「かなり重いので、落し物とは考えられません」
 #
-<name "ダークス">
+<name "Darx">
 「だろうな」
 #
-<name "商会メイド" "!PC0477" "ka34c000.agf">
+<name "Company Maid" "!PC0477" "ka34c000.agf">
 「考えられるのが、落下した城です」
 #
-<name "ダークス">
+<name "Darx">
 「あそこにあった誰かの金庫が、ここに飛んで来た
 　と？」
 #
-<name "商会メイド" "!PC0478" "ka34c000.agf">
+<name "Company Maid" "!PC0478" "ka34c000.agf">
 「ここが落下地点ではないでしょう。
 　誰かが別の場所で見つけて運んだけど、あまりの
 　重さに諦めてここで放棄した。
 　そう考えるのが妥当だと思います」
 #
-<name "ダークス">
+<name "Darx">
 「なるほど。
 　金庫はまあ、それで良いだろう。
 　どうしてそれを簡単に開けられるんだ？」
 #
-<name "商会メイド" "!PC0479" "ka34c000.agf">
+<name "Company Maid" "!PC0479" "ka34c000.agf">
 「魔王様」
 #
-<name "ダークス">
+<name "Darx">
 「ん？」
 #
-<name "商会メイド" "!PC0480" "ka34c000.agf">
+<name "Company Maid" "!PC0480" "ka34c000.agf">
 「それは私達がギュンギュスカー商会の者だからで
 　す」
 #
-<name "ダークス">
+<name "Darx">
 「………………」
 #
-<name "商会メイド" "!PC0481" "ka34c000.agf">
+<name "Company Maid" "!PC0481" "ka34c000.agf">
 「もちろん。
 　金庫の中を自分の利益にする為に、鍵開けの技術
 　を使ったりはしません。
 　ですので、金庫の中身は魔王様の物です」
 #
-<name "商会メイド" "!PC0482" "ka34c000.agf">
+<name "Company Maid" "!PC0482" "ka34c000.agf">
 「ご納得頂けましたか？」
 #
-<name "ダークス">
+<name "Darx">
 「納得するしかないんだろうな」
 #
-<name "商会メイド" "!PC0483" "ka34c000.agf">
+<name "Company Maid" "!PC0483" "ka34c000.agf">
 「細かい事は気にしない」
 #
-<name "ダークス">
+<name "Darx">
 「そ、そうしよう」
 #
 <exit>
 :15B3
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "商会メイド" "!DC0361" "ka34c000.agf">
+<name "Company Maid" "!DC0361" "ka34c000.agf">
 「魔王様～♪」
 #
-<name "ダークス">
+<name "Darx">
 「上機嫌だな。
 　どうしたんだ？」
 #
-<name "商会メイド" "!DC0362" "ka34c000.agf">
+<name "Company Maid" "!DC0362" "ka34c000.agf">
 「資金、入手しましたー」
 #
-<name "ダークス">
+<name "Darx">
 「お、良くやった」
 #
-<name "商会メイド" "!DC0363" "ka34c000.agf">
+<name "Company Maid" "!DC0363" "ka34c000.agf">
 「いえいえ。
 　ご褒美に頭を撫でても、構いませんよ」
 #
-<name "ダークス">
+<name "Darx">
 「……」
 #
 　愛情タップリに撫でてやった。
 #
-<name "商会メイド" "!DC0364" "ka34c000.agf">
+<name "Company Maid" "!DC0364" "ka34c000.agf">
 「ふぁ……、頭以外も撫でられた」
 #
 <exit>
 :17DB
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "商会メイド" "!DC0365" "ka34c000.agf">
+<name "Company Maid" "!DC0365" "ka34c000.agf">
 「魔王様。
 　食料を手に入れました」
 #
-<name "ダークス">
+<name "Darx">
 「食料？
 　ああ、あれか」
 #
-<name "商会メイド" "!DC0366" "ka34c000.agf">
+<name "Company Maid" "!DC0366" "ka34c000.agf">
 「はい。
 　野生のようですし、食べても問題はないと思いま
 　す」
 #
-<name "商会メイド" "!DC0367" "ka34c000.agf">
+<name "Company Maid" "!DC0367" "ka34c000.agf">
 「万が一を考えて、街でチェックしてから倉庫に放
 　り込みます」
 #
-<name "ダークス">
+<name "Darx">
 「よろしく頼む」
 #
 <exit>
 :19AE
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "商会メイド" "!DC0368" "ka34c000.agf">
+<name "Company Maid" "!DC0368" "ka34c000.agf">
 「魔王様。
 　ここらで食料の確保が出来そうです」
 #
-<name "ダークス">
+<name "Darx">
 「そうか。
 　頼む」
 #
-<name "商会メイド" "!DC0369" "ka34c000.agf">
+<name "Company Maid" "!DC0369" "ka34c000.agf">
 「はい。
 　お任せください」
 #
 <exit>
 :1AC7
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "商会メイド" "!DC0370" "ka34c000.agf">
+<name "Company Maid" "!DC0370" "ka34c000.agf">
 「魔王様。
 　この辺りで食料を集められそうです」
 #
-<name "ダークス">
+<name "Darx">
 「こんな場所でか？」
 #
-<name "商会メイド" "!DC0371" "ka34c000.agf">
+<name "Company Maid" "!DC0371" "ka34c000.agf">
 「野生の芋が、壁の向こうに」
 #
-<name "ダークス">
+<name "Darx">
 「掘れるのか？」
 #
-<name "商会メイド" "!DC0372" "ka34c000.agf">
+<name "Company Maid" "!DC0372" "ka34c000.agf">
 「その芋の所為で壁が脆くなっていますから、大丈
 　夫です。
 　ちなみに、その壁の脆くなり具合で芋の存在が解
 　るんですよ」
 #
-<name "ダークス">
+<name "Darx">
 「俺には、まるっきりわからないが……」
 #
-<name "商会メイド" "!DC0373" "ka34c000.agf">
+<name "Company Maid" "!DC0373" "ka34c000.agf">
 「まあ、それなりの経験が必要ですから」
 #
-<name "ダークス">
+<name "Darx">
 「……任せた」
 #
-<name "商会メイド" "!DC0374" "ka34c000.agf">
+<name "Company Maid" "!DC0374" "ka34c000.agf">
 「はい。
 　お任せください」
 #
 <exit>
 :1DC6
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "商会メイド" "!PC0484" "ka34c000.agf">
+<name "Company Maid" "!PC0484" "ka34c000.agf">
 「魔王様。
 　ここで資源が手に入りそうです」
 #
-<name "ダークス">
+<name "Darx">
 「……」
 #
-<name "商会メイド" "!PC0485" "ka34c000.agf">
+<name "Company Maid" "!PC0485" "ka34c000.agf">
 「なにか変でしたか？」
 #
-<name "ダークス">
+<name "Darx">
 「いや、どうしてここで資源が手に入るのかなぁと
 　思って」
 #
-<name "商会メイド" "!PC0486" "ka34c000.agf">
+<name "Company Maid" "!PC0486" "ka34c000.agf">
 「天蓋の城を始めとした、天界の施設のお陰です」
 #
-<name "商会メイド" "!PC0487" "ka34c000.agf">
+<name "Company Maid" "!PC0487" "ka34c000.agf">
 「あれの落下の所為で、各地で地割れ、地滑り等が
 　起こりましたから、新しい発見があるんですよ」
 #
-<name "ダークス">
+<name "Darx">
 「不幸中の幸いってヤツか？」
 #
-<name "商会メイド" "!PC0488" "ka34c000.agf">
+<name "Company Maid" "!PC0488" "ka34c000.agf">
 「転んでもタダでは起きないってヤツです」
 #
-<name "商会メイド" "!PC0489" "ka34c000.agf">
+<name "Company Maid" "!PC0489" "ka34c000.agf">
 「あと、天界の施設自体も、色々と良い物を使って
 　いるんですよ。
 　その残骸、破片とかが良い資源として活用できま
 　して」
 #
-<name "ダークス">
+<name "Darx">
 「なるほど」
 #
 <exit>
 :217B
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "商会メイド" "!PC0490" "ka34c000.agf">
+<name "Company Maid" "!PC0490" "ka34c000.agf">
 「魔王様。
 　ここで少し、資源が手に入りそうです」
 #
-<name "ダークス">
+<name "Darx">
 「そうか。
 　回収を頼む」
 #
-<name "商会メイド" "!PC0491" "ka34c000.agf">
+<name "Company Maid" "!PC0491" "ka34c000.agf">
 「はい」
 #
 <exit>
 :2287
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "商会メイド" "!PC0492" "ka34c000.agf">
+<name "Company Maid" "!PC0492" "ka34c000.agf">
 「魔王様。
 　この辺りで、資源が手に入りそうです」
 #
-<name "ダークス">
+<name "Darx">
 「そうか。
 　頼んだ」
 #
@@ -399,7 +399,7 @@
 <name "部下魔族" "!ZD0137">
 「ここに何か仕掛けが……」
 #
-<name "ダークス">
+<name "Darx">
 「調べろ」
 #
 <name "部下魔族" "!ZD0138">
@@ -426,7 +426,7 @@
 「な、なんだ？
 　急に真っ暗になったぞ」
 #
-<name "ダークス">
+<name "Darx">
 「落ち着け、自分の感覚を再確認しろ」
 #
 <name "部下魔族" "!UA0157">
@@ -445,7 +445,7 @@
 「きゃぁっ。
 　もう、変な所を触らないでよー」
 #
-<name "ダークス">
+<name "Darx">
 「お前ら、余裕があるなぁ」
 #
 <name "部下魔族" "!GB0214">
@@ -464,7 +464,7 @@
 <name "下心がある部下魔族" "!HC0175">
 「ぬぬぬ……」
 #
-<name "ダークス">
+<name "Darx">
 「いくらでも抱き締めてやるから、今は警戒しろ」
 #
 <name "下心がある部下魔族" "!HC0176">
@@ -476,13 +476,13 @@
 <name "部下魔族" "!RB0167">
 「あの、魔王様」
 #
-<name "ダークス">
+<name "Darx">
 「どうした？」
 #
 <name "部下魔族" "!RB0168">
 「今、私のお尻、触りました？」
 #
-<name "ダークス">
+<name "Darx">
 「す、すまん。
 　事故だ」
 #
@@ -492,13 +492,13 @@
 <name "部下魔族" "!HC0180">
 「えっと……」
 #
-<name "ダークス">
+<name "Darx">
 「転移装置に引っかかったな」
 #
 <name "部下魔族" "!HC0181">
 「罠でしょうか？」
 #
-<name "ダークス">
+<name "Darx">
 「通路の可能性もあるから、なんともいえないなぁ」
 #
 <exit>
@@ -508,7 +508,7 @@
 「うわっ。
 　な、なんだ？」
 #
-<name "ダークス">
+<name "Darx">
 「転移装置か」
 #
 <exit>
@@ -517,7 +517,7 @@
 <name "部下魔族" "!ZE0240">
 「ここ、どこだ？」
 #
-<name "ダークス">
+<name "Darx">
 「転移装置に引っかかったな」
 #
 <exit>
@@ -536,7 +536,7 @@
 <name "部下魔族" "!MB0131">
 「なんだ、これ？」
 #
-<name "ダークス">
+<name "Darx">
 「昇降機だ。
 　上下の階に移動できる装置だ」
 #
@@ -570,7 +570,7 @@
 <name "部下魔族" "!GB0218">
 「乗ります？」
 #
-<name "ダークス">
+<name "Darx">
 「慌てるな。
 　ちょっと考える」
 #

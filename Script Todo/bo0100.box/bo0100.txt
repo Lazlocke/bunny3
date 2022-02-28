@@ -35,7 +35,7 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta08a012.agf" 4 4 11>
-<name "ラキア" "!ZC0362">
+<name "Rakia" "!ZC0362">
 「そろそろ期限ですが、大丈夫ですか？」
 #
 <removesprite -1 11>

@@ -28,11 +28,11 @@
 :691
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 
 <sprite "ta02a000.agf" 4 4 11>
-<name "マクドゥ" "!ZA0167">
+<name "Macdo" "!ZA0167">
 「なるべく邪魔されない場所」
 #
 <sprite "ta02a001.agf" 4 4 12>
-<name "マクドゥ" "!ZA0168">
+<name "Macdo" "!ZA0168">
 「この辺りで良いか」
 #
 <removesprite -1 11>

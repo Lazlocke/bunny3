@@ -19,62 +19,62 @@
 \x78
 :2C9
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "ダークス">
+<name "Darx">
 「どうだ？」
 #
-<name "商会メイド" "!DC0018" "ka34c001.agf">
+<name "Company Maid" "!DC0018" "ka34c001.agf">
 「すみません。
 　まだです」
 #
-<name "ダークス">
+<name "Darx">
 「ぬう」
 #
 <name "天界兵部隊長" "!GB0011">
 「侵入者を殺せ！」
 #
-<name "ダークス">
+<name "Darx">
 「次が来たか」
 #
 <exit>
 :3DB
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "ダークス">
+<name "Darx">
 「壊れたか？」
 #
-<name "商会メイド" "!DC0019" "ka34c001.agf">
+<name "Company Maid" "!DC0019" "ka34c001.agf">
 「もう少しです」
 #
-<name "ダークス">
+<name "Darx">
 「了解」
 #
 <exit>
 :48D
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "商会メイド" "!DC0020" "ka34c004.agf">
+<name "Company Maid" "!DC0020" "ka34c004.agf">
 「やりました！
 　破壊成功です！」
 #
-<name "ダークス">
+<name "Darx">
 「よくやった……」
 #
-<name "商会メイド" "!DC0021" "ka34c000.agf">
+<name "Company Maid" "!DC0021" "ka34c000.agf">
 「修理不可能なぐらい壊しましたので、もう大丈夫
 　かと」
 #
-<name "ダークス">
+<name "Darx">
 「ああ。
 　……いや、もう少し見回ろう」
 #
-<name "商会メイド" "!DC0022" "ka34c001.agf">
+<name "Company Maid" "!DC0022" "ka34c001.agf">
 「え？」
 #
-<name "ダークス">
+<name "Darx">
 「同じのが無いとは言い切れないだろ」
 #
-<name "商会メイド" "!DC0023" "ka34c000.agf">
+<name "Company Maid" "!DC0023" "ka34c000.agf">
 「確かにそうですね」
 #
-<name "ダークス">
+<name "Darx">
 「用心し過ぎだと思うけどな」
 #
 <exit>
@@ -94,10 +94,10 @@
 <exit>
 :7CC
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "商会メイド" "!DC0026" "ka34c008.agf">
+<name "Company Maid" "!DC0026" "ka34c008.agf">
 「次が来ます！」
 #
-<name "ダークス">
+<name "Darx">
 「おう！」
 #
 　敵だ。
@@ -105,13 +105,13 @@
 <exit>
 :86D
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "商会メイド" "!DC0027" "ka34c001.agf">
+<name "Company Maid" "!DC0027" "ka34c001.agf">
 「こっちは、もうすぐです！」
 #
-<name "ダークス">
+<name "Darx">
 「あと一踏ん張りだな」
 #
-<name "商会メイド" "!DC0028" "ka34c000.agf">
+<name "Company Maid" "!DC0028" "ka34c000.agf">
 「お願いします」
 #
 　敵だ。
@@ -119,14 +119,14 @@
 <exit>
 :971
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "商会メイド" "!DC0029" "ka34c004.agf">
+<name "Company Maid" "!DC0029" "ka34c004.agf">
 「魔王様。
 　完全に破壊しました！」
 #
-<name "ダークス">
+<name "Darx">
 「よくやった！」
 #
-<name "商会メイド" "!DC0030" "ka34c000.agf">
+<name "Company Maid" "!DC0030" "ka34c000.agf">
 「はいっ！」
 #
 　ふう。
@@ -141,56 +141,56 @@
 :ADE
 \x2B\x6E 1  "bo1000.box" 
 <background "ev078a00.agf" 10>
-<name "商会メイド" "!PC0091">
+<name "Company Maid" "!PC0091">
 「やりましたね」
 #
-<name "ダークス">
+<name "Darx">
 「いや、まだだ」
 #
-<name "商会メイド" "!PC0092">
+<name "Company Maid" "!PC0092">
 「え？」
 #
-<name "ダークス">
+<name "Darx">
 「まだなんだ」
 #
-<name "商会メイド" "!PC0093">
+<name "Company Maid" "!PC0093">
 「どういう事です？」
 #
-<name "ダークス">
+<name "Darx">
 「再生する」
 #
 　俺の言葉通り、触手は再生を始めた。
 #
-<name "商会メイド" "!PC0094">
+<name "Company Maid" "!PC0094">
 「そんなっ」
 #
-<name "ダークス">
+<name "Darx">
 「驚くな。
 　それより、そこにヘビが落ちているだろ。
 　回収できるか？」
 #
-<name "商会メイド" "!PC0095">
+<name "Company Maid" "!PC0095">
 「え？
 　あー……はい」
 #
-<name "ダークス">
+<name "Darx">
 「スイセンの情報提供の代金だから、丁重に運んで
 　やってくれ」
 #
-<name "商会メイド" "!PC0096">
+<name "Company Maid" "!PC0096">
 「噛みませんよね」
 #
-<name "ダークス">
+<name "Darx">
 「大丈夫……だろう。
 　多分」
 #
-<name "商会メイド" "!PC0097">
+<name "Company Maid" "!PC0097">
 「適当ですね」
 #
-<name "ダークス">
+<name "Darx">
 「まあ、頼んだ」
 #
-<name "ダークス">
+<name "Darx">
 「俺は最後の戦いをしないといけないからな」
 #
 　触手は再生を続けた。
@@ -206,11 +206,11 @@
 <background "ev078c00.agf" 10>
 　それも無数に。
 #
-<name "ダークス">
+<name "Darx">
 「予想通りだが……
 　ちょっと数がズルいんじゃないか？」
 #
-<name "ダークス" "!BA0001">
+<name "Darx" "!BA0001">
 「うぐぁぁぁぁぁ」
 #
 　目の前に居るのは俺だ。
@@ -235,13 +235,13 @@
 #
 　それがどんな被害をもたらすかも考えずに。
 #
-<name "ダークス">
+<name "Darx">
 「まあ、責任は取るさ」
 #
-<name "ダークス" "!BA0002">
+<name "Darx" "!BA0002">
 「うぐぁぁぁぁぁぁぁっ」
 #
-<name "ダークス">
+<name "Darx">
 「行くぞ」
 #
 \x0A\x44\x03\x07\x84\x01

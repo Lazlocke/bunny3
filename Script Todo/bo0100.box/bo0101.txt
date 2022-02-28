@@ -67,7 +67,7 @@
 <music 42>
 <background "bg005a0.agf" 10>
 <sprite "ta34c008.agf" 4 4 11>
-<name "商会メイド" "!AC0366">
+<name "Company Maid" "!AC0366">
 「治療班！
 　急いで！」
 #
@@ -82,18 +82,18 @@
 「魔王様は大丈夫ですか？」
 #
 <removesprite -1 11>
-<name "ダークス">
+<name "Darx">
 「ああ、俺はなんとかな」
 #
 <sprite "ta34c000.agf" 4 4 11>
-<name "商会メイド" "!AC0367">
+<name "Company Maid" "!AC0367">
 「負傷者の治療、責任を持って行います。
 　ご安心を」
 #
-<name "ダークス">
+<name "Darx">
 「死なすなよ」
 #
-<name "商会メイド" "!AC0368">
+<name "Company Maid" "!AC0368">
 「もちろんです」
 #
 <removesprite -1 11>
@@ -106,38 +106,38 @@
 <music 11>
 <background "bg008a0.agf" 10>
 <sprite "ta01a025.agf" 4 4 11>
-<name "ソフィア" "!ZB0937">
+<name "Sofia" "!ZB0937">
 「うっ……」
 #
-<name "ダークス">
+<name "Darx">
 「どうした？
 　大丈夫か？」
 #
 <sprite "ta01a036.agf" 4 4 12>
-<name "ソフィア" "!ZB0938">
+<name "Sofia" "!ZB0938">
 「いえ、負傷者が多かったものですから」
 #
-<name "ダークス">
+<name "Darx">
 「そうか。
 　悪かったな。
 　少し無茶をした」
 #
 <sprite "ta01a001.agf" 4 4 12>
-<name "ソフィア" "!ZB0939">
+<name "Sofia" "!ZB0939">
 「いえ。
 　魔王様も頑張っているんだと、再認識しました」
 #
 <sprite "ta01a004.agf" 4 4 12>
-<name "ソフィア" "!ZB0940">
+<name "Sofia" "!ZB0940">
 「私も、もっと頑張ります」
 #
-<name "ダークス">
+<name "Darx">
 「ほどほどにな。
 　じゃないと、今回の俺達みたいにボロボロになる
 　ぞ」
 #
 <sprite "ta01a033.agf" 4 4 12>
-<name "ソフィア" "!ZB0941">
+<name "Sofia" "!ZB0941">
 「注意します」
 #
 <removesprite -1 11>
@@ -146,19 +146,19 @@
 <music 42>
 <background "bg005a0.agf" 10>
 <sprite "ta34c006.agf" 4 4 11>
-<name "商会メイド" "!AC0369">
+<name "Company Maid" "!AC0369">
 「魔王様。
 　あまり、無茶をされては……」
 #
-<name "ダークス">
+<name "Darx">
 「心配を掛ける」
 #
 <sprite "ta34c000.agf" 4 4 12>
-<name "商会メイド" "!AC0370">
+<name "Company Maid" "!AC0370">
 「まったくです。
 　負傷者は治療を行っていますので、ご安心を」
 #
-<name "ダークス">
+<name "Darx">
 「ああ、頼む」
 #
 <removesprite -1 11>
@@ -200,13 +200,13 @@
 <name "受付メイド" "!AC0374">
 「ふう……一段落」
 #
-<name "ダークス">
+<name "Darx">
 「ご苦労だったな」
 #
 <name "受付メイド" "!AC0375">
 「いえ、まだまだこれからです」
 #
-<name "ダークス">
+<name "Darx">
 「そうなのか？」
 #
 <name "受付メイド" "!AC0376">
@@ -220,7 +220,7 @@
 「ああ、魔王様の演説の時間を設けています。
 　よろしくお願いしますね」
 #
-<name "ダークス">
+<name "Darx">
 「……が、頑張る」
 #
 <removesprite -1 11>
@@ -229,31 +229,31 @@
 <music 11>
 <background "bg008a0.agf" 10>
 <sprite "ta01a001.agf" 4 4 11>
-<name "ソフィア" "!ZB0942">
+<name "Sofia" "!ZB0942">
 「ずいぶんと、たくさんの移住者を連れて来ました
 　ね」
 #
-<name "ダークス">
+<name "Darx">
 「なんとかなるか？」
 #
 <sprite "ta01a004.agf" 4 4 12>
-<name "ソフィア" "!ZB0943">
+<name "Sofia" "!ZB0943">
 「なんとかします」
 #
 <sprite "ta01a005.agf" 4 4 12>
-<name "ソフィア" "!ZB0944">
+<name "Sofia" "!ZB0944">
 「名簿作り。
 　食事の確保。
 　寝れる場所の確保」
 #
 <removesprite -1 11>
 <sprite "ta34b000.agf" 4 4 11>
-<name "商会メイド" "!AC0379">
+<name "Company Maid" "!AC0379">
 「はい」
 #
 <removesprite -1 11>
 <sprite "ta01a033.agf" 4 4 11>
-<name "ソフィア" "!ZB0945">
+<name "Sofia" "!ZB0945">
 「名簿作りと同時進行で班分けして、ここでの生活
 　の説明会を。
 　ああ、家族は出来る限り、同じ班になるようにね」
@@ -280,7 +280,7 @@
 #
 <removesprite -1 11>
 <sprite "ta01a004.agf" 4 4 11>
-<name "ソフィア" "!ZB0946">
+<name "Sofia" "!ZB0946">
 「よろしく」
 #
 <removesprite -1 11>
@@ -289,7 +289,7 @@
 「怪我をしている方はこちらに。
 　治療します」
 #
-<name "ダークス">
+<name "Darx">
 「任せる。
 　暴れるヤツが居たら、遠慮なく痛めつけろ」
 #
@@ -297,7 +297,7 @@
 「了解しました。
 　二時間後、演説をお願いしますね」
 #
-<name "ダークス">
+<name "Darx">
 「了解」
 #
 <removesprite -1 11>
@@ -366,14 +366,14 @@
 「えっと……」
 #
 <removesprite -1 11>
-<name "ダークス">
+<name "Darx">
 「なかなか、強気な発言だな。
 　元気があって良いぞ」
 #
 <name "偉そうな移住者" "!SB0244">
 「え、あ……」
 #
-<name "ダークス">
+<name "Darx">
 「しかし、ここにはここのルールがある。
 　ああ、怒っていないぞ。
 　知らなくて当然だからな。
@@ -389,7 +389,7 @@
 「魔王様。
 　お手数をお掛けしました」
 #
-<name "ダークス">
+<name "Darx">
 「ははは」
 #
 <removesprite -1 11>
@@ -496,22 +496,22 @@
 <music 11>
 <background "bg008a0.agf" 10>
 <sprite "ta01a005.agf" 4 4 11>
-<name "ソフィア" "!ZB0947">
+<name "Sofia" "!ZB0947">
 「また、たくさんの食料、集めましたねぇ」
 #
-<name "ダークス">
+<name "Darx">
 「まあな」
 #
 <sprite "ta01a033.agf" 4 4 12>
-<name "ソフィア" "!ZB0948">
+<name "Sofia" "!ZB0948">
 「街の倉庫。
 　空いてますよ」
 #
-<name "ダークス">
+<name "Darx">
 「……わかってる」
 #
 <sprite "ta01a034.agf" 4 4 12>
-<name "ソフィア" "!ZB0949">
+<name "Sofia" "!ZB0949">
 「期待しています」
 #
 <removesprite -1 11>
@@ -520,18 +520,18 @@
 <music 11>
 <background "bg008a0.agf" 10>
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!AC0386">
+<name "Company Maid" "!AC0386">
 「食料、沢山ありますね」
 #
-<name "ダークス">
+<name "Darx">
 「街全体を考えれば、僅かだけどな」
 #
-<name "商会メイド" "!AC0387">
+<name "Company Maid" "!AC0387">
 「いえいえ、十分ですよ。
 　街の倉庫に入れる手続き、落ち着いたらお願いし
 　ますね」
 #
-<name "ダークス">
+<name "Darx">
 「了解」
 #
 <removesprite -1 11>
@@ -540,19 +540,19 @@
 <music 11>
 <background "bg008a0.agf" 10>
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!AC0388">
+<name "Company Maid" "!AC0388">
 「沢山の食料」
 #
-<name "商会メイド" "!AC0389">
+<name "Company Maid" "!AC0389">
 「一人では食べ切れませんよね」
 #
-<name "ダークス">
+<name "Darx">
 「あ、ああ」
 #
-<name "商会メイド" "!AC0390">
+<name "Company Maid" "!AC0390">
 「街の倉庫、空いてますよ」
 #
-<name "ダークス">
+<name "Darx">
 「わ、わかった」
 #
 <removesprite -1 11>
@@ -592,13 +592,13 @@
 　幻の影薄い戦士とは、私の事だー！」
 #
 <removesprite -1 11>
-<name "ダークス">
+<name "Darx">
 「え？
 　なに？
 　この小芝居？」
 #
 <sprite "ta01a033.agf" 4 4 11>
-<name "ソフィア" "!ZB0950">
+<name "Sofia" "!ZB0950">
 「食料を持ち帰ってくれた魔王様に対する感謝の芝
 　居です。
 　あ、もう少し続きますよ」
@@ -610,7 +610,7 @@
 <background "bg008a0.agf" 10>
 <sprite "ta34a004.agf" 2 4 11>
 <sprite "ta34b004.agf" 6 5 11>
-<name "商会メイド" "!AC0393">
+<name "Company Maid" "!AC0393">
 「魔王様が食料を持ち帰ったぞー！」
 #
 <name "喜ぶメイド" "!DC0347">
@@ -618,7 +618,7 @@
 　今夜はパーティーだ！」
 #
 <removesprite -1 11>
-<name "ダークス">
+<name "Darx">
 「な、なんだか、山賊みたいだなぁ」
 #
 <sprite "ta34c000.agf" 4 4 11>
@@ -631,20 +631,20 @@
 <music 11>
 <background "bg008a0.agf" 10>
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!AC0394">
+<name "Company Maid" "!AC0394">
 「お土産が多いですね」
 #
-<name "ダークス">
+<name "Darx">
 「頑張ったからな」
 #
-<name "商会メイド" "!AC0395">
+<name "Company Maid" "!AC0395">
 「ご苦労様です」
 #
-<name "ダークス">
+<name "Darx">
 「俺はもう寝る。
 　後は任せた」
 #
-<name "商会メイド" "!AC0396">
+<name "Company Maid" "!AC0396">
 「はい」
 #
 <removesprite -1 11>
@@ -653,24 +653,24 @@
 <music 11>
 <background "bg008a0.agf" 10>
 <sprite "ta01a003.agf" 4 4 11>
-<name "ソフィア" "!ZB0951">
+<name "Sofia" "!ZB0951">
 「うわぁ。
 　また沢山の資源、持って帰ってきましたねー」
 #
-<name "ダークス">
+<name "Darx">
 「運ぶのが一苦労だったよ」
 #
 <sprite "ta01a004.agf" 4 4 12>
-<name "ソフィア" "!ZB0952">
+<name "Sofia" "!ZB0952">
 「あはは。
 　管理するのも大変じゃないですか？
 　街の倉庫、空いてますよ」
 #
-<name "ダークス">
+<name "Darx">
 「検討させて貰おう」
 #
 <sprite "ta01a033.agf" 4 4 12>
-<name "ソフィア" "!ZB0953">
+<name "Sofia" "!ZB0953">
 「よろしくお願いします」
 #
 <removesprite -1 11>
@@ -679,20 +679,20 @@
 <music 11>
 <background "bg008a0.agf" 10>
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!AC0397">
+<name "Company Maid" "!AC0397">
 「資源の持ち帰り、ご苦労様です」
 #
-<name "ダークス">
+<name "Darx">
 「まあまあ、集まったかな」
 #
-<name "商会メイド" "!AC0398">
+<name "Company Maid" "!AC0398">
 「はい。
 　色々と助かります」
 #
-<name "商会メイド" "!AC0399">
+<name "Company Maid" "!AC0399">
 「この調子で、頑張ってくださいね」
 #
-<name "ダークス">
+<name "Darx">
 「おう」
 #
 <removesprite -1 11>
@@ -701,21 +701,21 @@
 <music 11>
 <background "bg008a0.agf" 10>
 <sprite "ta01a034.agf" 4 4 11>
-<name "ソフィア" "!ZB0954">
+<name "Sofia" "!ZB0954">
 「資源、資源、資源♪」
 #
 <removesprite -1 11>
-<name "ダークス">
+<name "Darx">
 「喜んでるなぁ」
 #
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!AC0400">
+<name "Company Maid" "!AC0400">
 「街の資源、少ないですから」
 #
-<name "ダークス">
+<name "Darx">
 「あとで、街の倉庫に放り込むよ」
 #
-<name "商会メイド" "!AC0401">
+<name "Company Maid" "!AC0401">
 「よろしくお願いします」
 #
 <removesprite -1 11>
@@ -724,7 +724,7 @@
 <music 11>
 <background "bg008a0.agf" 10>
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!AC0402">
+<name "Company Maid" "!AC0402">
 「凄い量、持ち帰ってきましたね」
 #
 <removesprite -1 11>
@@ -734,14 +734,14 @@
 「流石、魔王様」
 #
 <removesprite -1 11>
-<name "ダークス">
+<name "Darx">
 「ははは」
 #
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!AC0403">
+<name "Company Maid" "!AC0403">
 「では、その調子で倉庫に運ぶお手伝いを」
 #
-<name "ダークス">
+<name "Darx">
 「頑張ります」
 #
 <removesprite -1 11>
@@ -750,23 +750,23 @@
 <music 11>
 <background "bg008a0.agf" 10>
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!AC0404">
+<name "Company Maid" "!AC0404">
 「魔王様の持ち帰った資源、無駄にはしません！」
 #
-<name "ダークス">
+<name "Darx">
 「そうか？」
 #
-<name "商会メイド" "!AC0405">
+<name "Company Maid" "!AC0405">
 「なにか、疑問でも？」
 #
-<name "ダークス">
+<name "Darx">
 「資源増加、歓迎パーティーが予定されているんだ
 　けど……」
 #
-<name "商会メイド" "!AC0406">
+<name "Company Maid" "!AC0406">
 「息抜きは大切です」
 #
-<name "ダークス">
+<name "Darx">
 「は、はぁ」
 #
 <removesprite -1 11>
@@ -775,7 +775,7 @@
 <music 11>
 <background "bg008a0.agf" 10>
 <sprite "ta34a004.agf" 4 4 11>
-<name "商会メイド" "!AC0407">
+<name "Company Maid" "!AC0407">
 「資源を持ち帰った魔王様に、万歳三唱！」
 #
 <removesprite -1 11>
@@ -791,7 +791,7 @@
 #
 <removesprite -1 11>
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!AC0408">
+<name "Company Maid" "!AC0408">
 「ご苦労様でした」
 #
 <removesprite -1 11>
@@ -800,7 +800,7 @@
 <music 11>
 <background "bg008a0.agf" 10>
 <sprite "ta34a004.agf" 4 4 11>
-<name "商会メイド" "!AC0409">
+<name "Company Maid" "!AC0409">
 「資源じゃ、資源じゃ！」
 #
 <removesprite -1 11>
@@ -810,11 +810,11 @@
 「流石は魔王様じゃ、これでこの街は救われる」
 #
 <removesprite -1 11>
-<name "ダークス">
+<name "Darx">
 「えっと……小芝居？」
 #
 <sprite "ta01a033.agf" 4 4 11>
-<name "ソフィア" "!ZB0955">
+<name "Sofia" "!ZB0955">
 「はい。
 　あ、でも三部構成なので、長いですよ」
 #
@@ -823,32 +823,32 @@
 :4356
 <music 11>
 <background "bg015a0.agf" 10>
-<name "ダークス">
+<name "Darx">
 「うお」
 #
-<name "商会メイド" "!DC0140" "ka34a000.agf">
+<name "Company Maid" "!DC0140" "ka34a000.agf">
 「大丈夫ですか？」
 #
-<name "ダークス">
+<name "Darx">
 「ここは？」
 #
 <background "bg008a0.agf" 10>
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!DC0141">
+<name "Company Maid" "!DC0141">
 「街です」
 #
-<name "商会メイド" "!DC0142">
+<name "Company Maid" "!DC0142">
 「負傷された方は全て回収しております」
 #
-<name "ダークス">
+<name "Darx">
 「そうか。
 　手間を掛けさせたな」
 #
-<name "商会メイド" "!DC0143">
+<name "Company Maid" "!DC0143">
 「いえ。
 　まずは治療を」
 #
-<name "ダークス">
+<name "Darx">
 「ああ」
 #
 <removesprite -1 11>
@@ -862,17 +862,17 @@
 :45AB
 <music 11>
 <background "bg008a0.agf" 10>
-<name "ダークス">
+<name "Darx">
 「また、全滅したか」
 #
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!DC0144">
+<name "Company Maid" "!DC0144">
 「はい」
 #
-<name "ダークス">
+<name "Darx">
 「世話になった」
 #
-<name "商会メイド" "!DC0145">
+<name "Company Maid" "!DC0145">
 「お気をつけて」
 #
 <removesprite -1 11>
@@ -880,20 +880,20 @@
 :46B2
 <music 11>
 <background "bg008a0.agf" 10>
-<name "ダークス">
+<name "Darx">
 「よく助けてくれた。
 　感謝する」
 #
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!DC0146">
+<name "Company Maid" "!DC0146">
 「いえ。
 　仕事ですから」
 #
-<name "ダークス">
+<name "Darx">
 「これからも……じゃないな。
 　もう無い様にする」
 #
-<name "商会メイド" "!DC0147">
+<name "Company Maid" "!DC0147">
 「期待しております」
 #
 <removesprite -1 11>
@@ -902,17 +902,17 @@
 <music 11>
 <background "bg008a0.agf" 10>
 <sprite "ta34a002.agf" 4 4 11>
-<name "商会メイド" "!DC0148">
+<name "Company Maid" "!DC0148">
 「大丈夫ですか？」
 #
-<name "ダークス">
+<name "Darx">
 「なんとか」
 #
 <sprite "ta34a000.agf" 4 4 12>
-<name "商会メイド" "!DC0149">
+<name "Company Maid" "!DC0149">
 「頑張ってください」
 #
-<name "ダークス">
+<name "Darx">
 「おう」
 #
 <removesprite -1 11>
@@ -921,10 +921,10 @@
 <music 11>
 <background "bg008a0.agf" 10>
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!DC0150">
+<name "Company Maid" "!DC0150">
 「もう常連ですね」
 #
-<name "ダークス">
+<name "Darx">
 「不名誉だ」
 #
 <removesprite -1 11>
@@ -933,22 +933,22 @@
 <music 11>
 <background "bg008a0.agf" 10>
 <sprite "ta01a001.agf" 4 4 11>
-<name "ソフィア" "!ZB0218">
+<name "Sofia" "!ZB0218">
 「魔王様。
 　どうでしたか？」
 #
-<name "ダークス">
+<name "Darx">
 「ああ、装置を壊してきてやった」
 #
 <sprite "ta01a002.agf" 4 4 12>
-<name "ソフィア" "!ZB0219">
+<name "Sofia" "!ZB0219">
 「という事は」
 #
-<name "ダークス">
+<name "Darx">
 「あの攻撃は止まる」
 #
 <sprite "ta01a005.agf" 4 4 12>
-<name "ソフィア" "!ZB0220">
+<name "Sofia" "!ZB0220">
 「おおっ！」
 #
 <removesprite -1 11>
@@ -962,36 +962,36 @@
 #
 <removesprite -1 11>
 <sprite "ta01a004.agf" 4 4 11>
-<name "ソフィア" "!ZB0221">
+<name "Sofia" "!ZB0221">
 「親衛隊の警戒はどうします？」
 #
-<name "ダークス">
+<name "Darx">
 「悪いが、まだもうしばらくは続けて貰ってくれ」
 #
-<name "ダークス">
+<name "Darx">
 「街の方には、情報を少しだけ流せ。
 　正式な発表はするな」
 #
 <sprite "ta01a015.agf" 4 4 12>
-<name "ソフィア" "!ZB0222">
+<name "Sofia" "!ZB0222">
 「どうしてですか？」
 #
-<name "ダークス">
+<name "Darx">
 「希望後の絶望は、ダメージが大きい」
 #
-<name "ダークス">
+<name "Darx">
 「安全だと思うが、他に攻撃手段が無いと考えるの
 　は早計だ」
 #
 <sprite "ta01a014.agf" 4 4 12>
-<name "ソフィア" "!ZB0223">
+<name "Sofia" "!ZB0223">
 「な、なるほど」
 #
-<name "ダークス">
+<name "Darx">
 「本当に安心するのは、ミアルテを捕まえてからだ」
 #
 <sprite "ta01a004.agf" 4 4 12>
-<name "ソフィア" "!ZB0224">
+<name "Sofia" "!ZB0224">
 「そうですね。
 　わかりました」
 #

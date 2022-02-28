@@ -325,7 +325,7 @@ fossils I can see all over the place here.
 <name "Company Maid" "!DC0402" "ka34c000.agf">
 "Are you aware of the Flame Cave and Ice
  Grotto?"
---THESE ARE BB1 DUNGEONS. LOOK UP WHAT THE
+--THESE WERE BB1 DUNGEONS. LOOK UP WHAT THE
  TL WAS--
 #
 <name "Darx">
@@ -1682,21 +1682,21 @@ I had sex with a bunch of angolamay women.
 　の指示書が届きました」
 #
 <sprite "ta03a004.agf" 4 4 11>
-<name "ミアルテ" "!SA0019">
+<name "Miartei" "!SA0019">
 「ふふ……」
 #
 <name "天界兵指揮官" "!LB0018">
 「よろしいので？」
 #
 <sprite "ta03a005.agf" 4 4 12>
-<name "ミアルテ" "!SA0020">
+<name "Miartei" "!SA0020">
 「なにがですか？」
 #
 <name "天界兵指揮官" "!LB0019">
 「いえ、その……ルーアルテ様に何もお伝えせずに」
 #
 <sprite "ta03a004.agf" 4 4 12>
-<name "ミアルテ" "!SA0021">
+<name "Miartei" "!SA0021">
 「敵を騙すには、味方からなんですよ。
 　昔、キュリハに散々、騙されました」
 #
@@ -1706,17 +1706,17 @@ I had sex with a bunch of angolamay women.
 　敵への攻撃になるのですか？」
 #
 <sprite "ta03a005.agf" 4 4 12>
-<name "ミアルテ" "!SA0022">
+<name "Miartei" "!SA0022">
 「ええ」
 #
 <sprite "ta03a022.agf" 4 4 12>
-<name "ミアルテ" "!SA0023">
+<name "Miartei" "!SA0023">
 「まずは敵の霍乱。
 　私の妹が、まさか無意味に往復しているとは思わ
 　ないでしょう」
 #
 <sprite "ta03a024.agf" 4 4 12>
-<name "ミアルテ" "!SA0024">
+<name "Miartei" "!SA0024">
 「あの子は何をするにも派手ですから、囮にもなり
 　ますね」
 #
@@ -1724,13 +1724,13 @@ I had sex with a bunch of angolamay women.
 「えっと……上手く使っていると？」
 #
 <sprite "ta03a019.agf" 4 4 12>
-<name "ミアルテ" "!SA0025">
+<name "Miartei" "!SA0025">
 「あの子が大人しい子でしたら、関わらせないよう
 　にすれば良かったのですが、あの子は何がどうあっ
 　ても関わってきます」
 #
 <sprite "ta03a020.agf" 4 4 12>
-<name "ミアルテ" "!SA0026">
+<name "Miartei" "!SA0026">
 「関わったなら、それはまあ色々とやらかしてくれ
 　ます」
 #
@@ -1738,7 +1738,7 @@ I had sex with a bunch of angolamay women.
 「噂はかねがね」
 #
 <sprite "ta03a004.agf" 4 4 12>
-<name "ミアルテ" "!SA0027">
+<name "Miartei" "!SA0027">
 「ならば、ヘタな事はせず、最初っから何かの役割
 　を与えた方が百万倍マシです」
 #
@@ -1746,7 +1746,7 @@ I had sex with a bunch of angolamay women.
 「それがあの無意味な往復と」
 #
 <sprite "ta03a023.agf" 4 4 12>
-<name "ミアルテ" "!SA0028">
+<name "Miartei" "!SA0028">
 「指示内容は先読みしてますので、まるっきり無意
 　味ではありません」
 #
@@ -1755,14 +1755,14 @@ I had sex with a bunch of angolamay women.
 　あと、少し前に無意味を肯定してましたよね」
 #
 <sprite "ta03a004.agf" 4 4 12>
-<name "ミアルテ" "!SA0029">
+<name "Miartei" "!SA0029">
 「私の事は、ルーアルテには秘密ですよ」
 #
 <name "天界兵指揮官" "!LB0025">
 「それはまあ、言えませんので……」
 #
 <sprite "ta03a005.agf" 4 4 12>
-<name "ミアルテ" "!SA0030">
+<name "Miartei" "!SA0030">
 「頑張っているルーアルテの為にも、こちらの作業
 　を完了させてしまいましょう」
 #
@@ -1775,7 +1775,7 @@ I had sex with a bunch of angolamay women.
 <music 7>
 <background "bg027a0.agf" 10>
 <sprite "ta03a012.agf" 4 4 11>
-<name "ミアルテ" "!SA0033">
+<name "Miartei" "!SA0033">
 「ルーアルテが？」
 #
 <name "天界兵指揮官" "!LB0027">
@@ -1784,19 +1784,19 @@ I had sex with a bunch of angolamay women.
 　救出隊を組織しますか？」
 #
 <sprite "ta03a007.agf" 4 4 12>
-<name "ミアルテ" "!SA0034">
+<name "Miartei" "!SA0034">
 「必要ありません」
 #
 <name "天界兵指揮官" "!LB0028">
 「で、ですが」
 #
 <sprite "ta03a008.agf" 4 4 12>
-<name "ミアルテ" "!SA0035">
+<name "Miartei" "!SA0035">
 「負けるだけならまだしも、敵に捕らわれるような
 　妹を持った覚えはありません」
 #
 <sprite "ta03a009.agf" 4 4 12>
-<name "ミアルテ" "!SA0036">
+<name "Miartei" "!SA0036">
 「たとえ妹だとしてもです。
 　その身の救出の為に、味方に被害を与えたいとは
 　考えない筈です」
@@ -1805,7 +1805,7 @@ I had sex with a bunch of angolamay women.
 「……本当によろしいのですね？」
 #
 <sprite "ta03a007.agf" 4 4 12>
-<name "ミアルテ" "!SA0037">
+<name "Miartei" "!SA0037">
 「ええ。
 　妹の事を思ってくれるのでしたら、敵を一人でも
 　多く倒す事を考えてください」
@@ -1817,16 +1817,16 @@ I had sex with a bunch of angolamay women.
 　……
 #
 <sprite "ta03a011.agf" 4 4 11>
-<name "ミアルテ" "!SA0038">
+<name "Miartei" "!SA0038">
 「ルーアルテ……」
 #
 <sprite "ta03a012.agf" 4 4 12>
-<name "ミアルテ" "!SA0040">
+<name "Miartei" "!SA0040">
 「ルーアルテが負けるなんて思いもしませんでした。
 　敵はなかなか手強いようですね」
 #
 <sprite "ta03a007.agf" 4 4 12>
-<name "ミアルテ" "!SA0041">
+<name "Miartei" "!SA0041">
 「仇はとりますよ」
 #
 <removesprite -1 11>
@@ -1839,7 +1839,7 @@ I had sex with a bunch of angolamay women.
 　装置が一基、完成しました」
 #
 <sprite "ta03a004.agf" 4 4 11>
-<name "ミアルテ" "!SA0042">
+<name "Miartei" "!SA0042">
 「そう。
 　よく頑張ってくれました」
 #
@@ -1847,7 +1847,7 @@ I had sex with a bunch of angolamay women.
 「いえ、これも魔族を打ち砕く為です」
 #
 <sprite "ta03a005.agf" 4 4 12>
-<name "ミアルテ" "!SA0043">
+<name "Miartei" "!SA0043">
 「ふふ。
 　貴女達の天界に対する忠誠、感謝します」
 #
@@ -1912,11 +1912,11 @@ I had sex with a bunch of angolamay women.
 <background "bg008a0.agf" 10>
 <sprite "ta11a003.agf" 2 5 11>
 <sprite "ta06a003.agf" 6 4 11>
-<name "スイセン" "!YA0083">
+<name "Suisen" "!YA0083">
 「こんにちは」
 #
 <sprite "ta06a004.agf" 6 4 12>
-<name "スイセン" "!YA0084">
+<name "Suisen" "!YA0084">
 「アンゼルム商会のスイセンです。
 　こちらのヘビは、スーちゃん」
 #
@@ -1926,7 +1926,7 @@ I had sex with a bunch of angolamay women.
 　何か御用ですか？」
 #
 <sprite "ta06a005.agf" 6 4 12>
-<name "スイセン" "!YA0085">
+<name "Suisen" "!YA0085">
 「いえ、ただの挨拶です。
 　商会に御用の際は、是非ともお申し付けください」
 #
@@ -1936,7 +1936,7 @@ I had sex with a bunch of angolamay women.
 　機会がありましたら、よろしくお願いします」
 #
 <sprite "ta06a004.agf" 6 4 12>
-<name "スイセン" "!YA0086">
+<name "Suisen" "!YA0086">
 「はい。
 　では、失礼します」
 #
@@ -1944,11 +1944,11 @@ I had sex with a bunch of angolamay women.
 　……
 #
 <sprite "ta06a010.agf" 4 4 11>
-<name "スイセン" "!YA0087">
+<name "Suisen" "!YA0087">
 「娘でもあの魔力か……」
 #
 <sprite "ta06a011.agf" 4 4 12>
-<name "スイセン" "!YA0088">
+<name "Suisen" "!YA0088">
 「末恐ろしいわね」
 #
 <removesprite -1 11>
@@ -1956,7 +1956,7 @@ I had sex with a bunch of angolamay women.
 :BEE6
 <music 22>
 <background "ev069a01.agf" 10>
-<name "スイセン" "!YA0074">
+<name "Suisen" "!YA0074">
 「ふふ。
 　順調ね」
 #
@@ -1972,20 +1972,20 @@ I had sex with a bunch of angolamay women.
 :BFC5
 <music 22>
 <background "ev069a01.agf" 10>
-<name "スイセン" "!YA0075">
+<name "Suisen" "!YA0075">
 「あらあら、元気ね……」
 #
-<name "スイセン" "!YA0076">
+<name "Suisen" "!YA0076">
 「ふふふ」
 #
 <exit>
 :C051
 <music 22>
 <background "ev069a01.agf" 10>
-<name "スイセン" "!YA0077">
+<name "Suisen" "!YA0077">
 「ふふ……」
 #
-<name "スイセン" "!YA0078">
+<name "Suisen" "!YA0078">
 「このまま、頑張って欲しいわ」
 #
 <exit>
@@ -2042,14 +2042,14 @@ I had sex with a bunch of angolamay women.
 「どうだ？」
 #
 <sprite "ta06a003.agf" 4 4 11>
-<name "スイセン" "!YA0096">
+<name "Suisen" "!YA0096">
 「順調です」
 #
 <name "謎の声" "!MA0002">
 「エサは？」
 #
 <sprite "ta06a004.agf" 4 4 12>
-<name "スイセン" "!YA0097">
+<name "Suisen" "!YA0097">
 「予定通りに」
 #
 <name "謎の声" "!MA0003">
@@ -2057,7 +2057,7 @@ I had sex with a bunch of angolamay women.
 　では、引き続き頼んだぞ」
 #
 <sprite "ta06a005.agf" 4 4 12>
-<name "スイセン" "!YA0098">
+<name "Suisen" "!YA0098">
 「はっ」
 #
 <removesprite -1 11>
@@ -2066,7 +2066,7 @@ I had sex with a bunch of angolamay women.
 <music 11>
 <background "bg008b1.agf" 10>
 <sprite "ta06a000.agf" 4 4 11>
-<name "スイセン" "!YA0099">
+<name "Suisen" "!YA0099">
 「そろそろ報告のタイミングか」
 #
 <removesprite -1 11>
@@ -2078,7 +2078,7 @@ I had sex with a bunch of angolamay women.
 「ミアルテが負けたそうだな」
 #
 <sprite "ta06a001.agf" 4 4 11>
-<name "スイセン" "!YA0100">
+<name "Suisen" "!YA0100">
 「はい。
 　虜囚となっております。
 　救出は難しいかと」
@@ -2089,7 +2089,7 @@ I had sex with a bunch of angolamay women.
 　それも良いエサになる」
 #
 <sprite "ta06a003.agf" 4 4 12>
-<name "スイセン" "!YA0101">
+<name "Suisen" "!YA0101">
 「そうですね」
 #
 <name "謎の声" "!MA0006">
@@ -2097,7 +2097,7 @@ I had sex with a bunch of angolamay women.
 　動けるようにしておけ」
 #
 <sprite "ta06a004.agf" 4 4 12>
-<name "スイセン" "!YA0102">
+<name "Suisen" "!YA0102">
 「はい」
 #
 <removesprite -1 11>
@@ -2109,14 +2109,14 @@ I had sex with a bunch of angolamay women.
 「そろそろよかろう」
 #
 <sprite "ta06a003.agf" 4 4 11>
-<name "スイセン" "!YA0103">
+<name "Suisen" "!YA0103">
 「はっ」
 #
 <removesprite -1 11>
 　……
 #
 <sprite "ta06a005.agf" 4 4 11>
-<name "スイセン" "!YA0104">
+<name "Suisen" "!YA0104">
 「キュリハやミアルテには悪いけど……
 　これまでね」
 #

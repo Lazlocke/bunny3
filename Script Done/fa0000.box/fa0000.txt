@@ -1,53 +1,57 @@
 ﻿\x78
-　ここから、少しの間、単発セリフです。
-　セリフは連続していません。
+These are single lines.
+It is not a continuous script.
 #
-<name "ソフィア" "!ZB0738">
-「目標期間です」
+<name "Sofia" "!ZB0738">
+"This is your target due date."
 #
-<name "ソフィア" "!ZB0739">
-「目標値はこちらになります」
+<name "Sofia" "!ZB0739">
+"This is the target amount."
 #
-<name "ソフィア" "!ZB0740">
-「期間内に、受け渡しをお願いします」
+<name "Sofia" "!ZB0740">
+"Please make sure to complete the deliver
+ within time."
 #
-<name "ソフィア" "!ZB0741">
-「そろそろ期限ですよ」
+<name "Sofia" "!ZB0741">
+"Time's almost up."
 #
-<name "ソフィア" "!ZB0742">
-「目標が設定されました」
+<name "Sofia" "!ZB0742">
+"Your new goal has been set."
 #
-<name "ソフィア" "!ZB0743">
-「あと少しです、頑張ってください」
+<name "Sofia" "!ZB0743">
+"Almost there.
+ Keep up the hard work."
 #
-<name "ソフィア" "!ZB0744">
-「すでにクリアしていますね」
+<name "Sofia" "!ZB0744">
+"You've already cleared it."
 #
-<name "ソフィア" "!ZB0745">
-「達成しています。
-　やりましたね」
+<name "Sofia" "!ZB0745">
+"You've completed it.
+ Well done."
 #
-<name "ソフィア" "!ZB0746">
-「条件が提示されています」
+<name "Sofia" "!ZB0746">
+"Here are the new conditions."
 #
-<name "ソフィア" "!ZB0747">
-「頑張りましょう」
+<name "Sofia" "!ZB0747">
+"Do your best."
 #
-<name "ソフィア" "!ZB0748">
-「まだ条件が提示されていません」
+<name "Sofia" "!ZB0748">
+"New conditions haven't been given yet."
 #
-<name "ラキア" "!ZC0359">
-「目標期間です」
+<name "Rakia" "!ZC0359">
+"This is your target due date."
 #
-<name "ラキア" "!ZC0360">
-「目標値はこちらになります」
+<name "Rakia" "!ZC0360">
+"Here's the target value."
 #
-<name "ラキア" "!ZC0361">
-「期間内の達成を期待します」
+<name "Rakia" "!ZC0361">
+"I expect you to fulfill this within the
+ specified time."
 #
-<name "ラキア" "!ZC0362">
-「そろそろ期限ですが、大丈夫ですか？」
+<name "Rakia" "!ZC0362">
+"Time's almost up.
+ Is everything in order?"
 #
-　システムボイス終了です。
+End of system voices.
 #
 \x78

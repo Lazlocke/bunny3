@@ -15,7 +15,7 @@
 「敵、引き返していきます」
 #
 <sprite "ta17a010.agf" 4 4 11>
-<name "タマガ" "!PB0030">
+<name "Tamaga" "!PB0030">
 「追撃は……やめておく。
 　体制を整えろ」
 #
@@ -28,26 +28,26 @@
 <music 9>
 \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 
 <sprite "ta17a011.agf" 4 4 11>
-<name "タマガ" "!PB0021">
+<name "Tamaga" "!PB0021">
 「すまん。
 　助かった」
 #
 <removesprite -1 11>
 <sprite "ta17a011.agf" 2 4 11>
 <sprite "ta16a000.agf" 6 5 11>
-<name "ファレン" "!FB0047">
+<name "Farren" "!FB0047">
 「かなり強いわね」
 #
 <sprite "ta17a005.agf" 2 4 12>
-<name "タマガ" "!PB0022">
+<name "Tamaga" "!PB0022">
 「ああ……だが、負けない」
 #
 <sprite "ta16a003.agf" 6 5 12>
-<name "ファレン" "!FB0048">
+<name "Farren" "!FB0048">
 「応援はできないけど、まあ死なないようにね」
 #
 <sprite "ta17a003.agf" 2 4 12>
-<name "タマガ" "!PB0023">
+<name "Tamaga" "!PB0023">
 「ああ」
 #
 <removesprite -1 11>
@@ -56,90 +56,90 @@
 <music 9>
 \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 
 <sprite "ta16a000.agf" 4 4 11>
-<name "ファレン" "!FB0052">
+<name "Farren" "!FB0052">
 「アオ。
 　相談があるわ」
 #
 <removesprite -1 11>
 <sprite "ta19a001.agf" 2 4 11>
 <sprite "ta16a000.agf" 6 5 11>
-<name "アオ" "!WA0032">
+<name "Ao" "!WA0032">
 「なに？」
 #
 <sprite "ta16a001.agf" 6 5 12>
-<name "ファレン" "!FB0054">
+<name "Farren" "!FB0054">
 「一時的にで良いから、私の参下に入りなさい」
 #
 <sprite "ta19a000.agf" 2 4 12>
-<name "アオ" "!WA0033">
+<name "Ao" "!WA0033">
 「なに言ってるのさ。
 　そんな事、出来るわけないだろ」
 #
 <sprite "ta16a000.agf" 6 5 12>
-<name "ファレン" "!FB0055">
+<name "Farren" "!FB0055">
 「じゃあ、どう言えば私に協力する？」
 #
 <sprite "ta19a001.agf" 2 4 12>
-<name "アオ" "!WA0034">
+<name "Ao" "!WA0034">
 「敵を倒した後のリーダーは僕。
 　もちろん、その後にファレンが連合を抜けないっ
 　て条件で」
 #
 <sprite "ta16a011.agf" 6 5 12>
-<name "ファレン" "!FB0056">
+<name "Farren" "!FB0056">
 「それは……」
 #
 <sprite "ta19a010.agf" 2 4 12>
-<name "アオ" "!WA0035">
+<name "Ao" "!WA0035">
 「無理でしょ」
 #
 <sprite "ta19a000.agf" 2 4 12>
-<name "アオ" "!WA0036">
+<name "Ao" "!WA0036">
 「勢力の代表やってるからには、自分達の勢力を守
 　るのが最優先」
 #
 <sprite "ta19a001.agf" 2 4 12>
-<name "アオ" "!WA0037">
+<name "Ao" "!WA0037">
 「素直に他者に委ねるには、僕とファレンでは力の
 　差が無さ過ぎる」
 #
 <sprite "ta19a000.agf" 2 4 12>
-<name "アオ" "!WA0038">
+<name "Ao" "!WA0038">
 「そう思わない？」
 #
 <sprite "ta16a001.agf" 6 5 12>
-<name "ファレン" "!FB0057">
+<name "Farren" "!FB0057">
 「思うわ」
 #
 <sprite "ta19a010.agf" 2 4 12>
-<name "アオ" "!WA0039">
+<name "Ao" "!WA0039">
 「正直、連合を組んだ事や、街を襲った事、でもっ
 　てその後の行き当たりばったりな展開」
 #
 <sprite "ta19a011.agf" 2 4 12>
-<name "アオ" "!WA0040">
+<name "Ao" "!WA0040">
 「ボロボロにされて当然だと思うな」
 #
 <sprite "ta19a001.agf" 2 4 12>
-<name "アオ" "!WA0041">
+<name "Ao" "!WA0041">
 「まあ、ともかく僕は君に頭を下げたりはしないし」
 #
 <sprite "ta19a000.agf" 2 4 12>
-<name "アオ" "!WA0042">
+<name "Ao" "!WA0042">
 「万が一、下げるなら敵にだ。
 　まだ、部下の命を助けられる」
 #
 <sprite "ta16a000.agf" 6 5 12>
-<name "ファレン" "!FB0058">
+<name "Farren" "!FB0058">
 「……わかったわ。
 　出来るだけの事はするから、頑張りなさい」
 #
 <sprite "ta19a008.agf" 2 4 12>
-<name "アオ" "!WA0043">
+<name "Ao" "!WA0043">
 「応援して良いの？」
 #
 <sprite "ta16a003.agf" 6 5 12>
-<name "ファレン" "!FB0059">
+<name "Farren" "!FB0059">
 「いまさらだからね」
 #
 <removesprite -1 11>
