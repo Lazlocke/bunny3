@@ -90,14 +90,14 @@
 :F3C
 <music 3>
 <background "bg010a0.agf" 10>
-<name "Darx"
+<name "Darx">
 "I think I'll inspect the dungeon."
 #
 <sprite "ta34c000.agf" 4 4 11>
 <name "Company Maid" "!DC0471">
 "I'll join you."
 #
-<name "Darx"
+<name "Darx">
 "Okay."
 #
 <removesprite -1 11>
@@ -229,7 +229,7 @@ Those who seek danger and treasure.
 I couldn't believe my ears when I heard the
 report.
 #
-<name "Darx"
+<name "Darx">
 "This... isn't a joke, is it?"
 #
 <sprite "ta34a002.agf" 4 4 11>
@@ -237,7 +237,7 @@ report.
 "N-No...
  It's pretty reliable information."
 #
-<name "Darx"
+<name "Darx">
 "I had... better check for myself."
 #
 <name "Company Maid" "!AC0223">
@@ -382,7 +382,7 @@ Overlord's Bower.
 "Whew.
  Job complete."
 #
-<name "Darx"
+<name "Darx">
 "Um, a word."
 #
 <name "Ekate" "!TA0039">
@@ -410,7 +410,7 @@ with her.
 <name "Ekate" "!TA0041">
 "Heheheh..."
 #
-<name "Darx"
+<name "Darx">
 "You're being unusually clingy."
 #
 <name "Ekate" "!TA0042">
@@ -422,16 +422,16 @@ breasts against my back.
 <name "Ekate" "!TA0043">
 "I think I always cling to you."
 #
-<name "Darx"
+<name "Darx">
 "That's true."
 #
 <name "Ekate" "!TA0044">
 "...It's cause I missed you."
 #
-<name "Darx"
+<name "Darx">
 "Sorry."
 #
-<name "Darx"
+<name "Darx">
 "But if you were guarding the Hall of Doors,
  wouldn't you still be able to see me?"
 #
@@ -439,7 +439,7 @@ breasts against my back.
 "That's what I thought, but you never came 
  even once!"
 #
-<name "Darx"
+<name "Darx">
 "Well, things were busy."
 #
 I had a lot of land work to do, and didn't use
@@ -449,12 +449,12 @@ the Doors much.
 "Grr.
  Again."
 #
-<name "Darx"
+<name "Darx">
 "Yeah, yeah."
 #
 I gently embrace her.
 #
-<name "Darx"
+<name "Darx">
 "Speaking of which, why were you doing that in
  there?"
 #
@@ -462,26 +462,26 @@ I gently embrace her.
 "I-I wanted to be nearby, but...
  I thought I shouldn't bother you."
 #
-<name "Darx"
+<name "Darx">
 "So you went there."
 #
 <name "Ekate" "!TA0048">
 "Yep."
 #
-<name "Darx"
+<name "Darx">
 "...I'm sorry I made you feel lonely."
 #
 <name "Ekate" "!TA0049">
 "Yep."
 #
-<name "Darx"
+<name "Darx">
 "You can dote on me however much you want
  today."
 #
 <name "Ekate" "!TA0050">
 "Really?"
 #
-<name "Darx"
+<name "Darx">
 "Yeah, as an apology for making you lonely."
 #
 <name "Ekate" "!TA0051">
@@ -497,7 +497,7 @@ until morning.
 "I'm quitting there and coming to work here."
 #
 <removesprite -1 11>
-<name "Darx"
+<name "Darx">
 "She insisted..."
 #
 <sprite "ta08a019.agf" 4 4 11>
@@ -505,7 +505,7 @@ until morning.
 "There are a lot of problems with approving
  that..."
 #
-<name "Darx"
+<name "Darx">
 "We'll figure things out."
 #
 <sprite "ta08a014.agf" 4 4 12>
@@ -525,7 +525,7 @@ until morning.
  the elevator connecting the dungeon to the
  city. How does that sound?"
 #
-<name "Darx"
+<name "Darx">
 "Are you sure?"
 #
 <removesprite -1 11>
@@ -543,7 +543,7 @@ more trouble than it's worth.
  And as much as possible, you'd have to be
  stationed in Forzelotte's Shrine."
 #
-<name "Darx"
+<name "Darx">
 "How about that, Ekate?"
 #
 <removesprite -1 11>
@@ -566,14 +566,14 @@ more trouble than it's worth.
  elevator would be seen as assisting Darx in
  his evaluation."
 #
-<name "Darx"
+<name "Darx">
 "What happens if she does?"
 #
 <sprite "ta08a023.agf" 4 4 12>
 <name "Rakia" "!ZC0464">
 "That depends on Macdo's mood."
 #
-<name "Darx"
+<name "Darx">
 "...I see.
  Does that work for you, Ekate?"
 #
@@ -600,14 +600,14 @@ more trouble than it's worth.
 <name "Rakia" "!ZC0466">
 "Sigh..."
 #
-<name "Darx"
+<name "Darx">
 "Sorry for the headache."
 #
 <sprite "ta08a014.agf" 4 4 12>
 <name "Rakia" "!ZC0467">
 "Honestly."
 #
-<name "Darx"
+<name "Darx">
 "Hahaha..."
 #
 <sprite "ta08a012.agf" 4 4 12>
@@ -615,11 +615,11 @@ more trouble than it's worth.
 "By the way, have you made her even more of a
  little girl?"
 #
-<name "Darx"
+<name "Darx">
 "Aah, that was from last night.
  She was a little spoiled."
 #
-<name "Darx"
+<name "Darx">
 "She should be back to normal in a few days."
 #
 <sprite "ta08a023.agf" 4 4 12>
@@ -967,14 +967,14 @@ defense.
 :4F71
 <music 3>
 <background "bg010a0.agf" 10>
-<name "Darx"
+<name "Darx">
 "Human captives?"
 #
 <sprite "ta34c001.agf" 4 4 11>
 <name "Company Maid" "!AC0226">
 "Yes."
 #
-<name "Darx"
+<name "Darx">
 "I don't remember telling you to take 
  prisoners."
 #
@@ -1003,7 +1003,7 @@ There's no room for prisoners in this city.
  punish them, and we let them out after two
  or three days."
 #
-<name "Darx"
+<name "Darx">
 "I see."
 #
 <name "Company Maid" "!AC0229">
@@ -1019,7 +1019,7 @@ There's no room for prisoners in this city.
 <name "Company Maid" "!AC0231">
 "We can't ignore that, so I came to you."
 #
-<name "Darx"
+<name "Darx">
 "By coming to me, you mean..."
 #
 <sprite "ta34c000.agf" 4 4 12>
@@ -1036,7 +1036,7 @@ Since she was already tied up and naked, I
 forcibly took her virginity and then had 
 about three more rounds of fun.
 #
-<name "Darx"
+<name "Darx">
 "Remember this.
  Your first man was me."
 #
@@ -1044,10 +1044,10 @@ about three more rounds of fun.
 "Ah...ah...
  I-I'll kill you."
 #
-<name "Darx"
+<name "Darx">
 "That's a nice glare, but..."
 #
-<name "Darx"
+<name "Darx">
 "Not nearly crazy enough."
 #
 The angels were far scarier.
@@ -1064,7 +1064,7 @@ more times after that.
 If she was an angel, she would've tried to
 bite me to death.
 #
-<name "Darx"
+<name "Darx">
 "Is this really the woman who's so much
  trouble?"
 #
@@ -1075,17 +1075,17 @@ She just seems like a regular warrior.
 #
 The maid waiting behind me answers.
 #
-<name "Darx"
+<name "Darx">
 "And yet..."
 #
 <name "Company Maid" "!AC0234">
 "Apparently she completely changes when she
  has her sword."
 #
-<name "Darx"
+<name "Darx">
 "I see..."
 #
-<name "Darx"
+<name "Darx">
 "You, are you aware of this?
  Answer me."
 #
@@ -1093,7 +1093,7 @@ The maid waiting behind me answers.
 <name "Berserker Adventurer" "!LB0118">
 "..."
 #
-<name "Darx"
+<name "Darx">
 "You want me to fuck you again?
  I don't mind."
 #
@@ -1102,39 +1102,39 @@ The maid waiting behind me answers.
 "W-When I hold a sword, I-I feel stronger
  than anything."
 #
-<name "Darx"
+<name "Darx">
 "Any kind of sword?"
 #
 <name "Berserker Adventurer" "!LB0120">
 "I've never had anything but my sword."
 #
-<name "Darx"
+<name "Darx">
 "I see."
 #
 I try holding up a regular sword in front of
 her.
 #
-<name "Darx"
+<name "Darx">
 "How's this?"
 #
-<name "Darx"
+<name "Darx">
 "Do you hate me?"
 #
 <name "Berserker Adventurer" "!LB0121">
 "O-Of course I do."
 #
-<name "Darx"
+<name "Darx">
 "...Nothing."
 #
 It's the same as before.
 #
-<name "Darx"
+<name "Darx">
 "Bring me her sword."
 #
 <name "Company Maid" "!AC0235">
 "B-But..."
 #
-<name "Darx"
+<name "Darx">
 "Do it."
 #
 ...
@@ -1157,12 +1157,12 @@ her eyes completely changes.
 <name "Berserker Adventurer" "!LB0125">
 "Ahahahahahahaha!!!!!"
 #
-<name "Darx"
+<name "Darx">
 "Hmm..."
 #
 Definitely an immediate change.
 #
-<name "Darx"
+<name "Darx">
 "Sorry."
 #
 <background "ev081c00.agf" 10>
@@ -1172,37 +1172,37 @@ ground, breaking it.
 <name "Berserker Adventurer" "!LB0126">
 "Ah..."
 #
-<name "Darx"
+<name "Darx">
 "How's that?"
 #
 <name "Berserker Adventurer" "!LB0127">
 "Huh?
  Ah... huh?"
 #
-<name "Darx"
+<name "Darx">
 "How do you feel?"
 #
 <name "Berserker Adventurer" "!LB0128">
 "I... I-I feel strange..."
 #
-<name "Darx"
+<name "Darx">
 "That was a cursed sword.
  They're well-known among adventurers."
 #
 <name "Berserker Adventurer" "!LB0129">
 "It was?"
 #
-<name "Darx"
+<name "Darx">
 "I'll give you some kind of new sword."
 #
-<name "Darx"
+<name "Darx">
 "So call it even."
 #
 <background "ev081d00.agf" 10>
 <name "Berserker Adventurer" "!LB0130">
 "Huh? Oh, o-okay."
 #
-<name "Darx"
+<name "Darx">
 "Then, shall we continue?"
 #
 <name "Berserker Adventurer" "!LB0131">
@@ -1214,7 +1214,7 @@ I enjoyed her for another half day.
 <name "Berserker Adventurer" "!LB0132">
 "I-I-I swear I'll kill you!"
 #
-<name "Darx"
+<name "Darx">
 "I'm looking forward to it."
 #
 \x0A\x44\x02\x3C\x84\x01
@@ -1222,7 +1222,7 @@ I enjoyed her for another half day.
 :608F
 <music 53>
 <background "ev081d01.agf" 10>
-<name "Darx"
+<name "Darx">
 "So, you knew it'd end up like this and you
  came back anyway?
  You can't possibly have thought you were
@@ -1231,25 +1231,25 @@ I enjoyed her for another half day.
 <name "Berserker Adventurer" "!LB0133">
 "Hmph."
 #
-<name "Darx"
+<name "Darx">
 "..."
 #
 <name "Berserker Adventurer" "!LB0134">
 "W-What?"
 #
-<name "Darx"
+<name "Darx">
 "What's your name?"
 #
 <name "Berserker Adventurer" "!LB0135">
 "Frei."
 #
-<name "Darx"
+<name "Darx">
 "Join me."
 #
 <name "Frei" "!LB0136">
 "Huh?"
 #
-<name "Darx"
+<name "Darx">
 "Oh, I'll just keep fucking you until you say
  okay, so just say if that's what you want."
 #
@@ -1267,34 +1267,34 @@ joined me.
 <name "Company Maid" "!AC0236">
 "Are you sure about this?"
 #
-<name "Darx"
+<name "Darx">
 "Yeah, I'm fine with it, and she'll get used
  to things here."
 #
-<name "Darx"
+<name "Darx">
 "Well, I'm sure she'll be a handful for you
  guys to start out."
 #
 <name "Company Maid" "!AC0237">
 "It's nothing."
 #
-<name "Darx"
+<name "Darx">
 "...You demons do the same things over and
  over. You're very good at mastering a known
  thing."
 #
-<name "Darx"
+<name "Darx">
 "But you're bad at creating something out of
  nothing."
 #
 <name "Company Maid" "!AC0238">
 "You think humans will help develop the city?"
 #
-<name "Darx"
+<name "Darx">
 "It's best to have people with different ways
  of thinking."
 #
-<name "Darx"
+<name "Darx">
 "Well, that's my inexperienced assumption.
  Convincing enough?"
 #
@@ -1303,7 +1303,7 @@ joined me.
 "Yes.
  Thank you for your concern."
 #
-<name "Darx"
+<name "Darx">
 "I know humans have their bad side too.
  Don't worry, there won't be too many of
  them."
@@ -1323,19 +1323,19 @@ joined me.
  but I can ask you to deal with one of our
  captives?"
 #
-<name "Darx"
+<name "Darx">
 "Is something the matter?"
 #
 <name "Company Maid" "!DC0245">
 "Yes. The captive is a priestess, who, um..."
 #
-<name "Darx"
+<name "Darx">
 "Hm?"
 #
 <name "Company Maid" "!DC0246">
 "She's too fanatical."
 #
-<name "Darx"
+<name "Darx">
 "Fanatical?
  What do you mean?"
 #
@@ -1344,14 +1344,14 @@ joined me.
  monsters and believes that it is her sworn
  mission to eradicate all of them."
 #
-<name "Darx"
+<name "Darx">
 "What about angels?"
 #
 <sprite "ta34c006.agf" 4 4 12>
 <name "Company Maid" "!DC0248">
 "She just treats them like any other person."
 #
-<name "Darx"
+<name "Darx">
 "How does she tell the difference?"
 #
 <name "Company Maid" "!DC0249">
@@ -1361,7 +1361,7 @@ joined me.
 "Her acts against goos and slimers are
  especially heinous."
 #
-<name "Darx"
+<name "Darx">
 "That's a problem."
 #
 <name "Company Maid" "!DC0251">
@@ -1370,7 +1370,7 @@ joined me.
 <removesprite -1 11>
 <music 21>
 <background "ev082a00.agf" 10>
-<name "Darx"
+<name "Darx">
 "I don't care if you hate demons and monsters.
  I just want you to stop going over the line
  after defeating them.
@@ -1379,7 +1379,7 @@ joined me.
 <name "Fanatical Adventurer" "!GB0115">
 "Mmpgh!"
 #
-<name "Darx"
+<name "Darx">
 "Oh, just shake or nod your head to answer."
 #
 Her mouth is gagged.
@@ -1405,12 +1405,12 @@ them in.
 #
 And forcefully feel inside her.
 #
-<name "Darx"
+<name "Darx">
 "I'm not saying not to kill them.
  It's kill or be killed.
  I won't want revenge for that."
 #
-<name "Darx"
+<name "Darx">
 "But what you're doing after killing them is
  unacceptable."
 #
@@ -1419,7 +1419,7 @@ What she did was cruel and unusual.
 It's not just killing, it's desecrating the
 bodies.
 #
-<name "Darx"
+<name "Darx">
 "This is your last chance.
  If you don't give me the answer I want, I
  will just violate you."
@@ -1430,7 +1430,7 @@ obstruction of her hymen.
 <name "Fanatical Adventurer" "!GB0118">
 "Nnnnnh!"
 #
-<name "Darx"
+<name "Darx">
 "Stop going too far."
 #
 <name "Fanatical Adventurer" "!GB0119">
@@ -1441,22 +1441,22 @@ obstruction of her hymen.
 "Mmghpgh!
  Mmghmmnghnghmgh!"
 #
-<name "Darx"
+<name "Darx">
 "...I see."
 #
-<name "Darx"
+<name "Darx">
 "Oh, you can stop talking now.
  It's getting messy.
  You're covered in drool."
 #
-<name "Darx"
+<name "Darx">
 "Well, I guess there's no worrying about that
  now."
 #
 I scoop up her saliva with my fingers and rub
 it on her face.
 #
-<name "Darx"
+<name "Darx">
 "Hahahahahahaha!"
 #
 I undress and bring out my dick.
@@ -1554,24 +1554,24 @@ into her pussy and womb.
 <name "Fanatical Adventurer" "!GB0126">
 "Aah...ah...aah..."
 #
-<name "Darx"
+<name "Darx">
 "Do you understand?
  I finished coming for the first time."
 #
 <name "Fanatical Adventurer" "!GB0127">
 "Aah...ah..."
 #
-<name "Darx"
+<name "Darx">
 "Yeah, I can tell you're spirited.
  I respect your devotion."
 #
-<name "Darx"
+<name "Darx">
 "I won't tell you to hold back anymore."
 #
-<name "Darx"
+<name "Darx">
 "So I won't either."
 #
-<name "Darx"
+<name "Darx">
 "This is how you will bear the grudges that
  you have inflicted."
 #
@@ -1592,10 +1592,10 @@ I want her keep clinging to her faith.
 <name "Company Maid" "!DC0252">
 "Thank you for your hard work."
 #
-<name "Darx"
+<name "Darx">
 "Find a good time and let her go."
 #
-<name "Darx"
+<name "Darx">
 "I did what needed to be done.
  Nobody can say that she got off too easy."
 #
@@ -1611,7 +1611,7 @@ I want her keep clinging to her faith.
 It's been a few days, and that priestess is
 refusing to be released.
 #
-<name "Darx"
+<name "Darx">
 "Haven't you had enough?"
 #
 <name "Fanatical Adventurer" "!GB0129">
@@ -1648,14 +1648,14 @@ pretty influential.
 "Um, Overlord, we have a little problem in
  the Temple of Darx."
 #
-<name "Darx"
+<name "Darx">
 "What's the matter?"
 #
 <name "Company Maid" "!DC0255">
 "There's someone doing magical experiments
  there."
 #
-<name "Darx"
+<name "Darx">
 "Magical experiments?"
 #
 <removesprite -1 11>
@@ -1663,7 +1663,7 @@ I can believe that.
 #
 Or rather, it's not uncommon.
 #
-<name "Darx"
+<name "Darx">
 "But you're asking me for help so...
  Something dangerous?"
 #
@@ -1674,28 +1674,28 @@ Or rather, it's not uncommon.
  but if it escalates, it could lead to the
  collapse of the Temple of Darx."
 #
-<name "Darx"
+<name "Darx">
 "That bad?"
 #
 <name "Company Maid" "!DC0257">
 "The Temple of Darx is under Darx City, so
  there would be consequences..."
 #
-<name "Darx"
+<name "Darx">
 "So I need to drive them out?"
 #
 <name "Company Maid" "!DC0258">
 "That's a possibility, but I have a perfect
  product for this."
 #
-<name "Darx"
+<name "Darx">
 "Hm?"
 #
 <name "Company Maid" "!DC0259">
 "For now, we're calling it darn dopper.
  We'd like you to test out the prototype."
 #
-<name "Darx"
+<name "Darx">
 "Oh?"
 #
 <removesprite -1 11>
@@ -1704,7 +1704,7 @@ Or rather, it's not uncommon.
 <name "Wizard Adventurer" "!HC0088">
 "Heheheh..."
 #
-<name "Darx"
+<name "Darx">
 "Her?"
 #
 <name "Company Maid" "!DC0260">
@@ -1714,13 +1714,13 @@ Or rather, it's not uncommon.
 <name "Company Maid" "!DC0261">
 "Do you know how to use the darn dopper?"
 #
-<name "Darx"
+<name "Darx">
 "Yeah."
 #
 <name "Company Maid" "!DC0262">
 "Then I'll leave you to it."
 #
-<name "Darx"
+<name "Darx">
 "Roger."
 #
 <name "Wizard Adventurer" "!HC0089">
@@ -1740,19 +1740,19 @@ Or rather, it's not uncommon.
 <name "Wizard Adventurer" "!HC0093">
 "So get your butt out of here."
 #
-<name "Darx"
+<name "Darx">
 "Sorry, but I'm an enemy."
 #
 <name "Wizard Adventurer" "!HC0094">
 "...You have got to be kidding me."
 #
-<name "Darx"
+<name "Darx">
 "Yeah, don't hold back."
 #
 <name "Wizard Adventurer" "!HC0095">
 "You really are an enemy then?"
 #
-<name "Darx"
+<name "Darx">
 "That's right.
  Your magic experiments here are a problem.
  I was sent to drive you out."
@@ -1801,13 +1801,13 @@ hands.
 I beat a hasty retreat, laughing the whole 
 way.
 #
-<name "Darx"
+<name "Darx">
 "How was that?"
 #
 <name "Company Maid" "!DC0263">
 "It was spectacular."
 #
-<name "Darx"
+<name "Darx">
 "Hahahahaha...
  But what's the theory behind it?
  I can't imagine it's just to instantly
@@ -1819,21 +1819,21 @@ way.
  I'm sorry.
  I'm not sure the details."
 #
-<name "Darx"
+<name "Darx">
 "Does this work on things like demons too?"
 #
 <name "Company Maid" "!DC0265">
 "It doesn't have any effect on clothing made
  with mana, so it's useless against demons."
 #
-<name "Darx"
+<name "Darx">
 "I-I see...
  Too bad."
 #
 <name "Company Maid" "!DC0266">
 "Hahaha..."
 #
-<name "Darx"
+<name "Darx">
 "Well, that's fine.
  Once this comes out for sale, I'll be sure to
  buy a ton of it."
@@ -1855,14 +1855,14 @@ way.
 #
 <removesprite -1 11>
 <background "ev083b01.agf" 10>
-<name "Darx"
+<name "Darx">
 "Yeah, the one we stripped naked."
 #
 <name "Company Maid" "!DC0269">
 "Yes, that one."
 #
 <background "bg010a0.agf" 10>
-<name "Darx"
+<name "Darx">
 "Is she up to something again?"
 #
 <sprite "ta34c001.agf" 4 4 11>
@@ -1875,7 +1875,7 @@ way.
  The person in charge of the dungeon feels
  bad for her..."
 #
-<name "Darx"
+<name "Darx">
 "Take responsibility?
  I didn't do anything."
 #
@@ -1884,7 +1884,7 @@ way.
  way from being seen completely naked... or
  even just their most private places."
 #
-<name "Darx"
+<name "Darx">
 "...Well, whatever."
 #
 <removesprite -1 11>
@@ -1896,17 +1896,17 @@ way.
 <name "Mirei" "!HC0101">
 "Um, Overlord."
 #
-<name "Darx"
+<name "Darx">
 "Hm?"
 #
 <name "Mirei" "!HC0102">
 "H-How were my breasts?"
 #
-<name "Darx"
+<name "Darx">
 "Your breasts?"
 #
 <background "ev083b00.agf" 10>
-<name "Darx"
+<name "Darx">
 "Oh, they were okay."
 #
 <name "Mirei" "!HC0103">
@@ -1914,17 +1914,17 @@ way.
 #
 She lifts her staff.
 #
-<name "Darx"
+<name "Darx">
 "Excuse me.
  They were good."
 #
 <name "Mirei" "!HC0104">
 "I know, right?"
 #
-<name "Darx"
+<name "Darx">
 "Hahahaha..."
 #
-<name "Darx"
+<name "Darx">
 "Oh, that's right.
  It's a little late, but sorry about what
  happened back then."
@@ -1938,33 +1938,33 @@ She lifts her staff.
  I was practically in tears the whole time
  that was happening."
 #
-<name "Darx"
+<name "Darx">
 "Sorry."
 #
 <name "Mirei" "!HC0107">
 "Speaking of which, what did you do to me
  back then?"
 #
-<name "Darx"
+<name "Darx">
 "Oh, I used something called darn dopper."
 #
 <name "Mirei" "!HC0108">
 "As a wizard, I'd love to know more about it."
 #
-<name "Darx"
+<name "Darx">
 "Unfortunately, its production was delayed."
 #
 <name "Mirei" "!HC0109">
 "Even if you just have the data, I could make
  it."
 #
-<name "Darx"
+<name "Darx">
 "You can reproduce it?"
 #
 <name "Mirei" "!HC0110">
 "I'll show you how it's done."
 #
-<name "Darx"
+<name "Darx">
 "You're a good minion."
 #
 Darn dopper is a man's dream.
@@ -1980,7 +1980,7 @@ But recreating it was a long and arduous road.
 <name "Company Maid" "!PC0280">
 "Overlord, I had a request for you."
 #
-<name "Darx"
+<name "Darx">
 "Hm?"
 #
 <name "Company Maid" "!PC0281">
@@ -1989,7 +1989,7 @@ But recreating it was a long and arduous road.
  it with our current forces. Can we ask you
  to quickly take care of them yourself?"
 #
-<name "Darx"
+<name "Darx">
 "They're that strong?"
 #
 <name "Company Maid" "!PC0282">
@@ -1997,10 +1997,10 @@ But recreating it was a long and arduous road.
  technique is enough to cut down anybody who
  gets near."
 #
-<name "Darx"
+<name "Darx">
 "I see."
 #
-<name "Darx"
+<name "Darx">
 "All right.
  I'll take a look myself to start."
 #
@@ -2014,7 +2014,7 @@ But recreating it was a long and arduous road.
 "A-A man!
  A man!"
 #
-<name "Darx"
+<name "Darx">
 "Huh? H-Hey!
  Hold it!
  He...ah!"
@@ -2153,7 +2153,7 @@ I wasn't let go for a long time.
 <name "Company Maid" "!PC0285">
 "T-That must have been terrible."
 #
-<name "Darx"
+<name "Darx">
 "I... told you to help me.
  You ran away."
 #
@@ -2162,7 +2162,7 @@ I wasn't let go for a long time.
 "I'm sorry.
  I was so confused by what was happening..."
 #
-<name "Darx"
+<name "Darx">
 "You ran away."
 #
 <sprite "ta34c004.agf" 4 4 12>
@@ -2191,13 +2191,13 @@ vengeance on that woman.
 "Overlord, there's an adventurer rampaging in
  the Temple of Darx."
 #
-<name "Darx"
+<name "Darx">
 "Is it that samurai?"
 #
 <name "Company Maid" "!PC0291">
 "Yes."
 #
-<name "Darx"
+<name "Darx">
 "Good."
 #
 <removesprite -1 11>
@@ -2220,14 +2220,14 @@ This time, I'm ready.
 #
 I'm prepared too.
 #
-<name "Darx"
+<name "Darx">
 "Let's go!"
 #
 <sprite "ta34c001.agf" 4 4 11>
 <name "Company Maid" "!PC0292">
 "Huh? Um, by yourself?"
 #
-<name "Darx"
+<name "Darx">
 "Of course!"
 #
 <removesprite -1 11>
@@ -2236,7 +2236,7 @@ I'm prepared too.
 <name "Frustrated Adventurer" "!SB0173">
 "Aah...aah...aah...aaah!"
 #
-<name "Darx"
+<name "Darx">
 "N-No way!"
 #
 <name "Frustrated Adventurer" "!SB0175">
@@ -2252,7 +2252,7 @@ She's gotten even better than last time!
 #
 B-But I won't lose!
 #
-<name "Darx"
+<name "Darx">
 "Ooooohhhh!"
 #
 <name "Frustrated Adventurer" "!SB0177">
@@ -2360,14 +2360,14 @@ My counterattack has begun.
 <name "Company Maid" "!PC0293">
 "T-That was incredible."
 #
-<name "Darx"
+<name "Darx">
 "I guess."
 #
 <name "Company Maid" "!PC0294">
 "I can't believe you kept going until she
  passed out."
 #
-<name "Darx"
+<name "Darx">
 "Heheheh..."
 #
 <name "Company Maid" "!PC0295">
@@ -2377,14 +2377,14 @@ My counterattack has begun.
 "You cleaned her up and brought her back to
  the entrance."
 #
-<name "Darx"
+<name "Darx">
 "Well, I couldn't just leave here there."
 #
 <name "Company Maid" "!PC0297">
 "Yo.
  That's our Overlord!"
 #
-<name "Darx"
+<name "Darx">
 "Hahahahaha!"
 #
 I'm just overjoyed that I won.
@@ -2398,20 +2398,20 @@ I'm just overjoyed that I won.
 <name "Company Maid" "!PC0298">
 "Um, Overlord."
 #
-<name "Darx"
+<name "Darx">
 "Yes?"
 #
 <name "Company Maid" "!PC0299">
 "A human adventurer is asking to join us."
 #
-<name "Darx"
+<name "Darx">
 "Oh?"
 #
 <name "Company Maid" "!PC0300">
 "This adventurer...
  Um, it's that samurai woman."
 #
-<name "Darx"
+<name "Darx">
 "...No way.
  Her?"
 #
@@ -2420,7 +2420,7 @@ I'm just overjoyed that I won.
  In return, she asks if you could sometimes
  be with her..."
 #
-<name "Darx"
+<name "Darx">
 "..."
 #
 <removesprite -1 11>
@@ -2429,10 +2429,10 @@ I'm just overjoyed that I won.
 :B595
 <music 3>
 <background "bg010a0.agf" 10>
-<name "Darx"
+<name "Darx">
 "Hmmm..."
 #
-<name "Darx"
+<name "Darx">
 "Normally, you're just normal."
 #
 <name "Tsulara" "!SB0188">
@@ -2443,7 +2443,7 @@ I'm just overjoyed that I won.
  I guess you could say that my frustration
  explodes?"
 #
-<name "Darx"
+<name "Darx">
 "That certainly seems like it."
 #
 <name "Tsulara" "!SB0190">
@@ -2468,13 +2468,13 @@ She's certainly well-adjusted.
 "My eyepatch?
  Oh, that's just for style."
 #
-<name "Darx"
+<name "Darx">
 "Why again?"
 #
 <name "Tsulara" "!SB0194">
 "Isn't it much cooler this way?"
 #
-<name "Darx"
+<name "Darx">
 "...If you're a samurai, shouldn't you focus
  on practicality?"
 #
@@ -2494,7 +2494,7 @@ She's certainly well-adjusted.
 <name "Tsulara" "!SB0198">
 "If you don't like it, I can take it off."
 #
-<name "Darx"
+<name "Darx">
 "No, if you have a reason, it's fine."
 #
 \x0A\x44\x02\x48\x84\x01
@@ -2502,7 +2502,7 @@ She's certainly well-adjusted.
 :BA33
 <music 3>
 <background "bg010a0.agf" 10>
-<name "Darx"
+<name "Darx">
 "I got a request.
  What's going on?"
 #
@@ -2510,7 +2510,7 @@ She's certainly well-adjusted.
 <name "Company Maid" "!PC0302">
 "I-I'm sorry."
 #
-<name "Darx"
+<name "Darx">
 "I thought I told you not to take prisoners."
 #
 <name "Company Maid" "!PC0303">
@@ -2522,19 +2522,19 @@ hold onto some adventurers for punishment.
 #
 In other words, taken prisoners.
 #
-<name "Darx"
+<name "Darx">
 "And yet, I get this request."
 #
 It's a request to expand the prison.
 #
-<name "Darx"
+<name "Darx">
 "This doesn't make sense."
 #
 <sprite "ta34c001.agf" 4 4 11>
 <name "Company Maid" "!PC0304">
 "Yes. It's strange."
 #
-<name "Darx"
+<name "Darx">
 "Why?
  You looked into that, right?"
 #
@@ -2542,7 +2542,7 @@ It's a request to expand the prison.
 "It's because of the citizens who moved here
  from Forzelotte's Shrine."
 #
-<name "Darx"
+<name "Darx">
 "What do you mean?"
 #
 <name "Company Maid" "!PC0306">
@@ -2550,7 +2550,7 @@ It's a request to expand the prison.
  keep taking prisoners because they believe
  that will please you."
 #
-<name "Darx"
+<name "Darx">
 "..."
 #
 <removesprite -1 11>
@@ -2599,7 +2599,7 @@ I've been pretty reckless lately.
 <name "Company Maid" "!PC0307">
 "Overlord, how much longer will you be?"
 #
-<name "Darx"
+<name "Darx">
 "After the ones here... two more times, 
  maybe?"
 #
@@ -2607,7 +2607,7 @@ I've been pretty reckless lately.
 "Understood.
  Good luck."
 #
-<name "Darx"
+<name "Darx">
 "Yeah!"
 #
 \x0A\x44\x02\x4A\x84\x01
@@ -2621,7 +2621,7 @@ I've been pretty reckless lately.
 <name "Company Maid" "!PC0309">
 "Overlord."
 #
-<name "Darx"
+<name "Darx">
 "Hm?
  Is something the matter?"
 #
@@ -2629,7 +2629,7 @@ I've been pretty reckless lately.
 "No, you've just been shut up in here for a
  very long time..."
 #
-<name "Darx"
+<name "Darx">
 "Has it been that long?"
 #
 <name "Company Maid" "!PC0311">
@@ -2640,24 +2640,24 @@ Apparently it's been two days.
 Looking around me now, I certainly do seem to
 have been in a trance.
 #
-<name "Darx"
+<name "Darx">
 "I see.
  But my body still needs a woman."
 #
-<name "Darx"
+<name "Darx">
 "Oh, do you want to do it too?"
 #
 <name "Company Maid" "!PC0312">
 "That's a tempting offer, but somebody needs
  to take care of them."
 #
-<name "Darx"
+<name "Darx">
 "I guess so."
 #
 <name "Company Maid" "!PC0313">
 "I'll let you know when I'm available."
 #
-<name "Darx"
+<name "Darx">
 "Yeah, please do."
 #
 Three days later, I leave the adventurers'
@@ -2665,14 +2665,14 @@ prison.
 #
 <music 5>
 <background "bg011b0.agf" 10>
-<name "Darx"
+<name "Darx">
 "Urgh... What the hell?
  That's still not enough."
 #
-<name "Darx"
+<name "Darx">
 "I still need a woman."
 #
-<name "Darx"
+<name "Darx">
 "It should've been enough..."
 #
 \x0A\x44\x02\x4B\x84\x01
@@ -3085,7 +3085,7 @@ could show her an unusual trick.
 <name "Marialis" "!LA0069">
 "Judge, your decision?"
 #
-<name "Darx"
+<name "Darx">
 "It was kind of funny, so one more round."
 #
 <name "Brenda" "!QB0115">
@@ -3275,7 +3275,7 @@ could show her an unusual trick.
  Nothing unusual today in the forest around
  Darx City."
 #
-<name "Darx"
+<name "Darx">
 "All right.
  Good job."
 #
@@ -3404,14 +3404,14 @@ Naturally, some of them have had children too.
 <name "Filliane" "!GA0006" "ka25a000.agf">
 "Okay."
 #
-<name "Darx"
+<name "Darx">
 "I could keep you company in the meantime."
 #
 <name "Filliane" "!GA0007" "ka25a000.agf">
 "Overlord!
  It's been a while."
 #
-<name "Darx"
+<name "Darx">
 "Yeah.
  ...Are you okay?
  You look like you're not eating enough."
@@ -3420,7 +3420,7 @@ Naturally, some of them have had children too.
 "Thank you for your concern.
  If anything, I'm putting on weight..."
 #
-<name "Darx"
+<name "Darx">
 "I have heard that kids are a lot of hard
  labor."
 #
@@ -3428,7 +3428,7 @@ Naturally, some of them have had children too.
 "Yes, but it's much more fun than being on the
  battlefield."
 #
-<name "Darx"
+<name "Darx">
 "I see.
  ...Sorry for leaving you to take care of all
  the kids."
@@ -3437,7 +3437,7 @@ Naturally, some of them have had children too.
 "It's fine.
  I have a daughter of my own too."
 #
-<name "Darx"
+<name "Darx">
 "How is Fina doing?
  She's not jealous of her mother getting taken
  away?"
@@ -3447,7 +3447,7 @@ Naturally, some of them have had children too.
  Not exactly jealous... more like lonely.
  She is getting along with Maria though."
 #
-<name "Darx"
+<name "Darx">
 "Yeah, Fina and Maria are close, aren't they?"
 #
 <name "Filliane" "!GA0012" "ka25a000.agf">
@@ -3464,7 +3464,7 @@ Naturally, some of them have had children too.
  You scared me."
 #
 <removesprite -1 11>
-<name "Darx"
+<name "Darx">
 "Welcome back."
 #
 <sprite "ta15a003.agf" 4 4 11>
@@ -3474,21 +3474,21 @@ Naturally, some of them have had children too.
  I'm ready to report..."
 #
 <removesprite -1 11>
-<name "Darx"
+<name "Darx">
 "Make it quick and I'll let you go."
 #
 <name "Filliane" "!GA0014" "ka25a000.agf">
 "It'd be okay for it to be just the three of
  us in bed."
 #
-<name "Darx"
+<name "Darx">
 "Hahaha.
  Unfortunately not an option today."
 #
 <name "Filliane" "!GA0015" "ka25a000.agf">
 "Too bad."
 #
-<name "Darx"
+<name "Darx">
 "Seriously."
 #
 \x0A\x44\x02\x5D\x84\x01
@@ -3499,7 +3499,7 @@ Naturally, some of them have had children too.
 <name "Filliane" "!GA0016" "ka25a000.agf">
 "Overlord."
 #
-<name "Darx"
+<name "Darx">
 "Hm? What is it?"
 #
 <name "Filliane" "!GA0017" "ka25a000.agf">
@@ -3513,7 +3513,7 @@ Naturally, some of them have had children too.
  So I came too."
 #
 <removesprite -1 11>
-<name "Darx"
+<name "Darx">
 "Okay, so that's you two, but what about the
  ones behind you?"
 #
@@ -3526,7 +3526,7 @@ Naturally, some of them have had children too.
 <name "Opportunistic Guard" "!TC0119" "ka35b000.agf">
 "Me too."
 #
-<name "Darx"
+<name "Darx">
 "Hahaha.
  I-It would be fine, but I have a lot of
  work..."
@@ -3566,7 +3566,7 @@ Filliane's pussy.
 "Mm...
  D-Do me too..."
 #
-<name "Darx"
+<name "Darx">
 "It's Marialis's turn right now."
 #
 I stick my finger deeper into her and rub it
@@ -3576,7 +3576,7 @@ violently to appease her dissatisfaction.
 "Ah...ah...
  G-Geez..."
 #
-<name "Darx"
+<name "Darx">
 "You're next, so get yourself ready."
 #
 I go back to gently caressing her.
@@ -3584,7 +3584,7 @@ I go back to gently caressing her.
 <name "Filliane" "!GA0022">
 "Aah... O-Okay..."
 #
-<name "Darx"
+<name "Darx">
 "Marialis."
 #
 <name "Marialis" "!LA0089">
@@ -3593,7 +3593,7 @@ I go back to gently caressing her.
 Marialis is moaning with each movement of my
 dick.
 #
-<name "Darx"
+<name "Darx">
 "I'm going to go faster."
 #
 <name "Marialis" "!LA0090">
@@ -3655,7 +3655,7 @@ but it goes up and down.
 #
 And I can feel that it's almost at its peak.
 #
-<name "Darx"
+<name "Darx">
 "I'm going to come."
 #
 <name "Marialis" "!LA0094">
@@ -3664,7 +3664,7 @@ And I can feel that it's almost at its peak.
 #
 She shows open pleasure at my words.
 #
-<name "Darx"
+<name "Darx">
 "Filliane, come with me too."
 #
 <name "Filliane" "!GA0026">
@@ -3672,7 +3672,7 @@ She shows open pleasure at my words.
 #
 I rub her walls with my fingertips.
 #
-<name "Darx"
+<name "Darx">
 "Take it."
 #
 As I say that, I start coming inside Marialis.
@@ -3772,14 +3772,14 @@ very long time.
 <name "Marialis" "!LA0102">
 "Um, My Lord."
 #
-<name "Darx"
+<name "Darx">
 "Hm?"
 #
 <sprite "ta15a012.agf" 4 4 12>
 <name "Marialis" "!LA0103">
 "Why did you do the others first and us last?"
 #
-<name "Darx"
+<name "Darx">
 "If I started with you, the others would never
  get a turn."
 #
@@ -3787,18 +3787,18 @@ very long time.
 <name "Filliane" "!GA0035" "ka25a000.agf">
 "Really?"
 #
-<name "Darx"
+<name "Darx">
 "Really.
  That's why."
 #
-<name "Darx"
+<name "Darx">
 "I would never think of making you jealous by
  having sex with other women in front of you."
 #
 <name "Filliane" "!GA0036" "ka25a000.agf">
 "You never thought of that at all?"
 #
-<name "Darx"
+<name "Darx">
 "I had maybe thought about it a little bit."
 #
 <sprite "ta15a016.agf" 4 4 11>
@@ -3806,7 +3806,7 @@ very long time.
 "Geez...
  What a bully."
 #
-<name "Darx"
+<name "Darx">
 "It's because you two are so cute.
  Forgive me."
 #
@@ -3814,7 +3814,7 @@ very long time.
 <name "Filliane" "!GA0037" "ka25a000.agf">
 "Only if we do it again."
 #
-<name "Darx"
+<name "Darx">
 "Yeah, yeah.
  I can handle that."
 #
@@ -3859,21 +3859,21 @@ two of them have come either.
 <name "Filliane" "!GA0040" "ka25a000.agf">
 "Satisfied.♪"
 #
-<name "Darx"
+<name "Darx">
 "You guys have gotten really strong."
 #
 <name "Filliane" "!GA0041" "ka25a000.agf">
 "Well, our relationship with you has been
  long and frequent."
 #
-<name "Darx"
+<name "Darx">
 "I see."
 #
 <name "Filliane" "!GA0042" "ka25a000.agf">
 "Also, you were into pretty hard play back at
  the start."
 #
-<name "Darx"
+<name "Darx">
 "I guess."
 #
 They were both originally enemies.
@@ -3881,20 +3881,20 @@ They were both originally enemies.
 <name "Filliane" "!GA0043" "ka25a000.agf">
 "But you're so gentle now."
 #
-<name "Darx"
+<name "Darx">
 "You can still take it?"
 #
 <name "Filliane" "!GA0044" "ka25a000.agf">
 "I'm writhing in joy."
 #
-<name "Darx"
+<name "Darx">
 "Marialis?"
 #
 <sprite "ta15a116.agf" 4 4 11>
 <name "Marialis" "!LA0108">
 "Um... I think it'd be a waste to pass out."
 #
-<name "Darx"
+<name "Darx">
 "..."
 #
 <removesprite -1 11>
@@ -3911,7 +3911,7 @@ attacking them for one more round.
 <name "Filliane" "!GA0045">
 "Aaah...aah...ah...mmm..."
 #
-<name "Darx"
+<name "Darx">
 "I'll do it as many times as you want."
 #
 <name "Filliane" "!GA0046">
@@ -3921,7 +3921,7 @@ attacking them for one more round.
 <name "Guard" "!WB0124">
 "Mmm..."
 #
-<name "Darx"
+<name "Darx">
 "...Hold on.
  Time out."
 #
@@ -3938,7 +3938,7 @@ And resume.
 <name "Filliane" "!GA0047">
 "U-Um, what was that?"
 #
-<name "Darx"
+<name "Darx">
 "I have to stick it in the ones who wake up."
 #
 <name "Filliane" "!GA0048">
@@ -3946,7 +3946,7 @@ And resume.
  Then I'll keep my voice down to not disturb
  them."
 #
-<name "Darx"
+<name "Darx">
 "You think you can?"
 #
 <name "Filliane" "!GA0049">
@@ -3957,7 +3957,7 @@ And resume.
 "Ah, My Lord.
  Me too."
 #
-<name "Darx"
+<name "Darx">
 "All right."
 #
 I continue to enjoy myself with them, and with
