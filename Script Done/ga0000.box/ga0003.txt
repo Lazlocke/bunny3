@@ -19,230 +19,233 @@
 \x78
 :2C9
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "ダークス">
-「どうだ？」
+<name "Darx">
+"Done yet?"
 #
-<name "商会メイド" "!DC0018" "ka34c001.agf">
-「すみません。
-　まだです」
+<name "Company Maid" "!DC0018" "ka34c001.agf">
+"I'm sorry.
+ Not yet."
 #
-<name "ダークス">
-「ぬう」
+<name "Darx">
+"Urgh."
 #
-<name "天界兵部隊長" "!GB0011">
-「侵入者を殺せ！」
+<name "Angel Commander" "!GB0011">
+"Kill the intruders!"
 #
-<name "ダークス">
-「次が来たか」
+<name "Darx">
+"Here's the reinforcements."
 #
 <exit>
 :3DB
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "ダークス">
-「壊れたか？」
+<name "Darx">
+"Destroyed yet?"
 #
-<name "商会メイド" "!DC0019" "ka34c001.agf">
-「もう少しです」
+<name "Company Maid" "!DC0019" "ka34c001.agf">
+"Just a little longer."
 #
-<name "ダークス">
-「了解」
+<name "Darx">
+"Got it."
 #
 <exit>
 :48D
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "商会メイド" "!DC0020" "ka34c004.agf">
-「やりました！
-　破壊成功です！」
+<name "Company Maid" "!DC0020" "ka34c004.agf">
+"That did it!
+ It's completely broken!"
 #
-<name "ダークス">
-「よくやった……」
+<name "Darx">
+"Good job."
 #
-<name "商会メイド" "!DC0021" "ka34c000.agf">
-「修理不可能なぐらい壊しましたので、もう大丈夫
-　かと」
+<name "Company Maid" "!DC0021" "ka34c000.agf">
+"It's too broken to be able to fix, so we
+ should be okay now."
 #
-<name "ダークス">
-「ああ。
-　……いや、もう少し見回ろう」
+<name "Darx">
+"Okay.
+ ...Well, we can look around a little more."
 #
-<name "商会メイド" "!DC0022" "ka34c001.agf">
-「え？」
+<name "Company Maid" "!DC0022" "ka34c001.agf">
+"Huh?"
 #
-<name "ダークス">
-「同じのが無いとは言い切れないだろ」
+<name "Darx">
+"We can't be sure it's the only one."
 #
-<name "商会メイド" "!DC0023" "ka34c000.agf">
-「確かにそうですね」
+<name "Company Maid" "!DC0023" "ka34c000.agf">
+"That's true."
 #
-<name "ダークス">
-「用心し過ぎだと思うけどな」
+<name "Darx">
+"There's such a thing as being too careful
+ though."
 #
 <exit>
 :6DF
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "天界兵部隊長" "!GB0012">
-「侵入者を叩きのめせ！」
+<name "Angel Commander" "!GB0012">
+"Defeat the intruders!"
 #
-<name "天界兵部隊長" "!GB0013">
-「この場から生かして帰すな！」
+<name "Angel Commander" "!GB0013">
+"Do not let them leave here alive!"
 #
-<name "増援の天界兵" "!LB0033">
-「おおっ！」
+<name "Angel Soldier" "!LB0033">
+"Yeah!"
 #
-　敵が来た。
+The enemy's here.
 #
 <exit>
 :7CC
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "商会メイド" "!DC0026" "ka34c008.agf">
-「次が来ます！」
+<name "Company Maid" "!DC0026" "ka34c008.agf">
+"Here come more!"
 #
-<name "ダークス">
-「おう！」
+<name "Darx">
+"Right!"
 #
-　敵だ。
+More enemies.
 #
 <exit>
 :86D
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "商会メイド" "!DC0027" "ka34c001.agf">
-「こっちは、もうすぐです！」
+<name "Company Maid" "!DC0027" "ka34c001.agf">
+"We've almost got it!"
 #
-<name "ダークス">
-「あと一踏ん張りだな」
+<name "Darx">
+"Just gotta hold out."
 #
-<name "商会メイド" "!DC0028" "ka34c000.agf">
-「お願いします」
+<name "Company Maid" "!DC0028" "ka34c000.agf">
+"Please."
 #
-　敵だ。
+More enemies.
 #
 <exit>
 :971
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "商会メイド" "!DC0029" "ka34c004.agf">
-「魔王様。
-　完全に破壊しました！」
+<name "Company Maid" "!DC0029" "ka34c004.agf">
+"Overlord, we completely destroyed it!"
 #
-<name "ダークス">
-「よくやった！」
+<name "Darx">
+"Good job!"
 #
-<name "商会メイド" "!DC0030" "ka34c000.agf">
-「はいっ！」
+<name "Company Maid" "!DC0030" "ka34c000.agf">
+"Yes, sir!"
 #
-　ふう。
+Whew.
 #
-　ここは工作室と保管庫のようだ。
+This seems like a workshop and storage area.
 #
-　さすがに、まだ他にもあるとは考え難い。
+It's hard to imagine that there'd be more
+anywhere else.
 #
-　後は……ミアルテか。
+What's left is... Miartei.
 #
 <exit>
 :ADE
 \x2B\x6E 1  "bo1000.box" 
 <background "ev078a00.agf" 10>
-<name "商会メイド" "!PC0091">
-「やりましたね」
+<name "Company Maid" "!PC0091">
+"We did it."
 #
-<name "ダークス">
-「いや、まだだ」
+<name "Darx">
+"No, not yet."
 #
-<name "商会メイド" "!PC0092">
-「え？」
+<name "Company Maid" "!PC0092">
+"Huh?"
 #
-<name "ダークス">
-「まだなんだ」
+<name "Darx">
+"They're not done."
 #
-<name "商会メイド" "!PC0093">
-「どういう事です？」
+<name "Company Maid" "!PC0093">
+"What do you mean?"
 #
-<name "ダークス">
-「再生する」
+<name "Darx">
+"They regenerate."
 #
-　俺の言葉通り、触手は再生を始めた。
+Just like I said, the tentacles start 
+regrowing.
 #
-<name "商会メイド" "!PC0094">
-「そんなっ」
+<name "Company Maid" "!PC0094">
+"No way!"
 #
-<name "ダークス">
-「驚くな。
-　それより、そこにヘビが落ちているだろ。
-　回収できるか？」
+<name "Darx">
+"Don't be so surprised.
+ More importantly, there's a snake over there.
+ Can you grab it?"
 #
-<name "商会メイド" "!PC0095">
-「え？
-　あー……はい」
+<name "Company Maid" "!PC0095">
+"Huh?
+ Oh, yes, sir."
 #
-<name "ダークス">
-「スイセンの情報提供の代金だから、丁重に運んで
-　やってくれ」
+<name "Darx">
+"That's the price for Suisen's intelligence.
+ Take good care of it."
 #
-<name "商会メイド" "!PC0096">
-「噛みませんよね」
+<name "Company Maid" "!PC0096">
+"As long as it doesn't bite."
 #
-<name "ダークス">
-「大丈夫……だろう。
-　多分」
+<name "Darx">
+"You should be okay... probably.
+ Maybe."
 #
-<name "商会メイド" "!PC0097">
-「適当ですね」
+<name "Company Maid" "!PC0097">
+"That's no convincing."
 #
-<name "ダークス">
-「まあ、頼んだ」
+<name "Darx">
+"Well, please do it."
 #
-<name "ダークス">
-「俺は最後の戦いをしないといけないからな」
+<name "Darx">
+"I've got one more battle to fight."
 #
-　触手は再生を続けた。
+The tentacles continue to regrow.
 #
-　ただ、先ほどと違う点が一つあった。
+But not quite the same as before.
 #
-　触手が人間のサイズに塊、蠢き、そして生み出し
-　た。
+They lump together, wriggle, and grow to
+human size.
 #
 <background "ev078b00.agf" 10>
-　俺だ。
+To me.
 #
 <background "ev078c00.agf" 10>
-　それも無数に。
+Dozens of me.
 #
-<name "ダークス">
-「予想通りだが……
-　ちょっと数がズルいんじゃないか？」
+<name "Darx">
+"I thought so...
+ But isn't this many cheating?"
 #
-<name "ダークス" "!BA0001">
-「うぐぁぁぁぁぁ」
+<name "Darx" "!BA0001">
+"Grrraaaaaggggh!"
 #
-　目の前に居るのは俺だ。
+I stand right before me.
 #
-　スイセンのヘビによって、俺の分身体のコントロ
-　ールは奪われた。
+Suisen's snake took control of my other body.
 #
-　だが、俺の分身体は負けなかった。
+But my body didn't succumb to it.
 #
-　それが、分身体の行動に違和感を残した。
+That's what made it feel so wrong.
 #
-　フォーゼロッテを浚ったのに、何もしなかったり、
-　ワダツミを殺したりだ。
+It grabbed Forzelotte, but didn't do anything
+to her, then it killed Wadatsumi.
 #
-　全て俺の意思だ。
+All of it was my will.
 #
-　触手が街やフォーゼロッテ宮に進むのも、俺の意思。
+Same as it going to the city and Forzelotte's
+Shrine.
 #
-　あれは、攻撃したいと思ったんじゃない。
+It wasn't an attack.
 #
-　ただ、戻りたいと思っただけだ。
+It just wanted to go home.
 #
-　それがどんな被害をもたらすかも考えずに。
+Without any thought to the damage it would
+cause.
 #
-<name "ダークス">
-「まあ、責任は取るさ」
+<name "Darx">
+"Well, I'm still to blame."
 #
-<name "ダークス" "!BA0002">
-「うぐぁぁぁぁぁぁぁっ」
+<name "Darx" "!BA0002">
+"Grraaaghhhhh!"
 #
-<name "ダークス">
-「行くぞ」
+<name "Darx">
+"Let's do this."
 #
 \x0A\x44\x03\x07\x84\x01
 <exit>
