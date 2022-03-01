@@ -116,7 +116,7 @@ to shove.
 「なんだこれ？」
 #
 <sprite "ta34a000.agf" 4 4 11>
-<name "秘書メイド" "!AC0308">
+<name "Secretary Maid" "!AC0308">
 「あー、ダークス宮に来た冒険者の持ち物です。
 　なんでも、魔王様向きだって担当者が持ってきま
 　したよ」
@@ -436,13 +436,13 @@ to shove.
 <music 5>
 <background "bg011a0.agf" 10>
 <sprite "ta34a000.agf" 4 4 11>
-<name "秘書メイド" "!AC0309">
+<name "Secretary Maid" "!AC0309">
 「どうでした？」
 #
 <name "Darx">
 「どうもこうも……」
 #
-<name "秘書メイド" "!AC0310">
+<name "Secretary Maid" "!AC0310">
 「魔王様向きではありませんでしたか？」
 #
 <name "Darx">
@@ -456,7 +456,7 @@ to shove.
 「とりあえず、ちょっと来い」
 #
 <sprite "ta34a002.agf" 4 4 11>
-<name "秘書メイド" "!AC0311">
+<name "Secretary Maid" "!AC0311">
 「え？」
 #
 <removesprite -1 11>
@@ -687,7 +687,7 @@ to shove.
 「むむー」
 #
 <sprite "ta34a000.agf" 4 4 11>
-<name "秘書メイド" "!AC0312">
+<name "Secretary Maid" "!AC0312">
 「あら、魔王様。
 　どうかされました？」
 #
@@ -695,14 +695,14 @@ to shove.
 「今、このタイミングでここに来た君はラッキーだ」
 #
 <sprite "ta34a002.agf" 4 4 12>
-<name "秘書メイド" "!AC0313">
+<name "Secretary Maid" "!AC0313">
 「え？」
 #
 <name "Darx">
 「さあ、こちらへどうぞ。
 　お嬢様」
 #
-<name "秘書メイド" "!AC0314">
+<name "Secretary Maid" "!AC0314">
 「あの、え？
 　ベッドですけど……え？」
 #
@@ -1524,7 +1524,7 @@ to shove.
 <removesprite -1 11>
 <sprite "ta34a001.agf" 2 4 11>
 <sprite "ta34b000.agf" 6 5 11>
-<name "秘書メイド" "!AC0315">
+<name "Secretary Maid" "!AC0315">
 「あー……盛り上がっている所、すみませんが。
 　仕事が終わってからにしてください」
 #
@@ -1533,7 +1533,7 @@ to shove.
 「はーい」
 #
 <sprite "ta34a000.agf" 2 4 12>
-<name "秘書メイド" "!AC0316">
+<name "Secretary Maid" "!AC0316">
 「あと、その際は私も参加希望です」
 #
 <name "Darx">
