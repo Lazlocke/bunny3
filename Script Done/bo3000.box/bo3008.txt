@@ -21,22 +21,22 @@
 <music 4>
 <background "bg009a0.agf" 10>
 <sprite "ta34b000.agf" 4 4 11>
-<name "商会メイド" "!AC0278">
-「いらっしゃいませ」
+<name "Company Maid" "!AC0278">
+"Welcome."
 #
-<name "ダークス">
-「……見慣れた顔だな」
+<name "Darx">
+"...Don't I know you?"
 #
-<name "商会メイド" "!AC0279">
-「はい。
-　フォーゼロッテ宮支店からの応援ですので」
+<name "Company Maid" "!AC0279">
+"Yes. I'm support from the Forzelotte's Shrine
+ branch."
 #
-<name "ダークス">
-「頼りにしている」
+<name "Darx">
+"I'm counting on you."
 #
 <sprite "ta34b004.agf" 4 4 12>
-<name "商会メイド" "!AC0280">
-「ありがとうございます」
+<name "Company Maid" "!AC0280">
+"Thank you very much."
 #
 <removesprite -1 11>
 <exit>
@@ -44,16 +44,15 @@
 <music 4>
 <background "bg009a0.agf" 10>
 <sprite "ta01a004.agf" 4 4 11>
-<name "ソフィア" "!ZB0977">
-「魔王様。
-　いらっしゃいませ。
-　お買い物ですか？」
+<name "Sofia" "!ZB0977">
+"Welcome, Overlord.
+ Here to shop?"
 #
-<name "ダークス">
-「ああ、商品リストを見せてくれ」
+<name "Darx">
+"Yeah. Let me see what you've got."
 #
-<name "ソフィア" "!ZB0978">
-「まだ少ないですが……」
+<name "Sofia" "!ZB0978">
+"There's still not much..."
 #
 <removesprite -1 11>
 <exit>
@@ -61,12 +60,11 @@
 <music 4>
 <background "bg009a0.agf" 10>
 <sprite "ta01a004.agf" 4 4 11>
-<name "ソフィア" "!ZB0979">
-「魔王様。
-　商品リストが更新されました。
-　よろしければ、見て行ってください」
+<name "Sofia" "!ZB0979">
+"Overlord, we've updated our inventory.
+ Please have a look, if you'd like."
 #
-\x8A 0  0  0  0  "商会で取り扱われる商品が増えました。" 
+\x8A 0  0  0  0  "Additional items are now for sale." 
 <removesprite -1 11>
 <exit>
 \x78

@@ -6,88 +6,95 @@
 :5B
 <music 10>
 <background "ev072a00.agf" 10>
-　現状、このダークスの街には、俺とソフィアを含
-　めて二十人に満たない。
+Right now, the city has less than twenty
+people, including Sofia and me.
 #
-　最初の頃、それなりに居ると思った住人達は、こ
-　この準備をする為に派遣されていた者達だった。
+I thought there were a lot more when I first
+got here, but they were just here to help get
+things ready.
 #
-<name "クワを持つ魔族" "!ZD0001">
-「魔王様、調子はどうですか？」
+<name "Hoe Demon" "!ZD0001">
+"How's it going, Overlord?"
 #
-<name "ダークス">
-「それなりだな。
-　ああ、あっちの方にデカい石が埋まってて、手を
-　焼いている」
+<name "Darx">
+"Well enough.
+ Oh, there's a big stone in the ground over
+ there I'll need help with."
 #
-<name "クワを持つ魔族" "!ZD0002">
-「魔王様が手を焼くなら、それは石ではなく岩じゃ
-　ないですかね」
+<name "Hoe Demon" "!ZD0002">
+"If you can't handle it, it must be a rock,
+ not a stone."
 #
-<name "ダークス">
-「そうか？」
+<name "Darx">
+"I guess?"
 #
-<name "クワを持つ魔族" "!ZD0003">
-「そうですよ。
-　こっちの仕事が終わったら、手伝いに来ます」
+<name "Hoe Demon" "!ZD0003">
+"That's right.
+ When I'm done here, I'll come over to help."
 #
-<name "ダークス">
-「おう、待ってるぞー」
+<name "Darx">
+"Okay, I'll be waiting."
 #
-　今、ここに居る者達は、元々はフォーゼロッテ宮
-　に住んでいた者達で、俺の作る新しい街への移住
-　希望者。
+The people here used to live in Forzelotte's
+Shrine.
+They wanted to move to the new city I'm 
+building.
 #
-　マクドゥの目があるので、大々的に募集は出来な
-　かったらしいが、噂が噂を呼んで集まってくれた。
+Macdo was keeping a close watch, so I couldn't
+do any major recruiting, but rumors got around
+like rumors do, and at least some people came.
 #
-　ありがたい話だ。
+Thankfully.
 #
-　同時に、希望しても来れなかった者達も居る。
+At the same time, there are those who wanted
+to come but weren't able to.
 #
-　要職に付いている者と、俺に抱かれた事のある者
-　達だ。
+Some of them are in important positions, and
+some of them are ones I've fucked.
 #
-　元天界兵だった者達のほとんどがここに来る事を
-　希望してくれたのだが、マクドゥが許さなかった。
+Almost all of the angels wanted to come here,
+but Macdo vetoed that.
 #
-　俺への嫌がらせもあるのだろうが……
+I'm sure it's because she hates me...
 #
-　まあ、俺としては、ここに来させなくて正解だと
-　思う。
+But it's probably for the best that they're
+not allowed here just yet.
 #
-　いきなり、千人単位で住人が増えても、フォーゼ
-　ロッテ宮に頼りっぱなしになってしまうしな。
+If the number of people living here suddenly
+jumped by a thousand, we would have to rely on
+Forzelotte's Shrine.
 #
-　ここへ呼ぶのはある程度の開発が進んでからだ。
+We can bring them here once things are more
+built and ready to support them.
 #
-<name "主婦な魔族" "!HC0004">
-「魔王様。
-　頼まれていた縄、完成しましたよー」
+<name "Housewife Demon" "!HC0004">
+"Overlord, the rope you wanted is done."
 #
-<name "ダークス">
-「すまないな」
+<name "Darx">
+"Thanks."
 #
-　とりあえず、俺は魔王としてではなく、一人の男
-　として、この街の開墾を始めていた。
+In any case, right now, I've started building
+this city not as the Overlord, but as just a
+man.
 #
-<name "ソフィア" "!ZB0076">
-「収穫が楽しみですね」
+<name "Sofia" "!ZB0076">
+"I'm looking forward to the harvest."
 #
-<name "ダークス">
-「魔界の作物は成長が早いが、それでもまだまだ先
-　の話だ」
+<name "Darx">
+"Netherworld crops grow quickly, but we've
+ still got a long way to go."
 #
-<name "ソフィア" "!ZB0077">
-「それはそうですけど」
+<name "Sofia" "!ZB0077">
+"That is true."
 #
-<name "ダークス">
-「しばらくは、小さな村レベルの活動だろうから、
-　ソフィアはソフィアで動いてくれ。
-　後、俺の働きが悪い時は、遠慮なく言え」
+<name "Darx">
+"For a while, we're just at the level of a 
+ small village. 
+ You take care of your Sofia things, and don't
+ hesitate to tell me if I'm messing up."
 #
-<name "ソフィア" "!ZB0078">
-「承知しました」
+<name "Sofia" "!ZB0078">
+"Understood."
 #
 <exit>
 \x78
