@@ -89,8 +89,8 @@ Celestia and designed to collect mana in the
 human world and send it to the Netherworld.
 #
 Far too much mana was spread in the war with
-Celestia. That means more dangerous people born
-because of it. The goal is to reduce that.
+Celestia. That means more dangerous people are
+born because of it. The goal is to reduce that.
 #
 That's also a good excuse to use it as a place
 to keep a military presence in the human world
@@ -315,7 +315,7 @@ He took the former Overlord, Forzelotte, as
 his wife, and had a child with her.
 #
 His reputation is good, and while I have my
-doubts regarding his capabailities, he's well
+doubts regarding his capabilities, he's well
 supported by those around him.
 #
 His sexual proclivities towards women could be
@@ -1074,7 +1074,7 @@ Especially my enemies.
 #
 I think it's because of the mana, or maybe
 just my natural wild side, but I want those
-who I can vent myself on without mercy.
+whom I can vent myself on without mercy.
 #
 When the Castle Baldaquin incident happened,
 it came with hundreds of enemies, and was the
@@ -1816,7 +1816,7 @@ I would readily admit that myself.
 #
 <name "Macdo" "!ZA0030">
 "I do not myself, but I report directly to
- Lord Ashies of the Netherworld.
+ Lord Aishies of the Netherworld.
  My report will go not only to him, but to
  all of his aides."
 #
@@ -1918,9 +1918,8 @@ That final 'right' robs me of fight.
 She turns to Macdo.
 #
 <name "Rakia" "!ZC0060">
-"Miss Macdo, you're angry because and saying
- that because you're mad at him for what
- happened?"
+"Miss Macdo, you're saying that because you're
+ mad at him for what happened?"
 #
 <name "Macdo" "!ZA0037">
 "...No, I truly believe that he is
@@ -2070,7 +2069,7 @@ If she's involved, it shouldn't be too awful.
 <background "bg002a0.agf" 10>
 <sprite "ta02a001.agf" 4 4 11>
 <name "Macdo" "!ZA0045">
-"To prove himself, you must build a city in
+"To prove yourself, you must build a city in
  the specified location on your own."
 #
 <name "Darx">
@@ -2842,7 +2841,7 @@ makes it look like a house for fairies.
 <sprite "ta08a004.agf" 4 4 12>
 <name "Rakia" "!ZC0085">
 "We also have guest rooms, so we will be able
- to accomodate unexpected visitors."
+ to accommodate unexpected visitors."
 #
 <name "Darx">
 "I'm not sure we're going to be seeing many
