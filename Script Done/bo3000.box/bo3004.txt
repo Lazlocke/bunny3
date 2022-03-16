@@ -22,7 +22,7 @@ things ready.
  there I'll need help with."
 #
 <name "Hoe Demon" "!ZD0002">
-"If you can't handle it, it must be a rock,
+"If you can't handle it, it must be a boulder,
  not a stone."
 #
 <name "Darx">
