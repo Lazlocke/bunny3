@@ -590,6 +590,7 @@
 <sprite "ta01a025.agf" 4 4 12>
 <name "Sofia" "!ZB0798">
 「ズンバラ、ミラリンなども……」
+(LOOK UP NAMES OF MONSTERS)
 #
 <sprite "ta01a024.agf" 4 4 12>
 <name "Sofia" "!ZB0799">
