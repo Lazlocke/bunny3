@@ -13,16 +13,16 @@ Good luck.
 Administrative activities are now unlocked.
 Inspect, Event, and Exchange are available.
 #
-Inspect
+Inspect:
 By inspecting the city, you can increase the
 amount of experience facilities gain. Do this
 when you want the city to grow quickly.
 #
-Event
+Event:
 Hold various events at constructed facilities.
 A number of different effects are possible.
 #
-Exchange
+Exchange:
 Trade money, resources, and food for each
 other, but at a cost.
 #
@@ -34,7 +34,7 @@ other, but at a cost.
 \x1A\x01\x0B\x43\x00\x30\x00\x39\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x32\x00\x32\x00\x09\x00 :3D4: 
 <music 14>
 \x2B\x1A\x01\x09\x46\x00\x31\x00\x30\x00\x32\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :38E: \x0A\x04\x00\x66\x84\x01
-Rest
+Rest:
 A turn passes, but recover some health.
 Injured companies will also recover more
 quickly.
@@ -47,7 +47,7 @@ quickly.
 \x1A\x01\x0B\x43\x00\x30\x00\x39\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x32\x00\x33\x00\x09\x00 :692: 
 <music 10>
 \x2B\x1A\x01\x09\x46\x00\x31\x00\x30\x00\x33\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :64C: \x0A\x04\x00\x67\x84\x01
-Construct
+Construct:
 Each different facility you build will have
 its own effect. Most produce money, resources,
 or food.
@@ -85,11 +85,11 @@ Each unit has a passive skill for each role
 that is only active when they're deployed in
 that position.
 #
-Party
+Party:
 Party members will join Darx when he enters
 dungeons and fight at his side. 
 #
-Reserve
+Reserve:
 Similar to Party members, they will enter
 dungeons with Darx, but they will not
 directly participate in battle.
@@ -97,7 +97,7 @@ directly participate in battle.
 These units mainly support Darx through their
 passive ability.
 #
-Government
+Government:
 A leadership position within the city.
 They will stay in the city even when Darx
 goes into dungeons.

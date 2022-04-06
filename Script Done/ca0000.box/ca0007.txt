@@ -2639,7 +2639,7 @@ We're getting along well.
 #
 <sprite "ta08a004.agf" 2 5 12>
 <name "Rakia" "!ZC0223">
-"I'm not enough of a mistake to make me angry,
+"It's not enough of a mistake to make me angry,
  but I can see a lot of carelessness."
 #
 <sprite "ta01a036.agf" 6 4 12>

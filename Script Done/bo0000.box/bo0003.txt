@@ -261,7 +261,7 @@
 <background "bg008a0.agf" 10>
 <sprite "ta01a004.agf" 4 4 11>
 <name "Sofia" "!ZB0103">
-"This huge rijiulein tree continues to grow
+"This huge rijiulain tree continues to grow
  even after it's worked on."
 #
 <name "Darx">
@@ -643,7 +643,7 @@ the world.
 <name "Marialis" "!LA0009">
 "Your orders were that if we found them, to
  threaten them and drive them off, but not
- to harem them. Considering the future,
+ to harm them. Considering the future,
  wouldn't it be better to kill them?"
 #
 <sprite "ta15a002.agf" 4 4 12>

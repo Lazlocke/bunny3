@@ -1984,7 +1984,7 @@ At least the healing magic was incredible.
 :9A1F
 <music 4>
 <background "ev001a00.agf" 10>
-By generating excitment in the city, the
+By generating excitement in the city, the
 number of citizens should increase.
 #
 <exit>

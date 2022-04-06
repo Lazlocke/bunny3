@@ -114,7 +114,7 @@
 :1E06
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
 <name "Darx">
-"Okay, they told me to just pressgang some
+"Okay, they told me to just press-gang some
  people for the city, but..."
 #
 <name "Company Maid" "!DC0002" "ka34c000.agf">
@@ -150,7 +150,7 @@ them escaping.
 #
 <name "Company Maid" "!DC0006" "ka34c000.agf">
 "Yes.
- We look forward to working with yu."
+ We look forward to working with you."
 #
 \x8A 0  0  0  0  "Gunguskar Support can now be used." 
 <exit>
@@ -183,7 +183,7 @@ them escaping.
 #
 <name "Company Maid" "!DC0380" "ka34c000.agf">
 "Like with the Volcano Caverns, while part
- are under your control, most is not."
+ is under your control, most is not."
 #
 <name "Company Maid" "!DC0381" "ka34c000.agf">
 "The place we're going is, of course, not
