@@ -52,83 +52,86 @@
 <background "bg001a3.agf" 10>
 <sprite "ta21a012.agf" 4 4 11>
 <name "Ish" "!AB0005">
-「あー、暴れたい！」
+"Aah! I wanna go wild!"
 #
-<name "イシュの部下" "!SB0030">
-「あはは。
-　でも、連合があるから、ヘタな所には喧嘩が売れませんよ」
+<name "Ish's Underling" "!SB0030">
+"Hahaha.
+ But with the alliance, you can't start a
+ fight just anywhere."
 #
 <sprite "ta21a001.agf" 4 4 12>
 <name "Ish" "!AB0006">
-「じゃあ、あの街。
-　もう一回、襲っちゃおうか」
+"Then that city.
+ How about we attack it again?"
 #
 <name "Ish" "!AB0007">
-「あいつら、超楽勝だったじゃん」
+"They're total pushovers."
 #
-<name "イシュの部下" "!SB0031">
-「良いですね。
-　やっちゃいますか」
+<name "Ish's Underling" "!SB0031">
+"That sounds good.
+ Wanna do it?"
 #
 <sprite "ta21a003.agf" 4 4 12>
 <name "Ish" "!AB0008">
-「よーし、行くぞ！」
+"Okay, let's go!"
 #
-<name "イシュの部下" "!SB0032">
-「暴れちゃいますよー」
+<name "Ish's Underling" "!SB0032">
+"Let's break some shit!"
 #
 <removesprite -1 11>
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta01a024.agf" 4 4 11>
 <name "Sofia" "!ZB0553">
-「被害は森の一部を消失。
-　なんとか撃退しました」
+"We lost part of the forest, but managed to
+ drive them off."
 #
 <name "Darx">
-「……………………」
+"........."
 #
 <sprite "ta01a036.agf" 4 4 12>
 <name "Sofia" "!ZB0554">
-「詳細はこちらに。
-　私共は事後処理に当たります。
-　失礼します」
+"The full report is here.
+ We'll take care of the rest.
+ Excuse me."
 #
 <removesprite -1 11>
 <music 4>
 <background "bg009a0.agf" 10>
 <sprite "ta34a001.agf" 4 4 11>
 <name "Company Maid" "!AC0088">
-「大丈夫でした？」
+"Is everything okay?"
 #
 <removesprite -1 11>
 <sprite "ta01a024.agf" 2 5 11>
 <sprite "ta34a001.agf" 6 4 11>
 <name "Sofia" "!ZB0555">
-「ええ」
+"Yes."
 #
 <name "Company Maid" "!AC0089">
-「怒ってました？」
+"Was he mad?"
 #
 <sprite "ta01a036.agf" 2 5 12>
 <name "Sofia" "!ZB0556">
-「当然。
-　……魔王様の相手を出来る女性を数人集めて、ベッ
-　ドに放り込んで」
+"Of course.
+ ...Get some women who can be with him and
+ throw them into his bed."
 #
 <sprite "ta01a028.agf" 2 5 12>
 <name "Sofia" "!ZB0557">
-「ああ、出来るだけ体力のある人を選んでね」
+"Oh, and pick ones who are particularly
+ physically tough."
 #
 <name "Company Maid" "!AC0090">
-「承知しました」
+"Understood."
 #
 <removesprite -1 11>
-　……
+...
 #
 <sprite "ta01a036.agf" 4 4 11>
 <name "Sofia" "!ZB0558">
-「うう、怖かったぁ」
+"Oooh...
+ That was so scary."
 #
 <removesprite -1 11>
 <exit>
@@ -137,38 +140,39 @@
 <background "bg010a0.agf" 10>
 <sprite "ta22a000.agf" 4 4 11>
 <name "Nein" "!QA0069">
-「私の勢力に居た者を、街に連れてきました。
-　現在、住民登録を行っています」
+"I brought my forces to the city.
+ They're being registered as citizens as we
+ speak."
 #
 <name "Darx">
-「そうか。
-　よくやった」
+"I see.
+ Good job."
 #
 <sprite "ta22a003.agf" 4 4 12>
 <name "Nein" "!QA0070">
-「はっ」
+"Sir."
 #
 <sprite "ta22a011.agf" 4 4 12>
 <name "Nein" "!QA0071">
-「それで、私が連れて来た者達の事なのですが……」
+"And, about the people I brought..."
 #
 <name "Darx">
-「お前が面倒を見たいのか？」
+"You want to look after them?"
 #
 <sprite "ta22a012.agf" 4 4 12>
 <name "Nein" "!QA0072">
-「あ、はい。
-　私が説得したから……」
+"Ah, yes.
+ I was the one who pushed them to come..."
 #
 <name "Darx">
-「良いだろう。
-　トラブルを起こさせるな」
+"That's fine.
+ Just don't cause any trouble."
 #
 <sprite "ta22a003.agf" 4 4 12>
 <name "Nein" "!QA0073">
-「は、はい。
-　ありがとうございます。
-　頑張ります」
+"Y-Yes, sir.
+ Thank you very much.
+ I'll do my best."
 #
 <removesprite -1 11>
 \x2B\x8A 50  0  0  0  "住民が増えました。" 
@@ -176,119 +180,123 @@
 :141B
 <music 3>
 <background "bg010a0.agf" 10>
-<name "ミレニアーナ" "!TC0040" "ka36a000.agf">
-「お待たせしました。
-　私の勢力、この街に到着しました」
+<name "Milleniana" "!TC0040" "ka36a000.agf">
+"Thank you for your patience.
+ My troops have arrived in the city."
 #
 <name "Darx">
-「住民登録は？」
+"They're registering as citizens?"
 #
-<name "ミレニアーナ" "!TC0041" "ka36a000.agf">
-「順調に……
-　私は一足先にご挨拶に参りました」
+<name "Milleniana" "!TC0041" "ka36a000.agf">
+"So far, so good...
+ I came to see you first to official report."
 #
-<name "ミレニアーナ" "!TC0042" "ka36a000.agf">
-「予想以上の厚遇で扱って頂ける事に、驚いており
-　ます。
-　ありがとうございます」
-#
-<name "Darx">
-「家と仕事をやっただけだ。
-　街の為に働け」
-#
-<name "ミレニアーナ" "!TC0043" "ka36a000.agf">
-「はい。
-　では、失礼します」
+<name "Milleniana" "!TC0042" "ka36a000.agf">
+"People here are friendlier to us than I
+ expected.
+ Thank you very much."
 #
 <name "Darx">
-「ああ、待て」
+"You're just getting houses and jobs.
+ You'll have to work for the city."
 #
-<name "ミレニアーナ" "!TC0044" "ka36a000.agf">
-「はい？」
-#
-<name "Darx">
-「あー、俺は種族的な事にあまり口を出したりはし
-　ないつもりだが……
-　街中で胸を放り出すのは止めろ」
-#
-<name "ミレニアーナ" "!TC0045" "ka36a000.agf">
-「駄目ですか？」
+<name "Milleniana" "!TC0043" "ka36a000.agf">
+"Yes, sir.
+ Excuse me then."
 #
 <name "Darx">
-「できれば止めろ」
+"Oh, hold on."
 #
-<name "ミレニアーナ" "!TC0046" "ka36a000.agf">
-「しょ、承知しました」
+<name "Milleniana" "!TC0044" "ka36a000.agf">
+"Yes?"
 #
-　……
+<name "Darx">
+"Um, I don't want to get too involved in 
+ culture stuff, but...
+ Please cover your chests when you're in
+ public."
+#
+<name "Milleniana" "!TC0045" "ka36a000.agf">
+"We have to?"
+#
+<name "Darx">
+"If you can."
+#
+<name "Milleniana" "!TC0046" "ka36a000.agf">
+"I-I understand."
+#
+...
 #
 <sprite "ta34a000.agf" 4 4 11>
 <name "Company Maid" "!PC0142">
-「胸を放り出しているの、魔王様なら喜びそうでし
-　たから注意したのは意外でした」
+"I'm surprised. I would have thought you'd
+ like for them to walk around with their
+ chests exposed."
 #
 <name "Darx">
-「ははは。
-　チラリズムというのがあってだな」
+"Hahaha.
+ You have a lot to learn about tantalizing
+ glimpses."
 #
 <name "Company Maid" "!PC0143">
-「すみません。
-　仕事が忙しいので後にしてください」
+"I'm sorry.
+ I have work to do, so maybe later."
 #
 <name "Darx">
-「……」
+"..."
 #
 <removesprite -1 11>
 <exit>
 :197F
 <music 3>
 <background "bg010a0.agf" 10>
-<name "ラッサン" "!ZE0035" "ka38a000.agf">
-「魔王はん、魔王はん」
+<name "Lassan" "!ZE0035" "ka38a000.agf">
+"Overlor', Overlor'."
 #
 <name "Darx">
-「ん？」
+"Hm?"
 #
-<name "ラッサン" "!ZE0036" "ka38a000.agf">
-「わいの土下座と同じぐらいの、前に二人見たって
-　話ですけど、誰でっか？」
-#
-<name "Darx">
-「フォーゼロッテ宮で働いているゴランと、俺が冒
-　険者やってた頃の知人でタツマキってヤツだ」
-#
-<name "ラッサン" "!ZE0037" "ka38a000.agf">
-「……その二人、ひょっとして結婚してるんちゃい
-　ますか？」
+<name "Lassan" "!ZE0036" "ka38a000.agf">
+"When I waz bowin', those guys doin' it same
+ as me, who were they?"
 #
 <name "Darx">
-「ああ、そうだな」
+"Goran, who works at Forzelotte's Shrine, and
+ Tatsumaki, who I knew when I was an 
+ adventurer."
+#
+<name "Lassan" "!ZE0037" "ka38a000.agf">
+"...Are they both married by chance?"
 #
 <name "Darx">
-「ん？
-　どうした？
-　急に涙して」
-#
-<name "ラッサン" "!ZE0038" "ka38a000.agf">
-「おうた事ない二人やけど、心の繋がりを感じまし
-　てな」
-#
-<name "ラッサン" "!ZE0039" "ka38a000.agf">
-「うう……わい、一人やなかったんや」
-#
-<name "ラッサン" "!ZE0040" "ka38a000.agf">
-「まだ見ぬ同志に、感謝や！
-　よーし、今日も頑張るで！」
+"Yeah, that's right."
 #
 <name "Darx">
-「……俺も一応、結婚してるけど」
+"Hm?
+ What's the matter?
+ Why the tears?"
 #
-<name "ラッサン" "!ZE0041" "ka38a000.agf">
-「土下座が必要無いハーレム作れる方は、仲間に入
-　れまへん」
+<name "Lassan" "!ZE0038" "ka38a000.agf">
+"We never met, but I c'n tell they're kindre'
+ spirits."
+#
+<name "Lassan" "!ZE0039" "ka38a000.agf">
+"Oooh... I ain't alone!"
+#
+<name "Lassan" "!ZE0040" "ka38a000.agf">
+"Thank you, comrades I ain't never met!
+ Right! Time to git ta work!"
 #
 <name "Darx">
-「あ、そうですか……」
+"...I'm married too, you know."
+#
+<name "Lassan" "!ZE0041" "ka38a000.agf">
+"Makin' a harem don' mean ever gettin' down on
+ yer knees.
+ Ya ain't one of us."
+#
+<name "Darx">
+"Uh, I guess..."
 #
 \x0A\x44\x01\xF5\x84\x01
 <exit>
@@ -297,117 +305,120 @@
 <background "bg010a0.agf" 10>
 <sprite "ta17a000.agf" 4 4 11>
 <name "Tamaga" "!PB0061">
-「お呼びですか？」
+"You called?"
 #
 <name "Darx">
-「ああ、調子を聞こうと思ってな」
+"Yeah, just wanted to check things were 
+ going."
 #
 <sprite "ta17a004.agf" 4 4 12>
 <name "Tamaga" "!PB0062">
-「大丈夫です。
-　部下達も落ち着いて行動しています」
+"They're fine.
+ My men are settling down too."
 #
 <sprite "ta17a003.agf" 4 4 12>
 <name "Tamaga" "!PB0063">
-「すぐに街に慣れるかと」
+"They should get used to the city quick
+ enough."
 #
 <name "Darx">
-「そうか。
-　お前はどうだ？」
+"I see.
+ What about you?"
 #
 <name "Tamaga" "!PB0064">
-「魔王様や他の方から良くして貰っていますから、
-　問題はありません」
+"We've been treated well by you and your
+ people, so there haven't been any problems."
 #
 <name "Darx">
-「……」
+"..."
 #
 <sprite "ta17a008.agf" 4 4 12>
 <name "Tamaga" "!PB0065">
-「なにか？」
+"What?"
 #
 <name "Darx">
-「こっちに来い」
+"Come here."
 #
 <sprite "ta17a103.agf" 4 4 12>
 <name "Tamaga" "!PB0066">
-「は、はい」
+"Y-Yes, sir."
 #
 <removesprite -1 11>
-　俺は近付いてきたタマガを抱き締め、キスをした。
+I pull her close and kiss her.
 #
 <name "Tamaga" "!PB0067">
-「んんぁ、ぁ、ふぁ、あ、んんっ」
+"Mmmmm....ah...aah...ah...mmm..."
 #
-　タマガの舌が、拙いながらもなんとか応えようと
-　してくれる。
+She tries to respond, though she's clumsy.
 #
-　なかなか心地良い動きだ。
+It's still very pleasant.
 #
 <name "Darx">
-「タマガ。
-　お前の主はこの俺だ」
+"Tamaga, I'm your lord now."
 #
 <sprite "ta17a104.agf" 4 4 11>
 <name "Tamaga" "!PB0068">
-「ふぁ、ぁ……はい」
+"Aah...ah...
+ Yes, sir."
 #
 <name "Darx">
-「俺の為に、これから励め」
+"Work hard for my sake."
 #
 <sprite "ta17a103.agf" 4 4 12>
 <name "Tamaga" "!PB0069">
-「は、はい」
+"Y-Yes, sir."
 #
 <name "Darx">
-「よし、下がって良い……と言いたいが」
+"Okay, you can leave... is what I'd like to
+ say."
 #
 <removesprite -1 11>
-　タマガは、俺に身体を擦り付けている。
+She's rubbing her body against me.
 #
 <name "Darx">
-「少し、相手をしろ」
+"Let's enjoy ourselves a little."
 #
 <sprite "ta17a104.agf" 4 4 11>
 <name "Tamaga" "!PB0070">
-「はい♪」
+"Yes, sir.♪"
 #
 <removesprite -1 11>
 <exit>
 :23F1
 <music 11>
 <background "bg008a0.agf" 10>
-<name "タマガの元部下" "!TC0029">
-「タマガ様、雰囲気が変わった？」
+<name "Tamaga's Subordinate" "!TC0029">
+"Has Tamaga changed?"
 #
-<name "元部下の元同僚" "!WB0048">
-「そ、そう見えるよね」
+<name "Subordinate Comrade" "!WB0048">
+"I-It does seem like it."
 #
-<name "タマガの元部下" "!TC0030">
-「前より明るくはなったかも」
+<name "Tamaga's Subordinate" "!TC0030">
+"She seems more cheerful than before."
 #
-<name "元部下の元同僚" "!WB0049">
-「何かあったって……あれか」
+<name "Subordinate Comrade" "!WB0049">
+"Something must've happened...
+ That?"
 #
-<name "タマガの元部下" "!TC0031">
-「あれよね」
+<name "Tamaga's Subordinate" "!TC0031">
+"That."
 #
-<name "元部下の元同僚" "!WB0050">
-「タ、タマガ様だけずるい！」
+<name "Subordinate Comrade" "!WB0050">
+"I-It's not fair for just her!"
 #
-<name "タマガの元部下" "!TC0032">
-「私達も魔王様に推薦してください」
+<name "Tamaga's Subordinate" "!TC0032">
+"We want to be with the Overlord too!"
 #
 <sprite "ta17a100.agf" 4 4 11>
 <name "Tamaga" "!PB0071">
-「………………」
+"........."
 #
 <removesprite -1 11>
-<name "タマガの元部下" "!TC0033">
-「あ、逃げた」
+<name "Tamaga's Subordinate" "!TC0033">
+"Ah, she ran away."
 #
-<name "元部下の元同僚" "!WB0052">
-「タマガ様、乙女！」
+<name "Subordinate Comrade" "!WB0052">
+"What a maiden!"
 #
 <exit>
 :26B4
@@ -415,69 +426,73 @@
 <background "bg008a0.agf" 10>
 <sprite "ta19a008.agf" 4 4 11>
 <name "Ao" "!WA0067">
-「タマガ……」
+"Tamaga..."
 #
 <removesprite -1 11>
 <sprite "ta19a008.agf" 2 5 11>
 <sprite "ta17a000.agf" 6 4 11>
 <name "Tamaga" "!PB0072">
-「アオもこっちに来たか」
+"You came too?"
 #
 <name "Ao" "!WA0068">
-「なかなか良い暮らしをしているみたいだね」
+"Looks like you have a rather comfortable
+ life now."
 #
 <sprite "ta17a001.agf" 6 4 12>
 <name "Tamaga" "!PB0073">
-「ああ。
-　良くして貰っている」
+"Yeah.
+ Things are going well."
 #
 <sprite "ta19a009.agf" 2 5 12>
 <name "Ao" "!WA0069">
-「噂とは大違いみたいね」
+"It's completely different from what we 
+ heard."
 #
 <sprite "ta17a008.agf" 6 4 12>
 <name "Tamaga" "!PB0074">
-「まったくだ」
+"Completely."
 #
 <sprite "ta19a010.agf" 2 5 12>
 <name "Ao" "!WA0070">
-「まあ、その……僕は酷い目にあったけど」
+"Well, um... I did go through something
+ awful."
 #
 <sprite "ta17a011.agf" 6 4 12>
 <name "Tamaga" "!PB0075">
-「勢力の代表の務めだ」
+"The duty of being the leader."
 #
 <sprite "ta19a009.agf" 2 5 12>
 <name "Ao" "!WA0071">
-「じゃあ、タマガも？」
+"Then you too?"
 #
 <sprite "ta17a010.agf" 6 4 12>
 <name "Tamaga" "!PB0076">
-「うむ」
+"Mm."
 #
 <sprite "ta19a108.agf" 2 5 12>
 <name "Ao" "!WA0072">
-「……僕、最後はちょっと気持ち良かったんだけど」
+"...It did feel a little good at the very
+ end."
 #
 <sprite "ta17a110.agf" 6 4 12>
 <name "Tamaga" "!PB0077">
-「私もだ」
+"Me too."
 #
 <sprite "ta19a118.agf" 2 5 12>
 <name "Ao" "!WA0073">
-「…………僕だけじゃなくて、良かった」
+"...I'm glad I'm not the only one."
 #
 <sprite "ta17a011.agf" 6 4 12>
 <name "Tamaga" "!PB0078">
-「他にも一杯いるみたいだぞ」
+"Apparently there's a lot of others."
 #
 <sprite "ta19a003.agf" 2 5 12>
 <name "Ao" "!WA0074">
-「今度、みんなで飲もう」
+"Let's get a drink together later."
 #
 <sprite "ta17a003.agf" 6 4 12>
 <name "Tamaga" "!PB0079">
-「ああ」
+"Yeah."
 #
 <removesprite -1 11>
 <exit>
@@ -486,57 +501,57 @@
 <background "bg010a0.agf" 10>
 <sprite "ta19a001.agf" 4 4 11>
 <name "Ao" "!WA0075">
-「呼んだ？」
+"You summoned me?"
 #
 <name "Darx">
-「ああ。
-　お前の勢力下の連中の勧誘はどうなっている？」
+"Yeah.
+ How's the recruiting of your people going?"
 #
 <sprite "ta19a000.agf" 4 4 12>
 <name "Ao" "!WA0076">
-「なんとか……
-　だけど、全員はさすがに」
+"Well enough, but like I expected, it's not
+ everybody."
 #
 <name "Darx">
-「まあ、お前の所は数が多かったしな」
+"Well, you did have a lot of people."
 #
 <sprite "ta19a008.agf" 4 4 12>
 <name "Ao" "!WA0077">
-「す、すみません」
+"I-I'm sorry."
 #
 <name "Darx">
-「いや、出来る範囲で構わない。
-　頑張ってくれ」
+"It's fine. Just do what you can.
+ Keep up the good work."
 #
 <sprite "ta19a003.agf" 4 4 12>
 <name "Ao" "!WA0078">
-「はい。
-　魔王様の為に」
+"Yes, sir.
+ For the Overlord."
 #
 <name "Darx">
-「下がっていいぞ」
+"You may leave now."
 #
 <sprite "ta19a009.agf" 4 4 12>
 <name "Ao" "!WA0079">
-「え？
-　下がって良いんですか？」
+"Huh?
+ I can just go?"
 #
 <name "Darx">
-「……もう少し、何かするか？」
+"...Did you expect a little more?"
 #
 <sprite "ta19a008.agf" 4 4 12>
 <name "Ao" "!WA0080">
-「何かしてくれるのかと」
+"I thought you'd do something."
 #
 <name "Darx">
-「可愛がってやろう」
+"I can love you then."
 #
 <sprite "ta19a016.agf" 4 4 12>
 <name "Ao" "!WA0081">
-「はい」
+"Yes, sir."
 #
 <removesprite -1 11>
-　俺はアオを相手に少しだけ楽しんだ。
+I have a little bit of fun with her.
 #
 <exit>
 :3178
@@ -544,41 +559,41 @@
 <background "bg009a0.agf" 10>
 <sprite "ta19a001.agf" 4 4 11>
 <name "Ao" "!WA0082">
-「そう言えば、驚いたよね」
+"You know, I was really surprised."
 #
 <removesprite -1 11>
 <sprite "ta19a001.agf" 2 5 11>
 <sprite "ta17a000.agf" 6 4 11>
 <name "Tamaga" "!PB0080">
-「ん？」
+"Hm?"
 #
 <sprite "ta19a000.agf" 2 5 12>
 <name "Ao" "!WA0083">
-「ダークス様が、魔王だって話」
+"I mean that Darx was the Overlord."
 #
 <sprite "ta17a009.agf" 6 4 12>
 <name "Tamaga" "!PB0081">
-「ああ、私も最初は信じられなかった」
+"Yeah, I didn't believe it at first either."
 #
 <sprite "ta17a008.agf" 6 4 12>
 <name "Tamaga" "!PB0082">
-「フォーゼロッテが負けるとは思っていなかったか
-　らな」
+"I never thought anybody would beat
+ Forzelotte."
 #
 <sprite "ta19a001.agf" 2 5 12>
 <name "Ao" "!WA0084">
-「色々あった事を聞いたけど、僕達の情報がかなり
-　古いみたいだね」
+"I heard a lot of things happened, but our
+ information was very out of date."
 #
 <sprite "ta17a003.agf" 6 4 12>
 <name "Tamaga" "!PB0083">
-「そうだな。
-　色々、甘かった。
-　ここでは、同じ失敗をしない」
+"Yes.
+ I was unprepared in may ways.
+ I won't make the same mistake again."
 #
 <sprite "ta19a003.agf" 2 5 12>
 <name "Ao" "!WA0085">
-「うん」
+"Yeah."
 #
 <removesprite -1 11>
 <exit>
@@ -586,32 +601,32 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <name "Darx">
-「アオ。
-　お前はこの街の悪い噂を聞いた事があるか？」
+"Ao, did you hear bad rumors about this city?"
 #
 <sprite "ta19a001.agf" 4 4 11>
 <name "Ao" "!WA0086">
-「はい。
-　何度か」
+"Yes, several."
 #
 <sprite "ta19a003.agf" 4 4 12>
 <name "Ao" "!WA0087">
-「でも、ここで暮らしてみてビックリです。
-　全然違うんだもん」
+"But living here has surprised me.
+ It's completely different from what I heard."
 #
 <name "Darx">
-「移住させる事に関しては悪いと思っている。
-　まあ、その分、暮らしで返していくつもりだ」
+"I do think it's wrong to force people to move
+ here, so, well, we're trying to make up for
+ it as much as possible by making life here
+ right."
 #
 <name "Ao" "!WA0088">
-「微力ながらお手伝いさせて頂きます」
+"I will do whatever little I can to help."
 #
 <name "Darx">
-「ああ、頼んだぞ」
+"Yeah, please."
 #
 <sprite "ta19a016.agf" 4 4 12>
 <name "Ao" "!WA0089">
-「はい」
+"Yes, sir."
 #
 <removesprite -1 11>
 <exit>
@@ -620,54 +635,55 @@
 <background "bg010a0.agf" 10>
 <sprite "ta18a003.agf" 4 4 11>
 <name "Lotta" "!HB0064">
-「魔王様ー、報告。
-　街の方では問題無しー」
+"Overlooord, reporting.
+ No problems in the city!"
 #
 <sprite "ta18a004.agf" 4 4 12>
 <name "Lotta" "!HB0065">
-「あとね、面白い所を見つけたから一緒に行こー」
+"And you know, I found somewhere fun, so let's
+ go there together!"
 #
 <name "Darx">
-「お誘いは嬉しいが、仕事をしないと色々な所から
-　睨まれる」
+"I appreciate the invitation, but I'll get
+ nasty looks if I'm not doing work."
 #
 <sprite "ta18a003.agf" 4 4 12>
 <name "Lotta" "!HB0066">
-「じゃあ、一人で行くねー」
+"Then I'll go by myself."
 #
 <name "Darx">
-「待て。
-　逃がさん。
-　手伝っていけ」
+"Wait. Sorry, we need some help here."
 #
 <sprite "ta18a001.agf" 4 4 12>
 <name "Lotta" "!HB0067">
-「ロッタ、難しい事、わかんない」
+"I can't do complicated stuff."
 #
 <name "Darx">
-「手伝ったら、後で甘いお菓子をやろう」
+"If you help out, I'll get you some candy
+ afterwards."
 #
 <sprite "ta18a018.agf" 4 4 12>
 <name "Lotta" "!HB0068">
-「ロッタ、頑張ります」
+"I'll do my best!"
 #
 <name "Darx">
-「よーし」
+"Okay."
 #
 <removesprite -1 11>
-　見かけによらず、ロッタは優秀だった。
+Despite how she looks, Lotta's incredibly
+reliable.
 #
-　あと少し、身体が成長していれば……
+If only she was a little older...
 #
 <sprite "ta18a008.agf" 4 4 11>
 <name "Lotta" "!HB0069">
-「なに？」
+"What?"
 #
 <name "Darx">
-「あ、いや、なんでもない」
+"Ah, no, it's nothing."
 #
 <removesprite -1 11>
-　大変、残念だ。
+It's truly a pity.
 #
 <exit>
 :3C1E
@@ -675,47 +691,50 @@
 <background "bg009a0.agf" 10>
 <sprite "ta18a018.agf" 4 4 11>
 <name "Lotta" "!HB0070">
-「えへへー。
-　魔王様の事、好きだよー、優しいしー」
+"Hahaha.
+ I like the Overlord.
+ He's so nice."
 #
 <removesprite -1 11>
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta19a015.agf" 4 4 11>
 <name "Ao" "!WA0124">
-「魔王様。
-　まさか、ロッタにまで……」
+"Overlord, don't tell me, you..."
 #
 <name "Darx">
-「出してない、出してない」
+"I didn't.
+ I didn't."
 #
 <sprite "ta19a003.agf" 4 4 12>
 <name "Ao" "!WA0125">
-「失礼しました」
+"Excuse me."
 #
 <name "Darx">
-「気にするな。
-　失礼した分、返して貰うから」
+"Don't worry about it.
+ You'll just have to make up for the
+ rudeness."
 #
 <sprite "ta19a001.agf" 4 4 12>
 <name "Ao" "!WA0126">
-「え？」
+"Huh?"
 #
 <removesprite -1 11>
-　アオの膣内で、二回ほど射精した。
+I come twice inside her.
 #
 <sprite "ta17a014.agf" 4 4 11>
 <name "Tamaga" "!PB0096">
-「あの、魔王様。
-　まさかロッタにまで……」
+"Um, Overlord.
+ Don't tell me you and Lotta..."
 #
 <name "Darx">
-「……」
+"..."
 #
 <removesprite -1 11>
-　タマガの膣内でも、二回ほど射精した。
+I come twice in Tamaga.
 #
-　自分の信用の無さに、少し驚いた。
+I'm a little disappointed in the lack of faith
+people have in me.
 #
 \x0A\x44\x01\xF6\x84\x01
 <exit>
