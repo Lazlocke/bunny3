@@ -1154,7 +1154,7 @@ The fishing tournament was a success.
 #
 <sprite "ta34a004.agf" 4 4 12>
 <name "Company Maid" "!DC0496">
-"Also, please remember that we have recieved
+"Also, please remember that we have received
  a party budget for afterward from the 
  Overlord."
 #

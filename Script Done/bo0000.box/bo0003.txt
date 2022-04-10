@@ -1544,7 +1544,7 @@ bed.
 #
 <sprite "ta15a006.agf" 4 4 12>
 <name "Marialis" "!LA0021">
-"Furthremore, we will be stationing in the
+"Furthermore, we will be stationing in the
  forest and performing patrols during the
  night."
 #
