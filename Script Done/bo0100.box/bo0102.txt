@@ -46,86 +46,89 @@
 :AE3
 <music 9>
 <background "ev073b00.agf" 10>
-<name "ファレン" "!FB0001">
-「最初に言っておくけど、誰かの下についたってワ
-　ケじゃないからね」
+<name "Farren" "!FB0001">
+"Just so we're all clear, nobody's taking
+ orders from anybody else."
 #
-<name "タマガ" "!PB0001">
-「うむ」
+<name "Tamaga" "!PB0001">
+"Mmhmm."
 #
-<name "アオ" "!WA0001">
-「わかってるさ。
-　全員平等に、物事の決定は相談で多数決」
+<name "Ao" "!WA0001">
+"We know that.
+ Everybody's equal.
+ We decide by majority rule."
 #
-<name "ファレン" "!FB0002">
-「ええ」
+<name "Farren" "!FB0002">
+"Yeah."
 #
-<name "アオ" "!WA0002">
-「で、最終確認だけど……」
+<name "Ao" "!WA0002">
+"So, final vote..."
 #
-<name "アオ" "!WA0003">
-「あそこに攻め込んでも良いよね」
+<name "Ao" "!WA0003">
+"Do we attack them?"
 #
-<name "タマガ" "!PB0002">
-「賛成する」
+<name "Tamaga" "!PB0002">
+"Approved."
 #
-<name "イシュ" "!AB0001">
-「賛成。
-　さっさと攻めようよ」
+<name "Ish" "!AB0001">
+"Aye.
+ Let's get them already."
 #
-<name "ラフィノー" "!EB0001">
-「賛成で問題ありません」
+<name "Raffino" "!EB0001">
+"No objections."
 #
-<name "ロッタ" "!HB0001">
-「賛成ー♪」
+<name "Lotta" "!HB0001">
+"Agreed!♪"
 #
-<name "ファレン" "!FB0003">
-「賛成」
+<name "Farren" "!FB0003">
+"Agreed."
 #
-<name "アオ" "!WA0004">
-「当然、僕も賛成。
-　こっちの領地を荒らされて、黙ってるワケにはい
-　かないからね」
+<name "Ao" "!WA0004">
+"Of course, I agree too.
+ We can't just sit back and let them raid our
+ land."
 #
-<name "アオ" "!WA0005">
-「賛成多数で、攻め込む事は決定」
+<name "Ao" "!WA0005">
+"The majority has agreed to attack."
 #
-<name "ラフィノー" "!EB0002">
-「部下からの報告です。
-　偵察は完了。
-　情報通り、結界は強固だけど穴があると。
-　準備していた進路で問題はありません」
+<name "Raffino" "!EB0002">
+"I have a report from my people.
+ Scouting's complete. Their defenses are
+ strong, but there are lots of holes.
+ The planned route looks good."
 #
-<name "アオ" "!WA0006">
-「進路も決定」
+<name "Ao" "!WA0006">
+"The route's set too then."
 #
-<name "タマガ" "!PB0003">
-「時々、飛んでいる連中は？」
+<name "Tamaga" "!PB0003">
+"Aren't there sometimes people flying?"
 #
-<name "ファレン" "!FB0004">
-「あれが警戒しているのは人間でしょ。
-　タイミングを見計らえば抜けるし、ぶつかっても
-　蹴散らすだけよ」
+<name "Farren" "!FB0004">
+"They're on the lookout for humans.
+ If we time it right, we can slip by, and even
+ if we run into them, just take them out."
 #
-<name "ロッタ" "!HB0002">
-「確かにねー♪」
+<name "Lotta" "!HB0002">
+"That's right!♪"
 #
-<name "アオ" "!WA0007">
-「そろそろ、そのタイミングです。
-　仕掛けますか」
+<name "Ao" "!WA0007">
+"Seems like it's about time.
+ Are we ready?"
 #
 <background "ev073a00.agf" 10>
-<name "イシュ" "!AB0002">
-「おうさ！」
+<name "Ish" "!AB0002">
+"Yeah!"
 #
-<name "イシュ" "!AB0003">
-「破壊して、燃やして、あははははははは」
+<name "Ish" "!AB0003">
+"Pillage!
+ Burn!
+ Ahahahahahaha!"
 #
-<name "タマガ" "!PB0004">
-「いくぞ」
+<name "Tamaga" "!PB0004">
+"Let's go."
 #
-<name "イシュ" "!AB0004">
-「一番乗りだー！」
+<name "Ish" "!AB0004">
+"Me first!"
 #
 <music 31>
 <background "ev072c00.agf" 10>
@@ -133,290 +136,301 @@
 <background "bg017a0.agf" 10>
 <music 15>
 <background "ev089a00.agf" 10>
-　俺が見た光景は、荒野となった畑だった。
+The farm here has returned to wilderness.
 #
-<name "マリーアリス" "!LA0016">
-「も、申し訳ありません魔王様。
-　なんとか撃退はしたのですが……」
+<name "Marialis" "!LA0016">
+"I-I'm so sorry, Overlord.
+ We managed to drive them off, but..."
 #
-<name "ダークス">
-「誰がやった？」
+<name "Darx">
+"Who did it?"
 #
-<name "マリーアリス" "!LA0017">
-「く、詳しくは……申し訳ありません」
+<name "Marialis" "!LA0017">
+"I-I'm... not exactly sure."
 #
-　元々、天界の住人のマリーアリスだ。
+She's from Celestia.
 #
-　犯人探しは無理か。
+Can she not find the culprits?
 #
-　となると……
+Or...
 #
-<name "負傷した魔族" "!ZE0001">
-「あ、あの、魔王様」
+<name "Injured Demon" "!ZE0001">
+"U-Um, Overlord."
 #
-<name "ダークス">
-「ん？」
+<name "Darx">
+"Hm?"
 #
-<name "負傷した魔族" "!ZE0002">
-「やったのは非統治エリアの連中です」
+<name "Injured Demon" "!ZE0002">
+"They were from the independent areas."
 #
-<name "ダークス">
-「知っているのか」
+<name "Darx">
+"You recognized them?"
 #
-<name "負傷した魔族" "!ZE0003">
-「はい、知った顔のヤツがいました。
-　間違いありません」
+<name "Injured Demon" "!ZE0003">
+"Yes, there was someone I recognized.
+ It was definitely them."
 #
-<name "ダークス">
-「そうか。
-　助かった。
-　ありがとう」
+<name "Darx">
+"I see.
+ Thank you.
+ That's a big help."
 #
-<name "負傷した魔族" "!ZE0004">
-「で、でも、その……」
+<name "Injured Demon" "!ZE0004">
+"B-But, um..."
 #
-<name "ダークス">
-「なんだ？」
+<name "Darx">
+"What?"
 #
-<name "負傷した魔族" "!ZE0005">
-「お、おかしいんです」
+<name "Injured Demon" "!ZE0005">
+"I-It's strange."
 #
-<name "ダークス">
-「？」
+<name "Darx">
+"Hm?"
 #
-<name "負傷した魔族" "!ZE0006">
-「非統治エリアには、いくつもの勢力があるんです
-　けど」
+<name "Injured Demon" "!ZE0006">
+"There's a bunch of different groups in the
+ independent area."
 #
-<name "負傷した魔族" "!ZE0007">
-「その勢力同士は常に争っているような状態なんで
-　す」
+<name "Injured Demon" "!ZE0007">
+"They're always all fighting with each other
+ over control."
 #
-<name "負傷した魔族" "!ZE0008">
-「なのに、ここを攻撃した連中は、いくつもの勢力
-　が混ざっていました」
+<name "Injured Demon" "!ZE0008">
+"But the people who attacked here was a mix of
+ different groups."
 #
-<name "ダークス">
-「連合した。
-　と言う事か」
+<name "Darx">
+"They're working together?
+ Is that what you're saying?"
 #
-<name "負傷した魔族" "!ZE0009">
-「かもしれませんが、連中の仲の悪さから……」
+<name "Injured Demon" "!ZE0009">
+"I'm not sure, but they've always hated each
+ other before..."
 #
-<name "マクドゥ" "!ZA0065">
-「考えられない事も無いかと」
+<name "Macdo" "!ZA0065">
+"It's not unthinkable."
 #
-　いつの間にか、マクドゥが居た。
+Macdo appears out of nowhere.
 #
-<name "マクドゥ" "!ZA0066">
-「ここにダークス様の新たな拠点が出来るとなれば、
-　それは彼らにとって大きな脅威」
+<name "Macdo" "!ZA0066">
+"You setting up a new base here would be a
+ significant threat to them."
 #
-<name "マクドゥ" "!ZA0067">
-「近隣の非統治エリアの者達が、群れても仕方が無
-　いかと」
+<name "Macdo" "!ZA0067">
+"I would think that the people in the nearby
+ uncontrolled areas would have no choice but
+ to band together."
 #
-<name "ダークス">
-「マクドゥ」
+<name "Darx">
+"Macdo."
 #
-<name "マクドゥ" "!ZA0068">
-「なにか？」
+<name "Macdo" "!ZA0068">
+"What?"
 #
-<name "ダークス">
-「これ、お前の誘導じゃないよな」
+<name "Darx">
+"You're not behind this, right?"
 #
-<name "マクドゥ" "!ZA0069">
-「そんな真似はしません」
+<name "Macdo" "!ZA0069">
+"I would never."
 #
-<name "ダークス">
-「そうか。
-　良かったよ」
+<name "Darx">
+"I see.
+ That's a relief."
 #
-<name "マクドゥ" "!ZA0070">
-「……」
+<name "Macdo" "!ZA0070">
+"..."
 #
-<name "ダークス">
-「ああ、心配するな。
-　なんとか条件をクリアするようにする」
+<name "Darx">
+"Oh, don't worry.
+ We'll still find a way to meet your
+ requirements."
 #
-<name "ダークス">
-「はははは」
+<name "Darx">
+"Hahahaha!"
 #
-<name "ダークス">
-「なーに、これしきの被害。
-　跳ね返してみせるさ」
+<name "Darx">
+"Come on. This is nothing!
+ We'll bounce right back!"
 #
-<name "ダークス">
-「そうだろ」
+<name "Darx">
+"Right?"
 #
-<name "負傷した魔族" "!ZE0010">
-「は、はい！」
+<name "Injured Demon" "!ZE0010">
+"Y-Yeah!"
 #
-<name "立ち上がる魔族" "!JA0001">
-「頑張ります！」
+<name "Recovering Demon" "!JA0001">
+"Let's work hard!"
 #
 \x0A\x44\x02\x16\x84\x01
 <exit>
 :19EE
 <music 3>
 <background "bg010a0.agf" 10>
-　さて……
+Okay...
 #
-　この街を襲撃した連中の情報を、何人からか聞く
-　事に成功した。
+We've been able to get some information on the
+people who attacked the city.
 #
-　まとめると……
+To summarize...
 #
 <background "ev073a00.agf" 10>
-　十種以上の勢力の連合。
+It's an alliance of over ten groups.
 #
-　勢力の数に限らず、平等。
+They're all considered equal despite being of
+different sizes.
 #
-　決定は勢力代表による多数決。
+Decisions are made by a majority vote of each
+group's representatives.
 #
-　しかし、やはり中核となる勢力は存在し、当然そ
-　の代表も強権を持つ。
+However, there's a core group leading them,
+and their representatives hold almost all the
+sway.
 #
-　レッドバード族のファレン。
+Farren of the phoenixes.
+(MAKE SURE ALL THESE RACES MATCH TO UNIT
+ TYPES!!!!!)
 #
-　ティーグレ族のタマガ。
+Tamaga of the tigres.
 #
-　タートルランナー族のロッタ。
+Lotta of the turtle runners.
 #
-　ブラウ族のアオ。
+Ao of the brau.
 #
-　この四勢力が連合の中核だ。
+Those four are the core of the alliance.
 #
-　そこに、リーフウッド族のラフィノー。
+Besides them, there's Raffino of the leaf 
+nymphs.
 #
-　サマキュー族のイシュ。
+And Ish of the frost nymphs.
 #
-　他が追従している形らしい。
+All the others follow their lead.
 #
-　……
+...
 #
-　女が多いな。
+It's a lot of women.
 #
-　さて、どうやって後悔させてやろうか。
+Now, how do we make them pay for this?
 #
-　まあ……決まっているか。
+Well, I think that's obvious.
 #
-<name "商会メイド" "!AC0029">
-「魔王様。
-　集めた情報を元に、敵の所在をいくつか割り出し
-　ました」
+<name "Company Maid" "!AC0029">
+"Overlord, based on the information we've
+ gathered, we've been able to locate some of
+ the enemies."
 #
-<name "ダークス">
-「近いところはどこだ？」
+<name "Darx">
+"Which one's closest?"
 #
-<name "商会メイド" "!AC0030">
-「千樹庭。
-　次いで炎山洞になります」
+<name "Company Maid" "!AC0030">
+"The Arboreal Garden.
+ And the Volcano Cave."
 #
-<name "ダークス">
-「そうか。
-　扉の設置、頼めるか」
+<name "Darx">
+"I see.
+ Can I ask you to set up a Door?"
 #
-<name "商会メイド" "!AC0031">
-「ギュンギュスカー商会、魔王亭支店の総力を持っ
-　て」
+<name "Company Maid" "!AC0031">
+"You have the full support of Gunguskar's
+ entire Overlord's Bower branch."
 #
 <exit>
 :1E0D
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta01a000.agf" 4 4 11>
-<name "ソフィア" "!ZB0550">
-「魔王様。
-　街に襲撃がありましたが、マリーアリス様達が撃
-　退しました」
+<name "Sofia" "!ZB0550">
+"Overlord, there was an attack on the city,
+ but Marialis and her guards drove them back."
 #
-<name "ダークス">
-「そうか。
-　被害が少なくて、何よりだが……」
+<name "Darx">
+"I see.
+ Doesn't look like much damage, but more
+ importantly..."
 #
-<name "ダークス">
-「街を離れ過ぎるのは問題か」
+<name "Darx">
+"Should I not be leaving the city for so long?"
 #
 <sprite "ta01a004.agf" 4 4 12>
-<name "ソフィア" "!ZB0551">
-「いえ。
-　街の防衛は、私にお任せください。
-　マリーアリス様と協力して、守り抜いてみせます」
+<name "Sofia" "!ZB0551">
+"No.
+ Leave protecting the city to me.
+ I will help Marialis keep it safe."
 #
-<name "ダークス">
-「……そうだな。
-　わかった」
+<name "Darx">
+"...I see.
+ All right."
 #
 <sprite "ta01a033.agf" 4 4 12>
-<name "ソフィア" "!ZB0552">
-「はい」
+<name "Sofia" "!ZB0552">
+"Yes, sir."
 #
 <removesprite -1 11>
 <exit>
 :207E
 <music 3>
 <background "bg010a0.agf" 10>
-<name "ダークス">
-「攻撃はどうだ？」
+<name "Darx">
+"How are the attacks?"
 #
 <sprite "ta01a024.agf" 4 4 11>
-<name "ソフィア" "!ZB0206">
-「散発的に。
-　全て、防いでいますが、親衛隊の方々の疲労と、
-　住民の不安が……」
+<name "Sofia" "!ZB0206">
+"Still occasional.
+ We've stopped them all, but the guards are
+ tired, and the citizens are worried."
 #
-<name "ダークス">
-「早急になんとかする」
+<name "Darx">
+"I'll take care of things as quickly as I can."
 #
 <sprite "ta01a036.agf" 4 4 12>
-<name "ソフィア" "!ZB0207">
-「よろしくお願いします」
+<name "Sofia" "!ZB0207">
+"Please and thank you."
 #
 <removesprite -1 11>
 <exit>
 :2207
 <music 3>
 <background "bg010a0.agf" 10>
-<name "ダークス">
-「敵の攻撃と、街の様子は？」
+<name "Darx">
+"How are we handling the enemy attacks on the
+ city?"
 #
 <sprite "ta01a024.agf" 4 4 11>
-<name "ソフィア" "!ZB0208">
-「まだ、なんとか平静を保っていますが……
-　これ以上続くと……」
+<name "Sofia" "!ZB0208">
+"We've been able to keep things calm, but if
+ this lasts too much longer..."
 #
 <removesprite -1 11>
-　急いだ方が良いようだ。
+Looks like I need to hurry up.
 #
 <exit>
 :2316
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta01a036.agf" 4 4 11>
-<name "ソフィア" "!ZB0209">
-「申し訳ありません。
-　施設に被害が出ました」
+<name "Sofia" "!ZB0209">
+"I'm very sorry.
+ Some of our buildings have been damaged."
 #
 <sprite "ta01a025.agf" 4 4 12>
-<name "ソフィア" "!ZB0210">
-「また、街の一部で暴動が発生。
-　鎮圧はしましたが、再発の可能性があります」
+<name "Sofia" "!ZB0210">
+"There was also a riot within the city.
+ It's been dispersed, but it could happen
+ again."
 #
-<name "ダークス">
-「攻撃を喰らったのか？」
+<name "Darx">
+"Were we attacked?"
 #
 <sprite "ta01a024.agf" 4 4 12>
-<name "ソフィア" "!ZB0211">
-「はい」
+<name "Sofia" "!ZB0211">
+"Yes."
 #
-<name "ダークス">
-「すまない。
-　もう少し、急ぐ」
+<name "Darx">
+"I'm sorry.
+ I'll try to hurry up."
 #
 <sprite "ta01a036.agf" 4 4 12>
-<name "ソフィア" "!ZB0212">
-「よろしくお願いします」
+<name "Sofia" "!ZB0212">
+"Please and thank you."
 #
 <removesprite -1 11>
 <exit>
@@ -424,11 +438,11 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta01a025.agf" 4 4 11>
-<name "ソフィア" "!ZB0213">
-「また、攻撃を……」
+<name "Sofia" "!ZB0213">
+"We were attacked again..."
 #
-<name "ダークス">
-「くっ」
+<name "Darx">
+"Urgh."
 #
 <removesprite -1 11>
 <exit>
@@ -436,11 +450,11 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta01a025.agf" 4 4 11>
-<name "ソフィア" "!ZB0214">
-「もう、これ以上は……」
+<name "Sofia" "!ZB0214">
+"It can't keep going like this..."
 #
-<name "ダークス">
-「わかっている」
+<name "Darx">
+"I know."
 #
 <removesprite -1 11>
 <exit>
@@ -448,16 +462,17 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta01a036.agf" 4 4 11>
-<name "ソフィア" "!ZB0217">
-「魔王……いえ、ダークス様。
-　街を放棄しましょう。
-　もう無理です」
+<name "Sofia" "!ZB0217">
+"Overlord...
+ No, Darx.
+ We have to abandon the city.
+ We can't take it anymore."
 #
-<name "ダークス">
-「くっ……」
+<name "Darx">
+"Urgh..."
 #
 <removesprite -1 11>
-　ここまでなのか……
+Is this it?
 #
 <music 9>
 <background "ev090a00.agf" 10>
@@ -470,680 +485,717 @@
 :287C
 <music 45>
 <background "ev038a00.agf" 10>
-<name "ダークス">
-「気付いたか」
+<name "Darx">
+"Awake yet?"
 #
-<name "スイセン" "!YA0168">
-「……良い趣味ね」
+<name "Suisen" "!YA0168">
+"...You have quite the taste."
 #
-　俺はスイセンを拘束具で縛り付けていた。
+I have her tied up in front of me.
 #
-　二本の棒の間にスイセンを立たせ、手足をその二
-　本の棒に括りつけている。
+Her arms and legs are strapped tight to two
+poles.
 #
-　少し、間の抜けた格好だ。
+It does look a little dumb, I'll admit.
 #
-<name "スイセン" "!YA0169">
-「こんな格好をさせるって事は……
-　何か聞きたい事でもあるの？」
+<name "Suisen" "!YA0169">
+"Making me look like this...
+ Is there something you want from me?"
 #
-<name "ダークス">
-「ああ」
+<name "Darx">
+"Yeah."
 #
-<name "ダークス">
-「色々と話をして貰おうと思ってな」
+<name "Darx">
+"I have a lot to speak with you about."
 #
-<name "スイセン" "!YA0170">
-「例えば？」
+<name "Suisen" "!YA0170">
+"For example?"
 #
-<name "ダークス">
-「そうだな……」
+<name "Darx">
+"Let's see..."
 #
-<name "ダークス">
-「誰に言われて、何をやっていた？」
+<name "Darx">
+"Who was telling you what to do?"
 #
-<name "スイセン" "!YA0171">
-「……私が自分で考えた事だけど」
+<name "Suisen" "!YA0171">
+"...I came up with all of it myself."
 #
-<name "ダークス">
-「それは無い」
+<name "Darx">
+"No you didn't."
 #
-<name "スイセン" "!YA0172">
-「……どうしてそう思うのかしら？」
+<name "Suisen" "!YA0172">
+"...What makes you think that?"
 #
-<name "ダークス">
-「俺を襲ったタイミングが悪いからだ」
+<name "Darx">
+"Because you attacked me at the wrong time."
 #
-<name "ダークス">
-「キュリハ、ミアルテが俺についたのに、俺を襲う
-　のはおかしい」
+<name "Darx">
+"Kyuriha and Miartei joined my side, and yet
+ you attacked me. 
+ That doesn't make sense."
 #
-<name "スイセン" "!YA0173">
-「キュリハが陵辱されたからとは考えないの？」
+<name "Suisen" "!YA0173">
+"Isn't it because you violated Kyuriha?"
 #
-<name "ダークス">
-「ミアルテを無視してか？」
+<name "Darx">
+"You're just ignoring Miartei?"
 #
-<name "ダークス">
-「俺はミアルテをここに連れ帰ってから抱いた」
+<name "Darx">
+"I had my way with her when I brought her
+ back."
 #
-<name "ダークス">
-「キュリハに配慮したのもあるが、あれはお前にも
-　配慮した」
+<name "Darx">
+"Partially out of consideration for Kyuriha,
+ but for you too."
 #
-<name "ダークス">
-「しかし、お前はノーリアクションだった」
+<name "Darx">
+"But you didn't care at all."
 #
-<name "ダークス">
-「なのに、キュリハが襲われたから？」
+<name "Darx">
+"And you're saying it's because of Kyuriha?"
 #
-<name "ダークス">
-「助けるチャンスはいくらでもあったろうし、それ
-　ならキュリハが戦っている時にいくらでも動けた
-　よな」
+<name "Darx">
+"You had plenty of changes to save her.
+ You could have done all kinds of things while
+ I was fighting her."
 #
-<name "ダークス">
-「つまり、お前は衝動的でなく、俺をあのタイミン
-　グで襲う理由があった」
+<name "Darx">
+"In short, you're not emotional, so you must
+ have had a specific reason to attack me then."
 #
-<name "ダークス">
-「それが知りたい」
+<name "Darx">
+"That's what I want to know."
 #
-<name "スイセン" "!YA0174">
-「気まぐれって事には出来ない？」
+<name "Suisen" "!YA0174">
+"Can't it be a whim?"
 #
-<name "ダークス">
-「……俺の推測では、お前の上に誰か居る。
-　そいつの命令だ」
+<name "Darx">
+"...I'm guessing there's someone above you.
+ You were following their orders."
 #
-<name "スイセン" "!YA0175">
-「………………」
+<name "Suisen" "!YA0175">
+"........."
 #
-<name "ダークス">
-「言え」
+<name "Darx">
+"Tell me."
 #
-<name "スイセン" "!YA0176">
-「断るわ」
+<name "Suisen" "!YA0176">
+"No."
 #
-<name "ダークス">
-「そうか」
+<name "Darx">
+"I see."
 #
 <background "ev038b00.agf" 10>
-　俺は乱暴に、スイセンの衣服を引っ張った。
+I violently pull at her clothing.
 #
-　前ははだけ、ブラや下着が見える。
+Her dress splits, exposing her underwear.
 #
 <background "ev038b01.agf" 10>
-<name "スイセン" "!YA0177">
-「高い服なんだから、乱暴に扱わないでよ」
+<name "Suisen" "!YA0177">
+"This dress is expensive.
+ Don't be so rough with it." 
 #
-<name "ダークス">
-「乱暴？
-　十分に優しいと思うがな」
+<name "Darx">
+"Rough?
+ I think that's still pretty gentle."
 #
-　それはそのまま、スイセンのブラを引き剥がす。
+I rip off her bra.
 #
 <background "ev038c00.agf" 10>
-<name "スイセン" "!YA0178">
-「うっ」
+<name "Suisen" "!YA0178">
+"Nngh."
 #
-<name "ダークス">
-「なかなかのサイズだな」
+<name "Darx">
+"Pretty big."
 #
-　俺はスイセンの胸を、あえて優しく揉む。
+I gently rub her breasts.
 #
-<name "スイセン" "!YA0179">
-「くっ……」
+<name "Suisen" "!YA0179">
+"Ngh..."
 #
-<name "ダークス">
-「命令を出したヤツの名前が言えないのなら、目的
-　を言え」
+<name "Darx">
+"If you won't tell me who gave you the order,
+ tell me what the goal was."
 #
-<name "スイセン" "!YA0180">
-「…………そんなの決まってるでしょ」
+<name "Suisen" "!YA0180">
+"...Isn't that obvious?"
 #
-<name "スイセン" "!YA0181">
-「天界と魔界が混じる場所なんか、許せないからよ」
+<name "Suisen" "!YA0181">
+"A place where angels and demons live side by
+ side is unacceptable."
 #
-<name "ダークス">
-「その主張はこれまで色々なヤツ……天界の連中や、
-　魔界の連中からも聞かされた。
-　そいつらの言葉は、それなりに迫力があったし、
-　覚悟もあった」
+<name "Darx">
+"I've heard that from a lot of people, both
+ from Celestia and the Netherworld.
+ Their words were forceful, and they were
+ prepared to follow through."
 #
-<name "ダークス">
-「それに比べると、お前の言葉は薄っぺらい」
+<name "Darx">
+"You, on the other hand, are unconvincing."
 #
-<name "ダークス">
-「魔界を嫌っているのは感じるが、それだけだ」
+<name "Darx">
+"I can tell you hate demons, but that's it."
 #
-<name "ダークス">
-「もう少し、マシな事を言え」
+<name "Darx">
+"Give me a better reason."
 #
-<name "ダークス">
-「それとも……」
+<name "Darx">
+"Or else..."
 #
-　俺はスイセンの胸をさらに揉む。
+I rub her breasts more.
 #
-<name "ダークス">
-「胸を揉まれた程度で動揺しているのか？」
+<name "Darx">
+"Does touching your chest upset you?"
 #
-<name "スイセン" "!YA0182">
-「ふん。
-　それぐらいで動揺などしないわよ」
+<name "Suisen" "!YA0182">
+"Hmph.
+ As if this was enough to bother me."
 #
-<name "ダークス">
-「そうか」
+<name "Darx">
+"I see."
 #
-　俺はスイセンの下着を剥ぐ。
+I rip off her underwear.
 #
 <background "ev038d00.agf" 10>
-<name "スイセン" "!YA0183">
-「ぁ」
+<name "Suisen" "!YA0183">
+"Ah..."
 #
-　スイセンは足を閉じようと力を入れるが、拘束具
-　が邪魔をする。
+She struggles to close her legs, but they're
+tied tight.
 #
-　無防備な股間が俺の前に晒されたままだ。
+Her unprotected crotch is exposed to me.
 #
-<name "スイセン" "!YA0184">
-「ぅ、ぅう……」
+<name "Suisen" "!YA0184">
+"..."
 #
-　これまで冷静な様子を見せていたスイセンだが、
-　さすがに恥ずかしいのだろう。
+She's been composed up to now, but her shame
+is self-evident.
 #
-　大きく動揺している。
+She's extremely upset.
 #
-<name "ダークス">
-「なかなか、可愛いじゃないか」
+<name "Darx">
+"Pretty cute, aren't you?"
 #
-<name "スイセン" "!YA0185">
-「うう……」
+<name "Suisen" "!YA0185">
+"..."
 #
-<name "ダークス">
-「罵倒されると思ったが……やめたか？
-　良い判断だな」
+<name "Darx">
+"You just almost taunted me, but stopped
+ yourself.
+ Good decision."
 #
-<name "ダークス">
-「それとも、罵倒の言葉も思いつかないほど動揺し
-　ているのか？
-　身体がかなり硬くなっているぞ」
+<name "Darx">
+"Or are you so upset that you can't even think
+ of any insults?
+ You're extremely tense."
 #
-<name "スイセン" "!YA0186">
-「ぬぁ……ぁ、こ、殺すっ！」
+<name "Suisen" "!YA0186">
+"Nngh...
+ I-I'll kill you!"
 #
-<name "ダークス">
-「いいぞ。
-　そうだ。
-　本音でぶつかり合おうか」
+<name "Darx">
+"Good.
+ That's the spirit.
+ Let's get it all out in the open."
 #
-　俺の手がスイセンの陰部を鷲掴む。
+I grab her entrance in my hand.
 #
 <background "ev038d01.agf" 10>
-<name "スイセン" "!YA0187">
-「ひっ」
+<name "Suisen" "!YA0187">
+"Ah!"
 #
-<name "ダークス">
-「俺も娘を誘拐されかけたんだ。
-　お前を捕らえるまで、どんな目に合わせてやろう
-　か色々と考えた」
+<name "Darx">
+"You nearly kidnapped my daughter too.
+ I've thought a lot about what I would do to
+ you when I caught you."
 #
-<name "ダークス">
-「素直に色々と喋られたら手加減してやらないとい
-　けないのかと心配したが……」
+<name "Darx">
+"I was worried that maybe if you just
+ surrendered and told me everything, I might
+ have to go easy on you."
 #
-<name "ダークス">
-「余計な心配だったな」
+<name "Darx">
+"But there was no need that."
 #
-<name "ダークス">
-「どれだけ耐えるか楽しみだ」
+<name "Darx">
+"I can't wait to see how much you can take."
 #
-　俺はスイセンの陰部を指で刺激しながら、その胸
-　に吸い付く。
+I suck on her breasts while toying with her
+pussy.
 #
-<name "スイセン" "!YA0188">
-「ふぁ、うっ、うううっ」
+<name "Suisen" "!YA0188">
+"Aah...nnh...nnnngh..."
 #
-<name "ダークス">
-「俺が聞きたいのは、お前の上は誰だって事と目的
-　の二つだ」
+<name "Darx">
+"I'm asking you two questions.
+ Who gave you your orders?
+ And what are you after?"
 #
-<name "ダークス">
-「お前相手に、俺は遠慮はせん。
-　あらゆる手段を使う」
+<name "Darx">
+"I'm not going to hold back with you.
+ I'll do whatever it takes."
 #
-<name "ダークス">
-「限界を越える前に喋ってくれ」
+<name "Darx">
+"Talk before I break you."
 #
-<name "スイセン" "!YA0189">
-「だ、誰がうあっ！」
+<name "Suisen" "!YA0189">
+"L-Like hell!"
 #
-　俺はスイセンの胸を強く噛んだ。
+I bite her nipple.
 #
-<name "ダークス">
-「ああ……
-　だが、すぐ喋られても面白くないからな。
-　粘れよ」
+<name "Darx">
+"Oh, but it's no fun if you talk right away.
+ Hold out a little."
 #
 <music 53>
 <background "ev039a00.agf" 10>
-<name "スイセン" "!YA0190">
-「ぅぁ……」
+<name "Suisen" "!YA0190">
+"Nnh..."
 #
-　俺はスイセンの陰部にモノを押し付けた。
+I press my dick against her entrance.
 #
-<name "スイセン" "!YA0191">
-「ううっ」
+<name "Suisen" "!YA0191">
+"Nnngh..."
 #
-　俺のモノ先は陰部を押し広げ、さらに膣口を抉じ
-　開ける。
+The tip of my dick pushes her lips open and
+spreads her entrance.
 #
-　スイセンの高さは、俺のモノが完全に挿入された
-　状態で丁度になるようにしているので、挿入する
-　には俺は少し腰を落とさなければならない。
+Because of how high up she's strung, I have to
+lower my hips a little bit to get completely
+inside her.
 #
-　少し間抜けな格好だ。
+This is a little silly.
 #
-<name "ダークス">
-「身体が硬くなっているぞ。
-　緊張しているのか？」
+<name "Darx">
+"You're tense.
+ Are you nervous?"
 #
-<name "スイセン" "!YA0192">
-「っ！！！」
+<name "Suisen" "!YA0192">
+"Ngh!"
 #
-　俺はスイセンが何か言おうとした瞬間に、俺は脚
-　を伸ばしてモノを突き入れた。
+The moment she's about to say something, I 
+shove my dick entirely inside her.
 #
 <background "ev039a01.agf" 10>
-<name "スイセン" "!YA0193">
-「ぁっ、かっ、ふぁ！！！」
+<name "Suisen" "!YA0193">
+"Ah! Agh! Ahh!"
 #
-　俺のモノ先はスイセンの膣内に深々と潜り込み、
-　膣奥の壁を突き上げていた。
+My dick drives deep into her pussy, all the
+way up against the back wall.
 #
-　途中にあった処女膜は、当然ながら破れている。
+I tear through her hymen on the way, of course.
 #
-　その証拠に、モノを少し引けば破瓜の血が流れ出
-　てくる。
+A little bit of blood drips out of her, proving
+that.
 #
 <background "ev039a02.agf" 10>
-<name "スイセン" "!YA0194">
-「ぅぁ……」
+<name "Suisen" "!YA0194">
+"Aah..."
 #
-　まあ、とりあえずは一回。
+Well, this is just the first.
 #
-　スッキリさせて貰おう。
+I already feel a little better.
 #
-　俺はスイセンの尻を揉みながら、腰を動かす。
+I move my hips while rubbing her ass.
 #
-<name "スイセン" "!YA0195">
-「ひぁ、あっ、ううううっ」
+<name "Suisen" "!YA0195">
+"Ah! Aah! Aaahhh!"
 #
-　行為はワザと乱暴に行う。
+Violently, on purpose.
 #
-　恥辱と苦痛を与える為だ。
+To shame and hurt her.
 #
-　優しくするのはある程度、慣れてからだ。
+I can actually enjoy myself after she gets
+used to it.
 #
-<name "スイセン" "!YA0196">
-「うぁ、くっ、ふひっ」
+<name "Suisen" "!YA0196">
+"Ah! Ngh! Ah!"
 #
-　まずは自分の体内に異性が侵入し、自分の意思と
-　は関係無く暴れる恐怖、屈辱、不快感を味わって
-　貰おう。
+I want her to feel the fear, humiliation, and
+pain of having a man forcibly fuck her against
+her will.
 #
-<name "スイセン" "!YA0197">
-「うう、くっ、あひっ、こ、殺す！
-　絶対に！」
+<name "Suisen" "!YA0197">
+"Nngh! Ah! Ahh! 
+ I-I'll kill you!
+ I swear I'll kill you!"
 #
-　俺はそうかと、軽く流して行為を続ける。
+I ignore her and continue.
 #
-　しばらくの間は、スイセンの意思は無視だ。
+For now, I'm going to ignore whatever she says.
 #
-　どうせ、俺に対する罵倒か、偽情報しか言わない。
+It's only going to be abuse or lies.
 #
-　俺は確信している。
+I'm sure of it.
 #
-　天界の連中が、これしきで心が折れたりはしない
-　と。
+No angel has been given in from just this much.
 #
-　まだ、一度の射精も受けていないのに、モノを突
-　き入れられただけで喋る筈がない。
+I haven't even come once yet.
+There's no way she would talk just from 
+sticking it in her.
 #
-　それで喋るなら、もっと前の段階で何かしら言っ
-　ている。
+And if she was willing to talk, she would've
+done so before this.
 #
-<name "スイセン" "!YA0198">
-「うぁ、ひっ、き、聞きなさい、あひっ」
+<name "Suisen" "!YA0198">
+"Ah! Aah!
+ I-I'll talk!
+ Aah!"
 #
-　お断りだ。
+Not interested.
 #
-　俺はさらに腰の動きを速め、スイセンの膣内で自
-　分のモノを擦り上げ続けた。
+I keep moving faster, scraping my dick through
+her pussy.
 #
-<name "スイセン" "!YA0199">
-「くっ、うひっ、ぁ、うぁっ……」
+<name "Suisen" "!YA0199">
+"Ngh! Aah! Ah! Aah..."
 #
-　モノ先がスイセンの膣奥の壁を突き上げる。
+I push the tip up against the back wall inside
+her.
 #
-<name "スイセン" "!YA0200">
-「あうっ、ううっ、くうっ！」
+<name "Suisen" "!YA0200">
+"Aah! Ahhh! Aah!"
 #
-　初めて異性を迎え入れたスイセンの膣内は狭くて
-　キツい。
+Her pussy is narrow and tight from accepting
+a man for the first time.
 #
-　もう少し丁寧に扱ってやれば、具合も良くなるの
-　だろうが、俺にその気はない。
+I'm sure it would feel better if I was being a
+little more considerate, but I'm not interested
+in that.
 #
-<name "スイセン" "!YA0201">
-「んうっ、うひっ、ぁっ、あっ、くあっ」
+<name "Suisen" "!YA0201">
+"Nnngh! Aah! Ah! Ah! Aagh!"
 #
-　俺はモノを動かし続け、一回目の射精を迎える。
+I keep moving in order to come.
 #
-<name "スイセン" "!YA0202">
-「ぁ……」
+<name "Suisen" "!YA0202">
+"Ah..."
 #
-　俺のモノの動きが止まった事にスイセンは驚き、
-　そして次に行われる事に恐怖した。
+She's surprised when I suddenly stop, and
+terrified of what will come next.
 #
-<name "スイセン" "!YA0203">
-「い、いやっ」
+<name "Suisen" "!YA0203">
+"N-No!"
 #
-　否定の言葉。
+She cries out.
 #
-　それを無視して、俺のモノ先から大量の精液が飛
-　び出し、スイセンの膣奥、そして子宮に流し込ま
-　れた。
+I ignore her and flood her pussy and womb with
+my semen.
 #
 <background "ev039a03.agf" 10>
-<name "スイセン" "!YA0204">
-「ぁ、うぁ、あっ、ぁっ、うああああああああっ！」
+<name "Suisen" "!YA0204">
+"Ah! Aah! Ah! Aah! 
+ Aaaaaaaaaahhhhhhh!!!!!"
 #
-　俺のモノがビクビクと動き、射精されている事に
-　スイセンは怒り狂った。
+My dick throbs and twitches as she struggles,
+taking my ejaculation.
 #
-　何度も俺を罵倒し、叫びを上げた。
+She curses and screams at me.
 #
-<name "スイセン" "!YA0205">
-「殺す、絶対に殺してやる！」
+<name "Suisen" "!YA0205">
+"I'll kill you!
+ I swear I'll kill you!"
 #
-　油断すれば、その口で噛み千切られそうだ。
+If I'm not careful, she may genuinely bite me.
 #
-　だが、俺は気にしない。
+But I don't care.
 #
-<name "ダークス">
-「黙ってろ」
+<name "Darx">
+"Shut up."
 #
-　射精を終えた俺は、次の射精に向けてまた腰を動
-　かす。
+I finish coming and start moving to come again.
 #
 <background "ev039a04.agf" 10>
-<name "スイセン" "!YA0206">
-「ぁ、うぁ、ぁ」
+<name "Suisen" "!YA0206">
+"Ah...aah...ah..."
 #
-　流し込んだ精液で、先ほどよりスムーズに動く事
-　に満足しながら、俺は延々とスイセンの肉体を貪
-　り続ける。
+I can move much smoother thanks to my semen
+inside her.
+Satisfied by that, I continue indulging in her
+body.
 #
-<name "スイセン" "!YA0207">
-「うひ、ひっ、ひぁ、ひぁ、うぁ、くぁぁっ」
+<name "Suisen" "!YA0207">
+"Aah! Ah! Aah! Ah! Aah! Aagh!"
 #
-　スイセンの肉体は、女としてみれば十分だ。
+Her body is more than woman enough.
 #
-　違う出会いがあればと考えてしまう。
+I do wish this was different.
 #
-　まあ、考えても仕方が無い事だ。
+Well, there's no point worrying about it.
 #
-　こいつは、俺の敵だ。
+She's my enemy.
 #
-　そして、コゼロットにまで手を出した。
+And she went after Kozelotte.
 #
-　許さない。
+She can't get away with that.
 #
 <background "ev039a05.agf" 10>
-<name "スイセン" "!YA0208">
-「ううぁっ！」
+<name "Suisen" "!YA0208">
+"Aaah!"
 #
-　俺は二回目の射精を行う。
+I come inside her again.
 #
-　それが終われば、またすぐに次だ。
+As soon as I finish, I move on to the next
+time.
 #
-<name "スイセン" "!YA0209">
-「ぁ、うぁ、ぁ……」
+<name "Suisen" "!YA0209">
+"Ah...ah...ah..."
 #
-<name "ダークス">
-「甘い声が混じってきたな」
+<name "Darx">
+"You're starting to moan."
 #
-<name "スイセン" "!YA0210">
-「ぁ、うぁ、だ、誰が……」
+<name "Suisen" "!YA0210">
+"Ah...ah...
+ Like hell..."
 #
-<name "ダークス">
-「抵抗しても無駄だ。
-　お前は少しづつ変わっていく、いや変えてやる」
+<name "Darx">
+"Don't resist it.
+ You'll change, little by little.
+ No, I'll change you."
 #
-<name "ダークス">
-「俺のモノを突き入れられ、喜ぶ女に」
+<name "Darx">
+"Into a woman who wants my dick thrust into
+ her."
 #
-<name "ダークス">
-「そして、泣きながら俺の質問に答える事になる」
+<name "Darx">
+"And then, when you're in tears, you'll answer
+ my questions."
 #
-<name "スイセン" "!YA0211">
-「く……」
+<name "Suisen" "!YA0211">
+"Ngh..."
 #
-　俺は笑いながら、行為を続けた。
+I laugh and continue.
 #
 <background "bg017a0.agf" 10>
 <music 54>
 <background "ev040a00.agf" 10>
-<name "スイセン" "!YA0212">
-「ぅぅ……」
+<name "Suisen" "!YA0212">
+"Nnngh..."
 #
-　スイセンを捕らえてから、十日ほど経っただろう
-　か。
+It's been about ten days since we captured her.
 #
-　俺は休みを挟みながらも、行為を続けた。
+I took the occasional break, but have fucked
+her the entire time.
 #
-　スイセンの体力は何度か限界を迎えたが、暴れら
-　れない程度に回復魔法を使ってやる。
+Her strength gave out a few times, but healing
+magic has kept her conscious without being
+strong enough to fight back.
 #
-　殺す気はまだない。
+I don't want her to die yet.
 #
-　聞きたい事もある。
+We also have questions for her.
 #
-　俺が休むのは、仕事があるからだ。
+I also take breaks because there's work to do.
 #
-　その間、分身体に任せても良いのだが、行為に慣
-　れ過ぎても困る。
+While I'm gone, I let my other body play with
+her, but I don't want her getting too used to
+it.
 #
-　休憩中は、メイド達がスイセンの身体を洗い、部
-　屋を掃除する。
+On my breaks, the maids clean her and the room
+up.
 #
-　そして再開によってまた汚される。
+It'll be a mess again after I come back.
 #
-　この繰り返しで、かなり追い詰めているのだが、
-　スイセンは口を割らなかった。
+Doing this over and over again has worn her
+down, but she hasn't broken yet.
 #
-<name "スイセン" "!YA0213">
-「んんんっ……」
+<name "Suisen" "!YA0213">
+"Nnngh..."
 #
-　俺は何度目かの射精を開始し、スイセンに受け止
-　めさせる。
+I come inside her yet again, and she takes it
+all.
 #
 <background "ev040a01.agf" 10>
-<name "スイセン" "!YA0214">
-「ぅぅ……」
+<name "Suisen" "!YA0214">
+"..."
 #
-　スイセンの肉体のほとんどに、精液が掛かった。
+Most of her body is covered in semen.
 #
-　後ろの穴も、口も、脇や胸、徹底して甚振った。
+Her ass, her mouth, and her breasts have all
+been thoroughly violated.
 #
-　だが、スイセンは耐える。
+But still, she endures it.
 #
-<name "ダークス">
-「なかなかしぶといな」
+<name "Darx">
+"You're very tenacious."
 #
-　思わず感嘆の声が漏れてしまう。
+I can't help but be impressed.
 #
-<name "スイセン" "!YA0215">
-「ふん……色々やるとか……言って、この程度？」
+<name "Suisen" "!YA0215">
+"Hmph...
+ After all you did...
+ That's all you have to say?"
 #
-<name "ダークス">
-「そう思えるなら、キュリハとミアルテに感謝しろ」
+<name "Darx">
+"If that's how you feel, be grateful to
+ Kyuriha and Miartei."
 #
-　二人には、休憩している時にかなり懇願された。
+They both begged for mercy for her while I was
+taking a break.
 #
-<name "スイセン" "!YA0216">
-「……余計な……お世話よ」
+<name "Suisen" "!YA0216">
+"I don't need... your concern..."
 #
-<name "ダークス">
-「そうか。
-　では、あの二人には悪いが……解禁するか」
+<name "Darx">
+"I see.
+ Well, I feel bad for them, but maybe it's 
+ time to break the rules."
 #
-<name "ダークス">
-「お前ら天界の連中がもっとも嫌う事を」
+<name "Darx">
+"I know what you angels hate more than
+ anything."
 #
-　複数の異性との交わり。
+Sex with multiple people.
 #
-<name "スイセン" "!YA0217">
-「くっ」
+<name "Suisen" "!YA0217">
+"Urgh."
 #
-　天界の住人は血統を重んじる。
+Angels value bloodlines above all.
 #
-　それゆえ、多数の男と交わる者は皆無に近い。
+Virtually none of them would dare think of
+being with more than one man.
 #
-　天界の住人で、俺の部下に素直になっている者の
-　半数ぐらいは、これが理由だ。
+That's the sole reason why about half of the
+ones who joined my side are actually loyal to
+me.
 #
-　理由はどうであれ、俺に抱かれたから俺の傍で暮
-　らす。
+The only reason that matters is that they had
+sex with me, therefore they will stay by my
+side.
 #
-　激しい抵抗を続けた者でも、他の男の存在を匂わ
-　すだけで降伏した。
+Even the ones who fought back the hardest
+gave in with just the hint of being given to
+another man.
 #
-<name "ダークス">
-「もっと早くやるつもりだったんだが、お前が壊れ
-　る可能性があったからな」
+<name "Darx">
+"I would have done it sooner, but I was worried
+ that it might break you."
 #
-<name "ダークス">
-「本来は……俺は抱いた女を他の男には渡さないの
-　が信条だが、お前はコゼロットに手を出そうとし
-　たからな」
+<name "Darx">
+"Normally, I hate to give the women I fuck to
+ other men, but you tried to hurt Kozelotte."
 #
-<name "ダークス">
-「例外扱いする事に抵抗が無い」
+<name "Darx">
+"I have no problem making an exception."
 #
-<name "ダークス">
-「最初は五人を相手に三日ほど……
-　いや、ベトやナメッドと絡む方が好みか？」
+<name "Darx">
+"I think we'll start with five men for three
+ days...
+ Or maybe you'd prefer to be thrown to the
+ slimes and slugs instead?"
 #
-<name "スイセン" "!YA0218">
-「……殺してやる」
+<name "Suisen" "!YA0218">
+"...I'll kill you."
 #
-<name "ダークス">
-「そうだ。
-　そのまま、俺を憎しみ続けろ」
+<name "Darx">
+"That's it.
+ Hate me with all your heart."
 #
-　俺はまた、スイセンの膣内でモノを前後させた。
+I shove my dick back into her pussy.
 #
-　俺はスイセンを挑発する。
+I'm trying to provoke her.
 #
-　自分の気を晴らす為だけではない。
+It's not just about revenge.
 #
-　情報を吸い取る為だ。
+I need information.
 #
-　口からでなく、スイセンの魔力から。
+Not from her mouth.
+From her mana.
 #
-　俺の行為は、相手から魔力を奪える。
+I can take mana from her by fucking her.
 #
-　奪った魔力から、相手の経験を読み取る。
+And it's possible to read the mana that's been
+taken.
 #
-　これまではやった事は無いが、ラキアさんにそれ
-　が出来ると言われた事がある。
+I've never done it before, but Rakia says that
+it's possible.
 #
-　少しでも読み取り易くする為に、相手を怒らせる。
+But I need to make her mad to make it easier
+to read.
 #
-　執拗に聞く事で、意識させる。
+I need to focus and comprehend it.
 #
-　これでも無理なら、本気で他の男を使う。
+If it doesn't work, I will actually hand her
+over to other men.
 #
-　今はまだ脅しだが……スイセンを放置できない。
+That's still just a threat right now, but I
+can't leave her like this.
 #
-　俺の心が危険だと騒いでいる。
+My instincts are yelling that we're in danger.
 #
-　ギュンギュスカー商会やフォーゼロッテ宮の者達
-　に各地を調べさせているが、期待する報告はまだ
-　聞けていない。
+People from Gunguskar and Forzelotte's Shrine
+are searching all over, but we haven't gotten
+reports of anything yet.
 #
-　だが、スイセンは何かを隠している。
+Suisen has to still be hiding something.
 #
-　それがスイセンが耐える理由。
+That's why she's still holding on.
 #
-　つまり、俺達を破滅させる何かがあると言う事だ
-　ろう。
+There's still something out there that could
+destroy us.
 #
-<name "スイセン" "!YA0219">
-「うぁっ！」
+<name "Suisen" "!YA0219">
+"Aah!"
 #
-　俺はスイセンの膣内に射精を開始した。
+I start coming in her again.
 #
 <background "ev040a02.agf" 10>
-<name "スイセン" "!YA0220">
-「く……」
+<name "Suisen" "!YA0220">
+"Ngh..."
 #
-　心は耐えていても、肉体は俺の射精に喜ぶように
-　ビクビクと反応している。
+Even if her mind is fighting it, her body
+twitches in pleasure with my ejaculation.
 #
-　っと、俺は目的を思い出し、スイセンの魔力を読
-　み取ろうとする。
+Oops. I remember what I'm doing and try to
+read her mana.
 #
-　……
+...
 #
-　……駄目だ。
+...It's no good.
 #
-　上手く行かない。
+It's not working.
 #
-　そう簡単なものではないか。
+I guess it's not so easy.
 #
-　そう思った瞬間、部屋が大きく揺れた。
+All of a sudden, the room shakes.
 #
-<name "ダークス">
-「？」
+<name "Darx">
+"Huh?"
 #
-<name "商会メイド" "!AC0072">
-「魔王様！
-　フォーゼロッテ宮で異常事態です！」
+<name "Company Maid" "!AC0072">
+"Overlord!
+ Something's wrong at Forzelotte's Shrine!"
 #
-<name "ダークス">
-「なに！」
+<name "Darx">
+"What!?"
 #
-　俺は驚いた瞬間、スイセンの魔力から歓喜を感じ
-　た。
+Just then, I feel elation from Suisen's mana.
 #
-　スイセンはこれを待っていた。
+This is what she's been waiting for.
 #
 <background "ev040b00.agf" 10>
-<name "スイセン" "!YA0221">
-「……絶望しなさい」
+<name "Suisen" "!YA0221">
+"...There's no hope for you."
 #
 \x0A\x44\x02\x17\x84\x01
 <exit>
 :5AC7
 <music 9>
 \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "フォーゼロッテ" "!XA0015" "ka10a016.agf">
-「すまん……」
+<name "Forzelotte" "!XA0015" "ka10a016.agf">
+"I'm sorry..."
 #
-<name "フォーゼロッテ" "!XA0016" "ka10a021.agf">
-「もう持ちそうにない……」
+<name "Forzelotte" "!XA0016" "ka10a021.agf">
+"I can't take any more..."
 #
-　小さな身体のフォーゼロッテは消滅し、その身体
-　にあったフォーゼロッテの意識は消えた。
+Forzelotte's body disappears, and the mind
+within it disappears as well.
 #
 <music 41>
 <background "bg003a0.agf" 10>
 <sprite "ta11a011.agf" 4 4 11>
-<name "コゼロット" "!NA0031">
-「お母様っ！」
+<name "Kozelotte" "!NA0031">
+"Mom!"
 #
 <removesprite -1 11>
 \x2B
@@ -1158,158 +1210,161 @@
 :5D08
 <music 9>
 <background "ev076a00.agf" 10>
-<name "トージョ" "!KA0019">
-「ちい。
-　疲れた様子ぐらい見せろってんだ」
+<name "Tojo" "!KA0019">
+"Tch.
+ We getting worn to the bone."
 #
-<name "ゴラン" "!CA0014">
-「まったくだ」
+<name "Golan" "!CA0014">
+"Seriously."
 #
-<name "ベテラン兵" "!BC0015">
-「トージョ様。
-　ゴラン様。
-　交代を」
+<name "Veteran Soldier" "!BC0015">
+"Tojo, Golan.
+ We're your relief."
 #
-<name "トージョ" "!KA0020">
-「しかしだな」
+<name "Tojo" "!KA0020">
+"But..."
 #
-<name "ベテラン兵" "!BC0016">
-「なんとか俺達で支えますから、休んでください」
+<name "Veteran Soldier" "!BC0016">
+"We'll figure out how to take care of things.
+ Get some rest."
 #
-<name "トージョ" "!KA0021">
-「仕方が無い」
+<name "Tojo" "!KA0021">
+"If you insist."
 #
-<name "ゴラン" "!CA0015">
-「頼んだぞ」
+<name "Golan" "!CA0015">
+"Thanks."
 #
-<name "ベテラン兵" "!BC0017">
-「はい」
+<name "Veteran Soldier" "!BC0017">
+"Yes, sir."
 #
 <exit>
 :5EF7
 <music 9>
 <background "ev076a00.agf" 10>
-<name "トージョ" "!KA0022">
-「他の所はどうなっている？」
+<name "Tojo" "!KA0022">
+"How are things going elsewhere?"
 #
-<name "ベテラン兵" "!BC0018">
-「パニバーナ様、エカテー様が各地で奮戦中ですが、
-　芳しくはありません」
+<name "Veteran Soldier" "!BC0018">
+"Panivana and Ekate are fighting hard, but it's
+ not going well."
 #
-<name "ベテラン兵" "!BC0019">
-「ウルティニア様も孤立状態で、こちらには戻って
-　これそうにもないらしいです」
+<name "Veteran Soldier" "!BC0019">
+"Ultinia is trapped on her own, and I don't
+ think she'll be able to make it back here."
 #
-<name "ベテラン兵" "!BC0020">
-「街の方は、学園に居るロギウス様、イザナ様が出
-　てなんとかって感じですが、迷宮と違って守り難
-　いですから……」
+<name "Veteran Soldier" "!BC0020">
+"As for the city, Logius and Izana are at the
+ school, but it's much harder to defend there
+ than it is a dungeon."
 #
-<name "トージョ" "!KA0023">
-「頼みは、やっぱり魔王様か」
+<name "Tojo" "!KA0023">
+"So it's up to the Overlord?"
 #
-<name "ゴラン" "!CA0016">
-「だな」
+<name "Golan" "!CA0016">
+"Yeah."
 #
-<name "トージョ" "!KA0024">
-「ま、なんとかするだろ」
+<name "Tojo" "!KA0024">
+"Well, he'll manage, right?"
 #
-<name "ゴラン" "!CA0017">
-「いつも通りな」
+<name "Golan" "!CA0017">
+"He always does."
 #
-<name "トージョ" "!KA0025">
-「それを信用して、俺達は耐えるだけだ」
+<name "Tojo" "!KA0025">
+"We have to hang in there and have faith in
+ him."
 #
-<name "ゴラン" "!CA0018">
-「おう」
+<name "Golan" "!CA0018">
+"Yeah."
 #
 <exit>
 :6203
 <music 9>
 <background "ev077a00.agf" 10>
-<name "守る街の住民" "!ZD0004">
-「なんとかなっているか？」
+<name "Defending Citizen" "!ZD0004">
+"Are you hanging in there?"
 #
-<name "疲れた街の住民" "!UA0006">
-「ああ。
-　ミアルテ様の作ってくれた装置でな」
+<name "Tired Citizen" "!UA0006">
+"Yeah, thanks to that thing that Miartei
+ made."
 #
-<name "心配する街の住民" "!ZE0012">
-「しかし、耐久度が悪い。
-　すでに四つ、潰れている」
+<name "Worried Citizen" "!ZE0012">
+"But they don't last long.
+ Four of them have already broken down."
 #
-<name "守る街の住民" "!ZD0005">
-「後ろで増産を急いでいる。
-　頑張ってくれ」
+<name "Defending Citizen" "!ZD0005">
+"We need to make new ones faster.
+ Keep up the hard work."
 #
-<name "頷く街の住民" "!JA0018">
-「おうよ」
+<name "Agreeing Citizen" "!JA0018">
+"Yeah."
 #
 <exit>
 :639C
 <music 9>
 <background "ev077a00.agf" 10>
-<name "不安な街の住民" "!JA0019">
-「そろそろ、ヤバイな」
+<name "Uneasy Citizen" "!JA0019">
+"We can't last much longer."
 #
-<name "冷静な街の住民" "!ZF0001">
-「ああ、色んな所で限界だ」
+<name "Calm Citizen" "!ZF0001">
+"Yeah, everywhere's stretched to their limit."
 #
-<name "悔しがる街の住民" "!ZG0001">
-「くそ……」
+<name "Frustrated Citizen" "!ZG0001">
+"Damn it..."
 #
-<name "鼓舞する街の住民" "!ZH0003">
-「諦めるな。
-　魔王様がなんとかしてくれる。
-　そうだろ」
+<name "Inspiring Citizen" "!ZH0003">
+"Don't give up.
+ The Overlord will find a way.
+ Right?"
 #
-<name "同意する街の住民" "!MB0005">
-「あ、ああ。
-　その通りだ」
+<name "Agreeing Citizen" "!MB0005">
+"Y-Yeah.
+ That's right."
 #
-<name "鼓舞する街の住民" "!ZH0004">
-「やるぞ」
+<name "Inspiring Citizen" "!ZH0004">
+"We can do it."
 #
-<name "頑張る街の住民" "!CB0004">
-「おおっ！」
+<name "Persevering Citizen" "!CB0004">
+"Yeah!"
 #
 <exit>
 :6583
 <music 9>
 <background "ev077a00.agf" 10>
-<name "恐怖する街の住民" "!ZH0005">
-「や、やばい」
+<name "Terrified Citizen" "!ZH0005">
+"T-This is bad."
 #
-<name "怯える街の住民" "!MB0006">
-「もう駄目だ……」
+<name "Scared Citizen" "!MB0006">
+"It's all over..."
 #
-<name "指揮する街の住民" "!CB0005">
-「に、逃げろ、逃げるんだ！」
+<name "Commander Citizen" "!CB0005">
+"R-Run! Run away!"
 #
-<name "悔しがる街の住民" "!KB0045">
-「くそっ」
+<name "Frustrated Citizen" "!KB0045">
+"Damn it!"
 #
-<name "襲われる街の住民" "!BC0021">
-「うわぁぁぁぁっ」
+<name "Attacked Citizen" "!BC0021">
+"Aaaaahhhh!"
 #
-　い、急がなければ……
+I-I've got to hurry.
 #
 <exit>
 :66E5
 <music 15>
 <background "ev076a00.agf" 10>
-<name "マクドゥ" "!ZA5002">
-「この状況……」
+<name "Macdo" "!ZA5002">
+"This situation..."
 #
-<name "マクドゥ" "!ZA5003">
-「大魔王様は、この為に私をここに……」
+<name "Macdo" "!ZA5003">
+"This is why the Great Overlord sent me
+ here..."
 #
-<name "マクドゥ" "!ZA5004">
-「考えている場合……ではないか」
+<name "Macdo" "!ZA5004">
+"When you think about it... doesn't that have
+ to be it?"
 #
-<name "マクドゥ" "!ZA5005">
-「押し返せ！
-　これ以上、進ませるな！」
+<name "Macdo" "!ZA5005">
+"Push them back!
+ Don't give them a single inch!"
 #
 <exit>
 \x78

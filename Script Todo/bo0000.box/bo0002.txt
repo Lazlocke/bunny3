@@ -261,7 +261,7 @@
  as me, who were they?"
 #
 <name "Darx">
-"Goran, who works at Forzelotte's Shrine, and
+"Golan, who works at Forzelotte's Shrine, and
  Tatsumaki, who I knew when I was an 
  adventurer."
 #
