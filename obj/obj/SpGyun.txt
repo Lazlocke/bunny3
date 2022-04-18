@@ -1,48 +1,48 @@
 //entry 0 -----------------------
 Egress
-Return to the last Door used.
-Don't be overconfident, but there are some places you won't be able to use this.
+Return to the last Door used. Be cautious, there|are some places you won't be able to use this.
+
 //entry 1 -----------------------
 Recovery
-Fully restore the party's HP.
-Restores health, but not spirit.
+Fully restore the party's HP. |Restores health, but not spirit.
+
 //entry 2 -----------------------
 Rejuvenation
-Fully restore the party's SP.
-Restores the mind, but not the body.
+Fully restore the party's SP. |Restores the mind, but not the body.
+
 //entry 3 -----------------------
 Panacea
-Removes all negative status afflictions.
-But patience is also a cure.
+Removes all negative status afflictions. |But patience is also a cure.
+
 //entry 4 -----------------------
 Repel
-Avoid all encounters for a brief time.
-Not guaranteed against truly dangerous foes.
+Avoid all encounters for a brief time. |Not guaranteed against truly dangerous foes.
+
 //entry 5 -----------------------
 Soft Soles
-Avoid all traps for a brief time.
-Lasts about fifty steps.
+Avoid all traps for a brief time. |Lasts about fifty steps.
+
 //entry 6 -----------------------
 Sharpening
-Party Atk +10 for one battle.
-Strike fast, strike hard. At least temporarily.
+Party Atk +10 for one battle. |Strike fast, strike hard. At least temporarily.
+
 //entry 7 -----------------------
 Girding
-Party Def +10 for one battle.
-The best defense is a strong defense.
+Party Def +10 for one battle. |The best defense is a strong defense.
+
 //entry 8 -----------------------
 Blur
-Party Evd +20 for one battle.
-You can't hit what you can't catch.
+Party Evd +20 for one battle. |You can't hit what you can't catch.
+
 //entry 9 -----------------------
 Acceleration
-Party Spd +10 for one battle.
-The early bird slays the wyrm.
+Party Spd +10 for one battle. |The early bird slays the wyrm.
+
 //entry 10 -----------------------
 Captive Audience
-Increase the number of residents gained from battle for a brief period.
-Dazzle them with your might.
+Gain more residents from battle for a brief time.|Dazzle them with your might.
+
 //entry 11 -----------------------
 Pillage
-Increase the resources, money, and food obtained from battle for a brief period.
-Pillage, then burn.
+Gain more resources, money, and food from battle|for a brief time. Pillage, then burn.
+
