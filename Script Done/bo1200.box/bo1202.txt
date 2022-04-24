@@ -929,7 +929,7 @@ I had sex with a bunch of angolamay women.
 <removesprite -1 11>
 <sprite "ta17a000.agf" 4 4 11>
 <name "Tamaga" "!PB0019">
-"Someone with good judgement."
+"Someone with good judgment."
 #
 <removesprite -1 11>
 <sprite "ta16a015.agf" 4 4 11>
@@ -1059,7 +1059,7 @@ I had sex with a bunch of angolamay women.
 <name "Farren" "!FB0038">
 "The more naive groups will go on the 
  offensive, and because of the promise that
- we're all on the same side, can enter other
+ we're all on the same side we can enter other
  groups' territory."
 #
 <sprite "ta16a000.agf" 4 4 12>
