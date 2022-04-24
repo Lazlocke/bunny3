@@ -5,8 +5,8 @@
 斬撃
 敵
 *
-敵一体に斬撃属性の攻撃。
-斬撃系攻撃の基礎。
+Target: Single Enemy |Damage: Slashing
+The most basic kind of attack with a blade.
 //entry 1 -----------------------
 狙い斬り
 狙い斬り
@@ -14,8 +14,8 @@
 斬撃
 敵
 *
-敵一体に斬撃属性の攻撃。|高い命中率を誇る。
-斬撃系攻撃の基礎。
+Target: Single Enemy |Damage: Slashing|High accuracy
+When you absolutely must hit.
 //entry 2 -----------------------
 乱舞斬
 乱舞斬
@@ -23,8 +23,8 @@
 斬撃
 敵３
 *
-複数の敵に、斬撃属性の攻撃。
-一～三体に攻撃。
+Target: Multiple Enemies|Damage: Slashing
+Can strike one to three opponents.
 //entry 3 -----------------------
 乱舞斬改
 乱舞斬改
@@ -32,8 +32,8 @@
 斬撃
 敵５
 *
-複数の敵に、斬撃属性の攻撃。
-三～五体に攻撃。
+Target: Multiple Enemies|Damage: Slashing
+Be the blender you want to see.
 //entry 4 -----------------------
 秘剣・鶯
 秘剣・鶯
@@ -41,8 +41,8 @@
 斬撃
 敵
 会心+20
-敵一体に斬撃属性の大ダメージ攻撃。
-時々、威力がＵＰ！
+Target: Single Enemy |Damage: Slashing
+Already strong, but sometimes critically strong!
 //entry 5 -----------------------
 秘剣・燕
 秘剣・燕
@@ -50,8 +50,8 @@
 斬撃
 敵
 会心+20
-敵一体に斬撃属性の大ダメージ攻撃。
-時々、威力がＵＰ！|鶯よりは強い。
+Target: Single Enemy |Damage: Slashing
+Strike the vital point and watch the blood flow.
 //entry 6 -----------------------
 秘剣・雉
 秘剣・雉
@@ -59,8 +59,8 @@
 斬撃
 敵
 会心+20
-敵一体に斬撃属性の大ダメージ攻撃。
-時々、威力がＵＰ！|燕よりは強い。
+Target: Single Enemy |Damage: Slashing
+They will shriek like a stricken bird.
 //entry 7 -----------------------
 秘剣・鴉
 秘剣・鴉
@@ -68,8 +68,8 @@
 斬撃
 敵
 会心+20
-敵一体に斬撃属性の大ダメージ攻撃。
-時々、威力がＵＰ！|雉よりは強い。
+Target: Single Enemy |Damage: Slashing
+Make the blood scatter like a fountain.
 //entry 8 -----------------------
 急所斬り
 急所斬り
@@ -77,8 +77,8 @@
 斬撃
 敵
 必殺+30
-敵一体に斬撃属性の必殺攻撃。|攻撃命中時、３０％の確率で攻撃対象を一撃で倒す。
-強い敵には、必殺攻撃が効かない場合もあります。
+Target: Single Enemy |Damage: Slashing|30% Death
+Good for dispatching the small fry, but not effective against powerful foes.
 //entry 9 -----------------------
 真・急所斬り
 真・急所斬り
@@ -86,8 +86,8 @@
 斬撃
 敵
 必殺+40
-敵一体に斬撃属性の必殺攻撃。|攻撃命中時、４０％の確率で攻撃対象を一撃で倒す。
-強い敵には、必殺攻撃が効かない場合もあります。
+Target: Single Enemy |Damage: Slashing|40% Death
+Out of my way!
 //entry 10 -----------------------
 魔・急所斬り
 魔・急所斬り
@@ -95,8 +95,8 @@
 斬撃
 敵
 必殺+50
-敵一体に斬撃属性の必殺攻撃。|攻撃命中時、５０％の確率で攻撃対象を一撃で倒す。
-強い敵には、必殺攻撃が効かない場合もあります。
+Target: Single Enemy |Damage: Slashing|50% Death
+The blade of an executioner.
 //entry 11 -----------------------
 脅し斬り
 脅し斬り
@@ -104,8 +104,8 @@
 斬撃
 敵
 攻撃ダウン+40|継続+5
-敵一体を攻撃。|攻撃命中時、攻撃対象者を４０％の確率で恐怖状態にする。
-恐怖＝攻撃力が下がります。
+Target: Single Enemy|40% Fear
+A scared foe is much less threatening.
 //entry 12 -----------------------
 挑発斬り
 挑発斬り
@@ -113,8 +113,8 @@
 斬撃
 敵
 防御ダウン+40|継続+5
-敵一体を攻撃。|攻撃命中時、攻撃対象者を４０％の確率で興奮状態にする。
-興奮＝防御力が下がります。
+Target: Single Enemy|40% Berserk
+A careless foe is easy to dispatch.
 //entry 13 -----------------------
 毒斬り
 毒斬り
@@ -122,8 +122,8 @@
 斬撃
 敵
 毒+100|継続+5
-敵一体を攻撃。|攻撃命中時、攻撃対象者を毒状態にする。
-毒＝毎ターン、一定のダメージを与える。
+Target: Single Enemy|100% Poison
+Let the toxins do the work for you.
 //entry 14 -----------------------
 麻痺斬り
 麻痺斬り
@@ -131,8 +131,8 @@
 斬撃
 敵
 麻痺+100|継続+2
-敵一体を攻撃。|攻撃命中時、攻撃対象者を麻痺状態にする。
-麻痺＝一定ターン、行動不能状態に。
+Target: Single Enemy|100% Stun
+If they can't move, they're no threat to you.
 //entry 15 -----------------------
 混乱斬り
 混乱斬り
@@ -140,8 +140,8 @@
 斬撃
 敵
 混乱+100|継続+3
-敵一体を攻撃。|攻撃命中時、攻撃対象者を混乱状態にする。
-混乱＝指示を受け付けず、勝手な行動を行うように。
+Target: Single Enemy|100% Confuse
+Be careful, because a confused foe can still be threatening.
 //entry 16 -----------------------
 打撃
 打撃
@@ -149,8 +149,8 @@
 打撃
 敵
 *
-敵一体に打撃属性の攻撃。
-打撃系攻撃の基礎。
+Target: Single Enemy |Damage: Striking
+A simple hammer blow.
 //entry 17 -----------------------
 連打
 連打
@@ -158,8 +158,8 @@
 打撃
 敵３
 *
-複数の敵に打撃属性の攻撃。
-一～三体に攻撃。
+Target: Multiple Enemies|Damage: Striking
+A wild flurry of attacks.
 //entry 18 -----------------------
 突き
 突き
@@ -167,8 +167,8 @@
 打撃
 敵
 *
-敵一体に打撃属性の大ダメージ攻撃。
-斬られるよりも痛い打撃もあります。
+Target: Single Enemy |Damage: Striking
+A heavy blow that can cause more damage than a slash.
 //entry 19 -----------------------
 連突き
 連突き
@@ -176,8 +176,8 @@
 打撃
 敵３
 *
-複数の敵に打撃属性の攻撃で大ダメージ。
-一～三体に攻撃。
+Target: Multiple Enemies Striking
+Each blow knocks them more off balance.
 //entry 20 -----------------------
 払い
 払い
@@ -185,8 +185,8 @@
 打撃
 敵行
 *
-敵一行（横）に打撃属性の攻撃。
-雑魚を蹴散らすには便利。
+Target: Enemy Row |Damage: Striking
+Swing through all of them.
 //entry 21 -----------------------
 振り回し
 振り回し
@@ -194,8 +194,8 @@
 打撃
 敵行
 *
-敵一行（横）に打撃属性の大ダメージ攻撃。
-まさに一掃！
+Target: Enemy Row |Damage: Striking
+Literally sweep away the small fry.
 //entry 22 -----------------------
 貫き手
 貫き手
@@ -203,8 +203,8 @@
 打撃
 敵列
 *
-敵一列（縦）に打撃属性の攻撃。
-貫く打撃。
+Target: Enemy Column |Damage: Striking
+A penetrating blow.
 //entry 23 -----------------------
 弾き飛ばし
 弾き飛ばし
@@ -212,8 +212,8 @@
 打撃
 敵
 バック+50
-打撃属性の攻撃。|ヒット後、５０％の確率で一マス後ろに送り込む。
-後ろのマスのユニットにもダメージ。
+Target: Single Enemy |Damage: Striking|50% Knockback
+Can damage the enemies trying to hide behind their friends.
 //entry 24 -----------------------
 叩き潰し
 叩き潰し
@@ -221,8 +221,8 @@
 打撃
 敵
 必殺+30
-敵一体に打撃属性の必殺攻撃。|３０％の確率で攻撃対象を一撃で倒す。
-強い敵には、必殺攻撃が効かない場合もあります。
+Target: Single Enemy |Damage: Striking|30% Death
+Finish them in a single blow!
 //entry 25 -----------------------
 ソニックブロー
 ソニックブロー
@@ -230,8 +230,8 @@
 打撃
 敵
 会心+20
-敵一体に打撃属性の攻撃。|高命中率。
-打撃系攻撃の奥義の一つ。|音を超える攻撃。
+Target: Single Enemy |Damage: Striking|High accuracy
+An attack that's faster than sound itself.
 //entry 26 -----------------------
 フラッシュブロー
 フラッシュブロー
@@ -239,8 +239,8 @@
 打撃
 敵
 会心+15
-敵一体に打撃属性の大ダメージ攻撃。|高命中率。
-打撃系攻撃の奥義の一つ。|光を超える攻撃。
+Target: Single Enemy |Damage: Striking|High accuracy
+An attack that's faster than light.
 //entry 27 -----------------------
 タイムブロー
 タイムブロー
@@ -248,8 +248,8 @@
 打撃
 敵
 会心+10
-敵一体に打撃属性の特大ダメージ攻撃。|高命中率。
-打撃系攻撃の奥義の一つ。|時を超える攻撃。
+Target: Single Enemy |Damage: Striking|High accuracy
+An attack that's faster than time.
 //entry 28 -----------------------
 ゴッドブロー
 ゴッドブロー
@@ -257,8 +257,8 @@
 打撃
 敵
 会心+5
-敵一体に打撃属性の超絶ダメージ攻撃。|高命中率。
-打撃系攻撃の奥義の一つ。|神を超える攻撃。
+Target: Single Enemy |Damage: Striking|High accuracy
+An attack that's faster than gods.
 //entry 29 -----------------------
 射撃
 射撃
@@ -266,8 +266,8 @@
 射撃
 敵
 *
-敵一体に射撃属性の攻撃。
-射撃系攻撃の基礎。
+Target: Single Enemy|Damage: Ranged 
+A basic distance attack.
 //entry 30 -----------------------
 強射撃
 強射撃
@@ -275,8 +275,8 @@
 射撃
 敵
 *
-敵一体に射撃属性の大ダメージ攻撃。
-ちょっと強い攻撃。
+Target: Single Enemy|Damage: Ranged 
+Hurts if you hit them where it counts.
 //entry 31 -----------------------
 極射撃
 極射撃
@@ -284,8 +284,8 @@
 射撃
 敵
 *
-敵一体に射撃属性の大ダメージ攻撃。
-かなり強い攻撃。
+Target: Single Enemy|Damage: Ranged 
+Take them out from a distance.
 //entry 32 -----------------------
 連射
 連射
@@ -293,8 +293,8 @@
 射撃
 敵３
 *
-複数の敵に射撃属性の攻撃。
-一～三本の矢を放つ！
+Target: Multiple Enemies|Damage: Ranged 
+Release a flurry of projectiles.
 //entry 33 -----------------------
 強連射
 強連射
@@ -302,8 +302,8 @@
 射撃
 敵５
 *
-複数の敵に射撃属性の攻撃。
-三～五本の矢を放つ！
+Target: Multiple Enemies|Damage: Ranged 
+Mow them down with a barrage.
 //entry 34 -----------------------
 極連射
 極連射
@@ -311,8 +311,8 @@
 射撃
 敵７
 *
-複数の敵に射撃属性の攻撃。
-五～七本の矢を放つ！
+Target: Multiple Enemies|Damage: Ranged 
+Unleash a storm of arrows!
 //entry 35 -----------------------
 乱射
 乱射
@@ -320,8 +320,8 @@
 射撃
 敵全
 *
-敵全体に射撃属性の攻撃。
-面倒だから全員を当ててみる。
+Target: All Enemies |Damage: Ranged 
+For when you can't be bothered to pick a target.
 //entry 36 -----------------------
 強乱射
 強乱射
@@ -329,8 +329,8 @@
 射撃
 敵全
 *
-敵全体に射撃属性の大ダメージ攻撃。
-ちょっと強い攻撃を全ての敵に。
+Target: All Enemies |Damage: Ranged 
+Oh, whatever. Just open fire!
 //entry 37 -----------------------
 極乱射
 極乱射
@@ -338,8 +338,8 @@
 射撃
 敵全
 *
-敵全体に射撃属性の大ダメージ攻撃。
-かなり強い攻撃を全敵に。
+Target: All Enemies |Damage: Ranged 
+Shoot first, pick a target later.
 //entry 38 -----------------------
 狙い撃ち
 狙い撃ち
@@ -347,8 +347,8 @@
 射撃
 敵
 必殺+30
-敵一体に小ダメージの射撃属性の必殺攻撃。３０％の確率で攻撃対象を一撃で倒す。
-強い敵には、必殺攻撃が効かない場合もあります。
+Target: Single Enemy|Damage: Ranged |30% Death
+A weak attack, but can be deadly.
 //entry 39 -----------------------
 強狙い撃ち
 強狙い撃ち
@@ -356,8 +356,8 @@
 射撃
 敵
 必殺+40
-敵一体に小ダメージの射撃属性の必殺攻撃。４０％の確率で攻撃対象を一撃で倒す。
-強い敵には、必殺攻撃が効かない場合もあります。
+Target: Single Enemy|Damage: Ranged |40% Death
+A standard of assassins.
 //entry 40 -----------------------
 極狙い撃ち
 極狙い撃ち
@@ -365,8 +365,8 @@
 射撃
 敵
 必殺+50
-敵一体に小ダメージの射撃属性の必殺攻撃。５０％の確率で攻撃対象を一撃で倒す。
-強い敵には、必殺攻撃が効かない場合もあります。
+Target: Single Enemy|Damage: Ranged |50% Death
+Eliminate the critical support right away.
 //entry 41 -----------------------
 毒射ち
 毒射ち
@@ -374,8 +374,8 @@
 射撃
 敵
 毒+50|継続+4
-敵一体に小ダメージの射撃属性の攻撃。|５０％の確率で毒状態にする。
-毒＝毎ターン、一定のダメージを与える。
+Target: Single Enemy|Damage: Ranged |50% Poison
+The damage can pile up against strong foes.
 //entry 42 -----------------------
 猛毒射ち
 猛毒射ち
@@ -383,8 +383,8 @@
 射撃
 敵
 毒+70|継続+4
-敵一体に小ダメージの射撃属性の攻撃。|７０％の確率で毒状態にする。
-毒＝毎ターン、一定のダメージを与える。
+Target: Single Enemy|Damage: Ranged |70% Poison
+Will be deadly... eventually.
 //entry 43 -----------------------
 毒
 毒
@@ -392,8 +392,8 @@
 異常
 敵
 毒+100|継続+5
-攻撃対象を７０％の確率で毒状態にする。
-毒＝毎ターン、一定のダメージを与える。
+Target: Single Enemy|70% Poison
+Take them down, bit by bit.
 //entry 44 -----------------------
 毒の霧
 毒の霧
@@ -401,8 +401,8 @@
 異常
 敵全
 毒+100|継続+5
-相手を全て６５％の確率で毒状態にする。
-命中率は悪くても、全員にやれば……
+Target: All Enemies|65% Poison
+Not accurate, but can infect all the enemies.
 //entry 45 -----------------------
 毒界
 毒界
@@ -410,8 +410,8 @@
 異常
 全
 毒+100|継続+5
-敵、味方全てを対象に、７５％の確率で毒状態にする。
-敵も味方も巻き込むので注意です。
+Target: Field|75% Poison
+A toxic attack that hits friend and foe.
 //entry 46 -----------------------
 麻痺
 麻痺
@@ -419,8 +419,8 @@
 異常
 敵
 麻痺+100|継続+2
-攻撃対象を３５％の確率で麻痺状態にする。
-麻痺＝一定ターン、行動不能状態に。
+Target: Single Enemy|35% Stun
+Disable a troublesome enemy.
 //entry 47 -----------------------
 麻痺の霧
 麻痺の霧
@@ -428,8 +428,8 @@
 異常
 敵全
 麻痺+100|継続+2
-相手を全て３０％の確率で麻痺状態にする。
-麻痺は回復しやすいです。
+Target: All Enemies|30% Stun
+They recover quickly, so make the most of your time.
 //entry 48 -----------------------
 麻界
 麻界
@@ -437,8 +437,8 @@
 異常
 全
 麻痺+100|継続+2
-敵、味方全てを対象に、４０％の確率で麻痺状態にする。
-敵も味方も巻き込むので注意です。
+Target: Field|40% Stun
+Good for when you're outnumbered, but may backfire.
 //entry 49 -----------------------
 混乱
 混乱
@@ -446,8 +446,8 @@
 異常
 敵
 混乱+100|継続+3
-攻撃対象を７０％の確率で混乱状態にする。
-混乱＝指示を受け付けず、勝手な行動をしてしまう。|敵は速度、回避が悪化。
+Target: Single Enemy|70% Confuse
+A confused enemy is slower, easier to hit, and may act erratically.
 //entry 50 -----------------------
 混乱の霧
 混乱の霧
@@ -455,8 +455,8 @@
 異常
 敵全
 混乱+100|継続+3
-敵全員を、６５％の確率で混乱状態にする。
-あまり過信しないように。
+Target: All Enemies|65% Confuse
+Confusion can be dangerous, to you and to them.
 //entry 51 -----------------------
 混界
 混界
@@ -464,8 +464,8 @@
 異常
 全
 混乱+100|継続+3
-敵、味方全てを対象に、７５％の確率で混乱状態にする。
-敵も味方も巻き込むので注意です。
+Target: Field|75% Confuse
+Let chaos reign over the battlefield.
 //entry 52 -----------------------
 恐怖
 恐怖
@@ -473,8 +473,8 @@
 異常
 敵
 攻撃ダウン+100|継続+3
-攻撃対象を８５％の確率で恐怖状態にする。
-恐怖＝攻撃力が下がります。
+Target: Single Enemy|85% Fear
+A scared enemy is a weak enemy.
 //entry 53 -----------------------
 恐怖の霧
 恐怖の霧
@@ -482,8 +482,8 @@
 異常
 敵全
 攻撃ダウン+100|継続+3
-敵全員を、８０％の確率で恐怖状態にする。
-逃げる事を忘れるぐらい怯えるらしい。
+Target: All Enemies|80% Fear
+If they're threatened, they're not threatening.
 //entry 54 -----------------------
 恐界
 恐界
@@ -491,8 +491,8 @@
 異常
 全
 攻撃ダウン+100|継続+3
-敵、味方全てを対象に、９０％の確率で恐怖状態にする。
-敵も味方も巻き込むので注意です。
+Target: Field|90% Fear
+Spread terror across the battlefield.
 //entry 55 -----------------------
 興奮
 興奮
@@ -500,8 +500,8 @@
 異常
 敵
 防御ダウン+100|継続+3
-攻撃対象を８５％の確率で興奮状態にする。
-興奮＝防御力が下がります。
+Target: Single Enemy|85% Berserk
+Reckless enemies don't pay attention to defense.
 //entry 56 -----------------------
 興奮の霧
 興奮の霧
@@ -509,8 +509,8 @@
 異常
 敵全
 防御ダウン+100|継続+3
-敵全員を、８０％の確率で興奮状態にする。
-硬い敵には効果的！
+Target: All Enemies|80% Berserk
+Useful for tough enemies.
 //entry 57 -----------------------
 興界
 興界
@@ -518,8 +518,8 @@
 異常
 全
 防御ダウン+100|継続+3
-敵、味方全てを対象に、９０％の確率で興奮状態にする。
-敵も味方も巻き込むので注意です。
+Target: Field|90% Berserk
+Bloodlust isn't infectious, but this might be.
 //entry 58 -----------------------
 火矢
 火矢
@@ -527,7 +527,7 @@
 火
 敵
 *
-敵一体に火属性攻撃。
+Target: Single Enemy|Damage: Fire
 水属性に特に効果がある。
 //entry 59 -----------------------
 火矢三連
@@ -536,8 +536,8 @@
 火
 敵３
 *
-複数の敵に火属性の攻撃。
-最大三体の敵を狙う。|水属性に特に効果がある。
+Target: Multiple Enemies|Damage: Fire
+Can burn up to three enemies.
 //entry 60 -----------------------
 火矢五連
 火矢五連
@@ -545,8 +545,8 @@
 火
 敵５
 *
-複数の敵に火属性の攻撃。
-最大五体の敵を狙う。|水属性に特に効果がある。
+Target: Multiple Enemies|Damage: Fire
+Toast them all equally.
 //entry 61 -----------------------
 火矢七連
 火矢七連
@@ -554,8 +554,8 @@
 火
 敵７
 *
-複数の敵に火属性の攻撃。
-最大七体の敵を狙う。|水属性に特に効果がある。
+Target: Multiple Enemies|Damage: Fire
+Melt all their hearts at once, and their faces.
 //entry 62 -----------------------
 火矢九連
 火矢九連
@@ -563,8 +563,8 @@
 火
 敵９
 *
-複数の敵に火属性の攻撃。
-最大九体の敵を狙う。|水属性に特に効果がある。
+Target: Multiple Enemies|Damage: Fire
+Just burn everything indiscriminantly.
 //entry 63 -----------------------
 火矢砲
 火矢砲
@@ -572,8 +572,8 @@
 火
 敵列
 *
-敵一列（縦）に火属性攻撃。
-水属性に特に効果がある。
+Target: Enemy Column|Damage: Fire
+A jet of flame for all in your path.
 //entry 64 -----------------------
 火矢幕
 火矢幕
@@ -581,8 +581,8 @@
 火
 敵行
 *
-敵一行（横）に火属性攻撃。
-水属性に特に効果がある。
+Target: Enemy Row|Damage: Fire
+A fiery sweep of the hand.
 //entry 65 -----------------------
 火矢陣
 火矢陣
@@ -590,8 +590,8 @@
 火
 敵全
 *
-敵全体に火属性攻撃。
-水属性に特に効果がある。
+Target: All Enemies|Damage: Fire
+Fry everything to a crisp.
 //entry 66 -----------------------
 炎獄
 炎獄
@@ -599,8 +599,8 @@
 火
 敵全
 *
-敵全体に火属性の大ダメージ攻撃。
-水属性に特に効果がある。
+Target: All Enemies|Damage: Fire
+Incinerate them all in hellfire.
 //entry 67 -----------------------
 氷水
 氷水
@@ -608,7 +608,7 @@
 水
 敵
 *
-敵一体に水属性攻撃。
+Target: Single Enemy|Damage: Ice
 土属性に特に効果がある。
 //entry 68 -----------------------
 氷水三連
@@ -617,7 +617,7 @@
 水
 敵３
 *
-複数の敵に水属性の攻撃。
+Target: Multiple Enemies|Damage: Ice
 最大三体の敵を狙う。|土属性に特に効果がある。
 //entry 69 -----------------------
 氷水五連
@@ -626,7 +626,7 @@
 水
 敵５
 *
-複数の敵に水属性の攻撃。
+Target: Multiple Enemies|Damage: Ice
 最大五体の敵を狙う。|土属性に特に効果がある。
 //entry 70 -----------------------
 氷水七連
@@ -635,7 +635,7 @@
 水
 敵７
 *
-複数の敵に水属性の攻撃。
+Target: Multiple Enemies|Damage: Ice
 最大七体の敵を狙う。|土属性に特に効果がある。
 //entry 71 -----------------------
 氷水九連
@@ -644,7 +644,7 @@
 水
 敵９
 *
-複数の敵に水属性の攻撃。
+Target: Multiple Enemies|Damage: Ice
 最大九体の敵を狙う。|土属性に特に効果がある。
 //entry 72 -----------------------
 氷水砲
@@ -653,7 +653,7 @@
 水
 敵列
 *
-敵一列（縦）に水属性攻撃。
+Target: Enemy Column|Damage: Ice
 土属性に特に効果がある。
 //entry 73 -----------------------
 氷水幕
@@ -662,7 +662,7 @@
 水
 敵行
 *
-敵一行（横）に水属性攻撃。
+Target: Enemy Row|Damage: Ice
 土属性に特に効果がある。
 //entry 74 -----------------------
 氷水陣
@@ -671,7 +671,7 @@
 水
 敵全
 *
-敵全体に水属性攻撃。
+Target: All Enemies|Damage: Ice
 土属性に特に効果がある。
 //entry 75 -----------------------
 氷獄
@@ -680,7 +680,7 @@
 水
 敵全
 *
-敵全体に水属性の大ダメージ攻撃。
+Target: All Enemies|Damage: Ice
 土属性に特に効果がある。
 //entry 76 -----------------------
 岩石
@@ -689,7 +689,7 @@
 土
 敵
 *
-敵一体に土属性攻撃。
+Target: Single Enemy|Damage: Earth
 風属性に特に効果がある。
 //entry 77 -----------------------
 岩石三連
@@ -698,7 +698,7 @@
 土
 敵３
 *
-複数の敵に土属性の攻撃。
+Target: Multiple Enemies|Damage: Earth
 最大三体の敵を狙う。|風属性に特に効果がある。
 //entry 78 -----------------------
 岩石五連
@@ -707,7 +707,7 @@
 土
 敵５
 *
-複数の敵に土属性の攻撃。
+Target: Multiple Enemies|Damage: Earth
 最大五体の敵を狙う。|風属性に特に効果がある。
 //entry 79 -----------------------
 岩石七連
@@ -716,7 +716,7 @@
 土
 敵７
 *
-複数の敵に土属性の攻撃。
+Target: Multiple Enemies|Damage: Earth
 最大七体の敵を狙う。|風属性に特に効果がある。
 //entry 80 -----------------------
 岩石九連
@@ -725,7 +725,7 @@
 土
 敵９
 *
-複数の敵に土属性の攻撃。
+Target: Multiple Enemies|Damage: Earth
 最大九体の敵を狙う。|風属性に特に効果がある。
 //entry 81 -----------------------
 岩石砲
@@ -734,7 +734,7 @@
 土
 敵列
 *
-敵一列（縦）に土属性攻撃。
+Target: Enemy Column|Damage: Earth
 風属性に特に効果がある。
 //entry 82 -----------------------
 岩石幕
@@ -743,7 +743,7 @@
 土
 敵行
 *
-敵一行（横）に土属性攻撃。
+Target: Enemy Row|Damage: Earth
 風属性に特に効果がある。
 //entry 83 -----------------------
 岩石陣
@@ -752,7 +752,7 @@
 土
 敵全
 *
-敵全体に土属性攻撃。
+Target: All Enemies|Damage: Earth
 風属性に特に効果がある。
 //entry 84 -----------------------
 岩獄
@@ -761,7 +761,7 @@
 土
 敵全
 *
-敵全体に土属性の大ダメージ攻撃。
+Target: All Enemies|Damage: Earth
 風属性に特に効果がある。
 //entry 85 -----------------------
 暴風
@@ -770,7 +770,7 @@
 風
 敵
 *
-敵一体に風属性攻撃。
+Target: Single Enemy|Damage: Wind
 火属性に特に効果がある。
 //entry 86 -----------------------
 暴風三連
@@ -779,7 +779,7 @@
 風
 敵３
 *
-複数の敵に風属性の攻撃。
+Target: Multiple Enemies|Damage: Wind
 最大三体の敵を狙う。|火属性に特に効果がある。
 //entry 87 -----------------------
 暴風五連
@@ -788,7 +788,7 @@
 風
 敵５
 *
-複数の敵に風属性の攻撃。
+Target: Multiple Enemies|Damage: Wind
 最大五体の敵を狙う。|火属性に特に効果がある。
 //entry 88 -----------------------
 暴風七連
@@ -797,7 +797,7 @@
 風
 敵７
 *
-複数の敵に風属性の攻撃。
+Target: Multiple Enemies|Damage: Wind
 最大七体の敵を狙う。|火属性に特に効果がある。
 //entry 89 -----------------------
 暴風九連
@@ -806,7 +806,7 @@
 風
 敵９
 *
-複数の敵に風属性の攻撃。
+Target: Multiple Enemies|Damage: Wind
 最大九体の敵を狙う。|火属性に特に効果がある。
 //entry 90 -----------------------
 暴風砲
@@ -815,7 +815,7 @@
 風
 敵列
 *
-敵一列（縦）に風属性攻撃。
+Target: Enemy Column|Damage: Wind
 火属性に特に効果がある。
 //entry 91 -----------------------
 暴風幕
@@ -824,7 +824,7 @@
 風
 敵行
 *
-敵一行（横）に風属性攻撃。
+Target: Enemy Row|Damage: Wind
 火属性に特に効果がある。
 //entry 92 -----------------------
 暴風陣
@@ -833,7 +833,7 @@
 風
 敵全
 *
-敵全体に風属性攻撃。
+Target: All Enemies|Damage: Wind
 火属性に特に効果がある。
 //entry 93 -----------------------
 風獄
@@ -842,7 +842,7 @@
 風
 敵全
 *
-敵全体に風属性の大ダメージ攻撃。
+Target: All Enemies|Damage: Wind
 火属性に特に効果がある。
 //entry 94 -----------------------
 雷撃
@@ -851,7 +851,7 @@
 雷
 敵
 *
-敵一体に雷属性攻撃。
+Target: Single Enemy|Damage: Lightning
 万能的に威力がある。
 //entry 95 -----------------------
 雷撃三連
@@ -860,7 +860,7 @@
 雷
 敵３
 *
-複数の敵に雷属性の攻撃。
+Target: Multiple Enemies|Damage: Lightning
 最大三体の敵を狙う。|万能的に威力がある。
 //entry 96 -----------------------
 雷撃五連
@@ -869,7 +869,7 @@
 雷
 敵５
 *
-複数の敵に雷属性の攻撃。
+Target: Multiple Enemies|Damage: Lightning
 最大五体の敵を狙う。|万能的に威力がある。
 //entry 97 -----------------------
 雷撃七連
@@ -878,7 +878,7 @@
 雷
 敵７
 *
-複数の敵に雷属性の攻撃。
+Target: Multiple Enemies|Damage: Lightning
 最大七体の敵を狙う。|万能的に威力がある。
 //entry 98 -----------------------
 雷撃九連
@@ -887,7 +887,7 @@
 雷
 敵９
 *
-複数の敵に雷属性の攻撃。
+Target: Multiple Enemies|Damage: Lightning
 最大九体の敵を狙う。|万能的に威力がある。
 //entry 99 -----------------------
 雷撃砲
@@ -896,7 +896,7 @@
 雷
 敵列
 *
-敵一列（縦）に雷属性攻撃。
+Target: Enemy Column|Damage: Lightning
 万能的に威力がある。
 //entry 100 -----------------------
 雷撃幕
@@ -905,7 +905,7 @@
 雷
 敵行
 *
-敵一行（横）に雷属性攻撃。
+Target: Enemy Row|Damage: Lightning
 万能的に威力がある。
 //entry 101 -----------------------
 雷撃陣
@@ -914,7 +914,7 @@
 雷
 敵全
 *
-敵全体に雷属性攻撃。
+Target: All Enemies|Damage: Lightning
 万能的に威力がある。
 //entry 102 -----------------------
 雷獄
@@ -923,7 +923,7 @@
 雷
 敵全
 *
-敵全体に雷属性の大ダメージ攻撃。
+Target: All Enemies|Damage: Lightning
 万能的に威力がある。
 //entry 103 -----------------------
 漆黒
@@ -932,7 +932,7 @@
 闇
 敵
 *
-敵一体に闇属性攻撃。
+Target: Single Enemy|Damage: Dark
 光属性相手に特に効果がある。
 //entry 104 -----------------------
 漆黒三連
@@ -941,7 +941,7 @@
 闇
 敵３
 *
-複数の敵に闇属性の攻撃。
+Target: Multiple Enemies|Damage: Dark
 最大三体の敵を狙う。|光属性相手に特に効果がある。
 //entry 105 -----------------------
 漆黒五連
@@ -950,7 +950,7 @@
 闇
 敵５
 *
-複数の敵に闇属性の攻撃。
+Target: Multiple Enemies|Damage: Dark
 最大五体の敵を狙う。|光属性相手に特に効果がある。
 //entry 106 -----------------------
 漆黒七連
@@ -959,7 +959,7 @@
 闇
 敵７
 *
-複数の敵に闇属性の攻撃。
+Target: Multiple Enemies|Damage: Dark
 最大七体の敵を狙う。|光属性相手に特に効果がある。
 //entry 107 -----------------------
 漆黒九連
@@ -968,7 +968,7 @@
 闇
 敵９
 *
-複数の敵に闇属性の攻撃。
+Target: Multiple Enemies|Damage: Dark
 最大九体の敵を狙う。|光属性相手に特に効果がある。
 //entry 108 -----------------------
 漆黒砲
@@ -977,7 +977,7 @@
 闇
 敵列
 *
-敵一列（縦）に闇属性攻撃。
+Target: Enemy Column|Damage: Dark
 光属性相手に特に効果がある。
 //entry 109 -----------------------
 漆黒幕
@@ -986,7 +986,7 @@
 闇
 敵行
 *
-敵一行（横）に闇属性攻撃。
+Target: Enemy Row|Damage: Dark
 光属性相手に特に効果がある。
 //entry 110 -----------------------
 漆黒陣
@@ -995,7 +995,7 @@
 闇
 敵全
 *
-敵全体に闇属性攻撃。
+Target: All Enemies|Damage: Dark
 光属性相手に特に効果がある。
 //entry 111 -----------------------
 闇獄
@@ -1004,7 +1004,7 @@
 闇
 敵全
 *
-敵全体に闇属性の大ダメージ攻撃。
+Target: All Enemies|Damage: Dark
 光属性相手に特に効果がある。
 //entry 112 -----------------------
 光槍
@@ -1013,7 +1013,7 @@
 光
 敵
 *
-敵一体に光属性攻撃。
+Target: Single Enemy|Damage: Light
 闇属性相手に特に効果がある。
 //entry 113 -----------------------
 光槍三連
@@ -1022,7 +1022,7 @@
 光
 敵３
 *
-複数の敵に光属性の攻撃。
+Target: Multiple Enemies|Damage: Light
 最大三体の敵を狙う。|闇属性相手に特に効果がある。
 //entry 114 -----------------------
 光槍五連
@@ -1031,7 +1031,7 @@
 光
 敵５
 *
-複数の敵に光属性の攻撃。
+Target: Multiple Enemies|Damage: Light
 最大五体の敵を狙う。|闇属性相手に特に効果がある。
 //entry 115 -----------------------
 光槍七連
@@ -1040,7 +1040,7 @@
 光
 敵７
 *
-複数の敵に光属性の攻撃。
+Target: Multiple Enemies|Damage: Light
 最大七体の敵を狙う。|闇属性相手に特に効果がある。
 //entry 116 -----------------------
 光槍九連
@@ -1049,7 +1049,7 @@
 光
 敵９
 *
-複数の敵に光属性の攻撃。
+Target: Multiple Enemies|Damage: Light
 最大九体の敵を狙う。|闇属性相手に特に効果がある。
 //entry 117 -----------------------
 光槍砲
@@ -1058,7 +1058,7 @@
 光
 敵列
 *
-敵一列（縦）に光属性攻撃。
+Target: Enemy Column|Damage: Light
 闇属性相手に特に効果がある。
 //entry 118 -----------------------
 光槍幕
@@ -1067,7 +1067,7 @@
 光
 敵行
 *
-敵一行（横）に光属性攻撃。
+Target: Enemy Row|Damage: Light
 闇属性相手に特に効果がある。
 //entry 119 -----------------------
 光槍陣
@@ -1076,7 +1076,7 @@
 光
 敵全
 *
-敵全体に光属性攻撃。
+Target: All Enemies|Damage: Light
 闇属性相手に特に効果がある。
 //entry 120 -----------------------
 光獄
@@ -1085,7 +1085,7 @@
 光
 敵全
 *
-敵全体に光属性の大ダメージ攻撃。
+Target: All Enemies|Damage: Light
 闇属性相手に特に効果がある。
 //entry 121 -----------------------
 無心
@@ -1094,7 +1094,7 @@
 無
 敵
 *
-敵一体に無属性攻撃。
+Target: Single Enemy|Damage: Void
 攻撃相性が無いので、無効化される心配が無い。
 //entry 122 -----------------------
 無心三連
@@ -1103,7 +1103,7 @@
 無
 敵３
 *
-複数の敵に無属性の攻撃。
+Target: Multiple Enemies|Damage: Void
 最大三体の敵を狙う。|攻撃相性が無いので、無効化される心配が無い。
 //entry 123 -----------------------
 無心五連
@@ -1112,7 +1112,7 @@
 無
 敵５
 *
-複数の敵に無属性の攻撃。
+Target: Multiple Enemies|Damage: Void
 最大五体の敵を狙う。|攻撃相性が無いので、無効化される心配が無い。
 //entry 124 -----------------------
 無心七連
@@ -1121,7 +1121,7 @@
 無
 敵７
 *
-複数の敵に無属性の攻撃。
+Target: Multiple Enemies|Damage: Void
 最大七体の敵を狙う。|攻撃相性が無いので、無効化される心配が無い。
 //entry 125 -----------------------
 無心九連
@@ -1130,7 +1130,7 @@
 無
 敵９
 *
-複数の敵に無属性の攻撃。
+Target: Multiple Enemies|Damage: Void
 最大九体の敵を狙う。|攻撃相性が無いので、無効化される心配が無い。
 //entry 126 -----------------------
 無心砲
@@ -1139,7 +1139,7 @@
 無
 敵列
 *
-敵一列（縦）に無属性攻撃。
+Target: Enemy Column|Damage: Void
 攻撃相性が無いので、無効化される心配が無い。
 //entry 127 -----------------------
 無心幕
@@ -1148,7 +1148,7 @@
 無
 敵行
 *
-敵一行（横）に無属性攻撃。
+Target: Enemy Row|Damage: Void
 攻撃相性が無いので、無効化される心配が無い。
 //entry 128 -----------------------
 無心陣
@@ -1157,7 +1157,7 @@
 無
 敵全
 *
-敵全体に無属性攻撃。
+Target: All Enemies|Damage: Void
 攻撃相性が無いので、無効化される心配が無い。
 //entry 129 -----------------------
 魔獄
@@ -1166,7 +1166,7 @@
 無
 敵全
 *
-敵全体に無属性の大ダメージ攻撃。
+Target: All Enemies|Damage: Void
 攻撃相性が無いので、無効化される心配が無い。
 //entry 130 -----------------------
 小回復
@@ -1175,7 +1175,7 @@
 回復
 味単
 *
-一人の体力を少し回復する。
+Target: Single Ally|Recover HP
 自分は回復に専念。|後は他の連中に任せた。
 //entry 131 -----------------------
 中回復
@@ -1184,7 +1184,7 @@
 回復
 味単
 *
-一人の体力を回復する。
+Target: Single Ally|Recover HP
 これを持ってるだけで、危機はかなり回避できるかな。
 //entry 132 -----------------------
 大回復
@@ -1193,7 +1193,7 @@
 回復
 味単
 *
-一人の体力をかなり回復する。
+Target: Single Ally|Recover HP
 これさえあれば、多少の無茶は可能？
 //entry 133 -----------------------
 特回復
@@ -1202,7 +1202,7 @@
 回復
 味単
 *
-一人の体力を大きく回復する。
+Target: Single Ally|Recover HP
 しぶといの代名詞的な呪文。
 //entry 134 -----------------------
 全小回復
@@ -1211,7 +1211,7 @@
 回復
 味全
 *
-味方全員の体力を少し回復する。
+Target: All Allies|Recover HP
 全員を小さく回復！
 //entry 135 -----------------------
 全中回復
@@ -1220,7 +1220,7 @@
 回復
 味全
 *
-味方全員の体力を回復する。
+Target: All Allies|Recover HP
 全員をそこそこ回復！
 //entry 136 -----------------------
 全大回復
@@ -1229,7 +1229,7 @@
 回復
 味全
 *
-味方全員の体力をかなり回復する。
+Target: All Allies|Recover HP
 全員をかなり回復！
 //entry 137 -----------------------
 全特回復
@@ -1238,7 +1238,7 @@
 回復
 味全
 *
-味方全員の体力を大きく回復する。
+Target: All Allies|Recover HP
 これを覚えれば、かなり死に難くなるかも。
 //entry 138 -----------------------
 リフ
@@ -1247,7 +1247,7 @@
 異常回復
 味単
 毒-100|麻痺-100|混乱-100|攻撃ダウン-100|防御ダウン-100|回避ダウン-100|速度ダウン-100
-一人の状態異常を治癒する。|（移動中は味方全体を治癒します）
+Target: Single Ally|Recover Ailments|(Targets All Allies Outside Battle)
 状態異常を甘くみてはいけない。
 //entry 139 -----------------------
 全リフ
@@ -1256,7 +1256,7 @@
 異常回復
 味全
 毒-100|麻痺-100|混乱-100|攻撃ダウン-100|防御ダウン-100|回避ダウン-100|速度ダウン-100
-味方全員の状態異常を治癒する。
+Target: All Allies|Recover Ailments
 どんな状態異常も治します。
 //entry 140 -----------------------
 大完治
@@ -1265,7 +1265,7 @@
 回復
 味全
 毒-100|麻痺-100|混乱-100|攻撃ダウン-100|防御ダウン-100|回避ダウン-100|速度ダウン-100
-味方全員の体力を大きく回復し、状態異常を治癒する。
+Target: All Allies|Recover HP and Ailments
 どんな状態異常も治します。
 //entry 141 -----------------------
 斬撃属性防御
@@ -1274,7 +1274,7 @@
 能力向上
 味単
 *
-斬撃属性の攻撃に対する防御力がＵＰ。
+Passive|Resist Slashing Attacks
 習得しているだけで効果があります。
 //entry 142 -----------------------
 打撃属性防御
@@ -1283,7 +1283,7 @@
 能力向上
 味単
 *
-打撃属性の攻撃に対する防御力がＵＰ。
+Passive|Resist Striking Attacks
 習得しているだけで効果があります。
 //entry 143 -----------------------
 射撃属性防御
@@ -1292,7 +1292,7 @@
 能力向上
 味単
 *
-射撃属性の攻撃に対する防御力がＵＰ。
+Passive|Resist Ranged Attacks
 習得しているだけで効果があります。
 //entry 144 -----------------------
 火属性防御
@@ -1301,7 +1301,7 @@
 能力向上
 味単
 *
-火属性の攻撃に対する防御力がＵＰ。
+Passive|Resist Fire Attacks
 習得しているだけで効果があります。
 //entry 145 -----------------------
 水属性防御
@@ -1310,7 +1310,7 @@
 能力向上
 味単
 *
-水属性の攻撃に対する防御力がＵＰ。
+Passive|Resist Ice Attacks
 習得しているだけで効果があります。
 //entry 146 -----------------------
 土属性防御
@@ -1319,7 +1319,7 @@
 能力向上
 味単
 *
-土属性の攻撃に対する防御力がＵＰ。
+Passive|Resist Earth Attacks
 習得しているだけで効果があります。
 //entry 147 -----------------------
 風属性防御
@@ -1328,7 +1328,7 @@
 能力向上
 味単
 *
-風属性の攻撃に対する防御力がＵＰ。
+Passive|Resist Wind Attacks
 習得しているだけで効果があります。
 //entry 148 -----------------------
 雷属性防御
@@ -1337,7 +1337,7 @@
 能力向上
 味単
 *
-雷属性の攻撃に対する防御力がＵＰ。
+Passive|Resist Lightning Attacks
 習得しているだけで効果があります。
 //entry 149 -----------------------
 光属性防御
@@ -1346,7 +1346,7 @@
 能力向上
 味単
 *
-光属性の攻撃に対する防御力がＵＰ。
+Passive|Resist Light Attacks
 習得しているだけで効果があります。
 //entry 150 -----------------------
 闇属性防御
@@ -1355,7 +1355,7 @@
 能力向上
 味単
 *
-闇属性の攻撃に対する防御力がＵＰ。
+Passive|Resist Dark Attacks
 習得しているだけで効果があります。
 //entry 151 -----------------------
 固定／触手ムチ
@@ -1364,8 +1364,8 @@
 打撃
 敵
 *
-敵一体に打撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Striking
+An unforgettable skill
 //entry 152 -----------------------
 固定／触手乱れムチ
 触手乱れムチ
@@ -1373,8 +1373,8 @@
 打撃
 敵３
 *
-複数の敵に打撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Multiple Enemies|Damage: Striking
+An unforgettable skill
 //entry 153 -----------------------
 固定／飛剣
 飛剣
@@ -1382,8 +1382,8 @@
 射撃
 敵
 *
-敵一体に射撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Ranged
+An unforgettable skill
 //entry 154 -----------------------
 固定／乱飛剣
 乱飛剣
@@ -1391,8 +1391,8 @@
 射撃
 敵３
 *
-複数の敵に射撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Multiple Enemies|Damage: Ranged
+An unforgettable skill
 //entry 155 -----------------------
 固定／火炎斬り
 火炎斬り
@@ -1400,8 +1400,8 @@
 斬撃
 敵
 *
-敵一体に斬撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Slashing
+An unforgettable skill
 //entry 156 -----------------------
 固定／大豪炎
 大豪炎
@@ -1409,8 +1409,8 @@
 火
 敵５
 *
-複数の敵に火属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Multiple Enemies|Damage: Fire
+An unforgettable skill
 //entry 157 -----------------------
 固定／朱雀掌
 朱雀掌
@@ -1418,8 +1418,8 @@
 斬撃
 敵
 会心+20|バック+50
-敵一体に斬撃属性の大ダメージ攻撃。|時々、攻撃力ＵＰ。|命中時、５０％の確率で相手を下がらせる。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Slashing|50% Knockback
+An unforgettable skill
 //entry 158 -----------------------
 固定／虎の金棒
 虎の金棒
@@ -1427,8 +1427,8 @@
 打撃
 敵
 会心+10
-敵一体に打撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Striking
+An unforgettable skill
 //entry 159 -----------------------
 固定／押し金棒
 押し金棒
@@ -1436,8 +1436,8 @@
 打撃
 敵
 バック+80
-敵一体に打撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Striking
+An unforgettable skill
 //entry 160 -----------------------
 固定／虎王の金棒
 虎王の金棒
@@ -1445,8 +1445,8 @@
 打撃
 敵
 会心+30
-敵一体に打撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Striking
+An unforgettable skill
 //entry 161 -----------------------
 固定／水弾
 水弾
@@ -1454,8 +1454,8 @@
 水
 敵
 *
-敵一体に水属性攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Ice
+An unforgettable skill
 //entry 162 -----------------------
 固定／水連弾
 水連弾
@@ -1463,8 +1463,8 @@
 水
 敵５
 *
-複数の敵に水属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Multiple Enemies|Damage: Ice
+An unforgettable skill
 //entry 163 -----------------------
 固定／亀の知恵
 亀の知恵
@@ -1472,8 +1472,8 @@
 回復
 味全
 毒-100|麻痺-100|混乱-100|攻撃ダウン-100|防御ダウン-100|回避ダウン-100|速度ダウン-100
-味方全員の体力を小さく回復し、状態異常を治癒する。
-忘れる事の出来ないスキル。
+Target: All Allies|Recover HP and Ailments
+An unforgettable skill
 //entry 164 -----------------------
 固定／青龍斬り
 青龍斬り
@@ -1481,8 +1481,8 @@
 斬撃
 敵
 *
-敵一体に斬撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Slashing
+An unforgettable skill
 //entry 165 -----------------------
 固定／秘剣／青龍
 秘剣／青龍
@@ -1490,8 +1490,8 @@
 斬撃
 敵
 会心+20
-敵一体に斬撃属性の大ダメージ攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Slashing
+An unforgettable skill
 //entry 166 -----------------------
 固定／無限斬り
 無限斬り
@@ -1499,8 +1499,8 @@
 斬撃
 敵５
 *
-複数の敵に斬撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Multiple Enemies|Damage: Slashing
+An unforgettable skill
 //entry 167 -----------------------
 固定／森の矢
 森の矢
@@ -1508,8 +1508,8 @@
 射撃
 敵
 *
-敵一体に射撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Ranged
+An unforgettable skill
 //entry 168 -----------------------
 固定／森の雨矢
 森の雨矢
@@ -1517,8 +1517,8 @@
 射撃
 敵５
 *
-複数の敵に射撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Multiple Enemies|Damage: Ranged
+An unforgettable skill
 //entry 169 -----------------------
 固定／森の豪矢
 森の豪矢
@@ -1526,8 +1526,8 @@
 射撃
 敵全
 *
-敵全体に射撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: All Enemies|Damage: Ranged
+An unforgettable skill
 //entry 170 -----------------------
 固定／悪魔の槍
 悪魔の槍
@@ -1535,8 +1535,8 @@
 斬撃
 敵
 *
-敵一体に斬撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Slashing
+An unforgettable skill
 //entry 171 -----------------------
 固定／悪魔王の槍
 悪魔王の槍
@@ -1544,8 +1544,8 @@
 斬撃
 敵
 会心+20
-敵一体に斬撃属性の大ダメージ攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Slashing
+An unforgettable skill
 //entry 172 -----------------------
 固定／突き飛ばし
 突き飛ばし
@@ -1553,8 +1553,8 @@
 斬撃
 敵
 バック+80
-敵一体に斬撃属性の攻撃。|命中時、８０％の確率で相手を下がらせる。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Slashing|80% Knockback
+An unforgettable skill
 //entry 173 -----------------------
 固定／逆斬り
 逆斬り
@@ -1562,8 +1562,8 @@
 斬撃
 敵
 *
-敵一体に斬撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Slashing
+An unforgettable skill
 //entry 174 -----------------------
 固定／逆乱れ斬り
 逆乱れ斬り
@@ -1571,8 +1571,8 @@
 斬撃
 敵３
 *
-複数の敵に斬撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Multiple Enemies|Damage: Slashing
+An unforgettable skill
 //entry 175 -----------------------
 固定／逆必殺斬り
 逆必殺斬り
@@ -1580,8 +1580,8 @@
 斬撃
 敵
 必殺+30
-敵一体に斬撃属性の大ダメージ攻撃。|時々、攻撃力ＵＰ。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Slashing
+An unforgettable skill
 //entry 176 -----------------------
 固定／二連ツララ
 二連ツララ
@@ -1589,8 +1589,8 @@
 水
 敵２
 *
-複数の敵に水属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Multiple Enemies|Damage: Ice
+An unforgettable skill
 //entry 177 -----------------------
 固定／三連ツララ
 三連ツララ
@@ -1598,8 +1598,8 @@
 水
 敵３
 *
-複数の敵に水属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Multiple Enemies|Damage: Ice
+An unforgettable skill
 //entry 178 -----------------------
 固定／四連ツララ
 四連ツララ
@@ -1607,8 +1607,8 @@
 水
 敵４
 *
-複数の敵に水属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Multiple Enemies|Damage: Ice
+An unforgettable skill
 //entry 179 -----------------------
 固定／山羊の拳
 山羊の拳
@@ -1616,8 +1616,8 @@
 打撃
 敵
 バック+10
-敵一体に打撃属性の攻撃。|攻撃命中時、１０％の確率で相手を後ろに下がらせる。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Striking|10% Knockback
+An unforgettable skill
 //entry 180 -----------------------
 固定／山羊の強打
 山羊の強打
@@ -1625,8 +1625,8 @@
 打撃
 敵
 バック+30
-敵一体に打撃属性の攻撃。|攻撃命中時、３０％の確率で相手を後ろに下がらせる。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Striking|30% Knockback
+An unforgettable skill
 //entry 181 -----------------------
 固定／山羊の豪打
 山羊の豪打
@@ -1634,8 +1634,8 @@
 打撃
 敵
 バック+50
-敵一体に打撃属性の攻撃。|攻撃命中時、５０％の確率で相手を後ろに下がらせる。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Striking|50% Knockback
+An unforgettable skill
 //entry 182 -----------------------
 固定／光神の光
 光神の光
@@ -1643,8 +1643,8 @@
 光
 敵
 *
-敵一体に光属性攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Light
+An unforgettable skill
 //entry 183 -----------------------
 固定／貫く光
 貫く光
@@ -1652,8 +1652,8 @@
 光
 敵列
 *
-敵一列（縦）に光属性攻撃。
-忘れる事の出来ないスキル。
+Target: Enemy Column|Damage: Light
+An unforgettable skill
 //entry 184 -----------------------
 固定／溢れる光
 溢れる光
@@ -1661,8 +1661,8 @@
 光
 敵行
 *
-敵一行（横）に光属性攻撃。
-忘れる事の出来ないスキル。
+Target: Enemy Row|Damage: Light
+An unforgettable skill
 //entry 185 -----------------------
 固定／満たす光
 満たす光
@@ -1670,8 +1670,8 @@
 光
 敵全
 *
-敵全体に光属性の大ダメージ攻撃。
-忘れる事の出来ないスキル。
+Target: All Enemies|Damage: Light
+An unforgettable skill
 //entry 186 -----------------------
 固定／天雷棒
 天雷棒
@@ -1679,8 +1679,8 @@
 打撃
 敵
 バック+50
-敵一体に打撃属性の攻撃。|攻撃命中時、５０％の確率で相手を後ろに下がらせる。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Striking|50% Knockback
+An unforgettable skill
 //entry 187 -----------------------
 固定／天雷棒の雷
 天雷棒の雷
@@ -1688,8 +1688,8 @@
 雷
 敵
 *
-敵一体に雷属性攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Lightning
+An unforgettable skill
 //entry 188 -----------------------
 固定／天雷棒の大雷
 天雷棒の大雷
@@ -1697,8 +1697,8 @@
 雷
 敵全
 *
-敵全体に雷属性の大ダメージ攻撃。
-忘れる事の出来ないスキル。
+Target: All Enemies|Damage: Lightning
+An unforgettable skill
 //entry 189 -----------------------
 固定／樹神の腕
 樹神の腕
@@ -1706,8 +1706,8 @@
 土
 敵
 *
-敵一体に土属性攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Earth
+An unforgettable skill
 //entry 190 -----------------------
 固定／樹神の知恵
 樹神の知恵
@@ -1715,8 +1715,8 @@
 土
 敵５
 *
-複数の敵に土属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Multiple Enemies|Damage: Earth
+An unforgettable skill
 //entry 191 -----------------------
 固定／樹神の嘆き
 樹神の嘆き
@@ -1724,8 +1724,8 @@
 土
 敵行
 防御ダウン+40|継続+5
-敵一行（横）に土属性攻撃。|命中時、相手の防御力を下げる。
-忘れる事の出来ないスキル。
+Target: Enemy Row|Damage: Earth|Defense Down
+An unforgettable skill
 //entry 192 -----------------------
 固定／樹神の夢
 樹神の夢
@@ -1733,8 +1733,8 @@
 土
 敵全
 防御ダウン+40|継続+5
-敵全体に土属性の大ダメージ攻撃。|命中時、相手の防御力を下げる。
-忘れる事の出来ないスキル。
+Target: All Enemies|Damage: Earth|Defense Down
+An unforgettable skill
 //entry 193 -----------------------
 固定／魔炎
 魔炎
@@ -1742,8 +1742,8 @@
 火
 敵５
 *
-複数の敵に火属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Multiple Enemies|Damage: Fire
+An unforgettable skill
 //entry 194 -----------------------
 固定／大魔炎
 大魔炎
@@ -1751,8 +1751,8 @@
 火
 敵全
 *
-敵全体に火属性の大ダメージ攻撃。
-忘れる事の出来ないスキル。
+Target: All Enemies|Damage: Fire
+An unforgettable skill
 //entry 195 -----------------------
 固定／剣の王
 剣の王
@@ -1760,8 +1760,8 @@
 斬撃
 敵
 *
-敵一体に斬撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Slashing
+An unforgettable skill
 //entry 196 -----------------------
 固定／斬撃の舞
 斬撃の舞
@@ -1769,8 +1769,8 @@
 斬撃
 敵５
 *
-敵一体に斬撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Slashing
+An unforgettable skill
 //entry 197 -----------------------
 固定／神力のブレス
 神力のブレス
@@ -1778,8 +1778,8 @@
 無
 敵４
 *
-複数の敵に無属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Multiple Enemies|Damage: Void
+An unforgettable skill
 //entry 198 -----------------------
 固定／破壊のブレス
 破壊のブレス
@@ -1787,8 +1787,8 @@
 無
 敵全
 *
-敵全体に無属性の大ダメージ攻撃。
-忘れる事の出来ないスキル。
+Target: All Enemies|Damage: Void
+An unforgettable skill
 //entry 199 -----------------------
 固定／神罰のブレス
 神罰のブレス
@@ -1796,8 +1796,8 @@
 土
 敵
 *
-敵一体に土属性攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Earth
+An unforgettable skill
 //entry 200 -----------------------
 固定／天変地異
 天変地異
@@ -1805,8 +1805,8 @@
 土
 敵全
 *
-敵全体に土属性の大ダメージ攻撃。
-忘れる事の出来ないスキル。
+Target: All Enemies|Damage: Earth
+An unforgettable skill
 //entry 201 -----------------------
 固定／神力球
 神力球
@@ -1814,8 +1814,8 @@
 無
 敵
 *
-敵一体に無属性攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Void
+An unforgettable skill
 //entry 202 -----------------------
 固定／神力三球
 神力三球
@@ -1823,8 +1823,8 @@
 無
 敵３
 *
-複数の敵に無属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Multiple Enemies|Damage: Void
+An unforgettable skill
 //entry 203 -----------------------
 固定／清流水弾
 清流水弾
@@ -1832,8 +1832,8 @@
 水
 敵４
 *
-複数の敵に水属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Multiple Enemies|Damage: Ice
+An unforgettable skill
 //entry 204 -----------------------
 固定／天の濁流
 天の濁流
@@ -1841,8 +1841,8 @@
 水
 敵列
 *
-敵一列（縦）に水属性攻撃。
-忘れる事の出来ないスキル。
+Target: Enemy Column|Damage: Ice
+An unforgettable skill
 //entry 205 -----------------------
 固定／螺旋の渦
 螺旋の渦
@@ -1850,8 +1850,8 @@
 水
 敵行
 *
-敵一行（横）に水属性攻撃。
-忘れる事の出来ないスキル。
+Target: Enemy Row|Damage: Ice
+An unforgettable skill
 //entry 206 -----------------------
 固定／天地暴流
 天地暴流
@@ -1859,8 +1859,8 @@
 水
 敵全
 *
-敵全体に水属性の大ダメージ攻撃。
-忘れる事の出来ないスキル。
+Target: All Enemies|Damage: Ice
+An unforgettable skill
 //entry 207 -----------------------
 固定／乱舞斬
 乱舞斬
@@ -1868,8 +1868,8 @@
 斬撃
 敵３
 *
-複数の敵に斬撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Multiple Enemies|Damage: Slashing
+An unforgettable skill
 //entry 208 -----------------------
 固定／無心五連
 無心五連
@@ -1877,8 +1877,8 @@
 無
 敵５
 *
-複数の敵に無属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Multiple Enemies|Damage: Void
+An unforgettable skill
 //entry 209 -----------------------
 固定／斬り
 斬り
@@ -1886,8 +1886,8 @@
 斬撃
 敵
 *
-敵一体に斬撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Slashing
+An unforgettable skill
 //entry 210 -----------------------
 固定／剣
 剣
@@ -1895,8 +1895,8 @@
 斬撃
 敵
 *
-敵一体に斬撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Slashing
+An unforgettable skill
 //entry 211 -----------------------
 固定／刀
 刀
@@ -1904,8 +1904,8 @@
 斬撃
 敵
 *
-敵一体に斬撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Slashing
+An unforgettable skill
 //entry 212 -----------------------
 固定／紙斬り
 紙斬り
@@ -1913,8 +1913,8 @@
 斬撃
 敵
 *
-敵一体に斬撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Slashing
+An unforgettable skill
 //entry 213 -----------------------
 固定／手刀
 手刀
@@ -1922,8 +1922,8 @@
 斬撃
 敵
 *
-敵一体に斬撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Slashing
+An unforgettable skill
 //entry 214 -----------------------
 固定／噛み付き
 噛み付き
@@ -1931,8 +1931,8 @@
 斬撃
 敵
 *
-敵一体に斬撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Slashing
+An unforgettable skill
 //entry 215 -----------------------
 固定／爪
 爪
@@ -1940,8 +1940,8 @@
 斬撃
 敵
 *
-敵一体に斬撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Slashing
+An unforgettable skill
 //entry 216 -----------------------
 固定／牙
 牙
@@ -1949,8 +1949,8 @@
 斬撃
 敵
 *
-敵一体に斬撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Slashing
+An unforgettable skill
 //entry 217 -----------------------
 固定／鎌
 鎌
@@ -1958,8 +1958,8 @@
 斬撃
 敵
 *
-敵一体に斬撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Slashing
+An unforgettable skill
 //entry 218 -----------------------
 固定／くちばし
 くちばし
@@ -1967,8 +1967,8 @@
 斬撃
 敵
 *
-敵一体に斬撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Slashing
+An unforgettable skill
 //entry 219 -----------------------
 固定／引っ掻き
 ひっかき
@@ -1976,8 +1976,8 @@
 斬撃
 敵
 *
-敵一体に斬撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Slashing
+An unforgettable skill
 //entry 220 -----------------------
 固定／突き刺し
 突き刺し
@@ -1985,8 +1985,8 @@
 斬撃
 敵
 *
-敵一体に斬撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Slashing
+An unforgettable skill
 //entry 221 -----------------------
 固定／槍
 槍
@@ -1994,8 +1994,8 @@
 斬撃
 敵
 *
-敵一体に斬撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Slashing
+An unforgettable skill
 //entry 222 -----------------------
 固定／暗黒剣
 暗黒剣
@@ -2003,8 +2003,8 @@
 斬撃
 敵
 *
-敵一体に斬撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Slashing
+An unforgettable skill
 //entry 223 -----------------------
 固定／漆黒剣
 漆黒剣
@@ -2012,8 +2012,8 @@
 斬撃
 敵
 *
-敵一体に斬撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Slashing
+An unforgettable skill
 //entry 224 -----------------------
 固定／天界剣
 天界剣
@@ -2021,8 +2021,8 @@
 斬撃
 敵
 *
-敵一体に斬撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Slashing
+An unforgettable skill
 //entry 225 -----------------------
 固定／天界槍
 天界槍
@@ -2030,8 +2030,8 @@
 斬撃
 敵
 *
-敵一体に斬撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Slashing
+An unforgettable skill
 //entry 226 -----------------------
 固定／真っ二つ
 真っ二つ
@@ -2039,8 +2039,8 @@
 斬撃
 敵
 *
-敵一体に斬撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Slashing
+An unforgettable skill
 //entry 227 -----------------------
 固定／ヘビの牙
 ヘビの牙
@@ -2048,8 +2048,8 @@
 斬撃
 敵
 *
-敵一体に斬撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Slashing
+An unforgettable skill
 //entry 228 -----------------------
 固定／骸骨流剣撃
 骸骨流剣撃
@@ -2057,8 +2057,8 @@
 斬撃
 敵
 *
-敵一体に斬撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Slashing
+An unforgettable skill
 //entry 229 -----------------------
 固定／剣の舞
 剣の舞
@@ -2066,8 +2066,8 @@
 斬撃
 敵
 *
-敵一体に斬撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Slashing
+An unforgettable skill
 //entry 230 -----------------------
 固定／刃の舞
 刃の舞
@@ -2075,8 +2075,8 @@
 斬撃
 敵
 *
-敵一体に斬撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Slashing
+An unforgettable skill
 //entry 231 -----------------------
 固定／二刀流
 二刀流
@@ -2084,8 +2084,8 @@
 斬撃
 敵２
 会心+20
-複数の敵に斬撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Multiple Enemies|Damage: Slashing
+An unforgettable skill
 //entry 232 -----------------------
 固定／乱剣殺
 乱剣殺
@@ -2093,8 +2093,8 @@
 斬撃
 敵３
 *
-複数の敵に斬撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Multiple Enemies|Damage: Slashing
+An unforgettable skill
 //entry 233 -----------------------
 固定／正拳突き
 正拳突き
@@ -2102,8 +2102,8 @@
 打撃
 敵
 *
-敵一体に打撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Striking
+An unforgettable skill
 //entry 234 -----------------------
 固定／天界拳
 天界拳
@@ -2111,8 +2111,8 @@
 打撃
 敵
 *
-敵一体に打撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Striking
+An unforgettable skill
 //entry 235 -----------------------
 固定／舌
 舌
@@ -2120,8 +2120,8 @@
 打撃
 敵
 *
-敵一体に打撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Striking
+An unforgettable skill
 //entry 236 -----------------------
 固定／殴る
 殴る
@@ -2129,8 +2129,8 @@
 打撃
 敵
 *
-敵一体に打撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Striking
+An unforgettable skill
 //entry 237 -----------------------
 固定／蹴り
 蹴り
@@ -2138,8 +2138,8 @@
 打撃
 敵
 *
-敵一体に打撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Striking
+An unforgettable skill
 //entry 238 -----------------------
 固定／尻尾
 尻尾
@@ -2147,8 +2147,8 @@
 打撃
 敵
 *
-敵一体に打撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Striking
+An unforgettable skill
 //entry 239 -----------------------
 固定／体当たり
 体当たり
@@ -2156,8 +2156,8 @@
 打撃
 敵
 *
-敵一体に打撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Striking
+An unforgettable skill
 //entry 240 -----------------------
 固定／盾打
 盾打
@@ -2165,8 +2165,8 @@
 打撃
 敵
 *
-敵一体に打撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Striking
+An unforgettable skill
 //entry 241 -----------------------
 固定／斧
 斧
@@ -2174,8 +2174,8 @@
 打撃
 敵
 *
-敵一体に打撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Striking
+An unforgettable skill
 //entry 242 -----------------------
 固定／打撃人形
 打撃人形
@@ -2183,8 +2183,8 @@
 打撃
 敵
 *
-敵一体に打撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Striking
+An unforgettable skill
 //entry 243 -----------------------
 固定／棍棒
 棍棒
@@ -2192,8 +2192,8 @@
 打撃
 敵
 *
-敵一体に打撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Striking
+An unforgettable skill
 //entry 244 -----------------------
 固定／金棒
 金棒
@@ -2201,8 +2201,8 @@
 打撃
 敵
 *
-敵一体に打撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Striking
+An unforgettable skill
 //entry 245 -----------------------
 固定／ツタ
 ツタ
@@ -2210,8 +2210,8 @@
 打撃
 敵
 *
-敵一体に打撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Striking
+An unforgettable skill
 //entry 246 -----------------------
 固定／ツルのムチ
 ツルのムチ
@@ -2219,8 +2219,8 @@
 打撃
 敵
 *
-敵一体に打撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Striking
+An unforgettable skill
 //entry 247 -----------------------
 固定／天界杖
 天界杖
@@ -2228,8 +2228,8 @@
 打撃
 敵
 *
-敵一体に打撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Striking
+An unforgettable skill
 //entry 248 -----------------------
 固定／ハンマー
 ハンマー
@@ -2237,8 +2237,8 @@
 打撃
 敵
 *
-敵一体に打撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Striking
+An unforgettable skill
 //entry 249 -----------------------
 固定／殺しの斧
 殺しの斧
@@ -2246,8 +2246,8 @@
 打撃
 敵
 必殺+30
-敵一体に打撃属性の攻撃。|３０％の確率で敵を一撃で倒す（必殺攻撃）。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Striking|30% Death
+An unforgettable skill
 //entry 250 -----------------------
 固定／乱れ斧
 乱れ斧
@@ -2255,8 +2255,8 @@
 打撃
 敵３
 *
-複数の敵に打撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Multiple Enemies|Damage: Striking
+An unforgettable skill
 //entry 251 -----------------------
 固定／払い斧
 払い斧
@@ -2264,8 +2264,8 @@
 打撃
 敵行
 *
-敵一行（横）に打撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Enemy Row|Damage: Striking
+An unforgettable skill
 //entry 252 -----------------------
 固定／振り回しハンマー
 振り回しハンマー
@@ -2273,8 +2273,8 @@
 打撃
 敵行
 *
-敵一行（横）に打撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Enemy Row|Damage: Striking
+An unforgettable skill
 //entry 253 -----------------------
 固定／ホウキ払い
 ホウキ払い
@@ -2282,8 +2282,8 @@
 打撃
 敵行
 *
-敵一行（横）に打撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Enemy Row|Damage: Striking
+An unforgettable skill
 //entry 254 -----------------------
 固定／乱打人形
 乱打人形
@@ -2291,8 +2291,8 @@
 打撃
 敵列
 *
-敵一列（縦）に打撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Enemy Column|Damage: Striking
+An unforgettable skill
 //entry 255 -----------------------
 固定／ベトアタック
 ベトアタック
@@ -2300,8 +2300,8 @@
 射撃
 敵
 *
-敵一体に射撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Ranged
+An unforgettable skill
 //entry 256 -----------------------
 固定／ベトシュート
 ベトシュート
@@ -2309,8 +2309,8 @@
 射撃
 敵
 *
-敵一体に射撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Ranged
+An unforgettable skill
 //entry 257 -----------------------
 固定／ベトインパクト
 ベトインパクト
@@ -2318,8 +2318,8 @@
 射撃
 敵
 *
-敵一体に射撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Ranged
+An unforgettable skill
 //entry 258 -----------------------
 固定／ベトハンマー
 ベトハンマー
@@ -2327,8 +2327,8 @@
 射撃
 敵
 *
-敵一体に射撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Ranged
+An unforgettable skill
 //entry 259 -----------------------
 固定／ベトレーザー
 ベトレーザー
@@ -2336,8 +2336,8 @@
 射撃
 敵
 *
-敵一体に射撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Ranged
+An unforgettable skill
 //entry 260 -----------------------
 固定／天界弓
 天界弓
@@ -2345,8 +2345,8 @@
 射撃
 敵
 *
-敵一体に射撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Ranged
+An unforgettable skill
 //entry 261 -----------------------
 固定／クナイ
 クナイ
@@ -2354,8 +2354,8 @@
 射撃
 敵
 *
-敵一体に射撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Ranged
+An unforgettable skill
 //entry 262 -----------------------
 固定／粘液
 粘液
@@ -2363,8 +2363,8 @@
 射撃
 敵
 *
-敵一体に射撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Ranged
+An unforgettable skill
 //entry 263 -----------------------
 固定／種
 種
@@ -2372,8 +2372,8 @@
 射撃
 敵
 *
-敵一体に射撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Ranged
+An unforgettable skill
 //entry 264 -----------------------
 固定／石
 石
@@ -2381,8 +2381,8 @@
 射撃
 敵
 *
-敵一体に射撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Ranged
+An unforgettable skill
 //entry 265 -----------------------
 固定／弓
 弓
@@ -2390,8 +2390,8 @@
 射撃
 敵
 *
-敵一体に射撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Ranged
+An unforgettable skill
 //entry 266 -----------------------
 固定／レーザー
 レーザー
@@ -2399,8 +2399,8 @@
 射撃
 敵
 *
-敵一体に射撃属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Ranged
+An unforgettable skill
 //entry 267 -----------------------
 固定／小さな火
 小さな火
@@ -2408,8 +2408,8 @@
 火
 敵
 *
-敵一体に火属性攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Fire
+An unforgettable skill
 //entry 268 -----------------------
 固定／火打
 火打
@@ -2417,8 +2417,8 @@
 火
 敵
 *
-敵一体に火属性攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Fire
+An unforgettable skill
 //entry 269 -----------------------
 固定／炭火
 炭火
@@ -2426,8 +2426,8 @@
 火
 敵
 *
-敵一体に火属性攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Fire
+An unforgettable skill
 //entry 270 -----------------------
 固定／魔力の火
 魔力の火
@@ -2435,8 +2435,8 @@
 火
 敵
 *
-敵一体に火属性攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Fire
+An unforgettable skill
 //entry 271 -----------------------
 固定／火のブレス
 火のブレス
@@ -2444,8 +2444,8 @@
 火
 敵
 *
-敵一体に火属性攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Fire
+An unforgettable skill
 //entry 272 -----------------------
 固定／大きな火
 大きな火
@@ -2453,8 +2453,8 @@
 火
 敵全
 *
-敵全体に火属性の大ダメージ攻撃。
-忘れる事の出来ないスキル。
+Target: All Enemies|Damage: Fire
+An unforgettable skill
 //entry 273 -----------------------
 固定／小さな水
 小さな水
@@ -2462,8 +2462,8 @@
 水
 敵
 *
-敵一体に水属性攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Ice
+An unforgettable skill
 //entry 274 -----------------------
 固定／ウォーターショット
 ウォーターショット
@@ -2471,8 +2471,8 @@
 水
 敵
 *
-敵一体に水属性攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Ice
+An unforgettable skill
 //entry 275 -----------------------
 固定／ツララ
 ツララ
@@ -2480,8 +2480,8 @@
 水
 敵
 *
-敵一体に水属性攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Ice
+An unforgettable skill
 //entry 276 -----------------------
 固定／小さな岩
 小さな岩
@@ -2489,8 +2489,8 @@
 土
 敵
 *
-敵一体に土属性攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Earth
+An unforgettable skill
 //entry 277 -----------------------
 固定／小さな風
 小さな風
@@ -2498,8 +2498,8 @@
 風
 敵
 *
-敵一体に風属性攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Wind
+An unforgettable skill
 //entry 278 -----------------------
 固定／小さな雷
 小さな雷
@@ -2507,8 +2507,8 @@
 雷
 敵
 *
-敵一体に雷属性攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Lightning
+An unforgettable skill
 //entry 279 -----------------------
 固定／小さな闇
 小さな闇
@@ -2516,8 +2516,8 @@
 闇
 敵
 *
-敵一体に闇属性攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Dark
+An unforgettable skill
 //entry 280 -----------------------
 固定／闇
 闇
@@ -2525,8 +2525,8 @@
 闇
 敵
 *
-敵一体に闇属性攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Dark
+An unforgettable skill
 //entry 281 -----------------------
 固定／迫る闇
 迫る闇
@@ -2534,8 +2534,8 @@
 闇
 敵４
 *
-複数の敵に闇属性の攻撃。
-忘れる事の出来ないスキル。
+Target: Multiple Enemies|Damage: Dark
+An unforgettable skill
 //entry 282 -----------------------
 固定／歪む闇
 歪む闇
@@ -2543,8 +2543,8 @@
 闇
 敵全
 *
-敵全体に闇属性の大ダメージ攻撃。
-忘れる事の出来ないスキル。
+Target: All Enemies|Damage: Dark
+An unforgettable skill
 //entry 283 -----------------------
 固定／無限の闇
 無限の闇
@@ -2552,8 +2552,8 @@
 闇
 敵全
 *
-敵全体に闇属性の大ダメージ攻撃。
-忘れる事の出来ないスキル。
+Target: All Enemies|Damage: Dark
+An unforgettable skill
 //entry 284 -----------------------
 固定／小さな光
 小さな光
@@ -2561,8 +2561,8 @@
 光
 敵
 *
-敵一体に光属性攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Light
+An unforgettable skill
 //entry 285 -----------------------
 固定／大きな光
 大きな光
@@ -2570,8 +2570,8 @@
 光
 敵全
 *
-敵全体に光属性の大ダメージ攻撃。
-忘れる事の出来ないスキル。
+Target: All Enemies|Damage: Light
+An unforgettable skill
 //entry 286 -----------------------
 固定／魔力の玉
 魔力の玉
@@ -2579,8 +2579,8 @@
 無
 敵
 *
-敵一体に無属性攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Void
+An unforgettable skill
 //entry 287 -----------------------
 固定／魔力塊
 魔力塊
@@ -2588,8 +2588,8 @@
 無
 敵
 *
-敵一体に無属性攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Void
+An unforgettable skill
 //entry 288 -----------------------
 固定／魔力の文字
 魔法の文字
@@ -2597,8 +2597,8 @@
 無
 敵
 *
-敵一体に無属性攻撃。
-忘れる事の出来ないスキル。
+Target: Single Enemy|Damage: Void
+An unforgettable skill
 //entry 289 -----------------------
 固定／混乱の歌
 混乱の歌
@@ -2606,8 +2606,8 @@
 異常
 敵３
 混乱+60|継続+2
-複数の敵に無属性攻撃。|命中時、６０％の確率で混乱状態にする。
-忘れる事の出来ないスキル。
+Target: Multiple Enemies|Damage: Void|60% Confuse
+An unforgettable skill
 //entry 290 -----------------------
 固定／チャミの正気針
 チャミの正気針
@@ -2615,8 +2615,8 @@
 異常回復
 味単
 毒-100|麻痺-100|混乱-100|攻撃ダウン-100|防御ダウン-100|回避ダウン-100|速度ダウン-100
-一人の状態異常を治癒する。|（移動中は味方全体を治癒します）
-忘れる事の出来ないスキル。
+Target: Single Ally|Recover Ailments|(Targets All Allies Outside Battle)
+An unforgettable skill
 //entry 291 -----------------------
 固定／復元
 復元
@@ -2624,8 +2624,8 @@
 異常回復
 味全
 毒-100|麻痺-100|混乱-100|攻撃ダウン-100|防御ダウン-100|回避ダウン-100|速度ダウン-100
-味方全員の状態異常を治癒する。
-忘れる事の出来ないスキル。
+Target: All Allies|Recover Ailments
+An unforgettable skill
 //entry 292 -----------------------
 固定／フワの癒し
 フワの癒し
@@ -2633,8 +2633,8 @@
 回復
 味単
 *
-一人の体力を少し回復する。
-忘れる事の出来ないスキル。
+Target: Single Ally|Recover HP
+An unforgettable skill
 //entry 293 -----------------------
 固定／癒しの心
 癒しの心
@@ -2642,8 +2642,8 @@
 回復
 味単
 *
-一人の体力を少し回復する。
-忘れる事の出来ないスキル。
+Target: Single Ally|Recover HP
+An unforgettable skill
 //entry 294 -----------------------
 固定／癒しの歌
 癒しの歌
@@ -2651,8 +2651,8 @@
 回復
 味単
 *
-一人の体力を少し回復する。
-忘れる事の出来ないスキル。
+Target: Single Ally|Recover HP
+An unforgettable skill
 //entry 295 -----------------------
 固定／癒しの言葉
 癒しの言葉
@@ -2660,8 +2660,8 @@
 回復
 味全
 *
-味方全員の体力を大きく回復する。
-忘れる事の出来ないスキル。
+Target: All Allies|Recover HP
+An unforgettable skill
 //entry 296 -----------------------
 物品／炎球
 炎球
@@ -2669,8 +2669,8 @@
 火
 敵
 *
-敵一体に火属性攻撃。
-アイテムに封じられた古の呪文。
+Target: Single Enemy|Damage: Fire
+A spell sealed in an item
 //entry 297 -----------------------
 物品／水球
 水球
@@ -2678,8 +2678,8 @@
 水
 敵
 *
-敵一体に水属性攻撃。
-アイテムに封じられた古の呪文。
+Target: Single Enemy|Damage: Ice
+A spell sealed in an item
 //entry 298 -----------------------
 物品／岩球
 岩球
@@ -2687,8 +2687,8 @@
 土
 敵
 *
-敵一体に土属性攻撃。
-アイテムに封じられた古の呪文。
+Target: Single Enemy|Damage: Earth
+A spell sealed in an item
 //entry 299 -----------------------
 物品／風球
 風球
@@ -2696,8 +2696,8 @@
 風
 敵
 *
-敵一体に風属性攻撃。
-アイテムに封じられた古の呪文。
+Target: Single Enemy|Damage: Wind
+A spell sealed in an item
 //entry 300 -----------------------
 物品／雷球
 雷球
@@ -2705,8 +2705,8 @@
 雷
 敵
 *
-敵一体に雷属性攻撃。
-アイテムに封じられた古の呪文。
+Target: Single Enemy|Damage: Lightning
+A spell sealed in an item
 //entry 301 -----------------------
 物品／闇球
 闇球
@@ -2714,8 +2714,8 @@
 闇
 敵
 *
-敵一体に闇属性攻撃。
-アイテムに封じられた古の呪文。
+Target: Single Enemy|Damage: Dark
+A spell sealed in an item
 //entry 302 -----------------------
 物品／光球
 光球
@@ -2723,8 +2723,8 @@
 光
 敵
 *
-敵一体に光属性攻撃。
-アイテムに封じられた古の呪文。
+Target: Single Enemy|Damage: Light
+A spell sealed in an item
 //entry 303 -----------------------
 物品／魔球
 魔球
@@ -2732,8 +2732,8 @@
 無
 敵
 *
-敵一体に無属性攻撃。
-アイテムに封じられた古の呪文。
+Target: Single Enemy|Damage: Void
+A spell sealed in an item
 //entry 304 -----------------------
 物品／大炎球
 大炎球
@@ -2741,8 +2741,8 @@
 火
 敵
 *
-敵一体に火属性の大ダメージ攻撃。
-アイテムに封じられた古の呪文。
+Target: Single Enemy|Damage: Fire
+A spell sealed in an item
 //entry 305 -----------------------
 物品／大水球
 大水球
@@ -2750,8 +2750,8 @@
 水
 敵
 *
-敵一体に水属性の大ダメージ攻撃。
-アイテムに封じられた古の呪文。
+Target: Single Enemy|Damage: Ice
+A spell sealed in an item
 //entry 306 -----------------------
 物品／大岩球
 大岩球
@@ -2759,8 +2759,8 @@
 土
 敵
 *
-敵一体に土属性の大ダメージ攻撃。
-アイテムに封じられた古の呪文。
+Target: Single Enemy|Damage: Earth
+A spell sealed in an item
 //entry 307 -----------------------
 物品／大風球
 大風球
@@ -2768,8 +2768,8 @@
 風
 敵
 *
-敵一体に風属性の大ダメージ攻撃。
-アイテムに封じられた古の呪文。
+Target: Single Enemy|Damage: Wind
+A spell sealed in an item
 //entry 308 -----------------------
 物品／大雷球
 大雷球
@@ -2777,8 +2777,8 @@
 雷
 敵
 *
-敵一体に雷属性の大ダメージ攻撃。
-アイテムに封じられた古の呪文。
+Target: Single Enemy|Damage: Lightning
+A spell sealed in an item
 //entry 309 -----------------------
 物品／大闇球
 大闇球
@@ -2786,8 +2786,8 @@
 闇
 敵
 *
-敵一体に闇属性の大ダメージ攻撃。
-アイテムに封じられた古の呪文。
+Target: Single Enemy|Damage: Dark
+A spell sealed in an item
 //entry 310 -----------------------
 物品／大光球
 大光球
@@ -2795,8 +2795,8 @@
 光
 敵
 *
-敵一体に光属性の大ダメージ攻撃。
-アイテムに封じられた古の呪文。
+Target: Single Enemy|Damage: Light
+A spell sealed in an item
 //entry 311 -----------------------
 物品／大魔球
 大魔球
@@ -2804,8 +2804,8 @@
 無
 敵
 *
-敵一体に無属性の大ダメージ攻撃。
-アイテムに封じられた古の呪文。
+Target: Single Enemy|Damage: Void
+A spell sealed in an item
 //entry 312 -----------------------
 物品／巨炎球
 巨炎球
@@ -2813,8 +2813,8 @@
 火
 敵全
 *
-敵全体に火属性攻撃。
-アイテムに封じられた古の呪文。
+Target: All Enemies|Damage: Fire
+A spell sealed in an item
 //entry 313 -----------------------
 物品／巨水球
 巨水球
@@ -2822,8 +2822,8 @@
 水
 敵全
 *
-敵全体に水属性攻撃。
-アイテムに封じられた古の呪文。
+Target: All Enemies|Damage: Ice
+A spell sealed in an item
 //entry 314 -----------------------
 物品／巨岩球
 巨岩球
@@ -2831,8 +2831,8 @@
 土
 敵全
 *
-敵全体に土属性攻撃。
-アイテムに封じられた古の呪文。
+Target: All Enemies|Damage: Earth
+A spell sealed in an item
 //entry 315 -----------------------
 物品／巨風球
 巨風球
@@ -2840,8 +2840,8 @@
 風
 敵全
 *
-敵全体に風属性攻撃。
-アイテムに封じられた古の呪文。
+Target: All Enemies|Damage: Wind
+A spell sealed in an item
 //entry 316 -----------------------
 物品／巨雷球
 巨雷球
@@ -2849,8 +2849,8 @@
 雷
 敵全
 *
-敵全体に雷属性攻撃。
-アイテムに封じられた古の呪文。
+Target: All Enemies|Damage: Lightning
+A spell sealed in an item
 //entry 317 -----------------------
 物品／巨闇球
 巨闇球
@@ -2858,8 +2858,8 @@
 闇
 敵全
 *
-敵全体に闇属性攻撃。
-アイテムに封じられた古の呪文。
+Target: All Enemies|Damage: Dark
+A spell sealed in an item
 //entry 318 -----------------------
 物品／巨光球
 巨光球
@@ -2867,8 +2867,8 @@
 光
 敵全
 *
-敵全体に光属性攻撃。
-アイテムに封じられた古の呪文。
+Target: All Enemies|Damage: Light
+A spell sealed in an item
 //entry 319 -----------------------
 物品／巨魔球
 巨魔球
@@ -2876,8 +2876,8 @@
 無
 敵全
 *
-敵全体に無属性攻撃。
-アイテムに封じられた古の呪文。
+Target: All Enemies|Damage: Void
+A spell sealed in an item
 //entry 320 -----------------------
 物品／超炎球
 超炎球
@@ -2885,8 +2885,8 @@
 火
 敵全
 *
-敵全体に火属性の大ダメージ攻撃。
-アイテムに封じられた古の呪文。
+Target: All Enemies|Damage: Fire
+A spell sealed in an item
 //entry 321 -----------------------
 物品／超水球
 超水球
@@ -2894,8 +2894,8 @@
 水
 敵全
 *
-敵全体に水属性の大ダメージ攻撃。
-アイテムに封じられた古の呪文。
+Target: All Enemies|Damage: Ice
+A spell sealed in an item
 //entry 322 -----------------------
 物品／超岩球
 超岩球
@@ -2903,8 +2903,8 @@
 土
 敵全
 *
-敵全体に土属性の大ダメージ攻撃。
-アイテムに封じられた古の呪文。
+Target: All Enemies|Damage: Earth
+A spell sealed in an item
 //entry 323 -----------------------
 物品／超風球
 超風球
@@ -2912,8 +2912,8 @@
 風
 敵全
 *
-敵全体に風属性の大ダメージ攻撃。
-アイテムに封じられた古の呪文。
+Target: All Enemies|Damage: Wind
+A spell sealed in an item
 //entry 324 -----------------------
 物品／超雷球
 超雷球
@@ -2921,8 +2921,8 @@
 雷
 敵全
 *
-敵全体に雷属性の大ダメージ攻撃。
-アイテムに封じられた古の呪文。
+Target: All Enemies|Damage: Lightning
+A spell sealed in an item
 //entry 325 -----------------------
 物品／超闇球
 超闇球
@@ -2930,8 +2930,8 @@
 闇
 敵全
 *
-敵全体に闇属性の大ダメージ攻撃。
-アイテムに封じられた古の呪文。
+Target: All Enemies|Damage: Dark
+A spell sealed in an item
 //entry 326 -----------------------
 物品／超光球
 超光球
@@ -2939,8 +2939,8 @@
 光
 敵全
 *
-敵全体に光属性の大ダメージ攻撃。
-アイテムに封じられた古の呪文。
+Target: All Enemies|Damage: Light
+A spell sealed in an item
 //entry 327 -----------------------
 物品／超魔球
 超魔球
@@ -2948,5 +2948,5 @@
 無
 敵全
 *
-敵全体に無属性の大ダメージ攻撃。
-アイテムに封じられた古の呪文。
+Target: All Enemies|Damage: Void
+A spell sealed in an item
