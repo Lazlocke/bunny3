@@ -1471,7 +1471,7 @@ mood later.
 #
 <sprite "ta02a016.agf" 4 4 11>
 <name "Macdo" "!ZA0377">
-"Could it be... Lord Aishies exected me to be
+"Could it be... Lord Aishies expected me to be
  taken with Darx?"
 #
 <sprite "ta02a017.agf" 4 4 12>

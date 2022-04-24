@@ -1566,8 +1566,8 @@ bed.
 <background "bg002a0.agf" 10>
 <sprite "ta02a019.agf" 4 4 11>
 <name "Macdo" "!ZA0071">
-"...Scared?
- Of me?"
+"...Am I Scared?
+ Me?"
 #
 <removesprite -1 11>
 <sprite "ta08a000.agf" 2 4 11>
