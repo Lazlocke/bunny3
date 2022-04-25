@@ -303,7 +303,7 @@ Her eyes are burning in anger.
 #
 <name "Darx">
 "Then you won't have any complaints if I were
- to wipe you out to ensure out survival."
+ to wipe you out to ensure our survival."
 #
 <name "Neymal" "!UA0018" "ka39a000.agf">
 "Y-You do have a point..."

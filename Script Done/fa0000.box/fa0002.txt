@@ -127,7 +127,7 @@
 #
 <name "Darx">
 "I'm not saying no, but this is a chance to
- hang out and for you to learn study up."
+ hang out and for you to study up."
 #
 <sprite "ta01a024.agf" 4 4 12>
 <name "Sofia" "!ZB0724">
@@ -155,7 +155,7 @@ The next day...
 #
 <name "Company Maid" "!AC0201">
 "Ah, I see.
- So she was meant to lear from a master?"
+ So she was meant to learn from a master?"
 #
 <name "Darx">
 "I thought it might inspire her."
