@@ -2675,7 +2675,7 @@ She'll understand someday.
 <sprite "ta05a017.agf" 4 4 12>
 <name "Kyuriha" "!FA0019">
 "There are the occasional stories and brief
- occurances, but just having children at all
+ occurrences, but just having children at all
  is rare enough."
 #
 <name "Darx">
@@ -2694,7 +2694,7 @@ She'll understand someday.
 #
 <sprite "ta05a003.agf" 4 4 12>
 <name "Kyuriha" "!FA0021">
-"It is quite the interesting occurance.
+"It is quite the interesting occurrence.
  The God King, and each house's rulers, have
  all taken an interest."
 #
@@ -2734,7 +2734,7 @@ She'll understand someday.
 <sprite "ta05a015.agf" 4 4 11>
 <name "Kyuriha" "!FA0025">
 "You have my thanks. I cannot say I will cause
- you no troubles,  but I will endevor to obey
+ you no troubles,  but I will endeavor to obey
  however I can.
  All I ask is your permission to be here."
 #
@@ -2896,7 +2896,7 @@ She'll understand someday.
 <sprite "ta15a010.agf" 4 4 12>
 <name "Marialis" "!LA0026">
 "You might say that...
-　She's said to be the next generation of the
+ She's said to be the next generation of the
  Holy Seed."
 #
 <name "Darx">
@@ -3060,7 +3060,7 @@ directions.
 #
 <name "Kyuriha" "!FA0035">
 "Let's see...
- There are many opnions, but I believe in my
+ There are many opinions, but I believe in my
  position, I am obligated to say that Celestia
  was."
 #
@@ -3109,7 +3109,7 @@ not.
  like this before?"
 #
 <name "Darx">
-"I am doing something wrong then?"
+"Am I doing something wrong then?"
 #
 <name "Kyuriha" "!FA0041">
 "No, it would be rude to say anything was
