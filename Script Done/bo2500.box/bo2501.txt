@@ -283,7 +283,7 @@ Her eyes are burning in anger.
 "Mmhmm.
  My name is Neymal. 
  I'm the leader of the forces here.
- We are the bisontaur." (REDO THIS SPECIES)
+ We are the gristletaur."
 #
 <name "Neymal" "!UA0016" "ka39a000.agf">
 "Violence solves nothing.
