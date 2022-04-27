@@ -743,82 +743,82 @@ people have in me.
 <background "bg010a0.agf" 10>
 <sprite "ta16a000.agf" 4 4 11>
 <name "Farren" "!FB0106">
-「魔王様」
+"Overlord."
 #
 <name "Darx">
-「お前の勢力下から連れて来た連中は、落ち着いた
-　か？」
+"Have the people you brought settled in?"
 #
 <sprite "ta16a001.agf" 4 4 12>
 <name "Farren" "!FB0107">
-「は、はい」
+"Y-Yes, sir."
 #
 <name "Darx">
-「そうか。
-　まあ、困った事があったら言え」
+"Okay.
+ Well, if there are any problems, let me know."
 #
 <sprite "ta16a000.agf" 4 4 12>
 <name "Farren" "!FB0108">
-「はい」
+"Yes, sir."
 #
 <name "Darx">
-「後、お前は俺の部下だ。
-　存分に働け」
+"And you work for me now.
+ Work hard."
 #
 <name "Farren" "!FB0109">
-「承知しました」
+"Understood."
 #
 <name "Darx">
-「……ずいぶん、素直だな」
+"...You're very well behaved."
 #
 <sprite "ta16a001.agf" 4 4 12>
 <name "Farren" "!FB0110">
-「そんな事は……あります」
+"I... suppose so."
 #
 <name "Darx">
-「素直なヤツは嫌いじゃない。
-　俺に抱かれたい時は言え」
+"I don't mind that.
+ Just say when you want to be with me."
 #
 <sprite "ta16a013.agf" 4 4 12>
 <name "Farren" "!FB0111">
-「はい。
-　では、その……今……」
+"Yes, sir.
+ Then, um... now..."
 #
 <name "Darx">
-「……常時、発情されても困るんだけどな。
-　まあ、良いか」
+"...It's also a problem if you're always horny.
+ Well, it's fine."
 #
 <removesprite -1 11>
-　俺はファレンを近くによせ、キスをする。
+I pull her close and kiss her.
 #
 <sprite "ta16a114.agf" 4 4 11>
 <name "Farren" "!FB0112">
-「ぁ……魔王様」
+"Ah...
+ Overlord..."
 #
 <name "Darx">
-「ん？」
+"Hm?"
 #
 <sprite "ta16a115.agf" 4 4 12>
 <name "Farren" "!FB0114">
-「あの……最初の時に、可愛いって言ってくれたの
-　は、本当ですか？」
+"Um... The first time, you said I was pretty.
+ Did you really mean it?"
 #
 <name "Darx">
-「嘘は言わん」
+"I don't lie."
 #
 <sprite "ta16a116.agf" 4 4 12>
 <name "Farren" "!FB0115">
-「ぁっ」
+"Ah!"
 #
 <removesprite -1 11>
-　ファレンが俺を押し倒した。
+She pushes me down.
 #
 <sprite "ta16a119.agf" 4 4 11>
 <name "Farren" "!FB0116">
-「この身は全て魔王様に」
+"All of me is yours."
 #
 <removesprite -1 11>
-　俺はファレンとの行為を楽しんだ。
+I enjoy myself with her.
 #
 \x0A\x44\x01\xF7\x84\x01
 <exit>
@@ -827,320 +827,325 @@ people have in me.
 <background "bg009a0.agf" 10>
 <sprite "ta19a001.agf" 4 4 11>
 <name "Ao" "!WA0127">
-「ファレンが来た事で、連合も終わりだね」
+"Now that Farren's here, the alliance is
+ finished, huh?"
 #
 <removesprite -1 11>
 <sprite "ta18a003.agf" 4 4 11>
 <name "Lotta" "!HB0071">
-「うん」
+"Yeah."
 #
 <removesprite -1 11>
 <sprite "ta16a009.agf" 2 4 11>
 <sprite "ta18a003.agf" 6 5 11>
 <name "Farren" "!FB0117">
-「ロッタはもう少し、残念そうにしたら？
-　連合の提案したの、ロッタでしょ」
+"Shouldn't you be more disappointed?
+ You're the one who came up with it."
 #
 <sprite "ta18a008.agf" 6 5 12>
 <name "Lotta" "!HB0072">
-「え？
-　私はファレンちゃんから聞いたけど？」
+"Huh?
+ But I heard about it from you."
 #
 <sprite "ta16a010.agf" 2 4 12>
 <name "Farren" "!FB0118">
-「？
-　アオ、タマガ、貴方達は？」
+"Huh?
+ Ao, Tamaga, what about you?"
 #
 <removesprite -1 11>
 <sprite "ta19a001.agf" 4 4 11>
 <name "Ao" "!WA0128">
-「僕はロッタから聞いたよ」
+"I heard it from Lotta."
 #
 <removesprite -1 11>
 <sprite "ta19a001.agf" 2 5 11>
 <sprite "ta17a008.agf" 6 4 11>
 <name "Tamaga" "!PB0097">
-「私はファレンからだ」
+"Farren suggested it to me."
 #
 <removesprite -1 11>
 <sprite "ta16a009.agf" 4 4 11>
 <name "Farren" "!FB0119">
-「え？
-　言ってないわよ」
+"Huh?
+ I never brought it up to anybody."
 #
 <removesprite -1 11>
 <sprite "ta16a009.agf" 2 4 11>
 <sprite "ta18a008.agf" 6 5 11>
 <name "Lotta" "!HB0073">
-「私だって」
+"Me either."
 #
 <removesprite -1 11>
 <sprite "ta19a006.agf" 4 4 11>
 <name "Ao" "!WA0129">
-「ちょっと待って。
-　どういう事？」
+"Hold on.
+ What's going on here?"
 #
 <removesprite -1 11>
 <sprite "ta16a016.agf" 4 4 11>
 <name "Farren" "!FB0120">
-「私は嘘を吐いてないわよ。
-　いまさら、隠しても仕方が無いじゃない」
+"I'm not lying.
+ There'd be no point anymore anyway."
 #
 <removesprite -1 11>
 <sprite "ta17a008.agf" 4 4 11>
 <name "Tamaga" "!PB0098">
-「うむ」
+"Hmm."
 #
 <removesprite -1 11>
 <sprite "ta19a001.agf" 4 4 11>
 <name "Ao" "!WA0130">
-「でも、僕達四勢力が集まったから、他の勢力も参
-　加したんだよね」
+"But everyone else joined because the four of
+ us teamed up."
 #
 <sprite "ta19a000.agf" 4 4 12>
 <name "Ao" "!WA0131">
-「僕達が最初なのは間違いない」
+"We were definitely the first."
 #
 <sprite "ta19a011.agf" 4 4 12>
 <name "Ao" "!WA0132">
-「でも、誰が号令を掛けたんだ？」
+"But who took charge?"
 #
 <removesprite -1 11>
 <sprite "ta16a009.agf" 4 4 11>
 <name "Farren" "!FB0121">
-「私じゃないわよ」
+"It wasn't me."
 #
 <removesprite -1 11>
 <sprite "ta16a009.agf" 2 4 11>
 <sprite "ta18a008.agf" 6 5 11>
 <name "Lotta" "!HB0074">
-「私も違う」
+"Not me either."
 #
 <removesprite -1 11>
 <sprite "ta19a008.agf" 2 5 11>
 <sprite "ta17a008.agf" 6 4 11>
 <name "Tamaga" "!PB0099">
-「どう思う？」
+"Think something's going on?"
 #
 <sprite "ta19a009.agf" 2 5 12>
 <name "Ao" "!WA0133">
-「うん。
-　二人とも、言ってる事は間違ってないんじゃない
-　かな」
+"Yeah.
+ I think they're both probably telling the
+ truth."
 #
 <removesprite -1 11>
 <sprite "ta16a010.agf" 4 4 11>
 <name "Farren" "!FB0122">
-「え？」
+"Huh?"
 #
 <removesprite -1 11>
 <sprite "ta19a000.agf" 4 4 11>
 <name "Ao" "!WA0135">
-「今、思い出せば、少しおかしな事が多い」
+"Thinking back on things, there was a lot that
+ was suspicious."
 #
 <sprite "ta19a001.agf" 4 4 12>
 <name "Ao" "!WA0136">
-「だいたい、ファレンにしてもロッタにしても、自
-　分から連合の話を出したら、勢力の大小に関係無
-　く平等なんて言わないよ」
+"Regardless of whether it was Farren or Lotta
+ who proposed an alliance, neither would have
+ suggested everybody was equal regardless of
+ strength."
 #
 <removesprite -1 11>
 <sprite "ta16a001.agf" 4 4 11>
 <name "Farren" "!FB0123">
-「連合している間は、私に従いなさい」
+"If you want an alliance, you better obey me."
 #
 <sprite "ta16a009.agf" 4 4 12>
 <name "Farren" "!FB0124">
-「そう言うわね」
+"That was my position."
 #
 <removesprite -1 11>
 <sprite "ta19a001.agf" 4 4 11>
 <name "Ao" "!WA0137">
-「ロッタもそうだろ」
+"You too, right?"
 #
 <removesprite -1 11>
 <sprite "ta18a008.agf" 4 4 11>
 <name "Lotta" "!HB0075">
-「う、うん。
-　あの平等ってのが色々邪魔で、何も出来なかった
-　し……」
+"Y-Yeah.
+ That equality thing was really annoying and I
+ couldn't hardly do anything..."
 #
 <removesprite -1 11>
 <sprite "ta17a008.agf" 4 4 11>
 <name "Tamaga" "!PB0100">
-「逆に混乱した」
+"The opposite, it caused confusion."
 #
 <removesprite -1 11>
 <sprite "ta16a015.agf" 4 4 11>
 <name "Farren" "!FB0125">
-「……どういう事？」
+"...What do you mean?"
 #
 <removesprite -1 11>
 <sprite "ta19a000.agf" 4 4 11>
 <name "Ao" "!WA0138">
-「会議とかを思い出しても……」
+"Think back to the meetings too..."
 #
 <removesprite -1 11>
-　……
+...
 #
 <removesprite -1 11>
 <sprite "ta17a008.agf" 4 4 11>
 <name "Tamaga" "!PB0101">
-「そう言えば……
-　ロッタの様子が時々、おかしかった」
+"Now that you mention it...
+ Lotta was acting strangely sometimes."
 #
 <removesprite -1 11>
 <sprite "ta19a001.agf" 4 4 11>
 <name "Ao" "!WA0139">
-「妙に切れていた……」
+"Suspiciously insightful..."
 #
 <removesprite -1 11>
 <sprite "ta16a000.agf" 4 4 11>
 <name "Farren" "!FB0126">
-「連合を誘導するみたいな発言が多かった気がする」
+"I feel like she said a lot of things that
+ ended up guiding the alliance."
 #
 <removesprite -1 11>
 <sprite "ta18a008.agf" 4 4 11>
 <name "Lotta" "!HB0076">
-「え？
-　私、そんな事、してないよ」
+"Huh?
+ I didn't do that stuff."
 #
 <sprite "ta18a009.agf" 4 4 12>
 <name "Lotta" "!HB0077">
-「本当だよ」
+"It's true!"
 #
 <sprite "ta18a008.agf" 4 4 12>
 <name "Lotta" "!HB0078">
-「大体、会議なんて私、ほとんど参加してないでしょ」
+"I hardly even showed up to any of the 
+ meetings after all."
 #
 <removesprite -1 11>
 <sprite "ta16a013.agf" 2 4 11>
 <sprite "ta18a008.agf" 6 5 11>
 <name "Farren" "!FB0127">
-「え？」
+"Huh?"
 #
 <sprite "ta18a009.agf" 6 5 12>
 <name "Lotta" "!HB0079">
-「だって、出なくて良いって連絡が来てたよ。
-　う、嘘じゃないよ。
-　みんな知ってるから」
+"I mean, I was told I didn't have to come.
+ I-I'm not lying.
+ You all knew that."
 #
 <removesprite -1 11>
 <sprite "ta17a008.agf" 4 4 11>
 <name "Tamaga" "!PB0102">
-「ロッタは皆勤だった」
+"You never missed a meeting."
 #
 <removesprite -1 11>
 <sprite "ta19a000.agf" 2 5 11>
 <sprite "ta17a008.agf" 6 4 11>
 <name "Ao" "!WA0140">
-「…………それが本当なら。
-　会議に出てたロッタはなんだ？」
+"...If this is true, then who was the Lotta
+ at them?"
 #
 <sprite "ta17a008.agf" 6 4 11>
 <name "Tamaga" "!PB0103">
-「この話、魔王様に連絡しておこう」
+"We should tell the Overlord about this."
 #
 <sprite "ta19a001.agf" 2 5 12>
 <name "Ao" "!WA0141">
-「うん」
+"Yeah."
 #
 <removesprite -1 11>
 <sprite "ta16a003.agf" 4 4 11>
 <name "Farren" "!FB0128">
-「じゃあ、わたしが代表して……」
+"Then I'll be the one to..."
 #
 <removesprite -1 11>
 <sprite "ta17a000.agf" 2 5 11>
 <sprite "ta16a003.agf" 6 4 11>
 <name "Tamaga" "!PB0104">
-「待て。
-　私が」
+"Wait.
+ I'll do it."
 #
 <removesprite 2 11>
 <sprite "ta19a004.agf" 2 7 11>
 <sprite "ta17a000.agf" 4 5 11>
 <name "Ao" "!WA0142">
-「いや、僕が……」
+"No, I will..."
 #
 <removesprite -1 11>
 <sprite "ta18a009.agf" 4 4 11>
 <name "Lotta" "!HB0080">
-「み、みんなで行こうよ」
+"L-Let's all go."
 #
 <removesprite -1 11>
 <music 3>
 <background "bg010a0.agf" 10>
 <name "Darx">
-「つまり、連合内部に連合を操作するヤツが居たっ
-　て事か」
+"So you're saying there was someone 
+ manipulating the alliance from the inside?"
 #
 <sprite "ta19a001.agf" 4 4 11>
 <name "Ao" "!WA0143">
-「正体は不明ですが……」
+"We have no idea who they really were..."
 #
 <removesprite -1 11>
 <sprite "ta16a000.agf" 4 4 11>
 <name "Farren" "!FB0129">
-「連合の結成も、ひょっとしたら……」
+"The creation of the alliance itself, and
+ maybe also..."
 #
 <name "Darx">
-「わかった。
-　報告ご苦労」
+"I understand.
+ Thank you for telling me."
 #
 <sprite "ta16a015.agf" 4 4 12>
 <name "Farren" "!FB0130">
-「……あの、ご褒美は？」
+"...Um, is there a reward?"
 #
 <removesprite -1 11>
-　……俺は視線をロッタに向ける。
+...I glance at Lotta.
 #
 <name "Darx">
-「教育に悪いだろ。
-　また今度な」
+"It's bad for your education.
+ Maybe next time."
 #
-　流石に、ロッタの前でいきなり始めるのは遠慮し
-　たい。
+I really don't want to even chance getting 
+into any trouble in front of her.
 #
 <removesprite -1 11>
 <sprite "ta16a016.agf" 4 4 11>
 <name "Farren" "!FB0131">
-「あの子、私達の中で最年長ですけど」
+"She's older than the rest of us though."
 #
 <name "Darx">
-「え？
-　そうなの？」
+"Huh? Really?"
 #
 <removesprite -1 11>
 <sprite "ta18a019.agf" 4 4 11>
 <name "Lotta" "!HB0081">
-「うん。
-　あ、子供も居るよー」
+"Yep.
+ Oh, I have kids too."
 #
 <name "Darx">
-「……そっか。
-　でも、まあ、俺の精神を楽にする為に遠慮して貰
-　えるかな」
+"...I see.
+ But, well, it's better for my peace of mind
+ to just say no."
 #
 <sprite "ta18a001.agf" 4 4 12>
 <name "Lotta" "!HB0082">
-「断ってみる」
+"Just try it."
 #
 <removesprite -1 11>
 <sprite "ta16a001.agf" 4 4 11>
 <name "Farren" "!FB0132">
-「ロッタァ」
+"Lotta."
 #
 <removesprite -1 11>
 <sprite "ta19a006.agf" 2 5 11>
 <sprite "ta16a001.agf" 6 4 11>
 <name "Ao" "!WA0144">
-「殺す」
+"I'll kill her."
 #
 <removesprite -1 11>
 <sprite "ta17a006.agf" 4 4 11>
 <name "Tamaga" "!PB0105">
-「出てけ」
+"Out!"
 #
 <removesprite -1 11>
 　……とりあえず、ご褒美はうやむやになった。
