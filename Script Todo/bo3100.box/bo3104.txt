@@ -200,15 +200,15 @@
 :228E
 <music 10>
 <background "ev002a00.agf" 10>
-<name "大工の棟梁" "!ZG0039">
+<name "Chief Carpenter" "!ZG0039">
 「治療所か！
 　気合を入れて作るぜ！」
 #
-<name "大工の作業員" "!ZE0081">
+<name ""Carpenter" "!ZE0081">
 「はい！
 　自分がお世話になるかもしれませんしね」
 #
-<name "大工の棟梁" "!ZG0040">
+<name "Chief Carpenter" "!ZG0040">
 「その通りだ」
 #
 <exit>
@@ -258,53 +258,53 @@
 :2775
 <music 10>
 <background "ev002a00.agf" 10>
-<name "大工の棟梁" "!ZG0041">
+<name "Chief Carpenter" "!ZG0041">
 「家を建てるぞー！」
 #
-<name "大工の作業員" "!ZE0082">
+<name ""Carpenter" "!ZE0082">
 「おー！」
 #
-<name "大工の棟梁" "!ZG0042">
+<name "Chief Carpenter" "!ZG0042">
 「自分の家を作るつもりで、丁寧にな！」
 #
-<name "大工の作業員" "!ZE0083">
+<name ""Carpenter" "!ZE0083">
 「おー！」
 #
-<name "大工の棟梁" "!ZG0043">
+<name "Chief Carpenter" "!ZG0043">
 「だからって、自分のスペースを作るのは許さない」
 #
-<name "大工の作業員" "!ZE0084">
+<name ""Carpenter" "!ZE0084">
 「お、おー」
 #
 <exit>
 :28FB
 <music 10>
 <background "ev002a00.agf" 10>
-<name "大工の棟梁" "!ZG0044">
+<name "Chief Carpenter" "!ZG0044">
 「家を建てるのって楽しいなぁ」
 #
-<name "大工の作業員" "!ZE0085">
+<name ""Carpenter" "!ZE0085">
 「はいっ」
 #
 <exit>
 :2993
 <music 10>
 <background "ev002a00.agf" 10>
-<name "大工の棟梁" "!ZG0045">
+<name "Chief Carpenter" "!ZG0045">
 「色々と建ててきたが……
 　家を建てるのが、一番楽しい」
 #
-<name "大工の作業員" "!ZE0086">
+<name ""Carpenter" "!ZE0086">
 「そうなんですか？」
 #
-<name "大工の棟梁" "!ZG0046">
+<name "Chief Carpenter" "!ZG0046">
 「ああ、色々と建てて、最終的に家が一番との結論
 　に至った」
 #
-<name "大工の作業員" "!ZE0087">
+<name ""Carpenter" "!ZE0087">
 「つまり……引退？」
 #
-<name "大工の棟梁" "!ZG0047">
+<name "Chief Carpenter" "!ZG0047">
 「するか！
 　まだまだ現役だ！」
 #
@@ -312,16 +312,16 @@
 :2B2A
 <music 10>
 <background "ev002a00.agf" 10>
-<name "大工の棟梁" "!ZG0048">
+<name "Chief Carpenter" "!ZG0048">
 「へいへい、へいへい」
 #
-<name "大工の作業員" "!ZE0088">
+<name ""Carpenter" "!ZE0088">
 「へーい、へいへい」
 #
 <name "Sofia" "!ZB0867">
 「何やってるんですか？」
 #
-<name "大工の棟梁" "!ZG0049">
+<name "Chief Carpenter" "!ZG0049">
 「見てわかるだろ。
 　塀を作っているんだ」
 #
@@ -336,49 +336,49 @@
 :2CE0
 <music 10>
 <background "ev002a00.agf" 10>
-<name "大工の棟梁" "!ZG0050">
+<name "Chief Carpenter" "!ZG0050">
 「家を建てる！」
 #
-<name "大工の棟梁" "!ZG0051">
+<name "Chief Carpenter" "!ZG0051">
 「誰の家になるかはわからないが、懇切丁寧に作り
 　上げよう！」
 #
-<name "大工の作業員" "!ZE0089">
+<name ""Carpenter" "!ZE0089">
 「了解です！」
 #
 <exit>
 :2DCF
 <music 10>
 <background "ev002a00.agf" 10>
-<name "大工の棟梁" "!ZG0052">
+<name "Chief Carpenter" "!ZG0052">
 「普通のより、少し高級な住宅」
 #
-<name "大工の作業員" "!ZE0090">
+<name ""Carpenter" "!ZE0090">
 「プランは万全です」
 #
-<name "大工の棟梁" "!ZG0053">
+<name "Chief Carpenter" "!ZG0053">
 「やるぜ！」
 #
-<name "大工の作業員" "!ZE0091">
+<name ""Carpenter" "!ZE0091">
 「おうっ！」
 #
 <exit>
 :2ECF
 <music 10>
 <background "ev002a00.agf" 10>
-<name "大工の作業員" "!ZE0092">
+<name ""Carpenter" "!ZE0092">
 「やっぱ、高級な住宅は空間に余裕がありますね」
 #
-<name "大工の棟梁" "!ZG0054">
+<name "Chief Carpenter" "!ZG0054">
 「だな」
 #
-<name "大工の作業員" "!ZE0093">
+<name ""Carpenter" "!ZE0093">
 「俺もこんな家に住みてー」
 #
-<name "大工の棟梁" "!ZG0055">
+<name "Chief Carpenter" "!ZG0055">
 「まだまだ上のランクの家はいくらでもあるぞ」
 #
-<name "大工の作業員" "!ZE0094">
+<name ""Carpenter" "!ZE0094">
 「はははは。
 　この辺りが俺の現実ラインなので」
 #
@@ -430,29 +430,29 @@
 :33A1
 <music 10>
 <background "ev002a00.agf" 10>
-<name "大工の作業員" "!ZE0095">
+<name ""Carpenter" "!ZE0095">
 「豪邸ですね」
 #
-<name "大工の棟梁" "!ZG0056">
+<name "Chief Carpenter" "!ZG0056">
 「ああ、豪邸だ」
 #
-<name "大工の作業員" "!ZE0096">
+<name ""Carpenter" "!ZE0096">
 「棟梁、豪邸を作る時のコツってなんですか？」
 #
-<name "大工の棟梁" "!ZG0057">
+<name "Chief Carpenter" "!ZG0057">
 「そりゃ、簡単だ」
 #
-<name "大工の棟梁" "!ZG0060">
+<name "Chief Carpenter" "!ZG0060">
 「予算を気にせず、自分の嫁が住む家だと思って、
 　作れば良い」
 #
-<name "大工の作業員" "!ZE0097">
+<name ""Carpenter" "!ZE0097">
 「な、なるほど」
 #
-<name "大工の棟梁" "!ZG0061">
+<name "Chief Carpenter" "!ZG0061">
 「思いっきり、金を掛けるぜ！」
 #
-<name "大工の作業員" "!ZE0098">
+<name ""Carpenter" "!ZE0098">
 「うっす！」
 #
 <name "商会メイドＣ" "!PC0343">
@@ -463,16 +463,16 @@
 :361F
 <music 10>
 <background "ev002a00.agf" 10>
-<name "大工の棟梁" "!ZG0062">
+<name "Chief Carpenter" "!ZG0062">
 「ふふふ……一般の家では使えなかった、匠の技の
 　全てを今、ここに！」
 #
-<name "大工の作業員" "!ZE0099">
+<name ""Carpenter" "!ZE0099">
 「あー、棟梁。
 　その匠の技、あまり評判が良くないから、別のプ
 　ランでお願いできますか」
 #
-<name "大工の棟梁" "!ZG0063">
+<name "Chief Carpenter" "!ZG0063">
 「えー」
 #
 <exit>
@@ -506,77 +506,77 @@
 :39C3
 <music 10>
 <background "ev002a00.agf" 10>
-<name "大工の作業員" "!ZE0100">
+<name ""Carpenter" "!ZE0100">
 「棟梁、巨人用の家を作ってるんですよね」
 #
-<name "大工の棟梁" "!ZG0064">
+<name "Chief Carpenter" "!ZG0064">
 「ああ、そうだぞ」
 #
-<name "大工の作業員" "!ZE0101">
+<name ""Carpenter" "!ZE0101">
 「どうして道まで作っているんですか？」
 #
-<name "大工の棟梁" "!ZG0068">
+<name "Chief Carpenter" "!ZG0068">
 「それは大きいヤツの専用道」
 #
-<name "大工の棟梁" "!ZG0069">
+<name "Chief Carpenter" "!ZG0069">
 「でっかい奴は、なんだかんだで歩くのに気を遣っ
 　てるだろ？」
 #
-<name "大工の棟梁" "!ZG0070">
+<name "Chief Carpenter" "!ZG0070">
 「家の周りぐらいは、自由に歩いて貰いたいからな」
 #
-<name "大工の作業員" "!ZE0102">
+<name ""Carpenter" "!ZE0102">
 「なるほど。
 　でも、それって踏んづける事故が起こりません？」
 #
-<name "大工の棟梁" "!ZG0071">
+<name "Chief Carpenter" "!ZG0071">
 「魔界でも心配されたが、今の所は大丈夫だ。
 　評判も良い。
 　問題は無い」
 #
-<name "大工の作業員" "!ZE0103">
+<name ""Carpenter" "!ZE0103">
 「了解です」
 #
 <exit>
 :3CA9
 <music 10>
 <background "ev002a00.agf" 10>
-<name "大工の作業員" "!ZE0104">
+<name ""Carpenter" "!ZE0104">
 「棟梁、この堀はなんですか？」
 #
-<name "大工の棟梁" "!ZG0072">
+<name "Chief Carpenter" "!ZG0072">
 「ここは巨人用の家。
 　つまりデッカイヤツが住む場所だろ」
 #
-<name "大工の作業員" "!ZE0105">
+<name ""Carpenter" "!ZE0105">
 「ええ」
 #
-<name "大工の棟梁" "!ZG0073">
+<name "Chief Carpenter" "!ZG0073">
 「小人サイズや小さい奴等が、万が一踏まれそうに
 　なった時の退避場所だ」
 #
-<name "大工の作業員" "!ZE0106">
+<name ""Carpenter" "!ZE0106">
 「あ、ああ、なるほど」
 #
-<name "大工の棟梁" "!ZG0074">
+<name "Chief Carpenter" "!ZG0074">
 「必要とされる事態が起きない事を祈ろう」
 #
-<name "大工の作業員" "!ZE0107">
+<name ""Carpenter" "!ZE0107">
 「う、うっす」
 #
 <exit>
 :3EBF
 <music 10>
 <background "ev002a00.agf" 10>
-<name "大工の作業員" "!ZE0108">
+<name ""Carpenter" "!ZE0108">
 「でかい家を建ててると、気持ちまで大きくなりま
 　すね」
 #
-<name "大工の棟梁" "!ZG0075">
+<name "Chief Carpenter" "!ZG0075">
 「それはわかるが……
 　普通の家を作る時、サイズを間違えるなよ」
 #
-<name "大工の作業員" "!ZE0109">
+<name ""Carpenter" "!ZE0109">
 「あ、あはは……
 　失敗しそうです。
 　注意します」
@@ -585,22 +585,22 @@
 :4003
 <music 10>
 <background "ev002a00.agf" 10>
-<name "大工の作業員" "!ZE0110">
+<name ""Carpenter" "!ZE0110">
 「人型じゃない魔族や魔物の家って、難しいですね」
 #
-<name "大工の棟梁" "!ZG0076">
+<name "Chief Carpenter" "!ZG0076">
 「どんなものでも作る。
 　それが俺達だろう」
 #
-<name "大工の作業員" "!ZE0111">
+<name ""Carpenter" "!ZE0111">
 「ですけど……家を作ってるってより、泥遊びをし
 　ている感じに近いんですけど……」
 #
-<name "大工の棟梁" "!ZG0077">
+<name "Chief Carpenter" "!ZG0077">
 「大丈夫だ。
 　ちゃんと家になるから」
 #
-<name "大工の作業員" "!ZE0112">
+<name ""Carpenter" "!ZE0112">
 「不安だなぁ」
 #
 <exit>
@@ -679,10 +679,10 @@
 :478C
 <music 10>
 <background "bg012a0.agf" 10>
-<name "大工の棟梁" "!ZG0079">
+<name "Chief Carpenter" "!ZG0079">
 「畑作りって、大工の仕事じゃないよな」
 #
-<name "大工の作業員" "!ZE0113">
+<name ""Carpenter" "!ZE0113">
 「ん、あぁ」
 #
 <sprite "ta34a000.agf" 4 4 11>
@@ -851,37 +851,37 @@
 :55CD
 <music 11>
 <background "bg013a0.agf" 10>
-<name "大工の作業員" "!ZE0114">
+<name ""Carpenter" "!ZE0114">
 「牧場作りって、柵とか作れば良いんですかね？」
 #
-<name "大工の棟梁" "!ZG0080">
+<name "Chief Carpenter" "!ZG0080">
 「他に牛舎とかもある。
 　のんびりする暇は無いぞ」
 #
-<name "大工の作業員" "!ZE0115">
+<name ""Carpenter" "!ZE0115">
 「はーい」
 #
 <exit>
 :56CA
 <music 11>
 <background "bg013a0.agf" 10>
-<name "大工の作業員" "!ZE0116">
+<name ""Carpenter" "!ZE0116">
 「牛舎は完成。
 　牛はどうするんですか？」
 #
-<name "大工の棟梁" "!ZG0081">
+<name "Chief Carpenter" "!ZG0081">
 「大工が牛や羊を作ると思うか？」
 #
-<name "大工の作業員" "!ZE0117">
+<name ""Carpenter" "!ZE0117">
 「あはは。
 　買ってくるんですよね」
 #
-<name "大工の棟梁" "!ZG0082">
+<name "Chief Carpenter" "!ZG0082">
 「その辺りは俺達の仕事じゃないから、気にするな。
 　それより、柵周り、もう一回チェックだ。
 　動物に怪我させるなよ」
 #
-<name "大工の作業員" "!ZE0118">
+<name ""Carpenter" "!ZE0118">
 「了解」
 #
 <exit>
@@ -913,13 +913,13 @@
 :5A43
 <music 11>
 <background "bg013a0.agf" 10>
-<name "大工の作業員" "!ZE0119">
+<name ""Carpenter" "!ZE0119">
 「苗木はこことここで……」
 #
 <name "果樹園で働く住民" "!BC0114">
 「あー……もう少し、間隔を狭めてくれ」
 #
-<name "大工の作業員" "!ZE0120">
+<name ""Carpenter" "!ZE0120">
 「いいんですか？
 　密集させ過ぎるのも駄目なんでしょ？」
 #
@@ -927,7 +927,7 @@
 「俺の経験だと、この種類はある程度近い方が、実
 　りが良いんだ」
 #
-<name "大工の作業員" "!ZE0121">
+<name ""Carpenter" "!ZE0121">
 「へぇ」
 #
 <exit>
@@ -981,14 +981,14 @@
 :5FDA
 <music 10>
 <background "ev002a00.agf" 10>
-<name "大工の作業員" "!ZE0122">
+<name ""Carpenter" "!ZE0122">
 「採掘場って、大工が作る物なのかな？」
 #
-<name "大工の棟梁" "!ZG0083">
+<name "Chief Carpenter" "!ZG0083">
 「機械の設置とか、色々とやる事がある。
 　ほれ、動け」
 #
-<name "大工の作業員" "!ZE0123">
+<name ""Carpenter" "!ZE0123">
 「うーっす」
 #
 <exit>
@@ -998,34 +998,34 @@
 <name "Sofia" "!ZB0886">
 「手伝っちゃいますよー！」
 #
-<name "大工の作業員" "!ZE0124">
+<name ""Carpenter" "!ZE0124">
 「元気だなぁ」
 #
-<name "大工の棟梁" "!ZG0084">
+<name "Chief Carpenter" "!ZG0084">
 「感心しとらんで、動け。
 　働きで負けるなよ」
 #
-<name "大工の作業員" "!ZE0125">
+<name ""Carpenter" "!ZE0125">
 「う、うっす」
 #
 <exit>
 :61F0
 <music 10>
 <background "ev002a00.agf" 10>
-<name "大工の作業員" "!ZE0126">
+<name ""Carpenter" "!ZE0126">
 「集積場って……倉庫ですよね？」
 #
-<name "大工の棟梁" "!ZG0085">
+<name "Chief Carpenter" "!ZG0085">
 「そうだな」
 #
-<name "大工の作業員" "!ZE0127">
+<name ""Carpenter" "!ZE0127">
 「あまり面白い建物ではありませんよね」
 #
-<name "大工の棟梁" "!ZG0086">
+<name "Chief Carpenter" "!ZG0086">
 「これも仕事だ。
 　さっさと作るぞ」
 #
-<name "大工の作業員" "!ZE0128">
+<name ""Carpenter" "!ZE0128">
 「はーい」
 #
 <exit>
@@ -1045,19 +1045,19 @@
 :6431
 <music 10>
 <background "ev002a00.agf" 10>
-<name "大工の作業員" "!ZE0129">
+<name ""Carpenter" "!ZE0129">
 「工場を作るぞ！」
 #
-<name "大工の作業員" "!ZE0130">
+<name ""Carpenter" "!ZE0130">
 「って、工場？
 　何をどう作れば……」
 #
-<name "大工の棟梁" "!ZG0087">
+<name "Chief Carpenter" "!ZG0087">
 「物を作る場所って事だ。
 　とりあえず、箱を作れ。
 　中身は、働く奴等の意見を聞いてカスタマイズする」
 #
-<name "大工の作業員" "!ZE0131">
+<name ""Carpenter" "!ZE0131">
 「了解しました」
 #
 <exit>
@@ -1082,40 +1082,40 @@
 :66DA
 <music 10>
 <background "ev002a00.agf" 10>
-<name "大工の作業員" "!ZE0132">
+<name ""Carpenter" "!ZE0132">
 「研究塔……なぜ塔なんです？」
 #
-<name "大工の棟梁" "!ZG0091">
+<name "Chief Carpenter" "!ZG0091">
 「研究は塔じゃなきゃ嫌だと言う派閥があるんだ」
 #
-<name "大工の作業員" "!ZE0133">
+<name ""Carpenter" "!ZE0133">
 「あるんですか」
 #
-<name "大工の棟梁" "!ZG0092">
+<name "Chief Carpenter" "!ZG0092">
 「ああ。
 　俺も納得できないけど、仕事だから割り切ってる」
 #
-<name "大工の作業員" "!ZE0134">
+<name ""Carpenter" "!ZE0134">
 「さすが棟梁、大人ですね」
 #
-<name "大工の棟梁" "!ZG0093">
+<name "Chief Carpenter" "!ZG0093">
 「ははは。
 　さー、作るぞー！」
 #
-<name "大工の作業員" "!ZE0135">
+<name ""Carpenter" "!ZE0135">
 「うっす」
 #
 <exit>
 :68D6
 <music 10>
 <background "ev002a00.agf" 10>
-<name "大工の作業員" "!ZE0136">
+<name ""Carpenter" "!ZE0136">
 「塔って、高くし過ぎたら駄目なんですか？」
 #
-<name "大工の棟梁" "!ZG0094">
+<name "Chief Carpenter" "!ZG0094">
 「魔王亭より目立っちゃ駄目だろ」
 #
-<name "大工の作業員" "!ZE0137">
+<name ""Carpenter" "!ZE0137">
 「あ、なるほど」
 #
 <exit>
@@ -1172,22 +1172,22 @@
 :6DB9
 <music 10>
 <background "ev002a00.agf" 10>
-<name "大工の作業員" "!ZE0146">
+<name ""Carpenter" "!ZE0146">
 「棟梁、娯楽店ってなんですか？」
 #
-<name "大工の棟梁" "!ZG0095">
+<name "Chief Carpenter" "!ZG0095">
 「あー、色々と遊べる所だな。
 　代表的なのは……カジノかな」
 #
-<name "大工の作業員" "!ZE0147">
+<name ""Carpenter" "!ZE0147">
 「おおっ！
 　楽しみです」
 #
-<name "大工の棟梁" "!ZG0096">
+<name "Chief Carpenter" "!ZG0096">
 「そうか。
 　よーし、全力で働けー」
 #
-<name "大工の作業員" "!ZE0148">
+<name ""Carpenter" "!ZE0148">
 「うっす」
 #
 <exit>
@@ -1200,7 +1200,7 @@
 <name "期待する街の住民" "!UA0121">
 「カジノ、劇場、遊技場……楽しみだなぁ」
 #
-<name "大工の作業員" "!ZE0149">
+<name ""Carpenter" "!ZE0149">
 「楽しみなのはわかったから、ここで遊ばない。
 　作業の邪魔だぞ」
 #
@@ -1208,17 +1208,17 @@
 :704F
 <music 10>
 <background "ev002a00.agf" 10>
-<name "大工の作業員" "!ZE0150">
+<name ""Carpenter" "!ZE0150">
 「Ｈな娯楽店」
 #
-<name "大工の作業員" "!ZE0151">
+<name ""Carpenter" "!ZE0151">
 「棟梁、俺、全力でやりますよ！」
 #
-<name "大工の棟梁" "!ZG0098">
+<name "Chief Carpenter" "!ZG0098">
 「その意気込みは嬉しいけど、どんな建物でも全力
 　でやって欲しいなぁ」
 #
-<name "大工の作業員" "!ZE0152">
+<name ""Carpenter" "!ZE0152">
 「ふはははは。
 　力が湧いてくるようだ！」
 #
@@ -1348,39 +1348,39 @@
 :7B10
 <music 10>
 <background "ev002a00.agf" 10>
-<name "大工の棟梁" "!ZG0101">
+<name "Chief Carpenter" "!ZG0101">
 「プール。
 　作るぞ」
 #
-<name "大工の作業員" "!ZE0153">
+<name ""Carpenter" "!ZE0153">
 「プールですか」
 #
-<name "大工の棟梁" "!ZG0102">
+<name "Chief Carpenter" "!ZG0102">
 「プールだ」
 #
-<name "大工の作業員" "!ZE0154">
+<name ""Carpenter" "!ZE0154">
 「わかりました」
 #
-<name "大工の棟梁" "!ZG0103">
+<name "Chief Carpenter" "!ZG0103">
 「お？
 　妙なテンションでヤル気になると思ったのに……
 　今回はまともだな」
 #
-<name "大工の作業員" "!ZE0155">
+<name ""Carpenter" "!ZE0155">
 「いつまでも子供じゃありませんから」
 #
-<name "大工の作業員" "!ZE0156">
+<name ""Carpenter" "!ZE0156">
 「プール。
 　最高の物に仕上げますよ」
 #
-<name "大工の棟梁" "!ZG0104">
+<name "Chief Carpenter" "!ZG0104">
 「お、おう」
 #
-<name "大工の作業員" "!ZE0157">
+<name ""Carpenter" "!ZE0157">
 「だから、女子更衣室に俺の部屋を作っても良いで
 　すか？」
 #
-<name "大工の棟梁" "!ZG0105">
+<name "Chief Carpenter" "!ZG0105">
 「それ、俺がＯＫすると思うか？」
 #
 　プールの建設が行われた。
@@ -1393,13 +1393,13 @@
 「大工さん。
 　なにを作ってるんですか？」
 #
-<name "大工の作業員" "!ZE0158">
+<name ""Carpenter" "!ZE0158">
 「プールだよ」
 #
 <name "見学する街の住民" "!MB0090">
 「プールって……あの泳ぐ場所ですか？」
 #
-<name "大工の作業員" "!ZE0159">
+<name ""Carpenter" "!ZE0159">
 「ああ。
 　もうすぐだ。
 　楽しみに待ってな」
@@ -1412,34 +1412,34 @@
 :7F97
 <music 10>
 <background "ev002a00.agf" 10>
-<name "大工の作業員" "!ZE0160">
+<name ""Carpenter" "!ZE0160">
 「ここ、何になるんですか？」
 #
-<name "大工の棟梁" "!ZG0106">
+<name "Chief Carpenter" "!ZG0106">
 「酒を造る所だ」
 #
-<name "大工の作業員" "!ZE0161">
+<name ""Carpenter" "!ZE0161">
 「へぇ」
 #
-<name "大工の棟梁" "!ZG0107">
+<name "Chief Carpenter" "!ZG0107">
 「ここで働く奴等から、色々と細かい注文が出てい
 　るからな。
 　適当な仕事はするなよ」
 #
-<name "大工の作業員" "!ZE0162">
+<name ""Carpenter" "!ZE0162">
 「しませんよ」
 #
 <exit>
 :810B
 <music 10>
 <background "ev002a00.agf" 10>
-<name "大工の作業員" "!ZH0098">
+<name ""Carpenter" "!ZH0098">
 「大衆浴場」
 #
 <name "内装の作業員" "!MB0113">
 「良い響きだな」
 #
-<name "大工の作業員" "!ZH0099">
+<name ""Carpenter" "!ZH0099">
 「ああ。
 　ロマンに溢れる響きだ」
 #
@@ -1456,19 +1456,19 @@
 :82D3
 <music 10>
 <background "ev002a00.agf" 10>
-<name "大工の作業員" "!ZE0165">
+<name ""Carpenter" "!ZE0165">
 「お風呂、お風呂♪」
 #
 <name "真面目な作業員" "!LB0161">
 「頑張られていますね」
 #
-<name "大工の作業員" "!ZE0166">
+<name ""Carpenter" "!ZE0166">
 「おうよ」
 #
 <name "真面目な作業員" "!LB0162">
 「この調子で頑張ってください」
 #
-<name "大工の作業員" "!ZE0167">
+<name ""Carpenter" "!ZE0167">
 「任せとけ」
 #
 <name "真面目な作業員" "!LB0163">
@@ -1476,21 +1476,21 @@
 　貴方が作った壁、穴が開いていましたよ。
 　ちゃんと私が塞いでおきましたら、お礼は後ほど」
 #
-<name "大工の作業員" "!ZE0168">
+<name ""Carpenter" "!ZE0168">
 「え？」
 #
 <name "真面目な作業員" "!LB0164">
 「絶妙な位置の穴でしたが、まさかワザと開けた覗
 　き穴ではありませんよね」
 #
-<name "大工の作業員" "!ZE0169">
+<name ""Carpenter" "!ZE0169">
 「え、あ、お、おう。
 　当たり前じゃないか」
 #
 <name "真面目な作業員" "!LB0165">
 「では、お礼を期待しております」
 #
-<name "大工の作業員" "!ZE0170">
+<name ""Carpenter" "!ZE0170">
 「……わ、わかりました」
 #
 <exit>
@@ -1500,54 +1500,54 @@
 <name "Sofia" "!ZB0907">
 「温泉って、作れるんですか？」
 #
-<name "大工の作業員" "!JA0120">
+<name ""Carpenter" "!JA0120">
 「湯は掘って出したいが……ここらでは無理。
 　地下は迷宮だらけだからな。
 　お湯は魔法で転送だな」
 #
-<name "大工の作業員" "!JA0122">
+<name ""Carpenter" "!JA0122">
 「俺達が作るのは脱衣所とかの周辺施設だ」
 #
 <name "Sofia" "!ZB0908">
 「なるほど」
 #
-<name "大工の作業員" "!JA0123">
+<name ""Carpenter" "!JA0123">
 「お嬢ちゃんは、女性目線で何か気付いた事があっ
 　たら言ってくれ」
 #
 <name "Sofia" "!ZB0909">
 「了解ですが……」
 #
-<name "大工の作業員" "!JA0124">
+<name ""Carpenter" "!JA0124">
 「なにかあるのか？」
 #
 <name "Sofia" "!ZB0910">
 「あの建物、更衣室にしては大きいですよね」
 #
-<name "大工の作業員" "!JA0125">
+<name ""Carpenter" "!JA0125">
 「宿泊施設だ」
 #
 <name "Sofia" "!ZB0911">
 「……えっと」
 #
-<name "大工の作業員" "!JA0126">
+<name ""Carpenter" "!JA0126">
 「ああ、言わなくてもわかる。
 　徒歩圏内にある宿泊施設に、わざわざ泊まるヤツ
 　が居るのかって事だろ？」
 #
-<name "大工の作業員" "!JA0127">
+<name ""Carpenter" "!JA0127">
 「それに関しては気にするな」
 #
 <name "Sofia" "!ZB0912">
 「どうして？」
 #
-<name "大工の作業員" "!JA0128">
+<name ""Carpenter" "!JA0128">
 「ギュンギュスカー商会、本社からの指示だから」
 #
 <name "Sofia" "!ZB0913">
 「嫌がらせ？」
 #
-<name "大工の作業員" "!JA0129">
+<name ""Carpenter" "!JA0129">
 「商会はそんな理由で金を使わせるほど馬鹿じゃな
 　いだろ。
 　嫌がらせなら、もっと高度にやる」
@@ -1555,7 +1555,7 @@
 <name "Sofia" "!ZB0914">
 「た、確かに」
 #
-<name "大工の作業員" "!JA0130">
+<name ""Carpenter" "!JA0130">
 「安心しな。
 　きっと、俺達には理解できない何か考えがあるん
 　だろ」
@@ -1563,7 +1563,7 @@
 <name "Sofia" "!ZB0915">
 「ですね」
 #
-<name "大工の作業員" "!JA0131">
+<name ""Carpenter" "!JA0131">
 「まあ、視察に来た時の宿泊施設が欲しいだけかも
 　しれないけどな」
 #
@@ -1574,38 +1574,38 @@
 :8C5F
 <music 10>
 <background "ev002a00.agf" 10>
-<name "大工の棟梁" "!ZG0111">
+<name "Chief Carpenter" "!ZG0111">
 「温泉を作るぞ！」
 #
-<name "大工の作業員" "!ZE0173">
+<name ""Carpenter" "!ZE0173">
 「おー！」
 #
-<name "大工の棟梁" "!ZG0112">
+<name "Chief Carpenter" "!ZG0112">
 「完成したら、一番最初に入って良いらしい！
 　頑張るぞ！」
 #
-<name "大工の作業員" "!ZE0174">
+<name ""Carpenter" "!ZE0174">
 「おーっ！」
 #
 <exit>
 :8D78
 <music 10>
 <background "ev002a00.agf" 10>
-<name "大工の作業員" "!ZE0175">
+<name ""Carpenter" "!ZE0175">
 「公園って……適当な広場に、遊具をちょっと置け
 　ば完成じゃないんですか？」
 #
-<name "大工の棟梁" "!ZG0113">
+<name "Chief Carpenter" "!ZG0113">
 「まあ、そういった公園もあるが、俺達が作るんだ
 　からちゃんとした公園だ」
 #
-<name "大工の棟梁" "!ZG0114">
+<name "Chief Carpenter" "!ZG0114">
 「ここに来る者達の動線を考え、配置する」
 #
-<name "大工の棟梁" "!ZG0115">
+<name "Chief Carpenter" "!ZG0115">
 「結構、大変だぞ」
 #
-<name "大工の作業員" "!ZE0176">
+<name ""Carpenter" "!ZE0176">
 「が、頑張ります」
 #
 <exit>
@@ -1615,19 +1615,19 @@
 <name "Company Maid" "!DC0330">
 「公園の発注でしたよね」
 #
-<name "大工の棟梁" "!ZG0116">
+<name "Chief Carpenter" "!ZG0116">
 「ああ」
 #
 <name "Company Maid" "!DC0331">
 「あの大きな城はなんですか？」
 #
-<name "大工の棟梁" "!ZG0117">
+<name "Chief Carpenter" "!ZG0117">
 「手が勝手にだな……」
 #
 <name "Company Maid" "!DC0332">
 「潰してください」
 #
-<name "大工の棟梁" "!ZG0118">
+<name "Chief Carpenter" "!ZG0118">
 「りょ、了解」
 #
 <exit>
@@ -1654,34 +1654,34 @@
 :9219
 <music 10>
 <background "ev002a00.agf" 10>
-<name "大工の作業員" "!ZE0206">
+<name ""Carpenter" "!ZE0206">
 「学園寮を立派に作るより、軽めに作って一般の方
 　に誘導するのはどうだろう？」
 #
-<name "大工の棟梁" "!ZG0123">
+<name "Chief Carpenter" "!ZG0123">
 「手、抜けってのか？」
 #
-<name "大工の作業員" "!ZE0207">
+<name ""Carpenter" "!ZE0207">
 「そんな事、言うわけないじゃないですかぁ」
 #
-<name "大工の作業員" "!ZE0208">
+<name ""Carpenter" "!ZE0208">
 「一生、ここに住みたいって思わせるような寮にし
 　ましょうね」
 #
-<name "大工の棟梁" "!ZG0124">
+<name "Chief Carpenter" "!ZG0124">
 「おうよ」
 #
 <exit>
 :93CB
 <music 10>
 <background "ev002a00.agf" 10>
-<name "大工の作業員" "!CB0159">
+<name ""Carpenter" "!CB0159">
 「寮が増えると、学園生も増える」
 #
 <name "内装の作業員" "!KB0207">
 「学園生が増えると、街が賑やかになる」
 #
-<name "大工の作業員" "!CB0160">
+<name ""Carpenter" "!CB0160">
 「いいねぇ」
 #
 <exit>
@@ -1691,7 +1691,7 @@
 <name "内装の作業員" "!KB0208">
 「さすがに学園寮だけ作り過ぎじゃないか？」
 #
-<name "大工の作業員" "!CB0161">
+<name ""Carpenter" "!CB0161">
 「学園街みたいだしな」
 #
 <name "内装の作業員" "!KB0209">
@@ -1701,35 +1701,35 @@
 :95AB
 <music 11>
 <background "bg013a0.agf" 10>
-<name "大工の棟梁" "!ZG0125">
+<name "Chief Carpenter" "!ZG0125">
 「俺達に作れん物はない！」
 #
-<name "大工の作業員" "!ZE0209">
+<name ""Carpenter" "!ZE0209">
 「そうだ！」
 #
-<name "大工の棟梁" "!ZG0126">
+<name "Chief Carpenter" "!ZG0126">
 「しかし……森を作れと言うのは……」
 #
-<name "大工の作業員" "!ZE0210">
+<name ""Carpenter" "!ZE0210">
 「無茶振りですね」
 #
-<name "大工の棟梁" "!ZG0127">
+<name "Chief Carpenter" "!ZG0127">
 「だが、俺達に作れん物はない！」
 #
-<name "大工の作業員" "!ZE0211">
+<name ""Carpenter" "!ZE0211">
 「そうだ！」
 #
-<name "大工の棟梁" "!ZG0128">
+<name "Chief Carpenter" "!ZG0128">
 「とりあえず、手を考えよう」
 #
-<name "大工の作業員" "!ZE0212">
+<name ""Carpenter" "!ZE0212">
 「はーい」
 #
 <exit>
 :9799
 <music 10>
 <background "bg012a0.agf" 10>
-<name "大工の作業員" "!CB0162">
+<name ""Carpenter" "!CB0162">
 「森を作るのにも慣れてきたな」
 #
 <name "拘る作業員" "!KB0213">
@@ -1737,14 +1737,14 @@
 　ふふふ……手が入ったなんて感じさせない作り。
 　美しい」
 #
-<name "大工の作業員" "!CB0163">
+<name ""Carpenter" "!CB0163">
 「……ほどほどにな」
 #
 <exit>
 :98A3
 <music 10>
 <background "bg012a0.agf" 10>
-<name "大工の作業員" "!CB0164">
+<name ""Carpenter" "!CB0164">
 「森ばかり作って、どうするんだろ？」
 #
 <name "考えない作業員" "!KB0214">
@@ -1756,20 +1756,20 @@
 :998D
 <music 11>
 <background "bg013a0.agf" 10>
-<name "大工の棟梁" "!ZG0129">
+<name "Chief Carpenter" "!ZG0129">
 「池かぁ」
 #
-<name "大工の作業員" "!ZE0213">
+<name ""Carpenter" "!ZE0213">
 「穴を掘って、水を入れるだけじゃ……
 　駄目ですよね」
 #
-<name "大工の棟梁" "!ZG0130">
+<name "Chief Carpenter" "!ZG0130">
 「それでいけそうな気もするけど……」
 #
-<name "大工の作業員" "!ZE0214">
+<name ""Carpenter" "!ZE0214">
 「色々、試しながらやってみましょう」
 #
-<name "大工の棟梁" "!ZG0131">
+<name "Chief Carpenter" "!ZG0131">
 「おう」
 #
 <exit>
@@ -1790,81 +1790,81 @@
 :9BCF
 <music 11>
 <background "bg013a0.agf" 10>
-<name "大工の作業員" "!ZE0215">
+<name ""Carpenter" "!ZE0215">
 「何も作らないと、寂しいですね」
 #
-<name "大工の棟梁" "!ZG0132">
+<name "Chief Carpenter" "!ZG0132">
 「何かを作る為の準備だ。
 　キリキリ働けー」
 #
-<name "大工の作業員" "!ZE0216">
+<name ""Carpenter" "!ZE0216">
 「うーっす」
 #
 <exit>
 :9CBA
 <music 11>
 <background "bg013a0.agf" 10>
-<name "大工の棟梁" "!ZG0133">
+<name "Chief Carpenter" "!ZG0133">
 「整地にも拘りを持つ！」
 #
-<name "大工の作業員" "!ZE0217">
+<name ""Carpenter" "!ZE0217">
 「す、すげぇ！
 　自然な筈の地面で、不自然なぐらいに平たい！」
 #
-<name "大工の棟梁" "!ZG0134">
+<name "Chief Carpenter" "!ZG0134">
 「整い過ぎて、逆に気持ち悪い！」
 #
 <exit>
 :9DC1
 <music 11>
 <background "bg013a0.agf" 10>
-<name "大工の作業員" "!ZE0218">
+<name ""Carpenter" "!ZE0218">
 「整地にも拘りを持つ！」
 #
-<name "大工の作業員" "!ZE0219">
+<name ""Carpenter" "!ZE0219">
 「この辺りに凹凸を……」
 #
-<name "大工の棟梁" "!ZG0135">
+<name "Chief Carpenter" "!ZG0135">
 「余計な真似をするな！」
 #
 <exit>
 :9E9B
 <music 10>
 <background "ev002a00.agf" 10>
-<name "大工の棟梁" "!ZG0136">
+<name "Chief Carpenter" "!ZG0136">
 「おらー、いそげー！
 　そこ、さぼるなー」
 #
-<name "大工の作業員" "!ZE0224">
+<name ""Carpenter" "!ZE0224">
 「うーっす」
 #
 <name "気付いた作業員" "!JA0139">
 「ところで棟梁！」
 #
-<name "大工の棟梁" "!ZG0137">
+<name "Chief Carpenter" "!ZG0137">
 「なんだー？」
 #
 <name "気付いた作業員" "!JA0140">
 「これ、何を作ってるんですか？」
 #
-<name "大工の棟梁" "!ZG0138">
+<name "Chief Carpenter" "!ZG0138">
 「……寝ぼけてるなら、顔を洗って来い！」
 #
 <name "気付いた作業員" "!JA0141">
 「いえ、あの、棟梁。
 　そこと、こことここが……ほら別々の施設に」
 #
-<name "大工の棟梁" "!ZG0139">
+<name "Chief Carpenter" "!ZG0139">
 「……あれ？」
 #
 <name "気付いた作業員" "!JA0142">
 「ね」
 #
-<name "大工の棟梁" "!ZG0140">
+<name "Chief Carpenter" "!ZG0140">
 「作業中止！
 　全員、顔を洗え！」
 #
-<name "大工の棟梁" "!ZG0141">
+<name "Chief Carpenter" "!ZG0141">
 「でもって、やり直すぞー！」
 #
 <name "気付いた作業員" "!JA0143">
@@ -1874,11 +1874,11 @@
 :A1B6
 <music 10>
 <background "ev002a00.agf" 10>
-<name "大工の棟梁" "!ZG0142">
+<name "Chief Carpenter" "!ZG0142">
 「おーう、嬢ちゃん。
 　頑張るなー」
 #
-<name "大工の作業員" "!ZE0225">
+<name ""Carpenter" "!ZE0225">
 「しかし、良いのかい？
 　嬢ちゃん、アンタ、政治とか難しい仕事も抱えて
 　いるんだろ？」
@@ -1887,11 +1887,11 @@
 「ここの仕事も大事ですよー。
 　ああ、邪魔ならハッキリと言ってくださいよ」
 #
-<name "大工の棟梁" "!ZG0143">
+<name "Chief Carpenter" "!ZG0143">
 「ははは。
 　邪魔だったら、とっとと追い出してる」
 #
-<name "大工の作業員" "!ZE0226">
+<name ""Carpenter" "!ZE0226">
 「色気の無い仕事だから、歓迎さ。
 　でも、無理の無い程度にね」
 #
@@ -1905,101 +1905,101 @@
 <name "Sofia" "!ZB0932">
 「建設、頑張ろー！」
 #
-<name "大工の作業員" "!ZE0227">
+<name ""Carpenter" "!ZE0227">
 「おー！」
 #
-<name "大工の棟梁" "!ZG0144">
+<name "Chief Carpenter" "!ZG0144">
 「棟梁、俺なんだけどなぁ」
 #
 <exit>
 :A4BA
 <music 10>
 <background "ev002a00.agf" 10>
-<name "大工の作業員" "!ZE0228">
+<name ""Carpenter" "!ZE0228">
 「棟梁。
 　ここの設計図、どこにやりました？」
 #
-<name "大工の棟梁" "!ZG0145">
+<name "Chief Carpenter" "!ZG0145">
 「そんなものねぇ。
 　頭の中だ」
 #
-<name "大工の作業員" "!ZE0229">
+<name ""Carpenter" "!ZE0229">
 「えー」
 #
-<name "大工の棟梁" "!ZG0146">
+<name "Chief Carpenter" "!ZG0146">
 「大丈夫だ。
 　ほれ、大半の連中は問題無く作業している」
 #
-<name "大工の作業員" "!ZE0230">
+<name ""Carpenter" "!ZE0230">
 「うわ、本当だ……」
 #
-<name "大工の棟梁" "!ZG0147">
+<name "Chief Carpenter" "!ZG0147">
 「わかったら、さっさと動け」
 #
-<name "大工の作業員" "!ZE0231">
+<name ""Carpenter" "!ZE0231">
 「で、でも……俺は……」
 #
-<name "大工の棟梁" "!ZG0148">
+<name "Chief Carpenter" "!ZG0148">
 「大丈夫だ。
 　身体が覚えている。
 　修行を思い出せ」
 #
-<name "大工の作業員" "!ZE0232">
+<name ""Carpenter" "!ZE0232">
 「が、頑張ってみます」
 #
 <exit>
 :A747
 <music 10>
 <background "ev002a00.agf" 10>
-<name "大工の棟梁" "!ZG0149">
+<name "Chief Carpenter" "!ZG0149">
 「さーて、今回は何を建てるのかな」
 #
-<name "大工の作業員" "!ZE0233">
+<name ""Carpenter" "!ZE0233">
 「どんなものだって、建ててやるぜ」
 #
 <exit>
 :A7FB
 <music 10>
 <background "ev002a00.agf" 10>
-<name "大工の棟梁" "!ZG0150">
+<name "Chief Carpenter" "!ZG0150">
 「見た目より、耐久度！」
 #
-<name "大工の作業員" "!ZE0234">
+<name ""Carpenter" "!ZE0234">
 「うっす！」
 #
 <exit>
 :A88F
 <music 10>
 <background "ev002a00.agf" 10>
-<name "大工の棟梁" "!ZG0151">
+<name "Chief Carpenter" "!ZG0151">
 「おう坊主。
 　見学か？」
 #
 <name "見学していた住民" "!UA0147">
 「うん」
 #
-<name "大工の棟梁" "!ZG0152">
+<name "Chief Carpenter" "!ZG0152">
 「見てても、そんなに楽しくないだろ」
 #
 <name "見学していた住民" "!UA0148">
 「そんな事ないよ。
 　建物が出来上がっていく様子、楽しいよ」
 #
-<name "大工の棟梁" "!ZG0153">
+<name "Chief Carpenter" "!ZG0153">
 「そうかそうか。
 　それが解るとはたいしたもんだ」
 #
 <name "見学していた住民" "!UA0149">
 「えへへ」
 #
-<name "大工の棟梁" "!ZG0154">
+<name "Chief Carpenter" "!ZG0154">
 「しかし、見ているだけよりも、参加した方が楽し
 　いんだぞ」
 #
 <name "見学していた住民" "!UA0150">
 「そうだろうけど……」
 #
-<name "大工の棟梁" "!ZG0155">
+<name "Chief Carpenter" "!ZG0155">
 「ふふふ。
 　やってみるか？
 　ああ、道具は危ないから扱わせられねぇが……」
@@ -2007,7 +2007,7 @@
 <name "見学していた住民" "!UA0151">
 「手伝う、手伝うよ」
 #
-<name "大工の棟梁" "!ZG0156">
+<name "Chief Carpenter" "!ZG0156">
 「そうかそうか。
 　よーし、こっちに来い」
 #
@@ -2016,13 +2016,13 @@
 <name "Sofia" "!ZB0933">
 「良い親方ですね」
 #
-<name "大工の作業員" "!ZE0235">
+<name ""Carpenter" "!ZE0235">
 「ああ、それは認める」
 #
 <name "Sofia" "!ZB0934">
 「なにか問題でも？」
 #
-<name "大工の作業員" "!ZE0236">
+<name ""Carpenter" "!ZE0236">
 「俺も、ああやって大工の道に引きずり込まれたん
 　だよなぁ」
 #
@@ -2036,10 +2036,10 @@
 <name "Darx">
 「調子はどうだ？」
 #
-<name "大工の作業員" "!ZE0237">
+<name ""Carpenter" "!ZE0237">
 「あ、魔王様」
 #
-<name "大工の棟梁" "!ZG0157">
+<name "Chief Carpenter" "!ZG0157">
 「順調ですよ」
 #
 <name "Sofia" "!ZB0936">
@@ -2049,7 +2049,7 @@
 「じゃあ、少しだけ。
 　邪魔なら早めに言ってくれよ」
 #
-<name "大工の棟梁" "!ZG0158">
+<name "Chief Carpenter" "!ZG0158">
 「ははは。
 　大丈夫です。
 　作業の種類は色々とありますから、邪魔者にはし
