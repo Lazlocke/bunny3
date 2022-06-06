@@ -67,78 +67,79 @@
 <music 42>
 <background "bg005a0.agf" 10>
 <sprite "ta34c008.agf" 4 4 11>
-<name "商会メイド" "!AC0366">
-「治療班！
-　急いで！」
+<name "Company Maid" "!AC0366">
+"Medics!
+ Hurry!"
 #
 <removesprite -1 11>
 <sprite "ta34a008.agf" 4 4 11>
-<name "チェックするメイド" "!DC0340">
-「こっちにも一人、回して！」
+<name "Checking Maid" "!DC0340">
+"I need another pair of hands over here!"
 #
 <removesprite -1 11>
 <sprite "ta34b006.agf" 4 4 11>
-<name "心配するメイド" "!PC0467">
-「魔王様は大丈夫ですか？」
+<name "Worried Maid" "!PC0467">
+"Is the Overlord okay?"
 #
 <removesprite -1 11>
-<name "ダークス">
-「ああ、俺はなんとかな」
+<name "Darx">
+"Yeah, I'll survive."
 #
 <sprite "ta34c000.agf" 4 4 11>
-<name "商会メイド" "!AC0367">
-「負傷者の治療、責任を持って行います。
-　ご安心を」
+<name "Company Maid" "!AC0367">
+"We'll do everything we can to treat their
+ injuries.
+ Don't worry about them."
 #
-<name "ダークス">
-「死なすなよ」
+<name "Darx">
+"Don't let them die."
 #
-<name "商会メイド" "!AC0368">
-「もちろんです」
+<name "Company Maid" "!AC0368">
+"Of course not."
 #
 <removesprite -1 11>
-　……
+...
 #
-　ふう、力不足を痛感する。
+Man, that really drives home how weak I am.
 #
 <exit>
 :BE0
 <music 11>
 <background "bg008a0.agf" 10>
 <sprite "ta01a025.agf" 4 4 11>
-<name "ソフィア" "!ZB0937">
-「うっ……」
+<name "Sofia" "!ZB0937">
+"Ooh..."
 #
-<name "ダークス">
-「どうした？
-　大丈夫か？」
+<name "Darx">
+"What is it?
+ Everything okay?"
 #
 <sprite "ta01a036.agf" 4 4 12>
-<name "ソフィア" "!ZB0938">
-「いえ、負傷者が多かったものですから」
+<name "Sofia" "!ZB0938">
+"No, a lot of people got hurt."
 #
-<name "ダークス">
-「そうか。
-　悪かったな。
-　少し無茶をした」
+<name "Darx">
+"I see.
+ I'm sorry.
+ I was a little reckless."
 #
 <sprite "ta01a001.agf" 4 4 12>
-<name "ソフィア" "!ZB0939">
-「いえ。
-　魔王様も頑張っているんだと、再認識しました」
+<name "Sofia" "!ZB0939">
+"No. It reminded me once again of how hard
+ you're trying."
 #
 <sprite "ta01a004.agf" 4 4 12>
-<name "ソフィア" "!ZB0940">
-「私も、もっと頑張ります」
+<name "Sofia" "!ZB0940">
+"I need to work harder too."
 #
-<name "ダークス">
-「ほどほどにな。
-　じゃないと、今回の俺達みたいにボロボロになる
-　ぞ」
+<name "Darx">
+"Within reason.
+ Otherwise, you'll end up battered and bruised
+ like us."
 #
 <sprite "ta01a033.agf" 4 4 12>
-<name "ソフィア" "!ZB0941">
-「注意します」
+<name "Sofia" "!ZB0941">
+"I'll be careful."
 #
 <removesprite -1 11>
 <exit>
@@ -146,82 +147,84 @@
 <music 42>
 <background "bg005a0.agf" 10>
 <sprite "ta34c006.agf" 4 4 11>
-<name "商会メイド" "!AC0369">
-「魔王様。
-　あまり、無茶をされては……」
+<name "Company Maid" "!AC0369">
+"Overlord, please don't be so reckless."
 #
-<name "ダークス">
-「心配を掛ける」
+<name "Darx">
+"Sorry for troubling you."
 #
 <sprite "ta34c000.agf" 4 4 12>
-<name "商会メイド" "!AC0370">
-「まったくです。
-　負傷者は治療を行っていますので、ご安心を」
+<name "Company Maid" "!AC0370">
+"Honestly.
+ We're taking care of the injured.
+ You don't need to worry."
 #
-<name "ダークス">
-「ああ、頼む」
+<name "Darx">
+"Yeah, thanks."
 #
 <removesprite -1 11>
-　……今回は怪我人が多かった。
+...A lot of people were hurt this time.
 #
-　反省。
+I need to do better.
 #
 <exit>
 :10A7
 <music 11>
 <background "bg008a0.agf" 10>
 <sprite "ta34a000.agf" 4 4 11>
-<name "受付メイド" "!AC0371">
-「移住者の皆さん。
-　説明会を行います」
+<name "Reception Maid" "!AC0371">
+"Immigrants, there will be a briefing 
+ session."
 #
 <sprite "ta34a004.agf" 4 4 12>
-<name "受付メイド" "!AC0372">
-「説明会はこの一回だけでなく、何度も行います。
-　先にお食事、睡眠場所をお求めでしたら、こちら
-　の列に並んでください」
+<name "Reception Maid" "!AC0372">
+"There will be more than just this one
+ briefing. If you need to eat or rest first,
+ please line up over here."
 #
-<name "移住者" "!RB0166">
-「あ、あの、怪我人が居るのですが……」
+<name "Immigrant" "!RB0166">
+"U-Um, we have injured..."
 #
 <sprite "ta34a000.agf" 4 4 12>
-<name "受付メイド" "!AC0373">
-「すぐに治療します。
-　他にも居ませんか？」
+<name "Reception Maid" "!AC0373">
+"We'll treat them immediately.
+ Is anyone else hurt?"
 #
 <removesprite -1 11>
-　俺の引き連れてきた移住者は、ギュンギュスカー
-　メイド達によって手際良く街の各所に散らされて
-　いく。
+The Gunguskar maids quickly and skillfully
+scatter the immigrants I brought back into the
+city.
 #
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta34a000.agf" 4 4 11>
-<name "受付メイド" "!AC0374">
-「ふう……一段落」
+<name "Reception Maid" "!AC0374">
+"Whew.
+ That's the first step."
 #
-<name "ダークス">
-「ご苦労だったな」
+<name "Darx">
+"Job well done."
 #
-<name "受付メイド" "!AC0375">
-「いえ、まだまだこれからです」
+<name "Reception Maid" "!AC0375">
+"No, it's just getting started."
 #
-<name "ダークス">
-「そうなのか？」
+<name "Darx">
+"Really?"
 #
-<name "受付メイド" "!AC0376">
-「ええ、新しい環境ですから、トラブルが必ず起こ
-　ります」
+<name "Reception Maid" "!AC0376">
+"Yes. It's a new environment for them.
+ There will definitely be friction."
 #
-<name "受付メイド" "!AC0377">
-「馴染むにも、時間が掛かるでしょうし」
+<name "Reception Maid" "!AC0377">
+"It'll take some time for them to adjust."
 #
-<name "受付メイド" "!AC0378">
-「ああ、魔王様の演説の時間を設けています。
-　よろしくお願いしますね」
+<name "Reception Maid" "!AC0378">
+"Oh, and I scheduled some time for you to give
+ them a speech.
+ Thank you very much."
 #
-<name "ダークス">
-「……が、頑張る」
+<name "Darx">
+"...I-I'll try."
 #
 <removesprite -1 11>
 <exit>
@@ -229,76 +232,79 @@
 <music 11>
 <background "bg008a0.agf" 10>
 <sprite "ta01a001.agf" 4 4 11>
-<name "ソフィア" "!ZB0942">
-「ずいぶんと、たくさんの移住者を連れて来ました
-　ね」
+<name "Sofia" "!ZB0942">
+"You sure brought back a lot of immigrants."
 #
-<name "ダークス">
-「なんとかなるか？」
+<name "Darx">
+"Can you handle it?"
 #
 <sprite "ta01a004.agf" 4 4 12>
-<name "ソフィア" "!ZB0943">
-「なんとかします」
+<name "Sofia" "!ZB0943">
+"We'll have to."
 #
 <sprite "ta01a005.agf" 4 4 12>
-<name "ソフィア" "!ZB0944">
-「名簿作り。
-　食事の確保。
-　寝れる場所の確保」
+<name "Sofia" "!ZB0944">
+"Register their names.
+ Ensure food.
+ Ensure a place to sleep."
 #
 <removesprite -1 11>
 <sprite "ta34b000.agf" 4 4 11>
-<name "商会メイド" "!AC0379">
-「はい」
+<name "Company Maid" "!AC0379">
+"Yes, ma'am."
 #
 <removesprite -1 11>
 <sprite "ta01a033.agf" 4 4 11>
-<name "ソフィア" "!ZB0945">
-「名簿作りと同時進行で班分けして、ここでの生活
-　の説明会を。
-　ああ、家族は出来る限り、同じ班になるようにね」
+<name "Sofia" "!ZB0945">
+"As you register them, split them into groups
+ and brief them on living here.
+ Oh, and keep families in the same groups as
+ much as you can."
 #
 <removesprite -1 11>
 <sprite "ta34a000.agf" 4 4 11>
-<name "事務メイド" "!DC0341">
-「承知しました」
+<name "Clerk Maid" "!DC0341">
+"Understood."
 #
 <removesprite -1 11>
-　……
+...
 #
-　下手に手伝ったら邪魔になるな。
+I think I'd just get in the way if I tried to
+help.
 #
-　任せよう。
+I'll leave it to them.
 #
 <exit>
 :193D
 <music 11>
 <background "bg008a0.agf" 10>
 <sprite "ta34a000.agf" 4 4 11>
-<name "事務メイド" "!AC0380">
-「移住者名簿、作成します」
+<name "Clerk Maid" "!AC0380">
+"I'll make a list of the new immigrants."
 #
 <removesprite -1 11>
 <sprite "ta01a004.agf" 4 4 11>
-<name "ソフィア" "!ZB0946">
-「よろしく」
+<name "Sofia" "!ZB0946">
+"Thank you."
 #
 <removesprite -1 11>
 <sprite "ta34c000.agf" 4 4 11>
-<name "治療メイド" "!DC0342">
-「怪我をしている方はこちらに。
-　治療します」
+<name "Medic Maid" "!DC0342">
+"If you're hurt, please come this way for
+ treatment."
 #
-<name "ダークス">
-「任せる。
-　暴れるヤツが居たら、遠慮なく痛めつけろ」
+<name "Darx">
+"I'll leave it to you.
+ If anybody steps out of line, don't hesitate
+ to smack them."
 #
-<name "治療メイド" "!DC0343">
-「了解しました。
-　二時間後、演説をお願いしますね」
+<name "Medic Maid" "!DC0343">
+"Understood.
+ In two hours, they'll be ready for your
+ speech."
 #
-<name "ダークス">
-「了解」
+<name "Darx">
+"Got it."
 #
 <removesprite -1 11>
 <exit>
@@ -306,213 +312,213 @@
 <music 11>
 <background "bg008a0.agf" 10>
 <sprite "ta34a000.agf" 4 4 11>
-<name "受付メイド" "!DC0344">
-「また、たくさんの移住者を連れて来たわね。
-　ありったけの人手、まわしてください」
+<name "Reception Maid" "!DC0344">
+"Looks like he brought back a lot of new
+ immigrants again.
+ We'll need as much help as you can spare."
 #
 <removesprite -1 11>
 <sprite "ta34a000.agf" 2 4 11>
 <sprite "ta34b004.agf" 6 5 11>
-<name "事務メイド" "!AC0381">
-「了解。
-　頑張ってね」
+<name "Clerk Maid" "!AC0381">
+"Yes, ma'am.
+ Good luck."
 #
 <removesprite -1 11>
 <exit>
 :1D06
 <music 11>
 <background "bg008a0.agf" 10>
-<name "案内された移住者" "!ZD0133">
-「ここが、移住先？」
+<name "Touring Immigrant" "!ZD0133">
+"This is where we're moving to?"
 #
-<name "様子を見る移住者" "!UA0152">
-「みたいだな」
+<name "Observing Immigrant" "!UA0152">
+"Seems like it."
 #
 <removesprite -1 11>
 <sprite "ta34c004.agf" 4 4 11>
-<name "受付メイド" "!AC0382">
-「移住者のみなさーん。
-　受付、ここで行ってまーす」
+<name "Reception Maid" "!AC0382">
+"Welcome, immigrants.
+ Reception is over here!"
 #
 <removesprite -1 11>
 <sprite "ta34a004.agf" 4 4 11>
-<name "事務メイド" "!DC0345">
-「名簿作りにご協力くださーい」
+<name "Clerk Maid" "!DC0345">
+"Please help us in creating a register!"
 #
 <removesprite -1 11>
 <sprite "ta34b004.agf" 4 4 11>
-<name "調理メイド" "!PC0468">
-「温かいお食事も用意しています。
-　順番に、どうぞー」
+<name "Cook Maid" "!PC0468">
+"We have hot meals eady for you.
+ Please line up."
 #
 <removesprite -1 11>
-<name "案内された移住者" "!ZD0134">
-「……とりあえず、並ぶか」
+<name "Touring Immigrant" "!ZD0134">
+"...I guess we get in line then?"
 #
-<name "様子を見る移住者" "!UA0153">
-「おう」
+<name "Observing Immigrant" "!UA0153">
+"Yeah."
 #
 <exit>
 :1FC5
 <music 11>
 <background "bg008a0.agf" 10>
-<name "偉そうな移住者" "!SB0243">
-「移住してあげるんだから、最上級の家を用意しな
-　さい！
-　でなければ、出て行かせて貰うわ」
+<name "VIP Immigrant" "!SB0243">
+"If I'm going to move here, I expect the 
+ finest house!
+ Otherwise, I'm leaving immediately!"
 #
 <sprite "ta34a002.agf" 4 4 11>
-<name "受付メイド" "!AC0383">
-「えっと……」
+<name "Reception Maid" "!AC0383">
+"Um..."
 #
 <removesprite -1 11>
-<name "ダークス">
-「なかなか、強気な発言だな。
-　元気があって良いぞ」
+<name "Darx">
+"That's quite the demand.
+ It's good to see you're in high spirits."
 #
-<name "偉そうな移住者" "!SB0244">
-「え、あ……」
+<name "VIP Immigrant" "!SB0244">
+"Huh? Oh..."
 #
-<name "ダークス">
-「しかし、ここにはここのルールがある。
-　ああ、怒っていないぞ。
-　知らなくて当然だからな。
-　今からちゃんと教えてやる」
+<name "Darx">
+"However, there are rules here.
+ Oh, I'm not mad.
+ I wouldn't expect you to know.
+ I'll be happy to teach you all about them."
 #
-<name "偉そうな移住者" "!SB0245">
-「ひっ、ひぃっ。
-　す、すみませんでしたぁ。
-　生意気な事はもう二度と、言いません」
+<name "VIP Immigrant" "!SB0245">
+"E-Eep!
+ I-I'm very worry.
+ I'll never speak out of turn ever again."
 #
 <sprite "ta34a000.agf" 4 4 11>
-<name "受付メイド" "!AC0384">
-「魔王様。
-　お手数をお掛けしました」
+<name "Reception Maid" "!AC0384">
+"Thank you for stepping in, Overlord."
 #
-<name "ダークス">
-「ははは」
+<name "Darx">
+"Hahaha..."
 #
 <removesprite -1 11>
-　ふ、普通に移住説明をしてやろうと思っただけな
-　んだけどな。
+I-I was just going to explain how immigration
+normally worked though.
 #
 <exit>
 :2346
 <music 11>
 <background "bg008a0.agf" 10>
-<name "新たな移住者" "!CB0165">
-「移住先がここね。
-　ふーん」
+<name "New Immigrant" "!CB0165">
+"So this is where we're moving to.
+ Hmmm..."
 #
-<name "古参の街の住民" "!MB0123">
-「新入りか？
-　色々と案内してやるが……
-　その前に確認したい事がある」
+<name "Experienced Citizen" "!MB0123">
+"Are you new?
+ I can show you around, but first, I need to
+ ask something."
 #
-<name "新たな移住者" "!CB0166">
-「な、なんだよ」
+<name "New Immigrant" "!CB0166">
+"W-What is it?"
 #
-<name "古参の街の住民" "!MB0124">
-「結婚してるか？」
+<name "Experienced Citizen" "!MB0124">
+"Are you married?"
 #
-<name "新たな移住者" "!CB0167">
-「え？
-　い、いや……」
+<name "New Immigrant" "!CB0167">
+"Huh?
+ N-No..."
 #
-<name "古参の街の住民" "!MB0125">
-「彼女、居るか？」
+<name "Experienced Citizen" "!MB0125">
+"Do you have a girlfriend?"
 #
-<name "新たな移住者" "!CB0168">
-「い、いねぇよ」
+<name "New Immigrant" "!CB0168">
+"I-I don't."
 #
-<name "古参の街の住民" "!MB0126">
-「ようこそ、ダークスの街に。
-　ははは。
-　そう警戒する事は無い。
-　ここも住めば良い場所だぞー」
+<name "Experienced Citizen" "!MB0126">
+"Welcome to Darx City.
+ Hahahaha!
+ There's nothing to be scared of.
+ This is a fine place to live!"
 #
-<name "新たな移住者" "!CB0169">
-「お、おう」
+<name "New Immigrant" "!CB0169">
+"O-Oh."
 #
 <exit>
 :25F1
 <music 11>
 <background "bg008a0.agf" 10>
-<name "古参の街の住民" "!CB0170">
-「ふふふ。
-　新入りだな」
+<name "Experienced Citizen" "!CB0170">
+"Heheheh.
+ A newbie, huh?"
 #
-<name "新たな移住者" "!BC0149">
-「な、なんだよ」
+<name "New Immigrant" "!BC0149">
+"W-What?"
 #
-<name "古参の街の住民" "!CB0171">
-「貴様に聞きたい事がある。
-　彼女は居るか？」
+<name "Experienced Citizen" "!CB0171">
+"I have a question for you.
+ Do you have a girlfriend?"
 #
-<name "新たな移住者" "!BC0150">
-「彼女は居ないが、嫁は居るぞ」
+<name "New Immigrant" "!BC0150">
+"I don't have a girlfriend, but I do have a
+ wife."
 #
-<name "古参の街の住民" "!CB0172">
-「…………お幸せに！
-　さらばだ！」
+<name "Experienced Citizen" "!CB0172">
+"...Congratulations!
+ Farewell!"
 #
-<name "新たな移住者" "!BC0151">
-「な、なんだったんだ？」
+<name "New Immigrant" "!BC0151">
+"W-What was that about?"
 #
 <sprite "ta34a000.agf" 4 4 11>
-<name "受付メイド" "!AC0385">
-「気にしないでください」
+<name "Reception Maid" "!AC0385">
+"Please just ignore him."
 #
 <removesprite -1 11>
 <exit>
 :2823
 <music 11>
 <background "bg008a0.agf" 10>
-<name "大物そうな住人" "!MB0127">
-「新入りが沢山、来るようだな」
+<name "Big Shot Citizen" "!MB0127">
+"Seems like a lot of new people lately."
 #
-<name "古参の街の住民" "!CB0173">
-「仲間を増やすとするか」
+<name "Experienced Citizen" "!CB0173">
+"More comrades for us then?"
 #
-<name "前向きな住民" "!ZG0159">
-「あ、あの～」
+<name "Proactive Citizen" "!ZG0159">
+"U-Um..."
 #
-<name "大物そうな住人" "!MB0128">
-「なんだ？」
+<name "Big Shot Citizen" "!MB0128">
+"What?"
 #
-<name "前向きな住民" "!ZG0160">
-「独身仲間を集めるより、独身の女性に声を掛けた
-　方が建設的かなぁって」
+<name "Proactive Citizen" "!ZG0160">
+"Wouldn't it be better to talk to single women
+ than to keep recruiting single comrades?"
 #
-<name "大物そうな住人" "!MB0129">
-「ははははは」
+<name "Big Shot Citizen" "!MB0129">
+"Hahahahaha!"
 #
-<name "古参の街の住民" "!CB0174">
-「そんな度胸があったら、とっくに彼女が出来てる
-　わ！」
+<name "Experienced Citizen" "!CB0174">
+"If I had guts like that, I'd have gotten a
+ girlfriend years ago!"
 #
 <exit>
 :2A31
 <music 11>
 <background "bg008a0.agf" 10>
 <sprite "ta01a005.agf" 4 4 11>
-<name "ソフィア" "!ZB0947">
-「また、たくさんの食料、集めましたねぇ」
+<name "Sofia" "!ZB0947">
+"You collected a lot of food again."
 #
-<name "ダークス">
-「まあな」
+<name "Darx">
+"I guess."
 #
 <sprite "ta01a033.agf" 4 4 12>
-<name "ソフィア" "!ZB0948">
-「街の倉庫。
-　空いてますよ」
+<name "Sofia" "!ZB0948">
+"The warehouse in the city is empty."
 #
-<name "ダークス">
-「……わかってる」
+<name "Darx">
+"...I understand."
 #
 <sprite "ta01a034.agf" 4 4 12>
-<name "ソフィア" "!ZB0949">
-「期待しています」
+<name "Sofia" "!ZB0949">
+"Thank you very much."
 #
 <removesprite -1 11>
 <exit>
@@ -520,19 +526,20 @@
 <music 11>
 <background "bg008a0.agf" 10>
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!AC0386">
-「食料、沢山ありますね」
+<name "Company Maid" "!AC0386">
+"That's quite a lot of food."
 #
-<name "ダークス">
-「街全体を考えれば、僅かだけどな」
+<name "Darx">
+"Considering that we need to feed an entire
+ city, it's not that much."
 #
-<name "商会メイド" "!AC0387">
-「いえいえ、十分ですよ。
-　街の倉庫に入れる手続き、落ち着いたらお願いし
-　ますね」
+<name "Company Maid" "!AC0387">
+"No, no. It's plenty.
+ Once you've recovered, please bring it to
+ the warehouse in town."
 #
-<name "ダークス">
-「了解」
+<name "Darx">
+"Got it."
 #
 <removesprite -1 11>
 <exit>
@@ -540,20 +547,20 @@
 <music 11>
 <background "bg008a0.agf" 10>
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!AC0388">
-「沢山の食料」
+<name "Company Maid" "!AC0388">
+"That's a lot of food."
 #
-<name "商会メイド" "!AC0389">
-「一人では食べ切れませんよね」
+<name "Company Maid" "!AC0389">
+"Too much to eat by yourself."
 #
-<name "ダークス">
-「あ、ああ」
+<name "Darx">
+"Y-Yeah."
 #
-<name "商会メイド" "!AC0390">
-「街の倉庫、空いてますよ」
+<name "Company Maid" "!AC0390">
+"The warehouse in town is open."
 #
-<name "ダークス">
-「わ、わかった」
+<name "Darx">
+"I-I got it."
 #
 <removesprite -1 11>
 <exit>
@@ -563,45 +570,47 @@
 <sprite "ta34b004.agf" 2 4 11>
 <sprite "ta34a004.agf" 4 6 11>
 <sprite "ta34c004.agf" 6 5 11>
-<name "秘書メイド" "!AC0391">
-「おお、魔王様のお帰りだー」
+<name "Secretary Maid" "!AC0391">
+"Ooh! The Overlord's back!"
 #
-<name "事務メイド" "!DC0346">
-「食料をたくさん持っておられるー」
+<name "Clerk Maid" "!DC0346">
+"He has a whole lot of food!"
 #
-<name "受付メイド" "!PC0469">
-「おおっ、流石は私達の魔王様」
+<name "Reception Maid" "!PC0469">
+"Oooh!
+ Just like you'd expect of our Overlord!"
 #
 <removesprite -1 11>
 <removesprite -1 11>
-<name "武器を持つ住民" "!UA0154" "ka54a000.agf">
-「まてーい！
-　魔王様の食料は、貴様らには渡さん」
+<name "Armed Citizen" "!UA0154" "ka54a000.agf">
+"Stop right there!
+ You can't take the Overlord's food!"
 #
 <removesprite -1 11>
 <sprite "ta34b005.agf" 2 4 11>
 <sprite "ta34a008.agf" 4 6 11>
 <sprite "ta34c005.agf" 6 5 11>
-<name "秘書メイド" "!AC0392">
-「ぬうっ！
-　貴様は冒険者四天王、五人目の存在！」
+<name "Secretary Maid" "!AC0392">
+"Nngh!
+ You're from the Four Adventurer Kings!
+ The fifth member!"
 #
 <removesprite -1 11>
-<name "武器を持つ住民" "!UA0155" "ka54a000.agf">
-「ははははは。
-　幻の影薄い戦士とは、私の事だー！」
+<name "Armed Citizen" "!UA0155" "ka54a000.agf">
+"Hahahahaha!
+ It is I!
+ The phantom warrior of shadows!"
 #
 <removesprite -1 11>
-<name "ダークス">
-「え？
-　なに？
-　この小芝居？」
+<name "Darx">
+"Huh?
+ What?
+ Is this some kind of show?"
 #
 <sprite "ta01a033.agf" 4 4 11>
-<name "ソフィア" "!ZB0950">
-「食料を持ち帰ってくれた魔王様に対する感謝の芝
-　居です。
-　あ、もう少し続きますよ」
+<name "Sofia" "!ZB0950">
+"It's in gratitude for bringing back food.
+ Oh, it keeps going a little longer."
 #
 <removesprite -1 11>
 <exit>
@@ -610,20 +619,20 @@
 <background "bg008a0.agf" 10>
 <sprite "ta34a004.agf" 2 4 11>
 <sprite "ta34b004.agf" 6 5 11>
-<name "商会メイド" "!AC0393">
-「魔王様が食料を持ち帰ったぞー！」
+<name "Company Maid" "!AC0393">
+"The Overlord brought back food!"
 #
-<name "喜ぶメイド" "!DC0347">
-「いえー！
-　今夜はパーティーだ！」
+<name "Rejoicing Maid" "!DC0347">
+"Yay!
+ Party tonight!"
 #
 <removesprite -1 11>
-<name "ダークス">
-「な、なんだか、山賊みたいだなぁ」
+<name "Darx">
+"I-I kind of feel like a bandit now."
 #
 <sprite "ta34c000.agf" 4 4 11>
-<name "食料を運ぶメイド" "!PC0470">
-「いや、やってる事は山賊みたいなもんですよ」
+<name "Carrying Maid" "!PC0470">
+"No, you literally are a bandit."
 #
 <removesprite -1 11>
 <exit>
@@ -631,21 +640,21 @@
 <music 11>
 <background "bg008a0.agf" 10>
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!AC0394">
-「お土産が多いですね」
+<name "Company Maid" "!AC0394">
+"So many souvenirs."
 #
-<name "ダークス">
-「頑張ったからな」
+<name "Darx">
+"I tried hard."
 #
-<name "商会メイド" "!AC0395">
-「ご苦労様です」
+<name "Company Maid" "!AC0395">
+"Thank you very much."
 #
-<name "ダークス">
-「俺はもう寝る。
-　後は任せた」
+<name "Darx">
+"I need some sleep.
+ I leave the rest to you."
 #
-<name "商会メイド" "!AC0396">
-「はい」
+<name "Company Maid" "!AC0396">
+"Yes, sir."
 #
 <removesprite -1 11>
 <exit>
@@ -653,25 +662,25 @@
 <music 11>
 <background "bg008a0.agf" 10>
 <sprite "ta01a003.agf" 4 4 11>
-<name "ソフィア" "!ZB0951">
-「うわぁ。
-　また沢山の資源、持って帰ってきましたねー」
+<name "Sofia" "!ZB0951">
+"Whoa.
+ You brought back a lot of resources again."
 #
-<name "ダークス">
-「運ぶのが一苦労だったよ」
+<name "Darx">
+"It was hard carrying it all."
 #
 <sprite "ta01a004.agf" 4 4 12>
-<name "ソフィア" "!ZB0952">
-「あはは。
-　管理するのも大変じゃないですか？
-　街の倉庫、空いてますよ」
+<name "Sofia" "!ZB0952">
+"Hahaha...
+ Won't it be hard to deal with all of it too?
+ The warehouse in the city is empty."
 #
-<name "ダークス">
-「検討させて貰おう」
+<name "Darx">
+"I'll think about it."
 #
 <sprite "ta01a033.agf" 4 4 12>
-<name "ソフィア" "!ZB0953">
-「よろしくお願いします」
+<name "Sofia" "!ZB0953">
+"Thank you very much."
 #
 <removesprite -1 11>
 <exit>
@@ -679,21 +688,22 @@
 <music 11>
 <background "bg008a0.agf" 10>
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!AC0397">
-「資源の持ち帰り、ご苦労様です」
+<name "Company Maid" "!AC0397">
+"Thank you for bringing back so many
+ resources."
 #
-<name "ダークス">
-「まあまあ、集まったかな」
+<name "Darx">
+"Well, we all gathered them together."
 #
-<name "商会メイド" "!AC0398">
-「はい。
-　色々と助かります」
+<name "Company Maid" "!AC0398">
+"Yes.
+ It'll help out a lot."
 #
-<name "商会メイド" "!AC0399">
-「この調子で、頑張ってくださいね」
+<name "Company Maid" "!AC0399">
+"Please keep up the hard work."
 #
-<name "ダークス">
-「おう」
+<name "Darx">
+"Yeah."
 #
 <removesprite -1 11>
 <exit>
@@ -701,22 +711,23 @@
 <music 11>
 <background "bg008a0.agf" 10>
 <sprite "ta01a034.agf" 4 4 11>
-<name "ソフィア" "!ZB0954">
-「資源、資源、資源♪」
+<name "Sofia" "!ZB0954">
+"Resources.♪ Resources.♪ Resources.♪"
 #
 <removesprite -1 11>
-<name "ダークス">
-「喜んでるなぁ」
+<name "Darx">
+"You seem happy."
 #
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!AC0400">
-「街の資源、少ないですから」
+<name "Company Maid" "!AC0400">
+"Because the city doesn't have many
+ resources."
 #
-<name "ダークス">
-「あとで、街の倉庫に放り込むよ」
+<name "Darx">
+"I'll throw them all in the warehouse later."
 #
-<name "商会メイド" "!AC0401">
-「よろしくお願いします」
+<name "Company Maid" "!AC0401">
+"Thank you very much."
 #
 <removesprite -1 11>
 <exit>
@@ -724,25 +735,26 @@
 <music 11>
 <background "bg008a0.agf" 10>
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!AC0402">
-「凄い量、持ち帰ってきましたね」
+<name "Company Maid" "!AC0402">
+"You brought back so much."
 #
 <removesprite -1 11>
 <sprite "ta34a000.agf" 2 4 11>
 <sprite "ta34b000.agf" 6 5 11>
-<name "喜ぶメイド" "!DC0348">
-「流石、魔王様」
+<name "Rejoicing Maid" "!DC0348">
+"I knew you'd do it, Overlord!"
 #
 <removesprite -1 11>
-<name "ダークス">
-「ははは」
+<name "Darx">
+"Hahaha!"
 #
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!AC0403">
-「では、その調子で倉庫に運ぶお手伝いを」
+<name "Company Maid" "!AC0403">
+"Now, keep it up and help carry it all to the
+ warehouse."
 #
-<name "ダークス">
-「頑張ります」
+<name "Darx">
+"I'll do my best."
 #
 <removesprite -1 11>
 <exit>
@@ -750,24 +762,25 @@
 <music 11>
 <background "bg008a0.agf" 10>
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!AC0404">
-「魔王様の持ち帰った資源、無駄にはしません！」
+<name "Company Maid" "!AC0404">
+"We won't let the resources you brought back
+ go to waste!"
 #
-<name "ダークス">
-「そうか？」
+<name "Darx">
+"Really?"
 #
-<name "商会メイド" "!AC0405">
-「なにか、疑問でも？」
+<name "Company Maid" "!AC0405">
+"You doubt us?"
 #
-<name "ダークス">
-「資源増加、歓迎パーティーが予定されているんだ
-　けど……」
+<name "Darx">
+"More resources, and now you schedule a 
+ welcoming party..."
 #
-<name "商会メイド" "!AC0406">
-「息抜きは大切です」
+<name "Company Maid" "!AC0406">
+"Leisure is very important."
 #
-<name "ダークス">
-「は、はぁ」
+<name "Darx">
+"U-Uh huh..."
 #
 <removesprite -1 11>
 <exit>
@@ -775,8 +788,9 @@
 <music 11>
 <background "bg008a0.agf" 10>
 <sprite "ta34a004.agf" 4 4 11>
-<name "商会メイド" "!AC0407">
-「資源を持ち帰った魔王様に、万歳三唱！」
+<name "Company Maid" "!AC0407">
+"Three cheers for the Overlord who brought back
+ resources!"
 #
 <removesprite -1 11>
 <sprite "ta34c004.agf" 0 4 11>
@@ -784,15 +798,15 @@
 <sprite "ta34c004.agf" 4 8 11>
 <sprite "ta34b004.agf" 6 7 11>
 <sprite "ta34c004.agf" 8 5 11>
-<name "喜ぶメイド" "!DC0349">
-「ばんざーい！
-　ばんざーい！
-　ばんざーい！」
+<name "Rejoicing Maid" "!DC0349">
+"Hip hip hooray!
+ Hip hip hooray!
+ Hip hip hooray!"
 #
 <removesprite -1 11>
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!AC0408">
-「ご苦労様でした」
+<name "Company Maid" "!AC0408">
+"Well done."
 #
 <removesprite -1 11>
 <exit>
@@ -800,101 +814,103 @@
 <music 11>
 <background "bg008a0.agf" 10>
 <sprite "ta34a004.agf" 4 4 11>
-<name "商会メイド" "!AC0409">
-「資源じゃ、資源じゃ！」
+<name "Company Maid" "!AC0409">
+"Resources! Resources!"
 #
 <removesprite -1 11>
 <sprite "ta34a004.agf" 2 4 11>
 <sprite "ta34b004.agf" 6 5 11>
-<name "喜ぶメイド" "!DC0350">
-「流石は魔王様じゃ、これでこの街は救われる」
+<name "Rejoicing Maid" "!DC0350">
+"I knew you'd do it!
+ The city is saved!"
 #
 <removesprite -1 11>
-<name "ダークス">
-「えっと……小芝居？」
+<name "Darx">
+"Um... is this all a performance?"
 #
 <sprite "ta01a033.agf" 4 4 11>
-<name "ソフィア" "!ZB0955">
-「はい。
-　あ、でも三部構成なので、長いですよ」
+<name "Sofia" "!ZB0955">
+"Yes.
+ Oh, there are three acts.
+ This'll take a while."
 #
 <removesprite -1 11>
 <exit>
 :4356
 <music 11>
 <background "bg015a0.agf" 10>
-<name "ダークス">
-「うお」
+<name "Darx">
+"Whoa!"
 #
-<name "商会メイド" "!DC0140" "ka34a000.agf">
-「大丈夫ですか？」
+<name "Company Maid" "!DC0140" "ka34a000.agf">
+"Are you okay?"
 #
-<name "ダークス">
-「ここは？」
+<name "Darx">
+"Where am I?"
 #
 <background "bg008a0.agf" 10>
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!DC0141">
-「街です」
+<name "Company Maid" "!DC0141">
+"The city."
 #
-<name "商会メイド" "!DC0142">
-「負傷された方は全て回収しております」
+<name "Company Maid" "!DC0142">
+"Everyone who was hurt has been treated."
 #
-<name "ダークス">
-「そうか。
-　手間を掛けさせたな」
+<name "Darx">
+"I see.
+ We must've troubled you."
 #
-<name "商会メイド" "!DC0143">
-「いえ。
-　まずは治療を」
+<name "Company Maid" "!DC0143">
+"Hardly.
+ Recovery comes first."
 #
-<name "ダークス">
-「ああ」
+<name "Darx">
+"Yeah."
 #
 <removesprite -1 11>
-　どうやら、俺は負けたようだ。
+I guess we must've lost.
 #
-　反省。
+I need to do better.
 #
-　油断していたのかもしれない。
+Maybe I was too careless.
 #
 <exit>
 :45AB
 <music 11>
 <background "bg008a0.agf" 10>
-<name "ダークス">
-「また、全滅したか」
+<name "Darx">
+"We were defeated again?"
 #
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!DC0144">
-「はい」
+<name "Company Maid" "!DC0144">
+"Yes."
 #
-<name "ダークス">
-「世話になった」
+<name "Darx">
+"Thank you for taking care of us."
 #
-<name "商会メイド" "!DC0145">
-「お気をつけて」
+<name "Company Maid" "!DC0145">
+"Please be more careful."
 #
 <removesprite -1 11>
 <exit>
 :46B2
 <music 11>
 <background "bg008a0.agf" 10>
-<name "ダークス">
-「よく助けてくれた。
-　感謝する」
+<name "Darx">
+"You saved our hides.
+ I owe you."
 #
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!DC0146">
-「いえ。
-　仕事ですから」
+<name "Company Maid" "!DC0146">
+"It's nothing.
+ That's our job."
 #
-<name "ダークス">
-「これからも……じゃないな。
-　もう無い様にする」
+<name "Darx">
+"Next time... No.
+ It won't happen again."
 #
-<name "商会メイド" "!DC0147">
-「期待しております」
+<name "Company Maid" "!DC0147">
+"I look forward to that."
 #
 <removesprite -1 11>
 <exit>
@@ -902,18 +918,18 @@
 <music 11>
 <background "bg008a0.agf" 10>
 <sprite "ta34a002.agf" 4 4 11>
-<name "商会メイド" "!DC0148">
-「大丈夫ですか？」
+<name "Company Maid" "!DC0148">
+"Are you okay?"
 #
-<name "ダークス">
-「なんとか」
+<name "Darx">
+"I think so."
 #
 <sprite "ta34a000.agf" 4 4 12>
-<name "商会メイド" "!DC0149">
-「頑張ってください」
+<name "Company Maid" "!DC0149">
+"Keep trying."
 #
-<name "ダークス">
-「おう」
+<name "Darx">
+"Yeah."
 #
 <removesprite -1 11>
 <exit>
@@ -921,11 +937,11 @@
 <music 11>
 <background "bg008a0.agf" 10>
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!DC0150">
-「もう常連ですね」
+<name "Company Maid" "!DC0150">
+"This is becoming a regular occurrence."
 #
-<name "ダークス">
-「不名誉だ」
+<name "Darx">
+"It's pathetic."
 #
 <removesprite -1 11>
 <exit>
@@ -933,67 +949,71 @@
 <music 11>
 <background "bg008a0.agf" 10>
 <sprite "ta01a001.agf" 4 4 11>
-<name "ソフィア" "!ZB0218">
-「魔王様。
-　どうでしたか？」
+<name "Sofia" "!ZB0218">
+"How did it go, Overlord?"
 #
-<name "ダークス">
-「ああ、装置を壊してきてやった」
+<name "Darx">
+"Good.
+ We destroyed the device."
 #
 <sprite "ta01a002.agf" 4 4 12>
-<name "ソフィア" "!ZB0219">
-「という事は」
+<name "Sofia" "!ZB0219">
+"Meaning..."
 #
-<name "ダークス">
-「あの攻撃は止まる」
+<name "Darx">
+"The attacks will stop."
 #
 <sprite "ta01a005.agf" 4 4 12>
-<name "ソフィア" "!ZB0220">
-「おおっ！」
+<name "Sofia" "!ZB0220">
+"Ooh!"
 #
 <removesprite -1 11>
 <sprite "ta34a004.agf" 2 4 11>
 <sprite "ta34b004.agf" 6 5 11>
-<name "喜ぶ商会メイド" "!AC0052">
-「やったぁ！」
+<name "Rejoicing Maid" "!AC0052">
+"Hooray!"
 #
-<name "褒める商会メイド" "!DC0031">
-「さすが魔王様」
+<name "Praising Maid" "!DC0031">
+"I knew you'd do it, Overlord!"
 #
 <removesprite -1 11>
 <sprite "ta01a004.agf" 4 4 11>
-<name "ソフィア" "!ZB0221">
-「親衛隊の警戒はどうします？」
+<name "Sofia" "!ZB0221">
+"What about the guards?"
 #
-<name "ダークス">
-「悪いが、まだもうしばらくは続けて貰ってくれ」
+<name "Darx">
+"Sorry, but keep them posted for a while
+ longer."
 #
-<name "ダークス">
-「街の方には、情報を少しだけ流せ。
-　正式な発表はするな」
+<name "Darx">
+"Leak the news to the citizens, but don't
+ make an official announcement."
 #
 <sprite "ta01a015.agf" 4 4 12>
-<name "ソフィア" "!ZB0222">
-「どうしてですか？」
+<name "Sofia" "!ZB0222">
+"Why not?"
 #
-<name "ダークス">
-「希望後の絶望は、ダメージが大きい」
+<name "Darx">
+"Despair after being given hope is especially
+ damaging."
 #
-<name "ダークス">
-「安全だと思うが、他に攻撃手段が無いと考えるの
-　は早計だ」
+<name "Darx">
+"I think we're safe now, but it's too soon to
+ assume that they don't have any other ways to
+ attack us."
 #
 <sprite "ta01a014.agf" 4 4 12>
-<name "ソフィア" "!ZB0223">
-「な、なるほど」
+<name "Sofia" "!ZB0223">
+"I-I understand."
 #
-<name "ダークス">
-「本当に安心するのは、ミアルテを捕まえてからだ」
+<name "Darx">
+"I'll actually feel safe once we've captured
+ Miartei."
 #
 <sprite "ta01a004.agf" 4 4 12>
-<name "ソフィア" "!ZB0224">
-「そうですね。
-　わかりました」
+<name "Sofia" "!ZB0224">
+"I agree.
+ I understand."
 #
 <removesprite -1 11>
 <exit>
