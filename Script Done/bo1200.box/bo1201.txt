@@ -1,10 +1,10 @@
 ﻿\xD8 "床物" \x22\x00\x08\x02\x00\x49\x02\x00\x4A\x02\x00\x4B\x1A\x01\x0C\x43\x00\x4C\x00\x30\x00\x30\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x31\x00 :95: \x0B\x02\x02\x12\x02\x02\x12 1 \xD7 "床物"  105 \x02\x00\x49\x02\x00\x4A 1 \x02\x00\x4B\x00\x16 :228: \x2E\x22\x00\x00\x02\x02\x08\x02\x02\x09\x8A\x22\x00\x00 0  0  0  "住民を勧誘した。" \x15 :221: 
 :95
-\x1A\x01\x0C\x43\x00\x4C\x00\x30\x00\x30\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x32\x00 :119: \x0B\x02\x02\x13\x02\x02\x13 1 \xD7 "床物"  105 \x02\x00\x49\x02\x00\x4A 1 \x02\x00\x4B\x00\x16 :3E5: \x2E\x22\x00\x00\x02\x02\x0C\x02\x02\x0D\x8A 0  0 \x22\x00\x00 0  "資金を手に入れた。" \x15 :221: 
+\x1A\x01\x0C\x43\x00\x4C\x00\x30\x00\x30\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x32\x00 :119: \x0B\x02\x02\x13\x02\x02\x13 1 \xD7 "床物"  105 \x02\x00\x49\x02\x00\x4A 1 \x02\x00\x4B\x00\x16 :3E5: \x2E\x22\x00\x00\x02\x02\x0C\x02\x02\x0D\x8A 0  0 \x22\x00\x00 0  "Money obtained." \x15 :221: 
 :119
-\x1A\x01\x0C\x43\x00\x4C\x00\x30\x00\x30\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x34\x00 :19D: \x0B\x02\x02\x15\x02\x02\x15 1 \xD7 "床物"  105 \x02\x00\x49\x02\x00\x4A 1 \x02\x00\x4B\x00\x16 :478: \x2E\x22\x00\x00\x02\x02\x0A\x02\x02\x0B\x8A 0 \x22\x00\x00 0  0  "食料を手に入れた。" \x15 :221: 
+\x1A\x01\x0C\x43\x00\x4C\x00\x30\x00\x30\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x34\x00 :19D: \x0B\x02\x02\x15\x02\x02\x15 1 \xD7 "床物"  105 \x02\x00\x49\x02\x00\x4A 1 \x02\x00\x4B\x00\x16 :478: \x2E\x22\x00\x00\x02\x02\x0A\x02\x02\x0B\x8A 0 \x22\x00\x00 0  0  "Food obtained." \x15 :221: 
 :19D
-\x1A\x01\x0C\x43\x00\x4C\x00\x30\x00\x30\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x33\x00 :221: \x0B\x02\x02\x14\x02\x02\x14 1 \xD7 "床物"  105 \x02\x00\x49\x02\x00\x4A 1 \x02\x00\x4B\x00\x16 :557: \x2E\x22\x00\x00\x02\x02\x0E\x02\x02\x0F\x8A 0  0  0 \x22\x00\x00 "資源を手に入れた。" \x15 :221: 
+\x1A\x01\x0C\x43\x00\x4C\x00\x30\x00\x30\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x33\x00 :221: \x0B\x02\x02\x14\x02\x02\x14 1 \xD7 "床物"  105 \x02\x00\x49\x02\x00\x4A 1 \x02\x00\x4B\x00\x16 :557: \x2E\x22\x00\x00\x02\x02\x0E\x02\x02\x0F\x8A 0  0  0 \x22\x00\x00 "Resources obtained." \x15 :221: 
 :221
 \x15 :227: 
 :227
@@ -48,531 +48,544 @@
 \x16 :234C: \x16 :23FC: \x16 :247E: \x16 :24F8: \x16 :25D1: \x16 :2735: \x16 :28A9: \x16 :2991: \x16 :2A8E: \x16 :2B19: \x16 :2BA7: \x16 :2C77: \x16 :2D83: \x16 :2E9C: 
 :68A
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "ダークス">
-「住民の確保だが、殴る以外には無いのか？」
+<name "Darx">
+"I know we need to bring in new citizens, but
+ is there no other way besides beating them
+ up?"
 #
-<name "商会メイド" "!DC0351" "ka34c000.agf">
-「説得も可能ですが、一人一人を相手にするのは厳
-　しいと思います」
+<name "Company Maid" "!DC0351" "ka34c000.agf">
+"You could try to convince them, but I think
+ that might be difficult to do with every
+ single individual."
 #
-<name "商会メイド" "!DC0352" "ka34c000.agf">
-「人数がいる時に、呼びかけてみる感じでどうでしょ
-　う」
+<name "Company Maid" "!DC0352" "ka34c000.agf">
+"How about if there's a group, you try
+ calling out to all of them at once?"
 #
-<name "ダークス">
-「だな。
-　それ以外には？」
+<name "Darx">
+"I guess.
+ Any other ideas?"
 #
-<name "商会メイド" "!DC0353" "ka34c000.agf">
-「やはり、殴って従わせるのが一番ですね。
-　基本、強い者に従いますから」
+<name "Company Maid" "!DC0353" "ka34c000.agf">
+"I think it's easiest to just beat them into
+ submission.
+ It's normal to just follow the strong."
 #
-<name "商会メイド" "!DC0354" "ka34c000.agf">
-「ああ、そういう意味では、集団のリーダーを従わ
-　せれば、その下が一緒について来る可能性があり
-　ます」
+<name "Company Maid" "!DC0354" "ka34c000.agf">
+"Oh, and in that vein, if you can force the
+ leader of a group to follow you, there's a
+ chance that their underlings will come with
+ them."
 #
-<name "ダークス">
-「なるほど。
-　一人一人を殴るよりは良いか」
+<name "Darx">
+"I see.
+ And this is better than beating them all up?"
 #
-<name "商会メイド" "!DC0355" "ka34c000.agf">
-「でも、そういったリーダーはなかなか前に出て来
-　ませんけどね」
+<name "Company Maid" "!DC0355" "ka34c000.agf">
+"But the leaders won't come out so readily."
 #
-<name "ダークス">
-「確かに」
+<name "Darx">
+"You're right."
 #
-<name "ダークス">
-「ま、頑張ってみるさ」
+<name "Darx">
+"Well, I'll do what I can."
 #
 <exit>
 :A39
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "ダークス">
-「集落ですかね？」
+<name "Darx">
+"There's a village here?"
 #
-<name "商会メイド" "!DC0356" "ka34c000.agf">
-「魔王様、演説をお願いします」
+<name "Company Maid" "!DC0356" "ka34c000.agf">
+"Overlord, please give a speech."
 #
-<name "ダークス">
-「ああ」
+<name "Darx">
+"Okay."
 #
 <exit>
 :AFD
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "商会メイド" "!DC0357" "ka34c000.agf">
-「魔王様、この辺りで演説など」
+<name "Company Maid" "!DC0357" "ka34c000.agf">
+"Overlord, you should give a speech here."
 #
-<name "ダークス">
-「そうだな」
+<name "Darx">
+"All right."
 #
 <exit>
 :BA2
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "商会メイド" "!DC0358" "ka34c000.agf">
-「魔王様、移住者をそれなりに確保しました」
+<name "Company Maid" "!DC0358" "ka34c000.agf">
+"Overlord, we've secured quite a few
+ immigrants."
 #
-<name "ダークス">
-「よくやった」
+<name "Darx">
+"Good job."
 #
 <exit>
 :C55
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "商会メイド" "!DC0359" "ka34c000.agf">
-「魔王様。
-　街への移住希望者を確保しました」
+<name "Company Maid" "!DC0359" "ka34c000.agf">
+"Overlord, we've found some people who want to
+ move to the city."
 #
-<name "ダークス">
-「街へ送ってくれ」
+<name "Darx">
+"Send them along then."
 #
-<name "商会メイド" "!DC0360" "ka34c000.agf">
-「はい」
+<name "Company Maid" "!DC0360" "ka34c000.agf">
+"Yes, sir."
 #
 <exit>
 :D54
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "ダークス">
-「集落っぽいな。
-　勧誘するか」
+<name "Darx">
+"Looks like a village.
+ I should try to recruit some people."
 #
 <exit>
 :DB5
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "商会メイド" "!PC0471" "ka34c000.agf">
-「魔王様。
-　資金を入手しました」
+<name "Company Maid" "!PC0471" "ka34c000.agf">
+"Overlord, we secured some money."
 #
-<name "ダークス">
-「え？
-　すまん、何を入手したって？」
+<name "Darx">
+"Huh? 
+ Sorry, what was that?"
 #
-<name "商会メイド" "!PC0472" "ka34c000.agf">
-「資金です」
+<name "Company Maid" "!PC0472" "ka34c000.agf">
+"Money."
 #
-<name "ダークス">
-「……どうやって？」
+<name "Darx">
+"...How?"
 #
-<name "商会メイド" "!PC0473" "ka34c000.agf">
-「どうやってって……そこに金庫が」
+<name "Company Maid" "!PC0473" "ka34c000.agf">
+"How?
+ That safe right there."
 #
-<name "ダークス">
-「………………なぜ、こんな所に金庫がある！
-　そして、それを難なく開けれる君達に驚きだ！」
+<name "Darx">
+"...What is a safe doing here!?
+ And how did you open it up so easily!?"
 #
-<name "商会メイド" "!PC0474" "ka34c000.agf">
-「てへ」
+<name "Company Maid" "!PC0474" "ka34c000.agf">
+"Heehee."
 #
-<name "ダークス">
-「よーし、話し合おうか。
-　まあ、座りたまえ」
+<name "Darx">
+"Okay, we need to have a talk.
+ Sit down."
 #
-<name "商会メイド" "!PC0475" "ka34c000.agf">
-「はい」
+<name "Company Maid" "!PC0475" "ka34c000.agf">
+"Yes, sir."
 #
-<name "ダークス">
-「なぜ、こんな所に金庫が？」
+<name "Darx">
+"What is a safe doing here?"
 #
-<name "商会メイド" "!PC0476" "ka34c000.agf">
-「かなり重いので、落し物とは考えられません」
+<name "Company Maid" "!PC0476" "ka34c000.agf">
+"It's very heavy, so I doubt somebody just
+ dropped it."
 #
-<name "ダークス">
-「だろうな」
+<name "Darx">
+"Right."
 #
-<name "商会メイド" "!PC0477" "ka34c000.agf">
-「考えられるのが、落下した城です」
+<name "Company Maid" "!PC0477" "ka34c000.agf">
+"Maybe it came from one of the fallen
+ castles."
 #
-<name "ダークス">
-「あそこにあった誰かの金庫が、ここに飛んで来た
-　と？」
+<name "Darx">
+"You're saying someone's safe fell here?"
 #
-<name "商会メイド" "!PC0478" "ka34c000.agf">
-「ここが落下地点ではないでしょう。
-　誰かが別の場所で見つけて運んだけど、あまりの
-　重さに諦めてここで放棄した。
-　そう考えるのが妥当だと思います」
+<name "Company Maid" "!PC0478" "ka34c000.agf">
+"This wouldn't be where it fell.
+ Someone found it, carried it here, but it was
+ so heavy that they gave up and abandoned it.
+ I think that's a reasonable assumption."
 #
-<name "ダークス">
-「なるほど。
-　金庫はまあ、それで良いだろう。
-　どうしてそれを簡単に開けられるんだ？」
+<name "Darx">
+"I see.
+ Well, that's a good enough explanation for a
+ safe.
+ So how'd you open it so easily?"
 #
-<name "商会メイド" "!PC0479" "ka34c000.agf">
-「魔王様」
+<name "Company Maid" "!PC0479" "ka34c000.agf">
+"Overlord."
 #
-<name "ダークス">
-「ん？」
+<name "Darx">
+"Hm?"
 #
-<name "商会メイド" "!PC0480" "ka34c000.agf">
-「それは私達がギュンギュスカー商会の者だからで
-　す」
+<name "Company Maid" "!PC0480" "ka34c000.agf">
+"It's because we're from Gunguskar."
 #
-<name "ダークス">
-「………………」
+<name "Darx">
+"........."
 #
-<name "商会メイド" "!PC0481" "ka34c000.agf">
-「もちろん。
-　金庫の中を自分の利益にする為に、鍵開けの技術
-　を使ったりはしません。
-　ですので、金庫の中身は魔王様の物です」
+<name "Company Maid" "!PC0481" "ka34c000.agf">
+"Of course, we would never use our lockpicking
+ techniques for personal gain.
+ The contents of the safe belong to you."
 #
-<name "商会メイド" "!PC0482" "ka34c000.agf">
-「ご納得頂けましたか？」
+<name "Company Maid" "!PC0482" "ka34c000.agf">
+"Does that satisfy you?"
 #
-<name "ダークス">
-「納得するしかないんだろうな」
+<name "Darx">
+"I guess it has to."
 #
-<name "商会メイド" "!PC0483" "ka34c000.agf">
-「細かい事は気にしない」
+<name "Company Maid" "!PC0483" "ka34c000.agf">
+"Don't worry about the little stuff."
 #
-<name "ダークス">
-「そ、そうしよう」
+<name "Darx">
+"I-I'll try."
 #
 <exit>
 :15B3
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "商会メイド" "!DC0361" "ka34c000.agf">
-「魔王様～♪」
+<name "Company Maid" "!DC0361" "ka34c000.agf">
+"Overlord.♪"
 #
-<name "ダークス">
-「上機嫌だな。
-　どうしたんだ？」
+<name "Darx">
+"You're in a good mood.
+ What's up?"
 #
-<name "商会メイド" "!DC0362" "ka34c000.agf">
-「資金、入手しましたー」
+<name "Company Maid" "!DC0362" "ka34c000.agf">
+"Money obtained!"
 #
-<name "ダークス">
-「お、良くやった」
+<name "Darx">
+"G-Good job."
 #
-<name "商会メイド" "!DC0363" "ka34c000.agf">
-「いえいえ。
-　ご褒美に頭を撫でても、構いませんよ」
+<name "Company Maid" "!DC0363" "ka34c000.agf">
+"No, no.
+ You don't even need to pat me on the head in
+ appreciation."
 #
-<name "ダークス">
-「……」
+<name "Darx">
+"..."
 #
-　愛情タップリに撫でてやった。
+I pat her affectionately.
 #
-<name "商会メイド" "!DC0364" "ka34c000.agf">
-「ふぁ……、頭以外も撫でられた」
+<name "Company Maid" "!DC0364" "ka34c000.agf">
+"Aahh...
+ That's not patting my head."
 #
 <exit>
 :17DB
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "商会メイド" "!DC0365" "ka34c000.agf">
-「魔王様。
-　食料を手に入れました」
+<name "Company Maid" "!DC0365" "ka34c000.agf">
+"Overlord, we've secured food."
 #
-<name "ダークス">
-「食料？
-　ああ、あれか」
+<name "Darx">
+"Food?
+ Oh, that stuff."
 #
-<name "商会メイド" "!DC0366" "ka34c000.agf">
-「はい。
-　野生のようですし、食べても問題はないと思いま
-　す」
+<name "Company Maid" "!DC0366" "ka34c000.agf">
+"Yes. It's growing wild, but I think it should
+ be fine to eat."
 #
-<name "商会メイド" "!DC0367" "ka34c000.agf">
-「万が一を考えて、街でチェックしてから倉庫に放
-　り込みます」
+<name "Company Maid" "!DC0367" "ka34c000.agf">
+"Just in case, we'll check it back in the city
+ and then put it in the warehouse."
 #
-<name "ダークス">
-「よろしく頼む」
+<name "Darx">
+"Please."
 #
 <exit>
 :19AE
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "商会メイド" "!DC0368" "ka34c000.agf">
-「魔王様。
-　ここらで食料の確保が出来そうです」
+<name "Company Maid" "!DC0368" "ka34c000.agf">
+"Overlord, I think we can gather some food
+ around here."
 #
-<name "ダークス">
-「そうか。
-　頼む」
+<name "Darx">
+"I see.
+ Please do."
 #
-<name "商会メイド" "!DC0369" "ka34c000.agf">
-「はい。
-　お任せください」
+<name "Company Maid" "!DC0369" "ka34c000.agf">
+"Yes, leave it to us."
 #
 <exit>
 :1AC7
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "商会メイド" "!DC0370" "ka34c000.agf">
-「魔王様。
-　この辺りで食料を集められそうです」
+<name "Company Maid" "!DC0370" "ka34c000.agf">
+"Overlord, it looks like we can collect some
+ food from around here."
 #
-<name "ダークス">
-「こんな場所でか？」
+<name "Darx">
+"Somewhere like this?"
 #
-<name "商会メイド" "!DC0371" "ka34c000.agf">
-「野生の芋が、壁の向こうに」
+<name "Company Maid" "!DC0371" "ka34c000.agf">
+"There are wild potatoes growing on the wall
+ over there."
 #
-<name "ダークス">
-「掘れるのか？」
+<name "Darx">
+"You can just dig them out?"
 #
-<name "商会メイド" "!DC0372" "ka34c000.agf">
-「その芋の所為で壁が脆くなっていますから、大丈
-　夫です。
-　ちなみに、その壁の脆くなり具合で芋の存在が解
-　るんですよ」
+<name "Company Maid" "!DC0372" "ka34c000.agf">
+"The wall is falling apart because of the
+ potatoes.
+ You know, you can tell there are potatoes
+ because the wall's in disrepair."
 #
-<name "ダークス">
-「俺には、まるっきりわからないが……」
+<name "Darx">
+"I'm not sure what I'm supposed to do with
+ that information."
 #
-<name "商会メイド" "!DC0373" "ka34c000.agf">
-「まあ、それなりの経験が必要ですから」
+<name "Company Maid" "!DC0373" "ka34c000.agf">
+"Well, you do need some experience to tell."
 #
-<name "ダークス">
-「……任せた」
+<name "Darx">
+"...I'll leave it to you."
 #
-<name "商会メイド" "!DC0374" "ka34c000.agf">
-「はい。
-　お任せください」
+<name "Company Maid" "!DC0374" "ka34c000.agf">
+"Yes.
+ I'll take care of it."
 #
 <exit>
 :1DC6
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "商会メイド" "!PC0484" "ka34c000.agf">
-「魔王様。
-　ここで資源が手に入りそうです」
+<name "Company Maid" "!PC0484" "ka34c000.agf">
+"Overlord, it looks like we can gather
+ resources here."
 #
-<name "ダークス">
-「……」
+<name "Darx">
+"..."
 #
-<name "商会メイド" "!PC0485" "ka34c000.agf">
-「なにか変でしたか？」
+<name "Company Maid" "!PC0485" "ka34c000.agf">
+"Is something the matter?"
 #
-<name "ダークス">
-「いや、どうしてここで資源が手に入るのかなぁと
-　思って」
+<name "Darx">
+"Oh, I was just wondering why here of all
+ places we can gather resources."
 #
-<name "商会メイド" "!PC0486" "ka34c000.agf">
-「天蓋の城を始めとした、天界の施設のお陰です」
+<name "Company Maid" "!PC0486" "ka34c000.agf">
+"It's thanks to the Celestial buildings,
+ including Castle Baldaquin."
 #
-<name "商会メイド" "!PC0487" "ka34c000.agf">
-「あれの落下の所為で、各地で地割れ、地滑り等が
-　起こりましたから、新しい発見があるんですよ」
+<name "Company Maid" "!PC0487" "ka34c000.agf">
+"Because they fell, they caused all kinds of
+ things like rifts and landslides, uncovering
+ all sorts of new things."
 #
-<name "ダークス">
-「不幸中の幸いってヤツか？」
+<name "Darx">
+"A silver lining?"
 #
-<name "商会メイド" "!PC0488" "ka34c000.agf">
-「転んでもタダでは起きないってヤツです」
+<name "Company Maid" "!PC0488" "ka34c000.agf">
+"All is grist for the mill."
 #
-<name "商会メイド" "!PC0489" "ka34c000.agf">
-「あと、天界の施設自体も、色々と良い物を使って
-　いるんですよ。
-　その残骸、破片とかが良い資源として活用できま
-　して」
+<name "Company Maid" "!PC0489" "ka34c000.agf">
+"Also, the Celestial buildings themselves are
+ full of useful things.
+ We can use the debris and wreckage as
+ resources too."
 #
-<name "ダークス">
-「なるほど」
+<name "Darx">
+"I see."
 #
 <exit>
 :217B
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "商会メイド" "!PC0490" "ka34c000.agf">
-「魔王様。
-　ここで少し、資源が手に入りそうです」
+<name "Company Maid" "!PC0490" "ka34c000.agf">
+"Overlord, I think we can gather some resources
+ here."
 #
-<name "ダークス">
-「そうか。
-　回収を頼む」
+<name "Darx">
+"Okay.
+ Please do."
 #
-<name "商会メイド" "!PC0491" "ka34c000.agf">
-「はい」
+<name "Company Maid" "!PC0491" "ka34c000.agf">
+"Yes, sir."
 #
 <exit>
 :2287
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "商会メイド" "!PC0492" "ka34c000.agf">
-「魔王様。
-　この辺りで、資源が手に入りそうです」
+<name "Company Maid" "!PC0492" "ka34c000.agf">
+"Overlord, I think we can gather some resources
+ here."
 #
-<name "ダークス">
-「そうか。
-　頼んだ」
+<name "Darx">
+"Okay.
+ Please."
 #
 <exit>
 :234C
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "部下魔族" "!ZD0137">
-「ここに何か仕掛けが……」
+<name "Underling Demon" "!ZD0137">
+"There's something fishy here."
 #
-<name "ダークス">
-「調べろ」
+<name "Darx">
+"Check it out."
 #
-<name "部下魔族" "!ZD0138">
-「うーっす」
+<name "Underling Demon" "!ZD0138">
+"Right."
 #
 <exit>
 :23FC
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "部下魔族" "!SB0249">
-「魔王様、スイッチを発見しました。
-　押します？」
+<name "Underling Demon" "!SB0249">
+"Overlord, I found a switch.
+ Should I press it?"
 #
 <exit>
 :247E
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "部下魔族" "!GB0210">
-「スイッチがありました。
-　どうします？」
+<name "Underling Demon" "!GB0210">
+"There's a switch here.
+ What should we do?"
 #
 <exit>
 :24F8
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "部下魔族" "!UA0156">
-「な、なんだ？
-　急に真っ暗になったぞ」
+<name "Underling Demon" "!UA0156">
+"W-What the heck?
+ It suddenly went dark."
 #
-<name "ダークス">
-「落ち着け、自分の感覚を再確認しろ」
+<name "Darx">
+"Calm down and use your other senses."
 #
-<name "部下魔族" "!UA0157">
-「は、はい」
+<name "Underling Demon" "!UA0157">
+"Y-Yes, sir."
 #
 <exit>
 :25D1
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "部下魔族" "!GB0212">
-「く、暗闇！」
+<name "Underling Demon" "!GB0212">
+"I-It's dark!"
 #
-<name "ドジな部下魔族" "!UA0158">
-「ああ、転んでしまったー」
+<name "Fellow Underling Demon" "!UA0158">
+"Yeah, we fell."
 #
-<name "部下魔族" "!GB0213">
-「きゃぁっ。
-　もう、変な所を触らないでよー」
+<name "Underling Demon" "!GB0213">
+"Eek!
+ Geez. Quit touching me in weird places."
 #
-<name "ダークス">
-「お前ら、余裕があるなぁ」
+<name "Darx">
+"You guys sure are carefree."
 #
-<name "部下魔族" "!GB0214">
-「あはは。
-　ちなみに、変な所は二の腕です」
+<name "Underling Demon" "!GB0214">
+"Hahahaha.
+ That strange place was my forearm."
 #
 <exit>
 :2735
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "下心がある部下魔族" "!HC0174">
-「く、暗闇……つまり、魔王様に抱きつくチャンス」
+<name "Plotting Demon" "!HC0174">
+"I-It's dark.
+ Meaning... a chance to be with the Overlord!"
 #
-<name "見張る部下魔族" "!SB0251">
-「させないから、安心して」
+<name "Wary Demon" "!SB0251">
+"I won't allow it.
+ Don't worry."
 #
-<name "下心がある部下魔族" "!HC0175">
-「ぬぬぬ……」
+<name "Plotting Demon" "!HC0175">
+"Grrrrrr..."
 #
-<name "ダークス">
-「いくらでも抱き締めてやるから、今は警戒しろ」
+<name "Darx">
+"I'll be with you as much as you want.
+ Stay on guard now."
 #
-<name "下心がある部下魔族" "!HC0176">
-「はーい」
+<name "Plotting Demon" "!HC0176">
+"'Kaaay."
 #
 <exit>
 :28A9
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "部下魔族" "!RB0167">
-「あの、魔王様」
+<name "Underling Demon" "!RB0167">
+"Um, Overlord."
 #
-<name "ダークス">
-「どうした？」
+<name "Darx">
+"What is it?"
 #
-<name "部下魔族" "!RB0168">
-「今、私のお尻、触りました？」
+<name "Underling Demon" "!RB0168">
+"Did you just touch my butt?"
 #
-<name "ダークス">
-「す、すまん。
-　事故だ」
+<name "Darx">
+"S-Sorry.
+ It was an accident."
 #
 <exit>
 :2991
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "部下魔族" "!HC0180">
-「えっと……」
+<name "Underling Demon" "!HC0180">
+"Um..."
 #
-<name "ダークス">
-「転移装置に引っかかったな」
+<name "Darx">
+"We got caught in some kind of teleporter."
 #
-<name "部下魔族" "!HC0181">
-「罠でしょうか？」
+<name "Underling Demon" "!HC0181">
+"A trap?"
 #
-<name "ダークス">
-「通路の可能性もあるから、なんともいえないなぁ」
+<name "Darx">
+"Hard to say.
+ It could just be a way to get around."
 #
 <exit>
 :2A8E
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "部下魔族" "!UA0163">
-「うわっ。
-　な、なんだ？」
+<name "Underling Demon" "!UA0163">
+"Whoa.
+ W-What was that?"
 #
-<name "ダークス">
-「転移装置か」
+<name "Darx">
+"A teleporter?"
 #
 <exit>
 :2B19
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "部下魔族" "!ZE0240">
-「ここ、どこだ？」
+<name "Underling Demon" "!ZE0240">
+"Where are we?"
 #
-<name "ダークス">
-「転移装置に引っかかったな」
+<name "Darx">
+"We must've tripped a teleporter."
 #
 <exit>
 :2BA7
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "考える部下魔族" "!UA0164">
-「うーん、転移装置。
-　どういう仕組みなんだろう」
+<name "Thinking Demon" "!UA0164">
+"Hmmm. How do teleporters work?"
 #
-<name "諦めた部下魔族" "!ZE0241">
-「考えるな、頭がおかしくなるぞー」
+<name "Resigned Demon" "!ZE0241">
+"Don't think about it.
+ It'll drive you crazy."
 #
 <exit>
 :2C77
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "部下魔族" "!MB0131">
-「なんだ、これ？」
+<name "Underling Demon" "!MB0131">
+"What's that?"
 #
-<name "ダークス">
-「昇降機だ。
-　上下の階に移動できる装置だ」
+<name "Darx">
+"It's an elevator.
+ It's a device that moves up and down floors."
 #
-<name "部下魔族" "!MB0132">
-「へぇ。
-　便利な物があるんですねぇ」
+<name "Underling Demon" "!MB0132">
+"Oh?
+ That seems really useful."
 #
-　ダークス宮にもあるんだけどなぁ。
+There's one in the Palace of Darx too though.
 #
 <exit>
 :2D83
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "慣れない部下魔族" "!ZD0145">
-「昇降機って、慣れないと気分が悪くなるよな」
+<name "Uneasy Demon" "!ZD0145">
+"If you're not used to elevators, they can make
+ you nauseous."
 #
-<name "平気な部下魔族" "!JA0153">
-「俺は大丈夫」
+<name "Relaxed Demon" "!JA0153">
+"I'm fine."
 #
-<name "同調する部下魔族" "!GB0216">
-「私も」
+<name "Agreeing Demon" "!GB0216">
+"Me too."
 #
-<name "慣れない部下魔族" "!ZD0146">
-「うぬぬ」
+<name "Uneasy Demon" "!ZD0146">
+"Grrr..."
 #
 <exit>
 :2E9C
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "部下魔族" "!GB0217">
-「昇降機、発見」
+<name "Underling Demon" "!GB0217">
+"Elevator found."
 #
-<name "部下魔族" "!GB0218">
-「乗ります？」
+<name "Underling Demon" "!GB0218">
+"Should we use it?"
 #
-<name "ダークス">
-「慌てるな。
-　ちょっと考える」
+<name "Darx">
+"Don't get carried away.
+ Let's think about it for a moment."
 #
 <exit>
 \x78

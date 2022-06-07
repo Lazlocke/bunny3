@@ -67,268 +67,274 @@
 <exit>
 :68A
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "デルーソン" "!KB0222" "ka55a000.agf">
-「あー、少しよろしいでしょうか？」
+<name "Delerson" "!KB0222" "ka55a000.agf">
+"Oh, might I have please have a moment?"
 #
-<name "ダークス">
-「誰だ？」
+<name "Darx">
+"Who are you?"
 #
-<name "デルーソン" "!KB0223" "ka55a000.agf">
-「初めまして。
-　ギュンギュスカー商会のデルーソンです。
-　以後、よろしくお願いします」
+<name "Delerson" "!KB0223" "ka55a000.agf">
+"Pleased to meet you.
+ I am Delerson of the Gunguskar Company.
+ I look forward to working with you?"
 #
-<name "ダークス">
-「なんの用だ？」
+<name "Darx">
+"What do you want?"
 #
-<name "デルーソン" "!KB0224" "ka55a000.agf">
-「魔王様が各所を回るのに便乗しまして、扉の設置
-　等を行いたく……その許可を頂けますか？」
+<name "Delerson" "!KB0224" "ka55a000.agf">
+"I would like to take advantage of your
+ journeys around this area and install 
+ additional doors... with your permission,
+ of course."
 #
-<name "ダークス">
-「別に構わないが、ガルキンはどうした？」
+<name "Darx">
+"I don't mind that, but what happened to
+ Garkin?"
 #
-　以前、扉関係を担当していた。
+He used to be in charge of doors.
 #
-　なかなか腕の立つ男だった。
+He was very reliable.
 #
-<name "デルーソン" "!KB0225" "ka55a000.agf">
-「彼は彼で、忙しいですから」
+<name "Delerson" "!KB0225" "ka55a000.agf">
+"He has his own affairs to attend to."
 #
-<name "ダークス">
-「まあ、ちゃんとやってくれるなら構わないさ」
+<name "Darx">
+"Well, I don't care, as long as you do your
+ job."
 #
-<name "デルーソン" "!KB0226" "ka55a000.agf">
-「ご期待に応えられるよう、務めさせて頂きます」
+<name "Delerson" "!KB0226" "ka55a000.agf">
+"I will do my best to live up to your lofty
+ expectations."
 #
 <exit>
 :9F5
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "部下魔族" "!UA0168">
-「扉発見。
-　……起動していませんね」
+<name "Underling Demon" "!UA0168">
+"Door found.
+ ...But it doesn't work."
 #
-<name "ダークス">
-「起動できるか？」
+<name "Darx">
+"Can you fix it?"
 #
-<name "部下魔族" "!UA0169">
-「俺達ではちょっと……」
+<name "Underling Demon" "!UA0169">
+"That's a little much for us..."
 #
-<name "ダークス">
-「って事は……」
+<name "Darx">
+"Meaning..."
 #
-<name "デルーソン" "!KB0240" "ka55a000.agf">
-「ギュンギュスカー商会は貴方の傍に」
+<name "Delerson" "!KB0240" "ka55a000.agf">
+"The Gunguskar company is at your side."
 #
-<name "ダークス">
-「よーし、頼んだ」
+<name "Darx">
+"Okay, please."
 #
-<name "デルーソン" "!KB0241" "ka55a000.agf">
-「お任せください」
+<name "Delerson" "!KB0241" "ka55a000.agf">
+"Leave it to us."
 #
 <exit>
 :BB6
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "部下魔族" "!UA0170">
-「何かありますね」
+<name "Underling Demon" "!UA0170">
+"Something's here."
 #
-<name "ダークス">
-「なんだ？」
+<name "Darx">
+"What is it?"
 #
-<name "部下魔族" "!UA0171">
-「えっと、扉です」
+<name "Underling Demon" "!UA0171">
+"Um, a door."
 #
-<name "ダークス">
-「使え……そうにはないな」
+<name "Darx">
+"It... doesn't look like it works."
 #
-<name "デルーソン" "!KB0242" "ka55a000.agf">
-「ギュンギュスカー商会は貴方の傍に」
+<name "Delerson" "!KB0242" "ka55a000.agf">
+"The Gunguskar company is at your side."
 #
-<name "ダークス">
-「任せた」
+<name "Darx">
+"It's in your hands."
 #
-<name "デルーソン" "!KB0243" "ka55a000.agf">
-「はい」
+<name "Delerson" "!KB0243" "ka55a000.agf">
+"Of course."
 #
 <exit>
 :D4E
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "部下魔族" "!HC0183">
-「扉がありますね」
+<name "Underling Demon" "!HC0183">
+"There's a door here."
 #
-<name "部下魔族" "!HC0184">
-「ギュンギュスカー商会の方を呼びましょう」
+<name "Underling Demon" "!HC0184">
+"Let's call Gunguskar."
 #
-<name "ダークス">
-「だな」
+<name "Darx">
+"Yeah."
 #
 <exit>
 :E12
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "部下魔族" "!HC0185">
-「壊れた扉を見つけて、数分。
-　来ませんね」
+<name "Underling Demon" "!HC0185">
+"It's been a few minutes since we found this
+ broken door.
+ Maybe he's not coming."
 #
-<name "デルーソン" "!KB0244" "ka55a000.agf">
-「ギュンギュスカー商会は、いつもあ、貴方の、そ、
-　傍に」
+<name "Delerson" "!KB0244" "ka55a000.agf">
+"The Gunguskar company... is always... at
+ your side."
 #
-<name "ダークス">
-「遅かったな」
+<name "Darx">
+"You're late."
 #
-<name "デルーソン" "!KB0245" "ka55a000.agf">
-「す、すみません。
-　罠に引っかかってしまいまして……
-　あー、痛かった」
+<name "Delerson" "!KB0245" "ka55a000.agf">
+"I-I'm sorry.
+ I was caught in a trap.
+ Aaah, it hurts."
 #
-<name "ダークス">
-「扉の方は任せた」
+<name "Darx">
+"Take care of the door."
 #
-<name "デルーソン" "!KB0246" "ka55a000.agf">
-「はっ。
-　お任せ下さい」
+<name "Delerson" "!KB0246" "ka55a000.agf">
+"Mmph.
+ Leave it to me."
 #
 <exit>
 :1023
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "部下魔族" "!UA0172">
-「扉発見。
-　やっぱり壊れてるな」
+<name "Underling Demon" "!UA0172">
+"Door found.
+ Broken as usual."
 #
-<name "デルーソン" "!KB0247" "ka55a000.agf">
-「壊れていると言うよりは、安全装置が働いている
-　とお考えください」
+<name "Delerson" "!KB0247" "ka55a000.agf">
+"Instead of thinking of it as broken, think of
+ it as the safety device working as intended."
 #
-<name "部下魔族" "!UA0173">
-「安全装置？」
+<name "Underling Demon" "!UA0173">
+"Safety device?"
 #
-<name "デルーソン" "!KB0248" "ka55a000.agf">
-「はい。
-　扉が敵の手に渡れば、扉の間に侵入を許してしま
-　います」
+<name "Delerson" "!KB0248" "ka55a000.agf">
+"Yes. If a door fell into enemy hands, they
+ would be able to enter the Hall of Doors."
 #
-<name "デルーソン" "!KB0249" "ka55a000.agf">
-「それを防ぐ為にも、ある程度のダメージを受けた
-　扉は、機能を停止するのです」
+<name "Delerson" "!KB0249" "ka55a000.agf">
+"To prevent that, any door that takes a little
+ bit of damage will stop working."
 #
-<name "部下魔族" "!UA0174">
-「へぇ。
-　じゃあ、復帰も簡単なのか？」
+<name "Underling Demon" "!UA0174">
+"Oh?
+ So it's easy to fix it too?"
 #
-<name "デルーソン" "!KB0250" "ka55a000.agf">
-「あはは……超複雑です。
-　敵の手に落ちた時の事を考えれば、仕方が無い事
-　ですが……」
+<name "Delerson" "!KB0250" "ka55a000.agf">
+"Hahaha... It's extremely complicated.
+ When you think of what'd happen if the enemy
+ could use it, it has to be..."
 #
 <exit>
 :132C
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B\x2E\x22\x00\x05 1  3 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x35\x00\x20\x00\x3C\x00\x3D\x00\x20\x00\x31\x00 :13D2: 
-<name "部下魔族" "!JA0151">
-「扉発見、ギュンギュスカーの連中に任せるかな」
+<name "Underling Demon" "!JA0151">
+"Door found.
+ Let's leave it to Gunguskar."
 #
 :13D2
 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x32\x00 :141C: 
-<name "部下魔族" "!JA0152">
-「扉発見だな」
+<name "Underling Demon" "!JA0152">
+"Door found."
 #
 :141C
 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x35\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x33\x00 :1464: 
-<name "部下魔族" "!GB0215">
-「扉発見♪」
+<name "Underling Demon" "!GB0215">
+"Door found!♪"
 #
 :1464
 <exit>
 :1465
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "デルーソン" "!KB0251" "ka55a000.agf">
-「ギュンギュスカー商会は貴方の傍に」
+<name "Delerson" "!KB0251" "ka55a000.agf">
+"The Gunguskar company is at your side."
 #
-<name "ダークス">
-「このタイミングでここに来たって事は……
-　扉の設置か？」
+<name "Darx">
+"If you're here now, that means...
+ You're going to set up a door?"
 #
-<name "デルーソン" "!KB0252" "ka55a000.agf">
-「はい。
-　後はお任せください」
+<name "Delerson" "!KB0252" "ka55a000.agf">
+"Yes.
+ Leave the rest to us."
 #
-<name "ダークス">
-「わかった」
+<name "Darx">
+"Got it."
 #
 <exit>
 :15B8
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "デルーソン" "!KB0253" "ka55a000.agf">
-「ギュンギュスカー商会は貴方の傍に」
+<name "Delerson" "!KB0253" "ka55a000.agf">
+"The Gunguskar company is at your side."
 #
-<name "デルーソン" "!KB0254" "ka55a000.agf">
-「ここに扉を設置させて頂きます」
+<name "Delerson" "!KB0254" "ka55a000.agf">
+"We'll set up a door here."
 #
-<name "部下魔族" "!UA0175">
-「大変だなぁ。
-　お茶飲む？」
+<name "Underling Demon" "!UA0175">
+"Seems like hard work.
+ Want a drink?"
 #
-<name "デルーソン" "!KB0255" "ka55a000.agf">
-「あ、いえ、それほどでは。
-　私共の事はお気になさらないで、お仕事にお戻り
-　ください」
+<name "Delerson" "!KB0255" "ka55a000.agf">
+"Ah, no, it's no big deal.
+ Don't worry about us.
+ You can get back to work."
 #
 <exit>
 :1775
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "デルーソン" "!KB0256" "ka55a000.agf">
-「ギュンギュスカー♪
-　商会はー♪
-　貴方の傍にー♪」
+<name "Delerson" "!KB0256" "ka55a000.agf">
+"The Gunguskar.♪
+ Company is.♪
+ At your side.♪"
 #
-<name "ダークス">
-「どうして歌って来たんだ？」
+<name "Darx">
+Why are you singing?"
 #
-<name "デルーソン" "!KB0257" "ka55a000.agf">
-「登場に変化を持たせようと思いまして」
+<name "Delerson" "!KB0257" "ka55a000.agf">
+"I felt like mixing things up."
 #
-<name "ダークス">
-「ま、まあ、良いけど……扉の設置、頼んだぞ」
+<name "Darx">
+"W-Well, it's fine but... please set up the
+ door."
 #
-<name "デルーソン" "!KB0258" "ka55a000.agf">
-「お任せくださーい♪」
+<name "Delerson" "!KB0258" "ka55a000.agf">
+"Leave it us!♪"
 #
 <exit>
 :1933
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "デルーソン" "!KB0259" "ka55a000.agf">
-「ギュンギュスカー商会は貴方の傍に」
+<name "Delerson" "!KB0259" "ka55a000.agf">
+"The Gunguskar company is at your side."
 #
-<name "ダークス">
-「任せたー」
+<name "Darx">
+"I'll leave you to it."
 #
-<name "デルーソン" "!KB0260" "ka55a000.agf">
-「も、もう少し、相手をしてくれても良いのでは？」
+<name "Delerson" "!KB0260" "ka55a000.agf">
+"C-Couldn't we have a little more banter?"
 #
-<name "ダークス">
-「すまん。
-　忙しい。
-　じゃーなー」
+<name "Darx">
+"Sorry, I'm busy.
+ Later."
 #
 <exit>
 :1A82
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B\x2E\x22\x00\x05 1  4 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x35\x00\x20\x00\x3C\x00\x3D\x00\x20\x00\x31\x00 :1B39: 
-<name "デルーソン" "!KB0261" "ka55a000.agf">
-「ギュンギュスカー商会は貴方の傍に」
+<name "Delerson" "!KB0261" "ka55a000.agf">
+"The Gunguskar company is at your side."
 #
 :1B39
 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x32\x00 :1BA2: 
-<name "デルーソン" "!KB0262" "ka55a000.agf">
-「扉を設置します」
+<name "Delerson" "!KB0262" "ka55a000.agf">
+"I'll set up a door."
 #
 :1BA2
 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x33\x00 :1C0F: 
-<name "デルーソン" "!KB0263" "ka55a000.agf">
-「扉の設置、完了です」
+<name "Delerson" "!KB0263" "ka55a000.agf">
+"Door installation complete."
 #
 :1C0F
 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x35\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x34\x00 :1C92: 
-<name "デルーソン" "!KB0264" "ka55a000.agf">
-「先回りして、すでに設置が完了しております」
+<name "Delerson" "!KB0264" "ka55a000.agf">
+"The door's been set up ahead of schedule."
 #
 :1C92
 <exit>
