@@ -24,225 +24,234 @@
 \x2B\x78
 :3D6
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "部下魔族" "!UA0165">
-「ふう、一休み一休み」
+<name "Demon" "!UA0165">
+"Whew.
+ Time for a rest."
 #
-<name "ダークス">
-「気を抜き過ぎるなよ」
+<name "Darx">
+"Don't get too relaxed."
 #
-<name "部下魔族" "!UA0166">
-「わかってる。
-　ちゃんと見張るよ」
+<name "Demon" "!UA0166">
+"I know.
+ I'm keeping an eye out."
 #
 <exit>
 :4A7
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "部下魔族" "!ZE0242">
-「魔王様。
-　飯にしませんか？
-　魔王亭のメイドさん達から、お弁当を預かってま
-　すよ」
+<name "Demon" "!ZE0242">
+"Overlord.
+ Would you like something to eat?
+ The maids at the Overlord's Bower made a
+ packed lunch for you."
 #
-<name "驚く部下魔族" "!JA0144">
-「いつの間に」
+<name "Surprised Demon" "!JA0144">
+"Seriously?"
 #
-<name "ダークス">
-「そうだな。
-　よし、飯にしよう」
+<name "Darx">
+"All right.
+ Okay, let's eat."
 #
-<name "部下魔族" "!ZE0243">
-「いえーっ！」
+<name "Demon" "!ZE0243">
+"Yay!"
 #
 <exit>
 :5E5
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "寝不足な部下魔族" "!JA0145">
-「ふう……悪い。
-　少し、寝かせてくれ」
+<name "Tired Demon" "!JA0145">
+"*yawn*
+ Sorry.
+ Let me take a quick nap."
 #
-<name "部下魔族" "!ZF0139">
-「どうしたんだ？」
+<name "Demon" "!ZF0139">
+"What's the matter?"
 #
-<name "寝不足な部下魔族" "!JA0146">
-「妙な疲労感があってな。
-　五分で良い」
+<name "Tired Demon" "!JA0146">
+"I just feel unusually tired.
+ I'll be good in five minutes."
 #
-<name "部下魔族" "!ZF0140">
-「魔王様が出発するって言ったら、起こすからな」
+<name "Demon" "!ZF0140">
+"If the Overlord says we're leaving, I'll wake
+ you up."
 #
-<name "寝不足な部下魔族" "!JA0147">
-「ああ、すまん」
+<name "Tired Demon" "!JA0147">
+"Okay, thanks."
 #
 <exit>
 :76E
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "部下魔族" "!ZF0141">
-「休憩。
-　広範囲警戒！」
+<name "Demon" "!ZF0141">
+"Break time.
+ Everyone stay alert!"
 #
-<name "警戒する部下魔族" "!ZG0161">
-「うっす」
+<name "Vigilant Demon" "!ZG0161">
+"Yo."
 #
-<name "部下魔族" "!ZF0142">
-「魔王様のプライベートを守れ！」
+<name "Demon" "!ZF0142">
+"Protect the Overlord's privacy!"
 #
-<name "ダークス">
-「え、えっと、別にトイレぐらいでそこまで警戒し
-　なくても……」
+<name "Darx">
+"U-Um, I'm just going to the bathroom.
+ You don't need to be so on guard..."
 #
 <exit>
 :89C
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "部下魔族" "!ZD0142">
-「休憩、休憩♪」
+<name "Demon" "!ZD0142">
+"Break time.♪ Break time.♪"
 #
-<name "商会メイドＡ" "!AC0410" "ka34c000.agf">
-「すみません」
+<name "Company Maid" "!AC0410" "ka34c000.agf">
+"Excuse me."
 #
-<name "部下魔族" "!ZD0143">
-「おっ。
-　何か緊急連絡かい？」
+<name "Demon" "!ZD0143">
+"Yeah?
+ An emergency message?"
 #
-<name "商会メイドＡ" "!AC0411" "ka34c000.agf">
-「いえ、ただの差し入れです。
-　皆さんの分もありますよ」
+<name "Company Maid" "!AC0411" "ka34c000.agf">
+"No, just provisions.
+ Here's your share."
 #
-<name "部下魔族" "!ZD0144">
-「ありがたいねぇ」
+<name "Demon" "!ZD0144">
+"Thank you."
 #
 <exit>
 :A2F
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "感心する部下魔族" "!UA0167">
-「魔王様って、人間なのにタフだよなぁ」
+<name "Impressed Demon" "!UA0167">
+"The Overlord's so tough despite being a
+ human."
 #
-<name "驚く部下魔族" "!ZE0244">
-「ああ、俺達でもキツイのに、凄いや」
+<name "Surprised Demon" "!ZE0244">
+"Yeah, this is hard even for us.
+ He's incredible."
 #
 <exit>
 :AF4
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "考える部下魔族" "!JA0148">
-「魔王様って、人間だよな」
+<name "Thinking Demon" "!JA0148">
+"The Overlord's a human, right?"
 #
-<name "知ってる部下魔族" "!ZF0143">
-「ああ、知らなかったのか？
-　有名な話だろ」
+<name "Knowing Demon" "!ZF0143">
+"Yeah. Didn't you know?
+ Everyone's heard the story."
 #
-<name "考える部下魔族" "!JA0149">
-「人間があそこまで強くなるんなら、ちょっと怖い
-　なぁと思ってさ」
+<name "Thinking Demon" "!JA0149">
+"I just think it's a little scary that a human
+ can be that strong."
 #
-<name "知ってる部下魔族" "!ZF0144">
-「魔王様が怖いのか？」
+<name "Knowing Demon" "!ZF0144">
+"Are you scared of him?"
 #
-<name "考える部下魔族" "!JA0150">
-「魔王様が怖いんじゃなくて……
-　ほら、人間って一杯居るだろ」
+<name "Thinking Demon" "!JA0150">
+"He's not the one I'm scared of...
+ But there are a lot of humans out there,
+ you know."
 #
-<name "知ってる部下魔族" "!ZF0145">
-「あはは。
-　確かに全員が全員、魔王様みたいに強くなったら
-　怖いけどな」
+<name "Knowing Demon" "!ZF0145">
+"Hahahaha.
+ It certainly would be scary if they were all
+ as strong as him."
 #
-<name "知ってる部下魔族" "!ZF0146">
-「あそこまで強い人間は、滅多に居ないよ」
+<name "Knowing Demon" "!ZF0146">
+"Very few are that strong though."
 #
 <exit>
 :D88
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "商会メイド" "!DC0409" "ka34c000.agf">
-「迷宮で輝く素敵な音色。
-　それはお金。
-　そして、それを求める熟練お手伝い集団！」
+<name "Company Maid" "!DC0409" "ka34c000.agf">
+"A lovely chime, shining in the dungeon.
+ It's money.
+ And the team of skilled assistants who are
+ after it!"
 #
-<name "商会メイド" "!DC0410" "ka34c004.agf">
-「ス、ペ、シャ、ル、ギュンギュスカー♪」
+<name "Company Maid" "!DC0410" "ka34c004.agf">
+"S. P. E. C. I. A. L.
+ Gunguskar!♪」
 #
-<name "商会メイド" "!DC0411" "ka34c000.agf">
-「ただいま、参上！」
+<name "Company Maid" "!DC0411" "ka34c000.agf">
+"We're here!"
 #
-<name "商会メイド" "!DC0412" "ka34c000.agf">
-「お呼びでしょうか、魔王様！」
+<name "Company Maid" "!DC0412" "ka34c000.agf">
+"You called us, Overlord?"
 #
-<name "ダークス">
-「いや、呼んだけど……なに？
-　いまの登場？」
+<name "Darx">
+"Um, I did, but... 
+ What was that?"
 #
-<name "商会メイド" "!DC0413" "ka34c004.agf">
-「スペシャル感を演出してみました」
+<name "Company Maid" "!DC0413" "ka34c004.agf">
+"I tried to make it special."
 #
-<name "ダークス">
-「そ、そうか」
+<name "Darx">
+"I-I see."
 #
-<name "商会メイド" "!DC0414" "ka34c000.agf">
-「では、リストです。
-　どうぞ」
+<name "Company Maid" "!DC0414" "ka34c000.agf">
+"So, here's the list.
+ Go ahead."
 #
-<name "ダークス">
-「おう」
+<name "Darx">
+"Right."
 #
-\x8A 0  0  0  0  "スペシャルギュンギュスカーの効果が|増えました。|（迷宮内の総歩数で解放されます）" 
+\x8A 0  0  0  0  "Special Gunguskar has been enhanced.|(Unlocked by total steps in dungeons.)" 
 <exit>
 :10ED
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "商会メイド" "!DC0415" "ka34c004.agf">
-「イエス、スペシャルギュンギュスカー♪」
+<name "Company Maid" "!DC0415" "ka34c004.agf">
+"Yes!♪ It's Special Gunguskar!♪"
 #
-<name "ダークス">
-「……」
+<name "Darx">
+"..."
 #
-<name "商会メイド" "!DC0416" "ka34c004.agf">
-「魔王様も一緒に。
-　イエス、スペシャルギュンギュスカー♪」
+<name "Company Maid" "!DC0416" "ka34c004.agf">
+"At your side, Overlord.
+ Yes!♪ It's Special Gunguskar!♪"
 #
-<name "ダークス">
-「い、いえす、すぺしゃるぎゅんぎゅすかー」
+<name "Darx">
+"Y-Yes, it's Special Gunguskar."
 #
-<name "商会メイド" "!DC0417" "ka34c004.agf">
-「声が小さい。
-　もう一回」
+<name "Company Maid" "!DC0417" "ka34c004.agf">
+"Too quiet.
+ Do it again."
 #
-<name "ダークス">
-「イエス、スペシャルギュンギュスカー♪」
+<name "Darx">
+"Yes!♪ It's Special Gunguskar!♪"
 #
-<name "商会メイド" "!DC0418" "ka34c004.agf">
-「ありがとうございます！
-　はい、リストです」
+<name "Company Maid" "!DC0418" "ka34c004.agf">
+"Thank you very much!
+ Here's the list."
 #
-<name "ダークス">
-「……今のやりとり、なんだったんだ？」
+<name "Darx">
+"...What was that exactly?"
 #
-<name "商会メイド" "!DC0419" "ka34c000.agf">
-「細かい事は気にしない」
+<name "Company Maid" "!DC0419" "ka34c000.agf">
+"Don't worry about the little stuff."
 #
-\x8A 0  0  0  0  "スペシャルギュンギュスカーの効果が|増えました。|（迷宮内の総歩数で解放されます）" 
+\x8A 0  0  0  0  "Special Gunguskar has been enhanced.|(Unlocked by total steps in dungeons.)" 
 <exit>
 :1439
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "ダークス">
-「スペシャルギュンギュスカーとは！」
+<name "Darx">
+"What is Special Gunguskar!"
 #
-<name "ダークス">
-「俺の活動を助ける為の特別サービス！」
+<name "Darx">
+"A special service to help me in my time of
+ need!"
 #
-<name "ダークス">
-「とっても頼りになる存在だ！」
+<name "Darx">
+"A truly reliable group!"
 #
-<name "商会メイド" "!DC0420" "ka34c000.agf">
-「か、感動です。
-　魔王様がそこまで私達の事を……」
+<name "Company Maid" "!DC0420" "ka34c000.agf">
+"I-I'm so touched.
+ You think so highly of us..."
 #
-<name "ダークス">
-「ふふふ。
-　さあ、リストを見せてくれ」
+<name "Darx">
+"Heheheh.
+ Now, let's see the list."
 #
-<name "商会メイド" "!DC0421" "ka34c000.agf">
-「どうぞ」
+<name "Company Maid" "!DC0421" "ka34c000.agf">
+"Here you are."
 #
-<name "感心するメイド" "!PC0493" "ka34f000.agf">
-「魔王様、慣れて来たなぁ」
+<name "Impressed Maid" "!PC0493" "ka34f000.agf">
+"He's gotten used to this."
 #
-\x8A 0  0  0  0  "スペシャルギュンギュスカーの効果が|増えました。" 
+\x8A 0  0  0  0  "Special Gunguskar has been enhanced." 
 <exit>
 \x78

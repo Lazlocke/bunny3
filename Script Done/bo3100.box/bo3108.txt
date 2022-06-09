@@ -4,95 +4,97 @@
 <music 4>
 <background "bg009a0.agf" 10>
 <sprite "ta01a004.agf" 4 4 11>
-<name "ソフィア" "!ZB0980">
-「はい、どれをお売りになりますか？」
+<name "Sofia" "!ZB0980">
+"Okay, what would you like to sell?"
 #
 <sprite "ta01a005.agf" 4 4 12>
-<name "ソフィア" "!ZB0982">
-「なんでも買い取りますよ」
+<name "Sofia" "!ZB0982">
+"We'll buy anything."
 #
-<name "ダークス">
-「頼む」
+<name "Darx">
+"Thanks."
 #
 <sprite "ta01a033.agf" 4 4 12>
-<name "ソフィア" "!ZB0983">
-「はい」
+<name "Sofia" "!ZB0983">
+"Yep."
 #
 <removesprite -1 11>
 <exit>
 <music 4>
 <background "bg009a0.agf" 10>
 <sprite "ta01a004.agf" 4 4 11>
-<name "ソフィア" "!ZB0980">
-「はい、どれをお売りになりますか？」
+<name "Sofia" "!ZB0980">
+"Okay, what would you like to sell?"
 #
 <sprite "ta01a033.agf" 4 4 12>
-<name "ソフィア" "!ZB0981">
-「出来る限り、なんでも買い取りますよ」
+<name "Sofia" "!ZB0981">
+"We'll buy anything, and as much of it as you
+ want."
 #
-<name "ダークス">
-「出来る限りじゃなくて、全て買い取って欲しいん
-　だけどなぁ」
+<name "Darx">
+"I want you to buy anything, but I'm not sure
+ you should buy all of it."
 #
 <removesprite -1 11>
 <exit>
 <music 11>
 <background "bg008a0.agf" 10>
-<name "ダークス">
-「やはり、まだ住民が少ないからか、寂しいな」
+<name "Darx">
+"It really is lonely with so few citizens."
 #
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!AC0281">
-「そうですね。
-　ですが、暇なのは今だけですよ」
+<name "Company Maid" "!AC0281">
+"Yes, it is.
+ But just for now, we have extra time."
 #
-<name "ダークス">
-「そうなのか？」
+<name "Darx">
+"Really?"
 #
-<name "商会メイド" "!AC0282">
-「魔王様がすぐにたくさんの住民を集めてくれるの
-　でしょう？」
+<name "Company Maid" "!AC0282">
+"You're going to be gathering a lot of
+ residents soon enough, right?"
 #
-<name "ダークス">
-「……プレッシャーをかけないでくれ」
+<name "Darx">
+"...Don't pressure me."
 #
-<name "商会メイド" "!AC0283">
-「すみません」
+<name "Company Maid" "!AC0283">
+"I'm sorry."
 #
-<name "ダークス">
-「まあ、期待は裏切らないようにするよ」
+<name "Darx">
+"Well, I won't let you down."
 #
 <sprite "ta34a004.agf" 4 4 12>
-<name "商会メイド" "!AC0284">
-「はい。
-　頑張ってください」
+<name "Company Maid" "!AC0284">
+"Okay.
+ Good luck."
 #
 <removesprite -1 11>
 <exit>
 <music 11>
 <background "bg008a0.agf" 10>
-<name "ダークス">
-「賑わってきたな」
+<name "Darx">
+"It's bustling."
 #
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!AC0285">
-「はい。
-　ラキア様に補充を頼んでいます。
-　業務に支障は出しません」
+<name "Company Maid" "!AC0285">
+"Yes.
+ We've asked Rakia for replacements.
+ We don't want anything to get in the way of
+ business."
 #
-<name "ダークス">
-「その辺りは信用しているさ」
+<name "Darx">
+"I'll leave all that to you."
 #
 <sprite "ta34a001.agf" 4 4 12>
-<name "商会メイド" "!AC0286">
-「あら」
+<name "Company Maid" "!AC0286">
+"Oh?"
 #
-<name "ダークス">
-「これからも、頼んだ」
+<name "Darx">
+"I'm counting on you."
 #
 <sprite "ta34a000.agf" 4 4 12>
-<name "商会メイド" "!AC0287">
-「お任せください」
+<name "Company Maid" "!AC0287">
+"Leave it to us."
 #
 <removesprite -1 11>
 <exit>
