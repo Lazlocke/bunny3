@@ -43,328 +43,343 @@
 \x78
 :640
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "部下魔族" "!SB0246">
-「魔王様、ここに罠があります。
-　注意してください」
+<name "Demon" "!SB0246">
+"Overlord, there's a trap here.
+ Be careful."
 #
-<name "ダークス">
-「おう」
+<name "Darx">
+"Got it."
 #
 <exit>
 :6DD
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "気付いた部下魔族" "!SB0247">
-「罠がありますね。
-　避けてください」
+<name "Alert Demon" "!SB0247">
+"There's a trap here.
+ Try to avoid it."
 #
-<name "素直な部下魔族" "!CB0175">
-「わかった」
+<name "Demon" "!CB0175">
+"Got it."
 #
 <exit>
 :78D
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "気付いた部下魔族" "!CB0176">
-「罠発見。
-　ここを踏むなよ」
+<name "Alert Demon" "!CB0176">
+"Trap found.
+ Don't step here."
 #
-<name "素直な部下魔族" "!MB0130">
-「おー」
+<name "Demon" "!MB0130">
+"Okay."
 #
 <exit>
 :831
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "素早い部下魔族" "!CB0177">
-「罠を発見、同時に回避」
+<name "Speedy Demon" "!CB0177">
+"I can find traps and avoid them at the same
+ time."
 #
-<name "素早い部下魔族" "!CB0178">
-「さすが俺」
+<name "Speedy Demon" "!CB0178">
+"I am truly impressive."
 #
-<name "ダークス">
-「油断するなよ」
+<name "Darx">
+"Don't get careless."
 #
-<name "素早い部下魔族" "!CB0179">
-「あはは。
-　了解です」
+<name "Speedy Demon" "!CB0179">
+"Hahaha.
+ Yes, sir."
 #
 <exit>
 :930
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "避けた部下魔族" "!ZD0135">
-「ひ、ひぃっ、危なかったぁ！」
+<name "Panicked Demon" "!ZD0135">
+"E-Eep!
+ That was close!"
 #
-<name "ダークス">
-「油断するなよー」
+<name "Darx">
+"Don't be careless."
 #
-<name "避けた部下魔族" "!ZD0136">
-「お、おう」
+<name "Panicked Demon" "!ZD0136">
+"Y-Yeah."
 #
 <exit>
 :9F8
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "避けた部下魔族" "!SB0248">
-「きゃっ、も、もう、危ないわね」
+<name "Panicked Demon" "!SB0248">
+"Eek!
+ G-Geez.
+ That was close."
 #
-<name "ダークス">
-「まあ、罠だからな」
+<name "Darx">
+"Well, it was a trap after all."
 #
 <exit>
 :A92
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "部下魔族" "!ZD0139">
-「なにか、変な感じが……」
+<name "Demon" "!ZD0139">
+"Something's fishy here."
 #
-<name "ダークス">
-「方向を狂わされたか？」
+<name "Darx">
+"Did we get turned around?"
 #
-<name "部下魔族" "!ZD0140">
-「みたいですね」
+<name "Demon" "!ZD0140">
+"Looks like it."
 #
 <exit>
 :B54
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "部下魔族" "!SB0250">
-「魔王様。
-　床、動いたよ」
+<name "Demon" "!SB0250">
+"Overlord, the floor moved."
 #
-<name "ダークス">
-「ちぃ、面倒な」
+<name "Darx">
+"Tch.
+ What a pain."
 #
 <exit>
 :BE1
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "気付いた部下魔族" "!GB0211">
-「床が動いたね」
+<name "Alert Demon" "!GB0211">
+"The floor moved."
 #
-<name "飛んでる部下魔族" "!HC0173">
-「そうなの？
-　私、飛んでるけど、位置は変わってないわよ」
+<name "Flying Demon" "!HC0173">
+"Did it?
+ I'm flying.
+ Nothing seems different to me."
 #
-<name "ダークス">
-「空間ごと、移動させられたんだ」
+<name "Darx">
+"The whole room got turned around."
 #
 <exit>
 :CDC
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "部下魔族" "!UA0159">
-「あっ、マズイっ！」
+<name "Demon" "!UA0159">
+"Ah! Oh no!"
 #
-<name "ダークス">
-「どうした？」
+<name "Darx">
+"What is it?"
 #
-<name "部下魔族" "!UA0160">
-「何か踏みました。
-　多分、警報です。
-　すみません！」
+<name "Demon" "!UA0160">
+"I stepped on something.
+ An alarm maybe?
+ I'm sorry!"
 #
-<name "ダークス">
-「慌てるな。
-　戦闘準備！」
+<name "Darx">
+"Don't panic.
+ Get ready for battle!"
 #
-<name "部下魔族" "!UA0161">
-「は、はい」
+<name "Demon" "!UA0161">
+"Y-Yes, sir."
 #
 <exit>
 :E12
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "耳の良い部下魔族" "!HC0177">
-「遠くで……警報です！
-　敵が来ます！」
+<name "Sharp-eared Demon" "!HC0177">
+"I hear something... an alarm!
+ The enemy's coming!"
 #
-<name "ダークス">
-「戦闘準備！
-　急げっ！」
+<name "Darx">
+"Get ready for battle!
+ Hurry!"
 #
-<name "部下魔族" "!SB0252">
-「は、はい！」
+<name "Demon" "!SB0252">
+"Y-Yes, sir!"
 #
 <exit>
 :EEC
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "部下魔族" "!SB0253">
-「すみません、警報に引っかかりました」
+<name "Demon" "!SB0253">
+"Sorry, I tripped an alarm."
 #
-<name "ダークス">
-「謝罪は後だ。
-　戦闘準備、すぐに来るぞ」
+<name "Darx">
+"Apologize later.
+ Get ready for battle.
+ They'll be here any second."
 #
-<name "部下魔族" "!SB0254">
-「はい」
+<name "Demon" "!SB0254">
+"Yes, sir."
 #
 <exit>
 :FC5
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "部下魔族" "!ZE0238">
-「ん？
-　目が……変な感じに見える……」
+<name "Demon" "!ZE0238">
+"Hm?
+ My eyes...
+ Something looks weird..."
 #
-<name "ダークス">
-「幻覚だ。
-　気をしっかり持て！」
+<name "Darx">
+"It's an illusion.
+ Be on guard!"
 #
-<name "部下魔族" "!ZE0239">
-「は、はい！」
+<name "Demon" "!ZE0239">
+"Y-Yes, sir!"
 #
 <exit>
 :109F
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "部下魔族" "!HC0178">
-「ん？
-　目が……変な感じに見える……」
+<name "Demon" "!HC0178">
+"Hm?
+ My eyes...
+ Something looks weird..."
 #
-<name "ダークス">
-「幻覚だ。
-　気をしっかり持て！」
+<name "Darx">
+"It's an illusion.
+ Be on guard!"
 #
-<name "部下魔族" "!HC0179">
-「は、はい！」
+<name "Demon" "!HC0179">
+"Y-Yes, sir!"
 #
 <exit>
 :1179
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "部下魔族" "!RB0169">
-「あれ？
-　あれれ？」
+<name "Demon" "!RB0169">
+"Huh?
+ Um... huh?"
 #
-<name "ダークス">
-「幻覚だな。
-　ちい……」
+<name "Darx">
+"An illusion.
+ Tch..."
 #
 <exit>
 :120B
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "部下魔族" "!LB0176">
-「ぐるぐるするー」
+<name "Demon" "!LB0176">
+"Everything's spinning."
 #
-<name "ダークス">
-「幻覚だ。
-　落ち着け」
+<name "Darx">
+"It's an illusion.
+ Pull yourself together."
 #
 <exit>
 :1296
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "部下魔族" "!UA0162">
-「ひっ！
-　て、敵？
-　敵？」
+<name "Demon" "!UA0162">
+"Ah!
+ T-The enemy?
+ Enemies?"
 #
-<name "冷静な部下魔族" "!ZD0141">
-「幻覚だ！
-　落ち着け！」
+<name "Calm Demon" "!ZD0141">
+"It's an illusion!
+ Calm down!"
 #
 <exit>
 :1346
 <music 9>
 \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "天界兵指揮官" "!RB0019">
-「敵、止まりませんね」
+<name "Commander Angel" "!RB0019">
+"The enemies won't stop."
 #
 <sprite "ta05a003.agf" 4 4 11>
-<name "キュリハ" "!FA0242">
-「それも計算通りです。
-　よく、ここまで引き摺り込んでくれました」
+<name "Kyuriha" "!FA0242">
+"That's also as I expected.
+ You did well to bring them this far."
 #
-<name "天界兵指揮官" "!RB0020">
-「では、何か策が？」
+<name "Commander Angel" "!RB0020">
+"Then you have a plan?"
 #
 <sprite "ta05a004.agf" 4 4 12>
-<name "キュリハ" "!FA0243">
-「ええ、分断をさせてあげようと思いまして」
+<name "Kyuriha" "!FA0243">
+"Yes. I plan to divide them."
 #
-<name "天界兵指揮官" "!RB0021">
-「あの少数をですか？」
+<name "Commander Angel" "!RB0021">
+"But there's already only a few."
 #
 <sprite "ta05a019.agf" 4 4 12>
-<name "キュリハ" "!FA0244">
-「いえ。
-　あの少数の後ろに居るサポート要員、ギュンギュ
-　スカー商会とです」
+<name "Kyuriha" "!FA0244">
+"No. From the support behind them, the
+ Gunguskar Company."
 #
 <sprite "ta05a003.agf" 4 4 12>
-<name "キュリハ" "!FA0245">
-「戦わず、目立ちませんが、その存在があの少数の
-　強さの秘密です」
+<name "Kyuriha" "!FA0245">
+"They don't fight, so they're hard to notice,
+ but they're the secret behind the strength of
+ such few people."
 #
 <sprite "ta05a004.agf" 4 4 12>
-<name "キュリハ" "!FA0246">
-「それと分断させれば、前の少数は困るでしょうね」
+<name "Kyuriha" "!FA0246">
+"Separate them, and that small group may find
+ themselves in dire straits."
 #
-<name "天界兵指揮官" "!RB0022">
-「な、なるほど」
+<name "Commander Angel" "!RB0022">
+"I-I see."
 #
 <sprite "ta05a003.agf" 4 4 12>
-<name "キュリハ" "!FA0247">
-「ですが、油断は禁物です。
-　戦わないだけで弱いわけではありませんからね」
+<name "Kyuriha" "!FA0247">
+"However, do not be careless.
+ Just because they don't fight, that doesn't
+ mean that they're helpless."
 #
-<name "天界兵指揮官" "!RB0023">
-「はい。
-　注意します」
+<name "Commander Angel" "!RB0023">
+"Yes, ma'am.
+ We'll be careful."
 #
 <removesprite -1 11>
 <background "bg017a0.agf" 10>
-　……
+...
 #
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "ダークス">
-「うおっ！」
+<name "Darx">
+"Whoa!"
 #
-<name "商会メイド" "!PC0032" "ka34a008.agf">
-「魔王様！」
+<name "Company Maid" "!PC0032" "ka34a008.agf">
+"Overlord!"
 #
-<name "支援メイド" "!DC0040" "ka34c008.agf">
-「まずい。
-　分断された！」
+<name "Support Maid" "!DC0040" "ka34c008.agf">
+"This is bad.
+ We've been cut off!"
 #
-<name "護衛メイド" "!AC0055" "ka34b002.agf">
-「急いで魔王様を探しましょう」
+<name "Guard Maid" "!AC0055" "ka34b002.agf">
+"We have to find the Overlord quickly."
 #
-<name "支援メイド" "!DC0041" "ka34c002.agf">
-「はい。
-　なんとか合流しないと」
+<name "Support Maid" "!DC0041" "ka34c002.agf">
+"Yes.
+ We've got to rejoin him."
 #
-<name "商会メイド" "!PC0033" "ka34a006.agf">
-「あう、そ、その前に」
+<name "Company Maid" "!PC0033" "ka34a006.agf">
+"Oooh...
+ B-But first..."
 #
-<name "護衛メイド" "!AC0056" "ka34b001.agf">
-「どうしたの？」
+<name "Guard Maid" "!AC0056" "ka34b001.agf">
+"What is it?"
 #
-<name "商会メイド" "!PC0034" "ka34a008.agf">
-「私達、囲まれてるみたいだけど、どうする？」
+<name "Company Maid" "!PC0034" "ka34a008.agf">
+"It looks like we're surrounded.
+ What do we do?"
 #
-<name "護衛メイド" "!AC0057" "ka34b006.agf">
-「……こちらから仕掛ける事はできません。
-　向こうが仕掛けるのを待ちます」
+<name "Guard Maid" "!AC0057" "ka34b006.agf">
+"...We're not allowed to start a fight.
+ We need to wait for them to make the first
+ move."
 #
-<name "支援メイド" "!DC0042" "ka34c006.agf">
-「魔王様……ご無事で」
+<name "Support Maid" "!DC0042" "ka34c006.agf">
+"Overlord...
+ Stay safe."
 #
 <exit>
 :1B7E
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "護衛メイド" "!AC0058" "ka34c001.agf">
-「ぬっ。
-　またですか」
+<name "Guard Maid" "!AC0058" "ka34c001.agf">
+"Grr.
+ Again?"
 #
-<name "支援メイド" "!DC0043" "ka34a002.agf">
-「はい。
-　魔王様と分断されました」
+<name "Support Maid" "!DC0043" "ka34a002.agf">
+"Yes. 
+ We've been separated from the Overlord."
 #
-<name "商会メイド" "!PC0035" "ka34d000.agf">
-「執拗に狙われてますね」
+<name "Company Maid" "!PC0035" "ka34d000.agf">
+"We're being targeted specifically."
 #
-<name "護衛メイド" "!AC0059" "ka34c006.agf">
-「キュリハ様……いえ、キュリハの案でしょうね。
-　仲良くし過ぎました」
+<name "Guard Maid" "!AC0059" "ka34c006.agf">
+"Miss Kyuriha...
+ No, it must be Kyuriha's plan.
+ We were such good friends too."
 #
 <exit>
 :1D36
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
-<name "商会メイド" "!PC0036" "ka34a006.agf">
-「すみません。
-　分断されました」
+<name "Company Maid" "!PC0036" "ka34a006.agf">
+"I'm sorry.
+ We got split up."
 #
-<name "護衛メイド" "!AC0060" "ka34c005.agf">
-「敵が凄いと、思いましょう」
+<name "Guard Maid" "!AC0060" "ka34c005.agf">
+"We have to take this enemy seriously."
 #
 <exit>
 \x78
