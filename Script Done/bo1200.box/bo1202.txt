@@ -1111,20 +1111,22 @@ I had sex with a bunch of angolamay women.
 "Then let's attack the city."
 #
 <name "Aide" "!RB0033">
-"Aren't we probably going to lose?"
+"Isn't that unlikely to be a success?"
 #
 <sprite "ta19a004.agf" 4 4 12>
 <name "Ao" "!WA0030">
-"We don't need to win.
+"We don't need to succeed.
  But if we leave them alone too much, they
- may think we're a danger to them."
+ may think we're up to something and 
+ dangerous."
 #
 <name "Aide" "!RB0034">
 "I-I see."
 #
 <sprite "ta19a006.agf" 4 4 12>
 <name "Ao" "!WA0031">
-"So we attack, and be ready for some losses."
+"So we attack, expecting to get our noses
+ bloody."
 #
 <name "Aide" "!RB0035">
 "Yes, ma'am!"

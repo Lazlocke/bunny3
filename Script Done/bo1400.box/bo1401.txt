@@ -633,7 +633,7 @@ The whole floor collapses out from under me.
  place."
 #
 <name "Hibi" "!DB0002" "ka23a001.agf">
-"You don't need to try so hard."
+"We don't need to try so hard."
 #
 <name "Hibi's Subordinate" "!LB0065">
 "Huh?"
@@ -645,8 +645,8 @@ The whole floor collapses out from under me.
 "T-Then what?"
 #
 <name "Hibi" "!DB0004" "ka23a007.agf">
-"It works well to just set up wherever.
- Maybe they'll come from the other direction."
+"Just be ready with your best stuff.
+ They could come from the other direction too."
 #
 <name "Hibi's Subordinate" "!LB0067">
 "A-All right.
