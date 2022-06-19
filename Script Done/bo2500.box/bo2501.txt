@@ -348,8 +348,7 @@ Her eyes are burning in anger.
 #
 <sprite "ta17a005.agf" 4 4 11>
 <name "Tamaga" "!PB0033">
-"Tamaga of the tigres."
-(VERIFY THE RACE WITH BB1/2)
+"Tamaga of the tifurs."
 #
 <sprite "ta17a006.agf" 4 4 12>
 <name "Tamaga" "!PB0032">

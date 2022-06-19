@@ -3181,7 +3181,7 @@ Well, she's friendlier than Macdo at any rate.
 <name "Darx">
 "If you're really thinking about it honestly,
  doesn't it make more sense that I'm just
- plain likeable?"
+ plain likable?"
 #
 <name "Thinking Maid" "!AC0040">
 "Absolutely not."

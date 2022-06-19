@@ -774,7 +774,7 @@ them home.
  Let me show you."
 #
 <name "Darx">
-"Yeah, plesae."
+"Yeah, please."
 #
 <exit>
 :48AE

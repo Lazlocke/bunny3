@@ -981,7 +981,7 @@ The whole floor collapses out from under me.
 <music 9>
 \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
 <name "Tamaga's Subordinate" "!TC0026">
-"I think we've significantly wore them down!"
+"I think we've significantly worn them down!"
 #
 <sprite "ta17a007.agf" 4 4 11>
 <name "Tamaga" "!PB0029">

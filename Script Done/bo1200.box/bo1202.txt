@@ -1168,7 +1168,7 @@ I had sex with a bunch of angolamay women.
 "Hm? All anybody's thinking about now is
  defeating Darx and becoming the leader of
  the alliance, but doesn't that means it's
- every man for themself?"
+ every man for themselves?"
 #
 <sprite "ta16a016.agf" 4 4 12>
 <name "Farren" "!FB0050">

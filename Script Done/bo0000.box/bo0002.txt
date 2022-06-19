@@ -308,7 +308,7 @@
 "You called?"
 #
 <name "Darx">
-"Yeah, just wanted to check things were 
+"Yeah, just wanted to check how things were 
  going."
 #
 <sprite "ta17a004.agf" 4 4 12>
