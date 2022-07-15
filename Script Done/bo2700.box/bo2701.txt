@@ -2234,7 +2234,7 @@ Pretty entertaining.
 #
 But the main draw is her skin.
 #
-It's weirdly slipperly, but sticks fast to my
+It's weirdly slippery, but sticks fast to my
 touch.
 #
 It's just feminine all over.
@@ -2714,9 +2714,9 @@ sacred, so it's strictly forbidden.
 It's a different culture, and they can live
 however they want.
 #
-But without someone like me attacking her this
-way, that culture does nothing but make things
-worse for them.
+But with someone like me attacking her this way,
+that culture does nothing but make things worse
+for them.
 #
 <name "Rualtei" "!RA0080">
 "Ah...aah...ah...ah...ah..."

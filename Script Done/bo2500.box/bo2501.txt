@@ -460,9 +460,9 @@ Her eyes are burning in anger.
 "But I'll answer anyway."
 #
 <name "Darx">
-"I won't lay a finger on those anybody who
- doesn't fight. They'll be forced to move to
- the city, but they'll be treated well."
+"I won't lay a finger on anybody who doesn't
+ fight. They'll be forced to move to the city,
+ but they'll be treated well."
 #
 <name "Darx">
 "The ones who I will punish are the ones who

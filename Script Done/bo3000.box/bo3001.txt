@@ -687,7 +687,7 @@ This is one of the guards here.
 "Oh?"
 #
 It's another one of the fallen angel castles
-like Baldaquin and the Thunber Nimbus.
+like Baldaquin and the Thunder Nimbus.
 #
 <exit>
 :423A

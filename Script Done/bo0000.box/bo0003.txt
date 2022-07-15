@@ -3485,7 +3485,7 @@ they met.
 <name "Suisen" "!YA0015">
 "I am starting a business here.
  I am Suisen from the Anselm Company. 
- It's my honor to greet our precessors."
+ It's my honor to greet our predecessors."
 #
 <name "Macdo" "!ZA0086">
 "How very kind of you."
@@ -3632,7 +3632,7 @@ glad I didn't rush to make a decision.
 <sprite "ta34a000.agf" 4 4 11>
 <name "Company Maid" "!AC0045">
 "Don't you know there are some things that
- it's pointess to resist?"
+ it's pointless to resist?"
 #
 <name "Darx">
 "I see."
@@ -3650,7 +3650,7 @@ Well, I better just stay out of it.
 <background "bg008a0.agf" 10>
 <sprite "ta05a003.agf" 4 4 11>
 <name "Kyuriha" "!FA0064">
-"Please nothing too ostentatious."
+"Please, nothing too ostentatious."
 #
 <removesprite -1 11>
 <sprite "ta05a003.agf" 2 4 11>
