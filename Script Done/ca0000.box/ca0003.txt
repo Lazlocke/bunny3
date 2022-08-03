@@ -3551,7 +3551,7 @@ Naturally, some of them have had children too.
 "Aah...mm..."
 #
 After finishing with the guards, I take care
-of Filine and Marialis at the same time. 
+of Filliane and Marialis at the same time. 
 #
 <name "Marialis" "!LA0088">
 "Aah...ah...mm...mmm..."

@@ -1659,7 +1659,7 @@ Obviously, it was denied.
 <name "Proposing Student" "!HC0066">
 "Let's see.
  Ah, I know!
- Tell us about you fell in love with the
+ Tell us about how you fell in love with the
  Overlord."
 #
 <name "Izana" "!AA0068">

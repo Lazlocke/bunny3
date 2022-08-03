@@ -1334,7 +1334,7 @@ The whole floor collapses out from under me.
 #
 <name "Company Maid" "!DC0034" "ka34c000.agf">
 "Since we know Miartei is here, why don't we
- make that device outselves and attack here 
+ make that device ourselves and attack here 
  from a distance?"
 #
 <name "Company Maid" "!DC0035" "ka34c000.agf">

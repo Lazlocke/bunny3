@@ -3972,7 +3972,7 @@ iron hand.
 #
 <name "Student" "!GB0023" "ka60a000.agf">
 "Oh no, Gunguskar's making a push.
-　Support Anselm!"
+ Support Anselm!"
 #
 Some try to play both sides and prolong the
 conflict.

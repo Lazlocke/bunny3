@@ -122,7 +122,7 @@ But I'm not going to say that.
 #
 <sprite "ta01a004.agf" 4 4 11>
 <name "Sofia" "!ZB0562">
-"I'm new, so sublieutenant."
+"I'm new, so sub-lieutenant."
 #
 <name "Darx">
 "Oh?"
@@ -187,7 +187,7 @@ I think back to the tears in Rakia's eyes.
 #
 <background "bg013a0.agf" 10>
 <name "Reporting Bodyguard" "!TC0056" "ka35b000.agf">
-"Aftering finishing, he patrols the city."
+"After finishing, he patrols the city."
 #
 <music 3>
 <background "bg010a0.agf" 10>
