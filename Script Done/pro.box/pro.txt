@@ -609,7 +609,7 @@ Being Overlord is rough.
 "It's still bad here, huh?"
 #
 <name "Secretary" "!WB0006">
-"Thank you for coming, Dungeon Master."
+"Thank you for coming, Dungeon Lord."
 #
 <sprite "ta12a004.agf" 4 4 12>
 <name "Meryl" "!HA0002">
@@ -2219,7 +2219,7 @@ Is she really okay?
 #
 <sprite "ta02a028.agf" 4 4 12>
 <name "Macdo" "!ZA0063">
-"The current dungeon master will manage
+"The current dungeon lord will manage
  Forzelotte's Shrine while you're gone.
  Gunguskar will support her in all respects."
 #

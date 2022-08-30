@@ -173,18 +173,18 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta16a001.agf" 4 4 11>
-<name "ファレン" "!FB0146">
-「街長ね」
+<name "Farren" "!FB0146">
+"Mayor?"
 #
-<name "ダークス">
-「任せたぞ」
+<name "Darx">
+"It's in your hands."
 #
 <sprite "ta16a003.agf" 4 4 12>
-<name "ファレン" "!FB0147">
-「……魔王様の為に、頑張ります」
+<name "Farren" "!FB0147">
+"...I'll do my best for you."
 #
-<name "ダークス">
-「おう」
+<name "Darx">
+"Yeah."
 #
 <removesprite -1 11>
 <exit>
@@ -192,20 +192,20 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta21a015.agf" 4 4 11>
-<name "イシュ" "!AB0069">
-「ロッタが街長……」
+<name "Ish" "!AB0069">
+"Lotta's the mayor?"
 #
 <removesprite -1 11>
 <sprite "ta20a015.agf" 2 4 11>
 <sprite "ta21a015.agf" 6 5 11>
-<name "ラフィノー" "!EB0075">
-「無謀じゃないかな？」
+<name "Raffino" "!EB0075">
+"Isn't that reckless?"
 #
 <removesprite -1 11>
 <sprite "ta18a019.agf" 4 4 11>
-<name "ロッタ" "!HB0090">
-「そんなことないよー。
-　頑張るからね」
+<name "Lotta" "!HB0090">
+"That's not true.
+ I'll try really hard."
 #
 <removesprite -1 11>
 <exit>
@@ -213,12 +213,12 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta20a004.agf" 4 4 11>
-<name "ラフィノー" "!EB0076">
-「街長の職務、きっと果たしてみせます」
+<name "Raffino" "!EB0076">
+"I shall fulfill my duties as mayor."
 #
 <sprite "ta20a005.agf" 4 4 12>
-<name "ラフィノー" "!EB0077">
-「全て、この私にお任せください」
+<name "Raffino" "!EB0077">
+"Leave everything to me."
 #
 <removesprite -1 11>
 <exit>
@@ -226,22 +226,22 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta19a003.agf" 4 4 11>
-<name "アオ" "!WA0149">
-「任せておいてよ。
-　この街、発展させて見せるから」
+<name "Ao" "!WA0149">
+"Leave it to me.
+ I will develop this city."
 #
 <removesprite -1 11>
 <sprite "ta20a017.agf" 4 4 11>
-<name "ラフィノー" "!EB0078">
-「むう。
-　魔王様の視線を独り占め。
-　ずるいです」
+<name "Raffino" "!EB0078">
+"Grrr.
+ She's keeping him all to herself.
+ No fair."
 #
 <removesprite -1 11>
 <sprite "ta20a017.agf" 2 4 11>
 <sprite "ta22a002.agf" 6 5 11>
-<name "ナイン" "!QA0104">
-「そーだ、そーだ」
+<name "Nein" "!QA0104">
+"Yeah, yeah!"
 #
 <removesprite -1 11>
 <exit>
@@ -249,27 +249,27 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta04a000.agf" 4 4 11>
-<name "ルーアルテ" "!RA0227">
-「街長ね。
-　小さい仕事だけど、やってあげるわよ」
+<name "Rualtei" "!RA0227">
+"Mayor?
+ It's a small job, but I can do it."
 #
-<name "ダークス">
-「おう、頼んだぞ」
+<name "Darx">
+"Yeah, I'm counting on you."
 #
 <removesprite -1 11>
 <background "bg008a0.agf" 10>
 <sprite "ta04a002.agf" 4 4 11>
-<name "ルーアルテ" "!RA0228">
-「街長」
+<name "Rualtei" "!RA0228">
+"Mayor..."
 #
 <sprite "ta04a001.agf" 4 4 12>
-<name "ルーアルテ" "!RA0229">
-「この私が街長……」
+<name "Rualtei" "!RA0229">
+"I'm now the mayor..."
 #
 <sprite "ta04a005.agf" 4 4 12>
-<name "ルーアルテ" "!RA0230">
-「よし！
-　頑張ろう！」
+<name "Rualtei" "!RA0230">
+"Okay!
+ Let's do it!"
 #
 <removesprite -1 11>
 <exit>
@@ -277,39 +277,42 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta04a006.agf" 4 4 11>
-<name "ルーアルテ" "!RA0233">
-「お姉様、街長への就任おめでとうございます」
+<name "Rualtei" "!RA0233">
+"Congratulations on your appointment to mayor,
+ Sister."
 #
 <removesprite -1 11>
 <sprite "ta03a004.agf" 2 4 11>
 <sprite "ta04a006.agf" 6 5 11>
-<name "ミアルテ" "!SA0244">
-「ありがとう。
-　天界に居た頃の役職よりは、小さいけど……
-　魔王様の為に頑張るわ」
+<name "Miartei" "!SA0244">
+"Thank you.
+ It's a lesser position than the one I held 
+ when I was in Celestia, but I'll do my best
+ for you."
 #
-<name "ダークス">
-「天界でどんな役職やっていたんだ？」
+<name "Darx">
+"What were you in Celestia?"
 #
 <sprite "ta04a005.agf" 6 5 12>
-<name "ルーアルテ" "!RA0232">
-「お姉様は光神族の軍団長なんだから。
-　それに十七の街や要塞だって管理してたのよ。
-　すごいでしょ」
+<name "Rualtei" "!RA0232">
+"She was the general of the Holy Light.
+ She also managed 17 towns and fortresses.
+ Impressive, isn't it?"
 #
 <sprite "ta03a006.agf" 2 4 12>
-<name "ミアルテ" "!SA0247">
-「管理してたのは十八です。
-　本当は、技術部門が好きでしたのに……」
+<name "Miartei" "!SA0247">
+"It was 18.
+ Actually though, I quit liked the research
+ division..."
 #
-<name "ダークス">
-「ミアルテ君。
-　超期待してるから、頑張ってくれ」
+<name "Darx">
+"Miartei, I have very high expectations for
+ you, so give it your best."
 #
 <sprite "ta03a022.agf" 2 4 12>
-<name "ミアルテ" "!SA0248">
-「は、はい。
-　お任せください」
+<name "Miartei" "!SA0248">
+"Y-Yes, sir.
+ Leave it to me."
 #
 <removesprite -1 11>
 <exit>
@@ -317,55 +320,54 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta03a014.agf" 4 4 11>
-<name "ミアルテ" "!SA0249">
-「あの、キュリハを街長にって……魔王様」
+<name "Miartei" "!SA0249">
+"Um, Kyuriha is the mayor?
+ Overlord?"
 #
-<name "ダークス">
-「なにか問題か？」
+<name "Darx">
+"What's the matter?"
 #
 <sprite "ta03a015.agf" 4 4 12>
-<name "ミアルテ" "!SA0250">
-「なにか問題って、キュリハにそんな権限を与えて
-　まともに……」
+<name "Miartei" "!SA0250">
+"What's the matter?
+ You gave Kyuriha that kind of authority..."
 #
 <removesprite -1 11>
 <sprite "ta05a013.agf" 4 4 11>
-<name "キュリハ" "!FA0529">
-「ミーアールーテーさん」
+<name "Kyuriha" "!FA0529">
+"Mi-ar-tei..."
 #
 <removesprite -1 11>
 <sprite "ta05a013.agf" 2 5 11>
 <sprite "ta03a016.agf" 6 4 11>
-<name "ミアルテ" "!SA0251">
-「ひっ」
+<name "Miartei" "!SA0251">
+"Eep!"
 #
 <sprite "ta05a017.agf" 2 5 12>
-<name "キュリハ" "!FA0530">
-「この私が、ダークス様に迷惑を掛けるような真似
-　をする筈がありません」
+<name "Kyuriha" "!FA0530">
+"I, of course, would never think of doing 
+ anything to trouble him."
 #
 <removesprite 6 11>
 <removesprite -1 11>
 <sprite "ta05a003.agf" 4 4 11>
-<name "キュリハ" "!FA0531">
-「ダークス様。
-　この私の忠誠、お見届け下さい」
+<name "Kyuriha" "!FA0531">
+"Darx, please be absolutely confident of my
+ loyalty."
 #
-<name "ダークス">
-「ああ、頼んだぞ」
+<name "Darx">
+"Yeah, please."
 #
 <sprite "ta05a019.agf" 4 4 12>
-<name "キュリハ" "!FA0532">
-「はい。
-　では、ミアルテさん。
-　こちらへ。
-　お話があります」
+<name "Kyuriha" "!FA0532">
+"Yes.
+ Then, Miartei, this way.
+ We need to talk."
 #
 <removesprite -1 11>
 <sprite "ta03a015.agf" 4 4 11>
-<name "ミアルテ" "!SA0252">
-「ひぃ、魔王様。
-　助けて」
+<name "Miartei" "!SA0252">
+"Aah! Overlord! Save me!"
 #
 <removesprite -1 11>
 <exit>
@@ -373,35 +375,35 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!AC0412">
-「街長は、彼でよかったのですか？」
+<name "Company Maid" "!AC0412">
+"Are they the right choice for mayor?"
 #
-<name "ダークス">
-「なんとかなるさ」
+<name "Darx">
+"I think it'll work out."
 #
-<name "商会メイド" "!AC0413">
-「ならなかった場合は？」
+<name "Company Maid" "!AC0413">
+"What if it doesn't?"
 #
-<name "ダークス">
-「なんとかして貰う」
+<name "Darx">
+"We'll figure it out."
 #
 <sprite "ta34a002.agf" 4 4 12>
-<name "商会メイド" "!AC0414">
-「えっと、私達がですか？」
+<name "Company Maid" "!AC0414">
+"Um, we?"
 #
-<name "ダークス">
-「街長にだよ」
+<name "Darx">
+"We'll figure the mayor out."
 #
-<name "商会メイド" "!AC0415">
-「あ、そ、そうですね」
+<name "Company Maid" "!AC0415">
+"Ah, I-I see."
 #
-<name "ダークス">
-「もちろん、ギュンギュスカー商会のサポートを拒
-　否なんかしないよ」
+<name "Darx">
+"Of course, I won't turn down any help from
+ Gunguskar."
 #
 <sprite "ta34a000.agf" 4 4 12>
-<name "商会メイド" "!AC0257">
-「……頑張ります」
+<name "Company Maid" "!AC0257">
+"...We'll do our best."
 #
 <removesprite -1 11>
 <exit>
@@ -409,29 +411,29 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!AC0258">
-「街長の働きは……十分のようですね」
+<name "Company Maid" "!AC0258">
+"The mayor is... doing some work."
 #
-<name "ダークス">
-「居るだけで、安定感が違う」
+<name "Darx">
+"Just having one makes a difference in 
+ providing stability."
 #
-<name "商会メイド" "!AC0259">
-「魔王様より、街長の方が言い易いって事もあるか
-　もしれません」
+<name "Company Maid" "!AC0259">
+"It's probably easier to talk to the mayor
+ than it is to you."
 #
-<name "ダークス">
-「え？
-　そうなの？」
+<name "Darx">
+"Huh? Really?"
 #
-<name "商会メイド" "!AC0260">
-「フォーゼロッテ組はともかく、移住組はどうして
-　も……」
+<name "Company Maid" "!AC0260">
+"Maybe not for Forzelotte's group, but for the
+ immigrants..."
 #
-<name "ダークス">
-「あー、なんとかしないとな」
+<name "Darx">
+"Ah, we should do something about that."
 #
-<name "商会メイド" "!AC0261">
-「まあ、それも街長が考えてくれますよ」
+<name "Company Maid" "!AC0261">
+"Well, the mayor will have to think about it."
 #
 <removesprite -1 11>
 <exit>
@@ -439,24 +441,25 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta17a004.agf" 4 4 11>
-<name "タマガ" "!PB0109">
-「誰が街長でも補佐してみせよう」
+<name "Tamaga" "!PB0109">
+"I will serve the mayor, no matter who it is."
 #
-<name "ダークス">
-「頼もしいな。
-　頼んだぞ」
+<name "Darx">
+"Sounds promising.
+ I'm counting on you."
 #
 <sprite "ta17a003.agf" 4 4 12>
-<name "タマガ" "!PB0110">
-「はい」
+<name "Tamaga" "!PB0110">
+"Yes, sir."
 #
-<name "ダークス">
-「よーし、頭を撫でてやろう」
+<name "Darx">
+"Okay, that deserves a head pat."
 #
 <sprite "ta17a111.agf" 4 4 12>
-<name "タマガ" "!PB0111">
-「できれば首筋を撫でる方が……あ、はい。
-　そんな感じで」
+<name "Tamaga" "!PB0111">
+"If you don't mind, I'd prefer stroking the
+ neck.
+ ...Ah, yes. Like that."
 #
 <removesprite -1 11>
 <exit>
@@ -464,20 +467,19 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta22a003.agf" 4 4 11>
-<name "ナイン" "!QA0105">
-「逆さまでも、補佐は出来る！」
+<name "Nein" "!QA0105">
+"Even upside down, I can still help!"
 #
 <removesprite -1 11>
 <sprite "ta21a011.agf" 2 4 11>
 <sprite "ta22a003.agf" 6 5 11>
-<name "イシュ" "!AB0070">
-「とか言ってるけど……
-　仕事中は、椅子にしっかり座るんだろ？」
+<name "Ish" "!AB0070">
+"You say that, but... 
+ You do sit in a chair when you work, right?"
 #
 <sprite "ta22a010.agf" 6 5 12>
-<name "ナイン" "!QA0106">
-「うん。
-　流石に逆さまで書類仕事とかできないから」
+<name "Nein" "!QA0106">
+"Yeah. I can't do paperwork upside down."
 #
 <removesprite -1 11>
 <exit>
@@ -485,26 +487,26 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta04a012.agf" 4 4 11>
-<name "ルーアルテ" "!RA0234">
-「街長補佐って……いる？」
+<name "Rualtei" "!RA0234">
+"There's a... deputy mayor?"
 #
 <removesprite -1 11>
 <sprite "ta01a004.agf" 2 5 11>
 <sprite "ta04a012.agf" 6 4 11>
-<name "ソフィア" "!ZB0963">
-「必要です」
+<name "Sofia" "!ZB0963">
+"It's necessary."
 #
 <sprite "ta04a013.agf" 6 4 12>
-<name "ルーアルテ" "!RA0235">
-「本当に？」
+<name "Rualtei" "!RA0235">
+"Really?"
 #
 <sprite "ta01a033.agf" 2 5 12>
-<name "ソフィア" "!ZB0964">
-「本当です」
+<name "Sofia" "!ZB0964">
+"Really."
 #
 <sprite "ta04a010.agf" 6 4 12>
-<name "ルーアルテ" "!RA0236">
-「……じゃあ、頑張ってみる」
+<name "Rualtei" "!RA0236">
+"...Then I'll do my best."
 #
 <removesprite -1 11>
 <exit>
@@ -512,23 +514,24 @@
 <music 4>
 <background "bg009a0.agf" 10>
 <sprite "ta03a012.agf" 4 4 11>
-<name "ミアルテ" "!SA0253">
-「街長補佐……目立たない仕事です」
+<name "Miartei" "!SA0253">
+"Deputy mayor...
+ What an invisible job."
 #
 <sprite "ta03a011.agf" 4 4 12>
-<name "ミアルテ" "!SA0254">
-「これで魔王様に褒めて貰えるのでしょうか」
+<name "Miartei" "!SA0254">
+"Will this be enough to earn his praise?"
 #
 <removesprite -1 11>
 <sprite "ta34b000.agf" 2 5 11>
 <sprite "ta03a012.agf" 6 4 11>
-<name "商会メイド" "!DC0422">
-「魔王様は、見る所は見てますよ」
+<name "Company Maid" "!DC0422">
+"He looks at whatever catches his eye."
 #
 <sprite "ta03a004.agf" 6 4 12>
-<name "ミアルテ" "!SA0255">
-「そ、そうですね。
-　頑張ります」
+<name "Miartei" "!SA0255">
+"I-I see.
+ I'll do my best."
 #
 <removesprite -1 11>
 <exit>
@@ -536,139 +539,142 @@
 <music 4>
 <background "bg009a0.agf" 10>
 <sprite "ta05a014.agf" 4 4 11>
-<name "キュリハ" "!FA0533">
-「街長補佐。
-　仕事はほぼ街長と同じですけど、名誉がありません」
+<name "Kyuriha" "!FA0533">
+"Deputy mayor.
+ It's practically the same job as mayor, but
+ without any of the prestige."
 #
 <sprite "ta05a015.agf" 4 4 12>
-<name "キュリハ" "!FA0534">
-「それが街長補佐」
+<name "Kyuriha" "!FA0534">
+"That's what a deputy mayor is."
 #
 <removesprite -1 11>
 <sprite "ta01a035.agf" 4 4 11>
-<name "ソフィア" "!ZB0965">
-「魔王様。
-　不満があるみたいです。
-　説得をお願いします」
+<name "Sofia" "!ZB0965">
+"Overlord, I don't think she's happy about it.
+ Please try to motivate her."
 #
 <removesprite -1 11>
-<name "ダークス">
-「了解」
+<name "Darx">
+"Roger."
 #
 <sprite "ta05a116.agf" 4 4 11>
-<name "キュリハ" "!FA0535">
-「え、あ、きゃ、あああああっ」
+<name "Kyuriha" "!FA0535">
+"Huh?
+ Ah! Aah! Aahhhhhh!"
 #
 <removesprite -1 11>
-　納得してもらった。
+I motivated her.
 #
 <exit>
 :3D84
 <music 14>
 <background "bg008a0.agf" 10>
-<name "疑問に思う住民" "!GB0219">
-「街長補佐」
+<name "Pondering Citizen" "!GB0219">
+"Deputy mayor."
 #
-<name "疑問に思う住民" "!GB0220">
-「って、どんな仕事をしているの？」
+<name "Pondering Citizen" "!GB0220">
+"Uh, what kind of work does one do?"
 #
-<name "考える住民" "!ZH0121">
-「な、名前通り……街長の補佐でしょ」
+<name "Thinking Citizen" "!ZH0121">
+"J-Just like the name suggests...
+ They help out the mayor."
 #
-<name "疑問に思う住民" "!GB0221">
-「他には？」
+<name "Pondering Citizen" "!GB0221">
+"What else?"
 #
-<name "考える住民" "!ZH0122">
-「えっと、街長が倒れた時に街長代理になるって事
-　かな」
+<name "Thinking Citizen" "!ZH0122">
+"Um, I guess they act as mayor if something
+ happens to them?"
 #
-<name "疑問に思う住民" "!GB0222">
-「へー、じゃあ、偉いんだね」
+<name "Pondering Citizen" "!GB0222">
+"Oh? Then it's a big deal."
 #
-<name "考える住民" "!ZH0123">
-「ま、まあ、偉いと思うよ。
-　一般住民に比べたら、遥かに」
+<name "Thinking Citizen" "!ZH0123">
+"W-Well, I think it is.
+ Much more than being just a regular citizen."
 #
 <exit>
 :3F98
 <music 3>
 <background "bg010a0.agf" 10>
-<name "ヤーヌ" "!NB0041" "ka24a000.agf">
-「農業担当。
-　お任せください。
-　精一杯、頑張ります」
+<name "Yahnu" "!NB0041" "ka24a000.agf">
+"Farm manager?
+ I won't let you down.
+ I'll do my absolute best."
 #
-<name "ダークス">
-「無理をし過ぎないようにな」
+<name "Darx">
+"Don't overdo it."
 #
-<name "ヤーヌ" "!NB0042" "ka24a003.agf">
-「はい」
+<name "Yahnu" "!NB0042" "ka24a003.agf">
+"Yes, sir."
 #
 <exit>
 :409D
 <music 4>
 <background "bg009a0.agf" 10>
-<name "黄金畑のＤＳ" "!BC0152">
-「はーっはっはっはっは！
-　この黄金畑のダークシャドウ」
+<name "Dark Shadow" "!BC0152">
+"Haaahahahaha!
+ Dark Shadow of the golden field!"
 #
-<name "黄金畑のＤＳ" "!BC0153">
-「農業担当になってあげようと、やって来た！
-　えっと……すみません。
-　責任者はどこですか？」
+<name "Dark Shadow" "!BC0153">
+"I am here to become the farm manager!
+ Um... Excuse me.
+ Who's in charge here?"
 #
 <sprite "ta34b002.agf" 4 4 11>
-<name "商会メイド" "!DC0423">
-「えー……」
+<name "Company Maid" "!DC0423">
+"Uhh..."
 #
-<name "商会メイド" "!DC0424">
-「どうしましょう？」
+<name "Company Maid" "!DC0424">
+"What should we do?"
 #
 <sprite "ta34a000.agf" 2 4 11>
 <sprite "ta34b000.agf" 6 5 11>
-<name "慣れたメイド" "!AC0262">
-「煽てて、追い返せ」
+<name "Experienced Maid" "!AC0262">
+"Humor him and send him away."
 #
 <sprite "ta34b000.agf" 6 5 12>
-<name "商会メイド" "!DC0425">
-「は、はい」
+<name "Company Maid" "!DC0425">
+"O-Okay."
 #
 <removesprite -1 11>
-<name "二毛作のＨＢ" "!UA0102">
-「すみません。
-　二毛作のハンスブルビーグルと言う者ですが、農
-　業担当人事に関してご意見を……」
+<name "Hansble Beagle" "!UA0102">
+"Excuse me.
+ I'm Hansble Beagle of the double reaping.
+ I'd like to speak with someone about the farm
+ manager..."
 #
 <sprite "ta34a000.agf" 4 4 11>
-<name "慣れたメイド" "!AC0263">
-「同様に」
+<name "Experienced Maid" "!AC0263">
+"Same thing."
 #
 <removesprite -1 11>
 <sprite "ta34a000.agf" 2 4 11>
 <sprite "ta34b000.agf" 6 5 11>
-<name "商会メイド" "!DC0426">
-「はい」
+<name "Company Maid" "!DC0426">
+"Okay."
 #
 <removesprite -1 11>
 <background "bg015a0.agf" 10>
-　……
+...
 #
 <background "bg009a0.agf" 10>
 <sprite "ta34b002.agf" 4 4 11>
-<name "商会メイド" "!DC0427">
-「すみません。
-　無理でした。
-　手強いです。
-　あと、それなりに農業知識があるのは確かです」
+<name "Company Maid" "!DC0427">
+"I'm sorry.
+ I couldn't do it.
+ They were too strong.
+ And they know so much about farming."
 #
 <removesprite -1 11>
 <sprite "ta34a000.agf" 2 4 11>
 <sprite "ta34b002.agf" 6 5 11>
-<name "慣れたメイド" "!AC0264">
-「では、アドバイザーポジションを提示しましょう」
+<name "Experienced Maid" "!AC0264">
+"Then give them advisor positions."
 #
-<name "商会メイド" "!DC0428">
-「は、はい」
+<name "Company Maid" "!DC0428">
+"Y-Yes, ma'am."
 #
 <removesprite -1 11>
 <exit>
@@ -676,42 +682,44 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!AC0265">
-「農業担当者は、農業従事者の活動が円滑に行える
-　ようにするのが第一の仕事です」
+<name "Company Maid" "!AC0265">
+"The main job of the farm manager is to ensure
+ that the farmers can do their jobs without
+ issue."
 #
-<name "商会メイド" "!AC0266">
-「そして、成果物の買取。
-　流通を管理、監視するのが第二の仕事です」
+<name "Company Maid" "!AC0266">
+"And purchasing product.
+ Managing and monitoring distribution is their
+ secondary duty."
 #
-<name "ダークス">
-「あ、うん。
-　わかってる。
-　そして、なぜそれを俺に言うのかな？」
+<name "Darx">
+"Ah, yeah.
+ Got it.
+ And why are you telling me this?"
 #
 <sprite "ta34a001.agf" 4 4 12>
-<name "商会メイド" "!AC0267">
-「魔王様の家庭菜園を守らせるのは仕事ではありま
-　せん」
+<name "Company Maid" "!AC0267">
+"It's not their job to protect your personal
+ garden."
 #
-<name "ダークス">
-「ここから離れている時、菜園が心配だったから」
+<name "Darx">
+"But I was worried about it when I'm away."
 #
-<name "商会メイド" "!AC0268">
-「お世話なら、私達がします。
-　農業担当者には、その仕事を振らないで上げてく
-　れますか」
+<name "Company Maid" "!AC0268">
+"If you need help, we can do that.
+ Please don't interfere with the farm manager's
+ actual work."
 #
-<name "ダークス">
-「そ、そんなに駄目だったか？」
+<name "Darx">
+"W-Was it that bad?"
 #
 <sprite "ta34a002.agf" 4 4 12>
-<name "商会メイド" "!AC0269">
-「万が一、枯らしたらと考えて、夜も眠らずに番を
-　していました」
+<name "Company Maid" "!AC0269">
+"They were up watching it all night, scared
+ that something might wither."
 #
-<name "ダークス">
-「……け、軽率でした」
+<name "Darx">
+"...I-I didn't think things through."
 #
 <removesprite -1 11>
 <exit>
@@ -719,61 +727,64 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta16a003.agf" 4 4 11>
-<name "ファレン" "!FB0148">
-「意外と言われるけど、お金の計算とか得意だから
-　大丈夫よ」
+<name "Farren" "!FB0148">
+"They say it's unexpected, but don't worry,
+ I'm good at handling money."
 #
 <sprite "ta16a019.agf" 4 4 12>
-<name "ファレン" "!FB0149">
-「商業担当、任せておいて」
+<name "Farren" "!FB0149">
+"Leave the job of trade captain to me."
 #
 <removesprite -1 11>
 <exit>
 :4B97
 <music 4>
 <background "ev003a00.agf" 10>
-<name "商会メイド" "!PC0494">
-「その件は、商業担当者に……
-　はい、こちらではなく」
+<name "Company Maid" "!PC0494">
+"This matter should go to the trade captain.
+ Yes, they're not here right now."
 #
-<name "商会メイド" "!PC0495">
-「ええ、そのように……よろしくお願いします」
+<name "Company Maid" "!PC0495">
+"Yes, just like that...
+ Thank you very much!"
 #
-　……
+...
 #
-<name "商会メイド" "!PC0496">
-「商業担当者に全て回せる！
-　嬉しい」
+<name "Company Maid" "!PC0496">
+"I can just let the trade captain handle
+ everything!
+ Happiness!"
 #
-<name "哀れに思うメイド" "!DC0429">
-「商業担当者、泣いてるけど」
+<name "Sympathetic Maid" "!DC0429">
+"But the trade captain is crying."
 #
 <exit>
 :4CFF
 <music 3>
 <background "bg010a0.agf" 10>
-<name "ヒビ" "!DB0044" "ka23a002.agf">
-「工作は好きだから、なんとかなると思う」
+<name "Hibi" "!DB0044" "ka23a002.agf">
+"I like crafting things, so I think I can
+ handle it."
 #
-<name "ダークス">
-「頼んだぞ」
+<name "Darx">
+"I'm counting on you."
 #
-<name "ヒビ" "!DB0045" "ka23a003.agf">
-「うん」
+<name "Hibi" "!DB0045" "ka23a003.agf">
+"Yeah."
 #
 <exit>
 :4DDE
 <music 3>
 <background "bg010a0.agf" 10>
-<name "ダークス">
-「工業担当者ってのは、何をする仕事なんだ？」
+<name "Darx">
+"What exactly does the forge overseer do?"
 #
 <sprite "ta01a004.agf" 4 4 11>
-<name "ソフィア" "!ZB0966">
-「工業関連の監督です」
+<name "Sofia" "!ZB0966">
+"They oversee the forges."
 #
-<name "ダークス">
-「簡潔なお答え、ありがとう」
+<name "Darx">
+"Thank you for the concise answer."
 #
 <removesprite -1 11>
 <exit>
@@ -781,17 +792,16 @@
 <music 14>
 <background "bg013a0.agf" 10>
 <sprite "ta17a005.agf" 4 4 11>
-<name "タマガ" "!PB0112">
-「不正は許さない」
+<name "Tamaga" "!PB0112">
+"I will tolerate no lawbreaking."
 #
 <removesprite -1 11>
-<name "ダークス">
-「警備担当。
-　妙に似合っているなぁ」
+<name "Darx">
+"She's a weirdly good fit for security chief."
 #
 <sprite "ta01a004.agf" 4 4 11>
-<name "ソフィア" "!ZB0967">
-「ですね」
+<name "Sofia" "!ZB0967">
+"Yeah."
 #
 <removesprite -1 11>
 <exit>
@@ -799,126 +809,131 @@
 <music 14>
 <background "bg013a0.agf" 10>
 <sprite "ta21a009.agf" 4 4 11>
-<name "イシュ" "!AB0071">
-「あははははは」
+<name "Ish" "!AB0071">
+"Hahahahaha!"
 #
 <removesprite -1 11>
 <sprite "ta01a025.agf" 4 4 11>
-<name "ソフィア" "!ZB0968">
-「泥棒に番人をさせるような行為では？」
+<name "Sofia" "!ZB0968">
+"Isn't this like putting a thief in charge of
+ security?"
 #
-<name "ダークス">
-「いや、イシュならやってくれるさ。
-　きっと、多分」
+<name "Darx">
+"No, she can handle it.
+ Definitely.
+ Probably."
 #
 <removesprite -1 11>
 <sprite "ta21a009.agf" 4 4 11>
-<name "イシュ" "!AB0072">
-「あはははは」
+<name "Ish" "!AB0072">
+"Hahahahahaha!"
 #
 <removesprite -1 11>
-　……た、多分！
+...P-Probably!
 #
 <exit>
 :51EC
 <music 14>
 <background "bg008a0.agf" 10>
-<name "警備担当者" "!ZD0147">
-「この街の警備担当って……
-　貧乏クジだと思うのは、間違いかな？」
+<name "Security Officer" "!ZD0147">
+"Being the security chief of this city...
+ Seems like the short end of the stick, or am
+ I wrong?"
 #
-<name "言葉を選ぶ住民" "!UA0176">
-「そ、そんな事は……ない……はず！」
+<name "Tactful Citizen" "!UA0176">
+"I-It's not... not like that."
 #
-<name "警備担当者" "!ZD0148">
-「だよなぁ」
+<name "Security Officer" "!ZD0148">
+"Right?"
 #
-<name "警備担当者" "!ZD0149">
-「まじ、心配しちゃったぁ」
+<name "Security Officer" "!ZD0149">
+"Seriously. I was worried."
 #
-<name "言葉を選ぶ住民" "!UA0177">
-「ははは」
+<name "Tactful Citizen" "!UA0177">
+"Hahaha..."
 #
 <exit>
 :535D
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta20a004.agf" 4 4 11>
-<name "ラフィノー" "!EB0079">
-「教育担当。
-　大事そうな響き」
+<name "Raffino" "!EB0079">
+"The dean.
+ That sounds important."
 #
 <sprite "ta20a005.agf" 4 4 12>
-<name "ラフィノー" "!EB0080">
-「いや、大事に違いない」
+<name "Raffino" "!EB0080">
+"No, it must be important."
 #
 <sprite "ta20a006.agf" 4 4 12>
-<name "ラフィノー" "!EB0081">
-「ここは一つ、頑張ってみせねば」
+<name "Raffino" "!EB0081">
+"I've got to work hard at this."
 #
-<name "ダークス">
-「気合を入れているのは解ったから、弓矢をしまお
-　うな。
-　教育担当に弓矢は不要だから」
+<name "Darx">
+"I can see you're fired up, but please put away
+ the bow and arrows.
+ There's no need for those at school."
 #
 <removesprite -1 11>
 <exit>
 :5547
 <music 3>
 <background "bg010a0.agf" 10>
-<name "ヤーヌ" "!NB0043" "ka24a003.agf">
-「はい。
-　教育担当ですね。
-　わかりました」
+<name "Yahnu" "!NB0043" "ka24a003.agf">
+"Yes.
+ I'm in charge of the school.
+ I understand."
 #
-<name "ヤーヌ" "!NB0044" "ka24a008.agf">
-「役割？
-　ええ、わかっています」
+<name "Yahnu" "!NB0044" "ka24a008.agf">
+"My job?
+ Yes, I know."
 #
-<name "ヤーヌ" "!NB0049" "ka24a004.agf">
-「私の仕事は何かを教える役ではなく。
-　教育者が働ける環境を用意し、学びたいと思う者
-　が学べる場を用意する事だと認識しています」
+<name "Yahnu" "!NB0049" "ka24a004.agf">
+"My job is not to teach.
+ I am to prepare an environment where educators
+ can work, and those who want to learn are able
+ to do so."
 #
-<name "ヤーヌ" "!NB0050" "ka24a003.agf">
-「問題無いでしょうか」
+<name "Yahnu" "!NB0050" "ka24a003.agf">
+"Is there an issue?"
 #
-<name "ダークス">
-「問題なし。
-　頑張れ」
+<name "Darx">
+"None at all.
+ Keep it up."
 #
-<name "ヤーヌ" "!NB0051" "ka24a000.agf">
-「はい」
+<name "Yahnu" "!NB0051" "ka24a000.agf">
+"Yes, sir."
 #
 <exit>
 :57A1
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta20a001.agf" 4 4 11>
-<name "ラフィノー" "!EB0082">
-「娯楽担当」
+<name "Raffino" "!EB0082">
+"Merry maker?"
 #
 <sprite "ta20a000.agf" 4 4 12>
-<name "ラフィノー" "!EB0083">
-「街での娯楽提供。
-　同時に、行き過ぎた娯楽の取り締まりですね」
+<name "Raffino" "!EB0083">
+"Providing entertainment in the city.
+ And putting a stop to it when things go too
+ far."
 #
-<name "ダークス">
-「ああ。
-　頼んだぞ」
+<name "Darx">
+"Yeah.
+ I'm counting on you."
 #
 <sprite "ta20a006.agf" 4 4 12>
-<name "ラフィノー" "!EB0084">
-「お任せください。
-　さてさっそくですが、弓を使った遊戯場の建設な
-　どをご検討頂ければと思い」
+<name "Raffino" "!EB0084">
+"Leave it to me.
+ By the way, could you consider building a
+ recreation center for shooting bows?"
 #
-<name "ダークス">
-「ギュンギュスカー商会と相談してから、再提出」
+<name "Darx">
+"Talk to Gunguskar and make a formal request."
 #
 <sprite "ta20a016.agf" 4 4 12>
-<name "ラフィノー" "!EB0085">
-「えー」
+<name "Raffino" "!EB0085">
+"Eeeeh..."
 #
 <removesprite -1 11>
 <exit>
@@ -926,54 +941,56 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta21a001.agf" 4 4 11>
-<name "イシュ" "!AB0075">
-「娯楽担当」
+<name "Ish" "!AB0075">
+"Merry maker..."
 #
 <sprite "ta21a005.agf" 4 4 12>
-<name "イシュ" "!AB0076">
-「つまり、遊べば良いんだ！」
+<name "Ish" "!AB0076">
+"In other words, just play!"
 #
-<name "ダークス">
-「違う！」
+<name "Darx">
+"Wrong!"
 #
 <removesprite -1 11>
 <exit>
 :5B46
 <music 3>
 <background "bg010a0.agf" 10>
-<name "ヒビ" "!DB0046" "ka23a002.agf">
-「なんでもかんでも凍らせて……駄目？」
+<name "Hibi" "!DB0046" "ka23a002.agf">
+"I can't... just freeze everything?"
 #
-<name "ソフィア" "!ZB0969">
-「なぜ、良いと思ったのでしょう。
-　そして、なぜ実践したのでしょう」
+<name "Sofia" "!ZB0969">
+"Why did you think that'd be okay?
+ And why did you do it?"
 #
-<name "ヒビ" "!DB0048" "ka23a010.agf">
-「えっと……」
+<name "Hibi" "!DB0048" "ka23a010.agf">
+"Um..."
 #
-<name "ソフィア" "!ZB0970">
-「被害者を溶かしてから、反省して貰います」
+<name "Sofia" "!ZB0970">
+"After we finish defrosting the victims, please
+ apologize."
 #
-<name "ヒビ" "!DB0049" "ka23a011.agf">
-「あうう」
+<name "Hibi" "!DB0049" "ka23a011.agf">
+"Oooh..."
 #
 <exit>
 :5CFA
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta16a019.agf" 4 4 11>
-<name "ファレン" "!FB0150">
-「なんでもかんでも燃やして……駄目？」
+<name "Farren" "!FB0150">
+"I can't... just burn everything?"
 #
 <removesprite -1 11>
 <sprite "ta01a036.agf" 2 5 11>
 <sprite "ta16a019.agf" 6 4 11>
-<name "ソフィア" "!ZB0971">
-「良いと思った理由を入れて、反省文を十枚です」
+<name "Sofia" "!ZB0971">
+"I want ten pages on why you though that was a
+ good idea."
 #
 <sprite "ta16a020.agf" 6 4 12>
-<name "ファレン" "!FB0151">
-「あうう」
+<name "Farren" "!FB0151">
+"Awww..."
 #
 <removesprite -1 11>
 <exit>
@@ -981,32 +998,33 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta16a003.agf" 4 4 11>
-<name "ファレン" "!FB0152">
-「迷宮長ね。
-　任せて、これぐらいの迷宮なら慣れたもんよ」
+<name "Farren" "!FB0152">
+"Dungeon master?
+ I won't let you down.
+ I'm used to this kind of dungeon."
 #
-<name "ダークス">
-「頼んだぞ」
+<name "Darx">
+"I'm counting on you."
 #
 <sprite "ta16a001.agf" 4 4 12>
-<name "ファレン" "!FB0153">
-「ええ。
-　それで、その……」
+<name "Farren" "!FB0153">
+"Yes. 
+ And, um..."
 #
-<name "ダークス">
-「ん？」
+<name "Darx">
+"Hm?"
 #
 <sprite "ta16a018.agf" 4 4 12>
-<name "ファレン" "!FB0157">
-「冒険者、百人撃退する度にご褒美を頂けるという
-　のは如何でしょう？」
+<name "Farren" "!FB0157">
+"How about a reward for every hundred 
+ adventurers I drive off?"
 #
-<name "ダークス">
-「か、考えておく」
+<name "Darx">
+"I-I'll think about it."
 #
 <sprite "ta16a019.agf" 4 4 12>
-<name "ファレン" "!FB0158">
-「よろしくお願いします」
+<name "Farren" "!FB0158">
+"Thank you very much."
 #
 <removesprite -1 11>
 <exit>
@@ -1014,22 +1032,22 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta19a004.agf" 4 4 11>
-<name "アオ" "!WA0150">
-「迷宮長か。
-　頑張るぞー」
+<name "Ao" "!WA0150">
+"Dungeon master?
+ I'll do my best."
 #
 <sprite "ta19a003.agf" 4 4 12>
-<name "アオ" "!WA0151">
-「あ、そうだ。
-　僕の元部下とかを雇っても良い？」
+<name "Ao" "!WA0151">
+"Oh, that's right.
+ Can I hire my old people?"
 #
-<name "ダークス">
-「自由にしろ」
+<name "Darx">
+"Do whatever you want."
 #
 <sprite "ta19a016.agf" 4 4 12>
-<name "アオ" "!WA0152">
-「やったー。
-　よーし、頑張るぞー」
+<name "Ao" "!WA0152">
+"Yay!
+ Okay, let's do it!"
 #
 <removesprite -1 11>
 <exit>
@@ -1037,25 +1055,25 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta17a003.agf" 4 4 11>
-<name "タマガ" "!PB0113">
-「魔王様」
+<name "Tamaga" "!PB0113">
+"Overlord."
 #
-<name "ダークス">
-「ん？」
+<name "Darx">
+"Hm?"
 #
 <sprite "ta17a004.agf" 4 4 12>
-<name "タマガ" "!PB0114">
-「迷宮長に任命して頂き、ありがとうございます」
+<name "Tamaga" "!PB0114">
+"Thank you for appointing me dungeon master."
 #
 <sprite "ta17a017.agf" 4 4 12>
-<name "タマガ" "!PB0115">
-「冒険者は一人たりとて、生かして帰しません。
-　お任せください」
+<name "Tamaga" "!PB0115">
+"Not a single adventurer will go back alive.
+ Leave it to us."
 #
-<name "ダークス">
-「あー、意気込みはわかるけど、冒険者は適当に帰
-　してあげてね。
-　色々あるんだ」
+<name "Darx">
+"Um, I appreciate the enthusiasm, but please
+ go easy on the adventurers.
+ It's complicated."
 #
 <removesprite -1 11>
 <exit>
@@ -1063,25 +1081,26 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta18a003.agf" 4 4 11>
-<name "ロッタ" "!HB0091">
-「えへへ。
-　頑張るねー」
+<name "Lotta" "!HB0091">
+"Heheheh.
+ Let's do it!"
 #
 <removesprite -1 11>
 <sprite "ta22a011.agf" 4 4 11>
-<name "ナイン" "!QA0107">
-「不安だ」
+<name "Nein" "!QA0107">
+"I'm worried."
 #
 <removesprite -1 11>
 <sprite "ta21a014.agf" 2 4 11>
 <sprite "ta22a011.agf" 6 5 11>
-<name "イシュ" "!AB0077">
-「不安ね」
+<name "Ish" "!AB0077">
+"Very worried."
 #
 <removesprite -1 11>
 <sprite "ta18a010.agf" 4 4 11>
-<name "ロッタ" "!HB0092">
-「むー、大丈夫だよー」
+<name "Lotta" "!HB0092">
+"Rrr!
+ It'll be fine!"
 #
 <removesprite -1 11>
 <exit>
@@ -1089,15 +1108,15 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta04a002.agf" 4 4 11>
-<name "ルーアルテ" "!RA0237">
-「まあ、なんとかやってみるかな」
+<name "Rualtei" "!RA0237">
+"Well, I guess I'll try."
 #
-<name "ダークス">
-「頼んだぞ」
+<name "Darx">
+"Please."
 #
 <sprite "ta04a000.agf" 4 4 12>
-<name "ルーアルテ" "!RA0238">
-「う、うん」
+<name "Rualtei" "!RA0238">
+"Y-Yeah."
 #
 <removesprite -1 11>
 <exit>
@@ -1105,25 +1124,26 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta03a004.agf" 4 4 11>
-<name "ミアルテ" "!SA0256">
-「迷宮の管理。
-　お任せください。
-　万全をもって、万難を排しましょう」
+<name "Miartei" "!SA0256">
+"Managing the dungeon.
+ Please leave it to me.
+ I shall thoroughly exterminate all who stand
+ in our way."
 #
-<name "ダークス">
-「頼もしい」
+<name "Darx">
+"I'm counting on you."
 #
 <removesprite -1 11>
 <sprite "ta04a006.agf" 4 4 11>
-<name "ルーアルテ" "!RA0239">
-「お姉様、素敵です」
+<name "Rualtei" "!RA0239">
+"She's so wonderful."
 #
 <removesprite -1 11>
 <sprite "ta03a022.agf" 2 4 11>
 <sprite "ta04a006.agf" 6 5 11>
-<name "ミアルテ" "!SA0257">
-「ふふ。
-　頑張ります」
+<name "Miartei" "!SA0257">
+"Heheh.
+ I'll do my best."
 #
 <removesprite -1 11>
 <exit>
@@ -1131,166 +1151,174 @@
 <music 14>
 <background "bg008a0.agf" 10>
 <sprite "ta05a003.agf" 4 4 11>
-<name "キュリハ" "!FA0536">
-「冒険者達に対する心得を発表します」
+<name "Kyuriha" "!FA0536">
+"Let me tell you all about adventurers."
 #
 <sprite "ta05a004.agf" 4 4 12>
-<name "キュリハ" "!FA0537">
-「まず、最初はワザと負けて相手を調子に乗らせま
-　す」
+<name "Kyuriha" "!FA0537">
+"First, you start out by intentionally 
+ pretending to lose to make them 
+ overconfident."
 #
 <sprite "ta05a017.agf" 4 4 12>
-<name "キュリハ" "!FA0538">
-「ついで、奥へ進めば進むほど利益を得られるよう
-　に、宝物等を配置します」
+<name "Kyuriha" "!FA0538">
+"Then, you set up treasures so that the deeper
+ they go, the greater the reward."
 #
 <sprite "ta05a019.agf" 4 4 12>
-<name "キュリハ" "!FA0539">
-「ある程度、奥にまで引き摺り込んだら、お楽しみ
-　ターンです」
+<name "Kyuriha" "!FA0539">
+"Once you've lured them deep enough in, that's
+ when the fun begins."
 #
 <sprite "ta05a018.agf" 4 4 12>
-<name "キュリハ" "!FA0540">
-「本気で相手をしましょう。
-　ただし、全滅させてはいけません。
-　全滅させては面白くありませんから」
+<name "Kyuriha" "!FA0540">
+"That's when you fight them seriously.
+ However, you must not kill them.
+ There's no fun in killing them."
 #
 <sprite "ta05a017.agf" 4 4 12>
-<name "キュリハ" "!FA0541">
-「逃げる冒険者を、脅かして脅かして下へ下へと追
-　い込むのです」
+<name "Kyuriha" "!FA0541">
+"Once they're running, you must intimidate,
+ belittle, and grind them mercilessly beneath
+ your heel."
 #
 <sprite "ta05a020.agf" 4 4 12>
-<name "キュリハ" "!FA0542">
-「ふふふ。
-　泣き叫ぶ様を楽しんで見物しましょう。
-　ああ、適度に食料を配置して、希望を絶たないよ
-　うにする事を忘れてはいけませんよ」
+<name "Kyuriha" "!FA0542">
+"Heheheh... We should all enjoy watching them
+ weep. Oh, and don't forget to leave enough
+ food scattered around.
+ You can't forget to keep hope alive."
 #
 <removesprite -1 11>
-<name "迷宮を守る魔族" "!BC0154" "ka42a000.agf">
-「魔王様。
-　新しい迷宮長が怖いです」
+<name "Guard Demon" "!BC0154" "ka42a000.agf">
+"Overlord, I'm scared of the new dungeon
+ master."
 #
 <exit>
 :6EDE
 <music 4>
 <background "bg009a0.agf" 10>
-<name "迷宮で働く魔族" "!MB0133">
-「迷宮長って……どれぐらい、偉いんだ？」
+<name "Working Demon" "!MB0133">
+"Dungeon master...
+ Just how important is it?"
 #
-<name "事情通の魔族" "!KB0265">
-「お前、フォーゼロッテ宮から来たんだろ」
+<name "Knowledgable Demon" "!KB0265">
+"You're from Forzelotte's Shrine, right?"
 #
-<name "迷宮で働く魔族" "!MB0134">
-「ああ」
+<name "Working Demon" "!MB0134">
+"Yeah."
 #
-<name "事情通の魔族" "!KB0266">
-「エカテー様、ゴラン様、トージョ様と同じぐらい。
-　と言えばわかるか？」
+<name "Knowledgable Demon" "!KB0266">
+"It's about the same as Ekate, Goran, and
+ Tojo.
+ You know what I mean?"
 #
-<name "迷宮で働く魔族" "!MB0135">
-「うおっ！
-　す、すげぇ偉い！」
+<name "Working Demon" "!MB0135">
+"Ooh!
+ T-That's pretty great!"
 #
-<name "事情通の魔族" "!KB0267">
-「だろ」
+<name "Knowledgable Demon" "!KB0267">
+"Right?"
 #
-<name "迷宮で働く魔族" "!MB0136">
-「俺、さっき、トイレで気軽に挨拶しちゃったけど」
+<name "Working Demon" "!MB0136">
+"I just said hi to them in the bathroom like
+ it was nothing."
 #
-<name "事情通の魔族" "!KB0268">
-「隙を見て、謝っておけ」
+<name "Knowledgable Demon" "!KB0268">
+"Look for a chance to apologize."
 #
-<name "迷宮で働く魔族" "!MB0137">
-「そ、そうする」
+<name "Working Demon" "!MB0137">
+"I-I'll do that."
 #
 <exit>
 :7176
 <music 4>
 <background "bg009a0.agf" 10>
-<name "迷宮で働く魔族" "!MB0138">
-「迷宮長がエカテー様やゴラン様、トージョ様と同
-　じぐらいなら……
-　その上の迷宮総長って、超偉いよな」
+<name "Working Demon" "!MB0138">
+"If the dungeon master is at the same level as
+ Ekate, Goran, and Tojo...
+　The dungeon lord above them must be super
+ great."
 #
-<name "事情通の魔族" "!KB0269">
-「ああ」
+<name "Knowledgable Demon" "!KB0269">
+"Yeah."
 #
-<name "迷宮で働く魔族" "!MB0139">
-「その迷宮総長の上が魔王様だよな」
+<name "Working Demon" "!MB0139">
+"The Overlord is the one above that."
 #
-<name "事情通の魔族" "!KB0270">
-「ああ」
+<name "Knowledgable Demon" "!KB0270">
+"Yeah."
 #
-<name "迷宮で働く魔族" "!MB0140">
-「その魔王様、メイドにパシらされてたけど」
+<name "Working Demon" "!MB0140">
+"But he was doing something for a maid."
 #
-<name "事情通の魔族" "!KB0271">
-「メ、メイドが一番上って事じゃないか？」
+<name "Knowledgable Demon" "!KB0271">
+"S-So then are the maids at the top?"
 #
-<name "迷宮で働く魔族" "!MB0141">
-「なるほど」
+<name "Working Demon" "!MB0141">
+"I see."
 #
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta01a028.agf" 4 4 11>
-<name "ソフィア" "!ZB0972">
-「えー……魔王様をパシらせないように」
+<name "Sofia" "!ZB0972">
+"Uhh... Don't do their chores."
 #
-<name "ダークス">
-「て、手伝っただけで、パシったワケじゃ……」
+<name "Darx">
+"I-I was just lending a hand.
+ It wasn't..."
 #
 <sprite "ta01a036.agf" 4 4 12>
-<name "ソフィア" "!ZB0973">
-「誤解を招く行為も、止めてください」
+<name "Sofia" "!ZB0973">
+"Please don't create misunderstandings."
 #
-<name "ダークス">
-「は、はい」
+<name "Darx">
+"Y-Yes, ma'am."
 #
 <removesprite -1 11>
 <exit>
 :7511
 <music 3>
 <background "bg010a0.agf" 10>
-<name "ヤーヌ" "!NB0052" "ka24a003.agf">
-「迷宮長補佐。
-　悪くありません。
-　精一杯、頑張ります」
+<name "Yahnu" "!NB0052" "ka24a003.agf">
+"Dungeon keeper?
+ Not bad.
+ I'll work really hard."
 #
-<name "ヤーヌ" "!NB0053" "ka24a002.agf">
-「ちなみに、迷宮長が酷い時は私はどこまでやって
-　良いんですか？」
+<name "Yahnu" "!NB0053" "ka24a002.agf">
+"By the way, when the dungeon master does bad
+ things, how far am I allowed to go?"
 #
-<name "ヤーヌ" "!NB0054" "ka24a001.agf">
-「はい、はい、あ、なるほど。
-　わかりました。
-　楽しみで仕方がありません」
+<name "Yahnu" "!NB0054" "ka24a001.agf">
+"Yes, yes. Oh, I see.
+ I understand.
+ I can't help but be excited."
 #
-<name "ソフィア" "!ZB0974">
-「……迷宮長、大変だろうなぁ」
+<name "Sofia" "!ZB0974">
+"...It must be hard to be dungeon master."
 #
 <exit>
 :76E9
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta21a009.agf" 4 4 11>
-<name "イシュ" "!AB0078">
-「あははは」
+<name "Ish" "!AB0078">
+"Hahahaha!"
 #
 <sprite "ta21a003.agf" 4 4 12>
-<name "イシュ" "!AB0079">
-「迷宮長補佐。
-　迷宮長の言う事を聞いていれば良いんだよね」
+<name "Ish" "!AB0079">
+"Dungeon keeper.
+ I don't have to listen to anybody but the
+ dungeon master."
 #
 <sprite "ta21a004.agf" 4 4 12>
-<name "イシュ" "!AB0080">
-「楽な人だと良いなぁ」
+<name "Ish" "!AB0080">
+"I hope it's someone easygoing."
 #
 <removesprite -1 11>
 <sprite "ta01a036.agf" 4 4 11>
-<name "ソフィア" "!ZB0975">
-「……不安な人事だ」
+<name "Sofia" "!ZB0975">
+"...This may be a problem."
 #
 <removesprite -1 11>
 <exit>
@@ -1298,37 +1326,40 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta22a003.agf" 4 4 11>
-<name "ナイン" "!QA0108">
-「頑張って補佐します」
+<name "Nein" "!QA0108">
+"I'll try my best to help."
 #
 <removesprite -1 11>
 <sprite "ta22a003.agf" 2 5 11>
 <sprite "ta34a000.agf" 6 4 11>
-<name "商会メイド" "!PC0497">
-「補佐している時も、常に逆さまですか？」
+<name "Company Maid" "!PC0497">
+"Are you always going to be upside down while
+ helping?"
 #
 <sprite "ta22a004.agf" 2 5 12>
-<name "ナイン" "!QA0109">
-「迷宮内部でのお仕事ですから、逆さまです。
-　これが私の戦闘体勢ですから」
+<name "Nein" "!QA0109">
+"It's a job inside the dungeon, so I'll be
+ upside down.
+ This is my fighting stance."
 #
-<name "商会メイド" "!PC0498">
-「が、頑張ってくださいね。
-　あと、これ」
+<name "Company Maid" "!PC0498">
+"G-Good luck.
+ And here."
 #
 <sprite "ta22a001.agf" 2 5 12>
-<name "ナイン" "!QA0110">
-「ズボン？」
+<name "Nein" "!QA0110">
+"Pants?"
 #
-<name "商会メイド" "!PC0499">
-「魔王様。
-　迷宮内なら、ズボンを着用してもＯＫだと」
+<name "Company Maid" "!PC0499">
+"From the Overlord.
+ When you're in the dungeon, it's okay to wear
+ pants."
 #
 <sprite "ta22a003.agf" 2 5 12>
-<name "ナイン" "!QA0111">
-「そうなんだ。
-　ありがとう。
-　大事に履くね」
+<name "Nein" "!QA0111">
+"Oh, okay.
+ Thank you.
+ I'll be sure to put them on."
 #
 <removesprite -1 11>
 <exit>
@@ -1336,33 +1367,34 @@
 <music 11>
 <background "bg013a0.agf" 10>
 <sprite "ta04a001.agf" 4 4 11>
-<name "ルーアルテ" "!RA0240">
-「迷宮長の補佐」
+<name "Rualtei" "!RA0240">
+"Dungeon keeper?"
 #
 <sprite "ta04a005.agf" 4 4 12>
-<name "ルーアルテ" "!RA0241">
-「つまり……
-　迷宮長が間違えた時に怒れば良いんでしょ」
+<name "Rualtei" "!RA0241">
+"Meaning...
+ I'm supposed to get mad when the dungeon
+ master makes a mistake?"
 #
-<name "迷宮で働く魔族" "!BC0155" "ka42a000.agf">
-「それだと監督になってしまいます」
+<name "Working Demon" "!BC0155" "ka42a000.agf">
+"That would make you their boss."
 #
-<name "迷宮で働く魔族" "!BC0156" "ka42a000.agf">
-「迷宮長のお手伝いが主な任務です。
-　迷宮長が間違った時は、フォローするのが仕事内
-　容です」
+<name "Working Demon" "!BC0156" "ka42a000.agf">
+"Your main job is to help the dungeon master.
+ If they make a mistake, it's your job to
+ cover for them."
 #
 <sprite "ta04a012.agf" 4 4 12>
-<name "ルーアルテ" "!RA0242">
-「具体的には？」
+<name "Rualtei" "!RA0242">
+"What exactly do I do?"
 #
-<name "迷宮で働く魔族" "!BC0157" "ka42a000.agf">
-「さ、最初のうちは迷宮長から仕事を貰って、それ
-　をこなせば大丈夫かと」
+<name "Working Demon" "!BC0157" "ka42a000.agf">
+"M-Maybe start by getting a job from the 
+ dungeon master and doing it?"
 #
 <sprite "ta04a013.agf" 4 4 12>
-<name "ルーアルテ" "!RA0243">
-「りょーかい」
+<name "Rualtei" "!RA0243">
+"Okaaay."
 #
 <removesprite -1 11>
 <exit>
@@ -1370,85 +1402,85 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta03a011.agf" 4 4 11>
-<name "ミアルテ" "!SA0258">
-「迷宮長補佐。
-　どうせなら、迷宮長をさせて頂ければ……」
+<name "Miartei" "!SA0258">
+"Dungeon keeper?
+ If you would just let me be dungeon
+ master..."
 #
-<name "ダークス">
-「お前ならやれると思ってだ」
+<name "Darx">
+"I think you can handle this."
 #
 <sprite "ta03a012.agf" 4 4 12>
-<name "ミアルテ" "!SA0259">
-「……すみません。
-　魔王様の決定に不満があるわけではありませんの
-　で」
+<name "Miartei" "!SA0259">
+"...Pardon me.
+ I didn't mean to imply that I'm dissatisfied
+ with your decision."
 #
-<name "ダークス">
-「胸を揉む事で許してやろう」
+<name "Darx">
+"I'll forgive you once I rub your breasts."
 #
 <sprite "ta03a022.agf" 4 4 12>
-<name "ミアルテ" "!SA0260">
-「あっ。
-　胸だけで、良いのですか？」
+<name "Miartei" "!SA0260">
+"Ah!
+ Just my breasts is enough to satisfy you?"
 #
-<name "ダークス">
-「……」
+<name "Darx">
+"..."
 #
 <removesprite -1 11>
-　結局、最後までやる俺だった。
+I ended up going all the way.
 #
 <exit>
 :81F7
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta05a003.agf" 4 4 11>
-<name "キュリハ" "!FA0543">
-「補佐ですね。
-　お任せください。
-　得意ですから」
+<name "Kyuriha" "!FA0543">
+"An assistant?
+ Leave it to me.
+ That's my specialty."
 #
 <sprite "ta05a004.agf" 4 4 12>
-<name "キュリハ" "!FA0544">
-「ええ、大丈夫です。
-　そんなに心配されなくても」
+<name "Kyuriha" "!FA0544">
+"Yes, don't be concerned.
+ There's no need to be so anxious."
 #
 <sprite "ta05a017.agf" 4 4 12>
-<name "キュリハ" "!FA0545">
-「ちゃんと手加減はしますから」
+<name "Kyuriha" "!FA0545">
+"I'll be sure to hold back."
 #
 <removesprite -1 11>
-　不安だ。
+That's worrying.
 #
 <exit>
 :83AC
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta16a004.agf" 4 4 11>
-<name "ファレン" "!FB0159">
-「階層長ね。
-　りょーかい」
+<name "Farren" "!FB0159">
+"Floor boss?
+ Roger that."
 #
 <sprite "ta16a003.agf" 4 4 12>
-<name "ファレン" "!FB0160">
-「問題無くこなしてみせるわ」
+<name "Farren" "!FB0160">
+"I'll take care of it, no problem."
 #
-<name "ダークス">
-「頼んだぞ」
+<name "Darx">
+"I'm counting on you."
 #
 <sprite "ta16a001.agf" 4 4 12>
-<name "ファレン" "!FB0161">
-「ええ。
-　だから、その……」
+<name "Farren" "!FB0161">
+"Yes, so, um..."
 #
-<name "ダークス">
-「ん？」
+<name "Darx">
+"Hm?"
 #
 <sprite "ta16a019.agf" 4 4 12>
-<name "ファレン" "!FB0162">
-「ちゃんと見ててね」
+<name "Farren" "!FB0162">
+"Make sure you keep an eye on me, okay?"
 #
-<name "ダークス">
-「ああ」
+<name "Darx">
+"Yeah."
 #
 <removesprite -1 11>
 <exit>
@@ -1456,25 +1488,26 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta19a003.agf" 4 4 11>
-<name "アオ" "!WA0153">
-「階層長。
-　前線って事だよね。
-　了解。
-　僕、頑張るよ」
+<name "Ao" "!WA0153">
+"Floor boss?
+ So the front line.
+ Roger.
+ I'll do my best."
 #
-<name "ダークス">
-「おう。
-　任せたぞ」
+<name "Darx">
+"Yeah.
+ I'm leaving it to you."
 #
 <sprite "ta19a004.agf" 4 4 12>
-<name "アオ" "!WA0154">
-「うん。
-　冒険者なんか一人じゃ何も出来ないカスだよ。
-　ギッタギタにしてやるんだから」
+<name "Ao" "!WA0154">
+"Yeah.
+ Adventurers are trash who can't do anything on
+ their own.
+ I'm gonna beat them to a pulp."
 #
-<name "ダークス">
-「……俺、元冒険者だからな。
-　その辺り、もう少し気を遣おうな」
+<name "Darx">
+"...I used to be an adventurer.
+ Try to be a little more tactful."
 #
 <removesprite -1 11>
 <exit>
@@ -1482,17 +1515,17 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta17a003.agf" 4 4 11>
-<name "タマガ" "!PB0116">
-「預かった階層は死守いたします。
-　お任せください」
+<name "Tamaga" "!PB0116">
+"I shall protect the floor to the death.
+ Leave it to me."
 #
-<name "ダークス">
-「あー、ほどほどにな。
-　やり過ぎないように」
+<name "Darx">
+"Um, keep it in moderation.
+ Don't go overboard."
 #
 <sprite "ta17a004.agf" 4 4 12>
-<name "タマガ" "!PB0117">
-「お任せください」
+<name "Tamaga" "!PB0117">
+"I won't let you down."
 #
 <removesprite -1 11>
 <exit>
@@ -1500,20 +1533,20 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta18a004.agf" 4 4 11>
-<name "ロッタ" "!HB0093">
-「うん、任せて」
+<name "Lotta" "!HB0093">
+"Yep. Leave it to me."
 #
 <removesprite -1 11>
-<name "ヤーヌ" "!NB0055" "ka24a003.agf">
-「これぐらいなら、安心」
+<name "Yahnu" "!NB0055" "ka24a003.agf">
+"If it's just that, it should be safe."
 #
-<name "ラフィノー" "!EB0086" "ka20a000.agf">
-「うん。
-　ミスしても痛くない」
+<name "Raffino" "!EB0086" "ka20a000.agf">
+"Yeah.
+ It's not the worst if she messes up."
 #
 <sprite "ta18a014.agf" 4 4 11>
-<name "ロッタ" "!HB0094">
-「ミ、ミスなんかしないよ」
+<name "Lotta" "!HB0094">
+"I-I'm not gonna mess up!"
 #
 <removesprite -1 11>
 <exit>
@@ -1521,25 +1554,24 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta20a004.agf" 4 4 11>
-<name "ラフィノー" "!EB0087">
-「階層長。
-　お任せください」
+<name "Raffino" "!EB0087">
+"Floor boss?
+ Leave it to me."
 #
-<name "ダークス">
-「加減は理解しているな」
+<name "Darx">
+"You know how to handle it, right?"
 #
 <sprite "ta20a005.agf" 4 4 12>
-<name "ラフィノー" "!EB0088">
-「はい。
-　派手にやり過ぎず、やられ過ぎず」
+<name "Raffino" "!EB0088">
+"Yes. Don't do too much, don't do too little."
 #
-<name "ダークス">
-「そうだ。
-　頼んだぞ」
+<name "Darx">
+"That's right.
+ I'm counting on you."
 #
 <sprite "ta20a020.agf" 4 4 12>
-<name "ラフィノー" "!EB0089">
-「魔王様の為に」
+<name "Raffino" "!EB0089">
+"For you."
 #
 <removesprite -1 11>
 <exit>
@@ -1547,21 +1579,22 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta21a001.agf" 4 4 11>
-<name "イシュ" "!AB0081">
-「階層長って事は……暴れて良いのかな？」
+<name "Ish" "!AB0081">
+"Floor boss means...
+ I can run wild?"
 #
 <sprite "ta21a003.agf" 4 4 12>
-<name "イシュ" "!AB0082">
-「良いんだよね」
+<name "Ish" "!AB0082">
+"That's good, right?"
 #
 <sprite "ta21a009.agf" 4 4 12>
-<name "イシュ" "!AB0083">
-「やったぁ。
-　あはははははは。
-　思いっきりやっちゃうぞー」
+<name "Ish" "!AB0083">
+"Yay!
+ Hahahahaha!
+ I'm gonna go all out!"
 #
-<name "ダークス">
-「……や、やり過ぎないようにな」
+<name "Darx">
+"...D-Don't overdo it."
 #
 <removesprite -1 11>
 <exit>
@@ -1569,54 +1602,52 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta22a001.agf" 4 4 11>
-<name "ナイン" "!QA0112">
-「階層長の任務。
-　お受け致します」
+<name "Nein" "!QA0112">
+"I accept the duty of floor boss."
 #
-<name "ダークス">
-「頑張ってくれ」
+<name "Darx">
+"Good luck."
 #
 <sprite "ta22a003.agf" 4 4 12>
-<name "ナイン" "!QA0113">
-「はい」
+<name "Nein" "!QA0113">
+"Yes."
 #
-<name "想像するメイド" "!DC0430" "ka34a000.agf">
-「ナインさんを始めてみる冒険者は、驚くでしょう
-　ね」
+<name "Imagining Maid" "!DC0430" "ka34a000.agf">
+"New adventurers will be surprised by her."
 #
-<name "賛同するメイド" "!PC0500" "ka34b000.agf">
-「多分ね」
+<name "Agreeing Maid" "!PC0500" "ka34b000.agf">
+"Probably."
 #
 <removesprite -1 11>
 <exit>
 :902C
 <music 3>
 <background "bg010a0.agf" 10>
-<name "ヤーヌ" "!NB0056" "ka24a000.agf">
-「一つの階層を守る。
-　これぐらいが、私に似合っていると思います」
+<name "Yahnu" "!NB0056" "ka24a000.agf">
+"Defending the first floor.
+ I think this is perfect for me."
 #
-<name "ダークス">
-「頼んだぞ」
+<name "Darx">
+"I'm counting on you."
 #
-<name "ヤーヌ" "!NB0057" "ka24a002.agf">
-「はい」
+<name "Yahnu" "!NB0057" "ka24a002.agf">
+"Yes, sir."
 #
 <exit>
 :912A
 <music 14>
 <background "bg008a0.agf" 10>
 <sprite "ta04a000.agf" 4 4 11>
-<name "ルーアルテ" "!RA0244">
-「私には小さ過ぎる仕事ね」
+<name "Rualtei" "!RA0244">
+"This job is beneath me."
 #
-<name "迷宮で働く魔族" "!BC0158" "ka42a000.agf">
-「とか言いながら、しっかりやってくれるのがルー
-　アルテ様なんですよねぇ」
+<name "Working Demon" "!BC0158" "ka42a000.agf">
+"You say that, but you're going to do a good
+ job of it, aren't you?"
 #
 <sprite "ta04a012.agf" 4 4 12>
-<name "ルーアルテ" "!RA0245">
-「し、しっかりなんかやってないんだからね」
+<name "Rualtei" "!RA0245">
+"I-I never don't do a good job!"
 #
 <removesprite -1 11>
 <exit>
@@ -1624,31 +1655,30 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta03a003.agf" 4 4 11>
-<name "ミアルテ" "!SA0261">
-「階層を守る仕事……」
+<name "Miartei" "!SA0261">
+"Protecting a floor..."
 #
 <sprite "ta03a014.agf" 4 4 12>
-<name "ミアルテ" "!SA0262">
-「加減がわかりません」
+<name "Miartei" "!SA0262">
+"I'm not sure I can hold back."
 #
-<name "迷宮で働く魔族" "!BC0159" "ka42a000.agf">
-「サ、サポートしますので」
+<name "Working Demon" "!BC0159" "ka42a000.agf">
+"W-We'll support you."
 #
 <sprite "ta03a019.agf" 4 4 12>
-<name "ミアルテ" "!SA0263">
-「よろしくお願いします」
+<name "Miartei" "!SA0263">
+"Thank you very much."
 #
-<name "迷宮で働く魔族" "!BC0160" "ka42a000.agf">
-「魔王様、応援、応援」
+<name "Working Demon" "!BC0160" "ka42a000.agf">
+"Overlord, cheer her on."
 #
-<name "ダークス">
-「ミアルテ。
-　頑張ってくれ」
+<name "Darx">
+"You can do it, Miartei."
 #
 <sprite "ta03a005.agf" 4 4 12>
-<name "ミアルテ" "!SA0264">
-「は、はい！
-　頑張ります」
+<name "Miartei" "!SA0264">
+"Y-Yes!
+ I can do it!"
 #
 <removesprite -1 11>
 <exit>
@@ -1656,259 +1686,270 @@
 <music 4>
 <background "bg009a0.agf" 10>
 <sprite "ta05a004.agf" 4 4 11>
-<name "キュリハ" "!FA0546">
-「階層長……
-　超楽しい」
+<name "Kyuriha" "!FA0546">
+"Floor boss...
+ That sounds quite fun!"
 #
 <removesprite -1 11>
 <sprite "ta05a004.agf" 2 4 11>
 <sprite "ta03a012.agf" 6 5 11>
-<name "ミアルテ" "!SA0265">
-「い、意外ね」
+<name "Miartei" "!SA0265">
+"T-This is surprising."
 #
 <sprite "ta05a017.agf" 2 4 12>
-<name "キュリハ" "!FA0547">
-「適度な責任、好き放題できる環境。
-　時々、サボっても怒られない」
+<name "Kyuriha" "!FA0547">
+"You have some responsibility, but also the
+ freedom to do whatever you want.
+ And if you skip work sometimes, nobody will
+ get mad."
 #
 <removesprite 6 11>
 <removesprite -1 11>
 <sprite "ta05a018.agf" 4 4 11>
-<name "キュリハ" "!FA0548">
-「私の求めていた理想郷がここにあった」
+<name "Kyuriha" "!FA0548">
+"This is the paradise I've been searching for."
 #
-<name "迷宮で働く魔族" "!BC0161" "ka42a000.agf">
-「その分、私達が大変なんですけど……
-　勘弁して貰えませんかね」
+<name "Working Demon" "!BC0161" "ka42a000.agf">
+"That makes it harder for us...
+ Please go easy on us."
 #
 <removesprite -1 11>
 <exit>
 :9851
 <music 14>
 <background "bg008a0.agf" 10>
-<name "喜ぶ住民" "!GB0223">
-「ばんざーい、ばんざーい！」
+<name "Celebrating Citizen" "!GB0223">
+"Hooray! Hooray!"
 #
-<name "練習する住民" "!SB0255">
-「こんな感じで良いかな？」
+<name "Practicing Citizen" "!SB0255">
+"Is it okay to feel this way?"
 #
-<name "指揮する住民" "!ZD0150">
-「おう、完璧だぜ」
+<name "Commanding Citizen" "!ZD0150">
+"Yeah, it's perfect."
 #
-<name "準備する住民" "!ZE0245">
-「ふふふ。
-　階層長になったお祝い、ビックリさせてやろうぜ」
+<name "Preparing Citizen" "!ZE0245">
+"Heheheh...
+ Let's surprised them with a party for 
+ becoming floor boss."
 #
-<name "集まった住民" "!ZF0147">
-「おー！」
+<name "Gathered Citizen" "!ZF0147">
+"Yeah!"
 #
 <exit>
 :99B8
 <music 4>
 <background "bg009a0.agf" 10>
-<name "迷宮で働く魔族" "!ZH0124">
-「迷宮の遊撃隊長、頑張ってるみたいだぜ」
+<name "Working Demon" "!ZH0124">
+"The dungeon's raid commander seems like 
+ they're working hard."
 #
-<name "迷宮の警備兵" "!MB0142">
-「それなりの装備とお給料を貰ってるんだから、頑
-　張ってくれなきゃ困るよ」
+<name "Dungeon Guard" "!MB0142">
+"You get nice equipment and good pay, so they
+ have to give it their best."
 #
-<name "迷宮で働く魔族" "!ZH0125">
-「まあな。
-　でも、俺はそれなりの装備とお給料を貰っても、
-　遊撃隊長は勤まらないなぁ」
+<name "Working Demon" "!ZH0125">
+"I guess, but even if I had that equipment and
+ pay, I couldn't do the job."
 #
-<name "迷宮の警備兵" "!MB0143">
-「なんだ、弱気だなぁ。
-　俺はやるぜ。
-　魔王様、任命してくれないかなぁ」
+<name "Dungeon Guard" "!MB0143">
+"What? You scared?
+ I could do it.
+ I hope the Overlord appoints me."
 #
-<name "迷宮で働く魔族" "!ZH0126">
-「ははは。
-　やめとけって。
-　強敵を求めて迷宮中を動き回るなんて、命がいく
-　らあっても足りないぜ」
+<name "Working Demon" "!ZH0126">
+"Hahaha.
+ Knock it off.
+ Nothing's worth having to roam around the
+ dungeon looking for strong enemies."
 #
-<name "迷宮の警備兵" "!MB0144">
-「そうか？
-　逆にワクワクするけどなぁ」
+<name "Dungeon Guard" "!MB0144">
+"Really?
+ Actually, that excites me."
 #
-<name "迷宮で働く魔族" "!ZH0127">
-「そうか。
-　じゃあ、これをプレゼントしよう」
+<name "Working Demon" "!ZH0127">
+"Oh?
+ Then you can have this."
 #
-<name "迷宮の警備兵" "!MB0145">
-「なんだ？」
+<name "Dungeon Guard" "!MB0145">
+"What is it?"
 #
-<name "迷宮で働く魔族" "!ZH0128">
-「遊撃隊への転属命令書」
+<name "Working Demon" "!ZH0128">
+"A transfer order to the raid squad."
 #
-<name "迷宮の警備兵" "!MB0146">
-「え……ちょ、じょ、冗談……だよな」
+<name "Dungeon Guard" "!MB0146">
+"Huh? Hey...
+ O-Oh, it's a joke..."
 #
-<name "迷宮で働く魔族" "!ZH0129">
-「ははははは」
+<name "Working Demon" "!ZH0129">
+"Hahahaha."
 #
-<name "迷宮の警備兵" "!MB0147">
-「あははははは」
+<name "Dungeon Guard" "!MB0147">
+"Hahahahaha..."
 #
-<name "迷宮で働く魔族" "!ZH0130">
-「残念、本物です」
+<name "Working Demon" "!ZH0130">
+"Sorry, it's real."
 #
-<name "迷宮の警備兵" "!MB0148">
-「ノーッ！」
+<name "Dungeon Guard" "!MB0148">
+"Nooooooo!!!"
 #
 <exit>
 :9E44
 <music 4>
 <background "bg009a0.agf" 10>
-<name "感謝する魔族" "!MB0149">
-「支援隊には助けて貰ってばかりだよな」
+<name "Grateful Demon" "!MB0149">
+"The support squad's always helping out."
 #
-<name "賛同する魔族" "!CB0180">
-「ああ、感謝してもしきれないぜ」
+<name "Agreeing Demon" "!CB0180">
+"Yeah, I can't thank them enough."
 #
-<name "支援隊の関係者" "!UA0178">
-「あの、感謝しているのはわかりましたから、そろ
-　そろ帰らせて……」
+<name "Support Member" "!UA0178">
+"Um, I can tell your grateful, so please can
+ we go home soon..."
 #
-<name "感謝する魔族" "!MB0150">
-「代金は気にするなって、俺の奢りだ」
+<name "Grateful Demon" "!MB0150">
+"If you're worried about the price, it's my
+ treat."
 #
-<name "賛同する魔族" "!CB0181">
-「そうそう。
-　よーし、飲むぞー」
+<name "Agreeing Demon" "!CB0181">
+"Right.
+ Okay, let's drink!"
 #
-<name "支援隊の関係者" "!UA0179">
-「あうう」
+<name "Support Member" "!UA0179">
+"Awww..."
 #
 <exit>
 :A024
 <music 3>
 <background "bg010a0.agf" 10>
-<name "部下魔族" "!HC0186">
-「お任せください」
+<name "Minion Demon" "!HC0186">
+"Leave it to me."
 #
-<name "ダークス">
-「気楽にな」
+<name "Darx">
+"We sure are carefree."
 #
-<name "部下魔族" "!HC0187">
-「そ、そんなワケには……」
+<name "Minion Demon" "!HC0187">
+"I-I didn't mean..."
 #
-<name "ダークス">
-「ははは。
-　無理をするなと言う事だ」
+<name "Darx">
+"Hahaha.
+ I'm saying don't overdo it."
 #
-<name "部下魔族" "!HC0188">
-「はい。
-　無理はしません。
-　でも、全力で頑張ります」
+<name "Minion Demon" "!HC0188">
+"Yes, sir.
+ I won't overdo it, but I will give it my
+ all."
 #
 <exit>
 :A167
 <music 3>
 <background "bg010a0.agf" 10>
-<name "部下魔族" "!SB0256">
-「ご期待を裏切るような真似は致しません」
+<name "Minion Demon" "!SB0256">
+"We'll do our best not to betray your
+ expectations."
 #
-<name "ダークス">
-「頼んだぞ」
+<name "Darx">
+"I'm counting on you."
 #
-<name "部下魔族" "!SB0257">
-「はい」
+<name "Minion Demon" "!SB0257">
+"Yes, sir."
 #
 <exit>
 :A21C
 <music 3>
 <background "bg010a0.agf" 10>
-<name "部下魔族" "!RB0170">
-「与えられた権限内で、頑張ります」
+<name "Minion Demon" "!RB0170">
+"I'll do my best with the precisely the 
+ authority you've given me."
 #
-<name "ダークス">
-「多少、権限をはみ出しても良いぞ」
+<name "Darx">
+"It's okay to test your boundaries a little."
 #
-<name "部下魔族" "!RB0171">
-「そうはいきません。
-　キッチリと、そうキッチリとしなければ」
+<name "Minion Demon" "!RB0171">
+"That's not right.
+ When you do things, you've gotta do them
+ exactly right."
 #
 <exit>
 :A318
 <music 3>
 <background "bg010a0.agf" 10>
-<name "部下魔族" "!LB0177">
-「あの……」
+<name "Minion Demon" "!LB0177">
+"Um..."
 #
-<name "ダークス">
-「どうした？
-　あの役職じゃ不満か？」
+<name "Darx">
+"What is it?
+ Are you not happy with that position?"
 #
-<name "部下魔族" "!LB0179">
-「呼ばれたの……
-　てっきり、夜のお相手だと思ったのに」
+<name "Minion Demon" "!LB0179">
+"When you called me...
+ I thought it was to be with you at night."
 #
-<name "ダークス">
-「え、えっと……じゃ、じゃあ、後でな」
+<name "Darx">
+"U-Um... 
+ T-Then, later."
 #
-<name "部下魔族" "!LB0180">
-「はい！」
+<name "Minion Demon" "!LB0180">
+"Yes!"
 #
 <exit>
 :A45E
 <music 3>
 <background "bg010a0.agf" 10>
-<name "部下魔族" "!GB0224">
-「やった、魔王様に認めてもらった」
+<name "Minion Demon" "!GB0224">
+"Yay! The Overlord noticed me!"
 #
-<name "部下魔族" "!GB0225">
-「っと、駄目駄目。
-　浮かれちゃ駄目」
+<name "Minion Demon" "!GB0225">
+"Uh, no, no.
+ Don't get carried away."
 #
-<name "部下魔族" "!GB0226">
-「気を引き締めてっと」
+<name "Minion Demon" "!GB0226">
+"Pull yourself together."
 #
-<name "ダークス">
-「頼んだぞ」
+<name "Darx">
+"I'm counting on you."
 #
-<name "部下魔族" "!GB0227">
-「は、はい、頑張ります！」
+<name "Minion Demon" "!GB0227">
+"Y-Yes, sir!
+ I'll do my best!"
 #
 <exit>
 :A59C
 <music 3>
 <background "bg010a0.agf" 10>
-<name "部下魔族" "!TC0184">
-「魔王様の為に、粉骨砕身、頑張ります！」
+<name "Minion Demon" "!TC0184">
+"I will work myself to the bones for you!"
 #
-<name "ダークス">
-「……お前、骨、ないよな？」
+<name "Darx">
+"...You don't have bones though?"
 #
-<name "部下魔族" "!TC0185">
-「細かい事を気にしてはいけません」
+<name "Minion Demon" "!TC0185">
+"Don't worry about the little stuff."
 #
 <exit>
 :A67B
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta04a002.agf" 4 4 11>
-<name "ルーアルテ" "!RA0246">
-「街でゴロゴロしてるよりは良いかも」
+<name "Rualtei" "!RA0246">
+"Maybe this is better than just sitting around
+ in the city."
 #
-<name "ダークス">
-「敵には天界の連中も居る。
-　やりにくかったら言え」
+<name "Darx">
+"Some of our enemies are from Celestia.
+ Tell me if it's too difficult."
 #
 <sprite "ta04a005.agf" 4 4 12>
-<name "ルーアルテ" "!RA0247">
-「大丈夫よ。
-　ちゃんと仕事はこなすから」
+<name "Rualtei" "!RA0247">
+"Don't worry it.
+ I'll handle it just fine."
 #
-<name "ダークス">
-「そうか。
-　頼りにしているぞ」
+<name "Darx">
+"I see.
+ I'll be counting on you."
 #
 <sprite "ta04a026.agf" 4 4 12>
-<name "ルーアルテ" "!RA0248">
-「ええ、任せてちょうだい」
+<name "Rualtei" "!RA0248">
+"Yes, I won't disappont you."
 #
 <removesprite -1 11>
 <exit>
@@ -1916,15 +1957,16 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta03a005.agf" 4 4 11>
-<name "ミアルテ" "!SA0266">
-「誰が敵でも、全てを討ち果たしてみせます」
+<name "Miartei" "!SA0266">
+"No matter who the enemy is, I will slay them
+ all."
 #
-<name "ダークス">
-「よろしく頼むぞ」
+<name "Darx">
+"I'm looking forward to it."
 #
 <sprite "ta03a004.agf" 4 4 12>
-<name "ミアルテ" "!SA0267">
-「はい」
+<name "Miartei" "!SA0267">
+"Yes."
 #
 <removesprite -1 11>
 <exit>
@@ -1932,88 +1974,93 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta05a003.agf" 4 4 11>
-<name "キュリハ" "!FA0549">
-「ダークス様のお傍で働ける事、光栄に思います」
+<name "Kyuriha" "!FA0549">
+"It's an honor to be working besides you."
 #
-<name "ダークス">
-「敵に天界のヤツが居るかもしれないが……」
+<name "Darx">
+"There could be angels among our enemies..."
 #
 <sprite "ta05a006.agf" 4 4 12>
-<name "キュリハ" "!FA0550">
-「ダークス様に敵対する者は、私の敵です」
+<name "Kyuriha" "!FA0550">
+"Your enemies are my enemies."
 #
-<name "ダークス">
-「頼りにしている」
+<name "Darx">
+"I'll be counting on you."
 #
 <sprite "ta05a017.agf" 4 4 12>
-<name "キュリハ" "!FA0551">
-「お任せください」
+<name "Kyuriha" "!FA0551">
+"I will not disappoint."
 #
 <removesprite -1 11>
 <exit>
 :AB8F
 <music 14>
 <background "bg008a0.agf" 10>
-<name "部下魔族" "!ZD0151">
-「魔王様の命、必ず守って見せる」
+<name "Minion Demon" "!ZD0151">
+"I shall protect your life!"
 #
-<name "部下魔族" "!ZD0152">
-「どうだ、決まってるだろ」
+<name "Minion Demon" "!ZD0152">
+"How?
+ That's obvious!"
 #
-<name "部下の子供" "!UA0180">
-「うん、格好良い」
+<name "Minion's Child" "!UA0180">
+"Yeah, you're so cool."
 #
-<name "部下魔族" "!ZD0153">
-「へへ。
-　お前も大きくなったら、俺みたいになるんだぜ」
+<name "Minion Demon" "!ZD0153">
+"Heheh...
+ You'll gonna be just like me when you grow
+ up."
 #
-<name "部下の子供" "!UA0181">
-「うん、絶対になるよ」
+<name "Minion's Child" "!UA0181">
+"Yep.
+ I definitely will be."
 #
 <exit>
 :ACF6
 <music 14>
 <background "bg013a0.agf" 10>
-<name "部下魔族" "!UA0182">
-「魔王様に選ばれたからには、死ぬ気で頑張る」
+<name "Minion Demon" "!UA0182">
+"I was chosen by the Overlord, so I'll try so
+ hard it'll kill me!"
 #
-<name "同僚" "!ZF0148">
-「おお、その意気だ！」
+<name "Comrade" "!ZF0148">
+"Ooh!
+ That's the spirit!"
 #
-<name "部下魔族" "!UA0183">
-「俺が倒れたら、後は任せたぞ」
+<name "Minion Demon" "!UA0183">
+"If I fall, the rest is up to you."
 #
-<name "同僚" "!ZF0149">
-「おうよ！」
+<name "Comrade" "!ZF0149">
+"Yeah!"
 #
-<name "同僚" "!ZF0150">
-「っても、選ぶのは魔王様だけどな」
+<name "Comrade" "!ZF0150">
+"Wait, but that's up to the Overlord."
 #
 <exit>
 :AE40
 <music 14>
 <background "bg008a0.agf" 10>
-<name "部下魔族" "!ZE0246">
-「よーし、魔王様のお傍だ！」
+<name "Minion Demon" "!ZE0246">
+"Okay!
+ I'm at the Overlord's side!"
 #
-<name "部下魔族" "!ZE0247">
-「頑張って働いて、出世するぞー！」
+<name "Minion Demon" "!ZE0247">
+"I'm gonna work hard and climb the ladder!"
 #
 <exit>
 :AEE6
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta16a000.agf" 4 4 11>
-<name "ファレン" "!FB0163">
-「お供、させて頂きます」
+<name "Farren" "!FB0163">
+"I'll be at your side."
 #
-<name "ダークス">
-「おう。
-　頼んだぞ」
+<name "Darx">
+"Yeah, I'm counting on you."
 #
 <sprite "ta16a003.agf" 4 4 12>
-<name "ファレン" "!FB0164">
-「ははっ」
+<name "Farren" "!FB0164">
+"Haha!"
 #
 <removesprite -1 11>
 <exit>
@@ -2021,31 +2068,32 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta19a001.agf" 4 4 11>
-<name "アオ" "!WA0155">
-「魔王様と一緒。
-　つまり……あんな事やこんな事のチャンス」
+<name "Ao" "!WA0155">
+"I'll be with the Overlord.
+ Which means... there'll be a chance for this
+ and that..."
 #
 <sprite "ta19a016.agf" 4 4 12>
-<name "アオ" "!WA0156">
-「頑張ります」
+<name "Ao" "!WA0156">
+"I better do my best."
 #
 <removesprite -1 11>
-　邪な気配を感じるのは気のせいだろうか。
+Is it my imagination, or is my spine tingling?
 #
 <exit>
 :B143
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta17a004.agf" 4 4 11>
-<name "タマガ" "!PB0118">
-「魔王様の身は、この私がお守りします」
+<name "Tamaga" "!PB0118">
+"I shall protect your life."
 #
-<name "ダークス">
-「頼もしいな」
+<name "Darx">
+"I'm counting on you."
 #
 <sprite "ta17a003.agf" 4 4 12>
-<name "タマガ" "!PB0119">
-「お任せください」
+<name "Tamaga" "!PB0119">
+"I won't let you down."
 #
 <removesprite -1 11>
 <exit>
@@ -2053,28 +2101,31 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta18a004.agf" 4 4 11>
-<name "ロッタ" "!HB0095">
-「はーい、頑張るよー」
+<name "Lotta" "!HB0095">
+"Yeeep!
+ I'll do my best!"
 #
 <removesprite -1 11>
 <sprite "ta20a020.agf" 4 4 11>
-<name "ラフィノー" "!EB0090">
-「魔王様の傍なら安心ね」
+<name "Raffino" "!EB0090">
+"It should be okay if she's with the
+ Overlord."
 #
 <removesprite -1 11>
 <sprite "ta21a020.agf" 4 4 11>
-<name "イシュ" "!AB0084">
-「だね」
+<name "Ish" "!AB0084">
+"Yeah."
 #
 <removesprite -1 11>
 <sprite "ta22a003.agf" 4 4 11>
-<name "ナイン" "!QA0116">
-「ミスしても、魔王様がフォローできるし」
+<name "Nein" "!QA0116">
+"If she messes up, the Overlord can cover for
+ her."
 #
 <removesprite -1 11>
 <sprite "ta18a014.agf" 4 4 11>
-<name "ロッタ" "!HB0096">
-「そ、そんなに駄目な子じゃないよー」
+<name "Lotta" "!HB0096">
+"I-I'm not a useless little girl!"
 #
 <removesprite -1 11>
 <exit>
@@ -2082,15 +2133,15 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta20a000.agf" 4 4 11>
-<name "ラフィノー" "!EB0091">
-「お供させて頂きます」
+<name "Raffino" "!EB0091">
+"I shall accompany you."
 #
-<name "ダークス">
-「お前の弓、期待しているぞ」
+<name "Darx">
+"I'm counting on your bow."
 #
 <sprite "ta20a001.agf" 4 4 12>
-<name "ラフィノー" "!EB0092">
-「はっ」
+<name "Raffino" "!EB0092">
+"Sir!"
 #
 <removesprite -1 11>
 <exit>
@@ -2098,18 +2149,17 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta21a001.agf" 4 4 11>
-<name "イシュ" "!AB0085">
-「魔王様、一緒だねー」
+<name "Ish" "!AB0085">
+"I'm with you, Overlord!"
 #
-<name "ダークス">
-「ああ。
-　頼りにしているからな」
+<name "Darx">
+"Yeah. I'll be counting on you."
 #
 <sprite "ta21a004.agf" 4 4 12>
-<name "イシュ" "!AB0086">
-「あはは。
-　任せてー。
-　思いっきりやっちゃうから」
+<name "Ish" "!AB0086">
+"Hahaha!
+ Leave it to me.
+ I'll go all out!"
 #
 <removesprite -1 11>
 <exit>
@@ -2117,84 +2167,85 @@
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta22a001.agf" 4 4 11>
-<name "ナイン" "!QA0117">
-「魔王様のお傍。
-　これはひょっとして、出世コース？」
+<name "Nein" "!QA0117">
+"At the Overlord's side...
+ Could this be a path to the top?"
 #
 <removesprite -1 11>
 <sprite "ta22a001.agf" 2 5 11>
 <sprite "ta34a000.agf" 6 4 11>
-<name "商会メイド" "!PC0503">
-「いや、そんな事を言ってられないぐらいハードで
-　すよ」
+<name "Company Maid" "!PC0503">
+"No, it's too hard to talk about it like that."
 #
 <sprite "ta22a010.agf" 2 5 12>
-<name "ナイン" "!QA0118">
-「そんな事を言ってられないぐらいハード。
-　ハード。
-　ハードなのかぁ」
+<name "Nein" "!QA0118">
+"It's so hard that you have to say that?
+ Hard...
+ Hard, huh?"
 #
-<name "商会メイド" "!PC0504">
-「あ、絶対に違う想像してますよ」
+<name "Company Maid" "!PC0504">
+"Ah, it's definitely not whatever you're
+ imagining."
 #
 <sprite "ta22a103.agf" 2 5 12>
-<name "ナイン" "!QA0119">
-「ハード、楽しみ」
+<name "Nein" "!QA0119">
+"Hard could be fun."
 #
 <removesprite -1 11>
 <exit>
 :B9FB
 <music 3>
 <background "bg010a0.agf" 10>
-<name "ヒビ" "!DB0050" "ka23a010.agf">
-「熱いところに行くかもしれないんだよね。
-　嫌だなぁ」
+<name "Hibi" "!DB0050" "ka23a010.agf">
+"We might go somewhere hot.
+ I don't like that."
 #
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!PC0505">
-「逆に涼しい所に行く可能性もありますよ」
+<name "Company Maid" "!PC0505">
+"On the other hand, you might go somewhere
+ cold."
 #
-<name "ヒビ" "!DB0051" "ka23a003.agf">
-「それは楽しみ♪」
+<name "Hibi" "!DB0051" "ka23a003.agf">
+"That'd be nice.♪"
 #
-<name "商会メイド" "!PC0506">
-「まあ、魔王様の気分次第なんですけどね」
+<name "Company Maid" "!PC0506">
+"Well, it depends on the Overlord's mood.
 #
-<name "ヒビ" "!DB0052" "ka23a011.agf">
-「あうう」
+<name "Hibi" "!DB0052" "ka23a011.agf">
+"Aww..."
 #
 <removesprite -1 11>
 <exit>
 :BBE6
 <music 3>
 <background "bg010a0.agf" 10>
-<name "ヤーヌ" "!NB0058" "ka24a000.agf">
-「魔王様のお傍で働く」
+<name "Yahnu" "!NB0058" "ka24a000.agf">
+"Working alongside the Overlord?"
 #
-<name "ダークス">
-「何か心配か？」
+<name "Darx">
+"Does it bother you?"
 #
-<name "ヤーヌ" "!NB0059" "ka24a014.agf">
-「いえ、不意に胸を揉まれたりするんだろうなぁと
-　想像しただけです」
+<name "Yahnu" "!NB0059" "ka24a014.agf">
+"No, I just imagined that you'd unexpectedly
+ rub my breasts."
 #
-<name "ダークス">
-「しないから安心してくれ」
+<name "Darx">
+"Don't worry, I won't."
 #
-<name "ヤーヌ" "!NB0060" "ka24a015.agf">
-「しないんですか。
-　そうですか」
+<name "Yahnu" "!NB0060" "ka24a015.agf">
+"You won't?
+ Is that so?"
 #
-<name "ダークス">
-「した方が良かった？」
+<name "Darx">
+"Should I?"
 #
-<name "ヤーヌ" "!NB0061" "ka24a004.agf">
-「魔王様のお好きな方で」
+<name "Yahnu" "!NB0061" "ka24a004.agf">
+"You can do whatever you want."
 #
-<name "ダークス">
-「……」
+<name "Darx">
+"..."
 #
-　今、揉んでやった。
+I did it.
 #
 <exit>
 \x78

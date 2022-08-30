@@ -170,13 +170,13 @@
 :204E
 <music 11>
 <background "bg013a0.agf" 10>
-<name "真面目な警備員" "!KB0137">
+<name "Serious Guard" "!KB0137">
 「警備砦」
 #
-<name "真面目な警備員" "!KB0138">
+<name "Serious Guard" "!KB0138">
 「ここが俺の職場か」
 #
-<name "真面目な警備員" "!KB0139">
+<name "Serious Guard" "!KB0139">
 「ふふふ。
 　頑張るぜ！」
 #
@@ -184,16 +184,16 @@
 「気合を入れている所悪いが、俺達は忙しくない方
 　が平和なんだぞ」
 #
-<name "真面目な警備員" "!KB0140">
+<name "Serious Guard" "!KB0140">
 「そ、そりゃ、解っているけど……」
 #
 <name "気楽な警備員" "!CB0064">
 「まあ、いざって時の為に、気は抜けないか」
 #
-<name "真面目な警備員" "!KB0141">
+<name "Serious Guard" "!KB0141">
 「だろ、だろ」
 #
-<name "真面目な警備員" "!KB0142">
+<name "Serious Guard" "!KB0142">
 「よーし、頑張るぜ！」
 #
 <exit>

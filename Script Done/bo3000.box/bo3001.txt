@@ -306,9 +306,9 @@ guarding the royal palace right now.
  people is being forced to play errand girl."
 #
 <removesprite -1 11>
-Her rank is Dungeon Overseer.
+Her rank is Dungeon Master.
 #
-With me gone and the Dungeon Master taking my
+With me gone and the Dungeon Lord taking my
 place, that puts her right at the very top of
 the pecking order.
 #
