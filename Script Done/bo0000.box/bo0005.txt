@@ -606,7 +606,7 @@ Someone you do not want to be your enemy.
 "Yeah, and so were all the guys around him."
 #
 <name "Darx">
-"I think maybe I could tell the first time I
+"I think maybe I couldn't tell the first time I
  met him because I wasn't that good with mana
  yet."
 #

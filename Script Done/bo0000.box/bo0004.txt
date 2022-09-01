@@ -2997,7 +2997,7 @@ I'm not slacking off.
 "I'll be with you after we finish."
 #
 <name "Kyuriha" "!FA0456">
-"Wait for my downstairs."
+"Wait for me downstairs."
 #
 <sprite "ta14a019.agf" 6 5 12>
 <name "Paniverna" "!DA0070">
