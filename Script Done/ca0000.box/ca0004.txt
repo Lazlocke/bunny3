@@ -1166,7 +1166,7 @@ The fishing tournament was a success.
 #
 <sprite "ta34a001.agf" 4 4 12>
 <name "Company Maid" "!DC0498">
-"The party will be at the Overlord's Bower.
+"The party will be at the Overlord's Retreat.
  Okay, let's get to work!"
 #
 <name "Serious Citizen" "!ZE0250">
@@ -1210,7 +1210,7 @@ The fishing tournament was a success.
 #
 <name "Drinking Citizen" "!ZE0252">
 "If you win a top prize, you get a gift
- certificate for the Overlord's Bower...
+ certificate for the Overlord's Retreat...
  Ooh, that's a lot of money."
 #
 <name "Eating Citizen" "!SB0259">
@@ -1265,7 +1265,7 @@ The fishing tournament was a success.
 "There's a full of of luxury prizes!
  And if you miss, you still get a 1Ｂ gift
  certificate you can use at the Overlord's
- Bower."
+ Retreat."
 #
 <name "Calculating Citizen" "!JA0156">
 "There's no reason not to play."

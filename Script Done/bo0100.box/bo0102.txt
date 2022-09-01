@@ -331,7 +331,7 @@ Well, I think that's obvious.
 #
 <name "Company Maid" "!AC0031">
 "You have the full support of Gunguskar's
- entire Overlord's Bower branch."
+ entire Overlord's Retreat branch."
 #
 <exit>
 :1E0D

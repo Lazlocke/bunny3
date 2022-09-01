@@ -41,7 +41,7 @@
 <name "Demon" "!ZE0242">
 "Overlord.
  Would you like something to eat?
- The maids at the Overlord's Bower made a
+ The maids at the Overlord's Retreat made a
  packed lunch for you."
 #
 <name "Surprised Demon" "!JA0144">

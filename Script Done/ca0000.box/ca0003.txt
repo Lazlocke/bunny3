@@ -251,7 +251,7 @@ It's the Temple of Darx.
 The deepest part of my personal dungeon.
 #
 In other words, the closest place to the
-Overlord's Bower.
+Overlord's Retreat.
 #
 <music 12>
 <background "ev049a00.agf" 10>
@@ -401,7 +401,7 @@ I couldn't believe it, but it was true.
 "Aah! My Lord!♪"
 #
 I brought her to my room in the Overlord's
-Bower and immediately threw her on the bed.
+Retreat and immediately threw her on the bed.
 #
 Well, I'm not going to say no to her, so I'm
 more than happy enough to have plenty of fun

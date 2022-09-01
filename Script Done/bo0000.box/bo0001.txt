@@ -108,17 +108,17 @@
 #
 <sprite "ta01a004.agf" 4 4 12>
 <name "Sofia" "!ZB0857">
-"So I recommend you construct a Guard Fort."
+"So I recommend you construct a garrison."
 #
 <name "Darx">
-"A Guard Fort?"
+"A garrison?"
 #
 <sprite "ta01a005.agf" 4 4 12>
 <name "Sofia" "!ZB0858">
 "A garrison for peacekeepers."
 #
 <name "Darx">
-"I get that, but why a fort?"
+"I get that, but why a garrison?"
 #
 <sprite "ta01a004.agf" 4 4 12>
 <name "Sofia" "!ZB0859">

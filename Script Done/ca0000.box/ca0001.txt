@@ -2860,7 +2860,7 @@ So, even demons are scared of bees, huh?
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Visiting Citizen" "!SB0224">
-"They call it a foundry, but it's more like
+"They call it a workshop, but it's more like
  a collection of a bunch of different
  workshops."
 #
@@ -2877,7 +2877,7 @@ So, even demons are scared of bees, huh?
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Shopping Citizen" "!ZF0086">
-"Thanks to the foundry, we're getting a lot
+"Thanks to the workshop, we're getting a lot
  more goods in the city."
 #
 <name "Happy Citizen" "!LB0157">
@@ -2890,7 +2890,7 @@ So, even demons are scared of bees, huh?
 <music 10>
 <background "ev003a00.agf" 10>
 <name "Merchant Maid" "!PC0396">
-"The products made in the foundry improve the
+"The products made in the workshop improve the
  quality of life for citizens."
 #
 <name "Merchant Maid" "!PC0397">
@@ -4285,7 +4285,7 @@ losing customers.
 <name "Cheerful Citizen" "!ZF0112">
 "Okaaay."
 #
-The fairgrounds are popular with kids.
+The entertainment center is popular with kids.
 #
 <name "Understanding Citizen" "!JA0099">
 "Oh, I'll come by later too.
@@ -4323,7 +4323,7 @@ It's popular with the adults too.
 #
 <name "Concerned Citizen" "!HC0162">
 "And he's not playing outside, he's spending
- all his time at the fairgrounds...
+ all his time at the entertainment center...
  He needs to make some money."
 #
 <name "Carefree Citizen" "!UA0124">
@@ -4345,7 +4345,7 @@ It's popular with the adults too.
 <background "bg013a0.agf" 10>
 <name "Concerned Citizen" "!HC0164">
 "My son has stopped studying because of the
- fairgrounds..."
+ entertainment center..."
 #
 <name "Agreeing Citizen" "!SB0232">
 "Mine too.
@@ -4364,8 +4364,8 @@ It's popular with the adults too.
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Troubled Citizen" "!HC0165">
-"Ever since the fairgrounds were built, my
- son's been going there all the time."
+"Ever since the entertainment center was built,
+ my son's been going there all the time."
 #
 <name "Concerned Citizen" "!SB0233">
 "I hope he's not getting into any fights."
