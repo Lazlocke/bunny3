@@ -556,7 +556,7 @@ I pat her affectionately.
 "Oh?
  That seems really useful."
 #
-There's one in the Palace of Darx too though.
+There's one in the Temple of Darx too though.
 #
 <exit>
 :2D83
