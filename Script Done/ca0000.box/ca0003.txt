@@ -3900,7 +3900,7 @@ They were both originally enemies.
 <removesprite -1 11>
 They really are lovable.
 #
-I take a showed and get changed, but ended up
+I took a shower and got changed, but ended up
 attacking them for one more round.
 #
 \x0A\x44\x02\x5F\x84\x01

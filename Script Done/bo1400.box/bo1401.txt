@@ -1876,7 +1876,7 @@ Suisen's snake, Sue, should be there too.
 "I am calm."
 #
 <name "Experienced Angel" "!QB0048">
-"You so well behaved.
+"You're so well behaved.
  That's no fun."
 #
 <name "Rookie Angel" "!TC0011">

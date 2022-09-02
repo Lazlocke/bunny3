@@ -5516,7 +5516,7 @@ My thoughts fade into blackness.
 "How dare you!"
 #
 <name "Suisen" "!YA0136">
-"You kill a venemous snake by cutting off the
+"You kill a venomous snake by cutting off the
  head."
 #
 <background "ev057a01.agf" 10>
@@ -5598,7 +5598,7 @@ Her words aren't directed to the angels.
 #
 <sprite "ta06a020.agf" 4 4 12>
 <name "Suisen" "!YA0147">
-"If he leaves, tell him I'll be seeing him
+"If he lives, tell him I'll be seeing him
  again."
 #
 <name "Suisen" "!YA0148">
@@ -5618,7 +5618,7 @@ She jumps up and out a window.
 #
 <sprite "ta11a007.agf" 4 4 12>
 <name "Kozelotte" "!NA0010">
-"Kyuriha, Miatei, can you help drive her off?"
+"Kyuriha, Miartei, can you help drive her off?"
 #
 <removesprite -1 11>
 <sprite "ta05a005.agf" 4 4 11>
@@ -5929,7 +5929,7 @@ I am an Overlord.
  I wish they'd stop.
  It's making me weepy."
 #
-I show myself to the citzens to prove that I'm
+I show myself to the citizens to prove that I'm
 alive and well.
 #
 <music 3>

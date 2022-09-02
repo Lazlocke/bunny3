@@ -1517,7 +1517,7 @@ Of course, it became a grand feast.
 #
 <sprite "ta08a005.agf" 2 5 12>
 <name "Rakia" "!ZC0310">
-"When they met in the Netherowrld, he gave
+"When they met in the Netherworld, he gave
  him some things to study that he thought
  would be useful to learn, and seems to have
  mastered the basics."
@@ -1608,7 +1608,7 @@ Of course, it became a grand feast.
 <name "Golan" "!CA0019" "ka32a000.agf">
 "Overlord.
  When did you get here?
-　Though I guess that's not the right
+ Though I guess that's not the right
  question."
 #
 <name "Golan" "!CA0020" "ka32a000.agf">

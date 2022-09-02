@@ -1646,7 +1646,7 @@ though they had no idea why.
 <sprite "ta08a013.agf" 2 4 12>
 <name "Rakia" "!ZC0344">
 "It is not the company who protects the city.
- It is the citzens.
+ It is the citizens.
  Do not forget that."
 #
 <sprite "ta01a026.agf" 6 5 12>
@@ -3301,7 +3301,7 @@ them.
  Lineages just to defeat one of them."
 #
 <name "Kyuriha" "!FA0479">
-"You are aware of the Eighte Lineages?
+"You are aware of the Eight Lineages?
  It is a term used to describe the Nine 
  Lineages of Celestia, besides the Holy 
  Spirit, but also refers to Celestia's army."
@@ -3346,12 +3346,12 @@ them.
 "To drive them out?"
 #
 <name "Kyuriha" "!FA0487">
-"That's right>"
+"That's right."
 #
 <name "Kyuriha" "!FA0488">
 "In any case, Celestia took advantage of that
  and negotiated a truce with the Netherworld.
-　Oh, officially, the Netherworld came to us.
+ Oh, officially, the Netherworld came to us.
  If there's a test, please note that."
 #
 <name "Darx">
@@ -3403,11 +3403,11 @@ them.
 "The dragons were wiped out, leaving only 15
  males. Limits were placed on those remaining,
  and mixing their blood with other species
- weakend them while preserving the race."
+ weakened them while preserving the race."
 #
 <name "Kyuriha" "!FA0497">
 "Celestia and the Netherworld were so
- devestated by the war that a truce was 
+ devastated by the war that a truce was 
  called, which has been upheld to this day."
 #
 <name "Kyuriha" "!FA0498">
@@ -3453,7 +3453,7 @@ them.
 #
 <name "Kyuriha" "!FA0505">
 "They may be individually fragile, but they
- are formidible as a group, and sometimes,
+ are formidable as a group, and sometimes,
  something called a hero is born."
 #
 <name "Kyuriha" "!FA0506">
@@ -3591,7 +3591,7 @@ I better not tell her.
 #
 <name "Drinking Demon" "!BC0040">
 "I'm not just saying it as a fan of the 
- Netherworld, but Gungsukar is just easier to
+ Netherworld, but Gunguskar is just easier to
  say."
 #
 <name "Agreeing Demon" "!KB0086">

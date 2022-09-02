@@ -202,8 +202,8 @@ Sofia fainted.
  possible, but I know I can't."
 #
 <name "Darx">
-"Plus just get her back on her feet before
- everything goes to hell."
+"Just get her back on her feet before everything
+ goes to hell."
 #
 <sprite "ta08a000.agf" 4 4 12>
 <name "Rakia" "!ZC0171">
@@ -399,7 +399,7 @@ Five days later.
 "I think she's scared of me."
 #
 <name "Darx">
-"No always...
+"Not always...
  Just like sometimes she suddenly remembers to
  be."
 #
