@@ -44,7 +44,7 @@ Forzelotte's Shrine.
 <name "Tojo" "!KA0014">
 "Blast one and another takes its place."
 #
-<name "Goran" "!CA0012">
+<name "Golan" "!CA0012">
 "Grr."
 #
 <name "Veteran Soldier" "!BC0012">
@@ -66,7 +66,7 @@ Forzelotte's Shrine.
 <name "Tojo" "!KA0018">
 "We can stop them."
 #
-<name "Goran" "!CA0013">
+<name "Golan" "!CA0013">
 "Let's go."
 #
 <name "Veteran Soldier" "!BC0013">

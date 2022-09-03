@@ -4676,17 +4676,14 @@ The casino seems to be doing well.
 <background "ev004a00.agf" 10>
 <name "Confident Citizen" "!ZD0106">
 "Heheheh.
- There's nobody better than me at gambling."
+ Nobody can surpass me at gambling."
 #
 <name "Confident Citizen" "!ZD0107">
-"There are a lot of people to the left
+"There are a lot of people just behind me
  though."
 #
 <name "Confident Citizen" "!ZD0108">
-"Ah, hey! Don't stand on my right!"
-E - This is a pun that I can't think of a good
-translation. "superior" two lines back is
-literally 'to the right.' Fix or discuss.
+"Ah, hey! Don't cut in line!"
 #
 ...
 #

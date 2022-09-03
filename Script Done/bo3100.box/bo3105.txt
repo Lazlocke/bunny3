@@ -1209,7 +1209,7 @@ I motivated her.
 "Yeah."
 #
 <name "Knowledgable Demon" "!KB0266">
-"It's about the same as Ekate, Goran, and
+"It's about the same as Ekate, Golan, and
  Tojo.
  You know what I mean?"
 #
@@ -1236,7 +1236,7 @@ I motivated her.
 <background "bg009a0.agf" 10>
 <name "Working Demon" "!MB0138">
 "If the dungeon master is at the same level as
- Ekate, Goran, and Tojo...
+ Ekate, Golan, and Tojo...
 　The dungeon lord above them must be super
  great."
 #
