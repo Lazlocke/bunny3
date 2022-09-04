@@ -3756,7 +3756,7 @@ But I want her to remember.
  every now and then."
 #
 <name "Darx">
-"Everyone who worked in the palance knew about
+"Everyone who worked in the palace knew about
  my body, so... huh?"
 #
 I'm surprised.
@@ -3851,7 +3851,7 @@ and the act.
 I had the maids get new clothes for her.
 #
 They had everything ready from the moment this
-all started becaues they're used to it.
+all started because they're used to it.
 #
 I'll have to praise them later.
 #

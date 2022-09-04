@@ -688,7 +688,7 @@ she'd tell me.
  married."
 #
 <name "Macdo" "!ZA0257">
-"Darlyston's daughter is famous for that
+"Darleyston's daughter is famous for that
  actually happening for her."
 #
 <name "Darx">
@@ -871,7 +871,7 @@ I summon a couple tentacles from my shoulders.
 "My mind is apparently simple."
 #
 <name "Darx">
-"How what?
+"Now what?
  Tease you with them?"
 #
 <name "Macdo" "!ZA0292">
