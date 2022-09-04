@@ -3108,7 +3108,7 @@ could show her an unusual trick.
 "Roger."
 #
 <name "Frenda" "!WB0108">
-"Still, hasn't the number of adventuers
+"Still, hasn't the number of adventurers
  increased?"
 #
 <name "Marialis" "!LA0071">
@@ -3146,8 +3146,8 @@ could show her an unusual trick.
  overexcited and restless chasing after it."
 #
 <name "Marialis" "!LA0078">
-"That's right. So, do you think that squad three should be
- allowed to rest first? 
+"That's right. So, do you think that squad three
+ should be allowed to rest first? 
  Even though the other squads were diligent
  in their duties?"
 #

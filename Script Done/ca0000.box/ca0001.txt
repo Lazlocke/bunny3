@@ -4177,7 +4177,7 @@ losing customers.
 "Well, he is Ekate's son."
 #
 <name "Ecks's Bodyguard" "!TC0159" "ka35b000.agf">
-"And I'd be scared of retalation from the 
+"And I'd be scared of retaliation from the 
  other girls who are after Ecks.
  Ah, there's been three attempts today."
 #
@@ -4257,7 +4257,7 @@ losing customers.
  Thank you very much."
 #
 <name "Darx">
-"Well, if Ekate has a girlfriend,
+"Well, if Ecks has a girlfriend,
  congratulations are in order.
  Maybe we'll even get to see some grandkids."
 #

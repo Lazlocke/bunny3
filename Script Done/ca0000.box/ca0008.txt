@@ -449,7 +449,7 @@ for today.
 "If not, I'm sorry."
 #
 <removesprite -1 11>
-I pay her on the head.
+I pat her on the head.
 #
 <sprite "ta02a013.agf" 4 4 11>
 <name "Macdo" "!ZA0150">
@@ -1584,8 +1584,6 @@ mood later.
 <name "Macdo" "!ZA0417">
 "Dungeon Boss Tojo, I believe.
  Can I help you with something?"
- (PROBABLY SHOULD LOOK UP THE PREVIOUS 
-  VERBIAGE HERE)
 #
 <name "Tojo" "!KA0028" "ka33a000.agf">
 "No need to be so prickly.
@@ -1757,7 +1755,7 @@ mood later.
 <music 39>
 <background "bg002a0.agf" 10>
 <name "Tojo" "!KA0050" "ka33a000.agf">
-"I can't do it! I can't do it! I can'd do it!
+"I can't do it! I can't do it! I can't do it!
  I can't take this anymore!"
 #
 <name "Golan" "!CA0026" "ka32a000.agf">

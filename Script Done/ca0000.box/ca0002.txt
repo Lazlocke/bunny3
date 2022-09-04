@@ -125,8 +125,8 @@ Her talent for teaching has flourished.
 She used to be one of the lords of Castle
 Baldaquin.
 #
-Meaning she's an angel, and her being here now
-beings she's one of my wives.
+She's an angel, but her being here now means
+she's one of my wives.
 #
 <name "Izana" "!AA0036">
 "Today we will be conducting an experiment.
