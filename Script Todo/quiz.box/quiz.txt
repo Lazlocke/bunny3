@@ -1,43 +1,43 @@
 ﻿<music 8>
 <background "bg008a0.agf" 10>
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「ようこそ、お越しくださいました！
-　クイズコーナーです！」
+<name "Quiz Maid" "*" "ka34e000.agf">
+"Welcome one and all to the quiz corner!"
 #
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「ボイスはありませんが、よろしくお願いします！」
+<name "Quiz Maid" "*" "ka34e000.agf">
+"There's no vocals, but we welcome you anyway!"
 #
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「そして、残念なお話なのですが、クイズコーナー
-　をクリアしても、特典はありません」
+<name "Quiz Maid" "*" "ka34e000.agf">
+"And unfortunately, there's no benefits to
+ clearing the quiz corner."
 #
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「……」
+<name "Quiz Maid" "*" "ka34e000.agf">
+"..."
 #
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「クイズコーナーの存在意義に疑問を感じる日々で
-　す」
+<name "Quiz Maid" "*" "ka34e000.agf">
+"Every day, I wonder why this quiz corner
+ exists."
 #
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「ですが！
-　せっかくのコーナー！
-　なんとか、ここを訪れた方々に楽しんで頂きたい
-　と思う気持ちに嘘はありません！」
+<name "Quiz Maid" "*" "ka34e000.agf">
+"However!
+ It's our special corner!
+ I sincerely do want people who come here to
+ enjoy their visit!"
 #
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「そんなクイズコーナーですが、チャレンジします
-　か？　それともお帰りになられますか？」
-（問題に、ストーリーのネタバレが含まれている物
-　があります。ご注意ください）
-<choice :3F5: "クイズにチャレンジ！" \x00\x00>
-<choice :4CC: "お帰りになる！" \x00\x00>
+<name "Quiz Maid" "*" "ka34e000.agf">
+"Are you ready to challenge the quiz?
+ Or will you go home?"
+(Some questions contain spoilers for the
+ main game.)
+<choice :3F5: "Take the quiz!" \x00\x00>
+<choice :4CC: "Go home!" \x00\x00>
 #
 :3F5
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「ありがとうございます」
+<name "Quiz Maid" "*" "ka34e000.agf">
+"Thank you very much."
 #
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「では、張り切って出題させて頂きます！」
+<name "Quiz Maid" "*" "ka34e000.agf">
+"Now let's get started with some exciting
+ questions!"
 #
 <music 8>
 \x2B\x0A\x22\x00\x10 1 \x0A\x22\x00\x11 0 \x2B
@@ -46,23 +46,23 @@
 :4C0
 \x16 :1063: \x15 :11B8: 
 :4CC
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「ですよねぇ」
+<name "Quiz Maid" "*" "ka34e000.agf">
+"I know, right?"
 #
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「良いんです。
-　わかってますから」
+<name "Quiz Maid" "*" "ka34e000.agf">
+"It's okay.
+ I understand."
 #
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「でも！」
+<name "Quiz Maid" "*" "ka34e000.agf">
+"But!"
 #
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「でもでもでも！」
+<name "Quiz Maid" "*" "ka34e000.agf">
+"But but but!"
 #
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「なにかの気まぐれで思い出して貰えると、嬉しい
-　です！
-　よろしくお願いします！」
+<name "Quiz Maid" "*" "ka34e000.agf">
+"Please remember me if the mood ever strikes
+ your fancy!
+ Thank you very much!"
 #
 \x15 :680: 
 :680
@@ -70,144 +70,145 @@
 \x2B\x78
 :689
 \x1A\x01\x0C\x43\x00\x4C\x00\x30\x00\x31\x00\x37\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x20\x00 :70D: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「素晴らしい！
-　全問正解です！」
+<name "Quiz Maid" "*" "ka34e000.agf">
+"Wonderful!
+ That's all questions correct!"
 #
 \x16 :46AC: \x18 :C37: 
 :70D
 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x31\x00\x37\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00 :789: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「あー、惜しい！
-　９問正解です！」
+<name "Quiz Maid" "*" "ka34e000.agf">
+"Ooh, so close!
+ You got nine right!"
 #
 \x18 :BC2: 
 :789
 \x1C\x01\x0A\x43\x00\x4C\x00\x30\x00\x31\x00\x37\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x38\x00 :801: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「もう少し！
-　８問正解です！」
+<name "Quiz Maid" "*" "ka34e000.agf">
+"Almost there!
+ That was eight right answers!"
 #
 \x18 :BC2: 
 :801
 \x1C\x01\x0A\x43\x00\x4C\x00\x30\x00\x31\x00\x37\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x37\x00 :87B: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「頑張りました！
-　７問正解です」
+<name "Quiz Maid" "*" "ka34e000.agf">
+"You did really well!
+ That was seven correct!"
 #
 \x18 :BC2: 
 :87B
 \x1C\x01\x0A\x43\x00\x4C\x00\x30\x00\x31\x00\x37\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x36\x00 :8F5: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「うーん、微妙！
-　６問正解です」
+<name "Quiz Maid" "*" "ka34e000.agf">
+"Hmm, not bad!
+ Six correct."
 #
 \x18 :BC2: 
 :8F5
 \x1C\x01\x0A\x43\x00\x4C\x00\x30\x00\x31\x00\x37\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x35\x00 :967: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「半分！
-　５問正解です」
+<name "Quiz Maid" "*" "ka34e000.agf">
+"That's half!
+ You got five right."
 #
 \x18 :BC2: 
 :967
 \x1C\x01\x0A\x43\x00\x4C\x00\x30\x00\x31\x00\x37\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x34\x00 :9E7: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「負け込んでいますね。
-　４問正解です」
+<name "Quiz Maid" "*" "ka34e000.agf">
+"Looks like you lost.
+ That was four correct answres."
 #
 \x18 :BC2: 
 :9E7
 \x1C\x01\x0A\x43\x00\x4C\x00\x30\x00\x31\x00\x37\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x33\x00 :A58: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「あうう……３問正解です」
+<name "Quiz Maid" "*" "ka34e000.agf">
+"Aww... Only three correct."
 #
 \x18 :BC2: 
 :A58
 \x1C\x01\x0A\x43\x00\x4C\x00\x30\x00\x31\x00\x37\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x32\x00 :ACC: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「酷い……
-　２問正解です」
+<name "Quiz Maid" "*" "ka34e000.agf">
+"That was awful...
+ Only two correct."
 #
 \x18 :BC2: 
 :ACC
 \x1C\x01\x0A\x43\x00\x4C\x00\x30\x00\x31\x00\x37\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00 :B5E: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「適当に選んでも、もう少し当たるのでは？
-　１問正解です」
+<name "Quiz Maid" "*" "ka34e000.agf">
+"If you took your time, I think you could get
+ a few more.
+ Only one correct answer."
 #
 \x18 :BC2: 
 :B5E
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「えっと……すみません。
-　正解はありません」
+<name "Quiz Maid" "*" "ka34e000.agf">
+"Um... I'm sorry.
+ You didn't get any right."
 #
 :BC2
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「もう一度、やりますか？」
-<choice :3F5: "やります" \x00\x00>
-<choice :4CC: "やりません" \x00\x00>
+<name "Quiz Maid" "*" "ka34e000.agf">
+"Want to try again?"
+<choice :3F5: "Try again" \x00\x00>
+<choice :4CC: "Quit" \x00\x00>
 #
 :C37
 \x78
 :C38
 \x1A\x01\x09\x43\x00\x4C\x00\x31\x00\x36\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00 :CA3: 
-<name "クイズ担当メイド" "!RB5042" "ka34e000.agf">
-「第一問」
+<name "Quiz Maid" "!RB5042" "ka34e000.agf">
+"First question."
 #
 \x18 :1062: 
 :CA3
 \x1C\x01\x09\x43\x00\x4C\x00\x31\x00\x36\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x32\x00 :D0E: 
-<name "クイズ担当メイド" "!RB5043" "ka34e000.agf">
-「第二問」
+<name "Quiz Maid" "!RB5043" "ka34e000.agf">
+"Second question."
 #
 \x18 :1062: 
 :D0E
 \x1C\x01\x09\x43\x00\x4C\x00\x31\x00\x36\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x33\x00 :D79: 
-<name "クイズ担当メイド" "!RB5044" "ka34e000.agf">
-「第三問」
+<name "Quiz Maid" "!RB5044" "ka34e000.agf">
+"Third question."
 #
 \x18 :1062: 
 :D79
 \x1C\x01\x09\x43\x00\x4C\x00\x31\x00\x36\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x34\x00 :DE4: 
-<name "クイズ担当メイド" "!RB5045" "ka34e000.agf">
-「第四問」
+<name "Quiz Maid" "!RB5045" "ka34e000.agf">
+"Fourth question."
 #
 \x18 :1062: 
 :DE4
 \x1C\x01\x09\x43\x00\x4C\x00\x31\x00\x36\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x35\x00 :E4F: 
-<name "クイズ担当メイド" "!RB5046" "ka34e000.agf">
-「第五問」
+<name "Quiz Maid" "!RB5046" "ka34e000.agf">
+"Fifth question."
 #
 \x18 :1062: 
 :E4F
 \x1C\x01\x09\x43\x00\x4C\x00\x31\x00\x36\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x36\x00 :EBA: 
-<name "クイズ担当メイド" "!RB5047" "ka34e000.agf">
-「第六問」
+<name "Quiz Maid" "!RB5047" "ka34e000.agf">
+"Sixth question."
 #
 \x18 :1062: 
 :EBA
 \x1C\x01\x09\x43\x00\x4C\x00\x31\x00\x36\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x37\x00 :F25: 
-<name "クイズ担当メイド" "!RB5048" "ka34e000.agf">
-「第七問」
+<name "Quiz Maid" "!RB5048" "ka34e000.agf">
+"Seventh question."
 #
 \x18 :1062: 
 :F25
 \x1C\x01\x09\x43\x00\x4C\x00\x31\x00\x36\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x38\x00 :F90: 
-<name "クイズ担当メイド" "!RB5049" "ka34e000.agf">
-「第八問」
+<name "Quiz Maid" "!RB5049" "ka34e000.agf">
+"Eighth question."
 #
 \x18 :1062: 
 :F90
 \x1C\x01\x09\x43\x00\x4C\x00\x31\x00\x36\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00 :FFB: 
-<name "クイズ担当メイド" "!RB5050" "ka34e000.agf">
-「第九問」
+<name "Quiz Maid" "!RB5050" "ka34e000.agf">
+"Ninth question."
 #
 \x18 :1062: 
 :FFB
 \x1C\x01\x0A\x43\x00\x4C\x00\x31\x00\x36\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x30\x00 :1062: 
-<name "クイズ担当メイド" "!RB5051" "ka34e000.agf">
-「第十問」
+<name "Quiz Maid" "!RB5051" "ka34e000.agf">
+"Tenth question."
 #
 :1062
 <exit>
@@ -221,13 +222,13 @@
 \x0A\x23\x00\x10\x22\x00\x00\x22\x00\x12
 <exit>
 :10CE
-<name "クイズ担当メイド" "!RB5054" "ka34e000.agf">
-「正解です」
+<name "Quiz Maid" "!RB5054" "ka34e000.agf">
+"That's correct."
 #
 \x0B\x22\x00\x11 1 \x00\x15 :1180: 
 :112B
-<name "クイズ担当メイド" "!RB5056" "ka34e000.agf">
-「不正解です」
+<name "Quiz Maid" "!RB5056" "ka34e000.agf">
+"That's incorrect."
 #
 \x15 :1180: 
 :1180
@@ -236,159 +237,164 @@
 \x15 :689: 
 :11B8
 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00 :1293: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「スイセンの所属する商会の名前は？」
-<choice :10CE: "アンゼルム商会" \x00\x00>
-<choice :112B: "アンルゼム商会" \x00\x00>
-<choice :112B: "アンルイゼ商会" \x00\x00>
-<choice :112B: "アンムルゼ商会" \x00\x00>
+<name "Quiz Maid" "*" "ka34e000.agf">
+"What is the name of the group Suisen belongs
+ to?"
+<choice :10CE: "The Anselm Company" \x00\x00>
+<choice :112B: "The Anzelm Company" \x00\x00>
+<choice :112B: "The Anlize Company" \x00\x00>
+<choice :112B: "The Anmulze Company" \x00\x00>
 #
 \x18 :46A6: 
 :1293
 \x1C\x01\x0A\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x32\x00 :1386: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「マクドゥの所属する商会の名前は？」
-<choice :10CE: "ギュンギュスカー商会" \x00\x00>
-<choice :112B: "キュンギュスカー商会" \x00\x00>
-<choice :112B: "ギュンキュスカー商会" \x00\x00>
-<choice :112B: "キュンキュスカー商会" \x00\x00>
+<name "Quiz Maid" "*" "ka34e000.agf">
+"What is the name of the group Macdo belongs
+ to?"
+<choice :10CE: "The Gunguskar Company" \x00\x00>
+<choice :112B: "The Kunguskar Company" \x00\x00>
+<choice :112B: "The Gunkuskar Company" \x00\x00>
+<choice :112B: "The Kunkuskar Company" \x00\x00>
 #
 \x18 :46A6: 
 :1386
 \x1C\x01\x0A\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x33\x00 :144F: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「マクドゥのファミリーネームは？」
-<choice :112B: "リシュルイ" \x00\x00>
-<choice :10CE: "マルクマルタ" \x00\x00>
-<choice :112B: "ルネイ" \x00\x00>
-<choice :112B: "ルタリントン" \x00\x00>
+<name "Quiz Maid" "*" "ka34e000.agf">
+"What is Macdo's surname?"
+<choice :112B: "Rishlui" \x00\x00>
+<choice :10CE: "Markmalta" \x00\x00>
+<choice :112B: "Runei" \x00\x00>
+<choice :112B: "Rutalinton" \x00\x00>
 #
 \x18 :46A6: 
 :144F
 \x1C\x01\x0A\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x34\x00 :1510: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「魔界の大魔王の名前は？」
-<choice :112B: "アレッサンド" \x00\x00>
-<choice :10CE: "アイシエス" \x00\x00>
-<choice :112B: "ガルード" \x00\x00>
-<choice :112B: "リーヴァス" \x00\x00>
+<name "Quiz Maid" "*" "ka34e000.agf">
+"What is the name of the Great Overlord of the
+ Netherworld?"
+<choice :112B: "Alessando" \x00\x00>
+<choice :10CE: "Aishies" \x00\x00>
+<choice :112B: "Garud" \x00\x00>
+<choice :112B: "Rivas" \x00\x00>
 #
 \x18 :46A6: 
 :1510
 \x1C\x01\x0A\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x35\x00 :15D7: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「ダークスの、妻と愛人の分け方は？」
-<choice :10CE: "出産経験" \x00\x00>
-<choice :112B: "Ｈの回数" \x00\x00>
-<choice :112B: "出会い方" \x00\x00>
-<choice :112B: "プレイの良さ" \x00\x00>
+<name "Quiz Maid" "*" "ka34e000.agf">
+"What separates Darx's wives from his
+ mistresses?"
+<choice :10CE: "Childbirth" \x00\x00>
+<choice :112B: "Amount of sex" \x00\x00>
+<choice :112B: "How they met" \x00\x00>
+<choice :112B: "Quality of play" \x00\x00>
 #
 \x18 :46A6: 
 :15D7
 \x1C\x01\x0A\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x36\x00 :16A2: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「マクドゥの商会での立場は？」
-<choice :112B: "本店監督官" \x00\x00>
-<choice :112B: "本店保安部長" \x00\x00>
-<choice :10CE: "本店勤務員" \x00\x00>
-<choice :112B: "本店臨時責任者" \x00\x00>
+<name "Quiz Maid" "*" "ka34e000.agf">
+"What is Macdo's official position?"
+<choice :112B: "Head branch supervisor" \x00\x00>
+<choice :112B: "Head branch security" \x00\x00>
+<choice :10CE: "Head branch worker" \x00\x00>
+<choice :112B: "Head branch deputy" \x00\x00>
 #
 \x18 :46A6: 
 :16A2
 \x1C\x01\x0A\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x37\x00 :174F: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「マクドゥの商会での階級は？」
-<choice :112B: "大将" \x00\x00>
-<choice :112B: "中将" \x00\x00>
-<choice :10CE: "少将" \x00\x00>
-<choice :112B: "大佐" \x00\x00>
+<name "Quiz Maid" "*" "ka34e000.agf">
+"What is Macdo's official rank?"
+<choice :112B: "General" \x00\x00>
+<choice :112B: "Lieutenant general" \x00\x00>
+<choice :10CE: "Major general" \x00\x00>
+<choice :112B: "Colonel" \x00\x00>
 #
 \x18 :46A6: 
 :174F
 \x1C\x01\x0A\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x38\x00 :17FE: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「ラキアさんの商会での階級は？」
-<choice :112B: "大佐" \x00\x00>
-<choice :10CE: "中佐" \x00\x00>
-<choice :112B: "少佐" \x00\x00>
-<choice :112B: "大尉" \x00\x00>
+<name "Quiz Maid" "*" "ka34e000.agf">
+"What is Rakia's official rank?"
+<choice :112B: "Captain" \x00\x00>
+<choice :10CE: "Colonel" \x00\x00>
+<choice :112B: "Major" \x00\x00>
+<choice :112B: "Lieutenant" \x00\x00>
 #
 \x18 :46A6: 
 :17FE
 \x1C\x01\x0A\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x39\x00 :18AF: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「イザナは学園で何をしていた？」
-<choice :112B: "スパイ" \x00\x00>
-<choice :112B: "商売" \x00\x00>
-<choice :10CE: "教師" \x00\x00>
-<choice :112B: "研究" \x00\x00>
+<name "Quiz Maid" "*" "ka34e000.agf">
+"What was Izana doing at the school?"
+<choice :112B: "Spying" \x00\x00>
+<choice :112B: "Trading" \x00\x00>
+<choice :10CE: "Teaching" \x00\x00>
+<choice :112B: "Researching" \x00\x00>
 #
 \x18 :46A6: 
 :18AF
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x30\x00 :1966: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「学園長は誰？」
+<name "Quiz Maid" "*" "ka34e000.agf">
+"Whos is the dean of the school?"
 <choice :10CE: "Forzelotte" \x00\x00>
-<choice :112B: "コゼロット" \x00\x00>
-<choice :112B: "ロギウス" \x00\x00>
+<choice :112B: "Kozelotte" \x00\x00>
+<choice :112B: "Logius" \x00\x00>
 <choice :112B: "Izana" \x00\x00>
 #
 \x18 :46A6: 
 :1966
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x31\x00 :1A1D: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「学園でのロギウスの立場は？」
-<choice :112B: "学園理事" \x00\x00>
-<choice :112B: "学園長" \x00\x00>
-<choice :10CE: "教師長" \x00\x00>
-<choice :112B: "教師" \x00\x00>
+<name "Quiz Maid" "*" "ka34e000.agf">
+"What is Logius's position at the school?"
+<choice :112B: "Director" \x00\x00>
+<choice :112B: "Principal" \x00\x00>
+<choice :10CE: "Head teacher" \x00\x00>
+<choice :112B: "Teacher" \x00\x00>
 #
 \x18 :46A6: 
 :1A1D
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x32\x00 :1ACC: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「プールでのコゼロットの水着の色は？」
-<choice :112B: "青" \x00\x00>
-<choice :112B: "赤" \x00\x00>
-<choice :112B: "白" \x00\x00>
-<choice :10CE: "紺" \x00\x00>
+<name "Quiz Maid" "*" "ka34e000.agf">
+"What color is Kozelotte's swimsuit?"
+<choice :112B: "Green" \x00\x00>
+<choice :112B: "Red" \x00\x00>
+<choice :112B: "White" \x00\x00>
+<choice :10CE: "Navy blue" \x00\x00>
 #
 \x18 :46A6: 
 :1ACC
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x33\x00 :1B6F: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「ロギウスの水着の色は？」
-<choice :112B: "青" \x00\x00>
-<choice :112B: "赤" \x00\x00>
-<choice :112B: "白" \x00\x00>
-<choice :10CE: "黒" \x00\x00>
+<name "Quiz Maid" "*" "ka34e000.agf">
+"What color is Logius's swimsuit?"
+<choice :112B: "Green" \x00\x00>
+<choice :112B: "Red" \x00\x00>
+<choice :112B: "White" \x00\x00>
+<choice :10CE: "Black" \x00\x00>
 #
 \x18 :46A6: 
 :1B6F
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x34\x00 :1C59: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「物語冒頭、ダークスが農作業で持っていた道具は
-　何？（ＣＧで持っていた物です）」
-<choice :112B: "ロープ" \x00\x00>
-<choice :112B: "丸太" \x00\x00>
-<choice :112B: "スコップ" \x00\x00>
-<choice :10CE: "クワ" \x00\x00>
+<name "Quiz Maid" "*" "ka34e000.agf">
+"At the start of the story, what was Darx
+ carrying while doing farm work?"
+<choice :112B: "Rope" \x00\x00>
+<choice :112B: "A log" \x00\x00>
+<choice :112B: "A shovel" \x00\x00>
+<choice :10CE: "A hoe" \x00\x00>
 #
 \x18 :46A6: 
 :1C59
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x35\x00 :1D20: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「メリルがダークスに報告する際の格好は？」
-<choice :112B: "体操服" \x00\x00>
-<choice :112B: "下着姿" \x00\x00>
-<choice :112B: "バニースーツ" \x00\x00>
-<choice :10CE: "全裸" \x00\x00>
+<name "Quiz Maid" "*" "ka34e000.agf">
+"What does Meryl wear while reporting to Darx?"
+<choice :112B: "Gym clothes" \x00\x00>
+<choice :112B: "Underwear" \x00\x00>
+<choice :112B: "A bunny suit" \x00\x00>
+<choice :10CE: "Nothing" \x00\x00>
 #
 \x18 :46A6: 
 :1D20
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x36\x00 :1DD9: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「イシュの種族名は？」
+<name "Quiz Maid" "*" "ka34e000.agf">
+"What race does Ish belong to?" 
+(MATCH TO OBJ)
 <choice :112B: "ガルフ" \x00\x00>
 <choice :112B: "ハイルフ" \x00\x00>
 <choice :112B: "ルーセット" \x00\x00>
@@ -397,8 +403,8 @@
 \x18 :46A6: 
 :1DD9
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x37\x00 :1EA8: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「ラフィノーの種族名は？」
+<name "Quiz Maid" "*" "ka34e000.agf">
+"What race does Raffino belong to?"
 <choice :112B: "ウッドマンズ" \x00\x00>
 <choice :112B: "リーフマンズ" \x00\x00>
 <choice :112B: "ウッドシューター" \x00\x00>
@@ -407,8 +413,8 @@
 \x18 :46A6: 
 :1EA8
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x38\x00 :1F65: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「ナインの種族名は？」
+<name "Quiz Maid" "*" "ka34e000.agf">
+"What race does Nein belong to?"
 <choice :10CE: "ルーセット" \x00\x00>
 <choice :112B: "サマキュー" \x00\x00>
 <choice :112B: "ダレット" \x00\x00>
@@ -417,8 +423,8 @@
 \x18 :46A6: 
 :1F65
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x31\x00\x39\x00 :2032: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「ヒビの種族名は？」
+<name "Quiz Maid" "*" "ka34e000.agf">
+"What race does Hibi belong to?"
 <choice :10CE: "アイスショット" \x00\x00>
 <choice :112B: "アイスロック" \x00\x00>
 <choice :112B: "アイスランナー" \x00\x00>
@@ -427,8 +433,8 @@
 \x18 :46A6: 
 :2032
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x32\x00\x30\x00 :20FB: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「ヤーヌの種族名は？」
+<name "Quiz Maid" "*" "ka34e000.agf">
+"What racedoes Yahnu belong to?"
 <choice :112B: "カシミアタンク" \x00\x00>
 <choice :112B: "ミルクゴート" \x00\x00>
 <choice :112B: "ミルクシープ" \x00\x00>
@@ -437,8 +443,8 @@
 \x18 :46A6: 
 :20FB
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x32\x00\x31\x00 :21A8: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「アオの種族名は？」
+<name "Quiz Maid" "*" "ka34e000.agf">
+"What race does Ao belong to?"
 <choice :112B: "ブロウ" \x00\x00>
 <choice :112B: "ブラン" \x00\x00>
 <choice :10CE: "ブラウ" \x00\x00>
@@ -447,8 +453,8 @@
 \x18 :46A6: 
 :21A8
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x32\x00\x32\x00 :2267: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「タマガの種族名は？」
+<name "Quiz Maid" "*" "ka34e000.agf">
+"What race does Tamaga belong to?"
 <choice :112B: "ティーガー" \x00\x00>
 <choice :10CE: "ティーグレ" \x00\x00>
 <choice :112B: "ティーオン" \x00\x00>
@@ -457,8 +463,8 @@
 \x18 :46A6: 
 :2267
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x32\x00\x33\x00 :2340: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「ロッタの種族名は？」
+<name "Quiz Maid" "*" "ka34e000.agf">
+"What race does Lotta belong to?"
 <choice :112B: "タートルドライバー" \x00\x00>
 <choice :112B: "タートルウェイ" \x00\x00>
 <choice :10CE: "タートルランナー" \x00\x00>
@@ -467,8 +473,8 @@
 \x18 :46A6: 
 :2340
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x32\x00\x34\x00 :2413: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「ファレンの種族名は？」
+<name "Quiz Maid" "*" "ka34e000.agf">
+"What race does Farren belong to?"
 <choice :112B: "ブラックバード" \x00\x00>
 <choice :10CE: "レッドバード" \x00\x00>
 <choice :112B: "ファイアバード" \x00\x00>
@@ -477,8 +483,8 @@
 \x18 :46A6: 
 :2413
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x32\x00\x35\x00 :24DE: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「仲間になってくれるエリアータの種族は？」
+<name "Quiz Maid" "*" "ka34e000.agf">
+"What race does Eliahta belong to?"
 <choice :112B: "冥土さん" \x00\x00>
 <choice :112B: "リフリ" \x00\x00>
 <choice :10CE: "スリーアイ" \x00\x00>
@@ -487,8 +493,8 @@
 \x18 :46A6: 
 :24DE
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x32\x00\x36\x00 :25A7: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「仲間になってくれるサーシャの種族は？」
+<name "Quiz Maid" "*" "ka34e000.agf">
+"What race does Sasha belong to?"
 <choice :112B: "冥土さん" \x00\x00>
 <choice :112B: "リフリ" \x00\x00>
 <choice :112B: "スリーアイ" \x00\x00>
@@ -497,8 +503,8 @@
 \x18 :46A6: 
 :25A7
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x32\x00\x37\x00 :267A: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「仲間になってくれるライエルの種族は？」
+<name "Quiz Maid" "*" "ka34e000.agf">
+"What race does Lyle belong to?"
 <choice :10CE: "暗黒騎士" \x00\x00>
 <choice :112B: "漆黒騎士" \x00\x00>
 <choice :112B: "ダークマン" \x00\x00>
@@ -507,8 +513,8 @@
 \x18 :46A6: 
 :267A
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x32\x00\x38\x00 :2743: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「仲間になってくれるグリーンの種族は？」
+<name "Quiz Maid" "*" "ka34e000.agf">
+"What race does Greene belong to?"
 <choice :112B: "冥土さん" \x00\x00>
 <choice :10CE: "リフリ" \x00\x00>
 <choice :112B: "スリーアイ" \x00\x00>
@@ -517,90 +523,90 @@
 \x18 :46A6: 
 :2743
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x32\x00\x39\x00 :27FE: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「ライスボールのラッサンの特技は？」
-<choice :10CE: "土下座" \x00\x00>
-<choice :112B: "料理" \x00\x00>
-<choice :112B: "パズル" \x00\x00>
-<choice :112B: "ダンス" \x00\x00>
+<name "Quiz Maid" "*" "ka34e000.agf">
+"What is Lassan's special rice ball skill?"
+<choice :10CE: "Prostration" \x00\x00>
+<choice :112B: "Cooking" \x00\x00>
+<choice :112B: "Puzzles" \x00\x00>
+<choice :112B: "Dancing" \x00\x00>
 #
 \x18 :46A6: 
 :27FE
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x33\x00\x30\x00 :28F4: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「ダークスが温泉に入っている時、後ろを通ってい
-　る種族は？（ＣＧの内容です）」
-<choice :10CE: "魔鬼" \x00\x00>
-<choice :112B: "スリーアイ" \x00\x00>
+<name "Quiz Maid" "*" "ka34e000.agf">
+"Who is passing by Darx while he's in the hot
+ springs?"
+<choice :10CE: "An oni" \x00\x00>
+<choice :112B: "A triclops" \x00\x00>
 <choice :112B: "ブラックバード" \x00\x00>
-<choice :112B: "サキュー" \x00\x00>
+<choice :112B: "A succubus" \x00\x00>
 #
 \x18 :46A6: 
 :28F4
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x33\x00\x31\x00 :29D6: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「ダークスが温泉に入っている時、一緒に入ってい
-　るのは誰？」
+<name "Quiz Maid" "*" "ka34e000.agf">
+"Who is with Darx in the hot springs?"
 <choice :112B: "Paniverna" \x00\x00>
 <choice :112B: "Izana" \x00\x00>
 <choice :10CE: "Ultinia" \x00\x00>
-<choice :112B: "メリル" \x00\x00>
+<choice :112B: "Meryl" \x00\x00>
 #
 \x18 :46A6: 
 :29D6
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x33\x00\x32\x00 :2AB7: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「行方不明になったエカテーの発見場所は？」
-<choice :112B: "ダークスの寝室" \x00\x00>
-<choice :10CE: "ダークス宮" \x00\x00>
-<choice :112B: "玉座の椅子の中" \x00\x00>
-<choice :112B: "ダークスのお風呂" \x00\x00>
+<name "Quiz Maid" "*" "ka34e000.agf">
+"Where was the missing Ekate found?"
+<choice :112B: "Darx's bedroom" \x00\x00>
+<choice :10CE: "The Temple of Darx" \x00\x00>
+<choice :112B: "The throne room" \x00\x00>
+<choice :112B: "Darx's bath" \x00\x00>
 #
 \x18 :46A6: 
 :2AB7
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x33\x00\x33\x00 :2B6C: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「ラキアさんのストッキングの色は？」
-<choice :10CE: "黒色" \x00\x00>
-<choice :112B: "白色" \x00\x00>
-<choice :112B: "赤色" \x00\x00>
-<choice :112B: "肌色" \x00\x00>
+<name "Quiz Maid" "*" "ka34e000.agf">
+"What color are Rakia's stockings?"
+<choice :10CE: "Black" \x00\x00>
+<choice :112B: "White" \x00\x00>
+<choice :112B: "Red" \x00\x00>
+<choice :112B: "Skin-tone" \x00\x00>
 #
 \x18 :46A6: 
 :2B6C
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x33\x00\x34\x00 :2C37: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「カジノでのソフィアの役割は？」
-<choice :112B: "フロアマスター" \x00\x00>
-<choice :112B: "コンパニオン" \x00\x00>
-<choice :112B: "監視員" \x00\x00>
-<choice :10CE: "ディーラー" \x00\x00>
+<name "Quiz Maid" "*" "ka34e000.agf">
+"What is Sofia's job in the casino?"
+<choice :112B: "Manager" \x00\x00>
+<choice :112B: "Hostess" \x00\x00>
+<choice :112B: "Security" \x00\x00>
+<choice :10CE: "Dealer" \x00\x00>
 #
 \x18 :46A6: 
 :2C37
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x33\x00\x35\x00 :2CE0: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「ミアルテの翼の数は？」
-<choice :112B: "二枚" \x00\x00>
-<choice :112B: "四枚" \x00\x00>
-<choice :10CE: "六枚" \x00\x00>
-<choice :112B: "八枚" \x00\x00>
+<name "Quiz Maid" "*" "ka34e000.agf">
+"How many wings does Miartei have?"
+<choice :112B: "Two" \x00\x00>
+<choice :112B: "Four" \x00\x00>
+<choice :10CE: "Six" \x00\x00>
+<choice :112B: "Eight" \x00\x00>
 #
 \x18 :46A6: 
 :2CE0
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x33\x00\x36\x00 :2D95: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「ミアルテとルーアルテの関係は？」
-<choice :112B: "親子" \x00\x00>
-<choice :10CE: "姉妹" \x00\x00>
-<choice :112B: "師弟" \x00\x00>
-<choice :112B: "従兄弟" \x00\x00>
+<name "Quiz Maid" "*" "ka34e000.agf">
+"What is the relationship between Miartei and
+ Rualtei?"
+<choice :112B: "Mother and daughter" \x00\x00>
+<choice :10CE: "Sisters" \x00\x00>
+<choice :112B: "Teacher and student" \x00\x00>
+<choice :112B: "Cousins" \x00\x00>
 #
 \x18 :46A6: 
 :2D95
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x33\x00\x37\x00 :2E56: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「ルーアルテの所持していた武器の名は？」
+<name "Quiz Maid" "*" "ka34e000.agf">
+"What is the name of Rualtei's weapon?"
 <choice :10CE: "天雷棒" \x00\x00>
 <choice :112B: "爆雷棒" \x00\x00>
 <choice :112B: "豪雷棒" \x00\x00>
@@ -609,60 +615,61 @@
 \x18 :46A6: 
 :2E56
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x33\x00\x38\x00 :2F1F: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「ルーアルテの服を溶かしたのは？」
-<choice :112B: "野良ナメッド" \x00\x00>
-<choice :112B: "新しい魔法" \x00\x00>
-<choice :112B: "謎の液体" \x00\x00>
-<choice :10CE: "改造ベト" \x00\x00>
+<name "Quiz Maid" "*" "ka34e000.agf">
+"What melted Rualtei's clothes?"
+<choice :112B: "A wild slimer" \x00\x00>
+<choice :112B: "A new spell" \x00\x00>
+<choice :112B: "A mysterious liquid" \x00\x00>
+<choice :10CE: "A modified slime" \x00\x00>
 #
 \x18 :46A6: 
 :2F1F
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x33\x00\x39\x00 :3015: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「マクドゥがフォーゼロッテ宮に潜入した時、メイ
-　ドに変装していたが、その際に持っていた物は？」
-<choice :112B: "書類" \x00\x00>
-<choice :112B: "食事" \x00\x00>
-<choice :10CE: "飲み物" \x00\x00>
-<choice :112B: "洗濯物" \x00\x00>
+<name "Quiz Maid" "*" "ka34e000.agf">
+"What was Macdo carrying when she was disguised
+ as a maid?"
+<choice :112B: "Papers" \x00\x00>
+<choice :112B: "Food" \x00\x00>
+<choice :10CE: "Drinks" \x00\x00>
+<choice :112B: "Laundry" \x00\x00>
 #
 \x18 :46A6: 
 :3015
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x34\x00\x30\x00 :30C6: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「キュリハの持つ武器は？」
-<choice :112B: "鉄棒" \x00\x00>
-<choice :10CE: "扇子" \x00\x00>
-<choice :112B: "フォーク" \x00\x00>
-<choice :112B: "ナイフ" \x00\x00>
+<name "Quiz Maid" "*" "ka34e000.agf">
+"What weapon does Kyuriha use?"
+<choice :112B: "An iron club" \x00\x00>
+<choice :10CE: "A fan" \x00\x00>
+<choice :112B: "A fork" \x00\x00>
+<choice :112B: "Knives" \x00\x00>
 #
 \x18 :46A6: 
 :30C6
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x34\x00\x31\x00 :3179: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「キュリハとのお茶会は？」
-<choice :10CE: "東方式" \x00\x00>
-<choice :112B: "西方式" \x00\x00>
-<choice :112B: "南方式" \x00\x00>
-<choice :112B: "北方式" \x00\x00>
+<name "Quiz Maid" "*" "ka34e000.agf">
+"What style of tea ceremony does Kyuriha
+ enjoy?"
+<choice :10CE: "Eastern" \x00\x00>
+<choice :112B: "Western" \x00\x00>
+<choice :112B: "Southern" \x00\x00>
+<choice :112B: "Northern" \x00\x00>
 #
 \x18 :46A6: 
 :3179
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x34\x00\x32\x00 :326B: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「キュリハ達が子供時代に倒しに行こうとした動物
-　は？」
-<choice :112B: "ダークライン" \x00\x00>
-<choice :112B: "ブラックライン" \x00\x00>
-<choice :112B: "ダークディール" \x00\x00>
-<choice :10CE: "ブラックディール" \x00\x00>
+<name "Quiz Maid" "*" "ka34e000.agf">
+"What was the animal Kyuriha and her friends
+ tried to fight as children?"
+<choice :112B: "Dark Rine" \x00\x00>
+<choice :112B: "Black Rine" \x00\x00>
+<choice :112B: "Dark Diel" \x00\x00>
+<choice :10CE: "Black Diel" \x00\x00>
 #
 \x18 :46A6: 
 :326B
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x34\x00\x33\x00 :3324: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「帽子をかぶっているのは誰？」
+<name "Quiz Maid" "*" "ka34e000.agf">
+"Who wears a hat?"
 <choice :112B: "Raffino" \x00\x00>
 <choice :112B: "Nein" \x00\x00>
 <choice :10CE: "Hibi" \x00\x00>
@@ -671,88 +678,89 @@
 \x18 :46A6: 
 :3324
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x34\x00\x34\x00 :33D1: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「戦士フレーを呪っていたのは？」
-<choice :10CE: "剣" \x00\x00>
-<choice :112B: "鎧" \x00\x00>
-<choice :112B: "盾" \x00\x00>
-<choice :112B: "首飾り" \x00\x00>
+<name "Quiz Maid" "*" "ka34e000.agf">
+"What was cursing Frei?"
+<choice :10CE: "Sword" \x00\x00>
+<choice :112B: "Armor" \x00\x00>
+<choice :112B: "Shield" \x00\x00>
+<choice :112B: "Necklace" \x00\x00>
 #
 \x18 :46A6: 
 :33D1
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x34\x00\x35\x00 :34AA: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「僧侶エイリスの拘束体位は？」
-<choice :10CE: "椅子に座って開脚" \x00\x00>
-<choice :112B: "天井に吊られる" \x00\x00>
-<choice :112B: "壁に下半身を埋められる" \x00\x00>
-<choice :112B: "逆立ち" \x00\x00>
+<name "Quiz Maid" "*" "ka34e000.agf">
+"How was Aerys bound?"
+<choice :10CE: "In a chair" \x00\x00>
+<choice :112B: "From the ceiling" \x00\x00>
+<choice :112B: "Stuck in a wall" \x00\x00>
+<choice :112B: "Upside down" \x00\x00>
 #
 \x18 :46A6: 
 :34AA
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x34\x00\x36\x00 :3583: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「魔法使いミレの服を脱がせたアイテムは？」
-<choice :112B: "ゼンラー" \x00\x00>
-<choice :112B: "ヌガシッター" \x00\x00>
-<choice :112B: "スッパッパー" \x00\x00>
-<choice :10CE: "ダーンドッパー" \x00\x00>
+<name "Quiz Maid" "*" "ka34e000.agf">
+"What removed Mirei's clothing?"
+<choice :112B: "Zenler" \x00\x00>
+<choice :112B: "Nudester" \x00\x00>
+<choice :112B: "Splapper" \x00\x00>
+<choice :10CE: "Darn Dopper" \x00\x00>
 #
 \x18 :46A6: 
 :3583
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x34\x00\x37\x00 :3632: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「侍ツララの外的特徴は？」
-<choice :112B: "バンダナ" \x00\x00>
-<choice :112B: "頬傷" \x00\x00>
-<choice :10CE: "眼帯" \x00\x00>
-<choice :112B: "包帯" \x00\x00>
+<name "Quiz Maid" "*" "ka34e000.agf">
+"What is on Tsurara's face?"
+<choice :112B: "Bandana" \x00\x00>
+<choice :112B: "Scar" \x00\x00>
+<choice :10CE: "Eyepatch" \x00\x00>
+<choice :112B: "Bandage" \x00\x00>
 #
 \x18 :46A6: 
 :3632
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x34\x00\x38\x00 :36DF: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「ヤーヌの首飾りの特徴は？」
-<choice :112B: "棘" \x00\x00>
-<choice :10CE: "ベル" \x00\x00>
-<choice :112B: "宝石" \x00\x00>
-<choice :112B: "リボン" \x00\x00>
+<name "Quiz Maid" "*" "ka34e000.agf">
+"What is decorating Yahnu's necklace?"
+<choice :112B: "Thorns" \x00\x00>
+<choice :10CE: "Bell" \x00\x00>
+<choice :112B: "Jewel" \x00\x00>
+<choice :112B: "Ribbon" \x00\x00>
 #
 \x18 :46A6: 
 :36DF
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x34\x00\x39\x00 :379A: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「ナインのパンツの色は？」
-<choice :112B: "白" \x00\x00>
-<choice :112B: "ピンク" \x00\x00>
-<choice :10CE: "ピンクと白のボーダー" \x00\x00>
-<choice :112B: "クマ" \x00\x00>
+<name "Quiz Maid" "*" "ka34e000.agf">
+"What color are Nein's panties?"
+<choice :112B: "White" \x00\x00>
+<choice :112B: "Pink" \x00\x00>
+<choice :10CE: "Pink and white" \x00\x00>
+<choice :112B: "Bear" \x00\x00>
 #
 \x18 :46A6: 
 :379A
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x35\x00\x30\x00 :383F: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「ラフィノーの武器は？」
-<choice :112B: "細い剣" \x00\x00>
-<choice :112B: "槍" \x00\x00>
-<choice :112B: "杖" \x00\x00>
-<choice :10CE: "弓" \x00\x00>
+<name "Quiz Maid" "*" "ka34e000.agf">
+"What weapon does Raffino use?"
+<choice :112B: "Rapier" \x00\x00>
+<choice :112B: "Spear" \x00\x00>
+<choice :112B: "Staff" \x00\x00>
+<choice :10CE: "Bow" \x00\x00>
 #
 \x18 :46A6: 
 :383F
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x35\x00\x31\x00 :390A: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「魔王亭のある木の名前は？」
-<choice :112B: "ライリット" \x00\x00>
-<choice :112B: "リーフウッド" \x00\x00>
-<choice :10CE: "リジュリーン" \x00\x00>
-<choice :112B: "ハウスウッド" \x00\x00>
+<name "Quiz Maid" "*" "ka34e000.agf">
+"What kind of tree is the Overlord's Retreat
+ built into?"
+<choice :112B: "Rylit" \x00\x00>
+<choice :112B: "Leafwood" \x00\x00>
+<choice :10CE: "Rijiulain" \x00\x00>
+<choice :112B: "Housewood" \x00\x00>
 #
 \x18 :46A6: 
 :390A
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x35\x00\x32\x00 :39C3: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「魔王亭と名付けのは誰？」
+<name "Quiz Maid" "*" "ka34e000.agf">
+"Who gave the Overlord's Retreat its name?"
 <choice :112B: "Darx" \x00\x00>
 <choice :10CE: "Sofia" \x00\x00>
 <choice :112B: "Rakia" \x00\x00>
@@ -761,49 +769,51 @@
 \x18 :46A6: 
 :39C3
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x35\x00\x33\x00 :3A7E: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「マクドゥの武器は？」
-<choice :10CE: "魔法で作った剣" \x00\x00>
-<choice :112B: "魔法生物" \x00\x00>
-<choice :112B: "魔法の杖" \x00\x00>
-<choice :112B: "魔法光" \x00\x00>
+<name "Quiz Maid" "*" "ka34e000.agf">
+"What weapon does Macdo use?"
+<choice :10CE: "Magic sword" \x00\x00>
+<choice :112B: "Magic creatures" \x00\x00>
+<choice :112B: "Magic wand" \x00\x00>
+<choice :112B: "Magic light" \x00\x00>
 #
 \x18 :46A6: 
 :3A7E
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x35\x00\x34\x00 :3B49: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「スイセンの傍に居る蛇の名前は？」
-<choice :112B: "ヘーちゃん" \x00\x00>
-<choice :112B: "ピーちゃん" \x00\x00>
-<choice :112B: "ミーちゃん" \x00\x00>
-<choice :10CE: "スーちゃん" \x00\x00>
+<name "Quiz Maid" "*" "ka34e000.agf">
+"What is the name of Suisen's most beloved
+ snake?"
+<choice :112B: "Hee" \x00\x00>
+<choice :112B: "Pii" \x00\x00>
+<choice :112B: "Mii" \x00\x00>
+<choice :10CE: "Sue" \x00\x00>
 #
 \x18 :46A6: 
 :3B49
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x35\x00\x35\x00 :3C30: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「ミアルテのお茶会で、テーブルの上に無い物は？」
-<choice :112B: "ティーカップ" \x00\x00>
-<choice :112B: "ティーポット" \x00\x00>
-<choice :10CE: "ティースプーン" \x00\x00>
-<choice :112B: "ミルクピッチャー" \x00\x00>
+<name "Quiz Maid" "*" "ka34e000.agf">
+"What is not on the table during Miartei's tea
+ party?"
+<choice :112B: "Tea cup" \x00\x00>
+<choice :112B: "Teapot" \x00\x00>
+<choice :10CE: "Teaspoon" \x00\x00>
+<choice :112B: "Milk pitcher" \x00\x00>
 #
 \x18 :46A6: 
 :3C30
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x35\x00\x36\x00 :3CD7: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「スイセンの下着の色は？」
-<choice :112B: "赤" \x00\x00>
-<choice :10CE: "黒" \x00\x00>
-<choice :112B: "白" \x00\x00>
-<choice :112B: "縞模様" \x00\x00>
+<name "Quiz Maid" "*" "ka34e000.agf">
+"What color are Suisen's panties?"
+<choice :112B: "Red" \x00\x00>
+<choice :10CE: "Black" \x00\x00>
+<choice :112B: "White" \x00\x00>
+<choice :112B: "Striped" \x00\x00>
 #
 \x18 :46A6: 
 :3CD7
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x35\x00\x37\x00 :3DDF: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「祭の際、パニバーナの左右に居た種族は？
-（ＣＧで居た種族の事です）」
+<name "Quiz Maid" "*" "ka34e000.agf">
+"Who was on stage with Paniverna during the
+ festival?"
 <choice :10CE: "スリーアイとウブズ" \x00\x00>
 <choice :112B: "サキューとステップ" \x00\x00>
 <choice :112B: "魔鬼とハイルフ" \x00\x00>
@@ -812,8 +822,8 @@
 \x18 :46A6: 
 :3DDF
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x35\x00\x38\x00 :3E98: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「今回、遠征で行けない場所は？」
+<name "Quiz Maid" "*" "ka34e000.agf">
+"Where can you not go in this game?"
 <choice :112B: "鳳蜘蛛" \x00\x00>
 <choice :112B: "炎山洞" \x00\x00>
 <choice :112B: "千樹庭" \x00\x00>
@@ -822,61 +832,64 @@
 \x18 :46A6: 
 :3E98
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x35\x00\x39\x00 :3F63: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「魔王の森に落下した、天界の施設の名は？」
-<choice :112B: "天界球" \x00\x00>
-<choice :112B: "天界の門" \x00\x00>
-<choice :10CE: "天蓋の城" \x00\x00>
-<choice :112B: "天使の楽園" \x00\x00>
+<name "Quiz Maid" "*" "ka34e000.agf">
+"What is the name of the first castle that fell
+ in the Overlord's Forest?"
+<choice :112B: "The Celestial Sphere" \x00\x00>
+<choice :112B: "The Angel Gate" \x00\x00>
+<choice :10CE: "Castle Baldaquin" \x00\x00>
+<choice :112B: "The Angel's Paradise" \x00\x00>
 #
 \x18 :46A6: 
 :3F63
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x36\x00\x30\x00 :402E: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「フォーゼロッテ宮で迷宮長じゃないのは？」
-<choice :112B: "ロギウス" \x00\x00>
-<choice :10CE: "メリル" \x00\x00>
-<choice :112B: "トージョ" \x00\x00>
+<name "Quiz Maid" "*" "ka34e000.agf">
+"Who is not a dungeon master of Forzelotte's
+ Shrine?"
+<choice :112B: "Logius" \x00\x00>
+<choice :10CE: "Meryl" \x00\x00>
+<choice :112B: "Tojo" \x00\x00>
 <choice :112B: "Paniverna" \x00\x00>
 #
 \x18 :46A6: 
 :402E
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x36\x00\x31\x00 :40E7: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「魔王亭は、魔王の森のどの辺りにある？」
-<choice :112B: "東側" \x00\x00>
-<choice :112B: "西側" \x00\x00>
-<choice :10CE: "南側" \x00\x00>
-<choice :112B: "北側" \x00\x00>
+<name "Quiz Maid" "*" "ka34e000.agf">
+"Where is the Overlord's Retreat within the
+ Overlord's Forest?"
+<choice :112B: "East" \x00\x00>
+<choice :112B: "West" \x00\x00>
+<choice :10CE: "South" \x00\x00>
+<choice :112B: "North" \x00\x00>
 #
 \x18 :46A6: 
 :40E7
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x36\x00\x32\x00 :4209: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「難問！
-　あまりの事前人気にスタッフが焦り、急遽ＣＧが
-　追加されたキャラは誰？
-　ヒント！　天界からの転向組！」
-<choice :10CE: "マリーアリス" \x00\x00>
-<choice :112B: "メリル" \x00\x00>
-<choice :112B: "コゼロット" \x00\x00>
+<name "Quiz Maid" "*" "ka34e000.agf">
+"Challenge time!
+ Which character was so popular that staff
+ made sure to do their CG first?
+ Hint: they're heavenly!"
+<choice :10CE: "Marialis" \x00\x00>
+<choice :112B: "Meryl" \x00\x00>
+<choice :112B: "Kozelotte" \x00\x00>
 <choice :112B: "Forzelotte" \x00\x00>
 #
 \x18 :46A6: 
 :4209
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x36\x00\x33\x00 :42D1: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「サービス問題！
-　ラフィノーは……」
-<choice :10CE: "可愛い" \x00\x00>
-<choice :10CE: "美人" \x00\x00>
-<choice :10CE: "綺麗" \x00\x00>
-<choice :10CE: "クールビューティー" \x00\x00>
+<name "Quiz Maid" "*" "ka34e000.agf">
+"Freebie!
+ Raffino is...
+<choice :10CE: "Cute" \x00\x00>
+<choice :10CE: "Pretty" \x00\x00>
+<choice :10CE: "Beautiful" \x00\x00>
+<choice :10CE: "Femme Fatale" \x00\x00>
 #
 \x18 :46A6: 
 :42D1
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x36\x00\x34\x00 :435E: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
+<name "Quiz Maid" "*" "ka34e000.agf">
 「」
 <choice :112B: "■" \x00\x00>
 <choice :112B: "■" \x00\x00>
@@ -886,7 +899,7 @@
 \x18 :46A6: 
 :435E
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x36\x00\x35\x00 :43EB: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
+<name "Quiz Maid" "*" "ka34e000.agf">
 「」
 <choice :112B: "■" \x00\x00>
 <choice :112B: "■" \x00\x00>
@@ -896,7 +909,7 @@
 \x18 :46A6: 
 :43EB
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x36\x00\x36\x00 :4478: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
+<name "Quiz Maid" "*" "ka34e000.agf">
 「」
 <choice :112B: "■" \x00\x00>
 <choice :112B: "■" \x00\x00>
@@ -906,7 +919,7 @@
 \x18 :46A6: 
 :4478
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x36\x00\x37\x00 :4505: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
+<name "Quiz Maid" "*" "ka34e000.agf">
 「」
 <choice :112B: "■" \x00\x00>
 <choice :112B: "■" \x00\x00>
@@ -916,7 +929,7 @@
 \x18 :46A6: 
 :4505
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x36\x00\x38\x00 :4592: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
+<name "Quiz Maid" "*" "ka34e000.agf">
 「」
 <choice :112B: "■" \x00\x00>
 <choice :10CE: "●" \x00\x00>
@@ -926,7 +939,7 @@
 \x18 :46A6: 
 :4592
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x36\x00\x39\x00 :461F: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
+<name "Quiz Maid" "*" "ka34e000.agf">
 「」
 <choice :112B: "■" \x00\x00>
 <choice :10CE: "●" \x00\x00>
@@ -936,7 +949,7 @@
 \x18 :46A6: 
 :461F
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x37\x00\x30\x00 :46A6: 
-<name "クイズ担当メイド" "*" "ka34e000.agf">
+<name "Quiz Maid" "*" "ka34e000.agf">
 「」
 <choice :10CE: "●" \x00\x00>
 <choice :112B: "■" \x00\x00>
@@ -948,105 +961,111 @@
 :46AC
 <music 6>
 <background "bg008a0.agf" 10>
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「全問正解、おめでとうございます！」
+<name "Quiz Maid" "*" "ka34e000.agf">
+"Congratulations on answering everything
+ correctly!"
 #
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「それなりに難しい問題を揃えたつもりだったので
-　すが、お見事です」
+<name "Quiz Maid" "*" "ka34e000.agf">
+"I thought I had prepared a pretty difficult
+ set of questions, but you did wonderfully."
 #
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「改めて、おめでとうございます」
+<name "Quiz Maid" "*" "ka34e000.agf">
+"So again, congratulations."
 #
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「しかし、これに慢心してはいけません。
-　第二、第三のクイズが貴方を待ち構えている事で
-　しょう」（待ち構えていません）
+<name "Quiz Maid" "*" "ka34e000.agf">
+"But don't get cocky.
+ There's a second and third quiz waiting for
+ you!"
+(There isn't.)
 #
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「さあ、行くのです！
-　振り返らずに！」
+<name "Quiz Maid" "*" "ka34e000.agf">
+"Okay, here we go!
+ No turning back now!"
 #
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「……」
+<name "Quiz Maid" "*" "ka34e000.agf">
+"..."
 #
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「行かないのですか？」
+<name "Quiz Maid" "*" "ka34e000.agf">
+"You're not going?"
 #
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「そうですか。
-　行きませんか……」
+<name "Quiz Maid" "*" "ka34e000.agf">
+"I see.
+ So you're not..."
 #
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「行くのです！」
+<name "Quiz Maid" "*" "ka34e000.agf">
+"Here goes!"
 #
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「……」
+<name "Quiz Maid" "*" "ka34e000.agf">
+"..."
 #
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「ノリが悪いとか言われません？
-　……言われませんか、そうですか」
+<name "Quiz Maid" "*" "ka34e000.agf">
+"Not getting you in the mood?
+ ...You're not saying.
+ I see."
 #
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「世の中、“付き合い”という言葉があるのですが、
-　貴方はまだそれを知らないようですね。
-　残念です」
+<name "Quiz Maid" "*" "ka34e000.agf">
+"People say there's a thing called playing
+ along, but I guess you don't know about it
+ yet.
+ That's too bad."
 #
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「ですが、落胆する必要はありません！」
+<name "Quiz Maid" "*" "ka34e000.agf">
+"But don't let it get you down!"
 #
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「貴方はこれからの旅でそれを得るのだから！」
+<name "Quiz Maid" "*" "ka34e000.agf">
+"You'll figure it out some time down the
+ road!"
 #
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「さあ、無限の荒野を全力で駆け抜けるのです！」
+<name "Quiz Maid" "*" "ka34e000.agf">
+"Go! Race through the endless wilderness with
+ all your might!"
 #
-<name "クイズ担当メイド" "*" "ka34e000.agf">
-「……」
+<name "Quiz Maid" "*" "ka34e000.agf">
+"..."
 #
-<name "クイズ担当メイド" "*" "ka34e000.agf">
+<name "Quiz Maid" "*" "ka34e000.agf">
 「手強いですね」
 #
-<name "クイズ担当メイド" "*" "ka34e000.agf">
+<name "Quiz Maid" "*" "ka34e000.agf">
 「ええ、そうです」
 #
-<name "クイズ担当メイド" "*" "ka34e000.agf">
+<name "Quiz Maid" "*" "ka34e000.agf">
 「貴方の目論見通り、私は貴方をここから追い出そ
 　うとしていました」
 #
-<name "クイズ担当メイド" "*" "ka34e000.agf">
+<name "Quiz Maid" "*" "ka34e000.agf">
 「だって、ここにはもう何も無いから」
 #
-<name "クイズ担当メイド" "*" "ka34e000.agf">
+<name "Quiz Maid" "*" "ka34e000.agf">
 「ゲームの攻略ヒントも、特典も、何も無いから」
 #
-<name "クイズ担当メイド" "*" "ka34e000.agf">
+<name "Quiz Maid" "*" "ka34e000.agf">
 「何か用意できるかなぁって思っていたけど、何も
 　渡せる物がなかったから」
 #
-<name "クイズ担当メイド" "*" "ka34e000.agf">
+<name "Quiz Maid" "*" "ka34e000.agf">
 「ごめんなさい……
 　でも、忘れないで」
 #
-<name "クイズ担当メイド" "*" "ka34e000.agf">
+<name "Quiz Maid" "*" "ka34e000.agf">
 「ここに私が居た事、そして貴方が居た事を」
 #
-<name "クイズ担当メイド" "*" "ka34e000.agf">
+<name "Quiz Maid" "*" "ka34e000.agf">
 「……」
 #
-<name "クイズ担当メイド" "*" "ka34e000.agf">
+<name "Quiz Maid" "*" "ka34e000.agf">
 「それっぽい事を言ったのですが、駄目ですか？」
 #
-<name "クイズ担当メイド" "*" "ka34e000.agf">
+<name "Quiz Maid" "*" "ka34e000.agf">
 「駄目ですか」
 #
-<name "クイズ担当メイド" "*" "ka34e000.agf">
+<name "Quiz Maid" "*" "ka34e000.agf">
 「……」
 #
-<name "クイズ担当メイド" "*" "ka34e000.agf">
+<name "Quiz Maid" "*" "ka34e000.agf">
 「参りました」
 #
-<name "クイズ担当メイド" "*" "ka34e000.agf">
+<name "Quiz Maid" "*" "ka34e000.agf">
 「お帰りください」
 #
 <exit>

@@ -2419,7 +2419,7 @@ I fucked her into silence.
 #
 <sprite "ta04a011.agf" 4 4 12>
 <name "Rualtei" "!RA0158">
-"My weapon, the Thunder Rod...
+"My weapon, the Fulmination Rod...
  They gave it back easier than I thought they
  would."
 #

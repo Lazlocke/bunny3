@@ -4285,7 +4285,7 @@ The battle's over.
 #
 <name "Macdo" "!ZA5010">
 "That Celestial weapon used by Rualtei that 
- they call the Thunder Rod.
+ they call the Fulmination Rod.
  If we remove the seal on it, it could work."
 #
 \xAD\x22\x00\x02 0  "味方ルーアルテ"  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x32\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :1499F: 
@@ -4357,7 +4357,7 @@ The battle's over.
 <name "Darx">
 "Got it!"
 #
-I take the Thunder Rod... the Dynast's Mace
+I take the Fulmination Rod... the Dynast's Mace
 from her.
 #
 <name "Rualtei" "!RA5009">

@@ -135,7 +135,7 @@ Rakia has said she's about a colonel.
 #
 <sprite "ta01a004.agf" 4 4 11>
 <name "Sofia" "!ZB0563">
-"General."
+"Major general."
 #
 <name "Darx">
 "........So she's a pretty big deal."

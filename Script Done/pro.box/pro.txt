@@ -1669,8 +1669,8 @@ I think about what Rakia told me before this.
 #
 <sprite "ta08a021.agf" 4 4 11>
 <name "Rakia" "!ZC0054">
-"Someone who works at Gunguskar headquarters
- is far above any branch manager.
+"A Gunguskar headquarters branch worker is far
+ above any branch manager.
  Please don't upset her, though it may be too
  late for that."
 #

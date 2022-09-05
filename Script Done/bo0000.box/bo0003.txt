@@ -4152,7 +4152,7 @@ That seems to be true.
 #
 <sprite "ta05a006.agf" 2 4 12>
 <name "Kyuriha" "!FA0137">
-"That weapon is called the Thunder Rod.
+"That weapon is called the Fulmination Rod.
  It will only show its true power once
  activated."
 #
@@ -4209,7 +4209,7 @@ That seems to be true.
 <sprite "ta05a003.agf" 2 4 12>
 <name "Kyuriha" "!FA0144">
 "I believe Darx already intends to return the
- Thunder Rod to you, but I will ask him the
+ Fulmination Rod to you, but I will ask him the
  next time we speak."
 #
 <sprite "ta04a012.agf" 6 5 12>
@@ -4319,7 +4319,7 @@ That seems to be true.
 <sprite "ta05a005.agf" 2 4 12>
 <name "Kyuriha" "!FA0165">
 "Did you not understand even that when you
- swung the Thunder Rod?"
+ swung the Fulmination Rod?"
 #
 <name "Rualtei" "!RA0125">
 "........."
