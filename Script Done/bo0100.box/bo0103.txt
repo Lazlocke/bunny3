@@ -126,7 +126,7 @@ Forzelotte's Shrine.
 "Besides, students have their own jobs to do.
  Disaster prevention.
  If something catches fire, be ready to 
- immmediately extinguish it."
+ immediately extinguish it."
 #
 <name "Logius" "!PA0046">
 "That's also a very important job."
@@ -300,7 +300,7 @@ and tried to pull in Forzelotte.
 "Yeah."
 #
 <removesprite -1 11>
-It has incredible regerative powers, but 
+It has incredible regenerative powers, but 
 there's got to be a way to beat it...
 Ugh, no point thinking about it.
 We just need to cut it down.

@@ -1138,8 +1138,8 @@ She can't be here.
 #
 <sprite "ta06a019.agf" 4 4 12>
 <name "Suisen" "!YA0159">
-"It was quite fun to stirring up all you
- demons with them."
+"It was quite fun stirring up all you demons
+ with them."
 #
 <name "Darx">
 "I see."
@@ -1333,7 +1333,7 @@ A massive swarm of snakes bare their fangs.
 <removesprite -1 11>
 <music 9>
 <background "ev075c00.agf" 10>
-I can my other body behind him.
+I can see my other body behind him.
 #
 And in the middle of it is Forzelotte.
 #
@@ -1345,7 +1345,7 @@ And in the middle of it is Forzelotte.
  tell it that it had done well..."
 #
 <name "Wadatsumi" "!MA0040">
-"But not a human."
+"But it's not a human."
 #
 <name "Wadatsumi" "!MA0041">
 "A human having this much mana is something

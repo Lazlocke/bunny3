@@ -1477,7 +1477,7 @@ I'm sure she's got everything well in hand.
 :9034
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
 <name "Darx">
-"The ones who got away is up ahead?"
+"The ones who got away are up ahead?"
 #
 <name "Company Maid" "!PC0072" "ka34c000.agf">
 "Yes. There are reports of enemy angels

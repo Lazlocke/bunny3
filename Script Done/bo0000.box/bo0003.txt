@@ -6418,7 +6418,7 @@ fight.
 #
 <name "Darx">
 "The situation has changed.
- My evulation as Overlord will have to wait."
+ My evaluation as Overlord will have to wait."
 #
 <sprite "ta02a028.agf" 4 4 12>
 <name "Macdo" "!ZA0311">
