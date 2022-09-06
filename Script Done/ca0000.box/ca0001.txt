@@ -3383,13 +3383,13 @@ laboratories.
 "This is my laboratory, where I develop new
  tools."
 #
-<name "City Watchman" "!WB0155">
+<name "Guard" "!WB0155">
 "So why'd you call us?"
 #
 <name "Researcher" "!ZD0091">
 "I want you to test a prototype."
 #
-<name "City Watchman" "!WB0156">
+<name "Guard" "!WB0156">
 "Oh, really?
  That's what it is?
  I don't mind as long as it's not dangerous."
@@ -3397,19 +3397,19 @@ laboratories.
 <name "Researcher" "!ZD0092">
 "..."
 #
-<name "City Watchman" "!WB0157">
+<name "Guard" "!WB0157">
 "I don't mind as long as it's not dangerous."
 #
 <name "Researcher" "!ZD0093">
 "..."
 #
-<name "City Watchman" "!WB0158">
+<name "Guard" "!WB0158">
 "Um, are you going to say something?"
 #
 <name "Researcher" "!ZD0094">
 "I can't lie."
 #
-<name "City Watchman" "!WB0159">
+<name "Guard" "!WB0159">
 "I'll be leaving."
 #
 <name "Researcher" "!ZD0095">
@@ -5334,13 +5334,13 @@ The pool is popular.
 \x2B\xF5 "プール"  1 
 <music 8>
 <background "ev047a00.agf" 10>
-<name "City Watchman" "!WB0200">
+<name "Guard" "!WB0200">
 "We're meeting at the pool, which means..."
 #
 <name "Marialis" "!LA0114">
 "Training."
 #
-<name "City Watchman" "!WB0201">
+<name "Guard" "!WB0201">
 "Knew it."
 #
 <name "Marialis" "!LA0115">
@@ -5348,7 +5348,7 @@ The pool is popular.
  somewhere like this, so it's half just
  having some fun."
 #
-<name "City Watchman" "!WB0202">
+<name "Guard" "!WB0202">
 "Ooh.
  How suspiciously understanding of us."
 #
@@ -5356,7 +5356,7 @@ The pool is popular.
 "However, careless in water can lead to death.
  Do your best to stay on guard."
 #
-<name "City Watchman" "!WB0203">
+<name "Guard" "!WB0203">
 "Ma'am!"
 #
 <name "Marialis" "!LA0117">
@@ -5364,13 +5364,13 @@ The pool is popular.
  First, diving practice.
  Put on the weights and get in the water."
 #
-<name "City Watchman" "!WB0204">
+<name "Guard" "!WB0204">
 "...Um, Captain Marialis?"
 #
 <name "Marialis" "!LA0118">
 "What is it?"
 #
-<name "City Watchman" "!WB0205">
+<name "Guard" "!WB0205">
 "These weights are really heavy."
 #
 <name "Marialis" "!LA0119">
