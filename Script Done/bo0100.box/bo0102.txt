@@ -555,7 +555,7 @@ It does look a little dumb, I'll admit.
 "And you're saying it's because of Kyuriha?"
 #
 <name "Darx">
-"You had plenty of changes to save her.
+"You had plenty of chances to save her.
  You could have done all kinds of things while
  I was fighting her."
 #
@@ -1245,7 +1245,7 @@ within it disappears as well.
 "How are things going elsewhere?"
 #
 <name "Veteran Soldier" "!BC0018">
-"Panivana and Ekate are fighting hard, but it's
+"Paniverna and Ekate are fighting hard, but it's
  not going well."
 #
 <name "Veteran Soldier" "!BC0019">
