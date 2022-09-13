@@ -1,60 +1,64 @@
 ﻿<music 3>
 <background "bg010a0.agf" 10>
-<name "ダークス">
-「東方では、窮地を死装束で切り抜けた武将が居る
-　らしいが……」
+<name "Darx">
+"In the east, I hear there was a warlord who
+ escaped his predicament by offering to die."
 #
-<name "ダークス">
-「なぜ、これで切り抜けられたか理解できない」
+<name "Darx">
+"I don't understand how that got him out of
+ it."
 #
 <sprite "ta01a001.agf" 4 4 11>
-<name "ソフィア" "!ZB1033">
-「死ぬ覚悟をもって謝ったからじゃないですか？」
+<name "Sofia" "!ZB1033">
+"Is it because he apologized and offered his
+ life?"
 #
-<name "ダークス">
-「すみませんでした。
-　この命、預けますんで好きにしてください。
-　って謝ったんだろ？
-　俺なら、殺すなー」
+<name "Darx">
+"I am sorry.
+ Do whatever you want with my life.
+ Like that?
+ I would've killed him."
 #
 <sprite "ta01a005.agf" 4 4 12>
-<name "ソフィア" "!ZB1034">
-「あはは。
-　魔王様ならそうかもしれませんが……」
+<name "Sofia" "!ZB1034">
+"Hahaha.
+ That does seem like you."
 #
 <sprite "ta01a004.agf" 4 4 12>
-<name "ソフィア" "!ZB1035">
-「これは相手とタイミングを見てやらないと、本当
-　は殺すほどじゃなかったのに、そこまでされたら
-　殺すしかないね。
-　という感じになってしまいますからね」
+<name "Sofia" "!ZB1035">
+"You have to observe the other person and get
+ the timing just right. When they can't really
+ kill you, but before they have to.
+ Something like that."
 #
-<name "ダークス">
-「なるほど」
+<name "Darx">
+"I see."
 #
-<name "ダークス">
-「しかし、東方は責任を感じたらザクザク腹を切る
-　な。
-　東方の連中、腹に痛覚が無いのか？」
+<name "Darx">
+"Still, when someone in the east wants to take
+ responsibility, don't they cut their stomach?
+ Do easterners really feel no pain in their
+ stomachs?"
 #
 <sprite "ta01a005.agf" 4 4 12>
-<name "ソフィア" "!ZB1036">
-「いや、ありますよ。
-　痛いし苦しいに決まってます。
-　だからこその、切腹なんです」
+<name "Sofia" "!ZB1036">
+"No, they do.
+ It's quite painful, obviously.
+ That's why it's called suicide."
 #
-<name "ダークス">
-「そうかー」
+<name "Darx">
+"I see."
 #
 <removesprite -1 11>
 <sprite "ta06a015.agf" 4 4 11>
-<name "スイセン" "!YA0319">
-「あの、何を期待しているのか知りませんが、腹は
-　切りませんし、死装束も着ませんよ」
+<name "Suisen" "!YA0319">
+"Um, I don't know what you're expecting, but
+ I'm not cutting my stomach, and I'm not
+ preparing to die."
 #
 <sprite "ta06a016.agf" 4 4 12>
-<name "スイセン" "!YA0320">
-「いや、確かに全部、私が悪いんですけどね」
+<name "Suisen" "!YA0320">
+"I mean, everything was all my fault though."
 #
 <removesprite -1 11>
 \x2B\x78\x78

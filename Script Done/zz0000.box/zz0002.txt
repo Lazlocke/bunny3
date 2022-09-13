@@ -1,26 +1,28 @@
 ﻿<music 4>
 <background "bg009a0.agf" 10>
 <sprite "ta01a034.agf" 4 4 11>
-<name "ソフィア" "!ZB1022">
-「正社員、正社員♪」
+<name "Sofia" "!ZB1022">
+"Full time.♪ Full time.♪"
 #
 <sprite "ta01a028.agf" 4 4 12>
-<name "ソフィア" "!ZB1023">
-「アルバイト時代の仲間達が妙に余所余所しい」
+<name "Sofia" "!ZB1023">
+"My comrades from the part time era feel so
+ weirdly far away now."
 #
 <sprite "ta01a029.agf" 4 4 12>
-<name "ソフィア" "!ZB1024">
-「どんなコネを使って特進したんだと、やっかまれ
-　ている」
+<name "Sofia" "!ZB1024">
+"I bet they're jealous, saying I must've 
+ pulled some kind of trick to get this special
+ promotion."
 #
 <sprite "ta01a028.agf" 4 4 12>
-<name "ソフィア" "!ZB1025">
-「うう」
+<name "Sofia" "!ZB1025">
+"Oohh..."
 #
 <removesprite -1 11>
 <sprite "ta02a016.agf" 4 4 11>
-<name "マクドゥ" "!ZA0493">
-「正直、巻き込んで申し訳無い」
+<name "Macdo" "!ZA0493">
+"Honestly, I'm sorry you got involved at all."
 #
 <removesprite -1 11>
 \x2B\x78\x78

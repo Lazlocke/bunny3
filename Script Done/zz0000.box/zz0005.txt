@@ -1,81 +1,83 @@
 ﻿<music 40>
 <background "bg004a0.agf" 10>
-<name "ゴラン" "!CA0062" "ka32a000.agf">
-「わはははは。
-　飲んでるかー」
+<name "Golan" "!CA0062" "ka32a000.agf">
+"Hahahahaha!
+ You drinking?"
 #
-<name "トージョ" "!KA0102" "ka33a000.agf">
-「当然。
-　こんな機会でもなきゃ、なかなか飲めないからな」
+<name "Tojo" "!KA0102" "ka33a000.agf">
+"Of course.
+ This is one of the rare chances I get to have
+ a drink."
 #
-<name "メリル" "!HA0089" "ka12a000.agf">
-「すみませーん。
-　そこのお料理、取ってくださーい」
+<name "Meryl" "!HA0089" "ka12a000.agf">
+"Excuse me.
+ Please pass that food over here."
 #
-<name "マリーアリス" "!LA0123" "ka15a000.agf">
-「はーい。
-　あ、こっちも美味しいわよ」
+<name "Marialis" "!LA0123" "ka15a000.agf">
+"Yep.
+ Ah, this is delicious too."
 #
-<name "メリル" "!HA0090" "ka12a000.agf">
-「ありがとう」
+<name "Meryl" "!HA0090" "ka12a000.agf">
+"Thank you."
 #
-<name "ゴラン" "!CA0063" "ka32a000.agf">
-「おーい、酒が無いぞー！」
+<name "Golan" "!CA0063" "ka32a000.agf">
+"Hey!
+ There's no beer!"
 #
-<name "トージョ" "!KA0103" "ka33a000.agf">
-「こっちも頼む」
+<name "Tojo" "!KA0103" "ka33a000.agf">
+"For me too, please."
 #
-<name "料理する住民" "!HC0200">
-「新しいお料理が出来ました。
-　さっさと運んでください」
+<name "Cooking Citizen" "!HC0200">
+"Another dish is ready.
+ Serve it right away."
 #
-<name "ダークス">
-「えーっとだな」
+<name "Darx">
+"Ummmm..."
 #
-<name "ソフィア" "!ZB1029" "ka01a000.agf">
-「あ、開始のスピーチが珍しく長かった魔王様。
-　なんですか？」
+<name "Sofia" "!ZB1029" "ka01a000.agf">
+"Oh, it's Mr. Over too long of an introductory
+ speech lord.
+ What is it?"
 #
-<name "ダークス">
-「ああ、俺が魔王である事は忘れられていなかった
-　か。
-　良かった」
+<name "Darx">
+"Oh, so you haven't forgotten that I'm the
+ Overlord.
+ Thank goodness."
 #
-<name "ソフィア" "!ZB1030" "ka01a000.agf">
-「魔王様は魔王様ですよ。
-　何を言ってるんですか」
+<name "Sofia" "!ZB1030" "ka01a000.agf">
+"Of course you are.
+ What are you talking about?"
 #
-<name "ダークス">
-「そうかー、じゃあ、どうして俺はみんなに酒を注
-　いで回って、料理を配っているんだ？」
+<name "Darx">
+"I see. So why am I pouring everybody's drinks
+ and serving them food?"
 #
-<name "ソフィア" "!ZB1031" "ka01a000.agf">
-「無礼講だからですよ」
+<name "Sofia" "!ZB1031" "ka01a000.agf">
+"It's an all-out party."
 #
-<name "ダークス">
-「ははは……」
+<name "Darx">
+"Hahaha..."
 #
-<name "ダークス">
-「無礼講で、本当に無礼を働いても良いんだ。
-　知らなかったよ」
+<name "Darx">
+"Really emphasizing the all-out then."
 #
-<name "ソフィア" "!ZB1032" "ka01a000.agf">
-「そうだったんですか？
-　覚えておいてくださいね」
+<name "Sofia" "!ZB1032" "ka01a000.agf">
+"Is that so?
+ Then please keep that in mind."
 #
-<name "ダークス">
-「ああ、覚えておくよ」
+<name "Darx">
+"Yea, I will."
 #
-<name "ゴラン" "!CA0064" "ka32a000.agf">
-「こらー、料理遅いぞー」
+<name "Golan" "!CA0064" "ka32a000.agf">
+"Hey! The food's late!"
 #
-<name "カーシャ" "!TB0009" "ka30a000.agf">
-「こっちにもお願いしますねー」
+<name "Kasha" "!TB0009" "ka30a000.agf">
+"Over here too, please!"
 #
-　翌日、参加者が素面に戻った所で説教を始めた。
+The next day, we had to have a bit of a talk.
 #
-　無礼講。
+About what all-out means.
 #
-　それは名ばかり存在。
+And that it is not literal.
 #
 \x78\x78

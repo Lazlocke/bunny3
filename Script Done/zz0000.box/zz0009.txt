@@ -1,159 +1,166 @@
 ﻿<music 4>
 <background "bg009a0.agf" 10>
 <sprite "ta01a005.agf" 4 4 11>
-<name "ソフィア" "!ZB1037">
-「魔王様、魔王様。
-　フォーゼロッテ様の年齢は、いくつなんですか？」
+<name "Sofia" "!ZB1037">
+"Overlord, Overlord.
+ How old is Forzelotte?"
 #
-<name "ダークス">
-「ソフィア君。
-　それはアンタッチャブルだ。
-　その件に関して、俺は一切、何も言わなかった。
-　良いね」
+<name "Darx">
+"Sofia, that is an untouchable subject.
+ No matter what, I will not say a word about
+ that.
+ All right?"
 #
 <sprite "ta01a000.agf" 4 4 12>
-<name "ソフィア" "!ZB1038">
-「行ってしまった」
+<name "Sofia" "!ZB1038">
+"There he goes..."
 #
 <removesprite -1 11>
 <sprite "ta19a003.agf" 2 5 11>
 <sprite "ta01a000.agf" 6 7 11>
-<name "アオ" "!WA0158">
-「わからないなら推測すれば良い」
+<name "Ao" "!WA0158">
+"If you don't know, just guess."
 #
 <removesprite 6 11>
 <sprite "ta01a000.agf" 4 7 11>
 <sprite "ta17a000.agf" 6 4 11>
-<name "タマガ" "!PB0121">
-「うむ」
+<name "Tamaga" "!PB0121">
+"Hmm..."
 #
 <sprite "ta19a001.agf" 2 5 12>
-<name "アオ" "!WA0159">
-「まず、年齢がわかる出来事を考えてみよう」
+<name "Ao" "!WA0159">
+"First, let's think about things that happened
+ that show her age."
 #
 <sprite "ta01a001.agf" 4 7 12>
-<name "ソフィア" "!ZB1039">
-「えっと……
-　フォーゼロッテ様がフォーゼロッテ宮の魔王になっ
-　たのは、フォーゼロッテ宮の完成と同時」
+<name "Sofia" "!ZB1039">
+"Um...
+ She became Overlord of Forzelotte's Shrine
+ when it was finished being built."
 #
 <sprite "ta17a001.agf" 6 4 12>
-<name "タマガ" "!PB0122">
-「フォーゼロッテ宮は、天界と魔界の休戦後に完成
-　した施設の筈」
+<name "Tamaga" "!PB0122">
+"Forzelotte's Shrine must have been completed
+ some time after Celestia and the Netherworld
+ stopped fighting."
 #
 <sprite "ta19a000.agf" 2 5 12>
-<name "アオ" "!WA0160">
-「先代の大魔王、ガイエス様に任命されたのよね」
+<name "Ao" "!WA0160">
+"She was appointed by the former Great
+ Overlord, Gaies."
 #
 <sprite "ta17a000.agf" 6 4 12>
-<name "タマガ" "!PB0123">
-「そう聞いている」
+<name "Tamaga" "!PB0123">
+"That's what I heard."
 #
 <sprite "ta01a014.agf" 4 7 12>
-<name "ソフィア" "!ZB1040">
-「となると、少なくともガイエス様が存命時には生
-　まれていたワケで……」
+<name "Sofia" "!ZB1040">
+"Meaning that she was at least born while
+ Gaies was still alive..."
 #
 <sprite "ta19a001.agf" 2 5 12>
-<name "アオ" "!WA0162">
-「天界との大戦時にフォーゼロッテが生きているな
-　ら、最前線に投入するだろう。
-　それなら、武勇伝の一つや二つぐらいはあるんじゃ
-　ないか？」
+<name "Ao" "!WA0162">
+"If she was alive during the war with Celestia,
+ she would've been sent to the front lines.
+ So then wouldn't there be tales of her
+ exploits?"
 #
 <sprite "ta01a015.agf" 4 7 12>
-<name "ソフィア" "!ZB1041">
-「“雑魚喰らい”って異名があったような……」
+<name "Sofia" "!ZB1041">
+"I did hear she had the nickname of Grunt
+ Killer..."
 #
 <sprite "ta19a003.agf" 2 5 12>
-<name "アオ" "!WA0163">
-「じゃあ、大戦に参加したんだ」
+<name "Ao" "!WA0163">
+"So she fought in the war."
 #
 <sprite "ta17a001.agf" 6 4 12>
-<name "タマガ" "!PB0124">
-「つまり……」
+<name "Tamaga" "!PB0124">
+"Meaning..."
 #
 <sprite "ta19a004.agf" 2 5 12>
-<name "アオ" "!WA0164">
-「推測するに、千と二百歳！」
+<name "Ao" "!WA0164">
+"An estimate would be about 1200 years old!"
 #
 <sprite "ta17a000.agf" 6 4 12>
-<name "タマガ" "!PB0125">
-「妥当なラインだな」
+<name "Tamaga" "!PB0125">
+"That seems reasonable."
 #
 <sprite "ta01a004.agf" 4 7 12>
-<name "ソフィア" "!ZB1042">
-「そっか。
-　なるほど」
+<name "Sofia" "!ZB1042">
+"I see.
+ Indeed."
 #
 <removesprite -1 11>
 <sprite "ta10a024.agf" 4 4 11>
-<name "フォーゼロッテ" "!XA0302">
-「素敵な推理、ありがとう」
+<name "Forzelotte" "!XA0302">
+"Thank you for the wonderful reasoning."
 #
 <removesprite -1 11>
 <sprite "ta19a001.agf" 2 5 11>
 <sprite "ta01a015.agf" 4 6 11>
 <sprite "ta17a008.agf" 6 4 11>
-<name "ソフィア" "!ZB1043">
-「え？」
+<name "Sofia" "!ZB1043">
+"Huh?"
 #
 <removesprite -1 11>
 <sprite "ta10a023.agf" 4 4 11>
-<name "フォーゼロッテ" "!XA0303">
-「さて、祝福の抱擁をしてあげるから来なさい」
+<name "Forzelotte" "!XA0303">
+"Now come her and let me give you a blessed
+ hug."
 #
 <removesprite -1 11>
 <sprite "ta01a030.agf" 4 4 11>
-<name "ソフィア" "!ZB1044">
-「あはは……
-　嫌だなぁ。
-　フォーゼロッテ様の抱擁って、魔族は消滅するじゃ
-　ないですか」
+<name "Sofia" "!ZB1044">
+"Hahaha...
+ I don't want to.
+ Don't your hugs make demons disappear?"
 #
 <removesprite -1 11>
 <sprite "ta10a023.agf" 4 4 11>
-<name "フォーゼロッテ" "!XA0304">
-「さあ、遠慮せずに」
+<name "Forzelotte" "!XA0304">
+"Come, don't be shy."
 #
 <removesprite -1 11>
 <sprite "ta01a030.agf" 4 4 11>
-<name "ソフィア" "!ZB1045">
-「え、あ、あはは……あれ？
-　アオさん、タマガさん？」
+<name "Sofia" "!ZB1045">
+"Eh? H-Hahaha...
+ Huh?
+ Ao? Tamaga?"
 #
 <sprite "ta01a022.agf" 4 4 12>
-<name "ソフィア" "!ZB1046">
-「いない！」
+<name "Sofia" "!ZB1046">
+"They're gone!"
 #
 <sprite "ta01a023.agf" 4 4 12>
-<name "ソフィア" "!ZB1048">
-「魔王様っ、助けて！」
+<name "Sofia" "!ZB1048">
+"Overlord! Save me!"
 #
-<name "ダークス">
-「俺を巻き込むなっ！」
+<name "Darx">
+"Keep me out of this!"
 #
 <removesprite -1 11>
-　女性の年齢を気にしてはいけない。
+Do not ask a woman's age.
 #
 <sprite "ta10a005.agf" 4 4 11>
-<name "フォーゼロッテ" "!XA0306">
-「ちなみに、私よりラキアの方が年上だぞ。
-　なにせ人間の経済が脆弱な頃から生きてるからな」
+<name "Forzelotte" "!XA0306">
+"Just so you're aware, Rakia is older than me.
+ She's been alive since human economy was
+ hardly of note."
 #
 <removesprite -1 11>
 <sprite "ta08a017.agf" 4 4 11>
-<name "ラキア" "!ZC0496">
-「きゃー、なに言ってるんですかー」
+<name "Rakia" "!ZC0496">
+"Eek!
+ What are you saying!?"
 #
 <removesprite -1 11>
 <sprite "ta02a028.agf" 4 4 11>
-<name "マクドゥ" "!ZA0494">
-「私は二人よりは年下だからな」
+<name "Macdo" "!ZA0494">
+"So I'm younger than both of them."
 #
-<name "ダークス">
-「だから巻き込まないで」
+<name "Darx">
+"Like I said, stay out of it."
 #
 <removesprite -1 11>
 \x2B\x78\x78

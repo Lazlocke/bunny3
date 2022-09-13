@@ -1,76 +1,76 @@
 ﻿<music 15>
 <background "bg008a0.agf" 10>
-<name "怒る女性" "!QB0214">
+<name "Angry Woman" "!QB0214">
 「この淫乱王！
 　良くも我が身を穢したな！」
 #
-<name "怒る女性" "!QB0215">
+<name "Angry Woman" "!QB0215">
 「殺す！
 　貴方を殺して、私も死ぬ！」
 #
-<name "ダークス">
+<name "Darx">
 「待て、待つんだ！
 　なにか誤解をしていないかい！」
 #
-<name "怒る女性" "!QB0216">
+<name "Angry Woman" "!QB0216">
 「何が誤解だって言うのよ！
 　私の身体を無理矢理……ううっ」
 #
-<name "ダークス">
+<name "Darx">
 「泣くな。
 　泣くんじゃない」
 #
-<name "ダークス">
+<name "Darx">
 「美しい君に涙は似合わないよ」
 #
-<name "怒る女性" "!QB0217">
+<name "Angry Woman" "!QB0217">
 「死ねぇっ！」
 #
-<name "ダークス">
+<name "Darx">
 「うおおおっ！」
 #
 <music 3>
 <background "bg010a0.agf" 10>
-<name "ダークス">
+<name "Darx">
 「と、まあ、こんな事があったんだ」
 #
 <removesprite -1 11>
-<name "ソフィア" "!ZB1049">
+<name "Sofia" "!ZB1049">
 「よく生きてますねー」
 #
-<name "ダークス">
+<name "Darx">
 「慣れてるからなぁ」
 #
-<name "ソフィア" "!ZB1050">
+<name "Sofia" "!ZB1050">
 「へー」
 #
-<name "ダークス">
+<name "Darx">
 「問題にしたいのはだ、俺があの命のやり取りをし
 　ている横をだ、ゴラン、トージョをはじめとした
 　数々の部下達が通り過ぎていったんだ」
 #
-<name "ダークス">
+<name "Darx">
 「俺を庇おうともせずにだ！」
 #
-<name "ソフィア" "!ZB1051">
+<name "Sofia" "!ZB1051">
 「慣れているからじゃないですか」
 #
-<name "ダークス">
+<name "Darx">
 「あー、なるほどねー」
 #
-<name "ソフィア" "!ZB1052">
+<name "Sofia" "!ZB1052">
 「それよりもです。
 　もう少し身を謹んで、そういった事が減るように
 　してください」
 #
-<name "ダークス">
+<name "Darx">
 「ああ、そう思ったからこそ、ソフィア君。
 　お相手をお願いしたい」
 #
-<name "ソフィア" "!ZB1053">
+<name "Sofia" "!ZB1053">
 「仕事があるので、お断りします」
 #
-<name "ダークス">
+<name "Darx">
 「……断られるのは慣れない」
 #
 <removesprite -1 11>

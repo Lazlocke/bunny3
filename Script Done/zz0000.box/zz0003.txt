@@ -1,90 +1,92 @@
 ﻿<music 40>
 <background "bg004a0.agf" 10>
 <sprite "ta08a011.agf" 4 4 11>
-<name "ラキア" "!ZC0489">
-「今作、私の出番が危ない」
+<name "Rakia" "!ZC0489">
+"This game is putting my spot in danger."
 #
 <sprite "ta08a009.agf" 4 4 12>
-<name "ラキア" "!ZC0490">
-「ここは少し、媚びた方が良いのかも……」
+<name "Rakia" "!ZC0490">
+"Maybe I need to be a little more enticing..."
 #
-<name "ダークス">
-「今作でも十分、媚びたと思うけど？」
+<name "Darx">
+"Don't you think you were enticing enough in 
+ the game?"
 #
 <sprite "ta08a008.agf" 4 4 12>
-<name "ラキア" "!ZC0491">
-「まだ不十分！
-　不動のヒロインとして活躍する為にも、まだまだ
-　必要！」
+<name "Rakia" "!ZC0491">
+"It wasn't enough!
+ I need to do more to cement my place as a
+ fixture heroine!"
 #
 <removesprite -1 11>
 <sprite "ta09a010.agf" 4 4 11>
-<name "フォーゼロッテ" "!XA0300">
-「……不動のヒロイン？」
+<name "Forzelotte" "!XA0300">
+"...A fixture heroine?"
 #
 <removesprite -1 11>
 <sprite "ta09a010.agf" 2 4 11>
 <sprite "ta11a004.agf" 6 5 11>
-<name "コゼロット" "!NA0175">
-「ヒロインは私だと思うのだけど……」
+<name "Kozelotte" "!NA0175">
+"I thought I was the heroine..."
 #
 <removesprite -1 11>
 <sprite "ta08a023.agf" 4 4 11>
-<name "ラキア" "!ZC0492">
-「設定で雁字搦めのキャラは、敵ではありません」
+<name "Rakia" "!ZC0492">
+"Characters who are chained to their roles by
+ the setting are no comparison."
 #
 <removesprite -1 11>
 <sprite "ta09a018.agf" 2 4 11>
 <sprite "ta11a004.agf" 6 5 11>
-<name "フォーゼロッテ" "!XA0301">
-「うぬ」
+<name "Forzelotte" "!XA0301">
+"Grr..."
 #
 <sprite "ta11a010.agf" 6 5 12>
-<name "コゼロット" "!NA0176">
-「くっ」
+<name "Kozelotte" "!NA0176">
+"Urgh!"
 #
 <removesprite -1 11>
 <sprite "ta08a004.agf" 4 4 11>
-<name "ラキア" "!ZC0493">
-「というワケで、ダークス様。
-　協力をお願いします」
+<name "Rakia" "!ZC0493">
+"So, Darx.
+ I would appreciate your cooperation."
 #
-<name "ダークス">
-「協力って、何をすれば……」
+<name "Darx">
+"By cooperation, you mean..."
 #
 <sprite "ta08a026.agf" 4 4 12>
-<name "ラキア" "!ZC0494">
-「それはもう、当然、こーんな事や、あーんな事に
-　決まっています」
+<name "Rakia" "!ZC0494">
+"That of course would mean a bit of thiiis,
+ and a bit of thaaat."
 #
-<name "ダークス">
-「ふふふ。
-　お任せください、お嬢様」
+<name "Darx">
+"Heheheh.
+ Leave it to me, my lady."
 #
 <sprite "ta08a121.agf" 4 4 12>
-<name "ラキア" "!ZC0495">
-「あんっ、ふぁ、あっ……」
+<name "Rakia" "!ZC0495">
+"Aah! Aah! Aaahh..."
 #
 <removesprite -1 11>
-　……
+...
 #
 <sprite "ta01a025.agf" 4 4 11>
-<name "ソフィア" "!ZB1028">
-「えっと……あ、あの、今作のヒロインって、私じゃ
-　ないんですか？
-　パッケージに出てるんですけど」
+<name "Sofia" "!ZB1028">
+"Uhh...
+ U-Um, aren't I the heroine of this game?
+ I'm the one on the box."
 #
 <removesprite -1 11>
 <sprite "ta01a025.agf" 2 5 11>
 <sprite "ta34a000.agf" 6 4 11>
-<name "ベテランメイド" "!AC0317">
-「ソフトハウスキャラの作品において、パッケージ
-　での扱いはあまり関係無いのよ。
-　覚えておきなさい」
+<name "Veteran Maid" "!AC0317">
+"In Softhouse Chara games, it doesn't really
+ matter who's on the box.
+ Be aware of that."
 #
 <sprite "ta01a023.agf" 2 5 12>
-<name "ソフィア" "!ZB1027">
-「え、えー」
+<name "Sofia" "!ZB1027">
+"E-Eeeh!?"
 #
 <removesprite -1 11>
 \x2B\x78\x78

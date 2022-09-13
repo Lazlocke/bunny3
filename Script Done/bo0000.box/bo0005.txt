@@ -122,7 +122,7 @@ But I'm not going to say that.
 #
 <sprite "ta01a004.agf" 4 4 11>
 <name "Sofia" "!ZB0562">
-"I'm new, so sub-lieutenant."
+"I'm new, so ensign."
 #
 <name "Darx">
 "Oh?"

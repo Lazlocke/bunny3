@@ -1,85 +1,89 @@
 ﻿<music 39>
 <background "bg002a0.agf" 10>
-<name "トージョ" "!KA0089" "ka33a000.agf">
-「出番、少なくないっすかー」
+<name "Tojo" "!KA0089" "ka33a000.agf">
+"I didn't get to do much."
 #
-<name "ゴラン" "!CA0051" "ka32a000.agf">
-「少ないな」
+<name "Golan" "!CA0051" "ka32a000.agf">
+"Not much."
 #
-<name "トージョ" "!KA0090" "ka33a000.agf">
-「１から出てるのに、出番、少なくないっすかー」
+<name "Tojo" "!KA0090" "ka33a000.agf">
+"I've been here since the first game, but I
+ hardly get to do anything."
 #
-<name "ゴラン" "!CA0052" "ka32a000.agf">
-「少ないな」
+<name "Golan" "!CA0052" "ka32a000.agf">
+"Hardly anything."
 #
-<name "トージョ" "!KA0091" "ka33a000.agf">
-「１からのレギュラーだと言うのに、男だからと出
-　番が減るのは問題ではないだろうか！」
+<name "Tojo" "!KA0091" "ka33a000.agf">
+"I've been a regular since the first game,
+ but because I'm a man, I get less and less
+ focus! 
+ Isn't that a problem!?"
 #
-<name "ゴラン" "!CA0053" "ka32a000.agf">
-「確かに問題だ！」
+<name "Golan" "!CA0053" "ka32a000.agf">
+"It is a problem!"
 #
-<name "ゴラン" "!CA0054" "ka32a000.agf">
-「だが、落ち着け！」
+<name "Golan" "!CA0054" "ka32a000.agf">
+"But calm down!"
 #
-<name "ゴラン" "!CA0055" "ka32a000.agf">
-「エロゲーなのだから、俺達よりも女性陣の出番が
-　優先されるのは仕方が無い事！」
+<name "Golan" "!CA0055" "ka32a000.agf">
+"It's a porn game, so of course the women will
+ be given priority over us!"
 #
-<name "ゴラン" "!CA0056" "ka32a000.agf">
-「名前のあった冒険者勢が一掃されてしまった現状
-　を考えると、出番と立ちキャラがあるだけマシと
-　思うべきじゃないだろうか！」
+<name "Golan" "!CA0056" "ka32a000.agf">
+"Considering that every named adventurer has
+ disappeared, we should be glad that we still
+ get to appear at all and are still characters
+ in the game!"
 #
-<name "トージョ" "!KA0092" "ka33a000.agf">
-「た、確かに……」
+<name "Tojo" "!KA0092" "ka33a000.agf">
+"T-That's true..."
 #
-<name "ゴラン" "!CA0057" "ka32a000.agf">
-「ドロシーだけならまだしも、シアさんも出番無かっ
-　たんだぞ」
+<name "Golan" "!CA0057" "ka32a000.agf">
+"It wasn't just Dorothy, even Shia didn't get
+ to appear in this game."
 #
-<name "トージョ" "!KA0093" "ka33a000.agf">
-「ううっ」
+<name "Tojo" "!KA0093" "ka33a000.agf">
+"Oooh..."
 #
-<name "ゴラン" "!CA0058" "ka32a000.agf">
-「出番、あるだけマシなんだよ」
+<name "Golan" "!CA0058" "ka32a000.agf">
+"It's better to show up at all."
 #
-<name "トージョ" "!KA0094" "ka33a000.agf">
-「し、しかし、現状に甘んじるワケには……」
+<name "Tojo" "!KA0094" "ka33a000.agf">
+"B-But I don't want to just settle for the
+ status quo..."
 #
-<name "トージョ" "!KA0095" "ka33a000.agf">
-「そう、甘えるワケにはいかない！
-　このままじゃ、ひな壇に呼ばれただけで喜ぶお笑
-　いタレントのようじゃないか！」
+<name "Tojo" "!KA0095" "ka33a000.agf">
+"Yeah! We can't just take it easy!
+ If we did, then we'd be like comedians who are
+ happy just to be called out to fill time!"
 #
-<name "トージョ" "!KA0097" "ka33a000.agf">
-「前へ！」
+<name "Tojo" "!KA0097" "ka33a000.agf">
+"Forward!"
 #
-<name "トージョ" "!KA0098" "ka33a000.agf">
-「そう、前へ出ないと駄目なんだよ！」
+<name "Tojo" "!KA0098" "ka33a000.agf">
+"Yes! We need to step forward!"
 #
-<name "ゴラン" "!CA0059" "ka32a000.agf">
-「……ダークス様を助けるシーン。
-　俺達でも良かった筈だよな」
+<name "Golan" "!CA0059" "ka32a000.agf">
+"...There was that scene of rescuing Darx.
+ We could've fit in there."
 #
-<name "トージョ" "!KA0099" "ka33a000.agf">
-「ああ、その通りだ！
-　マリーアリスに持っていかれたけど、俺達でも良
-　かった筈だ！」
+<name "Tojo" "!KA0099" "ka33a000.agf">
+"Yeah, you're right!
+ Marialis took it, but that should've been us!"
 #
-<name "ゴラン" "!CA0060" "ka32a000.agf">
-「ここは一つ！」
+<name "Golan" "!CA0060" "ka32a000.agf">
+"Let's try it!"
 #
-<name "トージョ" "!KA0100" "ka33a000.agf">
-「ああ」
+<name "Tojo" "!KA0100" "ka33a000.agf">
+"Yeah."
 #
-<name "トージョ" "!KA0101" "ka33a000.agf">
-「てー事で、もう一回、やられてくれませんか？」
+<name "Tojo" "!KA0101" "ka33a000.agf">
+"Uh, can we just redo that scene again?"
 #
-<name "ゴラン" "!CA0061" "ka32a000.agf">
-「俺達、身体を張って助けますから」
+<name "Golan" "!CA0061" "ka32a000.agf">
+"We will protect you with our lives."
 #
-<name "ダークス">
-「出番には同情するけど……帰れ」
+<name "Darx">
+"I understand the feeling but... go home."
 #
 \x78\x78

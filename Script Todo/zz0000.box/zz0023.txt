@@ -1,143 +1,143 @@
 ﻿<music 43>
 <background "bg002a0.agf" 10>
 <sprite "ta13a019.agf" 4 4 11>
-<name "エカテー" "!TA0001">
+<name "Ekate" "!TA0001">
 「ふー、ふー、ふー」
 #
 <removesprite -1 11>
 　……
 #
-<name "パニバーナ" "!DA0036" "ka14a000.agf">
+<name "Paniverna" "!DA0036" "ka14a000.agf">
 「えっと……
 　ちょっとエカテーがヤバい感じなんだけど……」
 #
-<name "ゴラン" "!CA0001" "ka32a000.agf">
+<name "Golan" "!CA0001" "ka32a000.agf">
 「ああ」
 #
-<name "トージョ" "!KA0001" "ka33a000.agf">
+<name "Tojo" "!KA0001" "ka33a000.agf">
 「こりゃぁ、なんとかしないと」
 #
-<name "イザナ" "!AA0001" "ka28a000.agf">
+<name "Izana" "!AA0001" "ka28a000.agf">
 「マクドゥを殺したらマズいの？」
 #
-<name "ウルティニア" "!EA0001" "ka29a000.agf">
+<name "Ultinia" "!EA0001" "ka29a000.agf">
 「マズくないなら、魔王様がすでに殺してるかと」
 #
-<name "イザナ" "!AA0002" "ka28a000.agf">
+<name "Izana" "!AA0002" "ka28a000.agf">
 「魔王様、相手が女だと甘いから」
 #
-<name "ウルティニア" "!EA0002" "ka29a000.agf">
+<name "Ultinia" "!EA0002" "ka29a000.agf">
 「そこが良いんじゃない」
 #
-<name "イザナ" "!AA0003" "ka28a000.agf">
+<name "Izana" "!AA0003" "ka28a000.agf">
 「そうだけど……」
 #
-<name "ゴラン" "!CA0002" "ka32a000.agf">
+<name "Golan" "!CA0002" "ka32a000.agf">
 「話が脱線しているぞ」
 #
-<name "トージョ" "!KA0002" "ka33a000.agf">
+<name "Tojo" "!KA0002" "ka33a000.agf">
 「俺は、マクドゥを殺っても大丈夫だと思うけどな」
 #
-<name "ウルティニア" "!EA0003" "ka29a000.agf">
+<name "Ultinia" "!EA0003" "ka29a000.agf">
 「どうして？」
 #
-<name "トージョ" "!KA0003" "ka33a000.agf">
+<name "Tojo" "!KA0003" "ka33a000.agf">
 「ここに来る前や来てすぐは、魔王様の能力を調べ
 　るって名目だったから、死なれると俺達が殺した
 　って事になってマズいって話だろ」
 #
-<name "ウルティニア" "!EA0004" "ka29a000.agf">
+<name "Ultinia" "!EA0004" "ka29a000.agf">
 「そうね」
 #
-<name "トージョ" "!KA0004" "ka33a000.agf">
+<name "Tojo" "!KA0004" "ka33a000.agf">
 「ところが、滞在して能力を見極めるって話になっ
 　たんだから、死んでも事故って事にして、代わり
 　の者を寄越して貰えば済むんじゃないのか？」
 #
-<name "トージョ" "!KA0005" "ka33a000.agf">
+<name "Tojo" "!KA0005" "ka33a000.agf">
 「まあ、さすがに二人目も死ぬとヤバいだろうけど」
 #
-<name "ロギウス" "!PA0001" "ka26a000.agf">
+<name "Logius" "!PA0001" "ka26a000.agf">
 「甘い！
 　甘いです！」
 #
-<name "ロギウス" "!PA0002" "ka26a000.agf">
+<name "Logius" "!PA0002" "ka26a000.agf">
 「大魔王様は穏便に済ませてくれても、周囲がそれ
 　を許しません」
 #
-<name "ロギウス" "!PA0003" "ka26a000.agf">
+<name "Logius" "!PA0003" "ka26a000.agf">
 「私達だって、派遣した者がどこかで死んだら、そ
 　れが事故でも怒るでしょう」
 #
-<name "ロギウス" "!PA0004" "ka26a000.agf">
+<name "Logius" "!PA0004" "ka26a000.agf">
 「それと同じです」
 #
-<name "パニバーナ" "!DA0037" "ka14a000.agf">
+<name "Paniverna" "!DA0037" "ka14a000.agf">
 「そりゃ怒るけど……」
 #
-<name "ウルティニア" "!EA0005" "ka29a000.agf">
+<name "Ultinia" "!EA0005" "ka29a000.agf">
 「大魔王様やその周辺が、マクドゥをどれだけ重用
 　しているかがポイントね」
 #
-<name "トージョ" "!KA0006" "ka33a000.agf">
+<name "Tojo" "!KA0006" "ka33a000.agf">
 「誰か知ってるか？」
 #
-<name "イザナ" "!AA0004" "ka28a000.agf">
+<name "Izana" "!AA0004" "ka28a000.agf">
 「さすがに私達は……」
 #
-<name "ロギウス" "!PA0005" "ka26a000.agf">
+<name "Logius" "!PA0005" "ka26a000.agf">
 「それに考えても見てください」
 #
-<name "ロギウス" "!PA0006" "ka26a000.agf">
+<name "Logius" "!PA0006" "ka26a000.agf">
 「魔王様は単身、自身の能力を証明しようと頑張っ
 　ているのです」
 #
-<name "ロギウス" "!PA0007" "ka26a000.agf">
+<name "Logius" "!PA0007" "ka26a000.agf">
 「マクドゥが死ねば、それを裏切る事にもなります」
 #
-<name "ロギウス" "!PA0008" "ka26a000.agf">
+<name "Logius" "!PA0008" "ka26a000.agf">
 「お前達は、俺を信じられないのかと」
 #
-<name "イザナ" "!AA0005" "ka28a000.agf">
+<name "Izana" "!AA0005" "ka28a000.agf">
 「た、確かに……」
 #
-<name "ロギウス" "!PA0009" "ka26a000.agf">
+<name "Logius" "!PA0009" "ka26a000.agf">
 「つまり、決して褒めてはくれません！
 　逆に、殺害しようとしているエカテーさんを止め
 　た方が褒めて貰えます！」
 #
-<name "パニバーナ" "!DA0038" "ka14a000.agf">
+<name "Paniverna" "!DA0038" "ka14a000.agf">
 「エカテーを止めましょう」
 #
-<name "ウルティニア" "!EA0006" "ka29a000.agf">
+<name "Ultinia" "!EA0006" "ka29a000.agf">
 「ええ」
 #
-<name "イザナ" "!AA0006" "ka28a000.agf">
+<name "Izana" "!AA0006" "ka28a000.agf">
 「仕方が無い」
 #
-<name "トージョ" "!KA0007" "ka33a000.agf">
+<name "Tojo" "!KA0007" "ka33a000.agf">
 「痛いのは嫌なんだけどなぁ」
 #
-<name "ウルティニア" "!EA0007" "ka29a000.agf">
+<name "Ultinia" "!EA0007" "ka29a000.agf">
 「このメンバーなら包囲すれば、なんとかなるかと」
 #
-<name "イザナ" "!AA0007" "ka28a000.agf">
+<name "Izana" "!AA0007" "ka28a000.agf">
 「包囲か……誰が正面を担当する？」
 #
-<name "ゴラン" "!CA0003" "ka32a000.agf">
+<name "Golan" "!CA0003" "ka32a000.agf">
 「仕方が無い……俺が……」
 #
-<name "ロギウス" "!PA0010" "ka26a000.agf">
+<name "Logius" "!PA0010" "ka26a000.agf">
 「いえ。
 　止めると強く言ったからには、私がやります」
 #
-<name "トージョ" "!KA0008" "ka33a000.agf">
+<name "Tojo" "!KA0008" "ka33a000.agf">
 「俺、お前を誤解していたぜ」
 #
-<name "ゴラン" "!CA0004" "ka32a000.agf">
+<name "Golan" "!CA0004" "ka32a000.agf">
 「ああ、てっきり魔王様を嫌っているのかと」
 #
-<name "ロギウス" "!PA0011" "ka26a000.agf">
+<name "Logius" "!PA0011" "ka26a000.agf">
 「そんな事はありませんよ。
 　ははははは。
 　さあ、頑張りましょう！」
@@ -149,21 +149,21 @@
 #
 \x41 39 
 <background "bg002a0.agf" 10>
-<name "ロギウス" "!PA0012" "ka26a000.agf">
+<name "Logius" "!PA0012" "ka26a000.agf">
 「いたた……」
 #
-<name "ロギウス" "!PA0013" "ka26a000.agf">
+<name "Logius" "!PA0013" "ka26a000.agf">
 「なんとかなりましたか」
 #
-<name "ロギウス" "!PA0014" "ka26a000.agf">
+<name "Logius" "!PA0014" "ka26a000.agf">
 「危うく、魔王様が戻ってくる所でした」
 #
-<name "ロギウス" "!PA0015" "ka26a000.agf">
+<name "Logius" "!PA0015" "ka26a000.agf">
 「せっかく手に入れた平穏。
 　アリィとフランを守る為なら、なんでもしますよ。
 　この私は……」
 #
-<name "ロギウス" "!PA0016" "ka26a000.agf">
+<name "Logius" "!PA0016" "ka26a000.agf">
 「ふふふ」
 #
 \x78\x78
