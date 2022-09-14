@@ -1,167 +1,173 @@
 ﻿<music 40>
 <background "bg004a0.agf" 10>
-<name "ダークス">
-「バニースーツはなぜエロいのか？」
+<name "Darx">
+"Why are bunny suits so sexy?"
 #
-<name "ゴラン" "!CA0066" "ka32a000.agf">
-「ウサギ＝か弱い、なるイメージの所為だと思う」
+<name "Golan" "!CA0066" "ka32a000.agf">
+"I think it's because of the image that rabbits
+ are weak."
 #
-<name "トージョ" "!KA0105" "ka33a000.agf">
-「いやいや、甘いねゴラン君」
+<name "Tojo" "!KA0105" "ka33a000.agf">
+"No, no. You're naive, Golan."
 #
-<name "トージョ" "!KA0106" "ka33a000.agf">
-「多分、バニースーツで味わえるエロさは、キャッ
-　トスーツでも、タイガースーツでも同様のエロさ
-　を味わえると俺は思う」
+<name "Tojo" "!KA0106" "ka33a000.agf">
+"It's probably the sexiness you get in a bunny
+ suit. I think it's the same kind you get with
+ a cat or tiger suit."
 #
-<name "トージョ" "!KA0107" "ka33a000.agf">
-「つまり、それらに共通するのがエロ要因！
-　俺が注目するのはタイツ！
-　そう、バニースーツのエロさはタイツ！
-　タイツなのだよ！」
+<name "Tojo" "!KA0107" "ka33a000.agf">
+"In other words, there's a sexy factor in 
+ common with all of them! What I care about is
+ the tights! Yes! The sexiness of a bunny suit
+ is the tights! The tights!"
 #
-<name "ゴラン" "!CA0067" "ka32a000.agf">
-「うぬぬ」
+<name "Golan" "!CA0067" "ka32a000.agf">
+"Nrrgh..."
 #
-<name "ダークス">
-「結論を急ぐなトージョ」
+<name "Darx">
+"Don't rush to conclusions, Tojo."
 #
-<name "トージョ" "!KA0108" "ka33a000.agf">
-「では、他に何かあると？」
+<name "Tojo" "!KA0108" "ka33a000.agf">
+"Then is there something else?"
 #
-<name "ダークス">
-「バニースーツ。
-　これは一般に着る服ではない」
+<name "Darx">
+"Bunny suits aren't commonly worn."
 #
-<name "ダークス">
-「ナース服やウェイトレス服と同じく、商業服！」
+<name "Darx">
+"Like a nurse or waitress outfit, they're a
+ job uniform!"
 #
-<name "ダークス">
-「しかも、その職業はナースやウェイトレスと違い、
-“女”である事が必要な職業が多い」
+<name "Darx">
+"What's more, unlike a nurse or waitress, it's
+ one of many jobs that requires one to be a
+ woman!"
 #
-<name "ゴラン" "!CA0068" "ka32a000.agf">
-「た、確かに」
+<name "Golan" "!CA0068" "ka32a000.agf">
+"T-That's true."
 #
-<name "ダークス">
-「そこから導き出される答え！
-　それは！
-　強要！」
+<name "Darx">
+"We derive the answer from that!
+ And it's...
+ Coercion!"
 #
-<name "トージョ" "!KA0109" "ka33a000.agf">
-「強要？」
+<name "Tojo" "!KA0109" "ka33a000.agf">
+"Coercion?"
 #
-<name "見本な親衛隊員" "!TC0187">
-「本当はこんな服を着たくないんだけど、お仕事だ
-　から仕方なく～」
+<name "Example Guard" "!TC0187">
+"I really don't want to wear this, but I have
+ to because it's my job."
 #
-<name "ダークス">
-「とか！」
+<name "Darx">
+"Like that!"
 #
-<name "見本な親衛隊員" "!TC0188">
-「い、いや、です、こんな服。
-　そんな……わ、わかりました。
-　着れば許して貰えるんですね」
+<name "Example Guard" "!TC0188">
+"N-No, this outfit...
+ I can't... 
+ I-I understand.
+ You'll go easy on me if I wear it, right?"
 #
-<name "ダークス">
-「とか！」
+<name "Darx">
+"Like that!"
 #
-<name "見本な親衛隊員" "!TC0189">
-「ダっくん、今日は特別にこの格好で看病してあげ
-　るから、元気だすんだぞ☆」
+<name "Example Guard" "!TC0189">
+"Darksy, I'm going to take care of you in this
+ special outfit today, so cheer up!☆"
 #
-<name "ダークス">
-「だ！」
+<name "Darx">
+"That!"
 #
-<name "ゴラン" "!CA0069" "ka32a000.agf">
-「つまり、嫌々着ている」
+<name "Golan" "!CA0069" "ka32a000.agf">
+"So they're wearing it reluctantly."
 #
-<name "ダークス">
-「そう！
-　好き好んで！
-　自分の趣味で！
-　バニースーツを着用する女性は滅多に居ない！」
+<name "Darx">
+"Yes!
+ That's the appeal!
+ Their preference!
+ Almost no women wear bunny suits!"
 #
-<name "ダークス">
-「誰かに言われて、もしくは誰かの為に！」
+<name "Darx">
+"They do it because someone told them to, or
+ for someone!"
 #
-<name "ダークス">
-「この心こそが、バニースーツのエロさだ！」
+<name "Darx">
+"That's the heart of what makes bunny suits
+ sexy!"
 #
-<name "トージョ" "!KA0110" "ka33a000.agf">
-「な、なるほど」
+<name "Tojo" "!KA0110" "ka33a000.agf">
+"I-I see."
 #
-<name "ダークス">
-「その証拠に、ゴラン君」
+<name "Darx">
+"I can prove it, Golan."
 #
-<name "ゴラン" "!CA0070" "ka32a000.agf">
-「なんですか？」
+<name "Golan" "!CA0070" "ka32a000.agf">
+"What?"
 #
-<name "ダークス">
-「君が怯える怖い奥さん。
-　彼女がバニースーツでお出迎えしたとする。
-　どうだ！」
+<name "Darx">
+"Take your scary wife.
+ Let's say she greets you wearing a bunny suit.
+ How about that?"
 #
-<name "ゴラン" "!CA0071" "ka32a000.agf">
-「え、エロい。
-　そして、優しさを感じる……
-　確かに俺の為にそれを着てくれたのかという感情
-　が湧き上がって止まらない」
+<name "Golan" "!CA0071" "ka32a000.agf">
+"S-Sexy.
+ And I could feel her love...
+ I definitely wouldn't be able to help but feel
+ like she put it on just for me."
 #
-<name "ダークス">
-「ふふふ」
+<name "Darx">
+"Heheheh..."
 #
-<name "ダークス">
-「どうだね」
+<name "Darx">
+"How about that?"
 #
-<name "ゴラン" "!CA0072" "ka32a000.agf">
-「お、お見事です。
-　参りました」
+<name "Golan" "!CA0072" "ka32a000.agf">
+"S-Splendid.
+ I concede."
 #
-<name "ダークス">
-「うむ。
-　余談ではあるが、トージョ氏の言うタイツのエロ
-　さに関しては、激しく同意しておく。
-　あれは良いものだ」
+<name "Darx">
+"Mmhmm.
+ As an aside, I totally agree with Tojo on the
+ sexiness of tights.
+ That's a good thing."
 #
-<name "トージョ" "!KA0111" "ka33a000.agf">
-「ちなみに、タイツはズラし派ですか？
-　破り派ですか？
-　俺はズラし派です」
+<name "Tojo" "!KA0111" "ka33a000.agf">
+"By the way, do you like to pull tights off?
+ Or are you the ripping type?
+ I like to pull them."
 #
-<name "ダークス">
-「俺の心は広い。
-　どちらもアリだ」
+<name "Darx">
+"My heart is wide.
+ Both are great."
 #
-<name "トージョ" "!KA0112" "ka33a000.agf">
-「おおっ」
+<name "Tojo" "!KA0112" "ka33a000.agf">
+"Ooh!"
 #
-<name "ゴラン" "!CA0073" "ka32a000.agf">
-「スケールの大きな方だ」
+<name "Golan" "!CA0073" "ka32a000.agf">
+"What an open mind."
 #
-<name "ダークス">
-「では、結論」
+<name "Darx">
+"So, in conclusion."
 #
-<name "ダークス">
-「バニースーツのエロさは」
+<name "Darx">
+"Bunny suits are sexy."
 #
-<name "ダークス">
-「誰かに言われて、もしくは誰かの為に。
-　の心！」
+<name "Darx">
+"Because someone said to wear them, or they're
+ worn for someone.
+ That's the heart of it."
 #
-<name "ゴラン" "!CA0074" "ka32a000.agf">
-「メモしておきます」
+<name "Golan" "!CA0074" "ka32a000.agf">
+"I'll make a note of it."
 #
-<name "ダークス">
-「うむ」
+<name "Darx">
+"Mmhmm."
 #
-<name "ダークス">
-「では、次のテーマ」
+<name "Darx">
+"Okay, next topic."
 #
-<name "ダークス">
-「なぜこの作品にバニースーツが無いかだ」
+<name "Darx">
+"Why doesn't this game have any bunny suits?"
 #
-<name "トージョ" "!KA0113" "ka33a000.agf">
-「大きな問題だ」
+<name "Tojo" "!KA0113" "ka33a000.agf">
+"That's a big problem."
 #
 \x78\x78

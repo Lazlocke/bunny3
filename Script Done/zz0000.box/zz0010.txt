@@ -1,90 +1,94 @@
 ﻿<music 4>
 <background "bg009a0.agf" 10>
-<name "考える親衛隊員" "!QB0203">
-「魔王様って……
-　敵には厳しく、味方には優しいよね」
+<name "Thinking Guard" "!QB0203">
+"The Overlord...
+ He's tough on his enemies, but kind to his
+ allies."
 #
-<name "休憩中の親衛隊員" "!WB0218">
-「うん」
+<name "Resting Guard" "!WB0218">
+"Yeah."
 #
-<name "考える親衛隊員" "!QB0204">
-「でも、実際はこうでしょ」
+<name "Thinking Guard" "!QB0204">
+"But actually, it's more like this."
 #
-<name "ダークス" "ka00a000.agf">
-「おらっ、さっさと俺の精液飲みな。
-　吐き出すんじゃねぇぞ！」
+<name "Darx" "ka00a000.agf">
+"Hey! Swallow my semen already!
+ Don't spit it out!"
 #
-<name "ダークス" "ka00a000.agf">
-「ははは。
-　朝まで？
-　ふざけんな。
-　三日は続けてやんぜ」
+<name "Darx" "ka00a000.agf">
+"Hahaha.
+ Until morning?
+ Don't be ridiculous.
+ We're gonna do this for three days!"
 #
-<name "ダークス" "ka00a000.agf">
-「お、ヘバッたの？
-　へー、もう駄目なんだ。
-　じゃあ、お仲間に代わりをやって貰おうかなぁ」
+<name "Darx" "ka00a000.agf">
+"Oh? You're tired?
+ Eeh? You can't go any more?
+ Then maybe we'll have one of your friends take
+ your place."
 #
-<name "休憩中の親衛隊員" "!WB0219">
-「……ガラの悪いエロ不良？
-　いや、オラオラ系のホストね」
+<name "Resting Guard" "!WB0219">
+"...So corny jerk porn?
+ No, more like an overbearing giggolo."
 #
-<name "考える親衛隊員" "!QB0205">
-「でも、仲間になると」
+<name "Thinking Guard" "!QB0205">
+"But once you're an ally..."
 #
-<name "ダークス" "ka00a000.agf">
-「大丈夫？
-　街で暮らせそう？
-　問題があったら言ってね。
-　あ、色々と手配しちゃうよ」
+<name "Darx" "ka00a000.agf">
+"Are you okay?
+ You're living okay in the city?
+ Let me know if there are any problems.
+ Oh, I can pull some strings."
 #
-<name "ダークス" "ka00a000.agf">
-「え？
-　おっぱいが寂しい？
-　よーし、吸っちゃうぞー」
+<name "Darx" "ka00a000.agf">
+"Huh?
+ Do your boobs miss me?
+ Okay, I'll suck them!"
 #
-<name "休憩中の親衛隊員" "!WB0220">
-「世話焼きながらの甘え系？」
+<name "Resting Guard" "!WB0220">
+"More of a overprotective and spoiling type?"
 #
-<name "考える親衛隊員" "!QB0206">
-「ここから導き出される結果。
-　それは……」
+<name "Thinking Guard" "!QB0206">
+"I have a conclusion fromthat.
+ It's..."
 #
-<name "休憩中の親衛隊員" "!WB0221">
-「それは？」
+<name "Resting Guard" "!WB0221">
+"It's what?"
 #
-<name "考える親衛隊員" "!QB0207">
-「魔王様が二重人格でないなら」
+<name "Thinking Guard" "!QB0207">
+"Assuming he doesn't have a split
+ personality..."
 #
-<name "休憩中の親衛隊員" "!WB0222">
-「ないなら？」
+<name "Resting Guard" "!WB0222">
+"He doesn't."
 #
-<name "考える親衛隊員" "!QB0208">
-「敵味方でプレイを分けているだけのエロキング！」
+<name "Thinking Guard" "!QB0208">
+"He's a sex fiend who just divides his play
+ between friends and foe!"
 #
-<name "休憩中の親衛隊員" "!WB0223">
-「なるほど」
+<name "Resting Guard" "!WB0223">
+"I see."
 #
-<name "ダークス">
-「よーし、じゃあ、エロキングからのエロエロタイ
-　ムだ。
-　味方にだってオラオラ系の時があるって教えてあ
-　げよう」
+<name "Darx">
+"Okay, then it's sex time from the sex fiend.
+ Time for you to learn that even my allies can
+ get the overbearing jerk treatment."
 #
-<name "ダークス">
-「あー、安心しろ。
-　三日でも四日でも付き合ってやるから」
+<name "Darx">
+"Oh, but don't worry.
+ I'll be with you for three or four days."
 #
-<name "考える親衛隊員" "!QB0209">
-「ひ、ひぃぃっ」
+<name "Thinking Guard" "!QB0209">
+"E-Eep!"
 #
-<name "休憩中の親衛隊員" "!WB0224">
-「すみませんでしたぁ」
+<name "Resting Guard" "!WB0224">
+"I'm sorry."
 #
-　……
+...
 #
-<name "賢明な親衛隊員" "!TC0186">
-「絶対にこうなると思っていたので、最初っから会
-　話に参加しませんでした」
+<name "Wise Guard" "!TC0186">
+"I knew it would turn out like this, so I 
+ stayed clear of that conversation from the
+ start."
 #
 \x78\x78

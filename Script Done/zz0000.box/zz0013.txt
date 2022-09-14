@@ -1,43 +1,46 @@
 ﻿<music 11>
 <background "bg008a0.agf" 10>
-<name "一人目の男" "!ZH0138">
-「アニメや漫画でありえないシチュエーション！」
+<name "Man No. 1" "!ZH0138">
+"A situation you'd never find in an anime or a
+ manga!"
 #
-<name "一人目の男" "!ZH0139">
-「中途半端な時期にやってきた転校生の容姿がイマ
-　イチ」
+<name "Man No. 1" "!ZH0139">
+"A new student who shows up partway through 
+ isn't good enough!"
 #
-<name "二人目の男" "!MB0171">
-「そうしてやってきた転校生が、主人公グループと
-　絡まない」
+<name "Man No. 2" "!MB0171">
+"The new student who shows up that way doesn't
+ get involved with the protagonist's group."
 #
-<name "三人目の男" "!CB0194">
-「クラスメイト達からの質問攻めにも遭わない」
+<name "Man No. 3" "!CB0194">
+"They're not bombarded with questions from 
+ their classmates."
 #
-<name "四人目の男" "!KB0309">
-「特に変わった言動をしない」
+<name "Man No. 4" "!KB0309">
+"They don't act in any kind of unuusal way."
 #
-<name "五人目の男" "!BC0223">
-「すぐに登校拒否になる」
+<name "Man No. 5" "!BC0223">
+"They immediately skip school."
 #
-<name "六人目の男" "!ZD0179">
-「……別の場所でイジメられてたのが転校して来た
-　だけじゃないのか？
-　それ？」
+<name "Man No. 6" "!ZD0179">
+"...Isn't that just a new student who was
+ bullied somewhere else?"
 #
-<name "一人目の男" "!ZH0140">
-「あ、そう考えると、ありえるシチュエーションに」
+<name "Man No. 1" "!ZH0140">
+"Ah, if you think about it like that, it could
+ be that kind of situation."
 #
-<name "二人目の男" "!MB0172">
-「しかし、本編がバトル系だと、やっぱり……」
+<name "Man No. 2" "!MB0172">
+"But if the main story is a fighting thing,
+ then..."
 #
 <music 15>
 <background "ev076a00.agf" 10>
-<name "六人目の男" "!ZD0180">
-「多分、ここでこんな話をしているのがありえない
-　シチュエーションだと思うんだ」
+<name "Man No. 6" "!ZD0180">
+"I think it's probably impossible discuss this
+ kind of situation here."
 #
-<name "三人目の男" "!CB0195">
-「現実逃避がしたかったんだよ」
+<name "Man No. 3" "!CB0195">
+"I just wanted something with escapism."
 #
 \x78\x78

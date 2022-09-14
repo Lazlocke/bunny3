@@ -1,181 +1,193 @@
 ﻿<music 40>
 <background "bg004a0.agf" 10>
-<name "語る住民" "!UA0195">
-「さて、愚痴るか」
+<name "Talking Citizen" "!UA0195">
+"Okay, complaining time."
 #
-<name "聞く住民" "!ZE0273">
-「いきなりだなぁ」
+<name "Listening Citizen" "!ZE0273">
+"That's out of nowhere."
 #
-<name "語る住民" "!UA0196">
-「まあ、聞け」
+<name "Talking Citizen" "!UA0196">
+"Well, just listen."
 #
-<name "聞く住民" "!ZE0274">
-「なんだよ？」
+<name "Listening Citizen" "!ZE0274">
+"What?"
 #
-<name "語る住民" "!UA0197">
-「一緒に寝よう。
-　そんな風に言ってくる姉や妹の存在について、ど
-　う思う？」
+<name "Talking Citizen" "!UA0197">
+"Let's sleep together.
+ What would you think about a big or little 
+ sister who said that to you?"
 #
-<name "聞く住民" "!ZE0275">
-「ははははは、ファンタジー」
+<name "Listening Citizen" "!ZE0275">
+"Hahahahaha.
+ Complete fantasy."
 #
-<name "語る住民" "!UA0198">
-「流石は実姉を持つ男」
+<name "Talking Citizen" "!UA0198">
+"That's what I'd expect of someone who actually
+ has a sister."
 #
-<name "聞く住民" "!ZE0276">
-「姉にとって、弟はただの使いパシリでしかない」
+<name "Listening Citizen" "!ZE0276">
+"To sisters, brothers are just errand boys."
 #
-<name "語る住民" "!UA0199">
-「重い言葉だ」
+<name "Talking Citizen" "!UA0199">
+"That's depressing."
 #
-<name "聞く住民" "!ZE0277">
-「で、急にどうしたんだ？
-　俺のトラウマでも弄るつもりか？」
+<name "Listening Citizen" "!ZE0277">
+"So, where'd this come from?
+ Just want to tease me over my trauma?"
 #
-<name "語る住民" "!UA0200">
-「いやいや、そうじゃないんだ。
-　実はさっき言ったようなセリフが書かれたハーレ
-　ム小説があってだな」
+<name "Talking Citizen" "!UA0200">
+"No, no, that's not it.
+ Actually, there's a harem novel with lines
+ just like that."
 #
-<name "聞く住民" "!ZE0278">
-「ああ、姉や妹から求愛されるのか？」
+<name "Listening Citizen" "!ZE0278">
+"Oh, like being seduced by a sister?"
 #
-<name "語る住民" "!UA0201">
-「そうだ。
-　その小説読んで、俺は怒りを覚えた」
+<name "Talking Citizen" "!UA0201">
+"That's right.
+ I read it, and it made me angry."
 #
-<name "聞く住民" "!ZE0281">
-「怒りって……小説は小説、リアルはリアル。
-　別に考えれば良いんじゃないか？」
+<name "Listening Citizen" "!ZE0281">
+"Angry? It's just a book.
+ Reality is real life.
+ Shouldn't we keep them separated?"
 #
-<name "聞く住民" "!ZE0282">
-「優しい姉や妹が登場しても、構わないだろう」
+<name "Listening Citizen" "!ZE0282">
+"I wouldn't mind having a nice older or younger
+ sister."
 #
-<name "語る住民" "!UA0202">
-「それはその通りだ。
-　そんな所に怒りは覚えない」
+<name "Talking Citizen" "!UA0202">
+"That's true.
+ That's not what I'm mad about."
 #
-<name "聞く住民" "!ZE0283">
-「はぁ。
-　じゃあ、何に怒りを覚えたんだ？」
+<name "Listening Citizen" "!ZE0283">
+"Uh...
+ Then what got you mad?"
 #
-<name "語る住民" "!UA0203">
-「そこまで求愛され、手を出さない主人公にだ！」
+<name "Talking Citizen" "!UA0203">
+"That they'd go after him so much, and the
+ protagonist wouldn't touch them!"
 #
-<name "聞く住民" "!ZE0284">
-「…………………………なるほど。
-　話は理解した」
+<name "Listening Citizen" "!ZE0284">
+".........I see.
+ I understand that."
 #
-<name "聞く住民" "!ZE0285">
-「お前はこう言いたいワケだな」
+<name "Listening Citizen" "!ZE0285">
+"So that's what you're trying to say."
 #
-<name "聞く住民" "!ZE0286">
-「優しい姉や妹というリアルではありえない……
-　つまり、天使に求愛されて、無反応、もしくは気
-　付かないと言う主人公に怒りを覚えたと」
+<name "Listening Citizen" "!ZE0286">
+"That kind of gentle sister doesn't exist...
+ Basically, you're mad at the protagonist who
+ had an angel throwing herself at him, but 
+ didn't notice or care."
 #
-<name "語る住民" "!UA0204">
-「ああ！
-　俺がその立場なら、二秒で手を出すぜ！」
+<name "Talking Citizen" "!UA0204">
+"Yes!
+ If it were me, I would've been on them in two
+ seconds!"
 #
-<name "聞く住民" "!ZE0287">
-「け、決断が早いのは良い事だが、考え直せ。
-　いくら優しくても、姉や妹だぞ」
+<name "Listening Citizen" "!ZE0287">
+"I-It's good to make quick decisions, but think
+ about it.
+ No matter how nice they are, that'd be your
+ sister."
 #
-<name "聞く住民" "!ZE0288">
-「血縁だ」
+<name "Listening Citizen" "!ZE0288">
+"Your family."
 #
-<name "語る住民" "!UA0205">
-「大丈夫。
-　手を出した後、義理の姉や妹って解るはずだから」
+<name "Talking Citizen" "!UA0205">
+"Don't worry.
+ After you've gone all the way with her, you'll
+ find out she was a stepsister."
 #
-<name "聞く住民" "!ZE0289">
-「危険な兆候だな……
-　よーし、今度、お前の妹に会いに行こうな。
-　ああ、もちろんリアルの方な」
+<name "Listening Citizen" "!ZE0289">
+"This is getting dangerous...
+ Okay, I'll go see your sister later.
+ Oh, the real one of course."
 #
-<name "語る住民" "!UA0206">
-「やめろ！
-　やめてくれぇ！」
+<name "Talking Citizen" "!UA0206">
+"Stop that!
+ Please no!"
 #
-<name "聞く住民" "!ZE0290">
-「よーし、目が覚めたか？」
+<name "Listening Citizen" "!ZE0290">
+"Okay, snapped out of it now?"
 #
-<name "語る住民" "!UA0207">
-「さ、覚めた。
-　もう大丈夫だ」
+<name "Talking Citizen" "!UA0207">
+"I-I'm back.
+ I'm okay now."
 #
-<name "聞く住民" "!ZE0291">
-「よしよし。
-　飲んで落ち着け」
+<name "Listening Citizen" "!ZE0291">
+"There, there.
+ Have a drink and calm down."
 #
-<name "語る住民" "!UA0208">
-「お、おう」
+<name "Talking Citizen" "!UA0208">
+"Y-Yeah."
 #
-<name "語る住民" "!UA0209">
-「ふう……すまない」
+<name "Talking Citizen" "!UA0209">
+"Whew... Sorry."
 #
-<name "聞く住民" "!ZE0292">
-「リアルが辛いからって、小説に逃げちゃ駄目だぜ」
+<name "Listening Citizen" "!ZE0292">
+"Don't run away to novels just because reality
+ is painful."
 #
-<name "語る住民" "!UA0210">
-「ああ、解ってる」
+<name "Talking Citizen" "!UA0210">
+"Yeah, I know that."
 #
-<name "聞く住民" "!ZE0293">
-「ところでさ」
+<name "Listening Citizen" "!ZE0293">
+"By the way..."
 #
-<name "語る住民" "!UA0211">
-「なんだ？」
+<name "Talking Citizen" "!UA0211">
+"What?"
 #
-<name "聞く住民" "!ZE0294">
-「今度、結婚するんだろ？
-　噂になってるぜ」
+<name "Listening Citizen" "!ZE0294">
+"Aren't you getting married?"
+ I've heard rumors."
 #
-<name "語る住民" "!UA0212">
-「ああ。
-　運良くな」
+<name "Talking Citizen" "!UA0212">
+"Yeah.
+ Luckily."
 #
-<name "聞く住民" "!ZE0295">
-「それで、ふと思ったんだけどさ」
+<name "Listening Citizen" "!ZE0295">
+"So that got me thinking."
 #
-<name "語る住民" "!UA0213">
-「なにをだ？」
+<name "Talking Citizen" "!UA0213">
+"About what?"
 #
-<name "聞く住民" "!ZE0296">
-「お前の相手。
-　お前からすれば一人の女だけど……
-　その相手の兄弟からすれば姉か妹になるんだよな」
+<name "Listening Citizen" "!ZE0296">
+"Your spouse.
+ To you, she's just a woman, but to their
+ siblings, that's their sister."
 #
-<name "語る住民" "!UA0214">
-「………………………………」
+<name "Talking Citizen" "!UA0214">
+"........."
 #
-<name "聞く住民" "!ZE0297">
-「姉か妹になるんだよな」
+<name "Listening Citizen" "!ZE0297">
+"She's their sister, right?"
 #
-<name "語る住民" "!UA0215">
-「貴様、俺の結婚を妨害したいのか？
-　そうだな！
-　そうに違いないな！」
+<name "Talking Citizen" "!UA0215">
+"Are you trying to sabotage my wedding?
+ I bet you are!
+ That must be it!"
 #
-<name "聞く住民" "!ZE0298">
-「ははははは。
-　そーんな事はないぞ。
-　招待状をくれれば式には出席してやるし、祝いも
-　出すぞー」
+<name "Listening Citizen" "!ZE0298">
+"Hahahaha.
+ Of course not.
+ Invite me, and I'll be there to celebrate it."
 #
-<name "聞く住民" "!ZE0299">
-「誰かのお姉さんか妹さんと、末永くお幸せにー」
+<name "Listening Citizen" "!ZE0299">
+"A long and happy life for you with someone
+ else's sister."
 #
-<name "語る住民" "!UA0216">
-「き、貴様ぁぁぁっ！」
+<name "Talking Citizen" "!UA0216">
+"Y-You bastard!"
 #
-　酒場の一場面だった。
+Such was a scene at the bar.
 #
-<name "トージョ" "!KA0104" "ka33a000.agf">
-「いや、リアルでも優しい姉や妹、居ると思うぞ」
+<name "Tojo" "!KA0104" "ka33a000.agf">
+"Um, I think there really are genuinely nice
+ sisters in real life."
 #
-<name "ゴラン" "!CA0065" "ka32a000.agf">
-「お、俺は賛同できない派だなぁ」
+<name "Golan" "!CA0065" "ka32a000.agf">
+"I-I'm in the group that can't believe that."
 #
 \x78\x78

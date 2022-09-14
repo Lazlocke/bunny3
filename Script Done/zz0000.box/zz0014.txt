@@ -1,69 +1,72 @@
 ﻿<music 15>
 <background "ev077a00.agf" 10>
-<name "指揮する住民" "!ZD0181">
-「触手だ！
-　逃げろ！」
+<name "Leader Citizen" "!ZD0181">
+"Tentacles!
+ Run away!"
 #
-<name "戦う住民" "!BC0224">
-「だ、駄目だ、もう、おいつかれ……」
+<name "Fighting Citizen" "!BC0224">
+"I-It's no good.
+ They've already caught up..."
 #
-<name "戦う住民" "!BC0225">
-「あれ？」
+<name "Fighting Citizen" "!BC0225">
+"Huh?"
 #
-<name "指揮する住民" "!ZD0182">
-「触手がお前を避けて……横のかわいい女の子を襲
-　い始めた！」
+<name "Leader Citizen" "!ZD0182">
+"The tentacles avoided you... and started
+ attacking that cute girl next to you!"
 #
-<name "指揮する住民" "!ZD0183">
-「…………ひょっとして」
+<name "Leader Citizen" "!ZD0183">
+"Could that mean..."
 #
-<name "戦う住民" "!BC0226">
-「危ないぞ！
-　……あれ？
-　逃げる」
+<name "Fighting Citizen" "!BC0226">
+"Look out!
+ ...Huh?
+ It ran away."
 #
-<name "指揮する住民" "!ZD0184">
-「わかったぞ！
-　この触手は男が苦手だ！」
+<name "Leader Citizen" "!ZD0184">
+"I get it!
+ These tentacles hate men!"
 #
-<name "戦う住民" "!BC0227">
-「ええ！」
+<name "Fighting Citizen" "!BC0227">
+"Eeh!?"
 #
-<name "指揮する住民" "!ZD0185">
-「その証拠に！」
+<name "Leader Citizen" "!ZD0185">
+"There's the proof!"
 #
-<name "指揮する住民" "!ZD0186">
-「女の子を襲っていた触手が逃げていく！」
+<name "Leader Citizen" "!ZD0186">
+"The tentacle that was attacking that girl ran
+ away!"
 #
-<name "指揮する住民" "!ZD0187">
-「よーし、わかった。
-　理解した。
-　もう怖くない」
+<name "Leader Citizen" "!ZD0187">
+"Okay, I get it.
+ I got it.
+ I'm not afraid any more."
 #
-<name "冷静な女性住民" "!LB0193">
-「男の壁を作りましょう」
+<name "Woman Citizen" "!LB0193">
+"Let's build a wall of men."
 #
-<name "手伝う女性住民" "!GB0280">
-「ええ」
+<name "Helping Citizen" "!GB0280">
+"Yes."
 #
-<name "冷静な女性住民" "!LB0194">
-「木に縛り付けておけば、疲れても倒れなくてすむ
-　わよね」
+<name "Woman Citizen" "!LB0194">
+"If we tie them to trees, they'll stay standing
+ even if they're exhausted."
 #
-<name "手伝う女性住民" "!GB0281">
-「振り回せるようにして貰えると……」
+<name "Helping Citizen" "!GB0281">
+"And we could then swing them around..."
 #
-<name "指揮する住民" "!ZD0188">
-「え？
-　あの？」
+<name "Leader Citizen" "!ZD0188">
+"Huh?
+ Um..."
 #
-<name "冷静な女性住民" "!LB0195">
-「触手から私達を守る為に、やってくれるわよね」
+<name "Woman Citizen" "!LB0195">
+"It's to preotect us from the tentacles."
 #
-<name "指揮する住民" "!ZD0189">
-「え、ええー」
+<name "Leader Citizen" "!ZD0189">
+"E-Eeeeh!?"
 #
-　敵の触手より、味方の女性の方が怖かった街の男
-　性陣だった。
+The men of the city became more afraid of the
+women on their side than of the enemy 
+tentacles.
 #
 \x78\x78

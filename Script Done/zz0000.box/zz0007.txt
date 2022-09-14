@@ -1,86 +1,92 @@
 ﻿<music 9>
 <background "bg014a0.agf" 10>
-<name "考える元天界兵" "!QB0189">
-「ファンタジー作品ってさ、現代用語って出せない
-　じゃない」
+<name "Thinking Angel" "!QB0189">
+"Fantasy games can't use modern terminology."
 #
-<name "休憩中の元天界兵" "!WB0208">
-「まあ、普通はね」
+<name "Resting Angel" "!WB0208">
+"Well, usually."
 #
-<name "考える元天界兵" "!QB0190">
-「でも、なんちゃってファンタジーだから、サング
-　ラスとかメガネ、トレーナー、下着類は普通に現
-　代物を出しているのよ」
+<name "Thinking Angel" "!QB0190">
+"But it's fake fantasy, so it has stuff like
+ sunglasses, glasses, sweatshirts, and 
+ underwear that's usually modern."
 #
-<name "休憩中の元天界兵" "!WB0209">
-「だよね」
+<name "Resting Angel" "!WB0209">
+"Yeah."
 #
-<name "考える元天界兵" "!QB0191">
-「でも、ライターが困る単語がやっぱりあるの」
+<name "Thinking Angel" "!QB0191">
+"But there's still words that bother the
+ writers."
 #
-<name "休憩中の元天界兵" "!WB0210">
-「と言うと？」
+<name "Resting Angel" "!WB0210">
+"Like what?"
 #
-<name "考える元天界兵" "!QB0192">
-「例えば……ダイナマイト」
+<name "Thinking Angel" "!QB0192">
+"For example... dynamite."
 #
-<name "考える元天界兵" "!QB0193">
-「ダイナマイトは、明らかに無い時代。
-　てか、火薬が無いファンタジーをやっているのに、
-　ダイナマイトって……」
+<name "Thinking Angel" "!QB0193">
+"This is an era that clearly doesn't have
+ dynamite. I mean, it's a fantasy without
+ gunpowder, so dynamite's..."
 #
-<name "休憩中の元天界兵" "!WB0211">
-「いや、使いどころ、無いでしょ」
+<name "Resting Angel" "!WB0211">
+"I mean, they never use it, right?"
 #
-<name "考える元天界兵" "!QB0194">
-「ダイナマイトボディ」
+<name "Thinking Angel" "!QB0194">
+"Dynamite body."
 #
-<name "休憩中の元天界兵" "!WB0212">
-「あー、なるほど」
+<name "Resting Angel" "!WB0212">
+"Oh, I see."
 #
-<name "考える元天界兵" "!QB0195">
-「あとは、ピストン運動」
+<name "Thinking Angel" "!QB0195">
+"Or piston movement."
 #
-<name "考える元天界兵" "!QB0196">
-「ピストン機構はあるかもしれないけど、明らかに
-　一般じゃない世界観におけるピストン運動表現」
+<name "Thinking Angel" "!QB0196">
+"There might be piston devices, but it's
+ clearly a world where piston motion is not
+ at all common."
 #
-<name "考える元天界兵" "!QB0197">
-「主人公の一人称作品だと、すっげぇ困る」
+<name "Thinking Angel" "!QB0197">
+"That's a big problem when the story is told
+ in the first person from the protagonist."
 #
-<name "考える元天界兵" "!QB0198">
-「ファンタジー作品で、現代から転生や召喚するパ
-　ターンが多い事に納得する」
+<name "Thinking Angel" "!QB0198">
+"I understand that a lot of fantasy stories
+ these days have some kind of reincarnation or
+ summoning from the modern world."
 #
-<name "休憩中の元天界兵" "!WB0213">
-「感情移入や、表現がしやすいってヤツね」
+<name "Resting Angel" "!WB0213">
+"It's an easy way to express yourself and
+ create a connection."
 #
-<name "考える元天界兵" "!QB0199">
-「そうそう。
-　現代における○○だ、って感じにね」
+<name "Thinking Angel" "!QB0199">
+"Yeah. It's kind of the 20xx of our time."
 #
-<name "休憩中の元天界兵" "!WB0214">
-「まあ、とりあえず話を聞いて私は思いました」
+<name "Resting Angel" "!WB0214">
+"Well, anyway, now that you've said that, I
+ had my own thoughts."
 #
-<name "考える元天界兵" "!QB0200">
-「うん」
+<name "Thinking Angel" "!QB0200">
+"Yeah."
 #
-<name "休憩中の元天界兵" "!WB0215">
-「考え過ぎ。
-　気にせず表現しちゃえばー」
+<name "Resting Angel" "!WB0215">
+"You're overthinking things.
+ Just don't worry about it and just express 
+ yourself."
 #
-<name "考える元天界兵" "!QB0201">
-「ええー」
+<name "Thinking Angel" "!QB0201">
+"Eeeh?"
 #
-<name "休憩中の元天界兵" "!WB0216">
-「大丈夫。
-　そんな拘り、誰も気付いていないし、どこかで破っ
-　てるから」
+<name "Resting Angel" "!WB0216">
+"Don't worry.
+ Nobody cares about that stuff, and you always
+ mess it up somehow somewhere."
 #
-<name "考える元天界兵" "!QB0202">
-「そ、そうかもしれないけど……」
+<name "Thinking Angel" "!QB0202">
+"I-I guess you might be right..."
 #
-<name "休憩中の元天界兵" "!WB0217">
-「はい、お話終了」
+<name "Resting Angel" "!WB0217">
+"Yep.
+ End of story."
 #
 \x78\x78

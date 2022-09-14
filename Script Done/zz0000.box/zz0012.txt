@@ -1,183 +1,185 @@
 ﻿<music 41>
 <background "bg003a0.agf" 10>
-<name "アンダーソン" "!QB0210">
-「彼よ」
+<name "Anderson" "!QB0210">
+"Him."
 #
-<name "司会者" "!BC0213">
-「アンダーソンさんは、十人の中から一人を選びま
-　した」
+<name "Host" "!BC0213">
+"Ms. Anderson has chosen one of the ten."
 #
-<name "司会者" "!BC0214">
-「さあ、選ばれた彼はこちらへ」
+<name "Host" "!BC0214">
+"Now, come on up, chosen one."
 #
-<name "司会者" "!BC0215">
-「さあ、アンダーソンさんが選んだ彼は、本当に殺
-　人犯なのでしょうか！」
+<name "Host" "!BC0215">
+"Okay, is the man Ms. Anderson chose actually
+ the murderer!?"
 #
-<name "司会者" "!BC0216">
-「正解発表……３、２、１」
+<name "Host" "!BC0216">
+"The correct answer in... 3... 2... 1..."
 #
-<name "ナレーション" "!MB0168">
-「正解発表は９０秒後！」
+<name "Narrator" "!MB0168">
+"The correct answer will be announced in just
+ 90 seconds!"
 #
-　９０秒後。
+90 seconds later...
 #
-<name "アンダーソン" "!QB0211">
-「彼よ」
+<name "Anderson" "!QB0211">
+"Him."
 #
-<name "司会者" "!BC0217">
-「アンダーソンさんは、十人の中から一人を選びま
-　した」
+<name "Host" "!BC0217">
+"Ms. Anderson has chosen one of the ten."
 #
-<name "司会者" "!BC0218">
-「さあ、選ばれた彼はこちらへ」
+<name "Host" "!BC0218">
+"Now, come on up, chosen one."
 #
-<name "司会者" "!BC0219">
-「さあ、アンダーソンさんが選んだ彼は、本当に先
-　ほど見た殺人犯なのでしょうか！」
+<name "Host" "!BC0219">
+"Okay, is Ms. Anderson's choice really the
+ murderer we saw earlier?"
 #
-<name "司会者" "!BC0220">
-「正解発表……３、２、１」
+<name "Host" "!BC0220">
+"The correct answer in... 3... 2... 1..."
 #
-<name "司会者" "!BC0221">
-「残念！
-　ハズれました！」
+<name "Host" "!BC0221">
+"Too bad!
+ That was wrong!"
 #
-<name "アンダーソン" "!QB0212">
-「ＮＯー、なんてこと」
+<name "Anderson" "!QB0212">
+"Noooo! How could this happen!?"
 #
-<name "司会者" "!BC0222">
-「実はアンダーソンさんが間違えたのには理由があ
-　るのです」
+<name "Host" "!BC0222">
+"Actually, there's a reason she got it wrong."
 #
 <music 4>
 <background "bg009a0.agf" 10>
-<name "議長" "!KB0297">
-「はい、とめてー」
+<name "Boss" "!KB0297">
+"Okay, stop."
 #
-<name "議長" "!KB0298">
-「どう思いますか。
-　これ」
+<name "Boss" "!KB0298">
+"What do you think about this?"
 #
-<name "素直な参加者" "!HC0201">
-「カウントダウンをした後のＣＭは、ぶち切れそう
-　になるわね」
+<name "Honest Audience" "!HC0201">
+"People are going to be mad cutting to a 
+ commerical after the countdown."
 #
-<name "攻撃的な参加者" "!ZD0178">
-「許されるなら、ＴＶ画面を叩き割りたい」
+<name "Annoyed Audience" "!ZD0178">
+"It I could, I would've smashed the TV."
 #
-<name "冷静な参加者" "!UA0217">
-「正解どうこうより、怒りでチャンネルを変えたく
-　なる」
+<name "Calm Audience" "!UA0217">
+"I'd change the channel out of anger, not stay
+ around for the right answer."
 #
-<name "主婦な参加者" "!SB0268">
-「そのＣＭを好印象で見る事はない。
-　ＴＶ局が悪いのはわかっているんだけど……」
+<name "Housewife Audience" "!SB0268">
+"I never have a good impression of those ads.
+ I know it's the TV station's fault though..."
 #
-<name "困る参加者" "!RB0178">
-「たまになら許すけど、しょっちゅうだとねー」
+<name "Confused Audience" "!RB0178">
+"I can let it pass if it happens once in a
+ while, but it happens so much."
 #
-<name "怒れる参加者" "!ZE0300">
-「ニュース番組でこれをされた時、もうその番組を
-　見るのを止めようと思いました」
+<name "Angry Audience" "!ZE0300">
+"If they did that on a news show, I'd stop
+ watching entirely."
 #
-<name "議長" "!KB0299">
-「ご意見、ありがとうございます」
+<name "Boss" "!KB0299">
+"Thank you for your feedback."
 #
-<name "議長" "!KB0300">
-「このＣＭまたぎと呼ばれる技法。
-　視聴者から少なくない不満が出ている筈なのに、
-　多用され続けています」
+<name "Boss" "!KB0300">
+"This is called stringing people along.
+ Even though viewers hate it, it keeps being
+ used extensively."
 #
-<name "冷静な参加者" "!UA0218">
-「一時期に比べれば、マシになったけどな」
+<name "Calm Audience" "!UA0218">
+"It's better than it used to be though."
 #
-<name "議長" "!KB0301">
-「嫌われても、まだ効果があるからです！
-　ＣＭに悪い印象がつこうが、残らないよりは百倍
-　良いですから」
+<name "Boss" "!KB0301">
+"Because even if they don't like it, it works!
+ A commercial that gives a bad impression is
+ a hundred times better than giving no
+ impression at all."
 #
-<name "議長" "!KB0302">
+<name "Boss" "!KB0302">
 \x02\x88\x17\x0C\x30\x85\x51\xB9\x5B\x6B\x30\x88\x30\x63\x30\x66\x30\x6F\x30\x19\xFF\x10\xFF\xD2\x79\x0B\xFF\xB1\x03\x50\x30\x89\x30\x44\x30\x85\x5F\x63\x30\x66\x30\x57\x30\x7E\x30\x46\x30\x02\x30\x02 "　人間、好奇心には勝てません！」" 
 #
-<name "主婦な参加者" "!SB0269">
-「確かに……」
+<name "Housewife Audience" "!SB0269">
+"That's true..."
 #
-<name "議長" "!KB0303">
-「また、忘れてはいけません。
-　ＴＶ局はＣＭを見て貰う為に番組を作っているの
-　であって、番組よりもＣＭが大事なのです」
+<name "Boss" "!KB0303">
+"Also, don't forget.
+ TV stations make shows to get people to watch
+ ads. The ads are more important than the
+ shows."
 #
-<name "賛同する参加者" "!LB0192">
-「そ、そうだった」
+<name "Agreeing Audience" "!LB0192">
+"T-That's right."
 #
-<name "議長" "!KB0304">
-「ＣＭまたぎも、なんとかＣＭを見せようとして生
-　み出された技法なのです」
+<name "Boss" "!KB0304">
+"Stringing people along was invented to show
+ more commercials."
 #
-<name "過激な参加者" "!ZF0153">
-「むう」
+<name "Extreme Audience" "!ZF0153">
+"Rrr..."
 #
-<name "議長" "!KB0305">
-「では、どうすれば良いのか！」
+<name "Boss" "!KB0305">
+"So what can we do about that!?"
 #
-<name "議長" "!KB0306">
-「ふふふ。
-　我に案あり！」
+<name "Boss" "!KB0306">
+"Heheheh...
+ I've got a plan!"
 #
-<name "期待する参加者" "!JA0174">
-「おおっ！」
+<name "Excited Audience" "!JA0174">
+"Oooh!"
 #
-<name "過激な参加者" "!ZF0154">
-「して、その案は！」
+<name "Extreme Audience" "!ZF0154">
+"Let's hear your idea!"
 #
-<name "ナレーション" "!MB0169">
-「９０秒後に！！」
+<name "Narrator" "!MB0169">
+"In 90 seconds!"
 #
-<name "期待する参加者" "!JA0175">
-「おいいいっ！」
+<name "Excited Audience" "!JA0175">
+"Hey!!!!"
 #
-<name "過激な参加者" "!ZF0155">
-「画面、ぶち破れ！」
+<name "Extreme Audience" "!ZF0155">
+"Smash the screen!"
 #
-<name "冷静な参加者" "!UA0219">
-「ま、待て。
-　９０秒だ。
-　少し巻き戻っても１２０秒。
-　我慢しようじゃないか！」
+<name "Calm Audience" "!UA0219">
+"W-Wait. It's just 90 seconds.
+ Even if you rewind a little, that'd only be
+ 120 seconds.
+ Let's be patient!"
 #
-<name "怒れる参加者" "!ZE0301">
-「あ、ああ」
+<name "Angry Audience" "!ZE0301">
+"Y-Yeah."
 #
 \x02\x88\x07\x00\x30\x19\xFF\x10\xFF\xD2\x79\x0B\xFF\xB1\x03\x8C\x5F
 #
-<name "議長" "!KB0307">
-「ふふふ。
-　我に案あり！」
+<name "Boss" "!KB0307">
+"Heheheh...
+ I've got a plan!"
 #
-<name "期待する参加者" "!JA0176">
-「おおっ！」
+<name "Excited Audience" "!JA0176">
+"Oooh!"
 #
-<name "過激な参加者" "!ZF0156">
-「して、その案は！」
+<name "Extreme Audience" "!ZF0156">
+"Let's hear your idea!"
 #
-<name "ナレーション" "!MB0170">
-「来週、まさかのアイディア発表！
-　驚く面々！
-　大物ゲストもひっくり返った？
-　ご期待ください！」
+<name "Narrator" "!MB0170">
+"Next week, I'll announce my unbelievable idea!
+ It'll amaze everyone!
+ Will our big guest be shocked too?
+ Stay tuned!"
 #
-<name "期待する参加者" "!JA0177">
-「よし、殺せ」
+<name "Excited Audience" "!JA0177">
+"Okay, kill him."
 #
-<name "過激な参加者" "!ZF0157">
-「おう」
+<name "Extreme Audience" "!ZF0157">
+"Yeah."
 #
-<name "議長" "!KB0308">
-「やめ、ちょ、ごめん、アイディアが浮かばなくて、
-　やめて、殴るの止めて」
+<name "Boss" "!KB0308">
+"Stop! Hey! I'm sorry!
+ I don't have any ideas!
+ Stop!
+ Please stop hitting me!"
 #
-　ＣＭまたぎ、週またぎ、本当になんとかならない
-　かなぁ。
+I wonder if there's anything that we can do
+about this kind of ad nonsense.
 #
 \x78\x78
