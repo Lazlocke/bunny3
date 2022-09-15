@@ -2,8 +2,7 @@
 <background "bg003a0.agf" 10>
 <sprite "ta11a003.agf" 4 4 11>
 <name "Kozelotte" "!NA0158">
-「風邪気味なので、ラキアさんのお店で薬を買いま
-　した」
+「風邪気味なので、ラキアさんのお店で薬を買いました」
 #
 <sprite "ta11a004.agf" 4 4 12>
 <name "Kozelotte" "!NA0159">

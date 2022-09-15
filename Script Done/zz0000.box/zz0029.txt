@@ -1,116 +1,119 @@
 ﻿<music 16>
 <background "ev024a00.agf" 10>
-<name "ルーアルテ" "!RA0207">
-「いっくぞー！」
+<name "Rualtei" "!RA0207">
+"Let's go!"
 #
 <music 20>
 <background "ev025a03.agf" 10>
-<name "ルーアルテ" "!RA0208">
-「きゃー、やられたぁ」
+<name "Rualtei" "!RA0208">
+"Eek! You got me!"
 #
 <music 11>
 <background "bg008a0.agf" 10>
 <sprite "ta06a014.agf" 4 4 11>
-<name "スイセン" "!YA0048">
-「……あれに才覚あるかなぁ」
+<name "Suisen" "!YA0048">
+"...She might genuinely have talent."
 #
 <removesprite -1 11>
 <sprite "ta05a010.agf" 2 4 11>
 <sprite "ta06a014.agf" 6 5 11>
-<name "キュリハ" "!FA0199">
-「ですよね」
+<name "Kyuriha" "!FA0199">
+"Indeed."
 #
 <removesprite -1 11>
 <sprite "ta03a004.agf" 4 4 11>
-<name "ミアルテ" "!SA0160">
-「あります。
-　あるんです。
-　あの子は天才です」
+<name "Miartei" "!SA0160">
+"She does.
+ It's true.
+ She is a genius."
 #
 <sprite "ta03a024.agf" 4 4 12>
-<name "ミアルテ" "!SA0161">
-「いずれこの私を抜く日が……
-　そんな日があってたまるものですか！
-　姉より、そう姉より優れた妹など、存在してはい
-　けないのです！」
+<name "Miartei" "!SA0161">
+"Some day, she might even pass me...
+ As if that day will ever come!
+ No older sister will ever allow their little
+ sister to surpass them!"
 #
 <removesprite -1 11>
 <sprite "ta05a010.agf" 2 4 11>
 <sprite "ta06a014.agf" 6 5 11>
-<name "スイセン" "!YA0049">
-「は、はぁ」
+<name "Suisen" "!YA0049">
+"U-Um..."
 #
 <sprite "ta05a015.agf" 2 4 12>
-<name "キュリハ" "!FA0200">
-「まあ、確かに……
-　私達ですら使いこなせなかった天雷棒を使ってい
-　るのですから、ミアルテの見立ても大間違いでは
-　ないかと……」
+<name "Kyuriha" "!FA0200">
+"Well, it's true...
+ Even we couldn't use the Fulmination Rod,
+ so I think Miartei's understanding is greatly
+ mistaken."
 #
 <removesprite -1 11>
 <sprite "ta03a007.agf" 4 4 11>
-<name "ミアルテ" "!SA0162">
-「当時の私達です。
-　今は使えます」
+<name "Miartei" "!SA0162">
+"That was back then.
+ I could use it now."
 #
 <removesprite -1 11>
 <sprite "ta05a014.agf" 2 4 11>
 <sprite "ta06a016.agf" 6 5 11>
-<name "スイセン" "!YA0050">
-「起動方法はわからないけどね」
+<name "Suisen" "!YA0050">
+"We don't know how to activate it though."
 #
 <sprite "ta05a015.agf" 2 4 12>
-<name "キュリハ" "!FA0201">
-「光神族の偉い方に聞けばわかるのでしょうけど、
-　その前に怒られて取り上げられるでしょうしね」
+<name "Kyuriha" "!FA0201">
+"We could always ask someone high up in the 
+ Holy Spirit, but they'd probably get mad and
+ take it away from us."
 #
 <removesprite -1 11>
 <sprite "ta03a014.agf" 4 4 11>
-<name "ミアルテ" "!SA0163">
-「だから倉庫に放り込んでそれっきりだったのに、
-　勝手に持ち出すなんて……」
+<name "Miartei" "!SA0163">
+"That's why we threw it in a storehouse and
+ never saw it again.
+ I can't believe she took it out without
+ permission..."
 #
 <sprite "ta03a000.agf" 4 4 12>
-<name "ミアルテ" "!SA0164">
-「思い出した。
-　その件、しっかりと怒らなきゃ」
+<name "Miartei" "!SA0164">
+"I remember now.
+ I need to be very angry about this."
 #
 <sprite "ta03a008.agf" 4 4 12>
-<name "ミアルテ" "!SA0165">
-「ルーアルテ！
-　こちらに来なさい」
+<name "Miartei" "!SA0165">
+"Rualtei!
+ Come here this instant."
 #
 <removesprite -1 11>
 <sprite "ta03a009.agf" 2 4 11>
 <sprite "ta04a005.agf" 6 5 11>
-<name "ルーアルテ" "!RA0209">
-「なんですか、お姉様」
+<name "Rualtei" "!RA0209">
+"What is it?"
 #
 <sprite "ta03a007.agf" 2 4 12>
-<name "ミアルテ" "!SA0166">
-「私の物を勝手に持ち出してはいけません。
-　何度、言わせるんですか」
+<name "Miartei" "!SA0166">
+"Do not take my belongings without permission.
+ How many times do I have to tell you this?"
 #
 <sprite "ta04a017.agf" 6 5 12>
-<name "ルーアルテ" "!RA0210">
-「だって、お姉様の物を持っていたかったから」
+<name "Rualtei" "!RA0210">
+"But I wanted to have something that belonged
+ to you."
 #
 <sprite "ta03a019.agf" 2 4 12>
-<name "ミアルテ" "!SA0167">
-「もう、甘えん坊さんなんですから」
+<name "Miartei" "!SA0167">
+"Honestly. You're such a spoiled child."
 #
 <removesprite -1 11>
-　……
+...
 #
-<name "ダークス">
-「あれ？
-　ただのシスコンなんじゃ？」
+<name "Darx">
+"Huh?
+ Isn't she just a siscon?"
 #
 <sprite "ta05a019.agf" 4 4 11>
-<name "キュリハ" "!FA0202">
-「ダークス様。
-　気付いても言ってはいけない事って、あるんです
-　よ」
+<name "Kyuriha" "!FA0202">
+"Darx, there are some things you shouldn't say,
+ even if you notice it."
 #
 <removesprite -1 11>
 \x2B\x78\x78

@@ -5639,7 +5639,7 @@ She jumps up and out a window.
 <removesprite -1 11>
 <sprite "ta01a013.agf" 4 4 11>
 <name "Sofia" "!ZB0508">
-"Medical team, hurry!
+"Healers, hurry!
  Do everything to save his life!"
 #
 <removesprite -1 11>

@@ -1,79 +1,82 @@
 ﻿<music 8>
 <background "ev047a00.agf" 10>
-<name "ロギウス" "!PA0017">
-「アリィとフランが誰か知らない？」
+<name "Logius" "!PA0017">
+"You don't know who Aly and Fran are?"
 #
 <background "ev047c00.agf" 10>
-<name "ロギウス" "!PA0018">
-「ほら、あそこで頑張っている娘です」
+<name "Logius" "!PA0018">
+"Look, the girls hard at work over there."
 #
-<name "ロギウス" "!PA0019">
-「可愛いでしょう」
+<name "Logius" "!PA0019">
+"Aren't they cute?"
 #
-<name "ロギウス" "!PA0020">
-「ああ、手を出したら殺しますからね」
+<name "Logius" "!PA0020">
+"Oh, I'll kill you if you lay a finger on
+ them."
 #
-<name "ロギウス" "!PA0021">
-「遠くから見るだけ。
-　ああ、そろそろ見るのを止めても構いませんよ」
+<name "Logius" "!PA0021">
+"Just look from a distance.
+ Oh, it's about time to stop looking."
 #
-<name "ロギウス" "!PA0022">
-「なんでしたら、他の方を見ても良いので……
-　そろそろ。
-　ええ。
-　目線をずらして……」
+<name "Logius" "!PA0022">
+"You can go ahead and look at someone else...
+ Any minute now.
+ Yes.
+ Move your eyes..."
 #
-<name "ロギウス" "!PA0023">
-「なかなか抵抗しますね」
+<name "Logius" "!PA0023">
+"You're quite persistent."
 #
-<name "ロギウス" "!PA0024">
-「殺しますよ」
+<name "Logius" "!PA0024">
+"I'll have to kill you."
 #
-<name "ロギウス" "!PA0025">
-「冗談ではありません。
-　本気ですよ」
+<name "Logius" "!PA0025">
+"This isn't a joke.
+ I'm serious."
 #
-<name "ロギウス" "!PA0026">
-「本気ですから、そろそろ目線を……」
+<name "Logius" "!PA0026">
+"I am, so move those eyes..."
 #
-<name "ロギウス" "!PA0027">
-「ええ、見るなと言っているんです」
+<name "Logius" "!PA0027">
+"Yes, I'm telling you not to look."
 #
-<name "ロギウス" "!PA0028">
-「冗談ではないと、先ほどから何度も……」
+<name "Logius" "!PA0028">
+"This isn't a joke, I've said that multiple
+ times now."
 #
-<name "ロギウス" "!PA0029">
-「最後通告です。
-　見ないでください」
+<name "Logius" "!PA0029">
+"This is your last warning.
+ Do not look at them."
 #
-<name "ロギウス" "!PA0030">
-「ええ、見るな」
+<name "Logius" "!PA0030">
+"Yes, don't look."
 #
-<name "ロギウス" "!PA0031">
-「見るな」
+<name "Logius" "!PA0031">
+"Don't look."
 #
-<name "ロギウス" "!PA0032">
-「見るなぁぁぁぁぁぁっ！」
+<name "Logius" "!PA0032">
+"Don't look!!!!!!!!"
 #
-<name "ロギウス" "!PA0033">
-「あの愛らしさは私だけのモノだぁ！」
+<name "Logius" "!PA0033">
+"That loveliness belongs only to me!"
 #
-　……
+...
 #
-<name "冷静なメイド" "!SB0003">
-「すみません。
-　ロギウス様は発作です」
+<name "Calm Maid" "!SB0003">
+"Excuse me.
+ Logius is having some kind of seizure."
 #
-<name "冷静なメイド" "!SB0004">
-「はい、発作です。
-　決して私が殴ったわけではありません」
+<name "Calm Maid" "!SB0004">
+"Yes, a seizure.
+ I certainly did not strike her."
 #
-<name "冷静なメイド" "!SB0005">
-「目覚めた時の事を考え、撤収された方が良いと具
-　申いたします」
+<name "Calm Maid" "!SB0005">
+"I must tell you that I do think that it's
+ better for you to leave before she wakes up."
 #
-<name "冷静なメイド" "!SB0006">
-「はい。
-　おもてなし出来ませんで、申し訳ありません」
+<name "Calm Maid" "!SB0006">
+"Yes.
+ I'm sorry we're unable to show you our
+ hospitality."
 #
 \x78\x78

@@ -68,7 +68,7 @@
 <background "bg005a0.agf" 10>
 <sprite "ta34c008.agf" 4 4 11>
 <name "Company Maid" "!AC0366">
-"Medics!
+"Healers!
  Hurry!"
 #
 <removesprite -1 11>

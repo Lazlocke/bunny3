@@ -1,169 +1,180 @@
 ﻿<music 43>
 <background "bg002a0.agf" 10>
 <sprite "ta13a019.agf" 4 4 11>
-<name "エカテー" "!TA0001">
-「ふー、ふー、ふー」
+<name "Ekate" "!TA0001">
+"Rrr! Rrr! Rrr!"
 #
 <removesprite -1 11>
-　……
+...
 #
-<name "パニバーナ" "!DA0036" "ka14a000.agf">
-「えっと……
-　ちょっとエカテーがヤバい感じなんだけど……」
+<name "Paniverna" "!DA0036" "ka14a000.agf">
+"Um...
+ Ekate seems a little dangerous right now..."
 #
-<name "ゴラン" "!CA0001" "ka32a000.agf">
-「ああ」
+<name "Golan" "!CA0001" "ka32a000.agf">
+"Yeah."
 #
-<name "トージョ" "!KA0001" "ka33a000.agf">
-「こりゃぁ、なんとかしないと」
+<name "Tojo" "!KA0001" "ka33a000.agf">
+"Hey, we've gotta do something about that."
 #
-<name "イザナ" "!AA0001" "ka28a000.agf">
-「マクドゥを殺したらマズいの？」
+<name "Izana" "!AA0001" "ka28a000.agf">
+"Would it be so bad if she killed Macdo?"
 #
-<name "ウルティニア" "!EA0001" "ka29a000.agf">
-「マズくないなら、魔王様がすでに殺してるかと」
+<name "Ultinia" "!EA0001" "ka29a000.agf">
+"If it wasn't, wouldn't the Overlord have
+ killed her already?"
 #
-<name "イザナ" "!AA0002" "ka28a000.agf">
-「魔王様、相手が女だと甘いから」
+<name "Izana" "!AA0002" "ka28a000.agf">
+"He goes easy when it's a woman."
 #
-<name "ウルティニア" "!EA0002" "ka29a000.agf">
-「そこが良いんじゃない」
+<name "Ultinia" "!EA0002" "ka29a000.agf">
+"That's not how I'd put it."
 #
-<name "イザナ" "!AA0003" "ka28a000.agf">
-「そうだけど……」
+<name "Izana" "!AA0003" "ka28a000.agf">
+"I guess, but still..."
 #
-<name "ゴラン" "!CA0002" "ka32a000.agf">
-「話が脱線しているぞ」
+<name "Golan" "!CA0002" "ka32a000.agf">
+"We're getting off track."
 #
-<name "トージョ" "!KA0002" "ka33a000.agf">
-「俺は、マクドゥを殺っても大丈夫だと思うけどな」
+<name "Tojo" "!KA0002" "ka33a000.agf">
+"I think it'd be okay to kill Macdo myself."
 #
-<name "ウルティニア" "!EA0003" "ka29a000.agf">
-「どうして？」
+<name "Ultinia" "!EA0003" "ka29a000.agf">
+"Why?"
 #
-<name "トージョ" "!KA0003" "ka33a000.agf">
-「ここに来る前や来てすぐは、魔王様の能力を調べ
-　るって名目だったから、死なれると俺達が殺した
-　って事になってマズいって話だろ」
+<name "Tojo" "!KA0003" "ka33a000.agf">
+"Right when she got here, she was supposed to
+ be testing the Overlord's abilities, so if she
+ died, that'd mean we killed her, right?"
 #
-<name "ウルティニア" "!EA0004" "ka29a000.agf">
-「そうね」
+<name "Ultinia" "!EA0004" "ka29a000.agf">
+"Yes."
 #
-<name "トージョ" "!KA0004" "ka33a000.agf">
-「ところが、滞在して能力を見極めるって話になっ
-　たんだから、死んでも事故って事にして、代わり
-　の者を寄越して貰えば済むんじゃないのか？」
+<name "Tojo" "!KA0004" "ka33a000.agf">
+"But now that it's changed to her staying here
+ and evaluating him, if she died, can't we
+ say it was an accident and send someone else
+ in her place?"
 #
-<name "トージョ" "!KA0005" "ka33a000.agf">
-「まあ、さすがに二人目も死ぬとヤバいだろうけど」
+<name "Tojo" "!KA0005" "ka33a000.agf">
+"Well, we'd be in trouble if the second person
+ also died."
 #
-<name "ロギウス" "!PA0001" "ka26a000.agf">
-「甘い！
-　甘いです！」
+<name "Logius" "!PA0001" "ka26a000.agf">
+"Naive!
+ Too naive!"
 #
-<name "ロギウス" "!PA0002" "ka26a000.agf">
-「大魔王様は穏便に済ませてくれても、周囲がそれ
-　を許しません」
+<name "Logius" "!PA0002" "ka26a000.agf">
+"The Great Overlord might overlook it, but the
+ people around him would not."
 #
-<name "ロギウス" "!PA0003" "ka26a000.agf">
-「私達だって、派遣した者がどこかで死んだら、そ
-　れが事故でも怒るでしょう」
+<name "Logius" "!PA0003" "ka26a000.agf">
+"If it was us, if one of our people died
+ somewhere, we'd be mad, even if it was an
+ accident."
 #
-<name "ロギウス" "!PA0004" "ka26a000.agf">
-「それと同じです」
+<name "Logius" "!PA0004" "ka26a000.agf">
+"It's the same for them."
 #
-<name "パニバーナ" "!DA0037" "ka14a000.agf">
-「そりゃ怒るけど……」
+<name "Paniverna" "!DA0037" "ka14a000.agf">
+"I'd be mad, but..."
 #
-<name "ウルティニア" "!EA0005" "ka29a000.agf">
-「大魔王様やその周辺が、マクドゥをどれだけ重用
-　しているかがポイントね」
+<name "Ultinia" "!EA0005" "ka29a000.agf">
+"The question is how important Macdo is to the
+ Great Overlord and those around him."
 #
-<name "トージョ" "!KA0006" "ka33a000.agf">
-「誰か知ってるか？」
+<name "Tojo" "!KA0006" "ka33a000.agf">
+"Does anybody know that?"
 #
-<name "イザナ" "!AA0004" "ka28a000.agf">
-「さすがに私達は……」
+<name "Izana" "!AA0004" "ka28a000.agf">
+"We're in no place to say..."
 #
-<name "ロギウス" "!PA0005" "ka26a000.agf">
-「それに考えても見てください」
+<name "Logius" "!PA0005" "ka26a000.agf">
+"Even if you think that, look at the
+ situation."
 #
-<name "ロギウス" "!PA0006" "ka26a000.agf">
-「魔王様は単身、自身の能力を証明しようと頑張っ
-　ているのです」
+<name "Logius" "!PA0006" "ka26a000.agf">
+"The Overlord is working hard, all by himself,
+ to prove himself."
 #
-<name "ロギウス" "!PA0007" "ka26a000.agf">
-「マクドゥが死ねば、それを裏切る事にもなります」
+<name "Logius" "!PA0007" "ka26a000.agf">
+"If Macdo dies, we would be betraying that
+ effort."
 #
-<name "ロギウス" "!PA0008" "ka26a000.agf">
-「お前達は、俺を信じられないのかと」
+<name "Logius" "!PA0008" "ka26a000.agf">
+"Do you really not believe me?"
 #
-<name "イザナ" "!AA0005" "ka28a000.agf">
-「た、確かに……」
+<name "Izana" "!AA0005" "ka28a000.agf">
+"Y-You're right..."
 #
-<name "ロギウス" "!PA0009" "ka26a000.agf">
-「つまり、決して褒めてはくれません！
-　逆に、殺害しようとしているエカテーさんを止め
-　た方が褒めて貰えます！」
+<name "Logius" "!PA0009" "ka26a000.agf">
+"So he will absolutely not praise you for it!
+ The opposite! He will give praise to whoever
+ stops Ekate from killing her!"
 #
-<name "パニバーナ" "!DA0038" "ka14a000.agf">
-「エカテーを止めましょう」
+<name "Paniverna" "!DA0038" "ka14a000.agf">
+"Let's stop Ekate."
 #
-<name "ウルティニア" "!EA0006" "ka29a000.agf">
-「ええ」
+<name "Ultinia" "!EA0006" "ka29a000.agf">
+"Yes."
 #
-<name "イザナ" "!AA0006" "ka28a000.agf">
-「仕方が無い」
+<name "Izana" "!AA0006" "ka28a000.agf">
+"If we must."
 #
-<name "トージョ" "!KA0007" "ka33a000.agf">
-「痛いのは嫌なんだけどなぁ」
+<name "Tojo" "!KA0007" "ka33a000.agf">
+"I don't want anybody to get hurt though."
 #
-<name "ウルティニア" "!EA0007" "ka29a000.agf">
-「このメンバーなら包囲すれば、なんとかなるかと」
+<name "Ultinia" "!EA0007" "ka29a000.agf">
+"If all of us surround her, I think we could
+ manage it."
 #
-<name "イザナ" "!AA0007" "ka28a000.agf">
-「包囲か……誰が正面を担当する？」
+<name "Izana" "!AA0007" "ka28a000.agf">
+"Surround her?
+ Then who takes the front?"
 #
-<name "ゴラン" "!CA0003" "ka32a000.agf">
-「仕方が無い……俺が……」
+<name "Golan" "!CA0003" "ka32a000.agf">
+"There's no choice...
+ I..."
 #
-<name "ロギウス" "!PA0010" "ka26a000.agf">
-「いえ。
-　止めると強く言ったからには、私がやります」
+<name "Logius" "!PA0010" "ka26a000.agf">
+"No.
+ I'm the one who insisted on stopping her.
+ I'll do it."
 #
-<name "トージョ" "!KA0008" "ka33a000.agf">
-「俺、お前を誤解していたぜ」
+<name "Tojo" "!KA0008" "ka33a000.agf">
+"I had you all wrong."
 #
-<name "ゴラン" "!CA0004" "ka32a000.agf">
-「ああ、てっきり魔王様を嫌っているのかと」
+<name "Golan" "!CA0004" "ka32a000.agf">
+"Yeah. I thought you despised the Overlord."
 #
-<name "ロギウス" "!PA0011" "ka26a000.agf">
-「そんな事はありませんよ。
-　ははははは。
-　さあ、頑張りましょう！」
+<name "Logius" "!PA0011" "ka26a000.agf">
+"That is not true.
+ Hahahaha!
+ Come, let's fight our best!"
 #
 <music 11>
 <background "bg015a0.agf" 10>
-　こうして、ロギウス一行はエカテーによるマクドゥ
-　殺害を防ぐ事に成功した。
+And so, Logius and friends were able to prevent
+Ekate from killing Macdo.
 #
 \x41 39 
 <background "bg002a0.agf" 10>
-<name "ロギウス" "!PA0012" "ka26a000.agf">
-「いたた……」
+<name "Logius" "!PA0012" "ka26a000.agf">
+"Owww..."
 #
-<name "ロギウス" "!PA0013" "ka26a000.agf">
-「なんとかなりましたか」
+<name "Logius" "!PA0013" "ka26a000.agf">
+"We pulled it off somehow."
 #
-<name "ロギウス" "!PA0014" "ka26a000.agf">
-「危うく、魔王様が戻ってくる所でした」
+<name "Logius" "!PA0014" "ka26a000.agf">
+"That was close.
+ The Overlord was about to come back."
 #
-<name "ロギウス" "!PA0015" "ka26a000.agf">
-「せっかく手に入れた平穏。
-　アリィとフランを守る為なら、なんでもしますよ。
-　この私は……」
+<name "Logius" "!PA0015" "ka26a000.agf">
+"The precious peace I finally have.
+ I'll do anything to protect Aly and Fran.
+ I will..."
 #
-<name "ロギウス" "!PA0016" "ka26a000.agf">
-「ふふふ」
+<name "Logius" "!PA0016" "ka26a000.agf">
+"Heheheh..."
 #
 \x78\x78

@@ -1,77 +1,78 @@
 ﻿<music 15>
 <background "bg008a0.agf" 10>
-<name "怒る女性" "!QB0214">
-「この淫乱王！
-　良くも我が身を穢したな！」
+<name "Angry Woman" "!QB0214">
+"You slut lord!
+ How dare you defile me!?"
 #
-<name "怒る女性" "!QB0215">
-「殺す！
-　貴方を殺して、私も死ぬ！」
+<name "Angry Woman" "!QB0215">
+"I'll kill you!
+ I'll kill you and then kill myself!"
 #
-<name "ダークス">
-「待て、待つんだ！
-　なにか誤解をしていないかい！」
+<name "Darx">
+"Wait! Hold on!
+ Isn't this all a misunderstanding!?"
 #
-<name "怒る女性" "!QB0216">
-「何が誤解だって言うのよ！
-　私の身体を無理矢理……ううっ」
+<name "Angry Woman" "!QB0216">
+"What is a misunderstanding!?
+ You forced me to...
+ Ooh..."
 #
-<name "ダークス">
-「泣くな。
-　泣くんじゃない」
+<name "Darx">
+"Don't cry.
+ You shouldn't cry."
 #
-<name "ダークス">
-「美しい君に涙は似合わないよ」
+<name "Darx">
+"Tears don't suit your beauty."
 #
-<name "怒る女性" "!QB0217">
-「死ねぇっ！」
+<name "Angry Woman" "!QB0217">
+"Die!"
 #
-<name "ダークス">
-「うおおおっ！」
+<name "Darx">
+"Aaaaah!"
 #
 <music 3>
 <background "bg010a0.agf" 10>
-<name "ダークス">
-「と、まあ、こんな事があったんだ」
+<name "Darx">
+"And that's what happened."
 #
 <removesprite -1 11>
-<name "ソフィア" "!ZB1049">
-「よく生きてますねー」
+<name "Sofia" "!ZB1049">
+"And yet you survived."
 #
-<name "ダークス">
-「慣れてるからなぁ」
+<name "Darx">
+"I'm used to it."
 #
-<name "ソフィア" "!ZB1050">
-「へー」
+<name "Sofia" "!ZB1050">
+"Hmm..."
 #
-<name "ダークス">
-「問題にしたいのはだ、俺があの命のやり取りをし
-　ている横をだ、ゴラン、トージョをはじめとした
-　数々の部下達が通り過ぎていったんだ」
+<name "Darx">
+"The problem is that while I was fighting for
+ my life, Golan, Tojo, and a bunch of my other
+ subordinates walked right past me."
 #
-<name "ダークス">
-「俺を庇おうともせずにだ！」
+<name "Darx">
+"They didn't even try to protect me!"
 #
-<name "ソフィア" "!ZB1051">
-「慣れているからじゃないですか」
+<name "Sofia" "!ZB1051">
+"Because they're used to it."
 #
-<name "ダークス">
-「あー、なるほどねー」
+<name "Darx">
+"Oooh, I see."
 #
-<name "ソフィア" "!ZB1052">
-「それよりもです。
-　もう少し身を謹んで、そういった事が減るように
-　してください」
+<name "Sofia" "!ZB1052">
+"More importantly, please be a little more
+ respectful so these things don't keep 
+ happening."
 #
-<name "ダークス">
-「ああ、そう思ったからこそ、ソフィア君。
-　お相手をお願いしたい」
+<name "Darx">
+"Yeah, I was thinking the same thing, Sofia.
+ So I want you to be with me."
 #
-<name "ソフィア" "!ZB1053">
-「仕事があるので、お断りします」
+<name "Sofia" "!ZB1053">
+"I have work to do, so no."
 #
-<name "ダークス">
-「……断られるのは慣れない」
+<name "Darx">
+"...I'm not used to rejection."
 #
 <removesprite -1 11>
 \x2B\x78\x78

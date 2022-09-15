@@ -1,142 +1,148 @@
 ﻿<music 40>
 <background "bg004a0.agf" 10>
-　この物語はフィクションです。
+This story is a work of fiction.
 #
-<name "酒を飲む住民" "!CB0198">
-「しょーもない話なんだけどな」
+<name "Drinking Citizen" "!CB0198">
+"This is a weird topic to bring up."
 #
-<name "ツマミを摘む住民" "!KB0312">
-「なんだ？」
+<name "Harvesting Citizen" "!KB0312">
+"What?"
 #
-<name "酒を飲む住民" "!CB0199">
-「出力１２０％って、どういう事だ？」
+<name "Drinking Citizen" "!CB0199">
+"What does 120% output mean?"
 #
-<name "ツマミを摘む住民" "!KB0313">
-「……え？」
+<name "Harvesting Citizen" "!KB0313">
+"...Huh?"
 #
-<name "酒を飲む住民" "!CB0200">
-「だから、出力１２０％って、どういう事だって聞
-　いているんだよ」
+<name "Drinking Citizen" "!CB0200">
+"I'm saying, what do they mean when they say
+ something is at 120% output?"
 #
-<name "ツマミを摘む住民" "!KB0314">
-「そりゃ……
-　出力が１２０％って状態なんじゃないか？」
+<name "Harvesting Citizen" "!KB0314">
+"Well...
+ Isn't it that the output is at 120%?"
 #
-<name "酒を飲む住民" "!CB0201">
-「出力の最大って１００％じゃないのか？
-　この越えた２０％ってなんだ？」
+<name "Drinking Citizen" "!CB0201">
+"Isn't the maximum output 100%?
+ How do you go 20% above that?"
 #
-<name "ツマミを摘む住民" "!KB0315">
-「出力という事はだ、何かしらの動力によって生み
-　出されるエネルギーと言う事だろう」
+<name "Harvesting Citizen" "!KB0315">
+"Output is energy created by some kind of
+ power source."
 #
-<name "酒を飲む住民" "!CB0202">
-「ああ。
-　そうだな」
+<name "Drinking Citizen" "!CB0202">
+"Yeah, I know."
 #
-<name "ツマミを摘む住民" "!KB0316">
-「ここではエネルギー砲という事にしておこう」
+<name "Harvesting Citizen" "!KB0316">
+"Let's use this energy cannon here."
 #
-<name "ツマミを摘む住民" "!KB0317">
-「で、こういった時の１００％は、万全の状態を示
-　す。
-　つまり、性能を十分に発揮できる状態を出力１０
-　０％だ」
+<name "Harvesting Citizen" "!KB0317">
+"So 100% normally is it working in perfect
+ condition. So if it's working at 100% output,
+ it can operate at its full capacity."
 #
-<name "ツマミを摘む住民" "!KB0318">
-「で、十分に発揮できるけど、もうちょっと頑張れ
-　や。
-　という感じが１２０％じゃないか？」
+<name "Harvesting Citizen" "!KB0318">
+"So, say it's at full, but you push it a little
+ harder than that.
+ Wouldn't that be 120%?"
 #
-<name "酒を飲む住民" "!CB0203">
-「なら、その１２０％を１００％にして、８５％ぐ
-　らいで発射可能ってやった方が良く無いか？」
+<name "Drinking Citizen" "!CB0203">
+"Then isn't that 120% the actual 100%?
+ So wouldn't it be better to shoot it at
+ around 85%?"
 #
-<name "ツマミを摘む住民" "!KB0319">
-「多分、１００％以上を高頻度で求めると、自壊す
-　る恐れがあるんじゃないか？
-　もしくは製品の寿命を縮めてしまうとか」
+<name "Harvesting Citizen" "!KB0319">
+"Maybe if you go past 100% too much, there's
+ the danger that it could break down?
+ Or wear down the cannon more quickly."
 #
-<name "ツマミを摘む住民" "!KB0320">
-「さっきも言っただろ。
-　１００％は、万全の状態だと。
-　頑張ると、ちょっと苦労してしまうんだ」
+<name "Harvesting Citizen" "!KB0320">
+"Like I said before, 100% is it working at
+ full capacity.
+ If you push past that, things can get dicey."
 #
-<name "酒を飲む住民" "!CB0204">
-「なるほど。
-　ありがとう、よくわかったよ」
+<name "Drinking Citizen" "!CB0204">
+"I see.
+ Thank you.
+ I understand better now."
 #
-<name "ツマミを摘む住民" "!KB0321">
-「いやー、適当に理由をつけただけだから、正解か
-　どうかはわからないけどな」
+<name "Harvesting Citizen" "!KB0321">
+"I mean, I just gave a reasonable answer.
+ I don't know if it's the right one."
 #
-<name "酒を飲む住民" "!CB0205">
-「いや、正解だよ」
+<name "Drinking Citizen" "!CB0205">
+"No, it's correct."
 #
-<name "ツマミを摘む住民" "!KB0322">
-「え？」
+<name "Harvesting Citizen" "!KB0322">
+"Huh?"
 #
-<name "酒を飲む住民" "!CB0206">
-「出力１００％越えは、軍艦のエンジンとかで使わ
-　れるんだ。
-　要は戦闘速度ってヤツ」
+<name "Drinking Citizen" "!CB0206">
+"Going past 100% output is used for battleship
+ engines.
+ Basically, it's all about combat speed."
 #
-<name "酒を飲む住民" "!CB0207">
-「１００％以上はエンジンを痛めるから本来はリミッ
-　ターで制限されているんだけど、エンジンを大事
-　にして戦闘に負けたら意味がないだろ」
+<name "Drinking Citizen" "!CB0207">
+"Going past 100% hurts the engine, so normally,
+ it's held back by a limiter, but it doesn't
+ make sense to lose the battle in order to
+ spare the engine."
 #
-<name "酒を飲む住民" "!CB0208">
-「だから、戦闘中は無理してリミッターを外してエ
-　ンジンを回すんだ。
-　で、それが通常時の１００％を越えるから１２０
-　％とかになるんだよ」
+<name "Drinking Citizen" "!CB0208">
+"So you forcibly remove the limiter during 
+ combat and overheat the engine.
+ So you pass the normal 100% and can get to
+ 120%."
 #
-<name "ツマミを摘む住民" "!KB0323">
-「そこまで知っていて、なぜ俺に説明させた？」
+<name "Harvesting Citizen" "!KB0323">
+"If you knew all that, why'd you have me
+ explain?"
 #
-<name "酒を飲む住民" "!CB0209">
-「会話に困ったから」
+<name "Drinking Citizen" "!CB0209">
+"I'm bad at small talk."
 #
-<name "ツマミを摘む住民" "!KB0324">
-「……なら、仕方が無いな」
+<name "Harvesting Citizen" "!KB0324">
+"...Then I guess you had to."
 #
-<name "酒を飲む住民" "!CB0210">
-「ああ、仕方が無いだろ」
+<name "Drinking Citizen" "!CB0210">
+"Yeah, no helping it."
 #
-　合コンの待ち合わせ時間を二時間過ぎても、相手
-　が来ない男性二人だった。
+Two more hours pass, and their dates never
+showed up.
 #
-<name "ツマミを摘む住民" "!KB0325">
-「俺、向こう側の席に移ろうか？
-　いつまでも横に並んでいるのは……」
+<name "Harvesting Citizen" "!KB0325">
+"Should I move to the other seat?
+ It's awkward sitting next to you this long..."
 #
-<name "酒を飲む住民" "!CB0211">
-「いや、まだ……来るかもしれない」
+<name "Drinking Citizen" "!CB0211">
+"No, not yet.
+ They could still come."
 #
-　六時間ほど（閉店時間）待ったらしい。
+They ended up waiting six more hours, until the
+bar closed.
 #
-<name "ダークス">
-「なぜ、ファンタジーなのに現代の話なんだ？」
+<name "Darx">
+"Why are you talking about modern stuff in a
+ fantasy story?"
 #
-<name "酒を飲む住民" "!CB0212">
-「ファンタジー世界観を守ったまま与太話をすると、
-　独特の固有名詞ばっかりで説明が大変だからです」
+<name "Drinking Citizen" "!CB0212">
+"It's hard to explain things with the right
+ words when you have to stick to only stuff
+ in a fantasy world."
 #
-<name "ツマミを摘む住民" "!KB0326">
-「例え」
+<name "Harvesting Citizen" "!KB0326">
+"For example."
 #
-<name "ツマミを摘む住民" "!KB0327">
-「ミミーヤックのハドルがビギッタんだけどさ」
+<name "Harvesting Citizen" "!KB0327">
+"Now Mimiyak's huddling with Bigitan."
 #
-<name "酒を飲む住民" "!CB0213">
-「ルールを知らないスポーツを見るどころではなく、
-　知識の無い学問の発表会に行った気分になります
-　よ」
+<name "Drinking Citizen" "!CB0213">
+"Instead of being sports commentary when you
+ don't know the rules, it feels like listening
+ to some incomprehensible academic lecture."
 #
-<name "ダークス">
-「なるほど……」
+<name "Darx">
+"I see..."
 #
-　この物語はフィクションです。
+This story is a work of fiction.
 #
 \x78\x78

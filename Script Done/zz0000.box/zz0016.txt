@@ -1,208 +1,213 @@
 ﻿<music 11>
 <background "bg013a0.agf" 10>
 <sprite "ta05a003.agf" 4 4 11>
-<name "キュリハ" "!FA0560">
-「さて、いきますよ」
+<name "Kyuriha" "!FA0560">
+"Okay, let's go."
 #
 <removesprite -1 11>
 <sprite "ta05a003.agf" 2 4 11>
 <sprite "ta06a003.agf" 6 5 11>
-<name "スイセン" "!YA0321">
-「ええ」
+<name "Suisen" "!YA0321">
+"Yes."
 #
 <removesprite -1 11>
 <sprite "ta03a004.agf" 4 4 11>
-<name "ミアルテ" "!SA0280">
-「頑張りましょう」
+<name "Miartei" "!SA0280">
+"Let's do our best."
 #
 <removesprite -1 11>
-<name "ダークス">
-「あの三人。
-　ずいぶん、気合が入ってるなぁ。
-　どこに行くんだ？」
+<name "Darx">
+"You three sure are fired up.
+ Where are you going?"
 #
 <removesprite -1 11>
 <sprite "ta04a005.agf" 4 4 11>
-<name "ルーアルテ" "!RA0250">
-「合コンですよ」
+<name "Rualtei" "!RA0250">
+"To a mixer."
 #
-<name "ダークス">
-「ほう」
+<name "Darx">
+"Oh?"
 #
 <sprite "ta04a006.agf" 4 4 12>
-<name "ルーアルテ" "!RA0251">
-「あ、このお話の中ではダークス様との関係は無い
-　という設定でお願いします」
+<name "Rualtei" "!RA0251">
+"Ah, but please remember that you're not part
+ of this particular setting."
 #
-<name "ダークス">
-「そうか。
-　じゃあ、俺は男性側で参加？」
+<name "Darx">
+"I see.
+ Then should I participate on the men's side?"
 #
 <removesprite -1 11>
 <sprite "ta10a009.agf" 4 4 11>
-<name "フォーゼロッテ" "!XA0307">
-「させーん！」
+<name "Forzelotte" "!XA0307">
+"No you will not!"
 #
-<name "ダークス">
-「うおっ、うあ、こら、あっ」
+<name "Darx">
+"Aah! Ah!
+ Hey! Ah!"
 #
 <removesprite -1 11>
 <sprite "ta11a009.agf" 4 4 11>
-<name "コゼロット" "!NA0177">
-「せいっ！」
+<name "Kozelotte" "!NA0177">
+"Hya!"
 #
 <removesprite -1 11>
-<name "ダークス">
-「うぐうっ」
+<name "Darx">
+"Ugwa!"
 #
 <sprite "ta10a007.agf" 4 4 11>
-<name "フォーゼロッテ" "!XA0308">
-「よし、大人しくなった。
-　連れ帰るぞ」
+<name "Forzelotte" "!XA0308">
+"Okay, that calmed him down.
+ Let's take him home."
 #
 <removesprite -1 11>
 <sprite "ta11a012.agf" 2 4 11>
 <sprite "ta10a007.agf" 6 5 11>
-<name "コゼロット" "!NA0178">
-「はい。
-　お母様」
+<name "Kozelotte" "!NA0178">
+"Yes, Mother."
 #
 <removesprite -1 11>
 <sprite "ta04a011.agf" 4 4 11>
-<name "ルーアルテ" "!RA0252">
-「……あの二人、強いなぁ」
+<name "Rualtei" "!RA0252">
+"...Those two are strong."
 #
 <sprite "ta04a002.agf" 4 4 12>
-<name "ルーアルテ" "!RA0253">
-「っと、気を取り直して」
+<name "Rualtei" "!RA0253">
+"Um, let's get back on track."
 #
 <sprite "ta04a005.agf" 4 4 12>
-<name "ルーアルテ" "!RA0254">
-「カメラさん、三人の方を追っかけて」
+<name "Rualtei" "!RA0254">
+"Mr. Cameraman, follow those three."
 #
 <music 40>
 <background "bg004a0.agf" 10>
 <sprite "ta05a008.agf" 4 4 11>
-<name "キュリハ" "!FA0561">
-「到着しましたけど」
+<name "Kyuriha" "!FA0561">
+"We're here."
 #
 <removesprite -1 11>
 <sprite "ta06a000.agf" 4 4 11>
-<name "スイセン" "!YA0322">
-「相手はまだ来てないようね」
+<name "Suisen" "!YA0322">
+"But it looks like they're not here yet."
 #
 <removesprite -1 11>
 <sprite "ta03a011.agf" 4 4 11>
-<name "ミアルテ" "!SA0281">
-「女性を待たせるなんて、減点です」
+<name "Miartei" "!SA0281">
+"Making women wait loses you points."
 #
 <removesprite -1 11>
 <sprite "ta05a010.agf" 4 4 11>
-<name "キュリハ" "!FA0562">
-「まったくね。
-　とりあえず、どうします？」
+<name "Kyuriha" "!FA0562">
+"Seriously.
+ Anyway, now what?"
 #
 <removesprite -1 11>
 <sprite "ta06a005.agf" 4 4 11>
-<name "スイセン" "!YA0323">
-「飲み物を頼んで待ちましょう」
+<name "Suisen" "!YA0323">
+"Let's order drinks and wait."
 #
 <removesprite -1 11>
 <sprite "ta03a022.agf" 4 4 11>
-<name "ミアルテ" "!SA0282">
-「お食事は後ですね」
+<name "Miartei" "!SA0282">
+"We can eat later."
 #
 <removesprite -1 11>
-　十五分後
+Fifteen minutes later...
 #
 <sprite "ta05a014.agf" 4 4 11>
-<name "キュリハ" "!FA0563">
-「遅れてるのかしら？」
+<name "Kyuriha" "!FA0563">
+"Could they be late?"
 #
 <removesprite -1 11>
 <sprite "ta06a010.agf" 4 4 11>
-<name "スイセン" "!YA0324">
-「まあ、気長に待ちましょう」
+<name "Suisen" "!YA0324">
+"Well, let's wait patiently."
 #
 <removesprite -1 11>
 <sprite "ta03a005.agf" 2 4 11>
 <sprite "ta06a010.agf" 6 5 11>
-<name "ミアルテ" "!SA0283">
-「食べ物、頼んでも良いかな？」
+<name "Miartei" "!SA0283">
+"Could we order some food?"
 #
 <sprite "ta06a011.agf" 6 5 12>
-<name "スイセン" "!YA0325">
-「軽めにしなさいよ」
+<name "Suisen" "!YA0325">
+"Keep it light."
 #
 <removesprite -1 11>
-　四時間後
+Four hours later...
 #
 <removesprite -1 11>
 <sprite "ta05a016.agf" 4 4 11>
-<name "キュリハ" "!FA0564">
-「相手が来ませんね」
+<name "Kyuriha" "!FA0564">
+"They're not coming, are they?"
 #
 <removesprite -1 11>
 <sprite "ta06a012.agf" 4 4 11>
-<name "スイセン" "!YA0326">
-「来ないわね」
+<name "Suisen" "!YA0326">
+"They're not coming."
 #
 <removesprite -1 11>
 <sprite "ta03a024.agf" 4 4 11>
-<name "ミアルテ" "!SA0284">
-「すみませーん、牛刺しとビール、追加でー」
+<name "Miartei" "!SA0284">
+"Excuse me! More beef sashimi and beer!"
 #
 <removesprite -1 11>
 <background "bg016a0.agf" 10>
 \x2B\x2A 30 
 <background "bg015a0.agf" 10>
-　翌日朝
+The next morning...
 #
 <music 11>
 <background "bg013a0.agf" 10>
 <sprite "ta04a012.agf" 4 4 11>
-<name "ルーアルテ" "!RA0255">
-「お姉様達が超酔って帰ってきた」
+<name "Rualtei" "!RA0255">
+"They came home completely wasted."
 #
 <sprite "ta04a013.agf" 4 4 12>
-<name "ルーアルテ" "!RA0256">
-「お持ち帰りどころか、すっぽかされるなんて……」
+<name "Rualtei" "!RA0256">
+"I can't believe it wasn't even a one-night
+ stand, but they didn't show up at all..."
 #
 <sprite "ta04a017.agf" 4 4 12>
-<name "ルーアルテ" "!RA0257">
-「合コンのタイトルを完全に無視した展開」
+<name "Rualtei" "!RA0257">
+"How can you even call that a mixer in any
+ way?"
 #
 <sprite "ta04a018.agf" 4 4 12>
-<name "ルーアルテ" "!RA0258">
-「今は寝ているけど、起きてからが怖いので、なん
-　とかしてくれませんか？」
+<name "Rualtei" "!RA0258">
+"They're sleeping now, but I'm scared of what
+ happens when they wake up.
+ Can't you do something?"
 #
-<name "ダークス">
-「すまん。
-　今回の話では、三人と無関係な設定だから」
+<name "Darx">
+"I'm sorry.
+ I've got nothing to do with those three in
+ this story, remember?"
 #
-<name "ダークス">
-「あと、その無関係な三人が飲み食いした代金、俺
-　の名前でツケられてるんだけど……」
+<name "Darx">
+"Also, they put all their food and drinks on
+ my tab, so..."
 #
 <sprite "ta04a012.agf" 4 4 12>
-<name "ルーアルテ" "!RA0259">
-「大変、申し訳ありません」
+<name "Rualtei" "!RA0259">
+"I'm truly sorry."
 #
 <removesprite -1 11>
 <music 14>
 <background "bg015a0.agf" 10>
-　行かなかった者達の理由。
+The reason why the men didn't show up...
 #
-<name "逃げた男" "!MB0173">
-「あの三人だって、知らなかったんだよ！」
+<name "Fleeing Man" "!MB0173">
+"I had no idea it'd be those three!"
 #
-<name "騙された男" "!CB0196">
-「俺は文科系の学園生三人が来るって聞いてたぞ」
+<name "Tricked Man" "!CB0196">
+"I was told it'd be three liberal arts
+ students!"
 #
-<name "絶望した男" "!KB0310">
-「俺は獣耳の可愛い子だって聞いた」
+<name "Despairing Man" "!KB0310">
+"I heard it'd be cute girls with animal ears!"
 #
-　途中で気付いて逃げた模様。
+Apparently they saw them ahead of time and beat
+a hasty retreat.
 #
 \x78\x78
