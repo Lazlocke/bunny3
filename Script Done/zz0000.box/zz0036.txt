@@ -1,27 +1,28 @@
 ﻿<music 11>
 <background "bg013a0.agf" 10>
-<name "気付いた街の住民" "!ZD5026">
-「アンデスメロンって、アンデス地方産かと思った
-　ら違うんだってな」
+<name "Aware Citizen" "!ZD5026">
+"If you think an Andes melon comes from the
+ Andes, you'd be wrong."
 #
-<name "魔族な街の住民" "!KB5016">
-「そうなのか？」
+<name "Demon Citizen" "!KB5016">
+"Really?"
 #
-<name "気付いた街の住民" "!ZD5027">
-「“安心ですメロン”って名前があって、メロンだ
-　から芯を抜いて“安ですメロン”なんだって」
+<name "Aware Citizen" "!ZD5027">
+"They were named anshindesu melons, or worry
+ free melons, but they cut out the middle and
+ just left an-des melon."
 #
-<name "魔族な街の住民" "!KB5017">
-「へーっ、良く知ってるな」
+<name "Demon Citizen" "!KB5017">
+"Oh? You know a lot."
 #
-<name "気付いた街の住民" "!ZD5028">
-「ＴＶでやってた」
+<name "Aware Citizen" "!ZD5028">
+"I saw it on TV."
 #
-<name "魔族な街の住民" "!KB5018">
-「時代考証、完全に無視して来たな」
+<name "Demon Citizen" "!KB5018">
+"That's from the completely wrong era."
 #
-<name "気付いた街の住民" "!ZD5029">
-「ははははは。
-　アンデスメロンの段階からな」
+<name "Aware Citizen" "!ZD5029">
+"Hahahaha.
+ At least as far as melon nomenclature goes."
 #
 \x78\x78

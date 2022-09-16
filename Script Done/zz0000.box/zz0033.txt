@@ -1,84 +1,88 @@
 ﻿<music 11>
 <background "bg008a0.agf" 10>
-<name "パニバーナ" "!DA0042" "ka14a000.agf">
-「キュリハ様が居て、ミアルテ様が居て……」
+<name "Paniverna" "!DA0042" "ka14a000.agf">
+"There's Kyuriha, and Miartei..."
 #
-<name "パニバーナ" "!DA0043" "ka14a000.agf">
-「私にウルにイザナ」
+<name "Paniverna" "!DA0043" "ka14a000.agf">
+"Me, Ultinia, and Izana."
 #
-<name "パニバーナ" "!DA0044" "ka14a000.agf">
-「で、マリーアリスとフィリアネ」
+<name "Paniverna" "!DA0044" "ka14a000.agf">
+"And Marialis and Filliane."
 #
-<name "パニバーナ" "!DA0045" "ka14a000.agf">
-「天界の一軍ができるわね」
+<name "Paniverna" "!DA0045" "ka14a000.agf">
+"We could form a whole angel army."
 #
-<name "イザナ" "!AA0012" "ka28a000.agf">
-「ある意味、ここを天界が乗っ取ったとも言えるの
-　では？」
+<name "Izana" "!AA0012" "ka28a000.agf">
+"In a way, could you say that Celestia has
+ taken over here?"
 #
-<name "ウルティニア" "!EA0012" "ka29a000.agf">
-「なるほど」
+<name "Ultinia" "!EA0012" "ka29a000.agf">
+"Indeed."
 #
-<name "ウルティニア" "!EA0013" "ka29a000.agf">
-「つまり、名目は魔界でも、実情は天界と」
+<name "Ultinia" "!EA0013" "ka29a000.agf">
+"In short, though it's supposedly belongs to
+ the Netherworld, it's actually Celestia's."
 #
-<name "ダークス">
-「なんだ？
-　裏切る相談か？」
+<name "Darx">
+"What is this?
+ Betrayal planning?"
 #
-<name "パニバーナ" "!DA0046" "ka14a000.agf">
-「いえ、なかなか降伏しない天界兵の懐柔というか、
-　どう説得しようかって」
+<name "Paniverna" "!DA0046" "ka14a000.agf">
+"No, just trying to think about how to convince
+ the angel warriors who are still refusing to
+ surrender."
 #
-<name "ダークス">
-「なるほど。
-　他には？」
+<name "Darx">
+"I see.
+ Any other ideas?"
 #
-<name "パニバーナ" "!DA0047" "ka14a000.agf">
-「天界より、魔界の方がルールが温いから、色々と
-　楽なんですよ」
+<name "Paniverna" "!DA0047" "ka14a000.agf">
+"The Netherworld government has fewer laws
+ than Celestia, so it's easier living here."
 #
-<name "ウルティニア" "!EA0014" "ka29a000.agf">
-「こっちに寝返った天界兵は、余程の理由が無い限
-　り、戻りたがりませんからね」
+<name "Ultinia" "!EA0014" "ka29a000.agf">
+"As long as there's no major issues, the angels
+ who betrayed their allies living here don't
+ want to go back."
 #
-<name "ダークス">
-「余程の理由？」
+<name "Darx">
+"Major issue?"
 #
-<name "ウルティニア" "!EA0015" "ka29a000.agf">
-「両親が倒れたとか、お婆ちゃんのお葬式とか」
+<name "Ultinia" "!EA0015" "ka29a000.agf">
+"Like their parents got sick, or for a 
+ grandmother's funeral."
 #
-<name "ウルティニア" "!EA0016" "ka29a000.agf">
-「ああ、そういった者達には離隊を許してます」
+<name "Ultinia" "!EA0016" "ka29a000.agf">
+"Oh, we let those people leave."
 #
-<name "パニバーナ" "!DA0048" "ka14a000.agf">
-「でも、九割は戻ってきますよね」
+<name "Paniverna" "!DA0048" "ka14a000.agf">
+"But 90% come back."
 #
-<name "ウルティニア" "!EA0017" "ka29a000.agf">
-「こっちで純潔失ってるから、天界に居場所が無い
-　しね」
+<name "Ultinia" "!EA0017" "ka29a000.agf">
+"I lost my chastity here, so there's no place
+ for me in Celestia."
 #
-<name "イザナ" "!AA0013" "ka28a000.agf">
-「うんうん」
+<name "Izana" "!AA0013" "ka28a000.agf">
+"Yep."
 #
-<name "ダークス">
-「なるほどなぁ」
+<name "Darx">
+"I see."
 #
-<name "ウルティニア" "!EA0018" "ka29a000.agf">
-「まだまだお話したいですが、時間もありませんの
-　で休憩はこれぐらいにしておきますか」
+<name "Ultinia" "!EA0018" "ka29a000.agf">
+"I'd like to continue this conversation, but
+ we're running short on time, so shall we call
+ an end to this break?"
 #
-<name "パニバーナ" "!DA0049" "ka14a000.agf">
-「そうね」
+<name "Paniverna" "!DA0049" "ka14a000.agf">
+"Okay."
 #
-<name "イザナ" "!AA0014" "ka28a000.agf">
-「では、魔王様。
-　再開してください」
+<name "Izana" "!AA0014" "ka28a000.agf">
+"Then, Overlord, if you're please continue."
 #
-<name "ダークス">
-「へいへい」
+<name "Darx">
+"Yeah, yeah."
 #
 <removesprite -1 11>
-　俺はパニバーナ達との行為を楽しんだ。
+I enjoy myself with them.
 #
 \x78\x78

@@ -1,260 +1,269 @@
 ﻿<music 41>
 <background "bg003a0.agf" 10>
 <sprite "ta11a010.agf" 4 4 11>
-<name "コゼロット" "!NA0127">
-「あの、私。
-　あまりにもあまりな感じになっていません？」
+<name "Kozelotte" "!NA0127">
+"Um, me.
+ Doesn't it feel like they took it too far?"
 #
 <sprite "ta11a011.agf" 4 4 12>
-<name "コゼロット" "!NA0128">
-「ファザコンと言うか……
-　ただの変態と言うか……」
+<name "Kozelotte" "!NA0128">
+"Not exactly an Electra complex...
+ More like just a pervert..."
 #
 <sprite "ta11a010.agf" 4 4 12>
-<name "コゼロット" "!NA0129">
-「強烈な変態に」
+<name "Kozelotte" "!NA0129">
+"A complete pervert."
 #
 <sprite "ta11a016.agf" 4 4 12>
-<name "コゼロット" "!NA0130">
-「私としては、もう少しこう……ラブロマンス的に」
+<name "Kozelotte" "!NA0130">
+"I think it'd be a little more... like a
+ romance."
 #
 <removesprite -1 11>
 <music 49>
 <background "ev048b00.agf" 10>
-<name "コゼロット" "!NA0131">
-「ええ、そう、こんな感じに後ろから」
+<name "Kozelotte" "!NA0131">
+"Yes, like this.
+ From behind."
 #
-<name "コゼロット" "!NA0132">
-「ぁぁ……」
+<name "Kozelotte" "!NA0132">
+"Aah..."
 #
 <background "ev048b01.agf" 10>
-<name "コゼロット" "!NA0133">
-「お父様の吐息が……お父様の熱いモノが……」
+<name "Kozelotte" "!NA0133">
+"My father's breath...
+ His hot thing..."
 #
-<name "コゼロット" "!NA0134">
-「ふぁん」
+<name "Kozelotte" "!NA0134">
+"Aah!"
 #
-<name "フォーゼロッテ" "!XA0267">
-「妄想、止め！」
+<name "Forzelotte" "!XA0267">
+"Enough with the delusions!"
 #
 <music 41>
 <background "bg003a0.agf" 10>
 <sprite "ta11a010.agf" 4 4 11>
-<name "コゼロット" "!NA0135">
-「あいたぁ！
-　な、なにをするんですかお母様」
+<name "Kozelotte" "!NA0135">
+"Ow!
+ W-What are you doing, Mom!?"
 #
 <removesprite -1 11>
 <sprite "ta11a010.agf" 2 5 11>
 <sprite "ta09a009.agf" 6 4 11>
-<name "フォーゼロッテ" "!XA0268">
-「なにをする、ではない。
-　娘が人目もはばからずに自慰行為に勤しみ始めた
-　ら、普通は止めるのが母の仕事であろう」
+<name "Forzelotte" "!XA0268">
+"Do not give me that.
+ If someone's daughter is going to pleasure
+ herself in public, of course it is the 
+ mother's duty to put a stop to it."
 #
 <sprite "ta11a011.agf" 2 5 12>
-<name "コゼロット" "!NA0136">
-「そんな。
-　自慰行為だなんて……あれ？」
+<name "Kozelotte" "!NA0136">
+"No way.
+ I wasn't ple... huh?"
 #
 <sprite "ta09a016.agf" 6 4 12>
-<name "フォーゼロッテ" "!XA0269">
-「自覚が無いとは……かなり危ないぞ」
+<name "Forzelotte" "!XA0269">
+"If you weren't even conscious of it... that's
+ all the more dangerous."
 #
 <sprite "ta11a010.agf" 2 5 12>
-<name "コゼロット" "!NA0137">
-「お、おかしいなぁ」
+<name "Kozelotte" "!NA0137">
+"T-That's weird."
 #
 <sprite "ta09a020.agf" 6 4 12>
-<name "フォーゼロッテ" "!XA0270">
-「学園では品行方正で通っているのに……」
+<name "Forzelotte" "!XA0270">
+"And you're so well-behaved in school too..."
 #
 <sprite "ta11a012.agf" 2 5 12>
-<name "コゼロット" "!NA0138">
-「お父様の評判は落とせないもの」
+<name "Kozelotte" "!NA0138">
+"I can't hurt my father's reputation."
 #
 <sprite "ta09a021.agf" 6 4 12>
-<name "フォーゼロッテ" "!XA0271">
-「その気概は認めるがな」
+<name "Forzelotte" "!XA0271">
+"I do acknowledge your spirit."
 #
 <sprite "ta09a010.agf" 6 4 12>
-<name "フォーゼロッテ" "!XA0272">
-「とりあえず、ダークスを恋愛対象にするのは止め
-　なさい」
+<name "Forzelotte" "!XA0272">
+"In any case, do not view Darx romantically."
 #
 <sprite "ta11a007.agf" 2 5 12>
-<name "コゼロット" "!NA0139">
-「やだ」
+<name "Kozelotte" "!NA0139">
+"No way."
 #
 <sprite "ta09a009.agf" 6 4 12>
-<name "フォーゼロッテ" "!XA0273">
-「……………………流石に温厚な母でも、怒るぞ」
+<name "Forzelotte" "!XA0273">
+".........Your gentle mother can become quite
+ angry."
 #
 <sprite "ta11a016.agf" 2 5 12>
-<name "コゼロット" "!NA0140">
-「お父様と隙あらばイチャイチャしているお母様に
-　言われたくない」
+<name "Kozelotte" "!NA0140">
+"I don't want to hear that from someone who
+ gets busy with him every chance she gets."
 #
 <sprite "ta09a011.agf" 6 4 12>
-<name "フォーゼロッテ" "!XA0274">
-「夫婦がイチャイチャして、どこが悪い！
-　それに、私達はちゃんと人目もはばかっている！」
+<name "Forzelotte" "!XA0274">
+"What is wrong with a couple getting busy!?
+ And we only do it away from prying eyes!"
 #
 <sprite "ta11a010.agf" 2 5 12>
-<name "コゼロット" "!NA0141">
-「そう思っているのは二人だけじゃないかな」
+<name "Kozelotte" "!NA0141">
+"You're the only two who think you are."
 #
 <sprite "ta09a014.agf" 6 4 12>
-<name "フォーゼロッテ" "!XA0275">
-「ぬ」
+<name "Forzelotte" "!XA0275">
+"Ngh..."
 #
 <sprite "ta11a011.agf" 2 5 12>
-<name "コゼロット" "!NA0142">
-「娘としては、知りたくない事を色々と知ってしまっ
-　たんだけどな」
+<name "Kozelotte" "!NA0142">
+"As your daughter, I've learned all kinds of
+ things I wish I never knew."
 #
 <sprite "ta09a016.agf" 6 4 12>
-<name "フォーゼロッテ" "!XA0276">
-「た……例えば？」
+<name "Forzelotte" "!XA0276">
+"S-Such as?"
 #
 <sprite "ta11a010.agf" 2 5 12>
-<name "コゼロット" "!NA0143">
-「お風呂場でのローションプレイ」
+<name "Kozelotte" "!NA0143">
+"Lotion play in the bath."
 #
 <sprite "ta09a019.agf" 6 4 12>
-<name "フォーゼロッテ" "!XA0277">
-「ぬ」
+<name "Forzelotte" "!XA0277">
+"Ngh..."
 #
 <sprite "ta11a011.agf" 2 5 12>
-<name "コゼロット" "!NA0144">
-「脱衣所でのストリッププレイ」
+<name "Kozelotte" "!NA0144">
+"Striptease in the dressing room."
 #
 <sprite "ta09a020.agf" 6 4 12>
-<name "フォーゼロッテ" "!XA0278">
-「ぬぬ」
+<name "Forzelotte" "!XA0278">
+"Nnngggghh..."
 #
 <sprite "ta11a010.agf" 2 5 12>
-<name "コゼロット" "!NA0145">
-「トイレでの拘束プレイ」
+<name "Kozelotte" "!NA0145">
+"Bondage in the bathroom."
 #
 <sprite "ta09a016.agf" 6 4 12>
-<name "フォーゼロッテ" "!XA0279">
-「うぬう」
+<name "Forzelotte" "!XA0279">
+"Urrnnnnggh..."
 #
 <sprite "ta11a011.agf" 2 5 12>
-<name "コゼロット" "!NA0146">
-「物置。
-　これ、引くぐらいハードだったよね」
+<name "Kozelotte" "!NA0146">
+"The storeroom.
+ That was especially hardcore, wasn't it?"
 #
 <sprite "ta09a022.agf" 6 4 12>
-<name "フォーゼロッテ" "!XA0280">
-「あ、あれは……」
+<name "Forzelotte" "!XA0280">
+"T-That's..."
 #
 <sprite "ta11a010.agf" 2 5 12>
-<name "コゼロット" "!NA0147">
-「台所での新婚プレイ」
+<name "Kozelotte" "!NA0147">
+"Newlywed roleplay in the kitchen."
 #
 <sprite "ta09a019.agf" 6 4 12>
-<name "フォーゼロッテ" "!XA0281">
-「う、うううう……」
+<name "Forzelotte" "!XA0281">
+"N-Nnngh..."
 #
 <sprite "ta11a007.agf" 2 5 12>
-<name "コゼロット" "!NA0148">
-「ベッド以外での目撃が多過ぎる！」
+<name "Kozelotte" "!NA0148">
+"There's way too much way outside the bed!"
 #
 <sprite "ta09a017.agf" 6 4 12>
-<name "フォーゼロッテ" "!XA0282">
-「そ、それは、お主がベッドを覗いているのを知っ
-　ていたから……」
+<name "Forzelotte" "!XA0282">
+"T-That's because I knew that you were peeping
+ on us in bed..."
 #
 <sprite "ta11a008.agf" 2 5 12>
-<name "コゼロット" "!NA0149">
-「それで我慢できなくなって、各所での行為！」
+<name "Kozelotte" "!NA0149">
+"You couldn't take it and you just did it all
+ over the place!"
 #
 <sprite "ta11a009.agf" 2 5 12>
-<name "コゼロット" "!NA0150">
-「私の行為をよく咎められたわね！」
+<name "Kozelotte" "!NA0150">
+"How dare you criticize what I do!?"
 #
 <sprite "ta09a014.agf" 6 4 12>
-<name "フォーゼロッテ" "!XA0283">
-「うぬうっ！」
+<name "Forzelotte" "!XA0283">
+"Urgh!"
 #
 <sprite "ta11a012.agf" 2 5 12>
-<name "コゼロット" "!NA0151">
-「まあ、私としてはお父様の色々なプレイが見れて
-　嬉しいから、このまま各所でのプレイも続けて貰
-　えればと」
+<name "Kozelotte" "!NA0151">
+"Well, I'm personally happy to see all the
+ kinds of things that he enjoys, so I hope you
+ keep up all your little games all over the
+ place."
 #
 <sprite "ta09a018.agf" 6 4 12>
-<name "フォーゼロッテ" "!XA0284">
-「ここまで言われてできるか！」
+<name "Forzelotte" "!XA0284">
+"I think you've said enough!"
 #
 <sprite "ta11a017.agf" 2 5 12>
-<name "コゼロット" "!NA0152">
-「ああ、娘に見られながらのプレイ。
-　お父様は興奮するかしら」
+<name "Kozelotte" "!NA0152">
+"Oh, and I wonder if he'd get excited by having
+ his daughter watch."
 #
 <sprite "ta11a011.agf" 2 5 12>
-<name "コゼロット" "!NA0153">
-「…………しないわね」
+<name "Kozelotte" "!NA0153">
+".........He wouldn't."
 #
 <sprite "ta09a014.agf" 6 4 12>
-<name "フォーゼロッテ" "!XA0285">
-「良くわかっているではないか」
+<name "Forzelotte" "!XA0285">
+"You know better."
 #
 <sprite "ta11a001.agf" 2 5 12>
-<name "コゼロット" "!NA0154">
-「この件、お互いお父様には秘密と言う事で」
+<name "Kozelotte" "!NA0154">
+"Let's both keep what was said here secret from
+ him."
 #
 <sprite "ta09a001.agf" 6 4 12>
-<name "フォーゼロッテ" "!XA0286">
-「よ、よかろう」
+<name "Forzelotte" "!XA0286">
+"V-Very well."
 #
 <sprite "ta09a016.agf" 6 4 12>
-<name "フォーゼロッテ" "!XA0287">
-「はぁ」
+<name "Forzelotte" "!XA0287">
+"..."
 #
-<name "フォーゼロッテ" "!XA0288">
-「ともかく、ダークスを異性として見るのは……
-　遠慮しなさい。
-　こちらも気をつけるから」
+<name "Forzelotte" "!XA0288">
+"In any case, please try not to view Darx as a
+ man.
+ I will be more cautious as well."
 #
 <sprite "ta11a004.agf" 2 5 12>
-<name "コゼロット" "!NA0155">
-「無理だと思うけど、努力してみます」
+<name "Kozelotte" "!NA0155">
+"I don't know if I can, but I'll try."
 #
 <sprite "ta09a005.agf" 6 4 12>
-<name "フォーゼロッテ" "!XA0289">
-「この優等生め」
+<name "Forzelotte" "!XA0289">
+"You misbehaving honor student."
 #
 <sprite "ta11a005.agf" 2 5 12>
-<name "コゼロット" "!NA0156">
-「お母様の娘ですから」
+<name "Kozelotte" "!NA0156">
+"I am my mother's daughter."
 #
 <removesprite -1 11>
-　……
+...
 #
-<name "ダークス">
-「……」
+<name "Darx">
+"..."
 #
-<name "ダークス">
-「リアル娘の前はヒくけど、妄想ならＯＫだ！」
+<name "Darx">
+"In front of my actual daughter is no, but it's
+ fine if it's an illusion!"
 #
 <sprite "ta11a112.agf" 4 4 11>
-<name "コゼロット" "!NA0157">
-「きゃー、お父様のエロモンスター！
-　私も襲ってー！」
+<name "Kozelotte" "!NA0157">
+"Eek! You sex monster!
+ Attack me too!"
 #
 <removesprite -1 11>
 <sprite "ta09a016.agf" 4 4 11>
-<name "フォーゼロッテ" "!XA0290">
-「どうしてこんなに残念に……
-　やっぱり、色々な所でプレイしたのが教育に悪かっ
-　たのかな」
+<name "Forzelotte" "!XA0290">
+"So unfortunate...
+ It really was bad for your upbringing to have
+ done that in so many places."
 #
 <sprite "ta09a020.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0291">
-「少し反省」
+<name "Forzelotte" "!XA0291">
+"I have regrets."
 #
 <removesprite -1 11>
 \x2B\x78\x78

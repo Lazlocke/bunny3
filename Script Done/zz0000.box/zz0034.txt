@@ -1,77 +1,82 @@
 ﻿<music 28>
 <background "bg027a0.agf" 10>
 <sprite "ta07a001.agf" 4 4 11>
-<name "ワダツミ" "!MA0046">
-「ふはははは。
-　我が名はワダツミ。
-　天界のいたっ、いたっ、ちょ、こら、殴るの早い。
-　見せ場なんだから、私の見せ場なんだから」
+<name "Wadatsumi" "!MA0046">
+"Wahahaha!
+ My name is Wadatsumi.
+ Celestia's ow! Ow! Hey! Quit hitting me!
+ This is my show! My show!"
 #
-<name "ダークス">
-「このタイミングで出てきたんだ、雑魚だ！」
+<name "Darx">
+"You'd show your face now, you small fry!?"
 #
 <removesprite -1 11>
 <sprite "ta15a008.agf" 4 4 11>
-<name "マリーアリス" "!LA0055">
-「伏線も張らずに、よくも顔が出せましたね」
+<name "Marialis" "!LA0055">
+"You really showed up without any foreshadowing
+ at all."
 #
 <removesprite -1 11>
 <sprite "ta07a004.agf" 4 4 11>
-<name "ワダツミ" "!MA0047">
-「伏線はあった、匂わすのがいくつか」
+<name "Wadatsumi" "!MA0047">
+"There was foreshadowing.
+ A few hints."
 #
 <removesprite -1 11>
 <sprite "ta14a007.agf" 4 4 11>
-<name "パニバーナ" "!DA0055">
-「気付けってのが無理なレベルでしょ」
+<name "Paniverna" "!DA0055">
+"Too little to actually notice."
 #
 <removesprite -1 11>
-<name "イザナ" "!AA0020" "ka28a000.agf">
-「私の方が出番が多かった。
-　プフッ」
+<name "Izana" "!AA0020" "ka28a000.agf">
+"Even I had more screentime.
+ Pfft."
 #
 <sprite "ta07a006.agf" 4 4 11>
-<name "ワダツミ" "!MA0048">
-「くっ。
-　許さん、許さんからなぁ！」
+<name "Wadatsumi" "!MA0048">
+"Ngh!
+ Unacceptable!
+ This is unacceptable!"
 #
 <removesprite -1 11>
-<name "ウルティニア" "!EA0022" "ka29a000.agf">
-「あー、はいはい」
+<name "Ultinia" "!EA0022" "ka29a000.agf">
+"Aah, yes, yes."
 #
 <sprite "ta07a008.agf" 4 4 11>
-<name "ワダツミ" "!MA0049">
-「くっそー……強いのに、偉いのに」
+<name "Wadatsumi" "!MA0049">
+"Damn it...
+ I'm so strong and so great..."
 #
 <removesprite -1 11>
 <sprite "ta07a008.agf" 2 4 11>
 <sprite "ta06a004.agf" 6 5 11>
-<name "スイセン" "!YA0278">
-「ワ、ワダツミ様、ファイト」
+<name "Suisen" "!YA0278">
+"Y-You can do it, Wadatsumi."
 #
 <sprite "ta07a009.agf" 2 4 12>
-<name "ワダツミ" "!MA0050">
-「お前、私が敗れた後、なんか頑張るじゃん。
-　私がラスボスだと思っていたのに」
+<name "Wadatsumi" "!MA0050">
+"You didn't even fight your best until after I
+ was defeated.
+ I thought I was the last boss!"
 #
 <sprite "ta06a011.agf" 6 5 12>
-<name "スイセン" "!YA0279">
-「わ、私はその……ダークス様に情報を渡す役目が
-　ありましたから」
+<name "Suisen" "!YA0279">
+"I-I, um... I had the role of passing that
+ information to Darx."
 #
 <removesprite 6 11>
 <removesprite -1 11>
 <sprite "ta07a002.agf" 4 4 11>
-<name "ワダツミ" "!MA0051">
-「うう……
-　男であるというだけで、ここまで不遇な扱い」
+<name "Wadatsumi" "!MA0051">
+"Ooh...
+ I'm treated so badly just because I'm a man!"
 #
 <sprite "ta07a010.agf" 4 4 12>
-<name "ワダツミ" "!MA0052">
-「だが、負けん！
-　私は負けんぞー！」
+<name "Wadatsumi" "!MA0052">
+"But I won't give in!
+ I refuse to give in!"
 #
 <removesprite -1 11>
-　結局、負けたワダツミさんだった。
+In the end, he was nothing.
 #
 \x78\x78

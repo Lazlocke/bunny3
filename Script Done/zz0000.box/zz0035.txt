@@ -1,92 +1,96 @@
 ﻿<music 18>
 <background "ev055b00.agf" 10>
-<name "メリル" "!HA0091">
-「んぁ、ん、んぁ、ああん」
+<name "Meryl" "!HA0091">
+"Mm...mmmm...mmm...aah..."
 #
-<name "マリーアリス" "!LA0058">
-「報告って言ってるけど、これって完全にプレイだ
-　よね」
+<name "Marialis" "!LA0058">
+"You say this is reporting, but it's just
+ roleplaying."
 #
-<name "ラキア" "!ZC0234">
-「ですね」
+<name "Rakia" "!ZC0234">
+"It is."
 #
-<name "フォーゼロッテ" "!XA0116">
-「メリル……前はもっと真面目な女だったのに……」
+<name "Forzelotte" "!XA0116">
+"Meryl...
+ She used to be such a serious woman..."
 #
-<name "メリル" "!HA0044">
-「フォ、フォーゼロッテ様が、私を魔王様に差し出
-　したんじゃないですか。
-　あれで私の処女、なくなっちゃったんですからね」
+<name "Meryl" "!HA0044">
+"W-Weren't you the one who gave me to him?
+ That's how I lost my virginity."
 #
-<name "ラキア" "!ZC0235">
-「でも、あれから、ダークス様一筋なんですよね」
+<name "Rakia" "!ZC0235">
+"But since then, you've been wholeheartedly
+ devoted to him."
 #
-<name "メリル" "!HA0045">
-「あ、諦めるまでに、どれほどの精神的な苦痛を受
-　けたか……」
+<name "Meryl" "!HA0045">
+"D-Do you know how much suffering I endured
+ before I gave in?"
 #
-<name "メリル" "!HA0046">
-「最初の頃なんて、本当に道具扱いだったんですか
-　ら」
+<name "Meryl" "!HA0046">
+"At the start, he really did just treat me 
+ like some thing."
 #
-<name "ダークス">
-「あれはお前を守る為じゃないか」
+<name "Darx">
+"Wasn't that to protect you?"
 #
-<name "メリル" "!HA0047">
-「ううう……」
+<name "Meryl" "!HA0047">
+"..."
 #
-<name "ダークス">
-「それにその分、今は可愛がってやっているだろ」
+<name "Darx">
+"And aren't you all the more lovely for what
+ you're doing now?"
 #
-<name "メリル" "!HA0048">
-「ですけど」
+<name "Meryl" "!HA0048">
+"Still..."
 #
-<name "ダークス">
-「とりあえずだな。
-　メリルと楽しんでいる最中なので、後にしてもら
-　えるかな」
+<name "Darx">
+"Anyway, I'm having fun with Meryl right now,
+ so can we deal with it later?"
 #
-<name "フォーゼロッテ" "!XA0117">
-「仕方がない。
-　ああ、同じプレイを後で私にもするのだぞ」
+<name "Forzelotte" "!XA0117">
+"If you insist.
+ Oh, I would like the same thing for myself
+ later."
 #
-<name "マリーアリス" "!LA0059">
-「私にもお願いします」
+<name "Marialis" "!LA0059">
+"Me too, please."
 #
-<name "ラキア" "!ZC0236">
-「わ、私は……えっと……
-　ダークス様のお好みのプレイで構いませんよ」
+<name "Rakia" "!ZC0236">
+"I-I, um...
+ You can do it however you want."
 #
-<name "フォーゼロッテ" "!XA0118">
-「ラキア、それ女に嫌われる女だぞ」
+<name "Forzelotte" "!XA0118">
+"Rakia, you truly know how to be hated by
+ other women."
 #
-<name "ラキア" "!ZC0237">
-「え？
-　そ、そうですか？」
+<name "Rakia" "!ZC0237">
+"Huh?
+ R-Really?"
 #
-<name "フォーゼロッテ" "!XA0119">
-「一人だけ良い子になってはいけないと、コゼの読
-　んでいた雑誌に書いてあった」
+<name "Forzelotte" "!XA0119">
+"Do not single yourself out as the only good
+ girl. That's what they wrote in a magazine
+ Koze was reading."
 #
-<name "マリーアリス" "!LA0060">
-「雑誌のタイトル教えてください。
-　私も読んでみます」
+<name "Marialis" "!LA0060">
+"Tell me what magazine that was.
+ I'd like to read it too."
 #
-　……
+...
 #
-<name "メリル" "!HA0049">
-「魔王様」
+<name "Meryl" "!HA0049">
+"Overlord."
 #
-<name "ダークス">
-「ん？」
+<name "Darx">
+"Hm?"
 #
-<name "メリル" "!HA0050">
-「今日は私で打ち止めです。
-　後の方の分まで搾り取りますので」
+<name "Meryl" "!HA0050">
+"Today I'm going to finish you off.
+ I'm going to squeeze you completely dry."
 #
-<name "ダークス">
-「おう」
+<name "Darx">
+"Yeah.
 #
-　俺はメリルと行為を楽しんだ。
+I enjoy myself with her.
 #
 \x78\x78

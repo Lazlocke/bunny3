@@ -1,121 +1,124 @@
 ﻿<music 3>
 <background "bg010a0.agf" 10>
-<name "ダークス">
-「キュリハはどうして急にお淑やかになろうと思っ
-　たんだ？」
+<name "Darx">
+"Why did you suddenly want to become graceful
+ anyway?"
 #
 <sprite "ta05a017.agf" 4 4 11>
-<name "キュリハ" "!FA0396">
-「ふふ。
-　ダークス様。
-　私は昔から、お淑やかですよ」
+<name "Kyuriha" "!FA0396">
+"Heheh.
+ Darx, I have always been graceful."
 #
 <removesprite -1 11>
 <sprite "ta06a011.agf" 4 4 11>
-<name "スイセン" "!YA0064">
-「え？
-　お淑やか？
-　あだ名が姫武者だったのに？」
+<name "Suisen" "!YA0064">
+"Huh?
+ Graceful?
+ Wasn't your nickname the warrior princess?"
 #
 <removesprite -1 11>
 <sprite "ta03a011.agf" 2 4 11>
 <sprite "ta06a011.agf" 6 5 11>
-<name "ミアルテ" "!SA0225">
-「お淑やかの原因は、許婚逃亡事件ですね」
+<name "Miartei" "!SA0225">
+"The reason she became graceful is when she
+ ran away from her marriage."
 #
 <sprite "ta06a013.agf" 6 5 12>
-<name "スイセン" "!YA0065">
-「相手が親に泣きついて、強引に解消したってやつ
-　か」
+<name "Suisen" "!YA0065">
+"The boy went crying to his parents and forced
+ them to call it off."
 #
 <sprite "ta03a012.agf" 2 4 12>
-<name "ミアルテ" "!SA0226">
-「解消してくれなきゃ死ぬとまで言ったそうです」
+<name "Miartei" "!SA0226">
+"He said that if they didn't, he'd die."
 #
 <sprite "ta06a005.agf" 6 5 12>
-<name "スイセン" "!YA0066">
-「嫌われたもんだ」
+<name "Suisen" "!YA0066">
+"He sure hated her."
 #
 <sprite "ta03a014.agf" 2 4 12>
-<name "ミアルテ" "!SA0227">
-「さらに、そこそこ良いなぁって思った男性に声を
-　掛けたら、相手が土下座しながら財布を差し出し
-　て、勘弁してくれって言ったのが追い討ちですね」
+<name "Miartei" "!SA0227">
+"And then a man who everyone thought was pretty
+ good approached her on his hands and knees
+ with a handsome dowry, and she cut him down
+ by telling him to quit wasting her time."
 #
 <sprite "ta06a004.agf" 6 5 12>
-<name "スイセン" "!YA0067">
-「あー、あったあった。
-　そんな事。
-　そっか、あれがきっかけか」
+<name "Suisen" "!YA0067">
+"Ah, that did happen.
+ So that's it.
+ I see.
+ So that was the trigger."
 #
 <sprite "ta06a005.agf" 6 5 12>
-<name "スイセン" "!YA0068">
-「私はてっきり、見合い相手が全員逃走するって珍
-　事を起こしたからだと」
+<name "Suisen" "!YA0068">
+"I had thought that it was all the matchmaking
+ attempts that caused her to run away."
 #
 <sprite "ta03a019.agf" 2 4 12>
-<name "ミアルテ" "!SA0228">
-「あれは逃走したのではなく、見合い写真の受け取
-　り拒否ですよ。
-　ご両親が本気で泣いてましたね」
+<name "Miartei" "!SA0228">
+"That's not why she ran. 
+ She was refusing to have a matchmaking picture
+ taken.
+ Her parents were in tears."
 #
 <sprite "ta06a004.agf" 6 5 12>
-<name "スイセン" "!YA0069">
-「そうだったんだ」
+<name "Suisen" "!YA0069">
+"I see."
 #
 <sprite "ta03a012.agf" 2 4 12>
-<name "ミアルテ" "!SA0229">
-「あとは……
-　かなり年下の妹が彼氏を速攻でゲットして結婚ま
-　で決めたのもあるのでは？」
+<name "Miartei" "!SA0229">
+"And then...
+ Didn't her much younger sister find a
+ boyfriend and rush right into marriage?"
 #
 <sprite "ta06a020.agf" 6 5 12>
-<name "スイセン" "!YA0070">
-「ルーアルテより年下だっけ？」
+<name "Suisen" "!YA0070">
+"Even younger than Rualtei?"
 #
 <sprite "ta03a020.agf" 2 4 12>
-<name "ミアルテ" "!SA0230">
-「そうそう。
-　だから、キュリハってかなりルーに甘いのよね」
+<name "Miartei" "!SA0230">
+"Yes.
+ That's why she has such a soft spot for Ru."
 #
 <sprite "ta06a019.agf" 6 5 12>
-<name "スイセン" "!YA0071">
-「あははははは」
+<name "Suisen" "!YA0071">
+"Hahahahaha..."
 #
 <removesprite -1 11>
 <sprite "ta05a016.agf" 4 4 11>
-<name "キュリハ" "!FA0397">
-「ここに私のプライバシーは無いのでしょうか？」
+<name "Kyuriha" "!FA0397">
+"Do I have no right to my own privacy?"
 #
-<name "ダークス">
-「俺はお前の武勇伝なんて、気にしないぞ。
-　キュリハ、可愛いし」
+<name "Darx">
+"I don't care about your past exploits.
+ You're adorable, Kyuriha."
 #
 <sprite "ta05a018.agf" 4 4 12>
-<name "キュリハ" "!FA0398">
-「ダークス様♪」
+<name "Kyuriha" "!FA0398">
+"Darx.♪"
 #
 <removesprite -1 11>
 <sprite "ta06a010.agf" 4 4 11>
-<name "スイセン" "!YA0072">
-「いやー。
-　まさか、あのキュリハがねぇ」
+<name "Suisen" "!YA0072">
+"My.
+ I can't believe this is the same Kyuriha."
 #
 <removesprite -1 11>
 <sprite "ta03a019.agf" 2 4 11>
 <sprite "ta06a010.agf" 6 5 11>
-<name "ミアルテ" "!SA0231">
-「人間、恐るべしですね」
+<name "Miartei" "!SA0231">
+"Humans are terrifying."
 #
 <sprite "ta06a016.agf" 6 5 12>
-<name "スイセン" "!YA0073">
-「でも、武勇伝を全部語ったらさすがに引くんじゃ
-　ないかな」
+<name "Suisen" "!YA0073">
+"But if I heard about her entire saga, I 
+ would've wanted out too."
 #
 <sprite "ta03a020.agf" 2 4 12>
-<name "ミアルテ" "!SA0232">
-「あはは。
-　やめておいてあげてください」
+<name "Miartei" "!SA0232">
+"Hahaha.
+ Please, enough of this."
 #
 <removesprite -1 11>
 \x2B\x78\x78
