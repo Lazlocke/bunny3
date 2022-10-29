@@ -1,40 +1,40 @@
 //entry 0 -----------------------
-千樹庭 Arboreal Garden
-魔王の森、非統治地域。
-抵抗勢力が居る。
+Arboreal Garden
+The Overlord's Forest.|An uncontrolled area.
+Demons are resisting here.
 //entry 1 -----------------------
-炎山洞 Volcano Caverns
-魔王の森、非統治地域。
-抵抗勢力が居る。
+Volcano Caverns
+The Overlord's Forest.|An uncontrolled area.
+Demons are resisting here.
 //entry 2 -----------------------
-絶命院 Shrine of Death
-魔王の森外周部、非統治地域。
-抵抗勢力が多い。
+Shrine of Death
+Edge of the Overlord's Forest.|An uncontrolled area.
+There's significant resistance here.
 //entry 3 -----------------------
-鳳蜘蛛 Royal Web
-魔王の森外周部、非統治地域。
-抵抗勢力が多い。
+Royal Web
+Edge of the Overlord's Forest.|An uncontrolled area.
+There's significant resistance here.
 //entry 4 -----------------------
-雷貨の雲 Thunder Nimbus
-魔王の森に落下した天界の施設。|一部の天界勢力が反魔族活動を行っている。
-天界兵が多い。
+Thunder Nimbus
+A fallen Celestial Castle.|Angels are fighting demons here.
+Full of angels.
 //entry 5 -----------------------
-光峰の壁 Lucent Crown Wall
-魔王の森に落下した天界の施設。|一部の天界勢力が反魔族活動を行っている。
-天界兵が多い。
+Lucent Crown Wall
+A fallen Celestial Castle.|Angels are fighting demons here.
+Full of angels.
 //entry 6 -----------------------
-石葉層 Stoneleaf Vein
-魔王の森外周部、非統治地域。
-抵抗勢力がかなり多い。
+Stoneleaf Vein
+Edge of the Overlord's Forest.|An uncontrolled area.
+There's significant resistance here.
 //entry 7 -----------------------
-氷掌閣 Frostgrip Dome
-魔王の森外周部、非統治地域。
-抵抗勢力がかなり多い。
+Frostgrip Dome
+Edge of the Overlord's Forest.|An uncontrolled area.
+There's significant resistance here.
 //entry 8 -----------------------
-光峰の壁触手 Lucent Crown Tentacles
-魔力の塊の影響により、異質に変化した光峰の壁。
-危ない。
+Lucent Crown Tentacles
+The Lucent Crown has changed from the mass of mana now here.
+Be very careful.
 //entry 9 -----------------------
-堕天牢 Skyfall Prison
-人間界に存在する、天界に従わない者達の地区。|主に天界の魔物も多い。
-強い天界兵が多い。
+Skyfall Prison
+A place full of angels who reject Celestian law.|Countless angelic monstrosities exist here.
+Do not be careless.
