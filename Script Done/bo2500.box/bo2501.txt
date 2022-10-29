@@ -1387,7 +1387,7 @@ And in the middle of it is Forzelotte.
  A copy from a copy?"
 #
 <name "Darx">
-"It looks just like him."
+"It looks just like her."
 #
 <name "Company Maid" "!PC0085" "ka34c000.agf">
 "What are you going to do?"
