@@ -3,8 +3,8 @@
 dom_bz01.agf
 *
 *
-稼動している街の建物全てに、経験値を大きく与えます。
-探索開始時、『住民＋』の効果を得る。
+All buildings in the city will obtain a large amount of experience.
+Additional residents obtained during expeditions.
 住民＋
 *
 //entry 1 -----------------------
@@ -12,8 +12,8 @@ dom_bz01.agf
 dom_bz02.agf
 *
 *
-稼動している街の建物全てに、経験値を大きく与えます。
-探索開始時、『攻撃力＋』効果を得る。
+All buildings in the city will obtain a large amount of experience.
+Attack increased during expeditions.
 攻撃力＋
 *
 //entry 2 -----------------------
@@ -21,8 +21,8 @@ dom_bz02.agf
 dom_bz03.agf
 *
 *
-稼動している街の建物全てに、経験値を大きく与えます。
-探索開始時、『防御力＋』効果を得る。
+All buildings in the city will obtain a large amount of experience.
+Defense increased during expeditions.
 防御力＋
 *
 //entry 3 -----------------------
@@ -30,8 +30,8 @@ dom_bz03.agf
 dom_cz22.agf
 *
 *
-仕事をサボって……色々と頑張る。
-特に無し。
+Skip out on work and... try hard in other ways.
+No bonuses.
 *
 *
 //entry 4 -----------------------
@@ -39,8 +39,8 @@ dom_cz22.agf
 dom_cz20.agf
 *
 *
-仕事をサボって、ソフィアの様子を見ます。
-特に無し。
+Skip work and visit Sofia.
+No bonuses.
 *
 *
 //entry 5 -----------------------
@@ -48,8 +48,8 @@ dom_cz20.agf
 dom_cz21.agf
 *
 *
-仕事をサボって、マクドゥの様子を見ます。
-特に無し。
+Skip work and visit Macdo.
+No bonuses.
 *
 *
 //entry 6 -----------------------
@@ -57,8 +57,8 @@ dom_cz21.agf
 dom_cz15.agf
 *
 *
-稼動している街の建物全てに、経験値を少し与えます。
-資金を使い、住民が少し増える。
+All buildings in the city will obtain a small amount of experience.
+Spend some money to attract more residents.
 *
 *
 //entry 7 -----------------------
@@ -66,8 +66,8 @@ dom_cz15.agf
 dom_cz15.agf
 *
 *
-稼動している街の建物全てに、経験値を少し与えます。
-資金を使い、住民が少し増える。
+All buildings in the city will obtain a small amount of experience.
+Spend some money to attract more residents.
 *
 *
 //entry 8 -----------------------
@@ -75,8 +75,8 @@ dom_cz15.agf
 dom_cz15.agf
 *
 *
-稼動している街の建物全てに、経験値を少し与えます。
-資金を使い、住民が少し増える。
+All buildings in the city will obtain a small amount of experience.
+Spend some money to attract more residents.
 *
 *
 //entry 9 -----------------------
@@ -84,8 +84,8 @@ dom_cz15.agf
 dom_cz15.agf
 *
 *
-稼動している街の建物全てに、経験値を少し与えます。
-資金を使い、住民が少し増える。
+All buildings in the city will obtain a small amount of experience.
+Spend some money to attract more residents.
 *
 *
 //entry 10 -----------------------
@@ -93,8 +93,8 @@ dom_cz15.agf
 dom_cz08.agf
 *
 *
-稼動している街の建物全てに、経験値を少し与えます。
-資金と食料を使い、住民が少し増える。
+All buildings in the city will obtain a small amount of experience.
+Spend some money and food to attract more residents.
 *
 *
 //entry 11 -----------------------
@@ -102,8 +102,8 @@ dom_cz08.agf
 dom_cz16.agf
 *
 *
-稼動している街の建物全てに、経験値を少し与えます。
-住民が少し増える。
+All buildings in the city will obtain a small amount of experience.
+Attracts some residents.
 *
 *
 //entry 12 -----------------------
@@ -111,8 +111,8 @@ dom_cz16.agf
 dom_cz03.agf
 住居
 *
-稼動している街の建物全てに、経験値を少し与えます。
-資金を使い、住民が少し増える。
+All buildings in the city will obtain a small amount of experience.
+Spend some money to attract more residents.
 *
 *
 //entry 13 -----------------------
@@ -120,8 +120,8 @@ dom_cz03.agf
 dom_cz03.agf
 住居
 *
-稼動している街の建物全てに、経験値を少し与えます。
-資金を使い、住民が少し増える。
+All buildings in the city will obtain a small amount of experience.
+Spend some money to attract more residents.
 *
 *
 //entry 14 -----------------------
@@ -129,8 +129,8 @@ dom_cz03.agf
 dom_cz05.agf
 公園
 *
-稼動している街の建物全てに、経験値を少し与えます。
-住民が少し増える。
+All buildings in the city will obtain a small amount of experience.
+Attracts some residents.
 *
 *
 //entry 15 -----------------------
@@ -138,8 +138,8 @@ dom_cz05.agf
 dom_cz05.agf
 公園
 *
-稼動している街の建物全てに、経験値を少し与えます。
-住民が少し増える。
+All buildings in the city will obtain a small amount of experience.
+Attracts some residents.
 *
 *
 //entry 16 -----------------------
@@ -147,8 +147,8 @@ dom_cz05.agf
 dom_cz05.agf
 公園
 *
-稼動している街の建物全てに、経験値を少し与えます。
-住民が少し増える。
+All buildings in the city will obtain a small amount of experience.
+Attracts some residents.
 *
 *
 //entry 17 -----------------------
@@ -156,8 +156,8 @@ dom_cz05.agf
 dom_cz09.agf
 商店
 *
-稼動している街の建物全てに、経験値を少し与えます。
-資金を使い、住民が少し増える。
+All buildings in the city will obtain a small amount of experience.
+Spend some money to attract more residents.
 *
 *
 //entry 18 -----------------------
@@ -165,8 +165,8 @@ dom_cz09.agf
 dom_cz09.agf
 商店
 *
-稼動している街の建物全てに、経験値を少し与えます。
-資金を使い、住民が少し増える。
+All buildings in the city will obtain a small amount of experience.
+Spend some money to attract more residents.
 *
 *
 //entry 19 -----------------------
@@ -174,8 +174,8 @@ dom_cz09.agf
 dom_cz10.agf
 警備砦
 *
-稼動している街の建物全てに、経験値を少し与えます。
-住民が少し増える。
+All buildings in the city will obtain a small amount of experience.
+Attracts some residents.
 *
 *
 //entry 20 -----------------------
@@ -183,8 +183,8 @@ dom_cz10.agf
 dom_cz10.agf
 警備砦
 *
-稼動している街の建物全てに、経験値を少し与えます。
-住民が少し増える。
+All buildings in the city will obtain a small amount of experience.
+Attracts some residents.
 *
 *
 //entry 21 -----------------------
@@ -192,8 +192,8 @@ dom_cz10.agf
 dom_cz01.agf
 池
 *
-稼動している街の建物全てに、経験値を少し与えます。
-資金を使い、住民が少し増える。
+All buildings in the city will obtain a small amount of experience.
+Spend some money to attract more residents.
 *
 *
 //entry 22 -----------------------
@@ -201,8 +201,8 @@ dom_cz01.agf
 dom_cz01.agf
 池
 *
-稼動している街の建物全てに、経験値を少し与えます。
-資金を使い、住民が少し増える。
+All buildings in the city will obtain a small amount of experience.
+Spend some money to attract more residents.
 *
 *
 //entry 23 -----------------------
@@ -210,8 +210,8 @@ dom_cz01.agf
 dom_cz01.agf
 池
 *
-稼動している街の建物全てに、経験値を少し与えます。
-資金を使い、住民が少し増える。
+All buildings in the city will obtain a small amount of experience.
+Spend some money to attract more residents.
 *
 *
 //entry 24 -----------------------
@@ -219,8 +219,8 @@ dom_cz01.agf
 dom_cz17.agf
 *
 *
-稼動している街の建物全てに、経験値を少し与えます。
-住民が少し増える。
+All buildings in the city will obtain a small amount of experience.
+Attracts some residents.
 *
 *
 //entry 25 -----------------------
@@ -228,8 +228,8 @@ dom_cz17.agf
 dom_cz11.agf
 *
 *
-稼動している街の建物全てに、経験値を少し与えます。
-資金を使い、住民が少し増える。
+All buildings in the city will obtain a small amount of experience.
+Spend some money to attract more residents.
 *
 *
 //entry 26 -----------------------
@@ -237,8 +237,8 @@ dom_cz11.agf
 dom_cz12.agf
 商店
 *
-稼動している街の建物全てに、経験値を少し与えます。
-資金を使い、住民が少し増える。
+All buildings in the city will obtain a small amount of experience.
+Spend some money to attract more residents.
 *
 *
 //entry 27 -----------------------
@@ -246,8 +246,8 @@ dom_cz12.agf
 dom_cz07.agf
 *
 *
-稼動している街の建物全てに、経験値を少し与えます。
-資金を使い、住民が少し増える。
+All buildings in the city will obtain a small amount of experience.
+Spend some money to attract more residents.
 *
 *
 //entry 28 -----------------------
@@ -255,8 +255,8 @@ dom_cz07.agf
 dom_cz07.agf
 *
 *
-稼動している街の建物全てに、経験値を少し与えます。
-資金を使い、住民が少し増える。
+All buildings in the city will obtain a small amount of experience.
+Spend some money to attract more residents.
 *
 *
 //entry 29 -----------------------
@@ -264,8 +264,8 @@ dom_cz07.agf
 dom_cz13.agf
 *
 *
-稼動している街の建物全てに、経験値を少し与えます。
-住民が少し増える。
+All buildings in the city will obtain a small amount of experience.
+Attracts some residents.
 *
 *
 //entry 30 -----------------------
@@ -273,8 +273,8 @@ dom_cz13.agf
 dom_cz13.agf
 *
 *
-稼動している街の建物全てに、経験値を少し与えます。
-住民が少し増える。
+All buildings in the city will obtain a small amount of experience.
+Attracts some residents.
 *
 *
 //entry 31 -----------------------
@@ -282,8 +282,8 @@ dom_cz13.agf
 dom_cz14.agf
 娯楽店
 *
-稼動している街の建物全てに、経験値を少し与えます。
-資金を使い、住民が少し増える。
+All buildings in the city will obtain a small amount of experience.
+Spend some money to attract more residents.
 *
 *
 //entry 32 -----------------------
@@ -291,8 +291,8 @@ dom_cz14.agf
 dom_cz14.agf
 娯楽店
 *
-稼動している街の建物全てに、経験値を少し与えます。
-資金を使い、住民が少し増える。
+All buildings in the city will obtain a small amount of experience.
+Spend some money to attract more residents.
 *
 *
 //entry 33 -----------------------
@@ -300,8 +300,8 @@ dom_cz14.agf
 dom_cz14.agf
 娯楽店
 *
-稼動している街の建物全てに、経験値を少し与えます。
-資金を使い、住民が少し増える。
+All buildings in the city will obtain a small amount of experience.
+Spend some money to attract more residents.
 *
 *
 //entry 34 -----------------------
@@ -309,8 +309,8 @@ dom_cz14.agf
 dom_cz02.agf
 *
 *
-稼動している街の建物全てに、経験値を少し与えます。
-資金と食料を使い、住民が少し増える。
+All buildings in the city will obtain a small amount of experience.
+Spend some money and food to attract some residents.
 *
 *
 //entry 35 -----------------------
@@ -318,8 +318,8 @@ dom_cz02.agf
 dom_cz06.agf
 スタジアム
 *
-稼動している街の建物全てに、経験値を少し与えます。
-資金を使い、住民が少し増える。
+All buildings in the city will obtain a small amount of experience.
+Spend some money to attract more residents.
 *
 *
 //entry 36 -----------------------
@@ -327,8 +327,8 @@ dom_cz06.agf
 dom_cz23.agf
 *
 *
-稼動している街の建物全てに、経験値を少し与えます。
-資金を使い、住民が少し増える。
+All buildings in the city will obtain a small amount of experience.
+Spend some money to attract more residents.
 *
 *
 //entry 37 -----------------------
@@ -336,8 +336,8 @@ dom_cz23.agf
 dom_cz24.agf
 *
 *
-稼動している街の建物全てに、経験値を少し与えます。
-資金を使い、住民が少し増える。
+All buildings in the city will obtain a small amount of experience.
+Spend some money to attract more residents.
 *
 *
 //entry 38 -----------------------
@@ -345,7 +345,7 @@ dom_cz24.agf
 dom_cz18.agf
 *
 *
-稼動している街の建物全てに、経験値を少し与えます。
-資金を使い、住民が少し増える。
+All buildings in the city will obtain a small amount of experience.
+Spend some money to attract more residents.
 *
 *
