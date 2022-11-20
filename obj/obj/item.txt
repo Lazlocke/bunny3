@@ -1,5 +1,5 @@
 //entry 0 -----------------------
-ダークスの剣
+Darx's Sword
 剣
 *
 *
@@ -12,10 +12,10 @@
 *
 *
 ダークス私物
-装備者の斬撃系スキルの威力を２０％ＵＰする。
-ダークスが冒険者時代に愛用していた剣。|かなり痛んでいるので、価値は低い。
++20% Slashing Skills
+Darx's favorite sword from his adventuring days.|It's very worn, so it's not worth much.
 //entry 1 -----------------------
-量産された剣
+Sword
 剣
 *
 *
@@ -28,10 +28,10 @@
 *
 *
 落物00|武器Ａ|全部Ａ
-装備者の斬撃系スキルの威力を３％ＵＰする。
-量産品なので、切れ味もそこそこ。
++3% Slashing Skills
+A generic, mass-produced weapon, so it isn't that sharp.
 //entry 2 -----------------------
-選ばれた量産剣
+Quality Sword
 剣
 *
 *
@@ -44,10 +44,10 @@
 *
 *
 落物00|武器Ａ|全部Ａ
-装備者の斬撃系スキルの威力を３％ＵＰする。
-量産品の中から選ばれた、少し優秀な剣。|しかし、オーダーメイド品にはどうしても敵わない運命。
++3% Slashing Skills
+Mass-produced, but good quality.|Still won't match up to a custom forged blade.
 //entry 3 -----------------------
-斬れる剣
+Sharp Sword
 剣
 *
 *
@@ -60,10 +60,10 @@
 *
 *
 落物00|武器Ａ|全部Ａ
-装備者の斬撃系スキルの威力を５％ＵＰする。
-職人が丁寧に作り上げた剣。|量産品とはデキが違う。
++5% Slashing Skills
+A carefully forged blade.|Much better than a generic weapon.
 //entry 4 -----------------------
-名剣ルージュ
+Sword - Rouge
 剣
 *
 *
@@ -76,10 +76,10 @@
 *
 *
 落物01|武器Ａ|全部Ａ
-装備者の斬撃系スキルの威力を７％ＵＰする。
-ルージュなる人物が愛用した剣と思われていたが、最近の研究ではルージュが作った剣とされる。
++7% Slashing Skills
+It was thought to be named after its wielder, but Rouge is actually the forger.
 //entry 5 -----------------------
-名剣オーガ
+Sword - Orga
 剣
 *
 *
@@ -92,10 +92,10 @@
 *
 *
 落物01|武器Ａ|全部Ａ
-装備者の斬撃系スキルの威力を９％ＵＰする。
-オーガ工房が作り上げた剣。|数多くある。
++9% Slashing Skills
+Forged by the Orga workshop.|There are actually a lot of these.
 //entry 6 -----------------------
-光り輝く剣
+Glittering Sword
 剣
 *
 *
@@ -108,10 +108,10 @@
 *
 *
 落物01|武器Ａ|全部Ａ
-装備者の斬撃系スキルの威力を１１％ＵＰする。
-夜中、困るぐらいに光る剣。|威力はある。
++11% Slashing Skills
+Glows in the dark, which can be annoying.|Quite powerful.
 //entry 7 -----------------------
-闇に蠢く剣
+Dark Quickening Sword
 剣
 *
 *
@@ -124,10 +124,10 @@
 *
 *
 落物01|武器Ａ|全部Ａ
-装備者の斬撃系スキルの威力を１２％ＵＰする。
-夜中、不気味なぐらいに存在感があるので、人気が無い。
++12% Slashing Skills
+Not many like to use it because it's really creepy at night.
 //entry 8 -----------------------
-名刀ハルツキ
+Sword - Harutsuki
 剣
 *
 *
@@ -140,10 +140,10 @@
 *
 *
 落物01|武器Ａ|全部Ａ
-装備者の斬撃系スキルの威力を１３％ＵＰする。
-名のある刀鍛冶が作った刀。|春に完成したのでハルツキと名付けられた。
++13% Slashing Skills
+Forged by a famous smith.|Named for being forged in the spring.
 //entry 9 -----------------------
-名刀ナツヅキ
+Sword - Natsutsuki
 剣
 *
 *
@@ -156,10 +156,10 @@
 *
 *
 落物02|武器Ａ|全部Ａ
-装備者の斬撃系スキルの威力を１４％ＵＰする。
-名のある刀鍛冶が作った刀。|夏に完成したのでナツヅキと名付けられた。
++14% Slashing Skills
+Forged by a famous smith.|Named for being forged in the summer.
 //entry 10 -----------------------
-名刀アキヅキ
+Sword - Akitsuki
 剣
 *
 *
@@ -172,10 +172,10 @@
 *
 *
 落物02|武器Ａ|全部Ａ
-装備者の斬撃系スキルの威力を１５％ＵＰする。
-名のある刀鍛冶が作った刀。|秋に完成したのでアキヅキと名付けられた。
++15% Slashing Skills
+Forged by a famous smith.|Named for being forged in the autumn.
 //entry 11 -----------------------
-名刀フユツキ
+Sword - Fuyutsuki
 剣
 *
 *
@@ -188,10 +188,10 @@
 *
 *
 落物02|武器Ａ|全部Ａ
-装備者の斬撃系スキルの威力を１６％ＵＰする。
-名のある刀鍛冶が作った刀。|冬に完成したのでフユツキと名付けられた。
++16% Slashing Skills
+Forged by a famous smith.|Named for being forged in the winter.
 //entry 12 -----------------------
-名刀オオタ
+Sword - Ohta
 剣
 *
 *
@@ -204,10 +204,10 @@
 *
 *
 落物02|武器Ａ|全部Ａ
-装備者の斬撃系スキルの威力を１７％ＵＰする。
-名のある刀鍛冶が作った刀。|東方のオオタなる武将の一族が愛用したらしい。
++17% Slashing Skills
+Forged by a famous smith.|Said to have been wielded by a warlord of the east.
 //entry 13 -----------------------
-名刀ホウジョウ
+Sword - Houjou
 剣
 *
 *
@@ -220,10 +220,10 @@
 *
 *
 落物02|武器Ａ|全部Ａ
-装備者の斬撃系スキルの威力を１８％ＵＰする。
-名のある刀鍛冶が作った刀。|東方のホウジョウなる武将の一族の守護刀らしい。
++18% Slashing Skills
+Forged by a famous smith.|Said to be the guardian weapon of a family of warlords from the east.
 //entry 14 -----------------------
-魔剣アレスト
+Sword - Alest
 剣
 *
 *
@@ -236,10 +236,10 @@
 *
 *
 落物03|武器Ａ|全部Ａ
-装備者の斬撃系スキルの威力を１９％ＵＰする。
-魔界産の剣で、かなりの価値がある。
++19% Slashing Skills
+A very valuable sword from the Netherworld.
 //entry 15 -----------------------
-魔剣アザリン
+Sword - Azarin
 剣
 *
 *
@@ -252,10 +252,10 @@
 *
 *
 落物03|武器Ａ|全部Ａ
-装備者の斬撃系スキルの威力を２１％ＵＰする。
-魔界でも有名な剣。|昔の魔王の所持品らしい。
++21% Slashing Skills
+A famed Netherworld sword.|Said to have belonged to an ancient Overlord.
 //entry 16 -----------------------
-王の剣
+King's Blade
 剣
 *
 *
@@ -268,10 +268,10 @@
 *
 *
 宝箱Ｅ|武器Ａ|全部Ａ
-装備者の斬撃系スキルの威力を２３％ＵＰする。
-王様の為に作られた剣。|華美な装飾が施されながらも、実用性も高い。
++23% Slashing Skills
+A sword befitting a king.|It's highly decorated, but extremely practical.
 //entry 17 -----------------------
-聖なる剣
+Sacred Sword
 剣
 *
 *
@@ -284,10 +284,10 @@
 *
 *
 宝箱Ｅ|武器Ａ|全部Ａ
-装備者の斬撃系スキルの威力を２５％ＵＰする。
-教会により清められ、鍛えられた剣。魔族だけでなく、天界の住人にも効果があったりする。
++25% Slashing Skills
+Purified and blessed by the church.|Works well against both demons and angels.
 //entry 18 -----------------------
-流星剣
+Meteor Blade
 剣
 *
 *
@@ -300,10 +300,10 @@
 *
 *
 宝箱Ｅ|武器Ａ|全部Ａ
-装備者の斬撃系スキルの威力を５０％ＵＰする。
-流星を原材料に作られた剣。|恐ろしいほどの切れ味を誇る。
++50% Slashing Skills
+Forged from a fallen star.|Its sharpness is otherworldly.
 //entry 19 -----------------------
-手袋
+Gloves
 ナックル
 *
 *
@@ -316,10 +316,10 @@
 *
 *
 落物00|武器Ａ|全部Ａ
-装備者の打撃系スキルの威力を３％ＵＰする。
-素手よりは、少しだけマシ。
++3% Striking Skills
+Slightly better than bare hands.
 //entry 20 -----------------------
-ナックル
+Brass Knuckles
 ナックル
 *
 *
@@ -332,10 +332,10 @@
 *
 *
 落物00|武器Ａ|全部Ａ
-装備者の打撃系スキルの威力を５％ＵＰする。
-拳を覆い保護する道具。
++5% Striking Skills
+Covers and protects the fists.
 //entry 21 -----------------------
-形の良いナックル
+Iron Knuckles
 ナックル
 *
 *
@@ -348,10 +348,10 @@
 *
 *
 落物00|武器Ａ|全部Ａ
-装備者の打撃系スキルの威力を７％ＵＰする。
-拳にフィットするナックル。
++7% Striking Skills
+Gauntlets that fit snugly around the fists.
 //entry 22 -----------------------
-威力あるナックル
+Power Knuckles
 ナックル
 *
 *
@@ -364,10 +364,10 @@
 *
 *
 落物00|武器Ａ|全部Ａ
-装備者の打撃系スキルの威力を９％ＵＰする。
-外装に突起を装着し、攻撃力を上げたナックル。
++9% Striking Skills
+Spikes on the fingers for extra power.
 //entry 23 -----------------------
-命中するナックル
+Pugilist Knuckles
 ナックル
 *
 *
@@ -380,10 +380,10 @@
 *
 *
 落物01|武器Ａ|全部Ａ
-装備者の打撃系スキルの威力を１１％ＵＰする。
-軽いので命中しやすいと評判だが、実際には装備者の腕次第。
++11% Striking Skills
+Supposedly easy to hit with because they're light, but actually depends on the user's skill.
 //entry 24 -----------------------
-重量級のナックル
+Heavy Knuckles
 ナックル
 *
 *
@@ -396,10 +396,10 @@
 *
 *
 落物01|武器Ａ|全部Ａ
-装備者の打撃系スキルの威力を１３％ＵＰする。
-重くする事で威力増加を狙ったナックル。
++13% Striking Skills
+Made stronger just by being very, very heavy.
 //entry 25 -----------------------
-暴れるナックル
+Rampage Knuckles
 ナックル
 *
 *
@@ -412,10 +412,10 @@
 *
 *
 落物02|武器Ａ|全部Ａ
-装備者の打撃系スキルの威力を１５％ＵＰする。
-精神が高揚するようにデザインされたナックル。
++15% Striking Skills
+Designed to enhance one's ki.
 //entry 26 -----------------------
-猛牛ナックル
+Raging Bull Knuckles
 ナックル
 *
 *
@@ -428,10 +428,10 @@
 *
 *
 落物02|武器Ａ|全部Ａ
-装備者の打撃系スキルの威力を１７％ＵＰする。
-猛牛って強そう。|そんなシンプルな考えで名付けられたナックル。
++17% Striking Skills
+Named because bulls are strong.|Not a lot of thought went into it.
 //entry 27 -----------------------
-猛熊ナックル
+Ferocious Bear Knuckles
 ナックル
 *
 *
@@ -444,10 +444,10 @@
 *
 *
 落物03|武器Ａ|全部Ａ
-装備者の打撃系スキルの威力を１９％ＵＰする。
-“猛牛”に対抗して“猛熊”と名付けられたナックル。|性能は良いのに、少し残念な感じがしてしまう。
++19% Striking Skills
+Just named this way to sound stronger than a rampaging bull.
 //entry 28 -----------------------
-鋼の拳
+Steel Fist
 ナックル
 *
 *
@@ -460,10 +460,10 @@
 *
 *
 落物03|武器Ａ|全部Ａ
-装備者の打撃系スキルの威力を２０％ＵＰする。
-格闘家の為に作られたナックル。|シンプルな作りなのに高性能。
++20% Striking Skills
+Made for a martial artist.|Simple, but very elegant.
 //entry 29 -----------------------
-量産された弓
+Bow
 弓
 *
 *
@@ -476,10 +476,10 @@
 *
 *
 落物00|武器Ａ|全部Ａ
-装備者の射撃系スキルの威力を３％ＵＰする。
-大量生産された弓。|まっすぐ飛ぶのだろうか？
++3% Ranged Skills
+A generic bow.|Will it even shoot straight?
 //entry 30 -----------------------
-リンゴの弓
+Applewood Bow
 弓
 *
 *
@@ -492,10 +492,10 @@
 *
 *
 落物00|武器Ａ|全部Ａ
-装備者の射撃系スキルの威力を５％ＵＰする。
-昔の偉い人が頭の上のリンゴを射った時に使用した弓。|実は量産品。
++5% Ranged Skills
+Used by an old hero to shoot an apple off someone's head.|Actually though, it's mass-produced.
 //entry 31 -----------------------
-獅子の弓
+Lion Bow
 弓
 *
 *
@@ -508,10 +508,10 @@
 *
 *
 落物00|武器Ａ|全部Ａ
-装備者の射撃系スキルの威力を７％ＵＰする。
-オーダーメイドな弓。|獅子の彫り物がある。
++7% Ranged Skills
+Custom made with a lion motif.
 //entry 32 -----------------------
-名弓ボーマン
+Bow - Bowman
 弓
 *
 *
@@ -524,10 +524,10 @@
 *
 *
 落物01|武器Ａ|全部Ａ
-装備者の射撃系スキルの威力を９％ＵＰする。
-ボーマンなる人物が作った弓。|ある種のブランド品。
++9% Ranged Skills
+A bow made by someone named Bowman.|Apparently it's a brand name.
 //entry 33 -----------------------
-名弓ファルマ
+Bow - Falma
 弓
 *
 *
@@ -540,10 +540,10 @@
 *
 *
 落物01|武器Ａ|全部Ａ
-装備者の射撃系スキルの威力を１１％ＵＰする。
-ファルマなる人物が作った弓。|ボーマンの師匠とも言われている。
++11% Ranged Skills
+Crafted by Falma, the master of Bowman.
 //entry 34 -----------------------
-精霊の弓
+Bow of Spirits
 弓
 *
 *
@@ -556,10 +556,10 @@
 *
 *
 落物02|武器Ａ|全部Ａ
-装備者の射撃系スキルの威力を１３％ＵＰする。
-太古の昔に精霊が作ったとされる弓だが、現存数が多いので噂だと考えられている。
++13% Ranged Skills
+Said to have been created by spirits long ago, but is probably just a rumor, because a lot of these exist.
 //entry 35 -----------------------
-天の弓
+Angel's Bow
 弓
 *
 *
@@ -572,10 +572,10 @@
 *
 *
 落物02|武器Ａ|全部Ａ
-装備者の射撃系スキルの威力を１５％ＵＰする。
-天界の住人が落とした弓。|持ち主の名前が書かれているが、擦れて読めない。
++15% Ranged Skills
+Dropped by an angel.|The owner's name is written on it, but it's illegible now.
 //entry 36 -----------------------
-聖なる弓
+Sacred Bow
 弓
 *
 *
@@ -588,10 +588,10 @@
 *
 *
 落物02|武器Ａ|全部Ａ
-装備者の射撃系スキルの威力を３０％ＵＰする。
-祭具の一種だが、ちゃんと実用にも耐えられる。
++30% Ranged Skills
+Mainly used for holy rites, but can be used in actual combat too.
 //entry 37 -----------------------
-古い手裏剣
+Old Shuriken
 手裏剣
 *
 *
@@ -604,10 +604,10 @@
 *
 *
 落物02|武器Ａ|全部Ａ
-装備者の射撃系スキルの威力を１０％ＵＰする。
-使い込まれた暗殺武器。|幾多の血を吸ってきたのだろう。
++10% Ranged Skills
+A very used weapon for assassins.|Has definitely seen a lot of blood.
 //entry 38 -----------------------
-手裏剣
+Shuriken
 手裏剣
 *
 *
@@ -620,10 +620,10 @@
 *
 *
 落物02|武器Ａ|全部Ａ
-装備者の射撃系スキルの威力を２０％ＵＰする。
-忍者が愛用する暗殺武器。|投げたり斬ったりできる。
++20% Ranged Skills
+A ninja's preferred weapon for assassination.|Can be thrown or used to slash.
 //entry 39 -----------------------
-水玄衆の手裏剣
+Mizugenshu Shuriken
 手裏剣
 *
 *
@@ -636,10 +636,10 @@
 *
 *
 落物03|武器Ａ|全部Ａ
-装備者の射撃系スキルの威力を２５％ＵＰする。
-東方の有名な忍者衆が愛用している手裏剣。|愛用されるだけあって、性能は高い。
++25% Ranged Skills
+Used by a famous ninja clan.|Beloved by its users for its efficiency.
 //entry 40 -----------------------
-使い込まれた杖
+Worn Staff
 杖
 *
 *
@@ -652,10 +652,10 @@
 *
 *
 落物00|武器Ａ|全部Ａ
-装備者の魔法系スキルの威力を３％ＵＰする。
-要するに中古品。
++3% Magic Skills
+Basically just a hand-me-down.
 //entry 41 -----------------------
-綺麗な杖
+Beautiful Staff
 杖
 *
 *
@@ -668,10 +668,10 @@
 *
 *
 落物00|武器Ａ|全部Ａ
-装備者の魔法系スキルの威力を４％ＵＰする。
-新品。
++4% Magic Skills
+Brand new.
 //entry 42 -----------------------
-名のある杖
+Famed Staff
 杖
 *
 *
@@ -684,10 +684,10 @@
 *
 *
 落物00|武器Ａ|全部Ａ
-装備者の魔法系スキルの威力を５％ＵＰする。
-ちょっと有名な杖。|ブランド品。
++5% Magic Skills
+Just a little famous.|It's a brand name.
 //entry 43 -----------------------
-魔力の杖
+Magic Staff
 杖
 *
 *
@@ -700,10 +700,10 @@
 *
 *
 落物01|武器Ａ|全部Ａ
-装備者の魔法系スキルの威力を６％ＵＰする。
-魔力を蓄えるとされる杖。
++6% Magic Skills
+Created to be able to store mana.
 //entry 44 -----------------------
-幸福の杖
+Happy Staff
 杖
 *
 *
@@ -716,10 +716,10 @@
 *
 *
 落物01|武器Ａ|全部Ａ
-装備者の魔法系スキルの威力を７％ＵＰする。
-少しだけ幸福を運んでくる杖。
++7% Magic Skills
+Brings a little happiness.
 //entry 45 -----------------------
-驚愕の杖
+Amazing Staff
 杖
 *
 *
@@ -732,10 +732,10 @@
 *
 *
 落物02|武器Ａ|全部Ａ
-装備者の魔法系スキルの威力を８％ＵＰする。
-驚くぐらい凄い杖。
++8% Magic Skills
+A surprisingly amazing staff.
 //entry 46 -----------------------
-絶望の杖
+Despair Staff
 杖
 *
 *
@@ -748,10 +748,10 @@
 *
 *
 落物02|武器Ａ|全部Ａ
-装備者の魔法系スキルの威力を９％ＵＰする。
-杖職人がこれを見て絶望するぐらい良い杖。
++9% Magic Skills
+So incredible that it brings staff makers to despair.
 //entry 47 -----------------------
-魔導の杖
+Sorceror's Staff
 杖
 *
 *
@@ -764,10 +764,10 @@
 *
 *
 落物02|武器Ａ|全部Ａ
-装備者の魔法系スキルの威力を１０％ＵＰする。
-魔法を極めた者が愛用した杖。|この杖があるから魔法を極められたとの噂もある。
++10% Magic Skills
+Used by those who have mastered magic.|There are rumors that some mastered magic because of this staff.
 //entry 48 -----------------------
-聖なる杖
+Sacred Staff
 杖
 *
 *
@@ -780,10 +780,10 @@
 *
 *
 落物03|武器Ａ|全部Ａ
-装備者の魔法系スキルの威力を１１％ＵＰする。
-神事に使われていた神聖な杖。
++11% Magic Skills
+A sacred staff used for holy rituals.
 //entry 49 -----------------------
-魔王の杖
+Overlord Staff
 杖
 *
 *
@@ -796,10 +796,10 @@
 *
 *
 落物03|武器Ａ|全部Ａ
-装備者の魔法系スキルの威力を１２％ＵＰする。
-魔王が愛用しているとされる杖。
++12% Magic Skills
+Said to be used by Overlords.
 //entry 50 -----------------------
-板
+Board
 盾
 *
 *
@@ -812,10 +812,10 @@
 *
 *
 落物00|防具Ａ|全部Ａ
-装備者の射撃系スキルに対する防御力を１％ＵＰする。
-無いよりマシな盾……いや、板か。
++1% Ranged Defense
+A better shield than nothing... or at least a board.
 //entry 51 -----------------------
-簡易な盾
+Shield
 盾
 *
 *
@@ -828,10 +828,10 @@
 *
 *
 落物00|防具Ａ|全部Ａ
-装備者の射撃系スキルに対する防御力を３％ＵＰする。
-板に取っ手を付けただけのシンプルな盾。
++3% Ranged Defense
+A simple shield.|Just a board with a handle.
 //entry 52 -----------------------
-木の盾
+Wood Shield
 盾
 *
 *
@@ -844,10 +844,10 @@
 *
 *
 落物00|防具Ａ|全部Ａ
-装備者の射撃系スキルに対する防御力を５％ＵＰする。
-木で作られた盾。|木で作られてても盾は盾。
++5% Ranged Defense
+A shield is a shield, even if it's made of wood.
 //entry 53 -----------------------
-鉄の盾
+Iron Shield
 盾
 *
 *
@@ -860,10 +860,10 @@
 *
 *
 落物01|防具Ａ|全部Ａ
-装備者の射撃系スキルに対する防御力を１０％ＵＰする。
-鉄で作られた盾。|重い。
++10% Ranged Defense
+Made of iron.|Heavy.
 //entry 54 -----------------------
-鋼の盾
+Steel Shield
 盾
 *
 *
@@ -876,10 +876,10 @@
 *
 *
 落物02|防具Ａ|全部Ａ
-装備者の射撃系スキルに対する防御力を１０％、打撃系スキルに対する防御力を５％ＵＰする。
-鋼で作られた盾。|持つ人の事を考えていない。
++10% Ranged Defense|+5% Striking Defense
+Do not underestimate those who have one.
 //entry 55 -----------------------
-聖なる盾
+Holy Shield
 盾
 *
 *
@@ -892,10 +892,10 @@
 *
 *
 落物02|防具Ａ|全部Ａ
-装備者の射撃系スキルに対する防御力を２０％、打撃系スキルに対する防御力を１０％ＵＰする。
-神聖な盾。|神の加護があるらしい。
++20% Ranged Defense|+10% Striking Defense
+Said to be blessed by God.
 //entry 56 -----------------------
-炎の盾
+Flame Shield
 盾
 *
 *
@@ -908,10 +908,10 @@
 *
 *
 落物03|防具Ａ|全部Ａ
-装備者の射撃系スキルに対する防御力を１５％ＵＰし、火属性に対する防御力を３０％ＵＰする。
-炎を纏う盾。
++15% Ranged Defense|+30% Fire Defense
+A shield that's covered in flames.
 //entry 57 -----------------------
-氷の盾
+Ice Shield
 盾
 *
 *
@@ -924,10 +924,9 @@
 *
 *
 落物03|防具Ａ|全部Ａ
-装備者の射撃系スキルに対する防御力を１５％ＵＰし、水属性に対する防御力を３０％ＵＰする。
-氷気を纏う盾。
-//entry 58 -----------------------
-小さな盾
++15% Ranged Defense|+30% Ice Defense
+A shield that's covered in ice.
+Buckler
 盾
 *
 *
@@ -940,10 +939,10 @@
 *
 *
 落物03|防具Ａ|全部Ａ
-装備者の射撃系スキルに対する防御力を２５％ＵＰし、装備者の回避力を＋４する。
-扱いやすい盾。|使いこなすには技量が必要とされる。
++25% Ranged Defense|+4 Evade
+An easy to use shield, but still requires skill.
 //entry 59 -----------------------
-古びた服
+Old Clothing
 服
 *
 *
@@ -956,10 +955,10 @@
 *
 *
 落物00|防具Ａ|全部Ａ
-装備者の防御力を＋１する。
-古着。
++1 Defense
+Simply old and worn clothing.
 //entry 60 -----------------------
-一般的な服
+Casual Clothing
 服
 *
 *
@@ -972,10 +971,10 @@
 *
 *
 落物00|防具Ａ|全部Ａ
-装備者の防御力を＋２する。
-可も無く不可も無い一般的な服。|デートに着ていくには勇気が必要。
++2 Defense
+Neither good nor bad.|You'd have to be brave to wear these to a date.
 //entry 61 -----------------------
-お洒落な服
+Fancy Threads
 服
 *
 *
@@ -988,10 +987,10 @@
 *
 *
 落物00|防具Ａ|全部Ａ
-装備者の防御力を＋３する。
-誰もが認めるお洒落な服。|しかし、誰もが認めると言う事は逆にお洒落ではないのではなかろうか。
++3 Defense
+Stylish clothes that would impress anybody.|But not everyone has the same sense of style.
 //entry 62 -----------------------
-輝く服
+Shining Suit
 服
 *
 *
@@ -1004,10 +1003,10 @@
 *
 *
 落物01|防具Ａ|全部Ａ
-装備者の防御力を＋４する。
-スター性を隠しきれない服。|凄そうだけど、所詮は服。
++4 Defense
+Clothing that brings out one's star power.|Look great, but they're still just clothes.
 //entry 63 -----------------------
-身軽な軽鎧
+Light Armor
 軽鎧
 *
 *
@@ -1020,10 +1019,10 @@
 *
 *
 落物01|防具Ａ|全部Ａ
-装備者の防御力を＋５する。
-軽さを追求して作られた鎧。|服よりは安心感がある。
++5 Defense
+Made to be easy to wear.|More protective than clothes.
 //entry 64 -----------------------
-名のある軽鎧
+Famed Light Armor
 軽鎧
 *
 *
@@ -1036,10 +1035,10 @@
 *
 *
 落物01|防具Ａ|全部Ａ
-装備者の防御力を＋６する。
-有名な鎧職人が作った一品。
++6 Defense
+Made by a famous armor maker.
 //entry 65 -----------------------
-熟練の軽鎧
+Master's Leather
 軽鎧
 *
 *
@@ -1052,10 +1051,10 @@
 *
 *
 落物02|防具Ａ|全部Ａ
-装備者の防御力を＋７する。
-ベテランな冒険者が選ぶ鎧。|素人には扱い難いらしい。
++7 Defense
+For experienced adventurers only.|May be difficult for novices to handle.
 //entry 66 -----------------------
-頑丈な鎧
+Sturdy Armor
 鎧
 *
 *
@@ -1068,10 +1067,10 @@
 *
 *
 落物02|防具Ａ|全部Ａ
-装備者の防御力を＋８する。
-頑丈に作られた鎧。
++8 Defense
+Sturdy and well-made.
 //entry 67 -----------------------
-守りの鎧
+Custom Armor
 鎧
 *
 *
@@ -1084,10 +1083,10 @@
 *
 *
 落物02|防具Ａ|全部Ａ
-装備者の防御力を＋９する。
-装備する者の事が考えられた鎧。
++9 Defense
+Designed for the wearer.
 //entry 68 -----------------------
-命の鎧
+Life Armor
 鎧
 *
 *
@@ -1100,10 +1099,10 @@
 *
 *
 落物03|防具Ａ|全部Ａ
-装備者の防御力を＋１０する。
-生命力に溢れる鎧。
++10 Defense
+Full of vitality.
 //entry 69 -----------------------
-輝く鎧
+Shining Armor
 鎧
 *
 *
@@ -1116,10 +1115,10 @@
 *
 *
 落物03|防具Ａ|全部Ａ
-装備者の防御力を＋１１する。
-光り輝く眩しい鎧。
++11 Defense
+Armor that's glittering and bright.
 //entry 70 -----------------------
-光の鎧
+Holy Armor
 鎧
 *
 *
@@ -1132,10 +1131,10 @@
 *
 *
 落物03|防具Ａ|全部Ａ
-装備者の防御力を＋１２する。
-光に包まれた鎧。|目が痛くなる。
++12 Defense
+Wrapped in light.|Hard to look at.
 //entry 71 -----------------------
-かっこいい兜
+Cool Helmet
 兜
 *
 *
@@ -1148,10 +1147,10 @@
 *
 *
 落物00|防具Ａ|全部Ａ
-装備者の斬撃系スキルに対する防御力を５％ＵＰする。
-デザイン重視の兜。
++5% Slashing Defense
+The emphasis is on the design.
 //entry 72 -----------------------
-素敵な兜
+Great Helmet
 兜
 *
 *
@@ -1164,10 +1163,10 @@
 *
 *
 落物00|防具Ａ|全部Ａ
-装備者の斬撃系スキルに対する防御力を６％ＵＰする。
-素敵な装飾の施された兜。|海賊とか山賊が好む。
++6% Slashing Defense
+Has impressive decoration.|Fancied by pirates and bandits.
 //entry 73 -----------------------
-守りの兜
+Steel Helmet
 兜
 *
 *
@@ -1180,10 +1179,10 @@
 *
 *
 落物01|防具Ａ|全部Ａ
-装備者の斬撃系スキルに対する防御力を７％ＵＰする。
-“頭を守るぞ”という強い願いが込められた兜。
++7% Slashing Defense
+Made with the fervant wish to protect one's head.
 //entry 74 -----------------------
-魔法の兜
+Magic Helmet
 兜
 *
 *
@@ -1196,10 +1195,10 @@
 *
 *
 落物02|防具Ａ|全部Ａ
-装備者の斬撃系スキルに対する防御力を８％ＵＰする。
-魔法で保護された兜。|かなり丈夫。
++8% Slashing Defense
+It's imbued with magic.|Very strong.
 //entry 75 -----------------------
-夢の兜
+Dream Helmet
 兜
 *
 *
@@ -1212,10 +1211,10 @@
 *
 *
 落物02|防具Ａ|全部Ａ
-装備者の斬撃系スキルに対する防御力を９％ＵＰする。
-夢見が良くなる兜。|まあ、兜をしながら寝る事は稀でしょうけど。
++9% Slashing Defense
+Helps you have good dreams.|But not many people sleep in a helmet.
 //entry 76 -----------------------
-無限の兜
+Fractal Helmet
 兜
 *
 *
@@ -1228,10 +1227,10 @@
 *
 *
 落物03|防具Ａ|全部Ａ
-装備者の斬撃系スキルに対する防御力を１０％ＵＰする。
-多層構造の兜。|原理はよくわからないけど、防御力は高いらしい。
++10% Slashing Defense
+Layers upon layers.|The design is confusing, but apparently effective.
 //entry 77 -----------------------
-普通の帽子
+Hat
 帽子
 *
 *
@@ -1244,10 +1243,10 @@
 *
 *
 落物00|防具Ａ|全部Ａ
-装備者の魔法系スキルに対する防御力を１％ＵＰする。
-一般的な帽子。
++1% Magic Defense
+It's just an ordinary hat.
 //entry 78 -----------------------
-おしゃれな帽子
+Stylish Hat
 帽子
 *
 *
@@ -1260,10 +1259,10 @@
 *
 *
 落物00|防具Ａ|全部Ａ
-装備者の魔法系スキルに対する防御力を３％ＵＰする。
-デザインに優れた帽子。
++3% Magic Defense
+Very fashionable headwear.
 //entry 79 -----------------------
-素敵な帽子
+Nice Hat
 帽子
 *
 *
@@ -1276,10 +1275,10 @@
 *
 *
 落物00|防具Ａ|全部Ａ
-装備者の魔法系スキルに対する防御力を４％ＵＰする。
-素敵だと褒められる帽子。
++4% Magic Defense
+Will have everybody telling you how nice it is.
 //entry 80 -----------------------
-幸福の帽子
+Happy Hat
 帽子
 *
 *
@@ -1292,10 +1291,10 @@
 *
 *
 落物00|防具Ａ|全部Ａ
-装備者の魔法系スキルに対する防御力を５％ＵＰする。
-幸福を呼ぶ帽子。|少しだけ幸せになれるかも。
++5% Magic Defense
+Brings happiness.|But maybe just a little bit.
 //entry 81 -----------------------
-冒険者の帽子
+Adventurer's Hat
 帽子
 *
 *
@@ -1308,10 +1307,10 @@
 *
 *
 落物00|防具Ａ|全部Ａ
-装備者の魔法系スキルに対する防御力を６％ＵＰする。
-冒険者が愛用する実用性重視の帽子。冒険や旅には是非お供に。
++6% Magic Defense
+A practical hat for adventuring.|A must-have for long journeys.
 //entry 82 -----------------------
-精霊の帽子
+Elemental Hat
 帽子
 *
 *
@@ -1324,10 +1323,10 @@
 *
 *
 落物01|防具Ａ|全部Ａ
-装備者の魔法系スキルに対する防御力を７％ＵＰする。
-精霊の加護があるとされる帽子。|森をイメージしたデザインになっています。
++7% Magic Defense
+Blessed by the spirits.|Designed to evoke the forest.
 //entry 83 -----------------------
-魔法使いの帽子
+Wizard's Hat
 帽子
 *
 *
@@ -1340,10 +1339,10 @@
 *
 *
 落物01|防具Ａ|全部Ａ
-装備者の魔法系スキルに対する防御力を８％ＵＰする。
-魔法使いが愛用する帽子。
++8% Magic Defense
+For wizards, by wizards.
 //entry 84 -----------------------
-親衛隊の帽子
+Bodyguard's Hat
 帽子
 *
 *
@@ -1356,10 +1355,10 @@
 *
 *
 落物01|防具Ａ|全部Ａ
-装備者の魔法系スキルに対する防御力を９％ＵＰする。
-某国の親衛隊が制式採用している程の実績を誇る帽子。
++9% Magic Defense
+So trusted, that it's the official headwear of a certain kingdom.
 //entry 85 -----------------------
-悪魔の帽子
+Devil's Hat
 帽子
 *
 *
@@ -1372,10 +1371,10 @@
 *
 *
 落物02|防具Ａ|全部Ａ
-装備者の魔法系スキルに対する防御力を１０％ＵＰする。
-悪魔をイメージして作られた帽子。|思春期の若者達から熱狂的に支持される人気の一品。
++10% Magic Defense
+Made in the image of a devil.|Loved by youngsters.
 //entry 86 -----------------------
-神の帽子
+God's Hat
 帽子
 *
 *
@@ -1388,10 +1387,10 @@
 *
 *
 落物02|防具Ａ|全部Ａ
-装備者の魔法系スキルに対する防御力を１１％ＵＰする。
-神をイメージして作られた帽子。|神様が使っていたワケではない。
++11% Magic Defense
+Made in the image of God.|Not worn by God.
 //entry 87 -----------------------
-聖なる帽子
+Sacred Hat
 帽子
 *
 *
@@ -1404,10 +1403,10 @@
 *
 *
 落物03|防具Ａ|全部Ａ
-装備者の魔法系スキルに対する防御力を１２％ＵＰする。
-神聖な帽子。|神事の際に使われたらしい。
++12% Magic Defense
+Used in many divine rituals.
 //entry 88 -----------------------
-英雄の帽子
+Hero's Hat
 帽子
 *
 *
@@ -1420,10 +1419,10 @@
 *
 *
 落物03|防具Ａ|全部Ａ
-装備者の魔法系スキルに対する防御力を１３％ＵＰする。
-英雄が使っていた帽子。|英雄も色々居ますから。
++13% Magic Defense
+Used by a hero.|But there are many different heroes.
 //entry 89 -----------------------
-普通の靴
+Ordinary Shoes
 靴
 *
 *
@@ -1436,10 +1435,10 @@
 *
 *
 落物00|防具Ａ|全部Ａ
-特に効果は無い。
-ただの靴。
+No effect
+They're just shoes.
 //entry 90 -----------------------
-素敵な靴
+Fancy Shoes
 靴
 *
 *
@@ -1452,10 +1451,10 @@
 *
 *
 落物00|防具Ａ|全部Ａ
-装備者の速度を＋１する。
-誰もが素敵と思う靴。
++1 Speed
+Everyone is impressed by these shoes.
 //entry 91 -----------------------
-おしゃれな靴
+Stylish Shoes
 靴
 *
 *
@@ -1468,10 +1467,10 @@
 *
 *
 落物00|防具Ａ|全部Ａ
-装備者の速度を＋２する。
-ファッションに気を使った靴。
++2 Speed
+For those who care about fashion.
 //entry 92 -----------------------
-人気の靴
+Popular Shoes
 靴
 *
 *
@@ -1484,10 +1483,10 @@
 *
 *
 落物00|防具Ａ|全部Ａ
-装備者の速度を＋３する。
-人気のあるデザインの靴。
++3 Speed
+They have a popular design.
 //entry 93 -----------------------
-モテる靴
+Alluring Shoes
 靴
 *
 *
@@ -1500,10 +1499,10 @@
 *
 *
 落物01|防具Ａ|全部Ａ
-装備者の速度を＋４する。
-異性に人気のある靴。
++4 Speed
+All the ladies love these shoes.
 //entry 94 -----------------------
-噂の靴
+Rumored Shoes
 靴
 *
 *
@@ -1516,10 +1515,10 @@
 *
 *
 落物01|防具Ａ|全部Ａ
-装備者の速度を＋５する。
-噂されるほど凄い靴。
++5 Speed
+They're as incredible as people say.
 //entry 95 -----------------------
-有名な靴
+Famous Shoes
 靴
 *
 *
@@ -1532,10 +1531,10 @@
 *
 *
 落物01|防具Ａ|全部Ａ
-装備者の速度を＋６する。
-知名度の高い靴。
++6 Speed
+Known world round.
 //entry 96 -----------------------
-派手な靴
+Flashy Shoes
 靴
 *
 *
@@ -1548,10 +1547,10 @@
 *
 *
 落物02|防具Ａ|全部Ａ
-装備者の速度を＋７する。
-デザインが派手な靴。
++7 Speed
+They're eye-catching.
 //entry 97 -----------------------
-魔法の靴
+Magic Shoes
 靴
 *
 *
@@ -1564,10 +1563,10 @@
 *
 *
 落物02|防具Ａ|全部Ａ
-装備者の速度を＋８する。
-魔法で守護された靴。
++8 Speed
+Protected by magic.
 //entry 98 -----------------------
-奇襲の靴
+Ambush Shoes
 靴
 *
 *
@@ -1580,10 +1579,10 @@
 *
 *
 落物03|防具Ａ|全部Ａ
-装備者の速度を＋９する。
-盗賊が愛用している靴。
++9 Speed
+Favored by bandits.
 //entry 99 -----------------------
-暗殺者の靴
+Assassin Shoes
 靴
 *
 *
@@ -1596,10 +1595,10 @@
 *
 *
 落物03|防具Ａ|全部Ａ
-装備者の速度を＋１０する。
-暗殺者が愛用している靴。|刃物が仕込まれているらしい。
++10 Speed
+Supposedly have a knife hidden inside them.
 //entry 100 -----------------------
-幸福な靴
+Lucky Shoes
 靴
 *
 *
@@ -1612,10 +1611,10 @@
 *
 *
 落物03|防具Ａ|全部Ａ
-装備者の速度を＋１１する。
-幸運を呼ぶと言われる靴。|幸運が歩いて来ると良いですね。
++11 Speed
+Said to bring good fortune.|It'd be nice if luck came walking your way.
 //entry 101 -----------------------
-素敵なブーツ
+Fancy Boots
 ブーツ
 *
 *
@@ -1628,10 +1627,10 @@
 *
 *
 落物00|防具Ａ|全部Ａ
-装備者の回避力を＋２する。
-ちょっと素敵なブーツ。
++2 Evade
+Just a little fancy.
 //entry 102 -----------------------
-おしゃれなブーツ
+Stylish Boots
 ブーツ
 *
 *
@@ -1644,10 +1643,10 @@
 *
 *
 落物00|防具Ａ|全部Ａ
-装備者の回避力を＋３する。
-ファッション重視のブーツ。|女性に人気。
++3 Evade
+Fashionable.|Popular with women.
 //entry 103 -----------------------
-かっこいいブーツ
+Cool Boots
 ブーツ
 *
 *
@@ -1660,10 +1659,10 @@
 *
 *
 落物00|防具Ａ|全部Ａ
-装備者の回避力を＋４する。
-誰もがカッコイイと認めるブーツ。
++4 Evade
+Who doesn't think these are cool?
 //entry 104 -----------------------
-人気のブーツ
+Popular Boots
 ブーツ
 *
 *
@@ -1676,10 +1675,10 @@
 *
 *
 落物01|防具Ａ|全部Ａ
-装備者の回避力を＋５する。
-万人から人気を獲得しているブーツ。ブーツを作った職人は満足そうな顔をしている。
++5 Evade
+They've started becoming popular world wide. The cobbler is proud of his work.
 //entry 105 -----------------------
-冒険者のブーツ
+Questing Boots
 ブーツ
 *
 *
@@ -1692,10 +1691,10 @@
 *
 *
 落物01|防具Ａ|全部Ａ
-装備者の回避力を＋６する。
-冒険者に人気の、足をしっかりと守る性能重視のブーツ。
++6 Evade
+Popular with adventurers, and made to keep your feet safe.
 //entry 106 -----------------------
-英雄のブーツ
+Hero's Boots
 ブーツ
 *
 *
@@ -1708,10 +1707,10 @@
 *
 *
 落物02|防具Ａ|全部Ａ
-装備者の回避力を＋７する。
-英雄が愛用していたブーツと同じ型のブーツ。|英雄気分を楽しめる。
++7 Evade
+Same as the kind heroes wear.|So you can feel like a real hero.
 //entry 107 -----------------------
-伝説のブーツ
+Legendary Boots
 ブーツ
 *
 *
@@ -1724,10 +1723,10 @@
 *
 *
 落物02|防具Ａ|全部Ａ
-装備者の回避力を＋８する。
-伝説に出てくるブーツの複製品。|レトロな感じがするデザイン。
++8 Evade
+Made to look like a legend.|A very retro design.
 //entry 108 -----------------------
-幸福のブーツ
+Lucky Boots
 ブーツ
 *
 *
@@ -1740,10 +1739,10 @@
 *
 *
 落物03|防具Ａ|全部Ａ
-装備者の回避力を＋９する。
-幸運を呼ぶらしいブーツ。
++9 Evade
+Supposedly bring great fortune.
 //entry 109 -----------------------
-攻撃の旗
+Attack Banner
 旗
 *
 *
@@ -1756,10 +1755,10 @@
 *
 *
 宝箱Ｂ|その他Ａ|全部Ａ
-味方全体の攻撃力と速度を＋１する。
-旗で一体感を出すらしい。
+Party +1 Attack |Party +1 Speed
+Creates a sense of unity.
 //entry 110 -----------------------
-突撃の旗
+Charging Banner
 旗
 *
 *
@@ -1772,10 +1771,10 @@
 *
 *
 宝箱Ｃ|その他Ａ|全部Ａ
-味方全体の攻撃力を＋２、味方全体の速度を＋１する。
-とある王国で、突撃時に振られた旗。
+Party +2 Attack |Party +1 Speed
+Waved while initiating a charge.
 //entry 111 -----------------------
-進撃の旗
+Marching Banner
 旗
 *
 *
@@ -1788,10 +1787,10 @@
 *
 *
 宝箱Ｄ|その他Ａ|全部Ａ
-味方全体の攻撃力と速度を＋２する。
-某国の旗。|破竹の勢いで勢力を拡大し、あっと言う間に崩壊した。
+Party +2 Attack|Party +2 Speed
+The flag of a certain kingdom.|Expanded extremely fast, and then collapsed.
 //entry 112 -----------------------
-侵略の旗
+Invasion Banner
 旗
 *
 *
@@ -1804,10 +1803,10 @@
 *
 *
 宝箱Ｅ|その他Ａ|全部Ａ
-味方全体の攻撃力を＋２、味方全体の速度を＋３する。
-東方の武将が使った戦旗。|色々なデザインがあるらしい。
+Party +2 Attack |Party +3 Speed
+Used by eastern warlords.|Comes in various designs.
 //entry 113 -----------------------
-火の首飾り
+Fire Necklace
 首飾り
 *
 *
@@ -1820,10 +1819,10 @@
 *
 *
 宝箱Ａ|宝箱Ｂ|その他Ａ|全部Ａ
-装備者の火属性の攻撃力を３０％ＵＰする。
-火の神様を崇めた首飾り。
++30% Fire Skills
+Dedicated to a fire god.
 //entry 114 -----------------------
-水の首飾り
+Ice Necklace
 首飾り
 *
 *
@@ -1836,10 +1835,10 @@
 *
 *
 宝箱Ａ|宝箱Ｂ|その他Ａ|全部Ａ
-装備者の水属性の攻撃力を３０％ＵＰする。
-水の神様を崇めた首飾り。
++30% Ice Skills
+Dedicated to an ice god.
 //entry 115 -----------------------
-土の首飾り
+Earth Necklace
 首飾り
 *
 *
@@ -1852,10 +1851,10 @@
 *
 *
 宝箱Ａ|宝箱Ｂ|その他Ａ|全部Ａ
-装備者の土属性の攻撃力を３０％ＵＰする。
-土の神様を崇めた首飾り。
++30% Earth Skills
+Dedicated to an earth god.
 //entry 116 -----------------------
-風の首飾り
+Wind Necklace
 首飾り
 *
 *
@@ -1868,10 +1867,10 @@
 *
 *
 宝箱Ａ|宝箱Ｂ|その他Ａ|全部Ａ
-装備者の風属性の攻撃力を３０％ＵＰする。
-風の神様を崇めた首飾り。
++30% Wind Skills
+Dedicated to a wind god.
 //entry 117 -----------------------
-雷の首飾り
+Thunder Necklace
 首飾り
 *
 *
@@ -1884,10 +1883,10 @@
 *
 *
 宝箱Ａ|宝箱Ｂ|宝箱Ｃ|その他Ａ|全部Ａ
-装備者の雷属性の攻撃力を３０％ＵＰする。
-雷の神様を崇めた首飾り。
++30% Lightning Skills
+Dedicated to a lightning god.
 //entry 118 -----------------------
-光の首飾り
+Angel Necklace
 首飾り
 *
 *
@@ -1900,10 +1899,10 @@
 *
 *
 宝箱Ａ|宝箱Ｂ|宝箱Ｃ|その他Ａ|全部Ａ
-装備者の光属性の攻撃力を３０％ＵＰする。
-光の神様を崇めた首飾り。
++30% Light Skills
+Dedicated to a light god.
 //entry 119 -----------------------
-闇の首飾り
+Demon Necklace
 首飾り
 *
 *
@@ -1916,10 +1915,10 @@
 *
 *
 宝箱Ａ|宝箱Ｂ|宝箱Ｃ|その他Ａ|全部Ａ
-装備者の闇属性の攻撃力を３０％ＵＰする。
-闇の神様を崇めた首飾り。
++30% Dark Skills
+Dedicated to a dark god.
 //entry 120 -----------------------
-大きな火の首飾り
+Salamander Necklace
 首飾り
 *
 *
@@ -1932,10 +1931,10 @@
 *
 *
 宝箱Ｃ|宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
-装備者の火属性の攻撃力を５０％ＵＰする。
-火の神様を崇めた大型の首飾り。|大型なので、ちょっと邪魔。
++50% Fire Skills
+Dedicated to a fire god.|Annoyingly large.
 //entry 121 -----------------------
-大きな水の首飾り
+Undine Necklace
 首飾り
 *
 *
@@ -1948,10 +1947,10 @@
 *
 *
 宝箱Ｃ|宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
-装備者の水属性の攻撃力を５０％ＵＰする。
-水の神様を崇めた大型の首飾り。|大型なので、ちょっと邪魔。
++50% Ice Skills
+Dedicated to an ice god.|Annoyingly large.
 //entry 122 -----------------------
-大きな土の首飾り
+Gnome Necklace
 首飾り
 *
 *
@@ -1964,10 +1963,10 @@
 *
 *
 宝箱Ｃ|宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
-装備者の土属性の攻撃力を５０％ＵＰする。
-土の神様を崇めた大型の首飾り。|大型なので、ちょっと邪魔。
++50% Earth Skills
+Dedicated to an earth god.|Annoyingly large.
 //entry 123 -----------------------
-大きな風の首飾り
+Sprite Necklace
 首飾り
 *
 *
@@ -1980,10 +1979,10 @@
 *
 *
 宝箱Ｃ|宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
-装備者の風属性の攻撃力を５０％ＵＰする。
-風の神様を崇めた大型の首飾り。|大型なので、ちょっと邪魔。
++50% Wind Skills
+Dedicated to a wind god.|Annoyingly large.
 //entry 124 -----------------------
-大きな雷の首飾り
+Ixion Necklace
 首飾り
 *
 *
@@ -1996,10 +1995,10 @@
 *
 *
 宝箱Ｃ|宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
-装備者の雷属性の攻撃力を５０％ＵＰする。
-雷の神様を崇めた大型の首飾り。|大型なので、ちょっと邪魔。
++50% Lightning Skills
+Dedicated to a lightning god.|Annoyingly large.
 //entry 125 -----------------------
-大きな光の首飾り
+Archangel Necklace
 首飾り
 *
 *
@@ -2012,10 +2011,10 @@
 *
 *
 宝箱Ｃ|宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
-装備者の光属性の攻撃力を５０％ＵＰする。
-光の神様を崇めた大型の首飾り。|大型なので、ちょっと邪魔。
++50% Light Skills
+Dedicated to a light god.|Annoyingly large.
 //entry 126 -----------------------
-大きな闇の首飾り
+Devil Necklace
 首飾り
 *
 *
@@ -2028,10 +2027,10 @@
 *
 *
 宝箱Ｃ|宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
-装備者の闇属性の攻撃力を５０％ＵＰする。
-闇の神様を崇めた大型の首飾り。|大型なので、ちょっと邪魔。
++50% Dark Skills
+Dedicated to a dark god.|Annoyingly large.
 //entry 127 -----------------------
-火の護符
+Flame Charm
 護符
 *
 *
@@ -2044,10 +2043,10 @@
 *
 *
 宝箱Ａ|宝箱Ｂ|その他Ａ|全部Ａ
-装備者の火属性に対する防御力を２５％ＵＰする。
-火の神様を崇めたお守り。
++25% Fire Defense
+Dedicated to a fire god.
 //entry 128 -----------------------
-水の護符
+Ice Charm
 護符
 *
 *
@@ -2060,10 +2059,10 @@
 *
 *
 宝箱Ａ|宝箱Ｂ|その他Ａ|全部Ａ
-装備者の水属性に対する防御力を２５％ＵＰする。
-水の神様を崇めたお守り。
++25% Ice Defense
+Dedicated to an ice god.
 //entry 129 -----------------------
-土の護符
+Earth Charm
 護符
 *
 *
@@ -2076,10 +2075,10 @@
 *
 *
 宝箱Ａ|宝箱Ｂ|その他Ａ|全部Ａ
-装備者の土属性に対する防御力を２５％ＵＰする。
-土の神様を崇めたお守り。
++25% Earth Defense
+Dedicated to an earth god.
 //entry 130 -----------------------
-風の護符
+Wind Charm
 護符
 *
 *
@@ -2092,10 +2091,10 @@
 *
 *
 宝箱Ａ|宝箱Ｂ|その他Ａ|全部Ａ
-装備者の風属性に対する防御力を２５％ＵＰする。
-風の神様を崇めたお守り。
++25% Wind Defense
+Dedicated to a wind god.
 //entry 131 -----------------------
-雷の護符
+Lightning Charm
 護符
 *
 *
@@ -2108,10 +2107,10 @@
 *
 *
 宝箱Ａ|宝箱Ｂ|宝箱Ｃ|その他Ａ|全部Ａ
-装備者の雷属性に対する防御力を２５％ＵＰする。
-雷の神様を崇めたお守り。
++25% Lightning Defense
+Dedicated to a lightning god.
 //entry 132 -----------------------
-光の護符
+Angel Charm
 護符
 *
 *
@@ -2124,10 +2123,10 @@
 *
 *
 宝箱Ａ|宝箱Ｂ|宝箱Ｃ|その他Ａ|全部Ａ
-装備者の光属性に対する防御力を２５％ＵＰする。
-光の神様を崇めたお守り。
++25% Light Defense
+Dedicated to a light god.
 //entry 133 -----------------------
-闇の護符
+Demon Charm
 護符
 *
 *
@@ -2140,10 +2139,10 @@
 *
 *
 宝箱Ａ|宝箱Ｂ|宝箱Ｃ|その他Ａ|全部Ａ
-装備者の闇属性に対する防御力を２５％ＵＰする。
-闇の神様を崇めたお守り。
++25% Dark Defense
+Dedicated to a dark god.
 //entry 134 -----------------------
-大きな火の護符
+Salamander Charm
 護符
 *
 *
@@ -2156,10 +2155,10 @@
 *
 *
 宝箱Ｃ|宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
-装備者の火属性に対する防御力を５０％ＵＰする。
-火の神様を崇めた大型のお守り。|大型な分だけ、効果が強い。
++50% Fire Defense
+Dedicated to a fire god.|The bigger, the better.
 //entry 135 -----------------------
-大きな水の護符
+Undine Charm
 護符
 *
 *
@@ -2172,10 +2171,10 @@
 *
 *
 宝箱Ｃ|宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
-装備者の水属性に対する防御力を５０％ＵＰする。
-水の神様を崇めた大型のお守り。|大型な分だけ、効果が強い。
++50% Ice Defense
+Dedicated to an ice god.|The bigger, the better.
 //entry 136 -----------------------
-大きな土の護符
+Gnome Charm
 護符
 *
 *
@@ -2188,10 +2187,10 @@
 *
 *
 宝箱Ｃ|宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
-装備者の土属性に対する防御力を５０％ＵＰする。
-土の神様を崇めた大型のお守り。|大型な分だけ、効果が強い。
++50% Earth Defense
+Dedicated to an earth god.|The bigger, the better.
 //entry 137 -----------------------
-大きな風の護符
+Sprite Charm
 護符
 *
 *
@@ -2204,10 +2203,10 @@
 *
 *
 宝箱Ｃ|宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
-装備者の風属性に対する防御力を５０％ＵＰする。
-風の神様を崇めた大型のお守り。|大型な分だけ、効果が強い。
++50% Wind Defense
+Dedicated to a wind god.|The bigger, the better.
 //entry 138 -----------------------
-大きな雷の護符
+Ixion Charm
 護符
 *
 *
@@ -2220,10 +2219,10 @@
 *
 *
 宝箱Ｃ|宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
-装備者の雷属性に対する防御力を５０％ＵＰする。
-雷の神様を崇めた大型のお守り。|大型な分だけ、効果が強い。
++50% Lightning Defense
+Dedicated to a lightning god.|The bigger, the better.
 //entry 139 -----------------------
-大きな光の護符
+Archangel Charm
 護符
 *
 *
@@ -2236,10 +2235,10 @@
 *
 *
 宝箱Ｃ|宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
-装備者の光属性に対する防御力を５０％ＵＰする。
-光の神様を崇めた大型のお守り。|大型な分だけ、効果が強い。
++50% Light Defense
+Dedicated to a light god.|The bigger, the better.
 //entry 140 -----------------------
-大きな闇の護符
+Devil Charm
 護符
 *
 *
@@ -2252,10 +2251,10 @@
 *
 *
 宝箱Ｃ|宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
-装備者の闇属性に対する防御力を５０％ＵＰする。
-闇の神様を崇めた大型のお守り。|大型な分だけ、効果が強い。
++50% Dark Defense
+Dedicated to a dark god.|The bigger, the better.
 //entry 141 -----------------------
-正常の指輪
+Regular Ring
 指輪
 *
 *
@@ -2268,10 +2267,10 @@
 *
 *
 宝箱Ａ|宝箱Ｂ|宝箱Ｃ|宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
-装備者の状態異常に対する抵抗力を３０％ＵＰ。
-お守りのような存在。
++30% Status Resist
+Sort of a protective charm.
 //entry 142 -----------------------
-正気の指輪
+Metabolizing Ring
 指輪
 *
 *
@@ -2284,10 +2283,10 @@
 *
 *
 宝箱Ａ|宝箱Ｂ|宝箱Ｃ|宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
-装備者の状態異常からの回復力を向上させる。
-初心を忘れてはいけない。
+Status Recovery -1
+Don't forget how you used to be.
 //entry 143 -----------------------
-足切の指輪
+Legsweeper Ring
 指輪
 *
 *
@@ -2300,10 +2299,10 @@
 *
 *
 宝箱Ａ|宝箱Ｂ|宝箱Ｃ|宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
-飛んでいない敵に対する装備者の攻撃力を２０％ＵＰする。
-効果の原理は、誰にもわからない。
++20% vs Grounded
+Nobody actually knows how it works.
 //entry 144 -----------------------
-羽切の指輪
+Birdcatcher Ring
 指輪
 *
 *
@@ -2316,10 +2315,10 @@
 *
 *
 宝箱Ａ|宝箱Ｂ|宝箱Ｃ|宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
-飛んでいる敵に対する装備者の攻撃力を２０％ＵＰする。
-飛んでいるのが憎いらしい。
++20% vs Fliers
+Apparently it hates birds.
 //entry 145 -----------------------
-命の指輪
+Lifeguard Ring
 指輪
 *
 *
@@ -2332,10 +2331,10 @@
 *
 *
 宝箱Ａ|宝箱Ｂ|宝箱Ｃ|宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
-装備者の必殺技に対する抵抗力が２０％ＵＰする。
-一撃でやられるのを封じたい気持ちに溢れている。
++20% Death Resist
+Wants to give its wearer a fighting chance.
 //entry 146 -----------------------
-必殺封じの指輪
+Lifesaver Ring
 指輪
 *
 *
@@ -2348,10 +2347,10 @@
 *
 *
 宝箱Ａ|宝箱Ｂ|宝箱Ｃ|宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
-装備者の必殺技に対する抵抗力が超絶に向上する。（必殺効果無効）
-一撃でやられない覚悟に溢れている。
++100% Death Resist
+Is bound and determined to not go down in one hit.
 //entry 147 -----------------------
-不幸の鐘
+Unlucky Bell
 鐘
 *
 *
@@ -2364,10 +2363,10 @@
 *
 *
 宝箱Ａ|宝箱Ｂ|宝箱Ｃ|宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
-敵と出会い易くなる。
-超不幸な者が作った鐘の音が、不幸を呼び寄せる。
+Attract Enemies
+Brings misfortune to the misfortunate.
 //entry 148 -----------------------
-幸運の鐘
+Lucky Bell
 鐘
 *
 *
@@ -2380,10 +2379,10 @@
 *
 *
 宝箱Ａ|宝箱Ｂ|宝箱Ｃ|宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
-敵と出会い難くなる。
-超幸運な者が作った鐘の音が、不幸を退ける。
+Repel Enemies
+Brings fortune to the fortunate.
 //entry 149 -----------------------
-壊れた本
+Useless Book
 書
 *
 *
@@ -2396,10 +2395,10 @@
 *
 *
 落物00|落物01|落物02|落物03
-特に効果は無い。
-本として成り立たない本。|火種用かな？
+No effect
+Not even legible anymore.|Can be used to start a fire?
 //entry 150 -----------------------
-普通の本
+Regular Book
 書
 *
 *
@@ -2412,10 +2411,10 @@
 *
 *
 落物00|落物01|落物02|落物03
-特に効果は無い。
-普通の読み物。|暇潰しのお供に。
+No effect
+Just a regular book.|For leisure reading.
 //entry 151 -----------------------
-魔導書
+Magic Book
 書
 *
 *
@@ -2428,10 +2427,10 @@
 *
 *
 落物00|落物01|落物02|落物03
-装備者の魔法系スキルの威力を１％ＵＰする。
-初心者用の魔法指南書。
++1% Magic Skills
+A beginner's guide to magic.
 //entry 152 -----------------------
-遠視の書
+Oracle's Book
 書
 *
 *
@@ -2444,10 +2443,10 @@
 *
 *
 宝箱Ｄ|宝箱Ｅ|遠視
-移動時、遠くまで見れるようになる。
-視界の確保は、戦闘の基礎です。
+Increase Sight Range
+Visibility is the basis of combat.
 //entry 153 -----------------------
-感知の書
+Thief's Book
 書
 *
 *
@@ -2460,10 +2459,10 @@
 *
 *
 宝箱Ｄ|宝箱Ｅ|感知
-移動時、隠された扉の存在に気付くようになる。
-勘が良くなければ、財宝を見逃してしまいますから。
+Reveal Hidden Doors
+If you're not sharp, you might miss treasure.
 //entry 154 -----------------------
-地図の書
+Atlas
 書
 *
 *
@@ -2476,10 +2475,10 @@
 *
 *
 宝箱Ｄ|宝箱Ｅ|地図
-ミニマップでの表示が広くなります。
-冒険に地図は必須です。
+Increase Map Range
+All adventurers need a map.
 //entry 155 -----------------------
-万能の書
+Hint Guide
 書
 *
 *
@@ -2492,10 +2491,10 @@
 *
 *
 宝箱Ｄ|宝箱Ｅ
-移動時、遠くまで見れるようになる。移動時、隠された扉の存在に気付くようになる。|ミニマップでの表示が広くなります。
-一冊あれば、安心。
+Increase Sight Range, Map Range, and Reveal Hidden Doors
+The only book you'll ever need. 
 //entry 156 -----------------------
-炎球石
+Flame Pebble
 宝石
 *
 *
@@ -2508,10 +2507,10 @@
 *
 *
 宝箱Ｃ|宝箱Ｄ|その他Ａ|全部Ａ
-装備者は、スキル『炎球（単体、火属性攻撃）』が使用可能になる。
-火の魔法が封じられた古の財宝。|熱くは無い。
+Unlocks Fire Ball Skill
+Fire magic is sealed within it.|Not hot.
 //entry 157 -----------------------
-水球石
+Ice Pebble
 宝石
 *
 *
@@ -2524,10 +2523,10 @@
 *
 *
 宝箱Ｃ|宝箱Ｄ|その他Ａ|全部Ａ
-装備者は、スキル『水球（単体、水属性攻撃）』が使用可能になる。
-水の魔法が封じられた古の財宝。|古の水筒？
+Unlocks Ice Ball Skill
+Ice magic is sealed within it.|An old water bottle?
 //entry 158 -----------------------
-岩球石
+Earth Pebble
 宝石
 *
 *
@@ -2540,10 +2539,10 @@
 *
 *
 宝箱Ｃ|宝箱Ｄ|その他Ａ|全部Ａ
-装備者は、スキル『岩球（単体、土属性攻撃）』が使用可能になる。
-土の魔法が封じられた古の財宝。|護身用なのかな？
+Unlocks Rock Ball Skill
+Earth magic is sealed within it.|For self-defense?
 //entry 159 -----------------------
-風球石
+Wind Pebble
 宝石
 *
 *
@@ -2556,10 +2555,10 @@
 *
 *
 宝箱Ｃ|宝箱Ｄ|その他Ａ|全部Ａ
-装備者は、スキル『風球（単体、風属性攻撃）』が使用可能になる。
-風の魔法が封じられた古の財宝。|暑い時に使うと便利。
+Unlocks Wind Ball Skill
+Wind magic is sealed within it.|Good for when it's too warm.
 //entry 160 -----------------------
-雷球石
+Lightning Pebble
 宝石
 *
 *
@@ -2572,10 +2571,10 @@
 *
 *
 宝箱Ｃ|宝箱Ｄ|その他Ａ|全部Ａ
-装備者は、スキル『雷球（単体、雷属性攻撃）』が使用可能になる。
-雷の魔法が封じられた古の財宝。|光球石と間違えやすい。
+Unlocks Static Ball Skill
+Lightning magic is sealed within it.|Easily mistaken for a glow rock.
 //entry 161 -----------------------
-光球石
+Light Pebble
 宝石
 *
 *
@@ -2588,10 +2587,10 @@
 *
 *
 宝箱Ｃ|宝箱Ｄ|その他Ａ|全部Ａ
-装備者は、スキル『光球（単体、光属性攻撃）』が使用可能になる。
-光の魔法が封じられた古の財宝。|明るい。
+Unlocks Light Ball Skill
+Light magic is sealed within it.|Very bright.
 //entry 162 -----------------------
-闇球石
+Dark Pebble
 宝石
 *
 *
@@ -2604,10 +2603,10 @@
 *
 *
 宝箱Ｃ|宝箱Ｄ|その他Ａ|全部Ａ
-装備者は、スキル『闇球（単体、闇属性攻撃）』が使用可能になる。
-闇の魔法が封じられた古の財宝。|暗い。
+Unlocks Dark Ball Skill
+Dark magic is sealed within it.|Very dark.
 //entry 163 -----------------------
-魔球石
+Magic Pebble
 宝石
 *
 *
@@ -2620,10 +2619,10 @@
 *
 *
 宝箱Ｃ|宝箱Ｄ|その他Ａ|全部Ａ
-装備者は、スキル『魔球（単体、無属性攻撃）』が使用可能になる。
-魔法が封じられた古の財宝。|昔の通貨だったとする説があったり、なかったり。
+Unlocks Mana Ball Skill
+Magic is sealed within it.|There's debate whether this was a currency long ago.
 //entry 164 -----------------------
-大きな炎球石
+Flame Stone
 宝石
 *
 *
@@ -2636,10 +2635,10 @@
 *
 *
 宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
-装備者は、スキル『大炎球（単体、火属性攻撃）』が使用可能になる。
-大きな炎の魔法が封じられた石。|取り扱いには注意。
+Unlocks Blazing Ball Skill
+Filled with magic.|Handle with care.
 //entry 165 -----------------------
-大きな水球石
+Ice Stone
 宝石
 *
 *
@@ -2652,10 +2651,10 @@
 *
 *
 宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
-装備者は、スキル『大水球（単体、水属性攻撃）』が使用可能になる。
-お手軽なサイズと威力で、冒険者から人気。
+Unlocks Blizzard Ball Skill
+Popular with adventurers for its power and portability.
 //entry 166 -----------------------
-大きな岩球石
+Earth Stone
 宝石
 *
 *
@@ -2668,10 +2667,10 @@
 *
 *
 宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
-装備者は、スキル『大岩球（単体、土属性攻撃）』が使用可能になる。
-普通の石との見分けには、熟練の腕が必要とされる。
+Unlocks Boulder Ball Skill
+It takes a keen eye to tell this from a regular rock.
 //entry 167 -----------------------
-大きな風球石
+Wind Stone
 宝石
 *
 *
@@ -2684,10 +2683,10 @@
 *
 *
 宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
-装備者は、スキル『大風球（単体、風属性攻撃）』が使用可能になる。
-手に馴染む形が大人気。
+Unlocks Typhoon Ball Skill
+Fits in the palm of your hand.
 //entry 168 -----------------------
-大きな雷球石
+Lightning Stone
 宝石
 *
 *
@@ -2700,10 +2699,10 @@
 *
 *
 宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
-装備者は、スキル『大雷球（単体、雷属性攻撃）』が使用可能になる。
-扱いやすいサイズなので、冒険者が競って求めるアイテムの一つ。
+Unlocks Lightning Ball Skill
+Highly sought by adventurers for its ease of use.
 //entry 169 -----------------------
-大きな光球石
+Light Stone
 宝石
 *
 *
@@ -2716,10 +2715,10 @@
 *
 *
 宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
-装備者は、スキル『大光球（単体、光属性攻撃）』が使用可能になる。
-天井に飾って、室内を明るくしよう。
+Unlocks Blinding Ball Skill
+Brighten a room by hanging it from the ceiling.
 //entry 170 -----------------------
-大きな闇球石
+Dark Stone
 宝石
 *
 *
@@ -2732,10 +2731,10 @@
 *
 *
 宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
-装備者は、スキル『大闇球（単体、闇属性攻撃）』が使用可能になる。
-天井に飾ると、微妙な暗さになる。
+Unlocks Void Ball Skill
+Will darken any room it's in.
 //entry 171 -----------------------
-大きな魔球石
+Magic Stone
 宝石
 *
 *
@@ -2748,10 +2747,10 @@
 *
 *
 宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
-装備者は、スキル『大魔球（単体、無属性攻撃）』が使用可能になる。
-ボールとして扱って、怪我をする事件があったとかなかったとか。
+Unlocks Soul Ball Skill
+Has caused injuries by those who thought it was an actual ball.
 //entry 172 -----------------------
-巨大な炎球石
+Salamander Pebble
 宝石
 *
 *
@@ -2764,10 +2763,10 @@
 *
 *
 宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
-装備者は、スキル『巨炎球（敵全体、火属性攻撃）』が使用可能になる。
-貴重なんだろうけど、重い。
+Unlocks Flame Burst Skill
+Valuable, but heavy.
 //entry 173 -----------------------
-巨大な水球石
+Undine Pebble
 宝石
 *
 *
@@ -2780,10 +2779,10 @@
 *
 *
 宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
-装備者は、スキル『巨水球（敵全体、水属性攻撃）』が使用可能になる。
-全体攻撃が出来るが、コスト的にはどうなのだろうか？
+Unlocks Ice Burst Skill
+Very powerful, but is it worth the cost?
 //entry 174 -----------------------
-巨大な岩球石
+Gnome Pebble
 宝石
 *
 *
@@ -2796,10 +2795,10 @@
 *
 *
 宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
-装備者は、スキル『巨岩球（敵全体、土属性攻撃）』が使用可能になる。
-気力に余裕がある方に。
+Unlocks Earth Burst Skill
+If you have the energy to spare for it.
 //entry 175 -----------------------
-巨大な風球石
+Sprite Pebble
 宝石
 *
 *
@@ -2812,10 +2811,10 @@
 *
 *
 宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
-装備者は、スキル『巨風球（敵全体、風属性攻撃）』が使用可能になる。
-調度品としても、重宝される。
+Unlocks Wind Burst Skill
+Also good as a decoration.
 //entry 176 -----------------------
-巨大な雷球石
+Ixion Pebble
 宝石
 *
 *
@@ -2828,10 +2827,10 @@
 *
 *
 宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
-装備者は、スキル『巨雷球（敵全体、雷属性攻撃）』が使用可能になる。
-撫でていると、時々ビリッとするらしい。
+Unlocks Static Burst Skill
+Sometimes gets a little crackly when you touch it.
 //entry 177 -----------------------
-巨大な光球石
+Archangel Pebble
 宝石
 *
 *
@@ -2844,10 +2843,10 @@
 *
 *
 宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
-装備者は、スキル『巨光球（敵全体、光属性攻撃）』が使用可能になる。
-飾っていると、結構注目される。
+Unlocks Light Burst Skill
+Attracks a lot of attention as a decoration.
 //entry 178 -----------------------
-巨大な闇球石
+Devil Pebble
 宝石
 *
 *
@@ -2860,10 +2859,10 @@
 *
 *
 宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
-装備者は、スキル『巨闇球（敵全体、闇属性攻撃）』が使用可能になる。
-置物として求められる事もある石。
+Unlocks Dark Burst Skill
+Sometimes desired as a centerpiece.
 //entry 179 -----------------------
-巨大な魔球石
+Pure Pebble
 宝石
 *
 *
@@ -2876,10 +2875,10 @@
 *
 *
 宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
-装備者は、スキル『巨魔球（敵全体、無属性攻撃）』が使用可能になる。
-名前の“魔球”の部分が、妙に気になる。
+Unlocks Mana Burst Skill
+What about this is pure?
 //entry 180 -----------------------
-超大な炎球石
+Salamander Stone
 宝石
 *
 *
@@ -2892,10 +2891,10 @@
 *
 *
 宝箱Ｅ|その他Ａ|全部Ａ
-装備者は、スキル『超炎球（敵全体、火属性攻撃）』が使用可能になる。
-「これを持ち運べと？」|装備者はかならずそう思うらしい。
+Unlocks Blazing Eruption Skill
+People always wonder if you're really supposed to carry this around.
 //entry 181 -----------------------
-超大な水球石
+Undine Stone
 宝石
 *
 *
@@ -2908,10 +2907,10 @@
 *
 *
 宝箱Ｅ|その他Ａ|全部Ａ
-装備者は、スキル『超水球（敵全体、水属性攻撃）』が使用可能になる。
-重さだけが弱点。
+Unlocks Blizzard Eruption Skill
+The problem is the weight.
 //entry 182 -----------------------
-超大な岩球石
+Gnome Stone
 宝石
 *
 *
@@ -2924,10 +2923,10 @@
 *
 *
 宝箱Ｅ|その他Ａ|全部Ａ
-装備者は、スキル『超岩球（敵全体、土属性攻撃）』が使用可能になる。
-ひょっとして、ただの岩なんじゃなかろうか。
+Unlocks Boulder Eruption Skill
+Might just be a very large rock.
 //entry 183 -----------------------
-超大な風球石
+Sprite Stone
 宝石
 *
 *
@@ -2940,10 +2939,10 @@
 *
 *
 宝箱Ｅ|その他Ａ|全部Ａ
-装備者は、スキル『超風球（敵全体、風属性攻撃）』が使用可能になる。
-転がして相手にぶつけた方が、威力があるのではなかろうか。
+Unlocks Typhoon Eruption Skill
+Wouldn't it be more effective to crush them with it directly?
 //entry 184 -----------------------
-超大な雷球石
+Ixion Stone
 宝石
 *
 *
@@ -2956,10 +2955,10 @@
 *
 *
 宝箱Ｅ|その他Ａ|全部Ａ
-装備者は、スキル『超雷球（敵全体、雷属性攻撃）』が使用可能になる。
-超大とは、超特大の略なんだろうな。
+Unlocks Lightning Eruption Skill
+Super duper extra big.
 //entry 185 -----------------------
-超大な光球石
+Archangel Stone
 宝石
 *
 *
@@ -2972,10 +2971,10 @@
 *
 *
 宝箱Ｅ|その他Ａ|全部Ａ
-装備者は、スキル『超光球（敵全体、光属性攻撃）』が使用可能になる。
-製作者に問いたい。|なぜ、このサイズになったのかと。
+Unlocks Blinding Eruption Skill
+Why would someone make something this large?
 //entry 186 -----------------------
-超大な闇球石
+Devil Stone
 宝石
 *
 *
@@ -2988,10 +2987,10 @@
 *
 *
 宝箱Ｅ|その他Ａ|全部Ａ
-装備者は、スキル『超闇球（敵全体、闇属性攻撃）』が使用可能になる。
-これで相手を殴り、闇に送ってやれと言う事だろうか。
+Unlocks Void Eruption Skill
+Maybe you're supposed to hit them with this to send them into darkness.
 //entry 187 -----------------------
-超大な魔球石
+Pure Stone
 宝石
 *
 *
@@ -3004,10 +3003,10 @@
 *
 *
 宝箱Ｅ|その他Ａ|全部Ａ
-装備者は、スキル『超魔球（敵全体、無属性攻撃）』が使用可能になる。
-大き過ぎるんですけど……
+Unlocks Soul Eruption Skill
+It's just too big...
 //entry 188 -----------------------
-くすんだ宝石
+Pretty Rock
 宝石
 *
 *
@@ -3020,10 +3019,10 @@
 *
 *
 落物00
-特に効果は無い。
-綺麗な石と言っても過言ではない。
+For sale only
+Simply a beautiful stone.
 //entry 189 -----------------------
-価値の低い宝石
+Precious Stone
 宝石
 *
 *
@@ -3036,10 +3035,10 @@
 *
 *
 落物00
-特に効果は無い。
-石に近い宝石。
+For sale only
+Closer to a jewel than a rock.
 //entry 190 -----------------------
-低級な宝石
+Flawed Gem
 宝石
 *
 *
@@ -3052,10 +3051,10 @@
 *
 *
 落物00
-特に効果は無い。
-宝石だが、価値は低い。
+For sale only
+A jewel, but not a valuable one.
 //entry 191 -----------------------
-高級な宝石
+Precious Gem
 宝石
 *
 *
@@ -3068,10 +3067,10 @@
 *
 *
 落物00
-特に効果は無い。
-そこそこ価値が認められた宝石。
+For sale only
+Obviously fetches a high price.
 //entry 192 -----------------------
-素敵な宝石
+Beautiful Gem
 宝石
 *
 *
@@ -3084,10 +3083,10 @@
 *
 *
 落物00|落物01
-特に効果は無い。
-女性を魅了する宝石。
+For sale only
+Attracts a woman's eye.
 //entry 193 -----------------------
-綺麗な宝石
+Stunning Gem
 宝石
 *
 *
@@ -3100,10 +3099,10 @@
 *
 *
 落物00|落物01
-特に効果は無い。
-見事な宝石。
+For sale only
+A simply stunning piece of jewelry.
 //entry 194 -----------------------
-輝く宝石
+Sparkling Gem
 宝石
 *
 *
@@ -3116,10 +3115,10 @@
 *
 *
 落物00|落物01|落物02
-特に効果は無い。
-誰もが魅了される宝石。
+For sale only
+Enchants all who see it.
 //entry 195 -----------------------
-立派な宝石
+Flawless Gem
 宝石
 *
 *
@@ -3132,10 +3131,10 @@
 *
 *
 落物00|落物01|落物02|落物03
-特に効果は無い。
-形が立派です。
+For sale only
+A perfectly polished gemstone.
 //entry 196 -----------------------
-最高級の宝石
+Priceless Gem
 宝石
 *
 *
@@ -3148,10 +3147,10 @@
 *
 *
 落物00|落物01|落物02|落物03
-特に効果は無い。
-磨きに磨かれた宝石。|庶民の目に晒される事は少ない。
+For sale only
+Commoners rarely see jewels of this quality.
 //entry 197 -----------------------
-ベト石
+Goo Stone
 宝石
 ベト|新ベト|天ベト|角ベト
 *
@@ -3164,10 +3163,10 @@
 *
 *
 宝箱Ｅ
-ベト種族のみ、装備可能。|装備者の打撃系、射撃系スキルの威力を１５０％ＵＰする。
-鍛えられたベトの知識が固まったと言われる石。|そこらの宝石より価値が高い。
+Goos only|+150% Striking and Shooting Skills
+Said to contain the knowledge of all goos.|More valuable than any gem.
 //entry 198 -----------------------
-光峰の鍵
+Lucent Key
 鍵
 不可
 *
@@ -3180,10 +3179,10 @@
 *
 *
 鍵101
-特定の閉ざされた扉を開く。
-ペンダント型なので、鍵に見えない。
+Opens certain doors
+It's a pendant, not an actual key.
 //entry 199 -----------------------
-石葉の鍵
+Stoneleaf Key
 鍵
 不可
 *
@@ -3196,10 +3195,10 @@
 *
 *
 鍵102
-特定の閉ざされた扉を開く。
-通行証のようなもの。
+Opens certain doors
+Seems like like a travel pass.
 //entry 200 -----------------------
-石葉の奥の鍵
+Stoneleaf Inner Key
 鍵
 不可
 *
@@ -3212,10 +3211,10 @@
 *
 *
 鍵103
-特定の閉ざされた扉を開く。
-鍵穴に近づけるだけで勝手に開く便利な品。
+Opens certain doors
+Opens the lock just by coming near it.
 //entry 201 -----------------------
-氷掌の鍵
+Frostgrip Key
 鍵
 不可
 *
@@ -3228,10 +3227,10 @@
 *
 *
 鍵104
-特定の閉ざされた扉を開く。
-家の鍵に似ている。
+Opens certain doors
+Looks just like a regular house key.
 //entry 202 -----------------------
-千樹の鍵
+Arboreal Key
 鍵
 不可
 *
@@ -3244,10 +3243,10 @@
 *
 *
 鍵107
-特定の閉ざされた扉を開く。
-植木鉢の下によくあるらしい。
+Opens certain doors
+Commonly found under flower pots.
 //entry 203 -----------------------
-千樹の奥の鍵
+Arboreal Inner Key
 鍵
 不可
 *
@@ -3260,5 +3259,5 @@
 *
 *
 鍵108
-特定の閉ざされた扉を開く。
-シンプルな形で、他の鍵とよく間違えられる。
+Opens certain doors
+Very simple, and often mistaken for other keys.
