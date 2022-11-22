@@ -1,6 +1,6 @@
 //entry 0 -----------------------
 剣撃
-剣撃
+Slash
 *
 斬撃
 敵
@@ -9,7 +9,7 @@ Target: Single Enemy |Damage: Slashing
 The most basic kind of attack with a blade.
 //entry 1 -----------------------
 狙い斬り
-狙い斬り
+Focused Slash
 *
 斬撃
 敵
@@ -18,7 +18,7 @@ Target: Single Enemy |Damage: Slashing|High accuracy
 When you absolutely must hit.
 //entry 2 -----------------------
 乱舞斬
-乱舞斬
+Sword Dance
 *
 斬撃
 敵３
@@ -27,7 +27,7 @@ Target: Multiple Enemies|Damage: Slashing
 Can strike one to three opponents.
 //entry 3 -----------------------
 乱舞斬改
-乱舞斬改
+Wild Dance
 *
 斬撃
 敵５
@@ -36,7 +36,7 @@ Target: Multiple Enemies|Damage: Slashing
 Be the blender you want to see.
 //entry 4 -----------------------
 秘剣・鶯
-秘剣・鶯
+Skylark
 *
 斬撃
 敵
@@ -45,7 +45,7 @@ Target: Single Enemy |Damage: Slashing
 Already strong, but sometimes critically strong!
 //entry 5 -----------------------
 秘剣・燕
-秘剣・燕
+Songbird
 *
 斬撃
 敵
@@ -54,7 +54,7 @@ Target: Single Enemy |Damage: Slashing
 Strike the vital point and watch the blood flow.
 //entry 6 -----------------------
 秘剣・雉
-秘剣・雉
+Pheasant
 *
 斬撃
 敵
@@ -63,7 +63,7 @@ Target: Single Enemy |Damage: Slashing
 They will shriek like a stricken bird.
 //entry 7 -----------------------
 秘剣・鴉
-秘剣・鴉
+Crow
 *
 斬撃
 敵
@@ -72,7 +72,7 @@ Target: Single Enemy |Damage: Slashing
 Make the blood scatter like a fountain.
 //entry 8 -----------------------
 急所斬り
-急所斬り
+Behead
 *
 斬撃
 敵
@@ -81,7 +81,7 @@ Target: Single Enemy |Damage: Slashing|30% Death
 Good for dispatching the small fry, but not effective against powerful foes.
 //entry 9 -----------------------
 真・急所斬り
-真・急所斬り
+Bisect
 *
 斬撃
 敵
@@ -90,7 +90,7 @@ Target: Single Enemy |Damage: Slashing|40% Death
 Out of my way!
 //entry 10 -----------------------
 魔・急所斬り
-魔・急所斬り
+Vivisect
 *
 斬撃
 敵
@@ -99,7 +99,7 @@ Target: Single Enemy |Damage: Slashing|50% Death
 The blade of an executioner.
 //entry 11 -----------------------
 脅し斬り
-脅し斬り
+Hamstring
 *
 斬撃
 敵
@@ -108,7 +108,7 @@ Target: Single Enemy|40% Fear
 A scared foe is much less threatening.
 //entry 12 -----------------------
 挑発斬り
-挑発斬り
+Provoke
 *
 斬撃
 敵
@@ -117,7 +117,7 @@ Target: Single Enemy|40% Berserk
 A careless foe is easy to dispatch.
 //entry 13 -----------------------
 毒斬り
-毒斬り
+Poison Slash
 *
 斬撃
 敵
@@ -126,7 +126,7 @@ Target: Single Enemy|100% Poison
 Let the toxins do the work for you.
 //entry 14 -----------------------
 麻痺斬り
-麻痺斬り
+Stunning Slash
 *
 斬撃
 敵
@@ -135,7 +135,7 @@ Target: Single Enemy|100% Stun
 If they can't move, they're no threat to you.
 //entry 15 -----------------------
 混乱斬り
-混乱斬り
+Confusing Slash
 *
 斬撃
 敵
@@ -144,7 +144,7 @@ Target: Single Enemy|100% Confuse
 Be careful, because a confused foe can still be threatening.
 //entry 16 -----------------------
 打撃
-打撃
+Strike
 *
 打撃
 敵
@@ -153,7 +153,7 @@ Target: Single Enemy |Damage: Striking
 A simple hammer blow.
 //entry 17 -----------------------
 連打
-連打
+Assault
 *
 打撃
 敵３
@@ -162,7 +162,7 @@ Target: Multiple Enemies|Damage: Striking
 A wild flurry of attacks.
 //entry 18 -----------------------
 突き
-突き
+Crush
 *
 打撃
 敵
@@ -171,7 +171,7 @@ Target: Single Enemy |Damage: Striking
 A heavy blow that can cause more damage than a slash.
 //entry 19 -----------------------
 連突き
-連突き
+Onslaught
 *
 打撃
 敵３
@@ -180,7 +180,7 @@ Target: Multiple Enemies Striking
 Each blow knocks them more off balance.
 //entry 20 -----------------------
 払い
-払い
+Sweep
 *
 打撃
 敵行
@@ -189,7 +189,7 @@ Target: Enemy Row |Damage: Striking
 Swing through all of them.
 //entry 21 -----------------------
 振り回し
-振り回し
+Big Sweep
 *
 打撃
 敵行
@@ -198,7 +198,7 @@ Target: Enemy Row |Damage: Striking
 Literally sweep away the small fry.
 //entry 22 -----------------------
 貫き手
-貫き手
+Thrust
 *
 打撃
 敵列
@@ -207,7 +207,7 @@ Target: Enemy Column |Damage: Striking
 A penetrating blow.
 //entry 23 -----------------------
 弾き飛ばし
-弾き飛ばし
+Knockback
 *
 打撃
 敵
@@ -216,7 +216,7 @@ Target: Single Enemy |Damage: Striking|50% Knockback
 Can damage the enemies trying to hide behind their friends.
 //entry 24 -----------------------
 叩き潰し
-叩き潰し
+Homerun Swing
 *
 打撃
 敵
@@ -225,7 +225,7 @@ Target: Single Enemy |Damage: Striking|30% Death
 Finish them in a single blow!
 //entry 25 -----------------------
 ソニックブロー
-ソニックブロー
+Sonic Blow
 *
 打撃
 敵
@@ -234,7 +234,7 @@ Target: Single Enemy |Damage: Striking|High accuracy
 An attack that's faster than sound itself.
 //entry 26 -----------------------
 フラッシュブロー
-フラッシュブロー
+Flash Blow
 *
 打撃
 敵
@@ -243,7 +243,7 @@ Target: Single Enemy |Damage: Striking|High accuracy
 An attack that's faster than light.
 //entry 27 -----------------------
 タイムブロー
-タイムブロー
+Time Blow
 *
 打撃
 敵
@@ -252,7 +252,7 @@ Target: Single Enemy |Damage: Striking|High accuracy
 An attack that's faster than time.
 //entry 28 -----------------------
 ゴッドブロー
-ゴッドブロー
+God Blow
 *
 打撃
 敵
@@ -261,7 +261,7 @@ Target: Single Enemy |Damage: Striking|High accuracy
 An attack that's faster than gods.
 //entry 29 -----------------------
 射撃
-射撃
+Shoot
 *
 射撃
 敵
@@ -270,7 +270,7 @@ Target: Single Enemy|Damage: Ranged
 A basic distance attack.
 //entry 30 -----------------------
 強射撃
-強射撃
+Bull's Eye
 *
 射撃
 敵
@@ -279,7 +279,7 @@ Target: Single Enemy|Damage: Ranged
 Hurts if you hit them where it counts.
 //entry 31 -----------------------
 極射撃
-極射撃
+Deadeye Snipe
 *
 射撃
 敵
@@ -288,7 +288,7 @@ Target: Single Enemy|Damage: Ranged
 Take them out from a distance.
 //entry 32 -----------------------
 連射
-連射
+Wild Firing
 *
 射撃
 敵３
@@ -297,7 +297,7 @@ Target: Multiple Enemies|Damage: Ranged
 Release a flurry of projectiles.
 //entry 33 -----------------------
 強連射
-強連射
+Volley
 *
 射撃
 敵５
@@ -306,7 +306,7 @@ Target: Multiple Enemies|Damage: Ranged
 Mow them down with a barrage.
 //entry 34 -----------------------
 極連射
-極連射
+Gatling Firing
 *
 射撃
 敵７
@@ -315,7 +315,7 @@ Target: Multiple Enemies|Damage: Ranged
 Unleash a storm of arrows!
 //entry 35 -----------------------
 乱射
-乱射
+Barrage
 *
 射撃
 敵全
@@ -324,7 +324,7 @@ Target: All Enemies |Damage: Ranged
 For when you can't be bothered to pick a target.
 //entry 36 -----------------------
 強乱射
-強乱射
+Hail
 *
 射撃
 敵全
@@ -333,7 +333,7 @@ Target: All Enemies |Damage: Ranged
 Oh, whatever. Just open fire!
 //entry 37 -----------------------
 極乱射
-極乱射
+Arrow Storm
 *
 射撃
 敵全
@@ -342,7 +342,7 @@ Target: All Enemies |Damage: Ranged
 Shoot first, pick a target later.
 //entry 38 -----------------------
 狙い撃ち
-狙い撃ち
+Sharpshoot
 *
 射撃
 敵
@@ -351,7 +351,7 @@ Target: Single Enemy|Damage: Ranged |30% Death
 A weak attack, but can be deadly.
 //entry 39 -----------------------
 強狙い撃ち
-強狙い撃ち
+Assassinate
 *
 射撃
 敵
@@ -360,7 +360,7 @@ Target: Single Enemy|Damage: Ranged |40% Death
 A standard of assassins.
 //entry 40 -----------------------
 極狙い撃ち
-極狙い撃ち
+Liquidate
 *
 射撃
 敵
@@ -369,7 +369,7 @@ Target: Single Enemy|Damage: Ranged |50% Death
 Eliminate the critical support right away.
 //entry 41 -----------------------
 毒射ち
-毒射ち
+Poison Edge
 *
 射撃
 敵
@@ -378,7 +378,7 @@ Target: Single Enemy|Damage: Ranged |50% Poison
 The damage can pile up against strong foes.
 //entry 42 -----------------------
 猛毒射ち
-猛毒射ち
+Snake Blood
 *
 射撃
 敵
@@ -387,7 +387,7 @@ Target: Single Enemy|Damage: Ranged |70% Poison
 Will be deadly... eventually.
 //entry 43 -----------------------
 毒
-毒
+Spider Venom
 *
 異常
 敵
@@ -396,7 +396,7 @@ Target: Single Enemy|70% Poison
 Take them down, bit by bit.
 //entry 44 -----------------------
 毒の霧
-毒の霧
+Poison Fog
 *
 異常
 敵全
@@ -405,7 +405,7 @@ Target: All Enemies|65% Poison
 Not accurate, but can infect all the enemies.
 //entry 45 -----------------------
 毒界
-毒界
+Poison Field
 *
 異常
 全
@@ -414,7 +414,7 @@ Target: Field|75% Poison
 A toxic attack that hits friend and foe.
 //entry 46 -----------------------
 麻痺
-麻痺
+Paralyze
 *
 異常
 敵
@@ -423,7 +423,7 @@ Target: Single Enemy|35% Stun
 Disable a troublesome enemy.
 //entry 47 -----------------------
 麻痺の霧
-麻痺の霧
+Paralysis Fog
 *
 異常
 敵全
@@ -432,7 +432,7 @@ Target: All Enemies|30% Stun
 They recover quickly, so make the most of your time.
 //entry 48 -----------------------
 麻界
-麻界
+Paralysis Field
 *
 異常
 全
@@ -441,7 +441,7 @@ Target: Field|40% Stun
 Good for when you're outnumbered, but may backfire.
 //entry 49 -----------------------
 混乱
-混乱
+Confuse
 *
 異常
 敵
@@ -450,7 +450,7 @@ Target: Single Enemy|70% Confuse
 A confused enemy is slower, easier to hit, and may act erratically.
 //entry 50 -----------------------
 混乱の霧
-混乱の霧
+Confusion Fog
 *
 異常
 敵全
@@ -459,7 +459,7 @@ Target: All Enemies|65% Confuse
 Confusion can be dangerous, to you and to them.
 //entry 51 -----------------------
 混界
-混界
+Confusion Field
 *
 異常
 全
@@ -468,7 +468,7 @@ Target: Field|75% Confuse
 Let chaos reign over the battlefield.
 //entry 52 -----------------------
 恐怖
-恐怖
+Terror
 *
 異常
 敵
@@ -477,7 +477,7 @@ Target: Single Enemy|85% Fear
 A scared enemy is a weak enemy.
 //entry 53 -----------------------
 恐怖の霧
-恐怖の霧
+Terror Fog
 *
 異常
 敵全
@@ -486,7 +486,7 @@ Target: All Enemies|80% Fear
 If they're threatened, they're not threatening.
 //entry 54 -----------------------
 恐界
-恐界
+Terror Field
 *
 異常
 全
@@ -495,7 +495,7 @@ Target: Field|90% Fear
 Spread terror across the battlefield.
 //entry 55 -----------------------
 興奮
-興奮
+Berserk
 *
 異常
 敵
@@ -504,7 +504,7 @@ Target: Single Enemy|85% Berserk
 Reckless enemies don't pay attention to defense.
 //entry 56 -----------------------
 興奮の霧
-興奮の霧
+Berserk Fog
 *
 異常
 敵全
@@ -513,7 +513,7 @@ Target: All Enemies|80% Berserk
 Useful for tough enemies.
 //entry 57 -----------------------
 興界
-興界
+Berserk Field
 *
 異常
 全
@@ -522,16 +522,16 @@ Target: Field|90% Berserk
 Bloodlust isn't infectious, but this might be.
 //entry 58 -----------------------
 火矢
-火矢
+Fire Sting
 *
 火
 敵
 *
 Target: Single Enemy|Damage: Fire
-水属性に特に効果がある。
+Particularly strong against chilly enemies.
 //entry 59 -----------------------
 火矢三連
-火矢三連
+Fire Darts
 *
 火
 敵３
@@ -540,7 +540,7 @@ Target: Multiple Enemies|Damage: Fire
 Can burn up to three enemies.
 //entry 60 -----------------------
 火矢五連
-火矢五連
+Fire Arrows
 *
 火
 敵５
@@ -549,7 +549,7 @@ Target: Multiple Enemies|Damage: Fire
 Toast them all equally.
 //entry 61 -----------------------
 火矢七連
-火矢七連
+Fire Barrage
 *
 火
 敵７
@@ -558,7 +558,7 @@ Target: Multiple Enemies|Damage: Fire
 Melt all their hearts at once, and their faces.
 //entry 62 -----------------------
 火矢九連
-火矢九連
+Fire Blitz
 *
 火
 敵９
@@ -567,7 +567,7 @@ Target: Multiple Enemies|Damage: Fire
 Just burn everything indiscriminantly.
 //entry 63 -----------------------
 火矢砲
-火矢砲
+Fire Lance
 *
 火
 敵列
@@ -576,7 +576,7 @@ Target: Enemy Column|Damage: Fire
 A jet of flame for all in your path.
 //entry 64 -----------------------
 火矢幕
-火矢幕
+Fire Wall
 *
 火
 敵行
@@ -585,7 +585,7 @@ Target: Enemy Row|Damage: Fire
 A fiery sweep of the hand.
 //entry 65 -----------------------
 火矢陣
-火矢陣
+Conflagration
 *
 火
 敵全
@@ -594,7 +594,7 @@ Target: All Enemies|Damage: Fire
 Fry everything to a crisp.
 //entry 66 -----------------------
 炎獄
-炎獄
+Hell's Inferno
 *
 火
 敵全
@@ -603,763 +603,763 @@ Target: All Enemies|Damage: Fire
 Incinerate them all in hellfire.
 //entry 67 -----------------------
 氷水
-氷水
+Ice Sting
 *
 水
 敵
 *
 Target: Single Enemy|Damage: Ice
-土属性に特に効果がある。
+Particularly effective against earthen enemies. 
 //entry 68 -----------------------
 氷水三連
-氷水三連
+Ice Darts
 *
 水
 敵３
 *
 Target: Multiple Enemies|Damage: Ice
-最大三体の敵を狙う。|土属性に特に効果がある。
+Can chill up to three enemies.
 //entry 69 -----------------------
 氷水五連
-氷水五連
+Ice Arrows
 *
 水
 敵５
 *
 Target: Multiple Enemies|Damage: Ice
-最大五体の敵を狙う。|土属性に特に効果がある。
+Freeze them in place, forcefully.
 //entry 70 -----------------------
 氷水七連
-氷水七連
+Ice Barrage
 *
 水
 敵７
 *
 Target: Multiple Enemies|Damage: Ice
-最大七体の敵を狙う。|土属性に特に効果がある。
+Puts a bunch of enemies on ice.
 //entry 71 -----------------------
 氷水九連
-氷水九連
+Ice Blitz
 *
 水
 敵９
 *
 Target: Multiple Enemies|Damage: Ice
-最大九体の敵を狙う。|土属性に特に効果がある。
+Basically a very dangerous hailstorm.
 //entry 72 -----------------------
 氷水砲
-氷水砲
+Ice Lance
 *
 水
 敵列
 *
 Target: Enemy Column|Damage: Ice
-土属性に特に効果がある。
+Piercing cold. Literally.
 //entry 73 -----------------------
 氷水幕
-氷水幕
+Ice Wall
 *
 水
 敵行
 *
 Target: Enemy Row|Damage: Ice
-土属性に特に効果がある。
+Create a frosty fortress.
 //entry 74 -----------------------
 氷水陣
-氷水陣
+Blizzard
 *
 水
 敵全
 *
 Target: All Enemies|Damage: Ice
-土属性に特に効果がある。
+Force them all to chill out.
 //entry 75 -----------------------
 氷獄
-氷獄
+Absolute Zero
 *
 水
 敵全
 *
 Target: All Enemies|Damage: Ice
-土属性に特に効果がある。
+So cold it burns.
 //entry 76 -----------------------
 岩石
-岩石
+Earth Sting
 *
 土
 敵
 *
 Target: Single Enemy|Damage: Earth
-風属性に特に効果がある。
+Basically throwing gravel, but magically.
 //entry 77 -----------------------
 岩石三連
-岩石三連
+Earth Darts
 *
 土
 敵３
 *
 Target: Multiple Enemies|Damage: Earth
-最大三体の敵を狙う。|風属性に特に効果がある。
+Sharp rocks still hurt.
 //entry 78 -----------------------
 岩石五連
-岩石五連
+Earth Arrows
 *
 土
 敵５
 *
 Target: Multiple Enemies|Damage: Earth
-最大五体の敵を狙う。|風属性に特に効果がある。
+Are these horizontal stalgmites?
 //entry 79 -----------------------
 岩石七連
-岩石七連
+Earth Barrage
 *
 土
 敵７
 *
 Target: Multiple Enemies|Damage: Earth
-最大七体の敵を狙う。|風属性に特に効果がある。
+Not quite a rockslide.
 //entry 80 -----------------------
 岩石九連
-岩石九連
+Earth Blitz
 *
 土
 敵９
 *
 Target: Multiple Enemies|Damage: Earth
-最大九体の敵を狙う。|風属性に特に効果がある。
+Be careful not to bury the loot.
 //entry 81 -----------------------
 岩石砲
-岩石砲
+Earth Lance
 *
 土
 敵列
 *
 Target: Enemy Column|Damage: Earth
-風属性に特に効果がある。
+It's got a lot of heft.
 //entry 82 -----------------------
 岩石幕
-岩石幕
+Earth Wall
 *
 土
 敵行
 *
 Target: Enemy Row|Damage: Earth
-風属性に特に効果がある。
+Useful for terraforming dungeons.
 //entry 83 -----------------------
 岩石陣
-岩石陣
+Avalanche
 *
 土
 敵全
 *
 Target: All Enemies|Damage: Earth
-風属性に特に効果がある。
+Crush them with the power of rock.
 //entry 84 -----------------------
 岩獄
-岩獄
+Entombed
 *
 土
 敵全
 *
 Target: All Enemies|Damage: Earth
-風属性に特に効果がある。
+Very difficult to escape.
 //entry 85 -----------------------
 暴風
-暴風
+Wind Sting
 *
 風
 敵
 *
 Target: Single Enemy|Damage: Wind
-火属性に特に効果がある。
+Compressed wind can hurt.
 //entry 86 -----------------------
 暴風三連
-暴風三連
+Wind Darts
 *
 風
 敵３
 *
 Target: Multiple Enemies|Damage: Wind
-最大三体の敵を狙う。|火属性に特に効果がある。
+An unseen flurry.
 //entry 87 -----------------------
 暴風五連
-暴風五連
+Wind Arrows
 *
 風
 敵５
 *
 Target: Multiple Enemies|Damage: Wind
-最大五体の敵を狙う。|火属性に特に効果がある。
+Will blow out even the hottest fire.
 //entry 88 -----------------------
 暴風七連
-暴風七連
+Wind Barrage
 *
 風
 敵７
 *
 Target: Multiple Enemies|Damage: Wind
-最大七体の敵を狙う。|火属性に特に効果がある。
+Too many of these can start a storm.
 //entry 89 -----------------------
 暴風九連
-暴風九連
+Wind Blitz
 *
 風
 敵９
 *
 Target: Multiple Enemies|Damage: Wind
-最大九体の敵を狙う。|火属性に特に効果がある。
+Can mess up a dungeon's atmosphere if used haphazardly.
 //entry 90 -----------------------
 暴風砲
-暴風砲
+Wind Lance
 *
 風
 敵列
 *
 Target: Enemy Column|Damage: Wind
-火属性に特に効果がある。
+A piercing jet of wind.
 //entry 91 -----------------------
 暴風幕
-暴風幕
+Wind Wall
 *
 風
 敵行
 *
 Target: Enemy Row|Damage: Wind
-火属性に特に効果がある。
+Crush enemies with pure pressure.
 //entry 92 -----------------------
 暴風陣
-暴風陣
+Hurricane
 *
 風
 敵全
 *
 Target: All Enemies|Damage: Wind
-火属性に特に効果がある。
+Don't get carried away.
 //entry 93 -----------------------
 風獄
-風獄
+Tornado
 *
 風
 敵全
 *
 Target: All Enemies|Damage: Wind
-火属性に特に効果がある。
+Beware of flying cows.
 //entry 94 -----------------------
 雷撃
-雷撃
+Lit Sting
 *
 雷
 敵
 *
 Target: Single Enemy|Damage: Lightning
-万能的に威力がある。
+Not much more than a static shock.
 //entry 95 -----------------------
 雷撃三連
-雷撃三連
+Lit Darts
 *
 雷
 敵３
 *
 Target: Multiple Enemies|Damage: Lightning
-最大三体の敵を狙う。|万能的に威力がある。
+They're electrifying.
 //entry 96 -----------------------
 雷撃五連
-雷撃五連
+Lit Bolts
 *
 雷
 敵５
 *
 Target: Multiple Enemies|Damage: Lightning
-最大五体の敵を狙う。|万能的に威力がある。
+Don't cast this in the rain.
 //entry 97 -----------------------
 雷撃七連
-雷撃七連
+Lit Barrage
 *
 雷
 敵７
 *
 Target: Multiple Enemies|Damage: Lightning
-最大七体の敵を狙う。|万能的に威力がある。
+The sound is the scariest part.
 //entry 98 -----------------------
 雷撃九連
-雷撃九連
+Lit Blitz
 *
 雷
 敵９
 *
 Target: Multiple Enemies|Damage: Lightning
-最大九体の敵を狙う。|万能的に威力がある。
+Will make your hair stand on end.
 //entry 99 -----------------------
 雷撃砲
-雷撃砲
+Lit Lance
 *
 雷
 敵列
 *
 Target: Enemy Column|Damage: Lightning
-万能的に威力がある。
+Arcs straight through enemies.
 //entry 100 -----------------------
 雷撃幕
-雷撃幕
+Lit Wall
 *
 雷
 敵行
 *
 Target: Enemy Row|Damage: Lightning
-万能的に威力がある。
+Not an electric fence.
 //entry 101 -----------------------
 雷撃陣
-雷撃陣
+Plasma Storm
 *
 雷
 敵全
 *
 Target: All Enemies|Damage: Lightning
-万能的に威力がある。
+Casting this while wearing metal armor is not recommended.
 //entry 102 -----------------------
 雷獄
-雷獄
+Wrath of Zeus
 *
 雷
 敵全
 *
 Target: All Enemies|Damage: Lightning
-万能的に威力がある。
+This lightning only needs to strike once.
 //entry 103 -----------------------
 漆黒
-漆黒
+Void Sting
 *
 闇
 敵
 *
 Target: Single Enemy|Damage: Dark
-光属性相手に特に効果がある。
+Corrupts the soul, but only a little.
 //entry 104 -----------------------
 漆黒三連
-漆黒三連
+Void Darts
 *
 闇
 敵３
 *
 Target: Multiple Enemies|Damage: Dark
-最大三体の敵を狙う。|光属性相手に特に効果がある。
+A few quick shots of sin.
 //entry 105 -----------------------
 漆黒五連
-漆黒五連
+Void Arrows
 *
 闇
 敵５
 *
 Target: Multiple Enemies|Damage: Dark
-最大五体の敵を狙う。|光属性相手に特に効果がある。
+Makes angels queasy.
 //entry 106 -----------------------
 漆黒七連
-漆黒七連
+Void Barrage
 *
 闇
 敵７
 *
 Target: Multiple Enemies|Damage: Dark
-最大七体の敵を狙う。|光属性相手に特に効果がある。
+Difficult to see in dungeons.
 //entry 107 -----------------------
 漆黒九連
-漆黒九連
+Void Blitz
 *
 闇
 敵９
 *
 Target: Multiple Enemies|Damage: Dark
-最大九体の敵を狙う。|光属性相手に特に効果がある。
+Embodies the terror of the night.
 //entry 108 -----------------------
 漆黒砲
-漆黒砲
+Void Lance
 *
 闇
 敵列
 *
 Target: Enemy Column|Damage: Dark
-光属性相手に特に効果がある。
+A stream of pure darkness.
 //entry 109 -----------------------
 漆黒幕
-漆黒幕
+Void Wall
 *
 闇
 敵行
 *
 Target: Enemy Row|Damage: Dark
-光属性相手に特に効果がある。
+An unseen, unsettling wall of night.
 //entry 110 -----------------------
 漆黒陣
-漆黒陣
+Gravity Well
 *
 闇
 敵全
 *
 Target: All Enemies|Damage: Dark
-光属性相手に特に効果がある。
+Hard to escape from.
 //entry 111 -----------------------
 闇獄
-闇獄
+Black Hole
 *
 闇
 敵全
 *
 Target: All Enemies|Damage: Dark
-光属性相手に特に効果がある。
+Crushes those caught within it.
 //entry 112 -----------------------
 光槍
-光槍
+Holy Sting
 *
 光
 敵
 *
 Target: Single Enemy|Damage: Light
-闇属性相手に特に効果がある。
+A little judgement can hurt.
 //entry 113 -----------------------
 光槍三連
-光槍三連
+Holy Darts
 *
 光
 敵３
 *
 Target: Multiple Enemies|Damage: Light
-最大三体の敵を狙う。|闇属性相手に特に効果がある。
+Demons especially don't like the brightness.
 //entry 114 -----------------------
 光槍五連
-光槍五連
+Holy Arrows
 *
 光
 敵５
 *
 Target: Multiple Enemies|Damage: Light
-最大五体の敵を狙う。|闇属性相手に特に効果がある。
+Light too bright can burn.
 //entry 115 -----------------------
 光槍七連
-光槍七連
+Holy Barrage
 *
 光
 敵７
 *
 Target: Multiple Enemies|Damage: Light
-最大七体の敵を狙う。|闇属性相手に特に効果がある。
+A rain of sunbeams, but far more painful.
 //entry 116 -----------------------
 光槍九連
-光槍九連
+Holy Blitz
 *
 光
 敵９
 *
 Target: Multiple Enemies|Damage: Light
-最大九体の敵を狙う。|闇属性相手に特に効果がある。
+Might be mistaken for fireworks.
 //entry 117 -----------------------
 光槍砲
-光槍砲
+Holy Lance
 *
 光
 敵列
 *
 Target: Enemy Column|Damage: Light
-闇属性相手に特に効果がある。
+The light pierces all.
 //entry 118 -----------------------
 光槍幕
-光槍幕
+Holy Wall
 *
 光
 敵行
 *
 Target: Enemy Row|Damage: Light
-闇属性相手に特に効果がある。
+Only the pure can pass unscathed.
 //entry 119 -----------------------
 光槍陣
-光槍陣
+Consecration
 *
 光
 敵全
 *
 Target: All Enemies|Damage: Light
-闇属性相手に特に効果がある。
+All impurities will be forcefully purged.
 //entry 120 -----------------------
 光獄
-光獄
+Final Judgement
 *
 光
 敵全
 *
 Target: All Enemies|Damage: Light
-闇属性相手に特に効果がある。
+Even angels fear judgement.
 //entry 121 -----------------------
 無心
-無心
+Mana Sting
 *
 無
 敵
 *
 Target: Single Enemy|Damage: Void
-攻撃相性が無いので、無効化される心配が無い。
+Just a little zap of pure mana.
 //entry 122 -----------------------
 無心三連
-無心三連
+Mana Darts
 *
 無
 敵３
 *
 Target: Multiple Enemies|Damage: Void
-最大三体の敵を狙う。|攻撃相性が無いので、無効化される心配が無い。
+Bundle up your mana and fling it out.
 //entry 123 -----------------------
 無心五連
-無心五連
+Mana Arrows
 *
 無
 敵５
 *
 Target: Multiple Enemies|Damage: Void
-最大五体の敵を狙う。|攻撃相性が無いので、無効化される心配が無い。
+Won't be resisted, but won't be effective either.
 //entry 124 -----------------------
 無心七連
-無心七連
+Mana Barrage
 *
 無
 敵７
 *
 Target: Multiple Enemies|Damage: Void
-最大七体の敵を狙う。|攻撃相性が無いので、無効化される心配が無い。
+Angel or demon, they're all susceptible to raw magic.
 //entry 125 -----------------------
 無心九連
-無心九連
+Mana Blitz
 *
 無
 敵９
 *
 Target: Multiple Enemies|Damage: Void
-最大九体の敵を狙う。|攻撃相性が無いので、無効化される心配が無い。
+A salvo of pure magic.
 //entry 126 -----------------------
 無心砲
-無心砲
+Mana Lance
 *
 無
 敵列
 *
 Target: Enemy Column|Damage: Void
-攻撃相性が無いので、無効化される心配が無い。
+A piercing bolt of pure energy.
 //entry 127 -----------------------
 無心幕
-無心幕
+Mana Wall
 *
 無
 敵行
 *
 Target: Enemy Row|Damage: Void
-攻撃相性が無いので、無効化される心配が無い。
+Can't function as an actual wall.
 //entry 128 -----------------------
 無心陣
-無心陣
+Mana Explosion
 *
 無
 敵全
 *
 Target: All Enemies|Damage: Void
-攻撃相性が無いので、無効化される心配が無い。
+Just a raw burst of pure energy.
 //entry 129 -----------------------
 魔獄
-魔獄
+All Is Nothing
 *
 無
 敵全
 *
 Target: All Enemies|Damage: Void
-攻撃相性が無いので、無効化される心配が無い。
+Unleash a storm of pure magic.
 //entry 130 -----------------------
 小回復
-小回復
+First Aid
 *
 回復
 味単
 *
 Target: Single Ally|Recover HP
-自分は回復に専念。|後は他の連中に任せた。
+Focus on staying healthy.|Leave the hard part to someone else.
 //entry 131 -----------------------
 中回復
-中回復
+Heal
 *
 回復
 味単
 *
 Target: Single Ally|Recover HP
-これを持ってるだけで、危機はかなり回避できるかな。
+This is enough to avoid a lot of crises.
 //entry 132 -----------------------
 大回復
-大回復
+Heal Plus
 *
 回復
 味単
 *
 Target: Single Ally|Recover HP
-これさえあれば、多少の無茶は可能？
+You can be a little reckless with this on hand.
 //entry 133 -----------------------
 特回復
-特回復
+Benediction
 *
 回復
 味単
 *
 Target: Single Ally|Recover HP
-しぶといの代名詞的な呪文。
+A spell for the truly stubborn.
 //entry 134 -----------------------
 全小回復
-全小回復
+Healing Mist
 *
 回復
 味全
 *
 Target: All Allies|Recover HP
-全員を小さく回復！
+Heals for everybody!
 //entry 135 -----------------------
 全中回復
-全中回復
+Healing Fog
 *
 回復
 味全
 *
 Target: All Allies|Recover HP
-全員をそこそこ回復！
+Health care for all!
 //entry 136 -----------------------
 全大回復
-全大回復
+Healing Rain
 *
 回復
 味全
 *
 Target: All Allies|Recover HP
-全員をかなり回復！
+Health rains down on everyone!
 //entry 137 -----------------------
 全特回復
-全特回復
+Angel Song
 *
 回復
 味全
 *
 Target: All Allies|Recover HP
-これを覚えれば、かなり死に難くなるかも。
+This makes it very hard to kill your party.
 //entry 138 -----------------------
 リフ
-リフ
+Remedy
 *
 異常回復
 味単
 毒-100|麻痺-100|混乱-100|攻撃ダウン-100|防御ダウン-100|回避ダウン-100|速度ダウン-100
 Target: Single Ally|Recover Ailments|(Targets All Allies Outside Battle)
-状態異常を甘くみてはいけない。
+Don't underestimate status effects.
 //entry 139 -----------------------
 全リフ
-全リフ
+Panacea
 *
 異常回復
 味全
 毒-100|麻痺-100|混乱-100|攻撃ダウン-100|防御ダウン-100|回避ダウン-100|速度ダウン-100
 Target: All Allies|Recover Ailments
-どんな状態異常も治します。
+Can cure any sickness.
 //entry 140 -----------------------
 大完治
-大完治
+Salvation
 *
 回復
 味全
 毒-100|麻痺-100|混乱-100|攻撃ダウン-100|防御ダウン-100|回避ダウン-100|速度ダウン-100
 Target: All Allies|Recover HP and Ailments
-どんな状態異常も治します。
+Brings the whole party back from whatever ails them.
 //entry 141 -----------------------
 斬撃属性防御
-斬撃属性防御
+Steel Skin
 斬耐性+40
 能力向上
 味単
 *
 Passive|Resist Slashing Attacks
-習得しているだけで効果があります。
+Also effective against paper cuts.
 //entry 142 -----------------------
 打撃属性防御
-打撃属性防御
+Goo Body
 打耐性+40
 能力向上
 味単
 *
 Passive|Resist Striking Attacks
-習得しているだけで効果があります。
+It's not fat, it's just goo bones.
 //entry 143 -----------------------
 射撃属性防御
-射撃属性防御
+Dragon Skin
 射耐性+40
 能力向上
 味単
 *
 Passive|Resist Ranged Attacks
-習得しているだけで効果があります。
+Not scales, but still scaly.
 //entry 144 -----------------------
 火属性防御
-火属性防御
+Hot Blooded
 火耐性+40
 能力向上
 味単
 *
 Passive|Resist Fire Attacks
-習得しているだけで効果があります。
+Sometimes mistaken for a high fever.
 //entry 145 -----------------------
 水属性防御
-水属性防御
+Cool Cucumber
 水耐性+40
 能力向上
 味単
 *
 Passive|Resist Ice Attacks
-習得しているだけで効果があります。
+Also keeps one calm under pressure.
 //entry 146 -----------------------
 土属性防御
-土属性防御
+Rock Solid
 土耐性+40
 能力向上
 味単
 *
 Passive|Resist Earth Attacks
-習得しているだけで効果があります。
+Be the rock to face the rock.
 //entry 147 -----------------------
 風属性防御
-風属性防御
+Air Head
 風耐性+40
 能力向上
 味単
 *
 Passive|Resist Wind Attacks
-習得しているだけで効果があります。
+Let it all pass right through you.
 //entry 148 -----------------------
 雷属性防御
-雷属性防御
+Static Cling
 雷耐性+40
 能力向上
 味単
 *
 Passive|Resist Lightning Attacks
-習得しているだけで効果があります。
+The secret is rubber soles.
 //entry 149 -----------------------
 光属性防御
-光属性防御
+Child of Light
 光耐性+40
 能力向上
 味単
 *
 Passive|Resist Light Attacks
-習得しているだけで効果があります。
+Let your personality shine through.
 //entry 150 -----------------------
 闇属性防御
-闇属性防御
+Born in Night
 闇耐性+40
 能力向上
 味単
 *
 Passive|Resist Dark Attacks
-習得しているだけで効果があります。
+Does resisting darkness make you bright?
 //entry 151 -----------------------
 固定／触手ムチ
-触手ムチ
+Tentacle Whip
 *
 打撃
 敵
@@ -1368,7 +1368,7 @@ Target: Single Enemy|Damage: Striking
 An unforgettable skill
 //entry 152 -----------------------
 固定／触手乱れムチ
-触手乱れムチ
+Tentacle Flail
 *
 打撃
 敵３
@@ -1377,7 +1377,7 @@ Target: Multiple Enemies|Damage: Striking
 An unforgettable skill
 //entry 153 -----------------------
 固定／飛剣
-飛剣
+Flying Sword
 *
 射撃
 敵
@@ -1386,7 +1386,7 @@ Target: Single Enemy|Damage: Ranged
 An unforgettable skill
 //entry 154 -----------------------
 固定／乱飛剣
-乱飛剣
+Flying Flay
 *
 射撃
 敵３
@@ -1395,7 +1395,7 @@ Target: Multiple Enemies|Damage: Ranged
 An unforgettable skill
 //entry 155 -----------------------
 固定／火炎斬り
-火炎斬り
+Flame Slash
 *
 斬撃
 敵
@@ -1404,7 +1404,7 @@ Target: Single Enemy|Damage: Slashing
 An unforgettable skill
 //entry 156 -----------------------
 固定／大豪炎
-大豪炎
+Roast
 *
 火
 敵５
@@ -1413,7 +1413,7 @@ Target: Multiple Enemies|Damage: Fire
 An unforgettable skill
 //entry 157 -----------------------
 固定／朱雀掌
-朱雀掌
+Firebird Swipe
 *
 斬撃
 敵
@@ -1422,7 +1422,7 @@ Target: Single Enemy|Damage: Slashing|50% Knockback
 An unforgettable skill
 //entry 158 -----------------------
 固定／虎の金棒
-虎の金棒
+Tiger Club
 *
 打撃
 敵
@@ -1431,7 +1431,7 @@ Target: Single Enemy|Damage: Striking
 An unforgettable skill
 //entry 159 -----------------------
 固定／押し金棒
-押し金棒
+Iron Rod
 *
 打撃
 敵
@@ -1440,7 +1440,7 @@ Target: Single Enemy|Damage: Striking
 An unforgettable skill
 //entry 160 -----------------------
 固定／虎王の金棒
-虎王の金棒
+Tiger Scepter
 *
 打撃
 敵
@@ -1449,7 +1449,7 @@ Target: Single Enemy|Damage: Striking
 An unforgettable skill
 //entry 161 -----------------------
 固定／水弾
-水弾
+Ice Bullet
 *
 水
 敵
@@ -1458,7 +1458,7 @@ Target: Single Enemy|Damage: Ice
 An unforgettable skill
 //entry 162 -----------------------
 固定／水連弾
-水連弾
+Ice Salvo
 *
 水
 敵５
@@ -1467,7 +1467,7 @@ Target: Multiple Enemies|Damage: Ice
 An unforgettable skill
 //entry 163 -----------------------
 固定／亀の知恵
-亀の知恵
+Turtle Wisdom
 *
 回復
 味全
@@ -1476,7 +1476,7 @@ Target: All Allies|Recover HP and Ailments
 An unforgettable skill
 //entry 164 -----------------------
 固定／青龍斬り
-青龍斬り
+Seiryu Slash
 *
 斬撃
 敵
@@ -1485,7 +1485,7 @@ Target: Single Enemy|Damage: Slashing
 An unforgettable skill
 //entry 165 -----------------------
 固定／秘剣／青龍
-秘剣／青龍
+Seiryu Rend
 *
 斬撃
 敵
@@ -1494,7 +1494,7 @@ Target: Single Enemy|Damage: Slashing
 An unforgettable skill
 //entry 166 -----------------------
 固定／無限斬り
-無限斬り
+Infinite Slash
 *
 斬撃
 敵５
@@ -1503,7 +1503,7 @@ Target: Multiple Enemies|Damage: Slashing
 An unforgettable skill
 //entry 167 -----------------------
 固定／森の矢
-森の矢
+Forest Arrow
 *
 射撃
 敵
@@ -1512,7 +1512,7 @@ Target: Single Enemy|Damage: Ranged
 An unforgettable skill
 //entry 168 -----------------------
 固定／森の雨矢
-森の雨矢
+Forest Barrage
 *
 射撃
 敵５
@@ -1521,7 +1521,7 @@ Target: Multiple Enemies|Damage: Ranged
 An unforgettable skill
 //entry 169 -----------------------
 固定／森の豪矢
-森の豪矢
+Forest Storm
 *
 射撃
 敵全
@@ -1530,7 +1530,7 @@ Target: All Enemies|Damage: Ranged
 An unforgettable skill
 //entry 170 -----------------------
 固定／悪魔の槍
-悪魔の槍
+Devil Spear
 *
 斬撃
 敵
@@ -1539,7 +1539,7 @@ Target: Single Enemy|Damage: Slashing
 An unforgettable skill
 //entry 171 -----------------------
 固定／悪魔王の槍
-悪魔王の槍
+Satan Spear
 *
 斬撃
 敵
@@ -1548,7 +1548,7 @@ Target: Single Enemy|Damage: Slashing
 An unforgettable skill
 //entry 172 -----------------------
 固定／突き飛ばし
-突き飛ばし
+Push Back
 *
 斬撃
 敵
@@ -1557,7 +1557,7 @@ Target: Single Enemy|Damage: Slashing|80% Knockback
 An unforgettable skill
 //entry 173 -----------------------
 固定／逆斬り
-逆斬り
+Back Slash
 *
 斬撃
 敵
@@ -1566,7 +1566,7 @@ Target: Single Enemy|Damage: Slashing
 An unforgettable skill
 //entry 174 -----------------------
 固定／逆乱れ斬り
-逆乱れ斬り
+Inverse Chaos Slash
 *
 斬撃
 敵３
@@ -1575,7 +1575,7 @@ Target: Multiple Enemies|Damage: Slashing
 An unforgettable skill
 //entry 175 -----------------------
 固定／逆必殺斬り
-逆必殺斬り
+Back Execution
 *
 斬撃
 敵
@@ -1584,7 +1584,7 @@ Target: Single Enemy|Damage: Slashing
 An unforgettable skill
 //entry 176 -----------------------
 固定／二連ツララ
-二連ツララ
+Twin Icicle
 *
 水
 敵２
@@ -1593,7 +1593,7 @@ Target: Multiple Enemies|Damage: Ice
 An unforgettable skill
 //entry 177 -----------------------
 固定／三連ツララ
-三連ツララ
+Triple Icicle
 *
 水
 敵３
@@ -1602,7 +1602,7 @@ Target: Multiple Enemies|Damage: Ice
 An unforgettable skill
 //entry 178 -----------------------
 固定／四連ツララ
-四連ツララ
+Quad Icicle
 *
 水
 敵４
@@ -1611,7 +1611,7 @@ Target: Multiple Enemies|Damage: Ice
 An unforgettable skill
 //entry 179 -----------------------
 固定／山羊の拳
-山羊の拳
+Goat Fist
 *
 打撃
 敵
@@ -1620,7 +1620,7 @@ Target: Single Enemy|Damage: Striking|10% Knockback
 An unforgettable skill
 //entry 180 -----------------------
 固定／山羊の強打
-山羊の強打
+Goat Slam
 *
 打撃
 敵
@@ -1629,7 +1629,7 @@ Target: Single Enemy|Damage: Striking|30% Knockback
 An unforgettable skill
 //entry 181 -----------------------
 固定／山羊の豪打
-山羊の豪打
+Goat Crush
 *
 打撃
 敵
@@ -1638,7 +1638,7 @@ Target: Single Enemy|Damage: Striking|50% Knockback
 An unforgettable skill
 //entry 182 -----------------------
 固定／光神の光
-光神の光
+Sacred Light
 *
 光
 敵
@@ -1647,7 +1647,7 @@ Target: Single Enemy|Damage: Light
 An unforgettable skill
 //entry 183 -----------------------
 固定／貫く光
-貫く光
+Piercing Light
 *
 光
 敵列
@@ -1656,7 +1656,7 @@ Target: Enemy Column|Damage: Light
 An unforgettable skill
 //entry 184 -----------------------
 固定／溢れる光
-溢れる光
+Scouring Light
 *
 光
 敵行
@@ -1665,7 +1665,7 @@ Target: Enemy Row|Damage: Light
 An unforgettable skill
 //entry 185 -----------------------
 固定／満たす光
-満たす光
+Purging Light
 *
 光
 敵全
@@ -1674,7 +1674,7 @@ Target: All Enemies|Damage: Light
 An unforgettable skill
 //entry 186 -----------------------
 固定／天雷棒
-天雷棒
+Thunder Rod
 *
 打撃
 敵
@@ -1683,7 +1683,7 @@ Target: Single Enemy|Damage: Striking|50% Knockback
 An unforgettable skill
 //entry 187 -----------------------
 固定／天雷棒の雷
-天雷棒の雷
+Thunder Rod Spark
 *
 雷
 敵
@@ -1692,7 +1692,7 @@ Target: Single Enemy|Damage: Lightning
 An unforgettable skill
 //entry 188 -----------------------
 固定／天雷棒の大雷
-天雷棒の大雷
+Thunder Rod Blast
 *
 雷
 敵全
@@ -1701,7 +1701,7 @@ Target: All Enemies|Damage: Lightning
 An unforgettable skill
 //entry 189 -----------------------
 固定／樹神の腕
-樹神の腕
+Seed Invoke
 *
 土
 敵
@@ -1710,7 +1710,7 @@ Target: Single Enemy|Damage: Earth
 An unforgettable skill
 //entry 190 -----------------------
 固定／樹神の知恵
-樹神の知恵
+Wisdom of the Seed
 *
 土
 敵５
@@ -1719,7 +1719,7 @@ Target: Multiple Enemies|Damage: Earth
 An unforgettable skill
 //entry 191 -----------------------
 固定／樹神の嘆き
-樹神の嘆き
+Lament of the Seed
 *
 土
 敵行
@@ -1728,7 +1728,7 @@ Target: Enemy Row|Damage: Earth|Defense Down
 An unforgettable skill
 //entry 192 -----------------------
 固定／樹神の夢
-樹神の夢
+Dream of the Seed
 *
 土
 敵全
@@ -1737,7 +1737,7 @@ Target: All Enemies|Damage: Earth|Defense Down
 An unforgettable skill
 //entry 193 -----------------------
 固定／魔炎
-魔炎
+Demon Flame
 *
 火
 敵５
@@ -1746,7 +1746,7 @@ Target: Multiple Enemies|Damage: Fire
 An unforgettable skill
 //entry 194 -----------------------
 固定／大魔炎
-大魔炎
+Demon Blaze
 *
 火
 敵全
@@ -1755,7 +1755,7 @@ Target: All Enemies|Damage: Fire
 An unforgettable skill
 //entry 195 -----------------------
 固定／剣の王
-剣の王
+King's Blade
 *
 斬撃
 敵
@@ -1764,7 +1764,7 @@ Target: Single Enemy|Damage: Slashing
 An unforgettable skill
 //entry 196 -----------------------
 固定／斬撃の舞
-斬撃の舞
+Blade Rondo
 *
 斬撃
 敵５
@@ -1773,7 +1773,7 @@ Target: Single Enemy|Damage: Slashing
 An unforgettable skill
 //entry 197 -----------------------
 固定／神力のブレス
-神力のブレス
+Divine Breath
 *
 無
 敵４
@@ -1782,7 +1782,7 @@ Target: Multiple Enemies|Damage: Void
 An unforgettable skill
 //entry 198 -----------------------
 固定／破壊のブレス
-破壊のブレス
+Death Breath
 *
 無
 敵全
@@ -1791,7 +1791,7 @@ Target: All Enemies|Damage: Void
 An unforgettable skill
 //entry 199 -----------------------
 固定／神罰のブレス
-神罰のブレス
+Retribution Breath
 *
 土
 敵
@@ -1800,7 +1800,7 @@ Target: Single Enemy|Damage: Earth
 An unforgettable skill
 //entry 200 -----------------------
 固定／天変地異
-天変地異
+Catastrophe
 *
 土
 敵全
@@ -1809,7 +1809,7 @@ Target: All Enemies|Damage: Earth
 An unforgettable skill
 //entry 201 -----------------------
 固定／神力球
-神力球
+Miracle Ball
 *
 無
 敵
@@ -1818,7 +1818,7 @@ Target: Single Enemy|Damage: Void
 An unforgettable skill
 //entry 202 -----------------------
 固定／神力三球
-神力三球
+Miracle Barrage
 *
 無
 敵３
@@ -1827,7 +1827,7 @@ Target: Multiple Enemies|Damage: Void
 An unforgettable skill
 //entry 203 -----------------------
 固定／清流水弾
-清流水弾
+Pure Stream
 *
 水
 敵４
@@ -1836,7 +1836,7 @@ Target: Multiple Enemies|Damage: Ice
 An unforgettable skill
 //entry 204 -----------------------
 固定／天の濁流
-天の濁流
+Heaven's Stream
 *
 水
 敵列
@@ -1845,7 +1845,7 @@ Target: Enemy Column|Damage: Ice
 An unforgettable skill
 //entry 205 -----------------------
 固定／螺旋の渦
-螺旋の渦
+Spiral Vortex
 *
 水
 敵行
@@ -1854,7 +1854,7 @@ Target: Enemy Row|Damage: Ice
 An unforgettable skill
 //entry 206 -----------------------
 固定／天地暴流
-天地暴流
+Heavenly Storm
 *
 水
 敵全
@@ -1863,7 +1863,7 @@ Target: All Enemies|Damage: Ice
 An unforgettable skill
 //entry 207 -----------------------
 固定／乱舞斬
-乱舞斬
+Sword Dance
 *
 斬撃
 敵３
@@ -1872,7 +1872,7 @@ Target: Multiple Enemies|Damage: Slashing
 An unforgettable skill
 //entry 208 -----------------------
 固定／無心五連
-無心五連
+Mana Arrows
 *
 無
 敵５
@@ -1881,7 +1881,7 @@ Target: Multiple Enemies|Damage: Void
 An unforgettable skill
 //entry 209 -----------------------
 固定／斬り
-斬り
+Slash
 *
 斬撃
 敵
@@ -1890,7 +1890,7 @@ Target: Single Enemy|Damage: Slashing
 An unforgettable skill
 //entry 210 -----------------------
 固定／剣
-剣
+Cut
 *
 斬撃
 敵
@@ -1899,7 +1899,7 @@ Target: Single Enemy|Damage: Slashing
 An unforgettable skill
 //entry 211 -----------------------
 固定／刀
-刀
+Slice
 *
 斬撃
 敵
@@ -1908,7 +1908,7 @@ Target: Single Enemy|Damage: Slashing
 An unforgettable skill
 //entry 212 -----------------------
 固定／紙斬り
-紙斬り
+Paper Cut
 *
 斬撃
 敵
@@ -1917,7 +1917,7 @@ Target: Single Enemy|Damage: Slashing
 An unforgettable skill
 //entry 213 -----------------------
 固定／手刀
-手刀
+Blade Hand
 *
 斬撃
 敵
@@ -1926,7 +1926,7 @@ Target: Single Enemy|Damage: Slashing
 An unforgettable skill
 //entry 214 -----------------------
 固定／噛み付き
-噛み付き
+Fish Bite
 *
 斬撃
 敵
@@ -1935,7 +1935,7 @@ Target: Single Enemy|Damage: Slashing
 An unforgettable skill
 //entry 215 -----------------------
 固定／爪
-爪
+Claw
 *
 斬撃
 敵
@@ -1944,7 +1944,7 @@ Target: Single Enemy|Damage: Slashing
 An unforgettable skill
 //entry 216 -----------------------
 固定／牙
-牙
+Fang
 *
 斬撃
 敵
@@ -1953,7 +1953,7 @@ Target: Single Enemy|Damage: Slashing
 An unforgettable skill
 //entry 217 -----------------------
 固定／鎌
-鎌
+Sickle
 *
 斬撃
 敵
@@ -1962,7 +1962,7 @@ Target: Single Enemy|Damage: Slashing
 An unforgettable skill
 //entry 218 -----------------------
 固定／くちばし
-くちばし
+Peck
 *
 斬撃
 敵
@@ -1971,7 +1971,7 @@ Target: Single Enemy|Damage: Slashing
 An unforgettable skill
 //entry 219 -----------------------
 固定／引っ掻き
-ひっかき
+Scratch
 *
 斬撃
 敵
@@ -1980,7 +1980,7 @@ Target: Single Enemy|Damage: Slashing
 An unforgettable skill
 //entry 220 -----------------------
 固定／突き刺し
-突き刺し
+Thrust
 *
 斬撃
 敵
@@ -1989,7 +1989,7 @@ Target: Single Enemy|Damage: Slashing
 An unforgettable skill
 //entry 221 -----------------------
 固定／槍
-槍
+Stab
 *
 斬撃
 敵
@@ -1998,7 +1998,7 @@ Target: Single Enemy|Damage: Slashing
 An unforgettable skill
 //entry 222 -----------------------
 固定／暗黒剣
-暗黒剣
+Dark Sword
 *
 斬撃
 敵
@@ -2007,7 +2007,7 @@ Target: Single Enemy|Damage: Slashing
 An unforgettable skill
 //entry 223 -----------------------
 固定／漆黒剣
-漆黒剣
+Deep Black Sword
 *
 斬撃
 敵
@@ -2016,7 +2016,7 @@ Target: Single Enemy|Damage: Slashing
 An unforgettable skill
 //entry 224 -----------------------
 固定／天界剣
-天界剣
+Heaven Sword
 *
 斬撃
 敵
@@ -2025,7 +2025,7 @@ Target: Single Enemy|Damage: Slashing
 An unforgettable skill
 //entry 225 -----------------------
 固定／天界槍
-天界槍
+Heaven Spear
 *
 斬撃
 敵
@@ -2034,7 +2034,7 @@ Target: Single Enemy|Damage: Slashing
 An unforgettable skill
 //entry 226 -----------------------
 固定／真っ二つ
-真っ二つ
+Divide
 *
 斬撃
 敵
@@ -2043,7 +2043,7 @@ Target: Single Enemy|Damage: Slashing
 An unforgettable skill
 //entry 227 -----------------------
 固定／ヘビの牙
-ヘビの牙
+Snake Fang
 *
 斬撃
 敵
@@ -2052,7 +2052,7 @@ Target: Single Enemy|Damage: Slashing
 An unforgettable skill
 //entry 228 -----------------------
 固定／骸骨流剣撃
-骸骨流剣撃
+Skeleton Slash
 *
 斬撃
 敵
@@ -2061,7 +2061,7 @@ Target: Single Enemy|Damage: Slashing
 An unforgettable skill
 //entry 229 -----------------------
 固定／剣の舞
-剣の舞
+Blade Dance
 *
 斬撃
 敵
@@ -2070,7 +2070,7 @@ Target: Single Enemy|Damage: Slashing
 An unforgettable skill
 //entry 230 -----------------------
 固定／刃の舞
-刃の舞
+Blade Rondo
 *
 斬撃
 敵
@@ -2079,7 +2079,7 @@ Target: Single Enemy|Damage: Slashing
 An unforgettable skill
 //entry 231 -----------------------
 固定／二刀流
-二刀流
+Double Slash
 *
 斬撃
 敵２
@@ -2088,7 +2088,7 @@ Target: Multiple Enemies|Damage: Slashing
 An unforgettable skill
 //entry 232 -----------------------
 固定／乱剣殺
-乱剣殺
+Frantic Slash
 *
 斬撃
 敵３
@@ -2097,7 +2097,7 @@ Target: Multiple Enemies|Damage: Slashing
 An unforgettable skill
 //entry 233 -----------------------
 固定／正拳突き
-正拳突き
+Straight Fist
 *
 打撃
 敵
@@ -2106,7 +2106,7 @@ Target: Single Enemy|Damage: Striking
 An unforgettable skill
 //entry 234 -----------------------
 固定／天界拳
-天界拳
+Heavenly Fist
 *
 打撃
 敵
@@ -2115,7 +2115,7 @@ Target: Single Enemy|Damage: Striking
 An unforgettable skill
 //entry 235 -----------------------
 固定／舌
-舌
+Lick
 *
 打撃
 敵
@@ -2124,7 +2124,7 @@ Target: Single Enemy|Damage: Striking
 An unforgettable skill
 //entry 236 -----------------------
 固定／殴る
-殴る
+Swat
 *
 打撃
 敵
@@ -2133,7 +2133,7 @@ Target: Single Enemy|Damage: Striking
 An unforgettable skill
 //entry 237 -----------------------
 固定／蹴り
-蹴り
+Kick
 *
 打撃
 敵
@@ -2142,7 +2142,7 @@ Target: Single Enemy|Damage: Striking
 An unforgettable skill
 //entry 238 -----------------------
 固定／尻尾
-尻尾
+Swipe
 *
 打撃
 敵
@@ -2151,7 +2151,7 @@ Target: Single Enemy|Damage: Striking
 An unforgettable skill
 //entry 239 -----------------------
 固定／体当たり
-体当たり
+Body Blow
 *
 打撃
 敵
@@ -2160,7 +2160,7 @@ Target: Single Enemy|Damage: Striking
 An unforgettable skill
 //entry 240 -----------------------
 固定／盾打
-盾打
+Shield Strike
 *
 打撃
 敵
@@ -2169,7 +2169,7 @@ Target: Single Enemy|Damage: Striking
 An unforgettable skill
 //entry 241 -----------------------
 固定／斧
-斧
+Chop
 *
 打撃
 敵
@@ -2178,7 +2178,7 @@ Target: Single Enemy|Damage: Striking
 An unforgettable skill
 //entry 242 -----------------------
 固定／打撃人形
-打撃人形
+Puppet Strike
 *
 打撃
 敵
@@ -2187,7 +2187,7 @@ Target: Single Enemy|Damage: Striking
 An unforgettable skill
 //entry 243 -----------------------
 固定／棍棒
-棍棒
+Club
 *
 打撃
 敵
@@ -2196,7 +2196,7 @@ Target: Single Enemy|Damage: Striking
 An unforgettable skill
 //entry 244 -----------------------
 固定／金棒
-金棒
+Iron Swing
 *
 打撃
 敵
@@ -2205,7 +2205,7 @@ Target: Single Enemy|Damage: Striking
 An unforgettable skill
 //entry 245 -----------------------
 固定／ツタ
-ツタ
+Vine
 *
 打撃
 敵
@@ -2214,7 +2214,7 @@ Target: Single Enemy|Damage: Striking
 An unforgettable skill
 //entry 246 -----------------------
 固定／ツルのムチ
-ツルのムチ
+Vine Whip
 *
 打撃
 敵
@@ -2223,7 +2223,7 @@ Target: Single Enemy|Damage: Striking
 An unforgettable skill
 //entry 247 -----------------------
 固定／天界杖
-天界杖
+Heavenly Staff
 *
 打撃
 敵
@@ -2232,7 +2232,7 @@ Target: Single Enemy|Damage: Striking
 An unforgettable skill
 //entry 248 -----------------------
 固定／ハンマー
-ハンマー
+Hammer
 *
 打撃
 敵
@@ -2241,7 +2241,7 @@ Target: Single Enemy|Damage: Striking
 An unforgettable skill
 //entry 249 -----------------------
 固定／殺しの斧
-殺しの斧
+Killing Chop
 *
 打撃
 敵
@@ -2250,7 +2250,7 @@ Target: Single Enemy|Damage: Striking|30% Death
 An unforgettable skill
 //entry 250 -----------------------
 固定／乱れ斧
-乱れ斧
+Brutal Chop
 *
 打撃
 敵３
@@ -2259,7 +2259,7 @@ Target: Multiple Enemies|Damage: Striking
 An unforgettable skill
 //entry 251 -----------------------
 固定／払い斧
-払い斧
+Sweeping Chop
 *
 打撃
 敵行
@@ -2268,7 +2268,7 @@ Target: Enemy Row|Damage: Striking
 An unforgettable skill
 //entry 252 -----------------------
 固定／振り回しハンマー
-振り回しハンマー
+Hammer Swing
 *
 打撃
 敵行
@@ -2277,7 +2277,7 @@ Target: Enemy Row|Damage: Striking
 An unforgettable skill
 //entry 253 -----------------------
 固定／ホウキ払い
-ホウキ払い
+Broom Sweep
 *
 打撃
 敵行
@@ -2286,7 +2286,7 @@ Target: Enemy Row|Damage: Striking
 An unforgettable skill
 //entry 254 -----------------------
 固定／乱打人形
-乱打人形
+Puppet Rush
 *
 打撃
 敵列
@@ -2295,7 +2295,7 @@ Target: Enemy Column|Damage: Striking
 An unforgettable skill
 //entry 255 -----------------------
 固定／ベトアタック
-ベトアタック
+Goo Attack
 *
 射撃
 敵
@@ -2304,7 +2304,7 @@ Target: Single Enemy|Damage: Ranged
 An unforgettable skill
 //entry 256 -----------------------
 固定／ベトシュート
-ベトシュート
+Goo Shoot
 *
 射撃
 敵
@@ -2313,7 +2313,7 @@ Target: Single Enemy|Damage: Ranged
 An unforgettable skill
 //entry 257 -----------------------
 固定／ベトインパクト
-ベトインパクト
+Goo Impact
 *
 射撃
 敵
@@ -2322,7 +2322,7 @@ Target: Single Enemy|Damage: Ranged
 An unforgettable skill
 //entry 258 -----------------------
 固定／ベトハンマー
-ベトハンマー
+Goo Hammer
 *
 射撃
 敵
@@ -2331,7 +2331,7 @@ Target: Single Enemy|Damage: Ranged
 An unforgettable skill
 //entry 259 -----------------------
 固定／ベトレーザー
-ベトレーザー
+Goo Laser
 *
 射撃
 敵
@@ -2340,7 +2340,7 @@ Target: Single Enemy|Damage: Ranged
 An unforgettable skill
 //entry 260 -----------------------
 固定／天界弓
-天界弓
+Heaven Bow
 *
 射撃
 敵
@@ -2349,7 +2349,7 @@ Target: Single Enemy|Damage: Ranged
 An unforgettable skill
 //entry 261 -----------------------
 固定／クナイ
-クナイ
+Kunai
 *
 射撃
 敵
@@ -2358,7 +2358,7 @@ Target: Single Enemy|Damage: Ranged
 An unforgettable skill
 //entry 262 -----------------------
 固定／粘液
-粘液
+Mucus
 *
 射撃
 敵
@@ -2367,7 +2367,7 @@ Target: Single Enemy|Damage: Ranged
 An unforgettable skill
 //entry 263 -----------------------
 固定／種
-種
+Seed
 *
 射撃
 敵
@@ -2376,7 +2376,7 @@ Target: Single Enemy|Damage: Ranged
 An unforgettable skill
 //entry 264 -----------------------
 固定／石
-石
+Stone
 *
 射撃
 敵
@@ -2385,7 +2385,7 @@ Target: Single Enemy|Damage: Ranged
 An unforgettable skill
 //entry 265 -----------------------
 固定／弓
-弓
+Bow
 *
 射撃
 敵
@@ -2394,7 +2394,7 @@ Target: Single Enemy|Damage: Ranged
 An unforgettable skill
 //entry 266 -----------------------
 固定／レーザー
-レーザー
+Laser
 *
 射撃
 敵
@@ -2403,7 +2403,7 @@ Target: Single Enemy|Damage: Ranged
 An unforgettable skill
 //entry 267 -----------------------
 固定／小さな火
-小さな火
+Scorch
 *
 火
 敵
@@ -2412,7 +2412,7 @@ Target: Single Enemy|Damage: Fire
 An unforgettable skill
 //entry 268 -----------------------
 固定／火打
-火打
+Ember
 *
 火
 敵
@@ -2421,7 +2421,7 @@ Target: Single Enemy|Damage: Fire
 An unforgettable skill
 //entry 269 -----------------------
 固定／炭火
-炭火
+Charcoal
 *
 火
 敵
@@ -2430,7 +2430,7 @@ Target: Single Enemy|Damage: Fire
 An unforgettable skill
 //entry 270 -----------------------
 固定／魔力の火
-魔力の火
+Mana Fire
 *
 火
 敵
@@ -2439,7 +2439,7 @@ Target: Single Enemy|Damage: Fire
 An unforgettable skill
 //entry 271 -----------------------
 固定／火のブレス
-火のブレス
+Fire Breath
 *
 火
 敵
@@ -2448,7 +2448,7 @@ Target: Single Enemy|Damage: Fire
 An unforgettable skill
 //entry 272 -----------------------
 固定／大きな火
-大きな火
+Blaze
 *
 火
 敵全
@@ -2457,7 +2457,7 @@ Target: All Enemies|Damage: Fire
 An unforgettable skill
 //entry 273 -----------------------
 固定／小さな水
-小さな水
+Droplet
 *
 水
 敵
@@ -2466,7 +2466,7 @@ Target: Single Enemy|Damage: Ice
 An unforgettable skill
 //entry 274 -----------------------
 固定／ウォーターショット
-ウォーターショット
+Water Shot
 *
 水
 敵
@@ -2475,7 +2475,7 @@ Target: Single Enemy|Damage: Ice
 An unforgettable skill
 //entry 275 -----------------------
 固定／ツララ
-ツララ
+Icicle
 *
 水
 敵
@@ -2484,7 +2484,7 @@ Target: Single Enemy|Damage: Ice
 An unforgettable skill
 //entry 276 -----------------------
 固定／小さな岩
-小さな岩
+Pebble
 *
 土
 敵
@@ -2493,7 +2493,7 @@ Target: Single Enemy|Damage: Earth
 An unforgettable skill
 //entry 277 -----------------------
 固定／小さな風
-小さな風
+Gust
 *
 風
 敵
@@ -2502,7 +2502,7 @@ Target: Single Enemy|Damage: Wind
 An unforgettable skill
 //entry 278 -----------------------
 固定／小さな雷
-小さな雷
+Zap
 *
 雷
 敵
@@ -2511,7 +2511,7 @@ Target: Single Enemy|Damage: Lightning
 An unforgettable skill
 //entry 279 -----------------------
 固定／小さな闇
-小さな闇
+Shadow
 *
 闇
 敵
@@ -2520,7 +2520,7 @@ Target: Single Enemy|Damage: Dark
 An unforgettable skill
 //entry 280 -----------------------
 固定／闇
-闇
+Darkness
 *
 闇
 敵
@@ -2529,7 +2529,7 @@ Target: Single Enemy|Damage: Dark
 An unforgettable skill
 //entry 281 -----------------------
 固定／迫る闇
-迫る闇
+Encroaching Darkness
 *
 闇
 敵４
@@ -2538,7 +2538,7 @@ Target: Multiple Enemies|Damage: Dark
 An unforgettable skill
 //entry 282 -----------------------
 固定／歪む闇
-歪む闇
+Twisted Darkness
 *
 闇
 敵全
@@ -2547,7 +2547,7 @@ Target: All Enemies|Damage: Dark
 An unforgettable skill
 //entry 283 -----------------------
 固定／無限の闇
-無限の闇
+Infinite Darkness
 *
 闇
 敵全
@@ -2556,7 +2556,7 @@ Target: All Enemies|Damage: Dark
 An unforgettable skill
 //entry 284 -----------------------
 固定／小さな光
-小さな光
+Blink
 *
 光
 敵
@@ -2565,7 +2565,7 @@ Target: Single Enemy|Damage: Light
 An unforgettable skill
 //entry 285 -----------------------
 固定／大きな光
-大きな光
+Flash
 *
 光
 敵全
@@ -2574,7 +2574,7 @@ Target: All Enemies|Damage: Light
 An unforgettable skill
 //entry 286 -----------------------
 固定／魔力の玉
-魔力の玉
+Mana Sphere
 *
 無
 敵
@@ -2583,7 +2583,7 @@ Target: Single Enemy|Damage: Void
 An unforgettable skill
 //entry 287 -----------------------
 固定／魔力塊
-魔力塊
+Mana Clump
 *
 無
 敵
@@ -2592,7 +2592,7 @@ Target: Single Enemy|Damage: Void
 An unforgettable skill
 //entry 288 -----------------------
 固定／魔力の文字
-魔法の文字
+Mana Words
 *
 無
 敵
@@ -2601,7 +2601,7 @@ Target: Single Enemy|Damage: Void
 An unforgettable skill
 //entry 289 -----------------------
 固定／混乱の歌
-混乱の歌
+Song of Confusion
 *
 異常
 敵３
@@ -2610,7 +2610,7 @@ Target: Multiple Enemies|Damage: Void|60% Confuse
 An unforgettable skill
 //entry 290 -----------------------
 固定／チャミの正気針
-チャミの正気針
+Fairy Needle
 *
 異常回復
 味単
@@ -2619,7 +2619,7 @@ Target: Single Ally|Recover Ailments|(Targets All Allies Outside Battle)
 An unforgettable skill
 //entry 291 -----------------------
 固定／復元
-復元
+Restoration
 *
 異常回復
 味全
@@ -2628,7 +2628,7 @@ Target: All Allies|Recover Ailments
 An unforgettable skill
 //entry 292 -----------------------
 固定／フワの癒し
-フワの癒し
+Fluffy Heal
 *
 回復
 味単
@@ -2637,7 +2637,7 @@ Target: Single Ally|Recover HP
 An unforgettable skill
 //entry 293 -----------------------
 固定／癒しの心
-癒しの心
+Healing Heart
 *
 回復
 味単
@@ -2646,7 +2646,7 @@ Target: Single Ally|Recover HP
 An unforgettable skill
 //entry 294 -----------------------
 固定／癒しの歌
-癒しの歌
+Healing Song
 *
 回復
 味単
@@ -2655,7 +2655,7 @@ Target: Single Ally|Recover HP
 An unforgettable skill
 //entry 295 -----------------------
 固定／癒しの言葉
-癒しの言葉
+Healing Words
 *
 回復
 味全
@@ -2664,7 +2664,7 @@ Target: All Allies|Recover HP
 An unforgettable skill
 //entry 296 -----------------------
 物品／炎球
-炎球
+Fire Ball
 *
 火
 敵
@@ -2673,7 +2673,7 @@ Target: Single Enemy|Damage: Fire
 A spell sealed in an item
 //entry 297 -----------------------
 物品／水球
-水球
+Ice Ball
 *
 水
 敵
@@ -2682,7 +2682,7 @@ Target: Single Enemy|Damage: Ice
 A spell sealed in an item
 //entry 298 -----------------------
 物品／岩球
-岩球
+Earth Ball
 *
 土
 敵
@@ -2691,7 +2691,7 @@ Target: Single Enemy|Damage: Earth
 A spell sealed in an item
 //entry 299 -----------------------
 物品／風球
-風球
+Wind Ball
 *
 風
 敵
@@ -2700,7 +2700,7 @@ Target: Single Enemy|Damage: Wind
 A spell sealed in an item
 //entry 300 -----------------------
 物品／雷球
-雷球
+Lightning Ball
 *
 雷
 敵
@@ -2709,7 +2709,7 @@ Target: Single Enemy|Damage: Lightning
 A spell sealed in an item
 //entry 301 -----------------------
 物品／闇球
-闇球
+Dark Ball
 *
 闇
 敵
@@ -2718,7 +2718,7 @@ Target: Single Enemy|Damage: Dark
 A spell sealed in an item
 //entry 302 -----------------------
 物品／光球
-光球
+Light Ball
 *
 光
 敵
@@ -2727,7 +2727,7 @@ Target: Single Enemy|Damage: Light
 A spell sealed in an item
 //entry 303 -----------------------
 物品／魔球
-魔球
+Mana Ball
 *
 無
 敵
@@ -2736,7 +2736,7 @@ Target: Single Enemy|Damage: Void
 A spell sealed in an item
 //entry 304 -----------------------
 物品／大炎球
-大炎球
+Blazing Ball
 *
 火
 敵
@@ -2745,7 +2745,7 @@ Target: Single Enemy|Damage: Fire
 A spell sealed in an item
 //entry 305 -----------------------
 物品／大水球
-大水球
+Blizzard Ball
 *
 水
 敵
@@ -2754,7 +2754,7 @@ Target: Single Enemy|Damage: Ice
 A spell sealed in an item
 //entry 306 -----------------------
 物品／大岩球
-大岩球
+Boulder Ball
 *
 土
 敵
@@ -2763,7 +2763,7 @@ Target: Single Enemy|Damage: Earth
 A spell sealed in an item
 //entry 307 -----------------------
 物品／大風球
-大風球
+Typhoon Ball
 *
 風
 敵
@@ -2772,7 +2772,7 @@ Target: Single Enemy|Damage: Wind
 A spell sealed in an item
 //entry 308 -----------------------
 物品／大雷球
-大雷球
+Lightning Ball
 *
 雷
 敵
@@ -2781,7 +2781,7 @@ Target: Single Enemy|Damage: Lightning
 A spell sealed in an item
 //entry 309 -----------------------
 物品／大闇球
-大闇球
+Void Ball
 *
 闇
 敵
@@ -2790,7 +2790,7 @@ Target: Single Enemy|Damage: Dark
 A spell sealed in an item
 //entry 310 -----------------------
 物品／大光球
-大光球
+Blinding Ball
 *
 光
 敵
@@ -2799,7 +2799,7 @@ Target: Single Enemy|Damage: Light
 A spell sealed in an item
 //entry 311 -----------------------
 物品／大魔球
-大魔球
+Soul Ball
 *
 無
 敵
@@ -2808,7 +2808,7 @@ Target: Single Enemy|Damage: Void
 A spell sealed in an item
 //entry 312 -----------------------
 物品／巨炎球
-巨炎球
+Flame Burst
 *
 火
 敵全
@@ -2817,7 +2817,7 @@ Target: All Enemies|Damage: Fire
 A spell sealed in an item
 //entry 313 -----------------------
 物品／巨水球
-巨水球
+Ice Burst
 *
 水
 敵全
@@ -2826,7 +2826,7 @@ Target: All Enemies|Damage: Ice
 A spell sealed in an item
 //entry 314 -----------------------
 物品／巨岩球
-巨岩球
+Earth Burst
 *
 土
 敵全
@@ -2835,7 +2835,7 @@ Target: All Enemies|Damage: Earth
 A spell sealed in an item
 //entry 315 -----------------------
 物品／巨風球
-巨風球
+Wind Burst
 *
 風
 敵全
@@ -2844,7 +2844,7 @@ Target: All Enemies|Damage: Wind
 A spell sealed in an item
 //entry 316 -----------------------
 物品／巨雷球
-巨雷球
+Static Burst
 *
 雷
 敵全
@@ -2853,7 +2853,7 @@ Target: All Enemies|Damage: Lightning
 A spell sealed in an item
 //entry 317 -----------------------
 物品／巨闇球
-巨闇球
+Dark Burst
 *
 闇
 敵全
@@ -2862,7 +2862,7 @@ Target: All Enemies|Damage: Dark
 A spell sealed in an item
 //entry 318 -----------------------
 物品／巨光球
-巨光球
+Light Burst
 *
 光
 敵全
@@ -2871,7 +2871,7 @@ Target: All Enemies|Damage: Light
 A spell sealed in an item
 //entry 319 -----------------------
 物品／巨魔球
-巨魔球
+Mana Burst
 *
 無
 敵全
@@ -2880,7 +2880,7 @@ Target: All Enemies|Damage: Void
 A spell sealed in an item
 //entry 320 -----------------------
 物品／超炎球
-超炎球
+Blazing Eruption
 *
 火
 敵全
@@ -2889,7 +2889,7 @@ Target: All Enemies|Damage: Fire
 A spell sealed in an item
 //entry 321 -----------------------
 物品／超水球
-超水球
+Blizzard Eruption
 *
 水
 敵全
@@ -2898,7 +2898,7 @@ Target: All Enemies|Damage: Ice
 A spell sealed in an item
 //entry 322 -----------------------
 物品／超岩球
-超岩球
+Boulder Eruption
 *
 土
 敵全
@@ -2907,7 +2907,7 @@ Target: All Enemies|Damage: Earth
 A spell sealed in an item
 //entry 323 -----------------------
 物品／超風球
-超風球
+Typhoon Eruption
 *
 風
 敵全
@@ -2916,7 +2916,7 @@ Target: All Enemies|Damage: Wind
 A spell sealed in an item
 //entry 324 -----------------------
 物品／超雷球
-超雷球
+Lightning Eruption
 *
 雷
 敵全
@@ -2925,7 +2925,7 @@ Target: All Enemies|Damage: Lightning
 A spell sealed in an item
 //entry 325 -----------------------
 物品／超闇球
-超闇球
+Void Eruption
 *
 闇
 敵全
@@ -2934,7 +2934,7 @@ Target: All Enemies|Damage: Dark
 A spell sealed in an item
 //entry 326 -----------------------
 物品／超光球
-超光球
+Blinding Eruption
 *
 光
 敵全
@@ -2943,7 +2943,7 @@ Target: All Enemies|Damage: Light
 A spell sealed in an item
 //entry 327 -----------------------
 物品／超魔球
-超魔球
+Soul Eruption
 *
 無
 敵全
