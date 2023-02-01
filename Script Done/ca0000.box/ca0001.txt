@@ -1,4 +1,4 @@
-﻿\xF3 "空き地"  0  0  0 \x02\x02\x8A 0 \xF3 "魔王亭"  0  0  0 \x02\x02\x8B 0 \xF3 "警備砦"  0  0  0 \x02\x02\x8C 0 \xF3 "治療所"  0  0  0 \x02\x02\x8D 0 \xF3 "住居"  0  0  0 \x02\x02\x8E 0 \xF3 "高級住居"  0  0  0 \x02\x02\x8F 0 \xF3 "豪邸住居"  0  0  0 \x02\x02\x90 0 \xF3 "巨人住居"  0  0  0 \x02\x02\x91 0 \xF3 "非人型住居"  0  0  0 \x02\x02\x92 0 \xF3 "畑"  0  0  0 \x02\x02\x93 0 \xF3 "牧場"  0  0  0 \x02\x02\x94 0 \xF3 "果樹園"  0  0  0 \x02\x02\x95 0 \xF3 "採掘場"  0  0  0 \x02\x02\x96 0 \xF3 "集積場"  0  0  0 \x02\x02\x97 0 \xF3 "工場"  0  0  0 \x02\x02\x98 0 \xF3 "研究塔"  0  0  0 \x02\x02\x99 0 \xF3 "商店"  0  0  0 \x02\x02\x9A 0 \xF3 "娯楽店"  0  0  0 \x02\x02\x9B 0 \xF3 "Ｈな娯楽店"  0  0  0 \x02\x02\x9C 0 \xF3 "スタジアム"  0  0  0 \x02\x02\x9D 0 \xF3 "プール"  0  0  0 \x02\x02\x9E 0 \xF3 "酒造店"  0  0  0 \x02\x02\x9F 0 \xF3 "大衆浴場"  0  0  0 \x02\x02\xA0 0 \xF3 "温泉"  0  0  0 \x02\x02\xA1 0 \xF3 "公園"  0  0  0 \x02\x02\xA2 0 \xF3 "森"  0  0  0 \x02\x02\xA3 0 \xF3 "池"  0  0  0 \x02\x02\xA4 0 \xF3 "学園"  0  0  0 \x02\x02\xA5 0 \xF3 "学園寮"  0  0  0 \x02\x02\xA6 0 \x1A\x01\x0A\x46\x00\x31\x00\x33\x00\x31\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :3FE: \x1A\x01\x09\x46\x00\x31\x00\x33\x00\x31\x00\x33\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :3FE: \x1A\x01\x0A\x43\x00\x36\x00\x35\x00\x32\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x09\x00 :3FE: \x0A\x04
+﻿\xF3 "Cleared Land"  0  0  0 \x02\x02\x8A 0 \xF3 "Overlord's Retreat"  0  0  0 \x02\x02\x8B 0 \xF3 "Garrison"  0  0  0 \x02\x02\x8C 0 \xF3 "Clinic"  0  0  0 \x02\x02\x8D 0 \xF3 "Housing"  0  0  0 \x02\x02\x8E 0 \xF3 "Luxury Housing"  0  0  0 \x02\x02\x8F 0 \xF3 "Manor"  0  0  0 \x02\x02\x90 0 \xF3 "Giant Housing"  0  0  0 \x02\x02\x91 0 \xF3 "Unusual Housing"  0  0  0 \x02\x02\x92 0 \xF3 "Field"  0  0  0 \x02\x02\x93 0 \xF3 "Ranch"  0  0  0 \x02\x02\x94 0 \xF3 "Orchard"  0  0  0 \x02\x02\x95 0 \xF3 "Mine"  0  0  0 \x02\x02\x96 0 \xF3 "Storehouse"  0  0  0 \x02\x02\x97 0 \xF3 "Workshop"  0  0  0 \x02\x02\x98 0 \xF3 "Research Tower"  0  0  0 \x02\x02\x99 0 \xF3 "Store"  0  0  0 \x02\x02\x9A 0 \xF3 "Entertainment Center"  0  0  0 \x02\x02\x9B 0 \xF3 "Red Light District"  0  0  0 \x02\x02\x9C 0 \xF3 "Stadium"  0  0  0 \x02\x02\x9D 0 \xF3 "Pool"  0  0  0 \x02\x02\x9E 0 \xF3 "Brewery"  0  0  0 \x02\x02\x9F 0 \xF3 "Bathhouse"  0  0  0 \x02\x02\xA0 0 \xF3 "Hot Spring"  0  0  0 \x02\x02\xA1 0 \xF3 "Park"  0  0  0 \x02\x02\xA2 0 \xF3 "Forest"  0  0  0 \x02\x02\xA3 0 \xF3 "Pond"  0  0  0 \x02\x02\xA4 0 \xF3 "School"  0  0  0 \x02\x02\xA5 0 \xF3 "Dormitory"  0  0  0 \x02\x02\xA6 0 \x1A\x01\x0A\x46\x00\x31\x00\x33\x00\x31\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :3FE: \x1A\x01\x09\x46\x00\x31\x00\x33\x00\x31\x00\x33\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :3FE: \x1A\x01\x0A\x43\x00\x36\x00\x35\x00\x32\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x09\x00 :3FE: \x0A\x04
 #
 \x22\x84\x01\x16 :5035: \x15 :38D8: 
 :3FE
@@ -246,7 +246,7 @@
 #
 \x99\x84\x01\x16 :18B57: \x15 :38D8: 
 :1790
-\xF3 "プール"  0  0  0 \x22\x00\x00 0 \x1A\x01\x0A\x46\x00\x31\x00\x34\x00\x33\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :17FA: \x1A\x01\x0A\x43\x00\x36\x00\x37\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x09\x00 :17FA: \x0A\x04
+\xF3 "Pool"  0  0  0 \x22\x00\x00 0 \x1A\x01\x0A\x46\x00\x31\x00\x34\x00\x33\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :17FA: \x1A\x01\x0A\x43\x00\x36\x00\x37\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x09\x00 :17FA: \x0A\x04
 #
 \x9A\x84\x01\x16 :18FAD: \x15 :38D8: 
 :17FA
@@ -262,7 +262,7 @@
 #
 \x9D\x84\x01\x16 :1964B: \x15 :38D8: 
 :18D8
-\xF3 "酒造店"  0  0  0 \x22\x00\x00 0 \x1A\x01\x0A\x46\x00\x31\x00\x34\x00\x33\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1942: \x1A\x01\x0A\x43\x00\x36\x00\x37\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x09\x00 :1942: \x0A\x04
+\xF3 "Brewery"  0  0  0 \x22\x00\x00 0 \x1A\x01\x0A\x46\x00\x31\x00\x34\x00\x33\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :1942: \x1A\x01\x0A\x43\x00\x36\x00\x37\x00\x31\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x09\x00 :1942: \x0A\x04
 #
 \x9E\x84\x01\x16 :19A1B: \x15 :38D8: 
 :1942
@@ -418,7 +418,7 @@
 #
 \xBB\x84\x01\x16 :1F249: \x15 :38D8: 
 :244C
-\xF3 "空き地"  0  0  0 \x22\x00\x00 0 \x1A\x01\x0A\x46\x00\x31\x00\x34\x00\x36\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :24B6: \x1A\x01\x0A\x43\x00\x36\x00\x35\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x09\x00 :24B6: \x0A\x04
+\xF3 "Cleared Land"  0  0  0 \x22\x00\x00 0 \x1A\x01\x0A\x46\x00\x31\x00\x34\x00\x36\x00\x38\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :24B6: \x1A\x01\x0A\x43\x00\x36\x00\x35\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x09\x00 :24B6: \x0A\x04
 #
 \xBC\x84\x01\x16 :1F397: \x15 :38D8: 
 :24B6
@@ -655,11 +655,11 @@
 #
 \x18\x84\x01\x16 :3FF6: \x15 :38D8: 
 :359E
-\x1A\x01\x0A\x46\x00\x31\x00\x34\x00\x37\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :362A: \x1A\x01\x0D\x43\x00\x32\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x30\x00\x30\x00\x09\x00 :362A: \xF3 "娯楽店" \x22\x00\x00 0  0  0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :362A: \x0A\x04
+\x1A\x01\x0A\x46\x00\x31\x00\x34\x00\x37\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :362A: \x1A\x01\x0D\x43\x00\x32\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x30\x00\x30\x00\x09\x00 :362A: \xF3 "Entertainment Center" \x22\x00\x00 0  0  0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :362A: \x0A\x04
 #
 \xBF\x84\x01\x16 :1FA09: \x15 :38D8: 
 :362A
-\x1A\x01\x0A\x46\x00\x31\x00\x34\x00\x37\x00\x32\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :3694: \xF3 "果樹園" \x22\x00\x00 0  0  0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :3694: \x0A\x04
+\x1A\x01\x0A\x46\x00\x31\x00\x34\x00\x37\x00\x32\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :3694: \xF3 "Orchard" \x22\x00\x00 0  0  0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :3694: \x0A\x04
 #
 \xC0\x84\x01\x16 :1FD0D: \x15 :38D8: 
 :3694
@@ -693,7 +693,7 @@
 :38B6
 \x6E 5  "ca0000.box" \x15 :38D8: 
 :38D8
-\x78\xF3 "警備砦"  0  0  0 \x22\x00\x00 0 \x1A\x01\x0A\x46\x00\x31\x00\x33\x00\x30\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :3943: \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x32\x00 :3943: \x0A\x04
+\x78\xF3 "Garrison"  0  0  0 \x22\x00\x00 0 \x1A\x01\x0A\x46\x00\x31\x00\x33\x00\x30\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :3943: \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x32\x00 :3943: \x0A\x04
 #
 \x1B\x84\x01\x16 :45A3: \x15 :38D8: 
 :3943
@@ -717,7 +717,7 @@
 #
 \x20\x84\x01\x16 :4C72: \x15 :38D8: 
 :3AB5
-\x2B\xF5 "魔王亭"  1 
+\x2B\xF5 "Overlord's Retreat"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Hungry Citizen" "!ZD0056">
@@ -739,7 +739,7 @@
 #
 <exit>
 :3C23
-\x2B\xF5 "魔王亭"  1 
+\x2B\xF5 "Overlord's Retreat"  1 
 <music 4>
 <background "bg009a0.agf" 10>
 <name "New Citizen" "!UA0071">
@@ -773,7 +773,7 @@
 <removesprite -1 11>
 <exit>
 :3EA7
-\x2B\xF5 "魔王亭"  1 
+\x2B\xF5 "Overlord's Retreat"  1 
 <music 11>
 <background "bg008a0.agf" 10>
 <name "Sky Gazing Citizen" "!ZD0059">
@@ -793,7 +793,7 @@
 #
 <exit>
 :3FF6
-\x2B\xF5 "魔王亭"  1 
+\x2B\xF5 "Overlord's Retreat"  1 
 <music 4>
 <background "bg009a0.agf" 10>
 <name "Merchant Citizen" "!SB0199">
@@ -805,7 +805,7 @@
 #
 <exit>
 :40D3
-\x2B\xF5 "警備砦"  1 
+\x2B\xF5 "Garrison"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Serious Guard" "!KB0143">
@@ -836,7 +836,7 @@
 #
 <exit>
 :433F
-\x2B\xF5 "警備砦"  1 
+\x2B\xF5 "Garrison"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Passing Citizen" "!GB0132">
@@ -871,7 +871,7 @@
 #
 <exit>
 :45A3
-\x2B\xF5 "警備砦"  1 
+\x2B\xF5 "Garrison"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Serious Guard" "!KB0147">
@@ -888,7 +888,7 @@
 #
 <exit>
 :46BC
-\x2B\xF5 "警備砦"  1 
+\x2B\xF5 "Garrison"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Serious Guard" "!KB0149">
@@ -905,7 +905,7 @@
 #
 <exit>
 :47CB
-\x2B\xF5 "警備砦"  1 
+\x2B\xF5 "Garrison"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Easygoing Guard" "!CB0076">
@@ -935,7 +935,7 @@
 #
 <exit>
 :49A8
-\x2B\xF5 "警備砦"  1 
+\x2B\xF5 "Garrison"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Serious Guard" "!KB0151">
@@ -953,7 +953,7 @@
 #
 <exit>
 :4ADB
-\x2B\xF5 "警備砦"  1 
+\x2B\xF5 "Garrison"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Easygoing Guard" "!CB0085">
@@ -974,7 +974,7 @@
 #
 <exit>
 :4C72
-\x2B\xF5 "警備砦"  1 
+\x2B\xF5 "Garrison"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Easygoing Guard" "!CB0087">
@@ -997,7 +997,7 @@
 #
 <exit>
 :4E25
-\x2B\xF5 "警備砦"  1 
+\x2B\xF5 "Garrison"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Serious Guard" "!KB0157">
@@ -1023,7 +1023,7 @@
 #
 <exit>
 :5035
-\x2B\xF5 "警備砦"  1 
+\x2B\xF5 "Garrison"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Serious Guard" "!KB0160">
@@ -1050,7 +1050,7 @@
 #
 <exit>
 :524D
-\x2B\xF5 "警備砦"  1 
+\x2B\xF5 "Garrison"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Serious Guard" "!KB0163">
@@ -1090,7 +1090,7 @@
 #
 <exit>
 :559A
-\x2B\xF5 "警備砦"  1 
+\x2B\xF5 "Garrison"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Serious Guard" "!KB0168">
@@ -1121,7 +1121,7 @@
 #
 <exit>
 :5814
-\x2B\xF5 "警備砦"  1 
+\x2B\xF5 "Garrison"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Serious Guard" "!KB0171">
@@ -1172,7 +1172,7 @@
 #
 <exit>
 :5C55
-\x2B\xF5 "警備砦"  1 
+\x2B\xF5 "Garrison"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Serious Guard" "!KB0178">
@@ -1204,7 +1204,7 @@
 #
 <exit>
 :5F06
-\x2B\xF5 "治療所"  1 
+\x2B\xF5 "Clinic"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Regular Citizen" "!ZF0061">
@@ -1244,7 +1244,7 @@
 #
 <exit>
 :6236
-\x2B\xF5 "治療所"  1 
+\x2B\xF5 "Clinic"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Thinking Citizen" "!UA0077">
@@ -1266,7 +1266,7 @@
 #
 <exit>
 :63C4
-\x2B\xF5 "治療所"  1 
+\x2B\xF5 "Clinic"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Thinking Citizen" "!HC0111">
@@ -1294,7 +1294,7 @@
 #
 <exit>
 :65E1
-\x2B\xF5 "治療所"  1 
+\x2B\xF5 "Clinic"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Injured Citizen" "!KB0182">
@@ -1321,7 +1321,7 @@
 #
 <exit>
 :67B5
-\x2B\xF5 "治療所"  1 
+\x2B\xF5 "Clinic"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Cute Citizen" "!LB0141">
@@ -1358,7 +1358,7 @@
 #
 <exit>
 :6A60
-\x2B\xF5 "治療所"  1 
+\x2B\xF5 "Clinic"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Nurse" "!SB0205">
@@ -1447,7 +1447,7 @@
 #
 <exit>
 :7150
-\x2B\xF5 "住居"  1 
+\x2B\xF5 "Housing"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "New Citizen" "!ZD0074">
@@ -1459,7 +1459,7 @@
 #
 <exit>
 :722A
-\x2B\xF5 "住居"  1 
+\x2B\xF5 "Housing"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "New Citizen" "!UA0080">
@@ -1478,7 +1478,7 @@
 #
 <exit>
 :7352
-\x2B\xF5 "住居"  1 
+\x2B\xF5 "Housing"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "New Citizen" "!JA0053">
@@ -1522,7 +1522,7 @@
 <removesprite -1 11>
 <exit>
 :76F0
-\x2B\xF5 "住居"  1 
+\x2B\xF5 "Housing"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "New Citizen" "!KB0183">
@@ -1563,7 +1563,7 @@
 #
 <exit>
 :7A1E
-\x2B\xF5 "住居"  1 
+\x2B\xF5 "Housing"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "New Citizen" "!BC0083">
@@ -1588,7 +1588,7 @@
 <removesprite -1 11>
 <exit>
 :7BFC
-\x2B\xF5 "住居"  1 
+\x2B\xF5 "Housing"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "New Citizen" "!ZF0066">
@@ -1600,7 +1600,7 @@
 #
 <exit>
 :7CAF
-\x2B\xF5 "住居"  1 
+\x2B\xF5 "Housing"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Knowledgable Citizen" "!MB0053">
@@ -1635,7 +1635,7 @@
 #
 <exit>
 :7F38
-\x2B\xF5 "住居"  1 
+\x2B\xF5 "Housing"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Adapting Citizen" "!KB0187">
@@ -1654,7 +1654,7 @@
 #
 <exit>
 :809A
-\x2B\xF5 "住居"  1 
+\x2B\xF5 "Housing"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Accustomed Citizen" "!BC0086">
@@ -1682,7 +1682,7 @@
 <removesprite -1 11>
 <exit>
 :8286
-\x2B\xF5 "高級住居"  1 
+\x2B\xF5 "Luxury Housing"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Luxurious Wife" "!RB0153">
@@ -1700,7 +1700,7 @@
 #
 <exit>
 :83F7
-\x2B\xF5 "高級住居"  1 
+\x2B\xF5 "Luxury Housing"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Hard Working Citizen" "!ZD0075">
@@ -1715,7 +1715,7 @@
 #
 <exit>
 :8506
-\x2B\xF5 "高級住居"  1 
+\x2B\xF5 "Luxury Housing"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Hard Working Citizen" "!ZF0070">
@@ -1742,7 +1742,7 @@
 #
 <exit>
 :871A
-\x2B\xF5 "高級住居"  1 
+\x2B\xF5 "Luxury Housing"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Hard Working Citizen" "!ZH0056">
@@ -1765,7 +1765,7 @@
 <removesprite -1 11>
 <exit>
 :88E1
-\x2B\xF5 "高級住居"  1 
+\x2B\xF5 "Luxury Housing"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Anxious Citizen" "!MB0058">
@@ -1795,7 +1795,7 @@
 <removesprite -1 11>
 <exit>
 :8B39
-\x2B\xF5 "豪邸住居"  1 
+\x2B\xF5 "Manor"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Rich Lady" "!LB0150">
@@ -1855,7 +1855,7 @@
 <removesprite -1 11>
 <exit>
 :904A
-\x2B\xF5 "豪邸住居"  1 
+\x2B\xF5 "Manor"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Wealthy Lady" "!HC0116">
@@ -1901,7 +1901,7 @@
 <removesprite -1 11>
 <exit>
 :9433
-\x2B\xF5 "豪邸住居"  1 
+\x2B\xF5 "Manor"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Dreaming Citizen" "!ZH0058">
@@ -1956,7 +1956,7 @@
 #
 <exit>
 :981C
-\x2B\xF5 "豪邸住居"  1 
+\x2B\xF5 "Manor"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Manor Neighbor" "!SB0214">
@@ -1969,7 +1969,7 @@
 #
 <exit>
 :98F2
-\x2B\xF5 "豪邸住居"  1 
+\x2B\xF5 "Manor"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <sprite "ta34a000.agf" 4 4 11>
@@ -2013,7 +2013,7 @@
 <removesprite -1 11>
 <exit>
 :9CAF
-\x2B\xF5 "豪邸住居"  1 
+\x2B\xF5 "Manor"  1 
 <music 3>
 <background "bg010a0.agf" 10>
 <name "Darx">
@@ -2049,7 +2049,7 @@
 <removesprite -1 11>
 <exit>
 :9F81
-\x2B\xF5 "巨人住居"  1 
+\x2B\xF5 "Giant Housing"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Visiting Citizen" "!ZH0064">
@@ -2064,7 +2064,7 @@
 #
 <exit>
 :A07D
-\x2B\xF5 "巨人住居"  1 
+\x2B\xF5 "Giant Housing"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Giant Citizen" "!MB0061">
@@ -2103,7 +2103,7 @@
 <removesprite -1 11>
 <exit>
 :A3C0
-\x2B\xF5 "巨人住居"  1 
+\x2B\xF5 "Giant Housing"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Giant Citizen" "!KB0191">
@@ -2118,7 +2118,7 @@
 #
 <exit>
 :A4D2
-\x2B\xF5 "巨人住居"  1 
+\x2B\xF5 "Giant Housing"  1 
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta34a001.agf" 4 4 11>
@@ -2154,7 +2154,7 @@
 <removesprite -1 11>
 <exit>
 :A722
-\x2B\xF5 "非人型住居"  1 
+\x2B\xF5 "Unusual Housing"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Animal Citizen" "!HC0117">
@@ -2178,7 +2178,7 @@
 <removesprite -1 11>
 <exit>
 :A8D0
-\x2B\xF5 "非人型住居"  1 
+\x2B\xF5 "Unusual Housing"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Delivery Citizen" "!ZH0066">
@@ -2202,7 +2202,7 @@
 <removesprite -1 11>
 <exit>
 :AABC
-\x2B\xF5 "非人型住居"  1 
+\x2B\xF5 "Unusual Housing"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Exploring Citizen" "!RB0158">
@@ -2225,7 +2225,7 @@
 #
 <exit>
 :AC77
-\x2B\xF5 "非人型住居"  1 
+\x2B\xF5 "Unusual Housing"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Honest Citizen" "!LB0153">
@@ -2251,7 +2251,7 @@
 #
 <exit>
 :AE3A
-\x2B\xF5 "畑"  1 
+\x2B\xF5 "Field"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Hard Working Citizen" "!ZH0067">
@@ -2270,7 +2270,7 @@
 #
 <exit>
 :AF71
-\x2B\xF5 "畑"  1 
+\x2B\xF5 "Field"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Dark Shadow" "!BC0102">
@@ -2292,7 +2292,7 @@
 #
 <exit>
 :B0FD
-\x2B\xF5 "畑"  1 
+\x2B\xF5 "Field"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Dark Shadow" "!BC0105">
@@ -2336,7 +2336,7 @@
 #
 <exit>
 :B424
-\x2B\xF5 "畑"  1 
+\x2B\xF5 "Field"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Farming Citizen" "!JA0064">
@@ -2367,7 +2367,7 @@
 #
 <exit>
 :B684
-\x2B\xF5 "畑"  1 
+\x2B\xF5 "Field"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Dark Shadow" "!BC0112">
@@ -2410,7 +2410,7 @@
 <removesprite -1 11>
 <exit>
 :B993
-\x2B\xF5 "牧場"  1 
+\x2B\xF5 "Ranch"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Darx">
@@ -2432,7 +2432,7 @@
 <removesprite -1 11>
 <exit>
 :BB10
-\x2B\xF5 "牧場"  1 
+\x2B\xF5 "Ranch"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Darx">
@@ -2495,7 +2495,7 @@ I guess that's where our stock comes from.
 #
 <exit>
 :C00C
-\x2B\xF5 "牧場"  1 
+\x2B\xF5 "Ranch"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Visiting Citizen" "!KB0192">
@@ -2534,7 +2534,7 @@ I guess that's where our stock comes from.
 #
 <exit>
 :C26B
-\x2B\xF5 "牧場"  1 
+\x2B\xF5 "Ranch"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Surprised Citizen" "!ZD0080">
@@ -2561,7 +2561,7 @@ A single bull caused a huge commotion.
 <removesprite -1 11>
 <exit>
 :C446
-\x2B\xF5 "牧場"  1 
+\x2B\xF5 "Ranch"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Darx">
@@ -2579,7 +2579,7 @@ A single bull caused a huge commotion.
 <removesprite -1 11>
 <exit>
 :C573
-\x2B\xF5 "果樹園"  1 
+\x2B\xF5 "Orchard"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Passing Citizen" "!SB0219">
@@ -2594,7 +2594,7 @@ A single bull caused a huge commotion.
 #
 <exit>
 :C669
-\x2B\xF5 "果樹園"  1 
+\x2B\xF5 "Orchard"  1 
 <music 4>
 <background "bg009a0.agf" 10>
 <sprite "ta34a000.agf" 4 4 11>
@@ -2616,7 +2616,7 @@ A single bull caused a huge commotion.
 <removesprite -1 11>
 <exit>
 :C845
-\x2B\xF5 "果樹園"  1 
+\x2B\xF5 "Orchard"  1 
 <music 11>
 <background "bg008a0.agf" 10>
 <name "Orchard Citizen" "!BC0118">
@@ -2641,7 +2641,7 @@ I don't need to worry about fruit for a while.
 #
 <exit>
 :C9DF
-\x2B\xF5 "果樹園"  1 
+\x2B\xF5 "Orchard"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Observing Citizen" "!SB0221">
@@ -2662,7 +2662,7 @@ I don't need to worry about fruit for a while.
 #
 <exit>
 :CB6F
-\x2B\xF5 "果樹園"  1 
+\x2B\xF5 "Orchard"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Passing Citizen" "!ZH0069">
@@ -2691,7 +2691,7 @@ I don't need to worry about fruit for a while.
 #
 <exit>
 :CDC9
-\x2B\xF5 "果樹園"  1 
+\x2B\xF5 "Orchard"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Angry Citizen" "!BC0123">
@@ -2716,7 +2716,7 @@ I don't need to worry about fruit for a while.
 #
 <exit>
 :CF75
-\x2B\xF5 "果樹園"  1 
+\x2B\xF5 "Orchard"  1 
 <music 3>
 <background "bg010a0.agf" 10>
 <name "Orchard Citizen" "!MB0068">
@@ -2781,7 +2781,7 @@ So, even demons are scared of bees, huh?
 #
 <exit>
 :D44C
-\x2B\xF5 "採掘場"  1 
+\x2B\xF5 "Mine"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Thoughtful Citizen" "!MB0072">
@@ -2792,7 +2792,7 @@ So, even demons are scared of bees, huh?
 #
 <exit>
 :D509
-\x2B\xF5 "採掘場"  1 
+\x2B\xF5 "Mine"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Miner Citizen" "!JA0072">
@@ -2814,7 +2814,7 @@ So, even demons are scared of bees, huh?
 #
 <exit>
 :D6B1
-\x2B\xF5 "集積場"  1 
+\x2B\xF5 "Storehouse"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Working Citizen" "!ZD0088">
@@ -2832,7 +2832,7 @@ So, even demons are scared of bees, huh?
 #
 <exit>
 :D7F0
-\x2B\xF5 "集積場"  1 
+\x2B\xF5 "Storehouse"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Wondering Citizen" "!WB0152">
@@ -2856,7 +2856,7 @@ So, even demons are scared of bees, huh?
 #
 <exit>
 :D9D1
-\x2B\xF5 "工場"  1 
+\x2B\xF5 "Workshop"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Visiting Citizen" "!SB0224">
@@ -2873,7 +2873,7 @@ So, even demons are scared of bees, huh?
 #
 <exit>
 :DB0A
-\x2B\xF5 "工場"  1 
+\x2B\xF5 "Workshop"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Shopping Citizen" "!ZF0086">
@@ -2886,7 +2886,7 @@ So, even demons are scared of bees, huh?
 #
 <exit>
 :DBDF
-\x2B\xF5 "工場"  1 
+\x2B\xF5 "Workshop"  1 
 <music 10>
 <background "ev003a00.agf" 10>
 <name "Merchant Maid" "!PC0396">
@@ -2914,7 +2914,7 @@ So, even demons are scared of bees, huh?
 #
 <exit>
 :DE0A
-\x2B\xF5 "工場"  1 
+\x2B\xF5 "Workshop"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Ii" "!GB0174">
@@ -2978,7 +2978,7 @@ So, even demons are scared of bees, huh?
 #
 <exit>
 :E2F6
-\x2B\xF5 "工場"  1 
+\x2B\xF5 "Workshop"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Aa" "!JA0083">
@@ -3014,7 +3014,7 @@ So, even demons are scared of bees, huh?
 #
 <exit>
 :E5CD
-\x2B\xF5 "工場"  1 
+\x2B\xF5 "Workshop"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Restaurant Citizen" "!ZH0073">
@@ -3084,7 +3084,7 @@ So, even demons are scared of bees, huh?
 #
 <exit>
 :EB91
-\x2B\xF5 "工場"  1 
+\x2B\xF5 "Workshop"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Ii" "!GB0180">
@@ -3129,7 +3129,7 @@ So, even demons are scared of bees, huh?
 #
 <exit>
 :EE66
-\x2B\xF5 "工場"  1 
+\x2B\xF5 "Workshop"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Aa" "!JA0092">
@@ -3159,7 +3159,7 @@ So, even demons are scared of bees, huh?
 #
 <exit>
 :F084
-\x2B\xF5 "研究塔"  1 
+\x2B\xF5 "Research Tower"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Researcher" "!MB0073">
@@ -3233,7 +3233,7 @@ So, even demons are scared of bees, huh?
 #
 <exit>
 :F6D3
-\x2B\xF5 "研究塔"  1 
+\x2B\xF5 "Research Tower"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Studying Citizen" "!GB0185">
@@ -3300,7 +3300,7 @@ So, even demons are scared of bees, huh?
 #
 <exit>
 :FC66
-\x2B\xF5 "研究塔"  1 
+\x2B\xF5 "Research Tower"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Visiting Citizen" "!UA0113">
@@ -3335,7 +3335,7 @@ So, even demons are scared of bees, huh?
 #
 <exit>
 :FF5D
-\x2B\xF5 "研究塔"  1 
+\x2B\xF5 "Research Tower"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Researcher" "!ZE0142">
@@ -3376,7 +3376,7 @@ laboratories.
 #
 <exit>
 :1026B
-\x2B\xF5 "研究塔"  1 
+\x2B\xF5 "Research Tower"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Researcher" "!ZD0090">
@@ -3420,7 +3420,7 @@ The laboratories were noisy once again.
 #
 <exit>
 :1058D
-\x2B\xF5 "研究塔"  1 
+\x2B\xF5 "Research Tower"  1 
 <music 10>
 <background "ev003a00.agf" 10>
 <name "Merchant Maid" "!AC0249">
@@ -3459,7 +3459,7 @@ The laboratories were noisy once again.
 #
 <exit>
 :1082D
-\x2B\xF5 "研究塔"  1 
+\x2B\xF5 "Research Tower"  1 
 <music 10>
 <background "ev003a00.agf" 10>
 <name "Merchant Maid" "!AC0252">
@@ -3491,7 +3491,7 @@ The laboratories were noisy once again.
 #
 <exit>
 :10A41
-\x2B\xF5 "研究塔"  1 
+\x2B\xF5 "Research Tower"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Talking Researcher" "!ZD0096">
@@ -3546,7 +3546,7 @@ The laboratories were noisy once again.
 #
 <exit>
 :10EC8
-\x2B\xF5 "研究塔"  1 
+\x2B\xF5 "Research Tower"  1 
 <music 3>
 <background "bg010a0.agf" 10>
 <name "Serious Researcher" "!ZD0102">
@@ -3590,7 +3590,7 @@ The laboratories were noisy once again.
 #
 <exit>
 :11243
-\x2B\xF5 "研究塔"  1 
+\x2B\xF5 "Research Tower"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Head Researcher" "!SB0226">
@@ -3620,7 +3620,7 @@ The laboratories were noisy once again.
 #
 <exit>
 :114A8
-\x2B\xF5 "研究塔"  1 
+\x2B\xF5 "Research Tower"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Honest Researcher" "!SB0228">
@@ -3644,7 +3644,7 @@ The laboratories were noisy once again.
 #
 <exit>
 :11605
-\x2B\xF5 "商店"  1 
+\x2B\xF5 "Store"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Shopping Citizen" "!SB0231">
@@ -3687,7 +3687,7 @@ Not sure I expected anything different.
 #
 <exit>
 :11909
-\x2B\xF5 "商店"  1 
+\x2B\xF5 "Store"  1 
 <music 10>
 <background "ev003a00.agf" 10>
 <name "Accounting Maid" "!AC0319">
@@ -3726,7 +3726,7 @@ losing customers.
 #
 <exit>
 :11BE1
-\x2B\xF5 "商店"  1 
+\x2B\xF5 "Store"  1 
 <music 10>
 <background "ev003a00.agf" 10>
 <name "Speaking Maid" "!PC0408">
@@ -3767,7 +3767,7 @@ losing customers.
 #
 <exit>
 :11EBB
-\x2B\xF5 "商店"  1 
+\x2B\xF5 "Store"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Sign Girl Nao" "!WB0160">
@@ -3834,7 +3834,7 @@ losing customers.
 #
 <exit>
 :123D2
-\x2B\xF5 "商店"  1 
+\x2B\xF5 "Store"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Nao's Mother" "!HC0126">
@@ -3871,7 +3871,7 @@ losing customers.
 #
 <exit>
 :126A6
-\x2B\xF5 "商店"  1 
+\x2B\xF5 "Store"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Nao's Father" "!CB0110">
@@ -3924,7 +3924,7 @@ losing customers.
 #
 <exit>
 :12A49
-\x2B\xF5 "商店"  1 
+\x2B\xF5 "Store"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Nao's Mother" "!HC0137">
@@ -4015,7 +4015,7 @@ losing customers.
 #
 <exit>
 :131AB
-\x2B\xF5 "商店"  1 
+\x2B\xF5 "Store"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Nao's Father" "!CB0128">
@@ -4159,7 +4159,7 @@ losing customers.
 #
 <exit>
 :13DA0
-\x2B\xF5 "商店"  1 
+\x2B\xF5 "Store"  1 
 <music 11>
 <background "bg009a0.agf" 10>
 <name "Patrolling Guard" "!WB0164">
@@ -4189,7 +4189,7 @@ losing customers.
 #
 <exit>
 :14056
-\x2B\xF5 "商店"  1 
+\x2B\xF5 "Store"  1 
 <music 11>
 <background "bg009a0.agf" 10>
 <name "Patrolling Guard" "!WB0167">
@@ -4245,7 +4245,7 @@ losing customers.
 #
 <exit>
 :1458C
-\x2B\xF5 "商店"  1 
+\x2B\xF5 "Store"  1 
 <music 3>
 <background "bg010a0.agf" 10>
 <name "Darx">
@@ -4272,7 +4272,7 @@ losing customers.
 #
 <exit>
 :14747
-\x2B\xF5 "娯楽店"  1 
+\x2B\xF5 "Entertainment Center"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Cheerful Citizen" "!ZF0111">
@@ -4304,7 +4304,7 @@ It's popular with the adults too.
 #
 <exit>
 :14989
-\x2B\xF5 "娯楽店"  1 
+\x2B\xF5 "Entertainment Center"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Concerned Citizen" "!HC0160">
@@ -4340,7 +4340,7 @@ It's popular with the adults too.
 #
 <exit>
 :14CFC
-\x2B\xF5 "娯楽店"  1 
+\x2B\xF5 "Entertainment Center"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Concerned Citizen" "!HC0164">
@@ -4360,7 +4360,7 @@ It's popular with the adults too.
 #
 <exit>
 :14E72
-\x2B\xF5 "娯楽店"  1 
+\x2B\xF5 "Entertainment Center"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Troubled Citizen" "!HC0165">
@@ -4382,7 +4382,7 @@ It's popular with the adults too.
 #
 <exit>
 :14FFA
-\x2B\xF5 "娯楽店"  1 
+\x2B\xF5 "Entertainment Center"  1 
 <music 3>
 <background "bg010a0.agf" 10>
 <name "Darx">
@@ -4416,7 +4416,7 @@ It's popular with the adults too.
 #
 <exit>
 :15225
-\x2B\xF5 "娯楽店"  1 
+\x2B\xF5 "Entertainment Center"  1 
 <music 11>
 <background "bg010a0.agf" 10>
 <sprite "ta34a002.agf" 4 4 11>
@@ -4449,7 +4449,7 @@ It's popular with the adults too.
 <removesprite -1 11>
 <exit>
 :1546F
-\x2B\xF5 "娯楽店"  1 
+\x2B\xF5 "Entertainment Center"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Darx">
@@ -4471,7 +4471,7 @@ It's popular with the adults too.
 <removesprite -1 11>
 <exit>
 :155FE
-\x2B\xF5 "娯楽店"  1 
+\x2B\xF5 "Entertainment Center"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Theatrical Citizen" "!QB0171">
@@ -4486,7 +4486,7 @@ It's popular with the adults too.
 #
 <exit>
 :15717
-\x2B\xF5 "娯楽店"  1 
+\x2B\xF5 "Entertainment Center"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Theatrical Citizen" "!TC0169">
@@ -4501,7 +4501,7 @@ It's popular with the adults too.
 #
 <exit>
 :1581E
-\x2B\xF5 "娯楽店"  1 
+\x2B\xF5 "Entertainment Center"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Theatrical Citizen" "!WB0180">
@@ -4521,7 +4521,7 @@ The audience is becoming more discerning.
 #
 <exit>
 :159AA
-\x2B\xF5 "娯楽店"  1 
+\x2B\xF5 "Entertainment Center"  1 
 <music 13>
 <background "ev004a00.agf" 10>
 <name "Sofia" "!ZB0900">
@@ -4559,7 +4559,7 @@ The casino seems to be doing well.
 #
 <exit>
 :15C77
-\x2B\xF5 "娯楽店"  1 
+\x2B\xF5 "Entertainment Center"  1 
 <music 4>
 <background "bg009a0.agf" 10>
 <sprite "ta34a000.agf" 4 4 11>
@@ -4598,7 +4598,7 @@ The casino seems to be doing well.
 #
 <exit>
 :15FDD
-\x2B\xF5 "娯楽店"  1 
+\x2B\xF5 "Entertainment Center"  1 
 <music 13>
 <background "ev004a00.agf" 10>
 <name "Merchant Maid" "!PC0418">
@@ -4647,7 +4647,7 @@ The casino seems to be doing well.
 #
 <exit>
 :1639E
-\x2B\xF5 "娯楽店"  1 
+\x2B\xF5 "Entertainment Center"  1 
 <music 13>
 <background "ev004a00.agf" 10>
 <name "Merchant Maid" "!AC0330">
@@ -4659,7 +4659,7 @@ The casino seems to be doing well.
 #
 <exit>
 :1644C
-\x2B\xF5 "娯楽店"  1 
+\x2B\xF5 "Entertainment Center"  1 
 <music 13>
 <background "ev004a00.agf" 10>
 <name "Darx">
@@ -4671,7 +4671,7 @@ The casino seems to be doing well.
 #
 <exit>
 :164FE
-\x2B\xF5 "娯楽店"  1 
+\x2B\xF5 "Entertainment Center"  1 
 <music 13>
 <background "ev004a00.agf" 10>
 <name "Confident Citizen" "!ZD0106">
@@ -4697,7 +4697,7 @@ The casino seems to be doing well.
 #
 <exit>
 :166EA
-\x2B\xF5 "娯楽店"  1 
+\x2B\xF5 "Entertainment Center"  1 
 <music 13>
 <background "ev004a00.agf" 10>
 <name "Darx">
@@ -4710,7 +4710,7 @@ The casino seems to be doing well.
 #
 <exit>
 :16799
-\x2B\xF5 "娯楽店"  1 
+\x2B\xF5 "Entertainment Center"  1 
 <music 13>
 <background "ev004a00.agf" 10>
 <name "Dealer Maid" "!PC0421">
@@ -4737,7 +4737,7 @@ The casino seems to be doing well.
 #
 <exit>
 :169B7
-\x2B\xF5 "娯楽店"  1 
+\x2B\xF5 "Entertainment Center"  1 
 <music 13>
 <background "ev004a00.agf" 10>
 <name "Manager Maid" "!AC0336">
@@ -4777,7 +4777,7 @@ The casino seems to be doing well.
 #
 <exit>
 :16CC7
-\x2B\xF5 "娯楽店"  1 
+\x2B\xF5 "Entertainment Center"  1 
 <music 13>
 <background "ev004a00.agf" 10>
 <name "Entertained Angel" "!WB0182">
@@ -4829,7 +4829,7 @@ The casino seems to be doing well.
 #
 <exit>
 :170D6
-\x2B\xF5 "Ｈな娯楽店"  1 
+\x2B\xF5 "Red Light District"  1 
 <music 10>
 <background "ev003a00.agf" 10>
 <name "Office Maid" "!DC0310">
@@ -4852,7 +4852,7 @@ The casino seems to be doing well.
 #
 <exit>
 :17273
-\x2B\xF5 "Ｈな娯楽店"  1 
+\x2B\xF5 "Red Light District"  1 
 <music 10>
 <background "ev003a00.agf" 10>
 <name "Office Maid" "!DC0312">
@@ -4876,7 +4876,7 @@ The casino seems to be doing well.
 #
 <exit>
 :17445
-\x2B\xF5 "Ｈな娯楽店"  1 
+\x2B\xF5 "Red Light District"  1 
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta34a000.agf" 4 4 11>
@@ -4907,7 +4907,7 @@ The casino seems to be doing well.
 <removesprite -1 11>
 <exit>
 :1761E
-\x2B\xF5 "Ｈな娯楽店"  1 
+\x2B\xF5 "Red Light District"  1 
 <music 11>
 <background "bg008a0.agf" 10>
 <name "Nonchalant Guard" "!WB0189">
@@ -4994,7 +4994,7 @@ as part of its special course.
 #
 <exit>
 :17D06
-\x2B\xF5 "スタジアム"  1 
+\x2B\xF5 "Stadium"  1 
 <music 11>
 <background "bg008a0.agf" 10>
 <name "Restless Citizen" "!JA0102">
@@ -5027,7 +5027,7 @@ as part of its special course.
 <removesprite -1 11>
 <exit>
 :17F93
-\x2B\xF5 "スタジアム"  1 
+\x2B\xF5 "Stadium"  1 
 <music 10>
 <background "ev003a00.agf" 10>
 <name "Reading Maid" "!PC0426">
@@ -5056,7 +5056,7 @@ as part of its special course.
 #
 <exit>
 :181B0
-\x2B\xF5 "スタジアム"  1 
+\x2B\xF5 "Stadium"  1 
 <music 4>
 <background "bg009a0.agf" 10>
 <name "Restless Citizen" "!JA0105">
@@ -5121,7 +5121,7 @@ as part of its special course.
 <removesprite -1 11>
 <exit>
 :186CD
-\x2B\xF5 "スタジアム"  1 
+\x2B\xF5 "Stadium"  1 
 <music 11>
 <background "bg008a0.agf" 10>
 <sprite "ta34a001.agf" 4 4 11>
@@ -5142,7 +5142,7 @@ as part of its special course.
 <removesprite -1 11>
 <exit>
 :18856
-\x2B\xF5 "スタジアム"  1 
+\x2B\xF5 "Stadium"  1 
 <music 11>
 <background "bg008a0.agf" 10>
 <name "Fearless Guard" "!QB0175">
@@ -5184,7 +5184,7 @@ It's starting to gain popularity.
 #
 <exit>
 :18B57
-\x2B\xF5 "スタジアム"  1 
+\x2B\xF5 "Stadium"  1 
 <music 11>
 <background "bg008a0.agf" 10>
 <name "Serious Guard" "!QB0179">
@@ -5235,7 +5235,7 @@ It's starting to gain popularity.
 <removesprite -1 11>
 <exit>
 :18FAD
-\x2B\xF5 "プール"  1 
+\x2B\xF5 "Pool"  1 
 <music 8>
 <background "ev047a00.agf" 10>
 <name "Happy Citizen" "!SB0234">
@@ -5264,7 +5264,7 @@ The pool's already popular.
 #
 <exit>
 :191D0
-\x2B\xF5 "プール"  1 
+\x2B\xF5 "Pool"  1 
 <music 8>
 <background "ev047a00.agf" 10>
 <name "Swimsuit Citizen" "!JA0111">
@@ -5301,7 +5301,7 @@ The pool is gathering quite a few visitors.
 #
 <exit>
 :19476
-\x2B\xF5 "プール"  1 
+\x2B\xF5 "Pool"  1 
 <music 8>
 <background "ev047a00.agf" 10>
 <name "Swimming Citizen" "!CB0141">
@@ -5331,7 +5331,7 @@ The pool is popular.
 #
 <exit>
 :1964B
-\x2B\xF5 "プール"  1 
+\x2B\xF5 "Pool"  1 
 <music 8>
 <background "ev047a00.agf" 10>
 <name "Guard" "!WB0200">
@@ -5381,7 +5381,7 @@ traumatizing.
 #
 <exit>
 :19A1B
-\x2B\xF5 "酒造店"  1 
+\x2B\xF5 "Brewery"  1 
 <music 4>
 <background "bg009a0.agf" 10>
 <sprite "ta34b001.agf" 4 4 11>
@@ -5430,7 +5430,7 @@ traumatizing.
 <removesprite -1 11>
 <exit>
 :19E89
-\x2B\xF5 "酒造店"  1 
+\x2B\xF5 "Brewery"  1 
 <music 4>
 <background "bg009a0.agf" 10>
 <name "Dining Citizen" "!JA0115">
@@ -5457,7 +5457,7 @@ traumatizing.
 <removesprite -1 11>
 <exit>
 :1A061
-\x2B\xF5 "酒造店"  1 
+\x2B\xF5 "Brewery"  1 
 <music 4>
 <background "bg009a0.agf" 10>
 <name "Drinking Citizen" "!ZD0114">
@@ -5480,7 +5480,7 @@ traumatizing.
 <removesprite -1 11>
 <exit>
 :1A1F8
-\x2B\xF5 "酒造店"  1 
+\x2B\xF5 "Brewery"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Brewery Owner" "!ZH0082">
@@ -5523,7 +5523,7 @@ traumatizing.
 #
 <exit>
 :1A53F
-\x2B\xF5 "酒造店"  1 
+\x2B\xF5 "Brewery"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Brewery Owner" "!ZH0088">
@@ -5576,7 +5576,7 @@ traumatizing.
 #
 <exit>
 :1A981
-\x2B\xF5 "酒造店"  1 
+\x2B\xF5 "Brewery"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Brewery Owner" "!ZH0090">
@@ -5617,7 +5617,7 @@ traumatizing.
 #
 <exit>
 :1ACEB
-\x2B\xF5 "酒造店"  1 
+\x2B\xF5 "Brewery"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Brewery Owner" "!ZH0092">
@@ -5691,7 +5691,7 @@ traumatizing.
 #
 <exit>
 :1B2A9
-\x2B\xF5 "大衆浴場"  1 
+\x2B\xF5 "Bathhouse"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Bathing Citizen" "!ZF0120">
@@ -5715,7 +5715,7 @@ traumatizing.
 #
 <exit>
 :1B46A
-\x2B\xF5 "大衆浴場"  1 
+\x2B\xF5 "Bathhouse"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Arguing Citizen" "!ZD0115">
@@ -5733,7 +5733,7 @@ traumatizing.
 #
 <exit>
 :1B5AC
-\x2B\xF5 "大衆浴場"  1 
+\x2B\xF5 "Bathhouse"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Bathing Citizen" "!HC0168">
@@ -5759,7 +5759,7 @@ traumatizing.
 #
 <exit>
 :1B7CC
-\x2B\xF5 "大衆浴場"  1 
+\x2B\xF5 "Bathhouse"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Manly Citizen" "!UA0130">
@@ -5821,7 +5821,7 @@ traumatizing.
 #
 <exit>
 :1BCA2
-\x2B\xF5 "温泉"  1 
+\x2B\xF5 "Hot Spring"  1 
 <music 11>
 <background "bg008a0.agf" 10>
 <name "Afterwork Citizen" "!MB0114">
@@ -5846,7 +5846,7 @@ traumatizing.
 #
 <exit>
 :1BE69
-\x2B\xF5 "温泉"  1 
+\x2B\xF5 "Hot Spring"  1 
 <music 3>
 <background "bg010a0.agf" 10>
 <name "Darx">
@@ -5907,7 +5907,7 @@ The soundproofing there was incredible.
 #
 <exit>
 :1C2D5
-\x2B\xF5 "温泉"  1 
+\x2B\xF5 "Hot Spring"  1 
 <music 11>
 <background "bg008a0.agf" 10>
 <name "Perceptive Citizen" "!ZD0117">
@@ -5924,7 +5924,7 @@ The hot springs have gotten popular.
 #
 <exit>
 :1C3F7
-\x2B\xF5 "温泉"  1 
+\x2B\xF5 "Hot Spring"  1 
 <music 11>
 <background "bg008a0.agf" 10>
 <name "Speaking Citizen" "!ZF0124">
@@ -6007,7 +6007,7 @@ The hot springs have gotten popular.
 #
 <exit>
 :1CA61
-\x2B\xF5 "温泉"  1 
+\x2B\xF5 "Hot Spring"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Relaxing Wife" "!LB0166">
@@ -6057,7 +6057,7 @@ The hot springs have gotten popular.
 #
 <exit>
 :1CE28
-\x2B\xF5 "温泉"  1 
+\x2B\xF5 "Hot Spring"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Perceptive Woman" "!LB0171">
@@ -6080,7 +6080,7 @@ The hot springs are popular.
 #
 <exit>
 :1CFE9
-\x2B\xF5 "公園"  1 
+\x2B\xF5 "Park"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Strolling Citizen" "!SB0241">
@@ -6098,7 +6098,7 @@ The hot springs are popular.
 #
 <exit>
 :1D11E
-\x2B\xF5 "公園"  1 
+\x2B\xF5 "Park"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Strolling Citizen" "!ZD0118">
@@ -6137,7 +6137,7 @@ The hot springs are popular.
 <removesprite -1 11>
 <exit>
 :1D3CB
-\x2B\xF5 "公園"  1 
+\x2B\xF5 "Park"  1 
 <music 10>
 <background "ev003a00.agf" 10>
 <name "Reporting Maid" "!DC0333">
@@ -6165,7 +6165,7 @@ The hot springs are popular.
 #
 <exit>
 :1D5DE
-\x2B\xF5 "公園"  1 
+\x2B\xF5 "Park"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Regular Citizen" "!ZE0179">
@@ -6307,7 +6307,7 @@ The hot springs are popular.
 #
 <exit>
 :1E122
-\x2B\xF5 "学園"  1 
+\x2B\xF5 "School"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Longtime Citizen" "!ZD0123">
@@ -6327,7 +6327,7 @@ The hot springs are popular.
 #
 <exit>
 :1E2D2
-\x2B\xF5 "学園寮"  1 
+\x2B\xF5 "Dormitory"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Thinking Citizen" "!BC0136">
@@ -6358,7 +6358,7 @@ The hot springs are popular.
 #
 <exit>
 :1E513
-\x2B\xF5 "森"  1 
+\x2B\xF5 "Forest"  1 
 <music 14>
 <background "bg012a0.agf" 10>
 <name "Arriving Citizen" "!ZD0124">
@@ -6386,7 +6386,7 @@ The hot springs are popular.
 <removesprite -1 11>
 <exit>
 :1E6F5
-\x2B\xF5 "森"  1 
+\x2B\xF5 "Forest"  1 
 <music 14>
 <background "bg012a0.agf" 10>
 <name "Contemplating Citizen" "!ZD0126">
@@ -6406,7 +6406,7 @@ The hot springs are popular.
 #
 <exit>
 :1E868
-\x2B\xF5 "池"  1 
+\x2B\xF5 "Pond"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Wandering Citizen" "!ZH0116">
@@ -6435,7 +6435,7 @@ The hot springs are popular.
 <removesprite -1 11>
 <exit>
 :1EAA6
-\x2B\xF5 "池"  1 
+\x2B\xF5 "Pond"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Carpsle" "!ZF0135">
@@ -6466,7 +6466,7 @@ The hot springs are popular.
 #
 <exit>
 :1ECDD
-\x2B\xF5 "池"  1 
+\x2B\xF5 "Pond"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Strolling Citizen" "!MB0119">
@@ -6498,7 +6498,7 @@ The hot springs are popular.
 #
 <exit>
 :1EF24
-\x2B\xF5 "池"  1 
+\x2B\xF5 "Pond"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Pond Manager" "!KB0215">
@@ -6545,7 +6545,7 @@ Fish from all over the pond gather.
 #
 <exit>
 :1F249
-\x2B\xF5 "池"  1 
+\x2B\xF5 "Pond"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Walking Citizen" "!ZD0131">
@@ -6565,7 +6565,7 @@ Fish from all over the pond gather.
 #
 <exit>
 :1F397
-\x2B\xF5 "空き地"  1 
+\x2B\xF5 "Cleared Land"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Visiting Citizen" "!ZE0220">
@@ -6595,7 +6595,7 @@ Fish from all over the pond gather.
 #
 <exit>
 :1F5AE
-\x2B\xF5 "空き地"  1 
+\x2B\xF5 "Cleared Land"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Shadowy Citizen" "!BC0146">
@@ -6618,7 +6618,7 @@ Fish from all over the pond gather.
 #
 <exit>
 :1F74E
-\x2B\xF5 "魔王亭"  1 
+\x2B\xF5 "Overlord's Retreat"  1 
 <music 4>
 <background "bg009a0.agf" 10>
 <name "Darx">
@@ -6656,7 +6656,7 @@ Anyway, I went around the city.
 #
 <exit>
 :1FA09
-\x2B\xF5 "魔王亭"  1 
+\x2B\xF5 "Overlord's Retreat"  1 
 <music 10>
 <background "ev003a00.agf" 10>
 <name "Merchant Maid" "!DC0185">
@@ -6699,7 +6699,7 @@ Anyway, I went around the city.
 #
 <exit>
 :1FD0D
-\x2B\xF5 "魔王亭"  1 
+\x2B\xF5 "Overlord's Retreat"  1 
 <music 4>
 <background "bg009a0.agf" 10>
 <name "Office Maid" "!DC0191" "ka34e000.agf">
@@ -6747,7 +6747,7 @@ The citizens were unhappy.
 #
 <exit>
 :20164
-\x2B\xF5 "魔王亭"  1 
+\x2B\xF5 "Overlord's Retreat"  1 
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta08a004.agf" 4 4 11>
@@ -6782,7 +6782,7 @@ The citizens were unhappy.
 <removesprite -1 11>
 <exit>
 :20423
-\x2B\xF5 "魔王亭"  1 
+\x2B\xF5 "Overlord's Retreat"  1 
 <music 4>
 <background "bg009a0.agf" 10>
 <sprite "ta01a016.agf" 4 4 11>
@@ -6888,7 +6888,7 @@ was enjoyed by the whole city.
 #
 <exit>
 :20CFD
-\x2B\xF5 "魔王亭"  1 
+\x2B\xF5 "Overlord's Retreat"  1 
 <music 4>
 <background "bg009a0.agf" 10>
 <sprite "ta01a005.agf" 4 4 11>
@@ -6936,7 +6936,7 @@ was enjoyed by the whole city.
 #
 <exit>
 :21200
-\x2B\xF5 "魔王亭"  1 
+\x2B\xF5 "Overlord's Retreat"  1 
 <music 4>
 <background "bg009a0.agf" 10>
 <sprite "ta34a001.agf" 4 4 11>

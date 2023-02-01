@@ -1,5 +1,5 @@
 //entry 0 -----------------------
-更地
+Empty Lot
 行政
 *
 *
@@ -31,10 +31,10 @@
 *
 *
 *
-なにもない。|そう、なにもない場所！
-特に無し。
+There's nothing here.|Yes, nothing at all!
+No effect
 //entry 1 -----------------------
-空き地
+Cleared Land
 行政
 buil26.agf
 f026aa.agf
@@ -66,10 +66,10 @@ f026aa.agf
 *
 *
 *
-なにもないぞ！
-特に無し。
+There's nothing here!
+No effect
 //entry 2 -----------------------
-魔王亭
+Overlord's Retreat
 行政
 buil00.agf
 f000aa.agf
@@ -101,10 +101,10 @@ f000aa.agf
 *
 *
 *
-魔王の住居兼、ギュンギュスカー商会支店。
-毎ターン、僅かに住民増加する。|居住可能住民数の最大値が増える。
+The dwelling of the Overlord, and headquarters of the local Gunguskar branch.
+Each turn: Recruit a few citizens|Increases maximum citizens
 //entry 3 -----------------------
-警備砦
+Garrison
 行政
 buil01.agf
 f001aa.agf
@@ -136,10 +136,10 @@ f001ca.agf
 *
 *
 *
-住民と治安を守る施設。|迷宮で働く者達の訓練施設も兼ねている。
-ダークス宮の守備魔物がかなり増える。|ダークス宮に侵入してくる冒険者が減る。
+Keeps the public peace and trains those who work in the dungeons.
+Increases dungeon defense
 //entry 4 -----------------------
-治療所
+Clinic
 行政
 buil02.agf
 f002aa.agf
@@ -171,10 +171,10 @@ f002ca.agf
 *
 *
 住民/2
-怪我の治療を行う場所。
-ダウンしたメンバーの復帰ターンを１ターン短縮する。|ダークス宮に侵入してくる冒険者が減る。
+A place for the sick to heal.
+KOed units recover faster
 //entry 5 -----------------------
-住居
+Housing
 住居
 buil03.agf
 f003aa.agf
@@ -206,10 +206,10 @@ f003ca.agf
 *
 *
 *
-最低限の生活をする為の住居。|政策で住民なら無料で居住可能。
-居住可能住民数の最大値が増える。|ダークス宮の守備魔物が増える。
+The very minimum that can be called a place to live.
+Increases maximum citizens|Increases dungeon defense
 //entry 6 -----------------------
-高級住居
+Luxury Housing
 住居
 buil04.agf
 f004aa.agf
@@ -241,10 +241,10 @@ f004ca.agf
 *
 *
 *
-高級な住居。|財産に余裕が出来た住民が目指す場所。
-居住可能住民数の最大値が増える。|ダークス宮の守備魔物が増える。
+A fancier place to live for those who can afford to own land.
+Increases maximum citizens|Increases dungeon defense
 //entry 7 -----------------------
-豪邸住居
+Manor
 住居
 buil05.agf
 f005aa.agf
@@ -276,10 +276,10 @@ f005ca.agf
 *
 *
 *
-豪邸。|かなりお金に余裕のある者しか住めない場所。
-居住可能住民数の最大値が増える。|ダークス宮の守備魔物が増える。
+For the rich to live in, and the poor to aspire to.
+Increases maximum citizens|Increases dungeon defense
 //entry 8 -----------------------
-巨人住居
+Giant Housing
 住居
 buil06.agf
 f006aa.agf
@@ -311,10 +311,10 @@ f006ca.agf
 *
 *
 *
-大きな人型住民の為の住居。|スケールが違う。
-居住可能住民数の最大値が増える。|ダークス宮の守備魔物が増える。
+Housing on a completely different scale. Literally.
+Increases maximum citizens|Increases dungeon defense
 //entry 9 -----------------------
-非人型住居
+Unusual Housing
 住居
 buil07.agf
 f007aa.agf
@@ -346,10 +346,10 @@ f007ca.agf
 *
 *
 *
-人型以外の住民の為の住居。|変わった形が多い。
-居住可能住民数の最大値が増える。|ダークス宮の守備魔物が増える。
+Not everybody wants to live in a human-shaped house.
+Increases maximum citizens|Increases dungeon defense
 //entry 10 -----------------------
-畑
+Field
 農業
 buil08.agf
 f008aa.agf
@@ -381,10 +381,10 @@ f008ca.agf
 *
 *
 *
-農耕地。|生産される食料は、人間魔族を問わずに高い評価を得る。
-毎ターン、食料を得られる。|得られる量は、建物のレベルによって増加する。
+Food is life, for humans, demons, and angels.
+Each turn: Gathers food|Level up to increase output
 //entry 11 -----------------------
-牧場
+Ranch
 農業
 buil09.agf
 f009aa.agf
@@ -416,10 +416,10 @@ f009ca.agf
 *
 *
 *
-家畜の飼育を主に行う場所。
-毎ターン、食料を得られる。|得られる量は、建物のレベルによって増加する。
+Raises livestock, but don't get too attached to them.
+Each turn: Gathers food|Level up to increase output
 //entry 12 -----------------------
-果樹園
+Orchard
 農業
 buil10.agf
 f010aa.agf
@@ -451,10 +451,10 @@ f010ca.agf
 *
 *
 *
-果実採取を目的とした木々を育てる場所。
-毎ターン、食料を得られる。|得られる量は、建物のレベルによって増加する。
+Enjoy the fruits of your labors.
+Each turn: Gathers food|Level up to increase output
 //entry 13 -----------------------
-採掘場
+Mine
 工業
 buil11.agf
 f011aa.agf
@@ -486,10 +486,10 @@ f011ba.agf
 *
 *
 *
-地面から資源を確保する事を目的に作られた施設。|時々、資金的な物も見つける。
-毎ターン、資金、資源が得られる。
+Pull materials and riches right out of the ground.
+Each turn: Gathers resources and money
 //entry 14 -----------------------
-集積場
+Storehouse
 工業
 buil12.agf
 f012aa.agf
@@ -521,10 +521,10 @@ f012ba.agf
 *
 *
 *
-集めた物資から、資源を探す為の場所。
-毎ターン、資源が得られる。
+A place to accumulate and store supplies.
+Each turn: Gathers resources
 //entry 15 -----------------------
-工場
+Workshop
 工業
 buil13.agf
 f013aa.agf
@@ -556,10 +556,10 @@ f013cb.agf
 *
 *
 *
-様々な物品の製作を行う場所。|家具、食器、衣服、武具等などが主に作られている。
-毎ターン資源を消費し、僅かに住民増加させる。|ダークス宮の罠効率がＵＰ。
+Creates all manner of things needed for civilized living.
+Each turn: Consumes resources and increases citizens|Increases dungeon trap efficiency
 //entry 16 -----------------------
-研究塔
+Research Tower
 工業
 buil14.agf
 f014aa.agf
@@ -591,10 +591,10 @@ f014cb.agf
 *
 *
 *
-色々な研究を行う場所。|怪しげな研究も行われたりしてい|る。
-毎ターン資源を消費し、僅かに住民増加させる。|ダークス宮の罠効率がＵＰ。
+Conducts all manner of research, scrupulous and shady.
+Each turn: Consumes resources and increases citizens|Increases dungeon trap efficiency
 //entry 17 -----------------------
-商店
+Store
 商業
 buil15.agf
 f015aa.agf
@@ -626,10 +626,10 @@ f015ca.agf
 *
 *
 *
-商品の物販を主に行う場所。|別にここでしか商売しちゃ駄目って事は無い。
-毎ターン、資金が得られる。|ダークス宮に設置される宝箱が厳重になり、その評判から侵入してくる冒険者が減る。
+There's nothing wrong with a few businesses on the side.
+Each turn: Gathers money|Improves dungeon treasure chests
 //entry 18 -----------------------
-娯楽店
+Entertainment Center
 商業
 buil16.agf
 f016aa.agf
@@ -661,10 +661,10 @@ f016ca.agf
 *
 資金|住民/2
 *
-娯楽の提供を主としたお店。|カジノや遊戯場、劇場など。
-毎ターン、資金が得られる。|ダークス宮に設置される宝箱が厳重になり、その評判から侵入してくる冒険者が減る。
+Acts as a casino, fairground, theater, and more!
+Each turn: Gather money|Improves dungeon treasure chests
 //entry 19 -----------------------
-Ｈな娯楽店
+Red Light District
 商業
 buil17.agf
 f017aa.agf
@@ -696,10 +696,10 @@ f017ca.agf
 *
 資金|住民/2
 *
-大人の娯楽を提供してくれるお店。子供は近づいてはいけない。
-毎ターン、資金が得られる。|ダークス宮に設置される宝箱が厳重になり、その評判から侵入してくる冒険者が減る。
+For adult entertainment. Children categorically not allowed.
+Each turn: Gather money|Improves dungeon treasure chests
 //entry 20 -----------------------
-スタジアム
+Stadium
 商業
 buil18.agf
 f018aa.agf
@@ -731,10 +731,10 @@ f018aa.agf
 *
 *
 *
-スポーツを行う場所。|ただの広場な感じもするが……気にしてはいけない。
-ダークス宮の守備魔物が増える。|ダークス宮への侵入者が増える。
+It isn't just an empty field, though it does seem like it.
+Increases dungeon defense
 //entry 21 -----------------------
-プール
+Pool
 商業
 buil19.agf
 f019aa.agf
@@ -766,10 +766,10 @@ f019aa.agf
 *
 *
 *
-遊泳施設。|水泳の練習場所。
-ダークス宮の守備魔物が増える。|ダークス宮への侵入者が増える。
+A place to learn how to swim.
+Increases dungeon defense
 //entry 22 -----------------------
-酒造店
+Brewery
 商業
 buil20.agf
 f020aa.agf
@@ -801,10 +801,10 @@ f020ab.agf
 *
 *
 *
-お酒を造る事に特化したお店。|造るの専門で、小売販売はしていないらしい。
-ダークス宮の守備魔物が増える。|ダークス宮への侵入者が増える。
+A professional liquor-maker, not for wholesale.
+Increases dungeon defense
 //entry 23 -----------------------
-大衆浴場
+Bathhouse
 環境
 buil21.agf
 f021aa.agf
@@ -836,10 +836,10 @@ f021ab.agf
 *
 *
 *
-入浴施設。|清潔さを保つ事は非常に大事。
-毎ターン、僅かに住民増加する。|毎ターン、資金が得られる。
+Cleanliness is next to godliness.
+Each turn: Increase citizens|Each turn: Gather money
 //entry 24 -----------------------
-温泉
+Hot Spring
 環境
 buil22.agf
 f022aa.agf
@@ -871,10 +871,10 @@ f022ab.agf
 *
 *
 *
-掘っても温水は出て来ないので、温水は他所よりの輸送。
-毎ターン、僅かに住民増加する。|毎ターン、資金が得られる。|ダークス宮に侵入してくる冒険者が減る。
+The hot water comes from somewhere else. You can't just dig it up.
+Each turn: Increase citizens|Each turn: Gather money
 //entry 25 -----------------------
-公園
+Park
 環境
 buil23.agf
 f023aa.agf
@@ -906,10 +906,10 @@ f023ab.agf
 *
 *
 *
-憩いの場所。
-ダークス宮の守備魔物が少し増えるかも。
+A place to put your mind at ease.
+Increase dungeon defense
 //entry 26 -----------------------
-森
+Forest
 環境
 buil24.agf
 f024aa.agf
@@ -941,10 +941,10 @@ f024aa.agf
 *
 *
 *
-樹木が一定の密度で存在する場所。|林との区別が意外と難しい。
-ダークス宮の守備魔物が少し増えるかも。
+Can be surprisingly difficult to distinguish between this and a natural forest.
+Increase defense
 //entry 27 -----------------------
-池
+Pond
 環境
 buil25.agf
 f025aa.agf
@@ -976,10 +976,10 @@ f025aa.agf
 *
 *
 *
-ある程度の水が蓄えられた場所。|一部の種族が良く集まっている。
-ダークス宮の守備魔物が少し増えるかも。
+Somewhere to keep water. Certain races tend to gather here.
+Inc defense
 //entry 28 -----------------------
-学園
+School
 学園
 buil27.agf
 f027aa.agf
@@ -1011,10 +1011,10 @@ f027aa.agf
 住民
 *
 *
-フォーゼロッテ宮にあるフォーゼロッテ学園の分園。
-毎ターン、住民増加。|ダークス宮の守備魔物が増える。
+A branch of Forzelotte Academy.
+Each turn: increase citizens|Increases dungeon defense
 //entry 29 -----------------------
-学園寮
+Dormitory
 学園
 buil28.agf
 f028aa.agf
@@ -1046,5 +1046,5 @@ f028aa.agf
 住民
 *
 *
-学園生徒の為の住居。
-ダークス宮の守備魔物が増える。
+Healthy living for healthy minds.
+Increases dungeon defense
