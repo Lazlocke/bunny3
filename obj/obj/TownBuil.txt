@@ -69,7 +69,7 @@ f026aa.agf
 There's nothing here!
 No effect
 //entry 2 -----------------------
-Overlord's Retreat
+OL's Retreat
 行政
 buil00.agf
 f000aa.agf
@@ -209,7 +209,7 @@ f003ca.agf
 The very minimum that can be called a place to live.
 Increases maximum citizens|Increases dungeon defense
 //entry 6 -----------------------
-Luxury Housing
+L Housing
 住居
 buil04.agf
 f004aa.agf
@@ -279,7 +279,7 @@ f005ca.agf
 For the rich to live in, and the poor to aspire to.
 Increases maximum citizens|Increases dungeon defense
 //entry 8 -----------------------
-Giant Housing
+G Housing
 住居
 buil06.agf
 f006aa.agf
@@ -314,7 +314,7 @@ f006ca.agf
 Housing on a completely different scale. Literally.
 Increases maximum citizens|Increases dungeon defense
 //entry 9 -----------------------
-Unusual Housing
+Odd Housing
 住居
 buil07.agf
 f007aa.agf
@@ -559,7 +559,7 @@ f013cb.agf
 Creates all manner of things needed for civilized living.
 Each turn: Consumes resources and increases citizens|Increases dungeon trap efficiency
 //entry 16 -----------------------
-Research Tower
+Research Lab
 工業
 buil14.agf
 f014aa.agf
@@ -629,7 +629,7 @@ f015ca.agf
 There's nothing wrong with a few businesses on the side.
 Each turn: Gathers money|Improves dungeon treasure chests
 //entry 18 -----------------------
-Entertainment Center
+E Center
 商業
 buil16.agf
 f016aa.agf
@@ -664,7 +664,7 @@ f016ca.agf
 Acts as a casino, fairground, theater, and more!
 Each turn: Gather money|Improves dungeon treasure chests
 //entry 19 -----------------------
-Red Light District
+RL District
 商業
 buil17.agf
 f017aa.agf

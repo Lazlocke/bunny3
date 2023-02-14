@@ -106,7 +106,7 @@
 :164E
 \x78
 :164F
-\xF5 "Overlord's Retreat"  1 
+\xF5 "OL's Retreat"  1 
 <music 11>
 <background "bg008a1.agf" 10>
 <sprite "ta01a005.agf" 4 4 11>

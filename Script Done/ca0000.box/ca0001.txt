@@ -1,4 +1,4 @@
-﻿\xF3 "Cleared Land"  0  0  0 \x02\x02\x8A 0 \xF3 "Overlord's Retreat"  0  0  0 \x02\x02\x8B 0 \xF3 "Garrison"  0  0  0 \x02\x02\x8C 0 \xF3 "Clinic"  0  0  0 \x02\x02\x8D 0 \xF3 "Housing"  0  0  0 \x02\x02\x8E 0 \xF3 "Luxury Housing"  0  0  0 \x02\x02\x8F 0 \xF3 "Manor"  0  0  0 \x02\x02\x90 0 \xF3 "Giant Housing"  0  0  0 \x02\x02\x91 0 \xF3 "Unusual Housing"  0  0  0 \x02\x02\x92 0 \xF3 "Field"  0  0  0 \x02\x02\x93 0 \xF3 "Ranch"  0  0  0 \x02\x02\x94 0 \xF3 "Orchard"  0  0  0 \x02\x02\x95 0 \xF3 "Mine"  0  0  0 \x02\x02\x96 0 \xF3 "Storehouse"  0  0  0 \x02\x02\x97 0 \xF3 "Workshop"  0  0  0 \x02\x02\x98 0 \xF3 "Research Tower"  0  0  0 \x02\x02\x99 0 \xF3 "Store"  0  0  0 \x02\x02\x9A 0 \xF3 "Entertainment Center"  0  0  0 \x02\x02\x9B 0 \xF3 "Red Light District"  0  0  0 \x02\x02\x9C 0 \xF3 "Stadium"  0  0  0 \x02\x02\x9D 0 \xF3 "Pool"  0  0  0 \x02\x02\x9E 0 \xF3 "Brewery"  0  0  0 \x02\x02\x9F 0 \xF3 "Bathhouse"  0  0  0 \x02\x02\xA0 0 \xF3 "Hot Spring"  0  0  0 \x02\x02\xA1 0 \xF3 "Park"  0  0  0 \x02\x02\xA2 0 \xF3 "Forest"  0  0  0 \x02\x02\xA3 0 \xF3 "Pond"  0  0  0 \x02\x02\xA4 0 \xF3 "School"  0  0  0 \x02\x02\xA5 0 \xF3 "Dormitory"  0  0  0 \x02\x02\xA6 0 \x1A\x01\x0A\x46\x00\x31\x00\x33\x00\x31\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :3FE: \x1A\x01\x09\x46\x00\x31\x00\x33\x00\x31\x00\x33\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :3FE: \x1A\x01\x0A\x43\x00\x36\x00\x35\x00\x32\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x09\x00 :3FE: \x0A\x04
+﻿\xF3 "Cleared Land"  0  0  0 \x02\x02\x8A 0 \xF3 "OL's Retreat"  0  0  0 \x02\x02\x8B 0 \xF3 "Garrison"  0  0  0 \x02\x02\x8C 0 \xF3 "Clinic"  0  0  0 \x02\x02\x8D 0 \xF3 "Housing"  0  0  0 \x02\x02\x8E 0 \xF3 "L Housing"  0  0  0 \x02\x02\x8F 0 \xF3 "Manor"  0  0  0 \x02\x02\x90 0 \xF3 "G Housing"  0  0  0 \x02\x02\x91 0 \xF3 "Odd Housing"  0  0  0 \x02\x02\x92 0 \xF3 "Field"  0  0  0 \x02\x02\x93 0 \xF3 "Ranch"  0  0  0 \x02\x02\x94 0 \xF3 "Orchard"  0  0  0 \x02\x02\x95 0 \xF3 "Mine"  0  0  0 \x02\x02\x96 0 \xF3 "Storehouse"  0  0  0 \x02\x02\x97 0 \xF3 "Workshop"  0  0  0 \x02\x02\x98 0 \xF3 "Research Lab"  0  0  0 \x02\x02\x99 0 \xF3 "Store"  0  0  0 \x02\x02\x9A 0 \xF3 "E Center"  0  0  0 \x02\x02\x9B 0 \xF3 "RL District"  0  0  0 \x02\x02\x9C 0 \xF3 "Stadium"  0  0  0 \x02\x02\x9D 0 \xF3 "Pool"  0  0  0 \x02\x02\x9E 0 \xF3 "Brewery"  0  0  0 \x02\x02\x9F 0 \xF3 "Bathhouse"  0  0  0 \x02\x02\xA0 0 \xF3 "Hot Spring"  0  0  0 \x02\x02\xA1 0 \xF3 "Park"  0  0  0 \x02\x02\xA2 0 \xF3 "Forest"  0  0  0 \x02\x02\xA3 0 \xF3 "Pond"  0  0  0 \x02\x02\xA4 0 \xF3 "School"  0  0  0 \x02\x02\xA5 0 \xF3 "Dormitory"  0  0  0 \x02\x02\xA6 0 \x1A\x01\x0A\x46\x00\x31\x00\x33\x00\x31\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :3FE: \x1A\x01\x09\x46\x00\x31\x00\x33\x00\x31\x00\x33\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :3FE: \x1A\x01\x0A\x43\x00\x36\x00\x35\x00\x32\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x09\x00 :3FE: \x0A\x04
 #
 \x22\x84\x01\x16 :5035: \x15 :38D8: 
 :3FE
@@ -655,7 +655,7 @@
 #
 \x18\x84\x01\x16 :3FF6: \x15 :38D8: 
 :359E
-\x1A\x01\x0A\x46\x00\x31\x00\x34\x00\x37\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :362A: \x1A\x01\x0D\x43\x00\x32\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x30\x00\x30\x00\x09\x00 :362A: \xF3 "Entertainment Center" \x22\x00\x00 0  0  0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :362A: \x0A\x04
+\x1A\x01\x0A\x46\x00\x31\x00\x34\x00\x37\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :362A: \x1A\x01\x0D\x43\x00\x32\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00\x30\x00\x30\x00\x30\x00\x09\x00 :362A: \xF3 "E Center" \x22\x00\x00 0  0  0  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x30\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :362A: \x0A\x04
 #
 \xBF\x84\x01\x16 :1FA09: \x15 :38D8: 
 :362A
@@ -717,7 +717,7 @@
 #
 \x20\x84\x01\x16 :4C72: \x15 :38D8: 
 :3AB5
-\x2B\xF5 "Overlord's Retreat"  1 
+\x2B\xF5 "OL's Retreat"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Hungry Citizen" "!ZD0056">
@@ -739,7 +739,7 @@
 #
 <exit>
 :3C23
-\x2B\xF5 "Overlord's Retreat"  1 
+\x2B\xF5 "OL's Retreat"  1 
 <music 4>
 <background "bg009a0.agf" 10>
 <name "New Citizen" "!UA0071">
@@ -773,7 +773,7 @@
 <removesprite -1 11>
 <exit>
 :3EA7
-\x2B\xF5 "Overlord's Retreat"  1 
+\x2B\xF5 "OL's Retreat"  1 
 <music 11>
 <background "bg008a0.agf" 10>
 <name "Sky Gazing Citizen" "!ZD0059">
@@ -793,7 +793,7 @@
 #
 <exit>
 :3FF6
-\x2B\xF5 "Overlord's Retreat"  1 
+\x2B\xF5 "OL's Retreat"  1 
 <music 4>
 <background "bg009a0.agf" 10>
 <name "Merchant Citizen" "!SB0199">
@@ -1682,7 +1682,7 @@
 <removesprite -1 11>
 <exit>
 :8286
-\x2B\xF5 "Luxury Housing"  1 
+\x2B\xF5 "L Housing"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Luxurious Wife" "!RB0153">
@@ -1700,7 +1700,7 @@
 #
 <exit>
 :83F7
-\x2B\xF5 "Luxury Housing"  1 
+\x2B\xF5 "L Housing"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Hard Working Citizen" "!ZD0075">
@@ -1715,7 +1715,7 @@
 #
 <exit>
 :8506
-\x2B\xF5 "Luxury Housing"  1 
+\x2B\xF5 "L Housing"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Hard Working Citizen" "!ZF0070">
@@ -1742,7 +1742,7 @@
 #
 <exit>
 :871A
-\x2B\xF5 "Luxury Housing"  1 
+\x2B\xF5 "L Housing"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Hard Working Citizen" "!ZH0056">
@@ -1765,7 +1765,7 @@
 <removesprite -1 11>
 <exit>
 :88E1
-\x2B\xF5 "Luxury Housing"  1 
+\x2B\xF5 "L Housing"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Anxious Citizen" "!MB0058">
@@ -2049,7 +2049,7 @@
 <removesprite -1 11>
 <exit>
 :9F81
-\x2B\xF5 "Giant Housing"  1 
+\x2B\xF5 "G Housing"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Visiting Citizen" "!ZH0064">
@@ -2064,7 +2064,7 @@
 #
 <exit>
 :A07D
-\x2B\xF5 "Giant Housing"  1 
+\x2B\xF5 "G Housing"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Giant Citizen" "!MB0061">
@@ -2103,7 +2103,7 @@
 <removesprite -1 11>
 <exit>
 :A3C0
-\x2B\xF5 "Giant Housing"  1 
+\x2B\xF5 "G Housing"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Giant Citizen" "!KB0191">
@@ -2118,7 +2118,7 @@
 #
 <exit>
 :A4D2
-\x2B\xF5 "Giant Housing"  1 
+\x2B\xF5 "G Housing"  1 
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta34a001.agf" 4 4 11>
@@ -2154,7 +2154,7 @@
 <removesprite -1 11>
 <exit>
 :A722
-\x2B\xF5 "Unusual Housing"  1 
+\x2B\xF5 "Odd Housing"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Animal Citizen" "!HC0117">
@@ -2178,7 +2178,7 @@
 <removesprite -1 11>
 <exit>
 :A8D0
-\x2B\xF5 "Unusual Housing"  1 
+\x2B\xF5 "Odd Housing"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Delivery Citizen" "!ZH0066">
@@ -2202,7 +2202,7 @@
 <removesprite -1 11>
 <exit>
 :AABC
-\x2B\xF5 "Unusual Housing"  1 
+\x2B\xF5 "Odd Housing"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Exploring Citizen" "!RB0158">
@@ -2225,7 +2225,7 @@
 #
 <exit>
 :AC77
-\x2B\xF5 "Unusual Housing"  1 
+\x2B\xF5 "Odd Housing"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Honest Citizen" "!LB0153">
@@ -3159,7 +3159,7 @@ So, even demons are scared of bees, huh?
 #
 <exit>
 :F084
-\x2B\xF5 "Research Tower"  1 
+\x2B\xF5 "Research Lab"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Researcher" "!MB0073">
@@ -3233,7 +3233,7 @@ So, even demons are scared of bees, huh?
 #
 <exit>
 :F6D3
-\x2B\xF5 "Research Tower"  1 
+\x2B\xF5 "Research Lab"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Studying Citizen" "!GB0185">
@@ -3300,7 +3300,7 @@ So, even demons are scared of bees, huh?
 #
 <exit>
 :FC66
-\x2B\xF5 "Research Tower"  1 
+\x2B\xF5 "Research Lab"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Visiting Citizen" "!UA0113">
@@ -3335,7 +3335,7 @@ So, even demons are scared of bees, huh?
 #
 <exit>
 :FF5D
-\x2B\xF5 "Research Tower"  1 
+\x2B\xF5 "Research Lab"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Researcher" "!ZE0142">
@@ -3376,7 +3376,7 @@ laboratories.
 #
 <exit>
 :1026B
-\x2B\xF5 "Research Tower"  1 
+\x2B\xF5 "Research Lab"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Researcher" "!ZD0090">
@@ -3420,7 +3420,7 @@ The laboratories were noisy once again.
 #
 <exit>
 :1058D
-\x2B\xF5 "Research Tower"  1 
+\x2B\xF5 "Research Lab"  1 
 <music 10>
 <background "ev003a00.agf" 10>
 <name "Merchant Maid" "!AC0249">
@@ -3459,7 +3459,7 @@ The laboratories were noisy once again.
 #
 <exit>
 :1082D
-\x2B\xF5 "Research Tower"  1 
+\x2B\xF5 "Research Lab"  1 
 <music 10>
 <background "ev003a00.agf" 10>
 <name "Merchant Maid" "!AC0252">
@@ -3491,7 +3491,7 @@ The laboratories were noisy once again.
 #
 <exit>
 :10A41
-\x2B\xF5 "Research Tower"  1 
+\x2B\xF5 "Research Lab"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Talking Researcher" "!ZD0096">
@@ -3546,7 +3546,7 @@ The laboratories were noisy once again.
 #
 <exit>
 :10EC8
-\x2B\xF5 "Research Tower"  1 
+\x2B\xF5 "Research Lab"  1 
 <music 3>
 <background "bg010a0.agf" 10>
 <name "Serious Researcher" "!ZD0102">
@@ -3590,7 +3590,7 @@ The laboratories were noisy once again.
 #
 <exit>
 :11243
-\x2B\xF5 "Research Tower"  1 
+\x2B\xF5 "Research Lab"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Head Researcher" "!SB0226">
@@ -3620,7 +3620,7 @@ The laboratories were noisy once again.
 #
 <exit>
 :114A8
-\x2B\xF5 "Research Tower"  1 
+\x2B\xF5 "Research Lab"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Honest Researcher" "!SB0228">
@@ -4272,7 +4272,7 @@ losing customers.
 #
 <exit>
 :14747
-\x2B\xF5 "Entertainment Center"  1 
+\x2B\xF5 "E Center"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Cheerful Citizen" "!ZF0111">
@@ -4304,7 +4304,7 @@ It's popular with the adults too.
 #
 <exit>
 :14989
-\x2B\xF5 "Entertainment Center"  1 
+\x2B\xF5 "E Center"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Concerned Citizen" "!HC0160">
@@ -4340,7 +4340,7 @@ It's popular with the adults too.
 #
 <exit>
 :14CFC
-\x2B\xF5 "Entertainment Center"  1 
+\x2B\xF5 "E Center"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Concerned Citizen" "!HC0164">
@@ -4360,7 +4360,7 @@ It's popular with the adults too.
 #
 <exit>
 :14E72
-\x2B\xF5 "Entertainment Center"  1 
+\x2B\xF5 "E Center"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Troubled Citizen" "!HC0165">
@@ -4382,7 +4382,7 @@ It's popular with the adults too.
 #
 <exit>
 :14FFA
-\x2B\xF5 "Entertainment Center"  1 
+\x2B\xF5 "E Center"  1 
 <music 3>
 <background "bg010a0.agf" 10>
 <name "Darx">
@@ -4416,7 +4416,7 @@ It's popular with the adults too.
 #
 <exit>
 :15225
-\x2B\xF5 "Entertainment Center"  1 
+\x2B\xF5 "E Center"  1 
 <music 11>
 <background "bg010a0.agf" 10>
 <sprite "ta34a002.agf" 4 4 11>
@@ -4449,7 +4449,7 @@ It's popular with the adults too.
 <removesprite -1 11>
 <exit>
 :1546F
-\x2B\xF5 "Entertainment Center"  1 
+\x2B\xF5 "E Center"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Darx">
@@ -4471,7 +4471,7 @@ It's popular with the adults too.
 <removesprite -1 11>
 <exit>
 :155FE
-\x2B\xF5 "Entertainment Center"  1 
+\x2B\xF5 "E Center"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Theatrical Citizen" "!QB0171">
@@ -4486,7 +4486,7 @@ It's popular with the adults too.
 #
 <exit>
 :15717
-\x2B\xF5 "Entertainment Center"  1 
+\x2B\xF5 "E Center"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Theatrical Citizen" "!TC0169">
@@ -4501,7 +4501,7 @@ It's popular with the adults too.
 #
 <exit>
 :1581E
-\x2B\xF5 "Entertainment Center"  1 
+\x2B\xF5 "E Center"  1 
 <music 11>
 <background "bg013a0.agf" 10>
 <name "Theatrical Citizen" "!WB0180">
@@ -4521,7 +4521,7 @@ The audience is becoming more discerning.
 #
 <exit>
 :159AA
-\x2B\xF5 "Entertainment Center"  1 
+\x2B\xF5 "E Center"  1 
 <music 13>
 <background "ev004a00.agf" 10>
 <name "Sofia" "!ZB0900">
@@ -4559,7 +4559,7 @@ The casino seems to be doing well.
 #
 <exit>
 :15C77
-\x2B\xF5 "Entertainment Center"  1 
+\x2B\xF5 "E Center"  1 
 <music 4>
 <background "bg009a0.agf" 10>
 <sprite "ta34a000.agf" 4 4 11>
@@ -4598,7 +4598,7 @@ The casino seems to be doing well.
 #
 <exit>
 :15FDD
-\x2B\xF5 "Entertainment Center"  1 
+\x2B\xF5 "E Center"  1 
 <music 13>
 <background "ev004a00.agf" 10>
 <name "Merchant Maid" "!PC0418">
@@ -4647,7 +4647,7 @@ The casino seems to be doing well.
 #
 <exit>
 :1639E
-\x2B\xF5 "Entertainment Center"  1 
+\x2B\xF5 "E Center"  1 
 <music 13>
 <background "ev004a00.agf" 10>
 <name "Merchant Maid" "!AC0330">
@@ -4659,7 +4659,7 @@ The casino seems to be doing well.
 #
 <exit>
 :1644C
-\x2B\xF5 "Entertainment Center"  1 
+\x2B\xF5 "E Center"  1 
 <music 13>
 <background "ev004a00.agf" 10>
 <name "Darx">
@@ -4671,7 +4671,7 @@ The casino seems to be doing well.
 #
 <exit>
 :164FE
-\x2B\xF5 "Entertainment Center"  1 
+\x2B\xF5 "E Center"  1 
 <music 13>
 <background "ev004a00.agf" 10>
 <name "Confident Citizen" "!ZD0106">
@@ -4697,7 +4697,7 @@ The casino seems to be doing well.
 #
 <exit>
 :166EA
-\x2B\xF5 "Entertainment Center"  1 
+\x2B\xF5 "E Center"  1 
 <music 13>
 <background "ev004a00.agf" 10>
 <name "Darx">
@@ -4710,7 +4710,7 @@ The casino seems to be doing well.
 #
 <exit>
 :16799
-\x2B\xF5 "Entertainment Center"  1 
+\x2B\xF5 "E Center"  1 
 <music 13>
 <background "ev004a00.agf" 10>
 <name "Dealer Maid" "!PC0421">
@@ -4737,7 +4737,7 @@ The casino seems to be doing well.
 #
 <exit>
 :169B7
-\x2B\xF5 "Entertainment Center"  1 
+\x2B\xF5 "E Center"  1 
 <music 13>
 <background "ev004a00.agf" 10>
 <name "Manager Maid" "!AC0336">
@@ -4777,7 +4777,7 @@ The casino seems to be doing well.
 #
 <exit>
 :16CC7
-\x2B\xF5 "Entertainment Center"  1 
+\x2B\xF5 "E Center"  1 
 <music 13>
 <background "ev004a00.agf" 10>
 <name "Entertained Angel" "!WB0182">
@@ -4829,7 +4829,7 @@ The casino seems to be doing well.
 #
 <exit>
 :170D6
-\x2B\xF5 "Red Light District"  1 
+\x2B\xF5 "RL District"  1 
 <music 10>
 <background "ev003a00.agf" 10>
 <name "Office Maid" "!DC0310">
@@ -4852,7 +4852,7 @@ The casino seems to be doing well.
 #
 <exit>
 :17273
-\x2B\xF5 "Red Light District"  1 
+\x2B\xF5 "RL District"  1 
 <music 10>
 <background "ev003a00.agf" 10>
 <name "Office Maid" "!DC0312">
@@ -4876,7 +4876,7 @@ The casino seems to be doing well.
 #
 <exit>
 :17445
-\x2B\xF5 "Red Light District"  1 
+\x2B\xF5 "RL District"  1 
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta34a000.agf" 4 4 11>
@@ -4907,7 +4907,7 @@ The casino seems to be doing well.
 <removesprite -1 11>
 <exit>
 :1761E
-\x2B\xF5 "Red Light District"  1 
+\x2B\xF5 "RL District"  1 
 <music 11>
 <background "bg008a0.agf" 10>
 <name "Nonchalant Guard" "!WB0189">
@@ -6618,7 +6618,7 @@ Fish from all over the pond gather.
 #
 <exit>
 :1F74E
-\x2B\xF5 "Overlord's Retreat"  1 
+\x2B\xF5 "OL's Retreat"  1 
 <music 4>
 <background "bg009a0.agf" 10>
 <name "Darx">
@@ -6656,7 +6656,7 @@ Anyway, I went around the city.
 #
 <exit>
 :1FA09
-\x2B\xF5 "Overlord's Retreat"  1 
+\x2B\xF5 "OL's Retreat"  1 
 <music 10>
 <background "ev003a00.agf" 10>
 <name "Merchant Maid" "!DC0185">
@@ -6699,7 +6699,7 @@ Anyway, I went around the city.
 #
 <exit>
 :1FD0D
-\x2B\xF5 "Overlord's Retreat"  1 
+\x2B\xF5 "OL's Retreat"  1 
 <music 4>
 <background "bg009a0.agf" 10>
 <name "Office Maid" "!DC0191" "ka34e000.agf">
@@ -6747,7 +6747,7 @@ The citizens were unhappy.
 #
 <exit>
 :20164
-\x2B\xF5 "Overlord's Retreat"  1 
+\x2B\xF5 "OL's Retreat"  1 
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta08a004.agf" 4 4 11>
@@ -6782,7 +6782,7 @@ The citizens were unhappy.
 <removesprite -1 11>
 <exit>
 :20423
-\x2B\xF5 "Overlord's Retreat"  1 
+\x2B\xF5 "OL's Retreat"  1 
 <music 4>
 <background "bg009a0.agf" 10>
 <sprite "ta01a016.agf" 4 4 11>
@@ -6888,7 +6888,7 @@ was enjoyed by the whole city.
 #
 <exit>
 :20CFD
-\x2B\xF5 "Overlord's Retreat"  1 
+\x2B\xF5 "OL's Retreat"  1 
 <music 4>
 <background "bg009a0.agf" 10>
 <sprite "ta01a005.agf" 4 4 11>
@@ -6936,7 +6936,7 @@ was enjoyed by the whole city.
 #
 <exit>
 :21200
-\x2B\xF5 "Overlord's Retreat"  1 
+\x2B\xF5 "OL's Retreat"  1 
 <music 4>
 <background "bg009a0.agf" 10>
 <sprite "ta34a001.agf" 4 4 11>
