@@ -13,7 +13,7 @@ Darx's Sword
 *
 ダークス私物
 +20% Slashing Skills
-Darx's favorite sword from his adventuring days.|It's very worn, so it's not worth much.
+Darx's favorite sword from his|adventuring days.|It's very worn, so it's not worth|much.
 //entry 1 -----------------------
 Sword
 剣
@@ -29,7 +29,7 @@ Sword
 *
 落物00|武器Ａ|全部Ａ
 +3% Slashing Skills
-A generic, mass-produced weapon, so it isn't that sharp.
+A generic, mass-produced weapon,|so it isn't that sharp.
 //entry 2 -----------------------
 Quality Sword
 剣
@@ -45,7 +45,7 @@ Quality Sword
 *
 落物00|武器Ａ|全部Ａ
 +3% Slashing Skills
-Mass-produced, but good quality.|Still won't match up to a custom forged blade.
+Mass-produced, but good quality.|Still won't match up to a custom|forged blade.
 //entry 3 -----------------------
 Sharp Sword
 剣
@@ -61,7 +61,7 @@ Sharp Sword
 *
 落物00|武器Ａ|全部Ａ
 +5% Slashing Skills
-A carefully forged blade.|Much better than a generic weapon.
+A carefully forged blade.|Much better than a generic|weapon.
 //entry 4 -----------------------
 Sword - Rouge
 剣
@@ -77,7 +77,7 @@ Sword - Rouge
 *
 落物01|武器Ａ|全部Ａ
 +7% Slashing Skills
-It was thought to be named after its wielder, but Rouge is actually the forger.
+It was thought to be named after|its wielder, but Rouge is|actually the forger.
 //entry 5 -----------------------
 Sword - Orga
 剣
@@ -93,7 +93,7 @@ Sword - Orga
 *
 落物01|武器Ａ|全部Ａ
 +9% Slashing Skills
-Forged by the Orga workshop.|There are actually a lot of these.
+Forged by the Orga workshop.|There are actually a lot of|these.
 //entry 6 -----------------------
 Glittering Sword
 剣
@@ -109,7 +109,7 @@ Glittering Sword
 *
 落物01|武器Ａ|全部Ａ
 +11% Slashing Skills
-Glows in the dark, which can be annoying.|Quite powerful.
+Glows in the dark, which can be|annoying.|Quite powerful.
 //entry 7 -----------------------
 Dark Quickening Sword
 剣
@@ -125,7 +125,7 @@ Dark Quickening Sword
 *
 落物01|武器Ａ|全部Ａ
 +12% Slashing Skills
-Not many like to use it because it's really creepy at night.
+Not many like to use it because|it's really creepy at night.
 //entry 8 -----------------------
 Sword - Harutsuki
 剣
@@ -141,7 +141,7 @@ Sword - Harutsuki
 *
 落物01|武器Ａ|全部Ａ
 +13% Slashing Skills
-Forged by a famous smith.|Named for being forged in the spring.
+Forged by a famous smith.|Named for being forged in the|spring.
 //entry 9 -----------------------
 Sword - Natsutsuki
 剣
@@ -157,7 +157,7 @@ Sword - Natsutsuki
 *
 落物02|武器Ａ|全部Ａ
 +14% Slashing Skills
-Forged by a famous smith.|Named for being forged in the summer.
+Forged by a famous smith.|Named for being forged in the|summer.
 //entry 10 -----------------------
 Sword - Akitsuki
 剣
@@ -173,7 +173,7 @@ Sword - Akitsuki
 *
 落物02|武器Ａ|全部Ａ
 +15% Slashing Skills
-Forged by a famous smith.|Named for being forged in the autumn.
+Forged by a famous smith.|Named for being forged in the|autumn.
 //entry 11 -----------------------
 Sword - Fuyutsuki
 剣
@@ -189,7 +189,7 @@ Sword - Fuyutsuki
 *
 落物02|武器Ａ|全部Ａ
 +16% Slashing Skills
-Forged by a famous smith.|Named for being forged in the winter.
+Forged by a famous smith.|Named for being forged in the|winter.
 //entry 12 -----------------------
 Sword - Ohta
 剣
@@ -205,7 +205,7 @@ Sword - Ohta
 *
 落物02|武器Ａ|全部Ａ
 +17% Slashing Skills
-Forged by a famous smith.|Said to have been wielded by a warlord of the east.
+Forged by a famous smith.|Said to have been wielded by a|warlord of the east.
 //entry 13 -----------------------
 Sword - Houjou
 剣
@@ -221,7 +221,7 @@ Sword - Houjou
 *
 落物02|武器Ａ|全部Ａ
 +18% Slashing Skills
-Forged by a famous smith.|Said to be the guardian weapon of a family of warlords from the east.
+Forged by a famous smith.|Said to be the guardian weapon of|a family of warlords from the|east.
 //entry 14 -----------------------
 Sword - Alest
 剣
@@ -237,7 +237,7 @@ Sword - Alest
 *
 落物03|武器Ａ|全部Ａ
 +19% Slashing Skills
-A very valuable sword from the Netherworld.
+A very valuable sword from the|Netherworld.
 //entry 15 -----------------------
 Sword - Azarin
 剣
@@ -253,7 +253,7 @@ Sword - Azarin
 *
 落物03|武器Ａ|全部Ａ
 +21% Slashing Skills
-A famed Netherworld sword.|Said to have belonged to an ancient Overlord.
+A famed Netherworld sword.|Said to have belonged to an|ancient Overlord.
 //entry 16 -----------------------
 King's Blade
 剣
@@ -269,7 +269,7 @@ King's Blade
 *
 宝箱Ｅ|武器Ａ|全部Ａ
 +23% Slashing Skills
-A sword befitting a king.|It's highly decorated, but extremely practical.
+A sword befitting a king.|It's highly decorated, but|extremely practical.
 //entry 17 -----------------------
 Sacred Sword
 剣
@@ -285,7 +285,7 @@ Sacred Sword
 *
 宝箱Ｅ|武器Ａ|全部Ａ
 +25% Slashing Skills
-Purified and blessed by the church.|Works well against both demons and angels.
+Purified and blessed by the|church.|Works well against both demons|and angels.
 //entry 18 -----------------------
 Meteor Blade
 剣
@@ -317,7 +317,7 @@ Gloves
 *
 落物00|武器Ａ|全部Ａ
 +3% Striking Skills
-Slightly better than bare hands.
+Slightly better than bare|hands.
 //entry 20 -----------------------
 Brass Knuckles
 ナックル
@@ -349,7 +349,7 @@ Iron Knuckles
 *
 落物00|武器Ａ|全部Ａ
 +7% Striking Skills
-Gauntlets that fit snugly around the fists.
+Gauntlets that fit snugly around|the fists.
 //entry 22 -----------------------
 Power Knuckles
 ナックル
@@ -365,7 +365,7 @@ Power Knuckles
 *
 落物00|武器Ａ|全部Ａ
 +9% Striking Skills
-Spikes on the fingers for extra power.
+Spikes on the fingers for extra|power.
 //entry 23 -----------------------
 Pugilist Knuckles
 ナックル
@@ -381,7 +381,7 @@ Pugilist Knuckles
 *
 落物01|武器Ａ|全部Ａ
 +11% Striking Skills
-Supposedly easy to hit with because they're light, but actually depends on the user's skill.
+Supposedly easy to hit with|because they're light, but|actually depends on the user's|skill.
 //entry 24 -----------------------
 Heavy Knuckles
 ナックル
@@ -397,7 +397,7 @@ Heavy Knuckles
 *
 落物01|武器Ａ|全部Ａ
 +13% Striking Skills
-Made stronger just by being very, very heavy.
+Made stronger just by being|very, very heavy.
 //entry 25 -----------------------
 Rampage Knuckles
 ナックル
@@ -429,7 +429,7 @@ Raging Bull Knuckles
 *
 落物02|武器Ａ|全部Ａ
 +17% Striking Skills
-Named because bulls are strong.|Not a lot of thought went into it.
+Named because bulls are strong.|Not a lot of thought went into|it.
 //entry 27 -----------------------
 Ferocious Bear Knuckles
 ナックル
@@ -445,7 +445,7 @@ Ferocious Bear Knuckles
 *
 落物03|武器Ａ|全部Ａ
 +19% Striking Skills
-Just named this way to sound stronger than a rampaging bull.
+Just named this way to sound|stronger than a rampaging bull.
 //entry 28 -----------------------
 Steel Fist
 ナックル
@@ -493,7 +493,7 @@ Applewood Bow
 *
 落物00|武器Ａ|全部Ａ
 +5% Ranged Skills
-Used by an old hero to shoot an apple off someone's head.|Actually though, it's mass-produced.
+Used by an old hero to shoot an|apple off someone's head.|Actually though, it's|mass-produced.
 //entry 31 -----------------------
 Lion Bow
 弓
@@ -525,7 +525,7 @@ Bow - Bowman
 *
 落物01|武器Ａ|全部Ａ
 +9% Ranged Skills
-A bow made by someone named Bowman.|Apparently it's a brand name.
+A bow made by someone named|Bowman.|Apparently it's a brand name.
 //entry 33 -----------------------
 Bow - Falma
 弓
@@ -541,7 +541,7 @@ Bow - Falma
 *
 落物01|武器Ａ|全部Ａ
 +11% Ranged Skills
-Crafted by Falma, the master of Bowman.
+Crafted by Falma, the master of|Bowman.
 //entry 34 -----------------------
 Bow of Spirits
 弓
@@ -557,7 +557,7 @@ Bow of Spirits
 *
 落物02|武器Ａ|全部Ａ
 +13% Ranged Skills
-Said to have been created by spirits long ago, but is probably just a rumor, because a lot of these exist.
+Said to have been created by|spirits long ago, but is probably|just a rumor, because a lot of|these exist.
 //entry 35 -----------------------
 Angel's Bow
 弓
@@ -573,7 +573,7 @@ Angel's Bow
 *
 落物02|武器Ａ|全部Ａ
 +15% Ranged Skills
-Dropped by an angel.|The owner's name is written on it, but it's illegible now.
+Dropped by an angel.|The owner's name is written on|it, but it's illegible now.
 //entry 36 -----------------------
 Sacred Bow
 弓
@@ -589,7 +589,7 @@ Sacred Bow
 *
 落物02|武器Ａ|全部Ａ
 +30% Ranged Skills
-Mainly used for holy rites, but can be used in actual combat too.
+Mainly used for holy rites, but|can be used in actual combat|too.
 //entry 37 -----------------------
 Old Shuriken
 手裏剣
@@ -605,7 +605,7 @@ Old Shuriken
 *
 落物02|武器Ａ|全部Ａ
 +10% Ranged Skills
-A very used weapon for assassins.|Has definitely seen a lot of blood.
+A very used weapon for|assassins.|Has definitely seen a lot of|blood.
 //entry 38 -----------------------
 Shuriken
 手裏剣
@@ -621,7 +621,7 @@ Shuriken
 *
 落物02|武器Ａ|全部Ａ
 +20% Ranged Skills
-A ninja's preferred weapon for assassination.|Can be thrown or used to slash.
+A ninja's preferred weapon for|assassination.|Can be thrown or used to slash.
 //entry 39 -----------------------
 Mizugenshu Shuriken
 手裏剣
@@ -637,7 +637,7 @@ Mizugenshu Shuriken
 *
 落物03|武器Ａ|全部Ａ
 +25% Ranged Skills
-Used by a famous ninja clan.|Beloved by its users for its efficiency.
+Used by a famous ninja clan.|Beloved by its users for its|efficiency.
 //entry 40 -----------------------
 Worn Staff
 杖
@@ -701,7 +701,7 @@ Magic Staff
 *
 落物01|武器Ａ|全部Ａ
 +6% Magic Skills
-Created to be able to store mana.
+Created to be able to store|mana.
 //entry 44 -----------------------
 Happy Staff
 杖
@@ -749,7 +749,7 @@ Despair Staff
 *
 落物02|武器Ａ|全部Ａ
 +9% Magic Skills
-So incredible that it brings staff makers to despair.
+So incredible that it brings|staff makers to despair.
 //entry 47 -----------------------
 Sorceror's Staff
 杖
@@ -765,7 +765,7 @@ Sorceror's Staff
 *
 落物02|武器Ａ|全部Ａ
 +10% Magic Skills
-Used by those who have mastered magic.|There are rumors that some mastered magic because of this staff.
+Used by those who have mastered|magic.|There are rumors that some|mastered magic because of this|staff.
 //entry 48 -----------------------
 Sacred Staff
 杖
@@ -781,7 +781,7 @@ Sacred Staff
 *
 落物03|武器Ａ|全部Ａ
 +11% Magic Skills
-A sacred staff used for holy rituals.
+A sacred staff used for holy|rituals.
 //entry 49 -----------------------
 Overlord Staff
 杖
@@ -813,7 +813,7 @@ Board
 *
 落物00|防具Ａ|全部Ａ
 +1% Ranged Defense
-A better shield than nothing... or at least a board.
+A better shield than nothing...|or at least a board.
 //entry 51 -----------------------
 Shield
 盾
@@ -845,7 +845,7 @@ Wood Shield
 *
 落物00|防具Ａ|全部Ａ
 +5% Ranged Defense
-A shield is a shield, even if it's made of wood.
+A shield is a shield, even if|it's made of wood.
 //entry 53 -----------------------
 Iron Shield
 盾
@@ -877,7 +877,7 @@ Steel Shield
 *
 落物02|防具Ａ|全部Ａ
 +10% Ranged Defense|+5% Striking Defense
-Do not underestimate those who have one.
+Do not underestimate those who|have one.
 //entry 55 -----------------------
 Holy Shield
 盾
@@ -909,7 +909,7 @@ Flame Shield
 *
 落物03|防具Ａ|全部Ａ
 +15% Ranged Defense|+30% Fire Defense
-A shield that's covered in flames.
+A shield that's covered in|flames.
 //entry 57 -----------------------
 Ice Shield
 盾
@@ -926,6 +926,7 @@ Ice Shield
 落物03|防具Ａ|全部Ａ
 +15% Ranged Defense|+30% Ice Defense
 A shield that's covered in ice.
+//entry 58 -----------------------
 Buckler
 盾
 *
@@ -940,7 +941,7 @@ Buckler
 *
 落物03|防具Ａ|全部Ａ
 +25% Ranged Defense|+4 Evade
-An easy to use shield, but still requires skill.
+An easy to use shield, but still|requires skill.
 //entry 59 -----------------------
 Old Clothing
 服
@@ -972,7 +973,7 @@ Casual Clothing
 *
 落物00|防具Ａ|全部Ａ
 +2 Defense
-Neither good nor bad.|You'd have to be brave to wear these to a date.
+Neither good nor bad.|You'd have to be brave to wear|these to a date.
 //entry 61 -----------------------
 Fancy Threads
 服
@@ -988,7 +989,7 @@ Fancy Threads
 *
 落物00|防具Ａ|全部Ａ
 +3 Defense
-Stylish clothes that would impress anybody.|But not everyone has the same sense of style.
+Stylish clothes that would|impress anybody.|But not everyone has the same|sense of style.
 //entry 62 -----------------------
 Shining Suit
 服
@@ -1004,7 +1005,7 @@ Shining Suit
 *
 落物01|防具Ａ|全部Ａ
 +4 Defense
-Clothing that brings out one's star power.|Look great, but they're still just clothes.
+Clothing that brings out one's|star power.|Look great, but they're still|just clothes.
 //entry 63 -----------------------
 Light Armor
 軽鎧
@@ -1052,7 +1053,7 @@ Master's Leather
 *
 落物02|防具Ａ|全部Ａ
 +7 Defense
-For experienced adventurers only.|May be difficult for novices to handle.
+For experienced adventurers|only.|May be difficult for novices to|handle.
 //entry 66 -----------------------
 Sturdy Armor
 鎧
@@ -1116,7 +1117,7 @@ Shining Armor
 *
 落物03|防具Ａ|全部Ａ
 +11 Defense
-Armor that's glittering and bright.
+Armor that's glittering and|bright.
 //entry 70 -----------------------
 Holy Armor
 鎧
@@ -1180,7 +1181,7 @@ Steel Helmet
 *
 落物01|防具Ａ|全部Ａ
 +7% Slashing Defense
-Made with the fervant wish to protect one's head.
+Made with the fervant wish to|protect one's head.
 //entry 74 -----------------------
 Magic Helmet
 兜
@@ -1212,7 +1213,7 @@ Dream Helmet
 *
 落物02|防具Ａ|全部Ａ
 +9% Slashing Defense
-Helps you have good dreams.|But not many people sleep in a helmet.
+Helps you have good dreams.|But not many people sleep in a|helmet.
 //entry 76 -----------------------
 Fractal Helmet
 兜
@@ -1228,7 +1229,7 @@ Fractal Helmet
 *
 落物03|防具Ａ|全部Ａ
 +10% Slashing Defense
-Layers upon layers.|The design is confusing, but apparently effective.
+Layers upon layers.|The design is confusing, but|apparently effective.
 //entry 77 -----------------------
 Hat
 帽子
@@ -1276,7 +1277,7 @@ Nice Hat
 *
 落物00|防具Ａ|全部Ａ
 +4% Magic Defense
-Will have everybody telling you how nice it is.
+Will have everybody telling you|how nice it is.
 //entry 80 -----------------------
 Happy Hat
 帽子
@@ -1356,7 +1357,7 @@ Bodyguard's Hat
 *
 落物01|防具Ａ|全部Ａ
 +9% Magic Defense
-So trusted, that it's the official headwear of a certain kingdom.
+So trusted, that it's the|official headwear of a certain|kingdom.
 //entry 85 -----------------------
 Devil's Hat
 帽子
@@ -1420,7 +1421,7 @@ Hero's Hat
 *
 落物03|防具Ａ|全部Ａ
 +13% Magic Defense
-Used by a hero.|But there are many different heroes.
+Used by a hero.|But there are many different|heroes.
 //entry 89 -----------------------
 Ordinary Shoes
 靴
@@ -1452,7 +1453,7 @@ Fancy Shoes
 *
 落物00|防具Ａ|全部Ａ
 +1 Speed
-Everyone is impressed by these shoes.
+Everyone is impressed by these|shoes.
 //entry 91 -----------------------
 Stylish Shoes
 靴
@@ -1468,7 +1469,7 @@ Stylish Shoes
 *
 落物00|防具Ａ|全部Ａ
 +2 Speed
-For those who care about fashion.
+For those who care about|fashion.
 //entry 92 -----------------------
 Popular Shoes
 靴
@@ -1500,7 +1501,7 @@ Alluring Shoes
 *
 落物01|防具Ａ|全部Ａ
 +4 Speed
-All the ladies love these shoes.
+All the ladies love these|shoes.
 //entry 94 -----------------------
 Rumored Shoes
 靴
@@ -1516,7 +1517,7 @@ Rumored Shoes
 *
 落物01|防具Ａ|全部Ａ
 +5 Speed
-They're as incredible as people say.
+They're as incredible as people|say.
 //entry 95 -----------------------
 Famous Shoes
 靴
@@ -1596,7 +1597,7 @@ Assassin Shoes
 *
 落物03|防具Ａ|全部Ａ
 +10 Speed
-Supposedly have a knife hidden inside them.
+Supposedly have a knife hidden|inside them.
 //entry 100 -----------------------
 Lucky Shoes
 靴
@@ -1612,7 +1613,7 @@ Lucky Shoes
 *
 落物03|防具Ａ|全部Ａ
 +11 Speed
-Said to bring good fortune.|It'd be nice if luck came walking your way.
+Said to bring good fortune.|It'd be nice if luck came walking|your way.
 //entry 101 -----------------------
 Fancy Boots
 ブーツ
@@ -1660,7 +1661,7 @@ Cool Boots
 *
 落物00|防具Ａ|全部Ａ
 +4 Evade
-Who doesn't think these are cool?
+Who doesn't think these are|cool?
 //entry 104 -----------------------
 Popular Boots
 ブーツ
@@ -1676,7 +1677,7 @@ Popular Boots
 *
 落物01|防具Ａ|全部Ａ
 +5 Evade
-They've started becoming popular world wide. The cobbler is proud of his work.
+They've started becoming popular|world wide. The cobbler is proud|of his work.
 //entry 105 -----------------------
 Questing Boots
 ブーツ
@@ -1692,7 +1693,7 @@ Questing Boots
 *
 落物01|防具Ａ|全部Ａ
 +6 Evade
-Popular with adventurers, and made to keep your feet safe.
+Popular with adventurers, and|made to keep your feet safe.
 //entry 106 -----------------------
 Hero's Boots
 ブーツ
@@ -1708,7 +1709,7 @@ Hero's Boots
 *
 落物02|防具Ａ|全部Ａ
 +7 Evade
-Same as the kind heroes wear.|So you can feel like a real hero.
+Same as the kind heroes wear.|So you can feel like a real|hero.
 //entry 107 -----------------------
 Legendary Boots
 ブーツ
@@ -1772,7 +1773,7 @@ Charging Banner
 *
 宝箱Ｃ|その他Ａ|全部Ａ
 Party +2 Attack |Party +1 Speed
-Waved while initiating a charge.
+Waved while initiating a|charge.
 //entry 111 -----------------------
 Marching Banner
 旗
@@ -1788,7 +1789,7 @@ Marching Banner
 *
 宝箱Ｄ|その他Ａ|全部Ａ
 Party +2 Attack|Party +2 Speed
-The flag of a certain kingdom.|Expanded extremely fast, and then collapsed.
+The flag of a certain kingdom.|Expanded extremely fast, and then|collapsed.
 //entry 112 -----------------------
 Invasion Banner
 旗
@@ -2284,7 +2285,7 @@ Metabolizing Ring
 *
 宝箱Ａ|宝箱Ｂ|宝箱Ｃ|宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
 Status Recovery -1
-Don't forget how you used to be.
+Don't forget how you used to|be.
 //entry 143 -----------------------
 Legsweeper Ring
 指輪
@@ -2300,7 +2301,7 @@ Legsweeper Ring
 *
 宝箱Ａ|宝箱Ｂ|宝箱Ｃ|宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
 +20% vs Grounded
-Nobody actually knows how it works.
+Nobody actually knows how it|works.
 //entry 144 -----------------------
 Birdcatcher Ring
 指輪
@@ -2332,7 +2333,7 @@ Lifeguard Ring
 *
 宝箱Ａ|宝箱Ｂ|宝箱Ｃ|宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
 +20% Death Resist
-Wants to give its wearer a fighting chance.
+Wants to give its wearer a|fighting chance.
 //entry 146 -----------------------
 Lifesaver Ring
 指輪
@@ -2348,7 +2349,7 @@ Lifesaver Ring
 *
 宝箱Ａ|宝箱Ｂ|宝箱Ｃ|宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
 +100% Death Resist
-Is bound and determined to not go down in one hit.
+Is bound and determined to not|go down in one hit.
 //entry 147 -----------------------
 Unlucky Bell
 鐘
@@ -2364,7 +2365,7 @@ Unlucky Bell
 *
 宝箱Ａ|宝箱Ｂ|宝箱Ｃ|宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
 Attract Enemies
-Brings misfortune to the misfortunate.
+Brings misfortune to the|misfortunate.
 //entry 148 -----------------------
 Lucky Bell
 鐘
@@ -2380,7 +2381,7 @@ Lucky Bell
 *
 宝箱Ａ|宝箱Ｂ|宝箱Ｃ|宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
 Repel Enemies
-Brings fortune to the fortunate.
+Brings fortune to the|fortunate.
 //entry 149 -----------------------
 Useless Book
 書
@@ -2444,7 +2445,7 @@ Oracle's Book
 *
 宝箱Ｄ|宝箱Ｅ|遠視
 Increase Sight Range
-Visibility is the basis of combat.
+Visibility is the basis of|combat.
 //entry 153 -----------------------
 Thief's Book
 書
@@ -2460,7 +2461,7 @@ Thief's Book
 *
 宝箱Ｄ|宝箱Ｅ|感知
 Reveal Hidden Doors
-If you're not sharp, you might miss treasure.
+If you're not sharp, you might|miss treasure.
 //entry 154 -----------------------
 Atlas
 書
@@ -2492,7 +2493,7 @@ Hint Guide
 *
 宝箱Ｄ|宝箱Ｅ
 Increase Sight Range, Map Range, and Reveal Hidden Doors
-The only book you'll ever need. 
+The only book you'll ever need.|
 //entry 156 -----------------------
 Flame Pebble
 宝石
@@ -2572,7 +2573,7 @@ Lightning Pebble
 *
 宝箱Ｃ|宝箱Ｄ|その他Ａ|全部Ａ
 Unlocks Static Ball Skill
-Lightning magic is sealed within it.|Easily mistaken for a glow rock.
+Lightning magic is sealed within|it.|Easily mistaken for a glow rock.
 //entry 161 -----------------------
 Light Pebble
 宝石
@@ -2620,7 +2621,7 @@ Magic Pebble
 *
 宝箱Ｃ|宝箱Ｄ|その他Ａ|全部Ａ
 Unlocks Mana Ball Skill
-Magic is sealed within it.|There's debate whether this was a currency long ago.
+Magic is sealed within it.|There's debate whether this was a|currency long ago.
 //entry 164 -----------------------
 Flame Stone
 宝石
@@ -2652,7 +2653,7 @@ Ice Stone
 *
 宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
 Unlocks Blizzard Ball Skill
-Popular with adventurers for its power and portability.
+Popular with adventurers for its|power and portability.
 //entry 166 -----------------------
 Earth Stone
 宝石
@@ -2668,7 +2669,7 @@ Earth Stone
 *
 宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
 Unlocks Boulder Ball Skill
-It takes a keen eye to tell this from a regular rock.
+It takes a keen eye to tell this|from a regular rock.
 //entry 167 -----------------------
 Wind Stone
 宝石
@@ -2700,7 +2701,7 @@ Lightning Stone
 *
 宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
 Unlocks Lightning Ball Skill
-Highly sought by adventurers for its ease of use.
+Highly sought by adventurers for|its ease of use.
 //entry 169 -----------------------
 Light Stone
 宝石
@@ -2716,7 +2717,7 @@ Light Stone
 *
 宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
 Unlocks Blinding Ball Skill
-Brighten a room by hanging it from the ceiling.
+Brighten a room by hanging it|from the ceiling.
 //entry 170 -----------------------
 Dark Stone
 宝石
@@ -2748,7 +2749,7 @@ Magic Stone
 *
 宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
 Unlocks Soul Ball Skill
-Has caused injuries by those who thought it was an actual ball.
+Has caused injuries by those who|thought it was an actual ball.
 //entry 172 -----------------------
 Salamander Pebble
 宝石
@@ -2780,7 +2781,7 @@ Undine Pebble
 *
 宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
 Unlocks Ice Burst Skill
-Very powerful, but is it worth the cost?
+Very powerful, but is it worth|the cost?
 //entry 174 -----------------------
 Gnome Pebble
 宝石
@@ -2796,7 +2797,7 @@ Gnome Pebble
 *
 宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
 Unlocks Earth Burst Skill
-If you have the energy to spare for it.
+If you have the energy to spare|for it.
 //entry 175 -----------------------
 Sprite Pebble
 宝石
@@ -2828,7 +2829,7 @@ Ixion Pebble
 *
 宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
 Unlocks Static Burst Skill
-Sometimes gets a little crackly when you touch it.
+Sometimes gets a little crackly|when you touch it.
 //entry 177 -----------------------
 Archangel Pebble
 宝石
@@ -2844,7 +2845,7 @@ Archangel Pebble
 *
 宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
 Unlocks Light Burst Skill
-Attracks a lot of attention as a decoration.
+Attracks a lot of attention as a|decoration.
 //entry 178 -----------------------
 Devil Pebble
 宝石
@@ -2860,7 +2861,7 @@ Devil Pebble
 *
 宝箱Ｄ|宝箱Ｅ|その他Ａ|全部Ａ
 Unlocks Dark Burst Skill
-Sometimes desired as a centerpiece.
+Sometimes desired as a|centerpiece.
 //entry 179 -----------------------
 Pure Pebble
 宝石
@@ -2892,7 +2893,7 @@ Salamander Stone
 *
 宝箱Ｅ|その他Ａ|全部Ａ
 Unlocks Blazing Eruption Skill
-People always wonder if you're really supposed to carry this around.
+People always wonder if you're|really supposed to carry this|around.
 //entry 181 -----------------------
 Undine Stone
 宝石
@@ -2924,7 +2925,7 @@ Gnome Stone
 *
 宝箱Ｅ|その他Ａ|全部Ａ
 Unlocks Boulder Eruption Skill
-Might just be a very large rock.
+Might just be a very large|rock.
 //entry 183 -----------------------
 Sprite Stone
 宝石
@@ -2940,7 +2941,7 @@ Sprite Stone
 *
 宝箱Ｅ|その他Ａ|全部Ａ
 Unlocks Typhoon Eruption Skill
-Wouldn't it be more effective to crush them with it directly?
+Wouldn't it be more effective to|crush them with it directly?
 //entry 184 -----------------------
 Ixion Stone
 宝石
@@ -2972,7 +2973,7 @@ Archangel Stone
 *
 宝箱Ｅ|その他Ａ|全部Ａ
 Unlocks Blinding Eruption Skill
-Why would someone make something this large?
+Why would someone make something|this large?
 //entry 186 -----------------------
 Devil Stone
 宝石
@@ -2988,7 +2989,7 @@ Devil Stone
 *
 宝箱Ｅ|その他Ａ|全部Ａ
 Unlocks Void Eruption Skill
-Maybe you're supposed to hit them with this to send them into darkness.
+Maybe you're supposed to hit|them with this to send them into|darkness.
 //entry 187 -----------------------
 Pure Stone
 宝石
@@ -3052,7 +3053,7 @@ Flawed Gem
 *
 落物00
 For sale only
-A jewel, but not a valuable one.
+A jewel, but not a valuable|one.
 //entry 191 -----------------------
 Precious Gem
 宝石
@@ -3100,7 +3101,7 @@ Stunning Gem
 *
 落物00|落物01
 For sale only
-A simply stunning piece of jewelry.
+A simply stunning piece of|jewelry.
 //entry 194 -----------------------
 Sparkling Gem
 宝石
@@ -3148,7 +3149,7 @@ Priceless Gem
 *
 落物00|落物01|落物02|落物03
 For sale only
-Commoners rarely see jewels of this quality.
+Commoners rarely see jewels of|this quality.
 //entry 197 -----------------------
 Goo Stone
 宝石
@@ -3164,7 +3165,7 @@ Goo Stone
 *
 宝箱Ｅ
 Goos only|+150% Striking and Shooting Skills
-Said to contain the knowledge of all goos.|More valuable than any gem.
+Said to contain the knowledge of|all goos.|More valuable than any gem.
 //entry 198 -----------------------
 Lucent Key
 鍵
@@ -3180,7 +3181,7 @@ Lucent Key
 *
 鍵101
 Opens certain doors
-It's a pendant, not an actual key.
+It's a pendant, not an actual|key.
 //entry 199 -----------------------
 Stoneleaf Key
 鍵
@@ -3212,7 +3213,7 @@ Stoneleaf Inner Key
 *
 鍵103
 Opens certain doors
-Opens the lock just by coming near it.
+Opens the lock just by coming|near it.
 //entry 201 -----------------------
 Frostgrip Key
 鍵
@@ -3228,7 +3229,7 @@ Frostgrip Key
 *
 鍵104
 Opens certain doors
-Looks just like a regular house key.
+Looks just like a regular house|key.
 //entry 202 -----------------------
 Arboreal Key
 鍵
@@ -3244,7 +3245,7 @@ Arboreal Key
 *
 鍵107
 Opens certain doors
-Commonly found under flower pots.
+Commonly found under flower|pots.
 //entry 203 -----------------------
 Arboreal Inner Key
 鍵
@@ -3260,4 +3261,4 @@ Arboreal Inner Key
 *
 鍵108
 Opens certain doors
-Very simple, and often mistaken for other keys.
+Very simple, and often mistaken|for other keys.
