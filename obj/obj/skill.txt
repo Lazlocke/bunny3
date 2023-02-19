@@ -6,7 +6,7 @@ Slash
 敵
 *
 Target: Single Enemy |Damage: Slashing
-The most basic kind of attack with a blade.
+The most basic kind of attack with a|blade.
 //entry 1 -----------------------
 狙い斬り
 Focused Slash
@@ -42,7 +42,7 @@ Skylark
 敵
 会心+20
 Target: Single Enemy |Damage: Slashing
-Already strong, but sometimes critically strong!
+Already strong, but sometimes|critically strong!
 //entry 5 -----------------------
 秘剣・燕
 Songbird
@@ -51,7 +51,7 @@ Songbird
 敵
 会心+20
 Target: Single Enemy |Damage: Slashing
-Strike the vital point and watch the blood flow.
+Strike the vital point and watch the|blood flow.
 //entry 6 -----------------------
 秘剣・雉
 Pheasant
@@ -60,7 +60,7 @@ Pheasant
 敵
 会心+20
 Target: Single Enemy |Damage: Slashing
-They will shriek like a stricken bird.
+They will shriek like a stricken|bird.
 //entry 7 -----------------------
 秘剣・鴉
 Crow
@@ -69,7 +69,7 @@ Crow
 敵
 会心+20
 Target: Single Enemy |Damage: Slashing
-Make the blood scatter like a fountain.
+Make the blood scatter like a|fountain.
 //entry 8 -----------------------
 急所斬り
 Behead
@@ -78,7 +78,7 @@ Behead
 敵
 必殺+30
 Target: Single Enemy |Damage: Slashing|30% Death
-Good for dispatching the small fry, but not effective against powerful foes.
+Good for dispatching the small fry,|but not effective against powerful|foes.
 //entry 9 -----------------------
 真・急所斬り
 Bisect
@@ -105,7 +105,7 @@ Hamstring
 敵
 攻撃ダウン+40|継続+5
 Target: Single Enemy|40% Fear
-A scared foe is much less threatening.
+A scared foe is much less|threatening.
 //entry 12 -----------------------
 挑発斬り
 Provoke
@@ -132,7 +132,7 @@ Stunning Slash
 敵
 麻痺+100|継続+2
 Target: Single Enemy|100% Stun
-If they can't move, they're no threat to you.
+If they can't move, they're no threat|to you.
 //entry 15 -----------------------
 混乱斬り
 Confusing Slash
@@ -141,7 +141,7 @@ Confusing Slash
 敵
 混乱+100|継続+3
 Target: Single Enemy|100% Confuse
-Be careful, because a confused foe can still be threatening.
+Be careful, because a confused foe can|still be threatening.
 //entry 16 -----------------------
 打撃
 Strike
@@ -168,7 +168,7 @@ Crush
 敵
 *
 Target: Single Enemy |Damage: Striking
-A heavy blow that can cause more damage than a slash.
+A heavy blow that can cause more|damage than a slash.
 //entry 19 -----------------------
 連突き
 Onslaught
@@ -177,7 +177,7 @@ Onslaught
 敵３
 *
 Target: Multiple Enemies Striking
-Each blow knocks them more off balance.
+Each blow knocks them more off|balance.
 //entry 20 -----------------------
 払い
 Sweep
@@ -213,7 +213,7 @@ Knockback
 敵
 バック+50
 Target: Single Enemy |Damage: Striking|50% Knockback
-Can damage the enemies trying to hide behind their friends.
+Can damage the enemies trying to hide|behind their friends.
 //entry 24 -----------------------
 叩き潰し
 Homerun Swing
@@ -231,7 +231,7 @@ Sonic Blow
 敵
 会心+20
 Target: Single Enemy |Damage: Striking|High accuracy
-An attack that's faster than sound itself.
+An attack that's faster than sound|itself.
 //entry 26 -----------------------
 フラッシュブロー
 Flash Blow
@@ -276,7 +276,7 @@ Bull's Eye
 敵
 *
 Target: Single Enemy|Damage: Ranged 
-Hurts if you hit them where it counts.
+Hurts if you hit them where it|counts.
 //entry 31 -----------------------
 極射撃
 Deadeye Snipe
@@ -321,7 +321,7 @@ Barrage
 敵全
 *
 Target: All Enemies |Damage: Ranged 
-For when you can't be bothered to pick a target.
+For when you can't be bothered to pick|a target.
 //entry 36 -----------------------
 強乱射
 Hail
@@ -366,7 +366,7 @@ Liquidate
 敵
 必殺+50
 Target: Single Enemy|Damage: Ranged |50% Death
-Eliminate the critical support right away.
+Eliminate the critical support right|away.
 //entry 41 -----------------------
 毒射ち
 Poison Edge
@@ -375,7 +375,7 @@ Poison Edge
 敵
 毒+50|継続+4
 Target: Single Enemy|Damage: Ranged |50% Poison
-The damage can pile up against strong foes.
+The damage can pile up against strong|foes.
 //entry 42 -----------------------
 猛毒射ち
 Snake Blood
@@ -402,7 +402,7 @@ Poison Fog
 敵全
 毒+100|継続+5
 Target: All Enemies|65% Poison
-Not accurate, but can infect all the enemies.
+Not accurate, but can infect all the|enemies.
 //entry 45 -----------------------
 毒界
 Poison Field
@@ -411,7 +411,7 @@ Poison Field
 全
 毒+100|継続+5
 Target: Field|75% Poison
-A toxic attack that hits friend and foe.
+A toxic attack that hits friend and|foe.
 //entry 46 -----------------------
 麻痺
 Paralyze
@@ -429,7 +429,7 @@ Paralysis Fog
 敵全
 麻痺+100|継続+2
 Target: All Enemies|30% Stun
-They recover quickly, so make the most of your time.
+They recover quickly, so make the most|of your time.
 //entry 48 -----------------------
 麻界
 Paralysis Field
@@ -438,7 +438,7 @@ Paralysis Field
 全
 麻痺+100|継続+2
 Target: Field|40% Stun
-Good for when you're outnumbered, but may backfire.
+Good for when you're outnumbered, but|may backfire.
 //entry 49 -----------------------
 混乱
 Confuse
@@ -447,7 +447,7 @@ Confuse
 敵
 混乱+100|継続+3
 Target: Single Enemy|70% Confuse
-A confused enemy is slower, easier to hit, and may act erratically.
+A confused enemy is slower, easier to|hit, and may act erratically.
 //entry 50 -----------------------
 混乱の霧
 Confusion Fog
@@ -456,7 +456,7 @@ Confusion Fog
 敵全
 混乱+100|継続+3
 Target: All Enemies|65% Confuse
-Confusion can be dangerous, to you and to them.
+Confusion can be dangerous, to you and|to them.
 //entry 51 -----------------------
 混界
 Confusion Field
@@ -483,7 +483,7 @@ Terror Fog
 敵全
 攻撃ダウン+100|継続+3
 Target: All Enemies|80% Fear
-If they're threatened, they're not threatening.
+If they're threatened, they're not|threatening.
 //entry 54 -----------------------
 恐界
 Terror Field
@@ -501,7 +501,7 @@ Berserk
 敵
 防御ダウン+100|継続+3
 Target: Single Enemy|85% Berserk
-Reckless enemies don't pay attention to defense.
+Reckless enemies don't pay attention|to defense.
 //entry 56 -----------------------
 興奮の霧
 Berserk Fog
@@ -519,7 +519,7 @@ Berserk Field
 全
 防御ダウン+100|継続+3
 Target: Field|90% Berserk
-Bloodlust isn't infectious, but this might be.
+Bloodlust isn't infectious, but this|might be.
 //entry 58 -----------------------
 火矢
 Fire Sting
@@ -528,7 +528,7 @@ Fire Sting
 敵
 *
 Target: Single Enemy|Damage: Fire
-Particularly strong against chilly enemies.
+Particularly strong against chilly|enemies.
 //entry 59 -----------------------
 火矢三連
 Fire Darts
@@ -555,7 +555,7 @@ Fire Barrage
 敵７
 *
 Target: Multiple Enemies|Damage: Fire
-Melt all their hearts at once, and their faces.
+Melt all their hearts at once, and|their faces.
 //entry 62 -----------------------
 火矢九連
 Fire Blitz
@@ -564,7 +564,7 @@ Fire Blitz
 敵９
 *
 Target: Multiple Enemies|Damage: Fire
-Just burn everything indiscriminantly.
+Just burn everything|indiscriminantly.
 //entry 63 -----------------------
 火矢砲
 Fire Lance
@@ -609,7 +609,7 @@ Ice Sting
 敵
 *
 Target: Single Enemy|Damage: Ice
-Particularly effective against earthen enemies. 
+Particularly effective against earthen|enemies. 
 //entry 68 -----------------------
 氷水三連
 Ice Darts
@@ -690,7 +690,7 @@ Earth Sting
 敵
 *
 Target: Single Enemy|Damage: Earth
-Basically throwing gravel, but magically.
+Basically throwing gravel, but|magically.
 //entry 77 -----------------------
 岩石三連
 Earth Darts
@@ -807,7 +807,7 @@ Wind Blitz
 敵９
 *
 Target: Multiple Enemies|Damage: Wind
-Can mess up a dungeon's atmosphere if used haphazardly.
+Can mess up a dungeon's atmosphere if|used haphazardly.
 //entry 90 -----------------------
 暴風砲
 Wind Lance
@@ -915,7 +915,7 @@ Plasma Storm
 敵全
 *
 Target: All Enemies|Damage: Lightning
-Casting this while wearing metal armor is not recommended.
+Casting this while wearing metal armor|is not recommended.
 //entry 102 -----------------------
 雷獄
 Wrath of Zeus
@@ -924,7 +924,7 @@ Wrath of Zeus
 敵全
 *
 Target: All Enemies|Damage: Lightning
-This lightning only needs to strike once.
+This lightning only needs to strike|once.
 //entry 103 -----------------------
 漆黒
 Void Sting
@@ -1023,7 +1023,7 @@ Holy Darts
 敵３
 *
 Target: Multiple Enemies|Damage: Light
-Demons especially don't like the brightness.
+Demons especially don't like the|brightness.
 //entry 114 -----------------------
 光槍五連
 Holy Arrows
@@ -1041,7 +1041,7 @@ Holy Barrage
 敵７
 *
 Target: Multiple Enemies|Damage: Light
-A rain of sunbeams, but far more painful.
+A rain of sunbeams, but far more|painful.
 //entry 116 -----------------------
 光槍九連
 Holy Blitz
@@ -1077,7 +1077,7 @@ Consecration
 敵全
 *
 Target: All Enemies|Damage: Light
-All impurities will be forcefully purged.
+All impurities will be forcefully|purged.
 //entry 120 -----------------------
 光獄
 Final Judgement
@@ -1113,7 +1113,7 @@ Mana Arrows
 敵５
 *
 Target: Multiple Enemies|Damage: Void
-Won't be resisted, but won't be effective either.
+Won't be resisted, but won't be|effective either.
 //entry 124 -----------------------
 無心七連
 Mana Barrage
@@ -1122,7 +1122,7 @@ Mana Barrage
 敵７
 *
 Target: Multiple Enemies|Damage: Void
-Angel or demon, they're all susceptible to raw magic.
+Angel or demon, they're all|susceptible to raw magic.
 //entry 125 -----------------------
 無心九連
 Mana Blitz
@@ -1185,7 +1185,7 @@ Heal
 味単
 *
 Target: Single Ally|Recover HP
-This is enough to avoid a lot of crises.
+This is enough to avoid a lot of|crises.
 //entry 132 -----------------------
 大回復
 Heal Plus
@@ -1194,7 +1194,7 @@ Heal Plus
 味単
 *
 Target: Single Ally|Recover HP
-You can be a little reckless with this on hand.
+You can be a little reckless with this|on hand.
 //entry 133 -----------------------
 特回復
 Benediction
@@ -1239,7 +1239,7 @@ Angel Song
 味全
 *
 Target: All Allies|Recover HP
-This makes it very hard to kill your party.
+This makes it very hard to kill your|party.
 //entry 138 -----------------------
 リフ
 Remedy
@@ -1266,7 +1266,7 @@ Salvation
 味全
 毒-100|麻痺-100|混乱-100|攻撃ダウン-100|防御ダウン-100|回避ダウン-100|速度ダウン-100
 Target: All Allies|Recover HP and Ailments
-Brings the whole party back from whatever ails them.
+Brings the whole party back from|whatever ails them.
 //entry 141 -----------------------
 斬撃属性防御
 Steel Skin
@@ -1356,7 +1356,7 @@ Born in Night
 味単
 *
 Passive|Resist Dark Attacks
-Does resisting darkness make you bright?
+Does resisting darkness make you|bright?
 //entry 151 -----------------------
 固定／触手ムチ
 Tentacle Whip

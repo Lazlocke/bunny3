@@ -101,7 +101,7 @@ f000aa.agf
 *
 *
 *
-The dwelling of the Overlord, and headquarters of the local Gunguskar branch.
+The dwelling of the Overlord,|and headquarters of the local|Gunguskar branch.
 Each turn: Recruit a few citizens|Increases maximum citizens
 //entry 3 -----------------------
 Garrison
@@ -136,7 +136,7 @@ f001ca.agf
 *
 *
 *
-Keeps the public peace and trains those who work in the dungeons.
+Keeps the public peace and|trains those who work in the|dungeons.
 Increases dungeon defense
 //entry 4 -----------------------
 Clinic
@@ -206,7 +206,7 @@ f003ca.agf
 *
 *
 *
-The very minimum that can be called a place to live.
+The very minimum that can be|called a place to live.
 Increases maximum citizens|Increases dungeon defense
 //entry 6 -----------------------
 L Housing
@@ -241,7 +241,7 @@ f004ca.agf
 *
 *
 *
-A fancier place to live for those who can afford to own land.
+A fancier place to live for|those who can afford to own|land.
 Increases maximum citizens|Increases dungeon defense
 //entry 7 -----------------------
 Manor
@@ -276,7 +276,7 @@ f005ca.agf
 *
 *
 *
-For the rich to live in, and the poor to aspire to.
+For the rich to live in, and|the poor to aspire to.
 Increases maximum citizens|Increases dungeon defense
 //entry 8 -----------------------
 G Housing
@@ -311,7 +311,7 @@ f006ca.agf
 *
 *
 *
-Housing on a completely different scale. Literally.
+Housing on a completely|different scale. Literally.
 Increases maximum citizens|Increases dungeon defense
 //entry 9 -----------------------
 Odd Housing
@@ -346,7 +346,7 @@ f007ca.agf
 *
 *
 *
-Not everybody wants to live in a human-shaped house.
+Not everybody wants to live in|a human-shaped house.
 Increases maximum citizens|Increases dungeon defense
 //entry 10 -----------------------
 Field
@@ -381,7 +381,7 @@ f008ca.agf
 *
 *
 *
-Food is life, for humans, demons, and angels.
+Food is life, for humans,|demons, and angels.
 Each turn: Gathers food|Level up to increase output
 //entry 11 -----------------------
 Ranch
@@ -416,7 +416,7 @@ f009ca.agf
 *
 *
 *
-Raises livestock, but don't get too attached to them.
+Raises livestock, but don't get|too attached to them.
 Each turn: Gathers food|Level up to increase output
 //entry 12 -----------------------
 Orchard
@@ -451,7 +451,7 @@ f010ca.agf
 *
 *
 *
-Enjoy the fruits of your labors.
+Enjoy the fruits of your|labors.
 Each turn: Gathers food|Level up to increase output
 //entry 13 -----------------------
 Mine
@@ -486,7 +486,7 @@ f011ba.agf
 *
 *
 *
-Pull materials and riches right out of the ground.
+Pull materials and riches right|out of the ground.
 Each turn: Gathers resources and money
 //entry 14 -----------------------
 Storehouse
@@ -521,7 +521,7 @@ f012ba.agf
 *
 *
 *
-A place to accumulate and store supplies.
+A place to accumulate and store|supplies.
 Each turn: Gathers resources
 //entry 15 -----------------------
 Workshop
@@ -556,7 +556,7 @@ f013cb.agf
 *
 *
 *
-Creates all manner of things needed for civilized living.
+Creates all manner of things|needed for civilized living.
 Each turn: Consumes resources and increases citizens|Increases dungeon trap efficiency
 //entry 16 -----------------------
 Research Lab
@@ -591,7 +591,7 @@ f014cb.agf
 *
 *
 *
-Conducts all manner of research, scrupulous and shady.
+Conducts all manner of|research, scrupulous and shady.
 Each turn: Consumes resources and increases citizens|Increases dungeon trap efficiency
 //entry 17 -----------------------
 Store
@@ -626,7 +626,7 @@ f015ca.agf
 *
 *
 *
-There's nothing wrong with a few businesses on the side.
+There's nothing wrong with a|few businesses on the side.
 Each turn: Gathers money|Improves dungeon treasure chests
 //entry 18 -----------------------
 E Center
@@ -661,7 +661,7 @@ f016ca.agf
 *
 資金|住民/2
 *
-Acts as a casino, fairground, theater, and more!
+Acts as a casino, fairground,|theater, and more!
 Each turn: Gather money|Improves dungeon treasure chests
 //entry 19 -----------------------
 RL District
@@ -696,7 +696,7 @@ f017ca.agf
 *
 資金|住民/2
 *
-For adult entertainment. Children categorically not allowed.
+For adult entertainment.|Children categorically not|allowed.
 Each turn: Gather money|Improves dungeon treasure chests
 //entry 20 -----------------------
 Stadium
@@ -731,7 +731,7 @@ f018aa.agf
 *
 *
 *
-It isn't just an empty field, though it does seem like it.
+It isn't just an empty field,|though it does seem like it.
 Increases dungeon defense
 //entry 21 -----------------------
 Pool
@@ -801,7 +801,7 @@ f020ab.agf
 *
 *
 *
-A professional liquor-maker, not for wholesale.
+A professional liquor-maker,|not for wholesale.
 Increases dungeon defense
 //entry 23 -----------------------
 Bathhouse
@@ -836,7 +836,7 @@ f021ab.agf
 *
 *
 *
-Cleanliness is next to godliness.
+Cleanliness is next to|godliness.
 Each turn: Increase citizens|Each turn: Gather money
 //entry 24 -----------------------
 Hot Spring
@@ -871,7 +871,7 @@ f022ab.agf
 *
 *
 *
-The hot water comes from somewhere else. You can't just dig it up.
+The hot water comes from|somewhere else. You can't just|dig it up.
 Each turn: Increase citizens|Each turn: Gather money
 //entry 25 -----------------------
 Park
@@ -906,7 +906,7 @@ f023ab.agf
 *
 *
 *
-A place to put your mind at ease.
+A place to put your mind at|ease.
 Increase dungeon defense
 //entry 26 -----------------------
 Forest
@@ -941,7 +941,7 @@ f024aa.agf
 *
 *
 *
-Can be surprisingly difficult to distinguish between this and a natural forest.
+Can be surprisingly difficult|to distinguish between this and|a natural forest.
 Increase defense
 //entry 27 -----------------------
 Pond
@@ -976,7 +976,7 @@ f025aa.agf
 *
 *
 *
-Somewhere to keep water. Certain races tend to gather here.
+Somewhere to keep water.|Certain races tend to gather|here.
 Inc defense
 //entry 28 -----------------------
 School
@@ -1011,7 +1011,7 @@ f027aa.agf
 住民
 *
 *
-A branch of Forzelotte Academy.
+A branch of Forzelotte|Academy.
 Each turn: increase citizens|Increases dungeon defense
 //entry 29 -----------------------
 Dormitory
@@ -1046,5 +1046,5 @@ f028aa.agf
 住民
 *
 *
-Healthy living for healthy minds.
+Healthy living for healthy|minds.
 Increases dungeon defense
