@@ -18,7 +18,7 @@ bg021a0.agf
 宝箱Ａ
 宝箱Ａ
 //entry 1 -----------------------
-East Forest
+E Forest
 mp0102.amd
 bg021a0.agf
 *
@@ -37,7 +37,7 @@ bg021a0.agf
 宝箱Ａ
 宝箱Ａ
 //entry 2 -----------------------
-Southeast Forest
+SE Forest
 mp0103.amd
 bg021a0.agf
 *
@@ -56,7 +56,7 @@ bg021a0.agf
 宝箱Ａ
 宝箱Ａ
 //entry 3 -----------------------
-South Forest
+S Forest
 mp0104.amd
 bg021a0.agf
 *
@@ -75,7 +75,7 @@ bg021a0.agf
 宝箱Ａ
 宝箱Ａ
 //entry 4 -----------------------
-Southwest Forest
+SW Forest
 mp0105.amd
 bg021a0.agf
 *
@@ -94,7 +94,7 @@ bg021a0.agf
 宝箱Ａ
 宝箱Ａ
 //entry 5 -----------------------
-West Forest
+W Forest
 mp0106.amd
 bg021a0.agf
 *
@@ -113,7 +113,7 @@ bg021a0.agf
 宝箱Ａ
 宝箱Ａ
 //entry 6 -----------------------
-Northwest Forest
+NW Forest
 mp0107.amd
 bg021a0.agf
 *
@@ -132,7 +132,7 @@ bg021a0.agf
 宝箱Ａ
 宝箱Ａ
 //entry 7 -----------------------
-North Forest
+N Forest
 mp0108.amd
 bg021a0.agf
 *
@@ -151,7 +151,7 @@ bg021a0.agf
 宝箱Ａ
 宝箱Ａ
 //entry 8 -----------------------
-Northeast Forest
+NE Forest
 mp0109.amd
 bg021a0.agf
 *
@@ -170,7 +170,7 @@ bg021a0.agf
 宝箱Ａ
 宝箱Ａ
 //entry 9 -----------------------
-Northeast Forest Depths
+NE Forest Depths
 mp0110.amd
 bg021a0.agf
 *
@@ -227,7 +227,7 @@ bg021a0.agf
 宝箱Ａ
 宝箱Ａ
 //entry 12 -----------------------
-Turtle Rider Forest
+T.Rider Forest
 mp0113.amd
 bg021a0.agf
 ロッタ隊
@@ -284,7 +284,7 @@ bg020a0.agf
 宝箱Ｂ
 防具Ａ
 //entry 15 -----------------------
-East Mountain Side
+E Mountain Side
 mp0203.amd
 bg020a0.agf
 *
@@ -303,7 +303,7 @@ bg020a0.agf
 宝箱Ｃ
 その他Ａ
 //entry 16 -----------------------
-West Mountain Side
+W Mountain Side
 mp0204.amd
 bg020a0.agf
 *
@@ -322,7 +322,7 @@ bg020a0.agf
 宝箱Ｄ
 武器Ａ
 //entry 17 -----------------------
-South Mountain Side
+S Mountain Side
 mp0205.amd
 bg020a0.agf
 *
@@ -341,7 +341,7 @@ bg020a0.agf
 宝箱Ｅ
 防具Ａ
 //entry 18 -----------------------
-North Mountain Side
+N Mountain Side
 mp0206.amd
 bg020a0.agf
 *
@@ -360,7 +360,7 @@ bg020a0.agf
 宝箱Ａ
 その他Ａ
 //entry 19 -----------------------
-Southeast Mountain Base
+SE Mountain Base
 mp0207.amd
 bg020a0.agf
 *
@@ -379,7 +379,7 @@ bg020a0.agf
 宝箱Ａ
 武器Ａ
 //entry 20 -----------------------
-Southwest Mountain Base
+SW Mountain Base
 mp0208.amd
 bg020a0.agf
 *
@@ -398,7 +398,7 @@ bg020a0.agf
 宝箱Ａ
 防具Ａ
 //entry 21 -----------------------
-Northwest Mountain Base
+NW Mountain Base
 mp0209.amd
 bg020a0.agf
 *
@@ -417,7 +417,7 @@ bg020a0.agf
 宝箱Ａ
 その他Ａ
 //entry 22 -----------------------
-Northeast Mountain Base
+NE Mountain Base
 mp0210.amd
 bg020a0.agf
 *
@@ -930,7 +930,7 @@ bg023a0.agf
 宝箱Ａ
 宝箱Ａ
 //entry 49 -----------------------
-Left Leg Overlook
+Overlook
 mp0411.amd
 bg023a0.agf
 *

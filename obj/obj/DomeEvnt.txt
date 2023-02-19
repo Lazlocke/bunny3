@@ -3,8 +3,8 @@
 dom_bz01.agf
 *
 *
-All buildings in the city will obtain a large amount of experience.
-Additional residents obtained during expeditions.
+All buildings in the city will obtain a |large amount of experience.
+Additional residents obtained during |expeditions.
 住民＋
 *
 //entry 1 -----------------------
@@ -12,7 +12,7 @@ Additional residents obtained during expeditions.
 dom_bz02.agf
 *
 *
-All buildings in the city will obtain a large amount of experience.
+All buildings in the city will obtain a |large amount of experience.
 Attack increased during expeditions.
 攻撃力＋
 *
@@ -21,7 +21,7 @@ Attack increased during expeditions.
 dom_bz03.agf
 *
 *
-All buildings in the city will obtain a large amount of experience.
+All buildings in the city will obtain a |large amount of experience.
 Defense increased during expeditions.
 防御力＋
 *
@@ -30,7 +30,7 @@ Defense increased during expeditions.
 dom_cz22.agf
 *
 *
-Skip out on work and... try hard in other ways.
+Skip out on work and... try hard in other |ways.
 No bonuses.
 *
 *
@@ -57,7 +57,7 @@ No bonuses.
 dom_cz15.agf
 *
 *
-All buildings in the city will obtain a small amount of experience.
+All buildings in the city will obtain a |small amount of experience.
 Spend some money to attract more residents.
 *
 *
@@ -66,7 +66,7 @@ Spend some money to attract more residents.
 dom_cz15.agf
 *
 *
-All buildings in the city will obtain a small amount of experience.
+All buildings in the city will obtain a |small amount of experience.
 Spend some money to attract more residents.
 *
 *
@@ -75,7 +75,7 @@ Spend some money to attract more residents.
 dom_cz15.agf
 *
 *
-All buildings in the city will obtain a small amount of experience.
+All buildings in the city will obtain a |small amount of experience.
 Spend some money to attract more residents.
 *
 *
@@ -84,7 +84,7 @@ Spend some money to attract more residents.
 dom_cz15.agf
 *
 *
-All buildings in the city will obtain a small amount of experience.
+All buildings in the city will obtain a |small amount of experience.
 Spend some money to attract more residents.
 *
 *
@@ -93,7 +93,7 @@ Spend some money to attract more residents.
 dom_cz08.agf
 *
 *
-All buildings in the city will obtain a small amount of experience.
+All buildings in the city will obtain a |small amount of experience.
 Spend some money and food to attract more residents.
 *
 *
@@ -102,7 +102,7 @@ Spend some money and food to attract more residents.
 dom_cz16.agf
 *
 *
-All buildings in the city will obtain a small amount of experience.
+All buildings in the city will obtain a |small amount of experience.
 Attracts some residents.
 *
 *
@@ -111,7 +111,7 @@ Attracts some residents.
 dom_cz03.agf
 住居
 *
-All buildings in the city will obtain a small amount of experience.
+All buildings in the city will obtain a |small amount of experience.
 Spend some money to attract more residents.
 *
 *
@@ -120,7 +120,7 @@ Spend some money to attract more residents.
 dom_cz03.agf
 住居
 *
-All buildings in the city will obtain a small amount of experience.
+All buildings in the city will obtain a |small amount of experience.
 Spend some money to attract more residents.
 *
 *
@@ -129,7 +129,7 @@ Spend some money to attract more residents.
 dom_cz05.agf
 公園
 *
-All buildings in the city will obtain a small amount of experience.
+All buildings in the city will obtain a |small amount of experience.
 Attracts some residents.
 *
 *
@@ -138,7 +138,7 @@ Attracts some residents.
 dom_cz05.agf
 公園
 *
-All buildings in the city will obtain a small amount of experience.
+All buildings in the city will obtain a |small amount of experience.
 Attracts some residents.
 *
 *
@@ -147,7 +147,7 @@ Attracts some residents.
 dom_cz05.agf
 公園
 *
-All buildings in the city will obtain a small amount of experience.
+All buildings in the city will obtain a |small amount of experience.
 Attracts some residents.
 *
 *
@@ -156,7 +156,7 @@ Attracts some residents.
 dom_cz09.agf
 商店
 *
-All buildings in the city will obtain a small amount of experience.
+All buildings in the city will obtain a |small amount of experience.
 Spend some money to attract more residents.
 *
 *
@@ -165,7 +165,7 @@ Spend some money to attract more residents.
 dom_cz09.agf
 商店
 *
-All buildings in the city will obtain a small amount of experience.
+All buildings in the city will obtain a |small amount of experience.
 Spend some money to attract more residents.
 *
 *
@@ -174,7 +174,7 @@ Spend some money to attract more residents.
 dom_cz10.agf
 警備砦
 *
-All buildings in the city will obtain a small amount of experience.
+All buildings in the city will obtain a |small amount of experience.
 Attracts some residents.
 *
 *
@@ -183,7 +183,7 @@ Attracts some residents.
 dom_cz10.agf
 警備砦
 *
-All buildings in the city will obtain a small amount of experience.
+All buildings in the city will obtain a |small amount of experience.
 Attracts some residents.
 *
 *
@@ -192,7 +192,7 @@ Attracts some residents.
 dom_cz01.agf
 池
 *
-All buildings in the city will obtain a small amount of experience.
+All buildings in the city will obtain a |small amount of experience.
 Spend some money to attract more residents.
 *
 *
@@ -201,7 +201,7 @@ Spend some money to attract more residents.
 dom_cz01.agf
 池
 *
-All buildings in the city will obtain a small amount of experience.
+All buildings in the city will obtain a |small amount of experience.
 Spend some money to attract more residents.
 *
 *
@@ -210,7 +210,7 @@ Spend some money to attract more residents.
 dom_cz01.agf
 池
 *
-All buildings in the city will obtain a small amount of experience.
+All buildings in the city will obtain a |small amount of experience.
 Spend some money to attract more residents.
 *
 *
@@ -219,7 +219,7 @@ Spend some money to attract more residents.
 dom_cz17.agf
 *
 *
-All buildings in the city will obtain a small amount of experience.
+All buildings in the city will obtain a |small amount of experience.
 Attracts some residents.
 *
 *
@@ -228,7 +228,7 @@ Attracts some residents.
 dom_cz11.agf
 *
 *
-All buildings in the city will obtain a small amount of experience.
+All buildings in the city will obtain a |small amount of experience.
 Spend some money to attract more residents.
 *
 *
@@ -237,7 +237,7 @@ Spend some money to attract more residents.
 dom_cz12.agf
 商店
 *
-All buildings in the city will obtain a small amount of experience.
+All buildings in the city will obtain a |small amount of experience.
 Spend some money to attract more residents.
 *
 *
@@ -246,7 +246,7 @@ Spend some money to attract more residents.
 dom_cz07.agf
 *
 *
-All buildings in the city will obtain a small amount of experience.
+All buildings in the city will obtain a |small amount of experience.
 Spend some money to attract more residents.
 *
 *
@@ -255,7 +255,7 @@ Spend some money to attract more residents.
 dom_cz07.agf
 *
 *
-All buildings in the city will obtain a small amount of experience.
+All buildings in the city will obtain a |small amount of experience.
 Spend some money to attract more residents.
 *
 *
@@ -264,7 +264,7 @@ Spend some money to attract more residents.
 dom_cz13.agf
 *
 *
-All buildings in the city will obtain a small amount of experience.
+All buildings in the city will obtain a |small amount of experience.
 Attracts some residents.
 *
 *
@@ -273,7 +273,7 @@ Attracts some residents.
 dom_cz13.agf
 *
 *
-All buildings in the city will obtain a small amount of experience.
+All buildings in the city will obtain a |small amount of experience.
 Attracts some residents.
 *
 *
@@ -282,7 +282,7 @@ Attracts some residents.
 dom_cz14.agf
 娯楽店
 *
-All buildings in the city will obtain a small amount of experience.
+All buildings in the city will obtain a |small amount of experience.
 Spend some money to attract more residents.
 *
 *
@@ -291,7 +291,7 @@ Spend some money to attract more residents.
 dom_cz14.agf
 娯楽店
 *
-All buildings in the city will obtain a small amount of experience.
+All buildings in the city will obtain a |small amount of experience.
 Spend some money to attract more residents.
 *
 *
@@ -300,7 +300,7 @@ Spend some money to attract more residents.
 dom_cz14.agf
 娯楽店
 *
-All buildings in the city will obtain a small amount of experience.
+All buildings in the city will obtain a |small amount of experience.
 Spend some money to attract more residents.
 *
 *
@@ -309,7 +309,7 @@ Spend some money to attract more residents.
 dom_cz02.agf
 *
 *
-All buildings in the city will obtain a small amount of experience.
+All buildings in the city will obtain a |small amount of experience.
 Spend some money and food to attract some residents.
 *
 *
@@ -318,7 +318,7 @@ Spend some money and food to attract some residents.
 dom_cz06.agf
 スタジアム
 *
-All buildings in the city will obtain a small amount of experience.
+All buildings in the city will obtain a |small amount of experience.
 Spend some money to attract more residents.
 *
 *
@@ -327,7 +327,7 @@ Spend some money to attract more residents.
 dom_cz23.agf
 *
 *
-All buildings in the city will obtain a small amount of experience.
+All buildings in the city will obtain a |small amount of experience.
 Spend some money to attract more residents.
 *
 *
@@ -336,7 +336,7 @@ Spend some money to attract more residents.
 dom_cz24.agf
 *
 *
-All buildings in the city will obtain a small amount of experience.
+All buildings in the city will obtain a |small amount of experience.
 Spend some money to attract more residents.
 *
 *
@@ -345,7 +345,7 @@ Spend some money to attract more residents.
 dom_cz18.agf
 *
 *
-All buildings in the city will obtain a small amount of experience.
+All buildings in the city will obtain a |small amount of experience.
 Spend some money to attract more residents.
 *
 *
