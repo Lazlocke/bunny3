@@ -672,7 +672,7 @@ Fairy
 *
 *
 なし
-A prankster like fairies,|but knows the rumors so|steers clear from Darx.
+A prankster like all fairies,|but knows the rumors so|steers clear from Darx.
 IF SEEN, PLEASE REPORT THIS
 //entry 26 -----------------------
 味方フワ
@@ -1140,7 +1140,7 @@ Ponytaur
 *
 *
 なし
-So reserved and unassuming|that people often forget|she's there.
+So reserved and unassuming|that people often forget|he's there.
 IF SEEN, PLEASE REPORT THIS
 //entry 44 -----------------------
 味方ミレニアム
