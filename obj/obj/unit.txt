@@ -8,9 +8,9 @@ Overlord?
 ダークスタイプ
 基本
 必殺耐性+20|異常耐性+20
-魔王
-魔王
-魔王
+Overlord
+Overlord
+Overlord
 剣撃
 乱舞斬
 秘剣・鶯
@@ -22,7 +22,7 @@ Overlord?
 *
 *
 なし
-An Overlord with many|children who enjoys growing|vegetables.|As a former adventurer, he|has many skills.
+An Overlord with many children who enjoys growing vegetables.|As a former adventurer, he has many skills.
 IF SEEN, PLEASE REPORT THIS
 //entry 1 -----------------------
 味方白ヘビ様
@@ -34,9 +34,9 @@ Snake Tamer
 万能タイプ
 基本
 異常耐性+100
-全体気力回復
-掛け声
-指揮官
+Soothing
+Cheer
+Commander
 固定／ヘビの牙
 *
 *
@@ -48,7 +48,7 @@ Snake Tamer
 *
 *
 なし
-Member of a clan of magic|users who live in the human|world. |Naturally resistant to many|things.
+Member of a clan of magic users who live in the human world. |Naturally resistant to many things.
 IF SEEN, PLEASE REPORT THIS
 //entry 2 -----------------------
 味方冥土さん
@@ -60,9 +60,9 @@ Hell Maid
 奇才タイプ
 基本
 *
-気力回復
-地図
-無能
+Energetic
+Orienteering
+Inept
 固定／ホウキ払い
 *
 *
@@ -86,9 +86,9 @@ Miss Horn
 普通タイプ
 基本
 *
-先制暗殺攻撃
-忍び寄る者
-独立行動
+Assassin
+Onslaught
+Independent
 固定／骸骨流剣撃
 *
 *
@@ -100,7 +100,7 @@ Miss Horn
 *
 *
 なし
-An elite and storied|soldier.|Don't ask about her record.
+An elite and storied soldier.|Don't ask about her record.
 IF SEEN, PLEASE REPORT THIS
 //entry 4 -----------------------
 味方レイリン
@@ -112,9 +112,9 @@ Lilim
 早熟タイプ
 基本
 *
-罠被害軽減
-罠被害軽減
-小隊長
+Blessing
+Blessing
+Subcommander
 固定／小さな光
 *
 *
@@ -126,7 +126,7 @@ Lilim
 *
 *
 なし
-A little overshadowed by all|the recent immigrants from|Celestia.
+A little overshadowed by all the recent immigrants from Celestia.
 IF SEEN, PLEASE REPORT THIS
 //entry 5 -----------------------
 味方トウフ君
@@ -138,9 +138,9 @@ Mr. Tofu
 回避タイプ
 基本
 *
-勤勉
-勤勉
-商業の才
+Diligent
+Diligent
+Merchant
 固定／正拳突き
 *
 *
@@ -152,7 +152,7 @@ Mr. Tofu
 *
 *
 なし
-A demon dedicated to|spreading the glory of tofu. |Longs for the east.
+A demon dedicated to spreading the glory of tofu. |Longs for the east.
 IF SEEN, PLEASE REPORT THIS
 //entry 6 -----------------------
 味方魔鬼
@@ -164,9 +164,9 @@ Ogre Girl
 普通タイプ
 基本
 必殺耐性+15
-遠視
-遠視
-警備の才
+Hawkeye
+Hawkeye
+Straightlaced
 固定／引っ掻き
 固定／小さな闇
 *
@@ -178,7 +178,7 @@ Ogre Girl
 *
 *
 なし
-Don't be fooled by her|appearance, or she'll make|you pay.
+Don't be fooled by her appearance, or she'll make you pay.
 IF SEEN, PLEASE REPORT THIS
 //entry 7 -----------------------
 味方天界兵Ａ
@@ -190,9 +190,9 @@ Holy Light
 普通タイプ
 基本
 必殺耐性+15
-勤勉
-攻撃支援
-指揮官
+Diligent
+Inspiring
+Commander
 固定／小さな光
 *
 *
@@ -204,7 +204,7 @@ Holy Light
 *
 *
 なし
-Currently a member of Darx's|guard.
+Currently a member of Darx's guard.
 IF SEEN, PLEASE REPORT THIS
 //entry 8 -----------------------
 味方天界兵Ｂ
@@ -216,9 +216,9 @@ Holy Light
 普通タイプ
 基本
 必殺耐性+15
-勤勉
-防御支援
-小隊長
+Diligent
+Reassuring
+Subcommander
 固定／天界剣
 *
 *
@@ -230,7 +230,7 @@ Holy Light
 *
 *
 なし
-Currently a member of Darx's|guard.
+Currently a member of Darx's guard.
 IF SEEN, PLEASE REPORT THIS
 //entry 9 -----------------------
 味方天界兵Ｃ
@@ -242,9 +242,9 @@ Holy Light
 普通タイプ
 基本
 必殺耐性+15
-勤勉
-治療支援
-人気者
+Diligent
+Nurse
+Charismatic
 固定／天界剣
 *
 *
@@ -256,7 +256,7 @@ Holy Light
 *
 *
 なし
-Currently a member of Darx's|guard.
+Currently a member of Darx's guard.
 IF SEEN, PLEASE REPORT THIS
 //entry 10 -----------------------
 味方天界兵Ｄ
@@ -268,9 +268,9 @@ Holy Light
 普通タイプ
 基本
 必殺耐性+15
-勤勉
-警戒心
-独立行動
+Diligent
+Wary
+Independent
 固定／天界剣
 *
 *
@@ -282,7 +282,7 @@ Holy Light
 *
 *
 なし
-Currently a member of Darx's|guard.
+Currently a member of Darx's guard.
 IF SEEN, PLEASE REPORT THIS
 //entry 11 -----------------------
 味方クマン
@@ -294,9 +294,9 @@ Werebear
 体力タイプ
 基本
 *
-身代わり
-サブメンバー
-内政の才
+Scapegoat
+Reservist
+Bureaucrat
 固定／爪
 *
 *
@@ -308,7 +308,7 @@ Werebear
 *
 *
 なし
-Proud of his defense, but is|bad with dogs.
+Proud of his defense, but is bad with dogs.
 IF SEEN, PLEASE REPORT THIS
 //entry 12 -----------------------
 味方ベト
@@ -320,9 +320,9 @@ Goo
 普通タイプ
 基本
 *
-防御強化／縦
-サブメンバー
-人気者
+Iron Support
+Reservist
+Charismatic
 固定／ベトアタック
 小回復
 *
@@ -334,7 +334,7 @@ Goo
 *
 *
 なし
-Despite how he looks, he's a|tested and seasoned hero.
+Despite how he looks, he's a tested and seasoned hero.
 IF SEEN, PLEASE REPORT THIS
 //entry 13 -----------------------
 味方モエルモン
@@ -346,9 +346,9 @@ Ent
 普通タイプ
 基本
 火耐性-50
-魔法耐性
-援護射撃
-教育の才
+Resistant
+Guardian
+Professor
 固定／炭火
 *
 *
@@ -360,7 +360,7 @@ Ent
 *
 *
 なし
-His life's work is the study|of fire magic.
+His life's work is the study of fire magic.
 IF SEEN, PLEASE REPORT THIS
 //entry 14 -----------------------
 味方暗黒騎士
@@ -372,9 +372,9 @@ Dark Knight
 攻撃タイプ
 基本
 必殺耐性+15|異常耐性+100
-いなし
-サブメンバー
-無能
+Anticipation
+Reservist
+Inept
 固定／暗黒剣
 *
 *
@@ -386,7 +386,7 @@ Dark Knight
 *
 *
 なし
-Couldn't find a job in the|Netherworld, so he came to|the city.
+Couldn't find a job in the Netherworld, so he came to the city.
 IF SEEN, PLEASE REPORT THIS
 //entry 15 -----------------------
 味方ダークマジシャン
@@ -398,9 +398,9 @@ Dark Mage
 気力タイプ
 基本
 光耐性-50
-前向精神
-前向精神
-教育の才
+Channeler
+Channeler
+Professor
 固定／魔力の火
 *
 *
@@ -412,7 +412,7 @@ Dark Mage
 *
 *
 なし
-Currently studying all|manner of things.
+Currently studying all manner of things.
 IF SEEN, PLEASE REPORT THIS
 //entry 16 -----------------------
 味方ファットデビル
@@ -424,9 +424,9 @@ Fat Demon
 普通タイプ
 基本
 *
-先制攻撃迎撃
-健康優良児
-資源管理
+Paranoid
+Snacker
+Logistician
 固定／槍
 *
 *
@@ -438,7 +438,7 @@ Fat Demon
 *
 *
 なし
-Permanent honorary president|of the It's Okay To Be Chubby|club.
+Permanent honorary president of the It's Okay To Be Chubby club.
 IF SEEN, PLEASE REPORT THIS
 //entry 17 -----------------------
 味方ハラミボディ
@@ -450,9 +450,9 @@ Meatotaur
 普通タイプ
 基本
 必殺耐性+100
-防御強化／後
-健康優良児
-食料管理
+Iron Escort
+Snacker
+Gourmand
 固定／斧
 *
 *
@@ -464,7 +464,7 @@ Meatotaur
 *
 *
 なし
-Specializes in defense, but|can attack too. Resistant to|killing blows.
+Specializes in defense, but can attack too. Resistant to killing blows.
 IF SEEN, PLEASE REPORT THIS
 //entry 18 -----------------------
 味方ハンマースィング
@@ -476,9 +476,9 @@ Goliath
 体力タイプ
 基本
 必殺耐性+20|異常耐性+100
-健康優良児
-健康優良児
-警備の才
+Snacker
+Snacker
+Straightlaced
 固定／ハンマー
 *
 *
@@ -490,7 +490,7 @@ Goliath
 *
 *
 なし
-Takes care of those around|him, so a lot of people think|of him as their big brother.
+Takes care of those around him, so a lot of people think of him as their big brother.
 IF SEEN, PLEASE REPORT THIS
 //entry 19 -----------------------
 味方漆黒騎士
@@ -502,9 +502,9 @@ Onyx Knight
 攻撃タイプ
 基本
 必殺耐性+100|異常耐性+100|行動回数+1
-威殺
-警戒心
-軍事向き
+Merciless
+Wary
+General
 固定／漆黒剣
 固定／無限の闇
 *
@@ -516,7 +516,7 @@ Onyx Knight
 *
 *
 なし
-A true Netherworld knight|who acts twice as fast.
+A true Netherworld knight who acts twice as fast.
 IF SEEN, PLEASE REPORT THIS
 //entry 20 -----------------------
 味方サキュー
@@ -528,9 +528,9 @@ Succubus
 普通タイプ
 基本
 異常耐性+100
-感知
-感知
-補佐官
+Perceptive
+Perceptive
+Aide
 固定／引っ掻き
 固定／小さな闇
 *
@@ -542,7 +542,7 @@ Succubus
 *
 *
 なし
-Originally didn't like|dressing sexy, but being near|Darx has made her open up.
+Originally didn't like dressing sexy, but being near Darx has made her open up.
 IF SEEN, PLEASE REPORT THIS
 //entry 21 -----------------------
 味方ロームス
@@ -554,9 +554,9 @@ Loams
 防御タイプ
 基本
 *
-打撃属性耐性／前
-学
-人気者
+Sturdy Wall
+Tutor
+Charismatic
 固定／引っ掻き
 固定／小さな雷
 *
@@ -568,7 +568,7 @@ Loams
 *
 *
 なし
-An unusual race of two|paired demons, a rockette and|a rocky.
+An unusual race of two paired demons, a rockette and a rocky.
 IF SEEN, PLEASE REPORT THIS
 //entry 22 -----------------------
 味方アリトン
@@ -580,9 +580,9 @@ Antman
 攻撃タイプ
 基本
 打耐性+50|射耐性+30
-防御強化／横
-学
-小隊長
+Iron Ally
+Tutor
+Subcommander
 固定／殴る
 *
 *
@@ -606,9 +606,9 @@ Triclops
 普通タイプ
 基本
 闇耐性+30
-学
-罠発見
-人気者
+Tutor
+Trap Sense
+Charismatic
 固定／魔力の玉
 *
 *
@@ -620,7 +620,7 @@ Triclops
 *
 *
 なし
-Especially interested in eye|care.|Also, clothing.
+Especially interested in eye care.|Also, clothing.
 IF SEEN, PLEASE REPORT THIS
 //entry 24 -----------------------
 味方リフリ
@@ -632,9 +632,9 @@ Nymph
 普通タイプ
 基本
 異常耐性+100
-回復
-治療支援
-資金管理
+Regenerator
+Nurse
+Accountant
 固定／ツルのムチ
 *
 *
@@ -646,7 +646,7 @@ Nymph
 *
 *
 なし
-She's laid back, but|surprisingly active.|Enjoys sunbathing.
+She's laid back, but surprisingly active.|Enjoys sunbathing.
 IF SEEN, PLEASE REPORT THIS
 //entry 25 -----------------------
 味方チャミ
@@ -658,9 +658,9 @@ Fairy
 回避タイプ
 基本
 *
-地図
-地図
-娯楽の才
+Orienteering
+Orienteering
+Festive
 固定／小さな風
 固定／チャミの正気針
 *
@@ -672,7 +672,7 @@ Fairy
 *
 *
 なし
-A prankster like all fairies,|but knows the rumors so|steers clear from Darx.
+A prankster like fairies, but knows the rumors so steers clear from Darx.
 IF SEEN, PLEASE REPORT THIS
 //entry 26 -----------------------
 味方フワ
@@ -684,9 +684,9 @@ Pixie
 回避タイプ
 基本
 必殺耐性+15|異常耐性+100
-罠発見
-罠発見
-食料管理
+Trap Sense
+Trap Sense
+Gourmand
 固定／小さな風
 固定／フワの癒し
 *
@@ -698,7 +698,7 @@ Pixie
 *
 *
 なし
-She's unusually serious for|a fairy, so people are always|suspicious of her.
+She's unusually serious for a fairy, so people are always suspicious of her.
 IF SEEN, PLEASE REPORT THIS
 //entry 27 -----------------------
 味方ブラックバード
@@ -710,9 +710,9 @@ Blackbird
 回避タイプ
 基本
 必殺耐性+5
-速度強化／横
-忍び寄る者
-補佐官
+Swift Ally
+Onslaught
+Aide
 固定／手刀
 *
 *
@@ -724,7 +724,7 @@ Blackbird
 *
 *
 なし
-Personally wishes that she|was called a whitebird.
+Personally wishes that she was called a whitebird.
 IF SEEN, PLEASE REPORT THIS
 //entry 28 -----------------------
 味方ミノス
@@ -736,9 +736,9 @@ Minos
 防御タイプ
 基本
 必殺耐性+30|打耐性+50|射耐性+50
-防御強化／横
-掛け声
-小隊長
+Iron Ally
+Cheer
+Subcommander
 固定／ハンマー
 *
 *
@@ -750,7 +750,7 @@ Minos
 *
 *
 なし
-Her armor is special and can|only be worn by her.|Loves hammers and axes.
+Her armor is special and can only be worn by her.|Loves hammers and axes.
 IF SEEN, PLEASE REPORT THIS
 //entry 29 -----------------------
 味方ステップ
@@ -762,9 +762,9 @@ Steppe
 普通タイプ
 基本
 必殺耐性+5
-回避強化／横
-ダークス愛／攻
-娯楽の才
+Evasive Ally
+Loving Cheer
+Festive
 固定／剣の舞
 固定／刃の舞
 *
@@ -776,7 +776,7 @@ Steppe
 *
 *
 なし
-Prefers to be active and|can't stand sitting still.
+Prefers to be active and can't stand sitting still.
 IF SEEN, PLEASE REPORT THIS
 //entry 30 -----------------------
 味方ウブズ
@@ -788,9 +788,9 @@ Songstress
 気力タイプ
 基本
 必殺耐性+5
-先制攻撃無効化
-ダークス愛／防
-商業の才
+Vigilant
+Loving Bolster
+Merchant
 固定／混乱の歌
 固定／癒しの歌
 *
@@ -802,7 +802,7 @@ Songstress
 *
 *
 なし
-Likes to sing, but her songs|are so powerful that they can|be dangerous.
+Likes to sing, but her songs are so powerful that they can be dangerous.
 IF SEEN, PLEASE REPORT THIS
 //entry 31 -----------------------
 味方モジ
@@ -814,9 +814,9 @@ Page
 普通タイプ
 基本
 斬耐性+20
-打撃属性耐性／横
-罠発見
-衛生の才
+Sturdy Ally
+Trap Sense
+Neat Freak
 固定／魔力の文字
 *
 *
@@ -828,7 +828,7 @@ Page
 *
 *
 なし
-Might be mistaken for|regular paper.
+Might be mistaken for regular paper.
 IF SEEN, PLEASE REPORT THIS
 //entry 32 -----------------------
 味方ペパ
@@ -840,9 +840,9 @@ Bookmark
 普通タイプ
 基本
 斬耐性+50
-打撃属性耐性／前
-罠発見
-内政向き
+Sturdy Wall
+Trap Sense
+Governor
 固定／紙斬り
 *
 *
@@ -854,7 +854,7 @@ Bookmark
 *
 *
 なし
-Used to stay in the library|at Forzelotte's Palace, but|decided to come to the city.
+Used to stay in the library at Forzelotte's Palace, but decided to come to the city.
 IF SEEN, PLEASE REPORT THIS
 //entry 33 -----------------------
 味方クラ
@@ -866,9 +866,9 @@ Dista Egg
 普通タイプ
 基本
 *
-防御強化／後
-罠発見
-資源管理
+Iron Escort
+Trap Sense
+Logistician
 固定／レーザー
 *
 *
@@ -880,7 +880,7 @@ Dista Egg
 *
 *
 なし
-Be careful. They grow up|fast.
+Be careful. They grow up fast.
 IF SEEN, PLEASE REPORT THIS
 //entry 34 -----------------------
 味方ポタタ
@@ -892,9 +892,9 @@ Iara
 体力タイプ
 基本
 火耐性+50|光耐性+50
-回復
-治療支援
-人気者
+Regenerator
+Nurse
+Charismatic
 固定／ウォーターショット
 *
 *
@@ -906,7 +906,7 @@ Iara
 *
 *
 なし
-If it's in the sun too long,|it'll shrink.
+If it's in the sun too long, it'll shrink.
 IF SEEN, PLEASE REPORT THIS
 //entry 35 -----------------------
 味方スカイアン
@@ -918,9 +918,9 @@ Sky Angler
 普通タイプ
 基本
 異常耐性-80
-射撃属性耐性／後
-感知
-内政の才
+Covering Escort
+Perceptive
+Bureaucrat
 固定／小さな水
 *
 *
@@ -944,9 +944,9 @@ Gooette
 普通タイプ
 基本
 光耐性+50
-防御強化／縦
-罠発見
-内政向き
+Iron Support
+Trap Sense
+Governor
 固定／ベトアタック
 *
 *
@@ -958,7 +958,7 @@ Gooette
 *
 *
 なし
-Hopes to one day become a|real woman.
+Hopes to one day become a real woman.
 IF SEEN, PLEASE REPORT THIS
 //entry 37 -----------------------
 味方天ベト
@@ -970,9 +970,9 @@ Holy Goo
 万能タイプ
 基本
 光耐性+50
-気力回復
-学
-小隊長
+Energetic
+Tutor
+Subcommander
 固定／ベトレーザー
 *
 *
@@ -984,7 +984,7 @@ Holy Goo
 *
 *
 なし
-Serious and dedicated, but|his body isn't cut out for|writing.
+Serious and dedicated, but his body isn't cut out for writing.
 IF SEEN, PLEASE REPORT THIS
 //entry 38 -----------------------
 味方一角ベト
@@ -996,9 +996,9 @@ Circumgoo
 普通タイプ
 基本
 斬耐性+50
-生命力
-遠視
-内政向き
+Tenacious
+Hawkeye
+Governor
 固定／粘液
 *
 *
@@ -1010,7 +1010,7 @@ Circumgoo
 *
 *
 なし
-Wonders if it might have a|corner and not be truly|round.
+Wonders if it might have a corner and not be truly round.
 IF SEEN, PLEASE REPORT THIS
 //entry 39 -----------------------
 味方マル
@@ -1022,9 +1022,9 @@ Goop
 普通タイプ
 基本
 *
-攻撃強化／前
-地図
-商業の才
+Aggressive Wall
+Orienteering
+Merchant
 固定／魔力の玉
 *
 *
@@ -1036,7 +1036,7 @@ Goop
 *
 *
 なし
-Hates to be confused with|goos.
+Hates to be confused with goos.
 IF SEEN, PLEASE REPORT THIS
 //entry 40 -----------------------
 味方スーソード
@@ -1049,8 +1049,8 @@ Holy Slasher
 基本
 行動回数+1
 凶暴者
-警戒心
-無能
+Wary
+Inept
 固定／真っ二つ
 固定／乱剣殺
 *
@@ -1062,7 +1062,7 @@ Holy Slasher
 *
 *
 なし
-Every day, he searches for|someone to properly sharpen|him.
+Every day, he searches for someone to properly sharpen him.
 IF SEEN, PLEASE REPORT THIS
 //entry 41 -----------------------
 味方ラムバディ
@@ -1074,9 +1074,9 @@ Meatakrios
 普通タイプ
 基本
 斬耐性+50
-防御強化／後
-サブメンバー
-独立行動
+Iron Escort
+Reservist
+Independent
 固定／鎌
 *
 *
@@ -1088,7 +1088,7 @@ Meatakrios
 *
 *
 なし
-Sees meatotaurs as his|natural rival.
+Sees meatotaurs as his natural rival.
 IF SEEN, PLEASE REPORT THIS
 //entry 42 -----------------------
 味方クラム
@@ -1100,9 +1100,9 @@ Kiwi
 体力タイプ
 基本
 *
-射撃属性耐性／後
-学
-農業の才
+Covering Escort
+Tutor
+Green Thumb
 固定／種
 *
 *
@@ -1114,7 +1114,7 @@ Kiwi
 *
 *
 なし
-Eats every fruit put in|front of him, and then|communicates the fruit's|feelings.
+Eats every fruit put in front of him, and then communicates the fruit's feelings.
 IF SEEN, PLEASE REPORT THIS
 //entry 43 -----------------------
 味方ダレット
@@ -1126,9 +1126,9 @@ Ponytaur
 防御タイプ
 基本
 斬耐性+30|打耐性+30|射耐性+30
-先制攻撃
-サブメンバー
-軍事向き
+Preemptive
+Reservist
+General
 固定／槍
 *
 *
@@ -1140,7 +1140,7 @@ Ponytaur
 *
 *
 なし
-So reserved and unassuming|that people often forget|he's there.
+So reserved and unassuming that people often forget she's there.
 IF SEEN, PLEASE REPORT THIS
 //entry 44 -----------------------
 味方ミレニアム
@@ -1152,9 +1152,9 @@ Maya
 普通タイプ
 基本
 *
-魔法耐性
-掛け声
-小隊長
+Resistant
+Cheer
+Subcommander
 固定／斬り
 *
 *
@@ -1166,7 +1166,7 @@ Maya
 *
 *
 なし
-Shows off her breasts, but|that's a racial thing, not|because she's slutty.
+Shows off her breasts, but that's a racial thing, not because she's slutty.
 IF SEEN, PLEASE REPORT THIS
 //entry 45 -----------------------
 味方黒い婦人
@@ -1178,9 +1178,9 @@ Dark Lady
 奇才タイプ
 基本
 光耐性-50|斬耐性+70|打耐性+70|射耐性+70
-いなし
-忍び寄る者
-補佐官
+Anticipation
+Onslaught
+Aide
 固定／小さな闇
 *
 *
@@ -1192,7 +1192,7 @@ Dark Lady
 *
 *
 なし
-Cannot be physically|touched, but is very|vulnerable to magic.
+Cannot be physically touched, but is very vulnerable to magic.
 IF SEEN, PLEASE REPORT THIS
 //entry 46 -----------------------
 味方ライスボール
@@ -1204,9 +1204,9 @@ Big Roller
 体力タイプ
 基本
 *
-前向精神
-前向精神
-人気者
+Channeler
+Channeler
+Charismatic
 固定／体当たり
 *
 *
@@ -1218,7 +1218,7 @@ Big Roller
 *
 *
 なし
-Says strange things, but is|a good guy and generally|well-liked.
+Says strange things, but is a good guy and generally well-liked.
 IF SEEN, PLEASE REPORT THIS
 //entry 47 -----------------------
 味方ジューシーボディ
@@ -1230,9 +1230,9 @@ Gristletaur
 万能タイプ
 基本
 *
-射撃属性耐性／全
-掛け声
-天才
+Covering Leader
+Cheer
+Genius
 固定／正拳突き
 *
 *
@@ -1244,7 +1244,7 @@ Gristletaur
 *
 *
 なし
-Extremely smart, extremely|seasoned.|Very reliable.
+Extremely smart, extremely seasoned.|Very reliable.
 IF SEEN, PLEASE REPORT THIS
 //entry 48 -----------------------
 味方黒モーモー
@@ -1256,9 +1256,9 @@ Black Moomoo
 普通タイプ
 基本
 光耐性-50
-いなし
-学
-小隊長
+Anticipation
+Tutor
+Subcommander
 固定／噛み付き
 *
 *
@@ -1270,7 +1270,7 @@ Black Moomoo
 *
 *
 なし
-Is constantly being tripped|over and stepped on, but has|a tough spirit and doesn't|let that get him down.
+Is constantly being tripped over and stepped on, but has a tough spirit and doesn't let that get him down.
 IF SEEN, PLEASE REPORT THIS
 //entry 49 -----------------------
 味方レッドバード
@@ -1282,9 +1282,9 @@ Firebird
 万能タイプ
 基本
 必殺耐性+20|異常耐性+20|火耐性+50
-速度強化／前
-防御支援
-資金管理
+Swift Wall
+Reassuring
+Accountant
 固定／火炎斬り
 固定／大豪炎
 固定／朱雀掌
@@ -1296,7 +1296,7 @@ Firebird
 *
 *
 なし
-Despite looking like a hot|head, she's surprisingly|intelligent.
+Despite looking like a hot head, she's surprisingly intelligent.
 IF SEEN, PLEASE REPORT THIS
 //entry 50 -----------------------
 味方ティーグレ
@@ -1308,9 +1308,9 @@ Tigre
 攻撃タイプ
 基本
 必殺耐性+20|異常耐性+20|打耐性+50
-先制攻撃無効化
-攻撃支援
-軍事向き
+Vigilant
+Inspiring
+General
 固定／虎の金棒
 固定／押し金棒
 固定／虎王の金棒
@@ -1322,7 +1322,7 @@ Tigre
 *
 *
 なし
-Her race believes the strong|rule the weak, and allies|herself with people as strong|as her.
+Her race believes the strong rule the weak, and allies herself with people as strong as her.
 IF SEEN, PLEASE REPORT THIS
 //entry 51 -----------------------
 味方タートルランナー
@@ -1334,9 +1334,9 @@ Turtle Runner
 晩成タイプ
 基本
 必殺耐性+20|異常耐性+20|水耐性+50
-前向精神
-前向精神
-娯楽の才
+Channeler
+Channeler
+Festive
 固定／水弾
 固定／水連弾
 固定／亀の知恵
@@ -1348,7 +1348,7 @@ Turtle Runner
 *
 *
 なし
-Is the leader of her people|because she can control her|turtle the best.
+Is the leader of her people because she can control her turtle the best.
 IF SEEN, PLEASE REPORT THIS
 //entry 52 -----------------------
 味方ブラウ
@@ -1360,9 +1360,9 @@ Blaeu
 普通タイプ
 基本
 必殺耐性+20|異常耐性+20|斬耐性+50
-攻撃強化／横
-学
-教育の才
+Aggressive Ally
+Tutor
+Professor
 固定／青龍斬り
 固定／秘剣／青龍
 固定／無限斬り
@@ -1374,7 +1374,7 @@ Blaeu
 *
 *
 なし
-Pretends to be smart, but in|the end, is hit first, talk|later.|Proud of her swordsmanship.
+Pretends to be smart, but in the end, is hit first, talk later.|Proud of her swordsmanship.
 IF SEEN, PLEASE REPORT THIS
 //entry 53 -----------------------
 味方リーフウッド
@@ -1386,9 +1386,9 @@ Leafwood
 普通タイプ
 基本
 必殺耐性+20|異常耐性+20|射耐性+50
-先制攻撃
-援護射撃
-補佐官
+Preemptive
+Guardian
+Aide
 固定／森の矢
 固定／森の雨矢
 固定／森の豪矢
@@ -1400,7 +1400,7 @@ Leafwood
 *
 *
 なし
-A moderate, but sometimes|supports extreme acts in the|name of peace.|Enjoys growing plants.
+A moderate, but sometimes supports extreme acts in the name of peace.|Enjoys growing plants.
 IF SEEN, PLEASE REPORT THIS
 //entry 54 -----------------------
 味方サマキュー
@@ -1412,9 +1412,9 @@ Imp
 攻撃タイプ
 基本
 必殺耐性+20|異常耐性+20|闇耐性+50
-邪魔回復
-ダークス愛／速
-独立行動
+Sickening
+Loving Haste
+Independent
 固定／悪魔の槍
 固定／悪魔王の槍
 固定／突き飛ばし
@@ -1426,7 +1426,7 @@ Imp
 *
 *
 なし
-Hard to believe she's a|leader with how carefree and|unrestrained she is.|Works hard in secret to|protect her former|followers.
+Hard to believe she's a leader with how carefree and unrestrained she is.|Works hard in secret to protect her former followers.
 IF SEEN, PLEASE REPORT THIS
 //entry 55 -----------------------
 味方ルーセット
@@ -1438,9 +1438,9 @@ Rousette
 早熟タイプ
 基本
 必殺耐性+20|異常耐性+20|風耐性+50
-攻撃強化／前
-ダークス愛／防
-小隊長
+Aggressive Wall
+Loving Bolster
+Subcommander
 固定／逆斬り
 固定／逆乱れ斬り
 固定／逆必殺斬り
@@ -1452,7 +1452,7 @@ Rousette
 *
 *
 なし
-Can sleep while hanging from|the ceiling, but has also|been known to fall.
+Can sleep while hanging from the ceiling, but has also been known to fall.
 IF SEEN, PLEASE REPORT THIS
 //entry 56 -----------------------
 味方アイスショット
@@ -1464,9 +1464,9 @@ Khione
 回避タイプ
 基本
 必殺耐性+20|異常耐性+20|水耐性+50
-防御強化／横
-ダークス愛／速
-資金管理
+Iron Ally
+Loving Haste
+Accountant
 固定／二連ツララ
 固定／三連ツララ
 固定／四連ツララ
@@ -1478,7 +1478,7 @@ Khione
 *
 *
 なし
-Usually quiet, but isn't|afraid to stab mercilessly|with her icicles.
+Usually quiet, but isn't afraid to stab mercilessly with her icicles.
 IF SEEN, PLEASE REPORT THIS
 //entry 57 -----------------------
 味方アンゴラメイ
@@ -1490,9 +1490,9 @@ Angolamay
 普通タイプ
 基本
 必殺耐性+20|異常耐性+20|土耐性+50
-回避強化／横
-ダークス愛／攻
-内政向き
+Evasive Ally
+Loving Cheer
+Governor
 固定／山羊の拳
 固定／山羊の強打
 固定／山羊の豪打
@@ -1504,7 +1504,7 @@ Angolamay
 *
 *
 なし
-Her species are natural|mothers and great at raising|children.
+Her species are natural mothers and great at raising children.
 IF SEEN, PLEASE REPORT THIS
 //entry 58 -----------------------
 味方ミアルテ
@@ -1516,9 +1516,9 @@ Seraphim of Light
 気力タイプ
 基本
 必殺耐性+50|異常耐性+50|光耐性+40
-魔法耐性
-ダークス愛／攻
-政治家
+Resistant
+Loving Cheer
+Politician
 固定／光神の光
 固定／貫く光
 固定／溢れる光
@@ -1530,7 +1530,7 @@ Seraphim of Light
 *
 *
 なし
-Used to have a high position|in the Holy Light, but is now|one of Darx's mistresses.|Proud of the size of her|chest.
+Used to have a high position in the Holy Light, but is now one of Darx's mistresses.|Proud of the size of her chest.
 IF SEEN, PLEASE REPORT THIS
 //entry 59 -----------------------
 味方ルーアルテ
@@ -1542,9 +1542,9 @@ Holy Light
 万能タイプ
 基本
 必殺耐性+50|異常耐性+50|光耐性+15|雷耐性+25
-勤勉
-ダークス愛／防
-天才
+Diligent
+Loving Bolster
+Genius
 固定／光神の光
 固定／天雷棒
 固定／天雷棒の雷
@@ -1556,7 +1556,7 @@ Holy Light
 *
 *
 なし
-Has a lot of potential, but|is very impatient.
+Has a lot of potential, but is very impatient.
 IF SEEN, PLEASE REPORT THIS
 //entry 60 -----------------------
 味方キュリハ
@@ -1569,8 +1569,8 @@ Seraphim of Seed
 基本
 必殺耐性+50|異常耐性+50|土耐性+35
 凶暴者
-ダークス愛／速
-大将軍
+Loving Haste
+Eminent
 固定／樹神の腕
 固定／樹神の知恵
 固定／樹神の嘆き
@@ -1582,7 +1582,7 @@ Seraphim of Seed
 *
 *
 なし
-Was going to be a leader of|the Holy Seed.|Is eminently capable, but|seems to have a wild past.
+Was going to be a leader of the Holy Seed.|Is eminently capable, but seems to have a wild past.
 IF SEEN, PLEASE REPORT THIS
 //entry 61 -----------------------
 味方商会メイドＡ
@@ -1594,9 +1594,9 @@ Company Maid
 万能タイプ
 基本
 必殺耐性+100|異常耐性+100|斬耐性+30|打耐性+30|射耐性+30
-前向精神
-前向精神
-資金管理
+Channeler
+Channeler
+Accountant
 固定／クナイ
 *
 *
@@ -1608,7 +1608,7 @@ Company Maid
 *
 *
 なし
-Strictly speaking, she's not|a company maid, but a|mercenary.
+Strictly speaking, she's not a company maid, but a mercenary.
 IF SEEN, PLEASE REPORT THIS
 //entry 62 -----------------------
 味方商会メイドＢ
@@ -1620,9 +1620,9 @@ Company Maid
 万能タイプ
 基本
 必殺耐性+100|異常耐性+100|斬耐性+30|打耐性+30|射耐性+30
-健康優良児
-健康優良児
-資源管理
+Snacker
+Snacker
+Logistician
 固定／クナイ
 *
 *
@@ -1634,7 +1634,7 @@ Company Maid
 *
 *
 なし
-Strictly speaking, she's not|a company maid, but a|mercenary.
+Strictly speaking, she's not a company maid, but a mercenary.
 IF SEEN, PLEASE REPORT THIS
 //entry 63 -----------------------
 味方商会メイドＣ
@@ -1646,9 +1646,9 @@ Company Maid
 万能タイプ
 基本
 必殺耐性+100|異常耐性+100|斬耐性+30|打耐性+30|射耐性+30
-気力回復
-サブメンバー
-食料管理
+Energetic
+Reservist
+Gourmand
 固定／クナイ
 *
 *
@@ -1660,7 +1660,7 @@ Company Maid
 *
 *
 なし
-Strictly speaking, she's not|a company maid, but a|mercenary.
+Strictly speaking, she's not a company maid, but a mercenary.
 IF SEEN, PLEASE REPORT THIS
 //entry 64 -----------------------
 味方戦士
@@ -1672,9 +1672,9 @@ Warrior
 体力タイプ
 基本
 必殺耐性+20|異常耐性+20|斬耐性+50
-防御強化／前
-ダークス愛／防
-軍事向き
+Iron Wall
+Loving Bolster
+General
 剣撃
 乱舞斬
 *
@@ -1686,7 +1686,7 @@ Warrior
 *
 *
 なし
-Cursed by her sword, but|actually is also a sword|fanatic.
+Cursed by her sword, but actually is also a sword fanatic.
 IF SEEN, PLEASE REPORT THIS
 //entry 65 -----------------------
 味方僧侶
@@ -1698,9 +1698,9 @@ Priest
 奇才タイプ
 基本
 必殺耐性+20|異常耐性+20|闇耐性+50
-生命力
-警戒心
-小隊長
+Tenacious
+Wary
+Subcommander
 光槍
 小回復
 *
@@ -1712,7 +1712,7 @@ Priest
 *
 *
 なし
-Was fanatical to start, but|the object of her obsession|has become Darx...
+Was fanatical to start, but the object of her obsession has become Darx...
 IF SEEN, PLEASE REPORT THIS
 //entry 66 -----------------------
 味方魔法使い
@@ -1724,9 +1724,9 @@ Wizard
 気力タイプ
 基本
 必殺耐性+20|異常耐性+60
-魔法耐性
-遠視
-資源管理
+Resistant
+Hawkeye
+Logistician
 火矢
 漆黒三連
 *
@@ -1738,7 +1738,7 @@ Wizard
 *
 *
 なし
-An overzealous wizard. Gets|along with Darx, demons, and|angels without any issue.
+An overzealous wizard. Gets along with Darx, demons, and angels without any issue.
 IF SEEN, PLEASE REPORT THIS
 //entry 67 -----------------------
 味方侍
@@ -1750,9 +1750,9 @@ Samurai
 万能タイプ
 基本
 必殺耐性+30|異常耐性+20|行動回数+1
-攻撃強化／前
-ダークス愛／攻
-独立行動
+Aggressive Wall
+Loving Cheer
+Independent
 剣撃
 秘剣・鶯
 *
@@ -1764,7 +1764,7 @@ Samurai
 *
 *
 なし
-A very frustrated samurai.|Extremely competent when|she's not going berserk.
+A very frustrated samurai. Extremely competent when she's not going berserk.
 IF SEEN, PLEASE REPORT THIS
 //entry 68 -----------------------
 味方マリーアリス
@@ -1776,9 +1776,9 @@ Holy Light
 万能タイプ
 基本
 必殺耐性+100|異常耐性+100|斬耐性+30
-いなし
-ダークス愛／防
-指揮官
+Anticipation
+Loving Bolster
+Commander
 剣撃
 光槍
 *
@@ -1790,7 +1790,7 @@ Holy Light
 *
 *
 なし
-Commander of the Overlord's|guard. Probably isn't|supposed to be here, but pays|it no mind.
+Commander of the Overlord's guard. Probably isn't supposed to be here, but pays it no mind.
 IF SEEN, PLEASE REPORT THIS
 //entry 69 -----------------------
 味方フィリアネ
@@ -1803,8 +1803,8 @@ Holy Flame
 基本
 必殺耐性+100|異常耐性+100|打耐性+30
 凶暴者
-ダークス愛／速
-補佐官
+Loving Haste
+Aide
 剣撃
 乱舞斬
 *
@@ -1816,7 +1816,7 @@ Holy Flame
 *
 *
 なし
-A master of parenting.|Wants to focus on that|instead of fighting.
+A master of parenting.|Wants to focus on that instead of fighting.
 IF SEEN, PLEASE REPORT THIS
 //entry 70 -----------------------
 味方エカテー
@@ -1828,9 +1828,9 @@ Dungeon Master
 奇才タイプ
 基本
 必殺耐性+100|異常耐性+100|闇耐性+100
-敵攻撃弱体化
-ダークス愛／攻
-大将軍
+Intimidating
+Loving Cheer
+Eminent
 漆黒
 漆黒砲
 *
@@ -1842,7 +1842,7 @@ Dungeon Master
 *
 *
 なし
-Her love is so deep that it|becomes dangerous.
+Her love is so deep that it becomes dangerous.
 IF SEEN, PLEASE REPORT THIS
 //entry 71 -----------------------
 味方パニバーナ
@@ -1854,9 +1854,9 @@ Seraphim of Flame
 回避タイプ
 基本
 必殺耐性+100|異常耐性+100|火耐性+100
-回避強化／全
-掛け声
-軍事向き
+Evasive Leader
+Cheer
+General
 火矢
 火矢三連
 *
@@ -1868,7 +1868,7 @@ Seraphim of Flame
 *
 *
 なし
-Sometimes works even harder|than she did when she was in|Celestia.
+Sometimes works even harder than she did when she was in Celestia.
 IF SEEN, PLEASE REPORT THIS
 //entry 72 -----------------------
 味方イザナ
@@ -1880,9 +1880,9 @@ Seraphim of Water
 攻撃タイプ
 基本
 必殺耐性+100|異常耐性+100|水耐性+100
-速度強化／全
-警戒心
-教育の才
+Swift Leader
+Wary
+Professor
 剣撃
 氷水
 *
@@ -1894,7 +1894,7 @@ Seraphim of Water
 *
 *
 なし
-A former researcher, but was|enchanted by education and|became a teacher.
+A former researcher, but was enchanted by education and became a teacher.
 IF SEEN, PLEASE REPORT THIS
 //entry 73 -----------------------
 味方ウルティニア
@@ -1906,9 +1906,9 @@ Seraphim of Light
 防御タイプ
 基本
 必殺耐性+100|異常耐性+100|光耐性+100
-先制攻撃無効化
-治療支援
-政治家
+Vigilant
+Nurse
+Politician
 光槍
 光槍砲
 *
@@ -1920,7 +1920,7 @@ Seraphim of Light
 *
 *
 なし
-Works with Paniverna to|handle the immigrants from|Celestia for Darx.
+Works with Paniverna to handle the immigrants from Celestia for Darx.
 IF SEEN, PLEASE REPORT THIS
 //entry 74 -----------------------
 ウルフＡ
@@ -1932,9 +1932,9 @@ Woolf
 回避タイプ
 基本
 *
-敵回避弱体化
-攻撃支援
-独立行動
+Bully
+Inspiring
+Independent
 固定／爪
 固定／噛み付き
 *
@@ -1958,9 +1958,9 @@ Woolf
 回避タイプ
 基本
 *
-敵回避弱体化
-攻撃支援
-独立行動
+Bully
+Inspiring
+Independent
 固定／爪
 固定／噛み付き
 *
@@ -1984,9 +1984,9 @@ Woolf
 回避タイプ
 基本
 *
-敵回避弱体化
-攻撃支援
-独立行動
+Bully
+Inspiring
+Independent
 固定／爪
 固定／噛み付き
 *
@@ -2010,9 +2010,9 @@ Werebear
 体力タイプ
 基本
 *
-身代わり
-サブメンバー
-内政の才
+Scapegoat
+Reservist
+Bureaucrat
 固定／爪
 固定／引っ掻き
 *
@@ -2024,7 +2024,7 @@ Werebear
 *
 *
 なし
-Has an iron defense.|Will be offended if you think|it's a regular bear.
+Has an iron defense.|Will be offended if you think it's a regular bear.
 IF SEEN, PLEASE REPORT THIS
 //entry 78 -----------------------
 クマンＢ
@@ -2036,9 +2036,9 @@ Werebear
 体力タイプ
 基本
 *
-身代わり
-サブメンバー
-内政の才
+Scapegoat
+Reservist
+Bureaucrat
 固定／爪
 固定／引っ掻き
 *
@@ -2050,7 +2050,7 @@ Werebear
 *
 *
 なし
-Has an iron defense.|Will be offended if you think|it's a regular bear.
+Has an iron defense.|Will be offended if you think it's a regular bear.
 IF SEEN, PLEASE REPORT THIS
 //entry 79 -----------------------
 クマンＣ
@@ -2062,9 +2062,9 @@ Werebear
 体力タイプ
 基本
 *
-身代わり
-サブメンバー
-内政の才
+Scapegoat
+Reservist
+Bureaucrat
 固定／爪
 固定／引っ掻き
 *
@@ -2076,7 +2076,7 @@ Werebear
 *
 *
 なし
-Has an iron defense.|Will be offended if you think|it's a regular bear.
+Has an iron defense.|Will be offended if you think it's a regular bear.
 IF SEEN, PLEASE REPORT THIS
 //entry 80 -----------------------
 ブーブＡ
@@ -2088,9 +2088,9 @@ Pigman
 体力タイプ
 基本
 *
-盾
-学
-農業の才
+Selfless
+Tutor
+Green Thumb
 固定／斧
 固定／噛み付き
 *
@@ -2102,7 +2102,7 @@ Pigman
 *
 *
 なし
-A steadfast guard.|They consider werebears to be|their rivals, but the other|side ignores them.
+A steadfast guard.|They consider werebears to be their rivals, but the other side ignores them.
 IF SEEN, PLEASE REPORT THIS
 //entry 81 -----------------------
 ブーブＢ
@@ -2114,9 +2114,9 @@ Pigman
 体力タイプ
 基本
 *
-盾
-学
-農業の才
+Selfless
+Tutor
+Green Thumb
 固定／斧
 固定／噛み付き
 *
@@ -2128,7 +2128,7 @@ Pigman
 *
 *
 なし
-A steadfast guard.|They consider werebears to be|their rivals, but the other|side ignores them.
+A steadfast guard.|They consider werebears to be their rivals, but the other side ignores them.
 IF SEEN, PLEASE REPORT THIS
 //entry 82 -----------------------
 ブーブＣ
@@ -2140,9 +2140,9 @@ Pigman
 体力タイプ
 基本
 *
-盾
-学
-農業の才
+Selfless
+Tutor
+Green Thumb
 固定／斧
 固定／噛み付き
 *
@@ -2154,7 +2154,7 @@ Pigman
 *
 *
 なし
-A steadfast guard.|They consider werebears to be|their rivals, but the other|side ignores them.
+A steadfast guard.|They consider werebears to be their rivals, but the other side ignores them.
 IF SEEN, PLEASE REPORT THIS
 //entry 83 -----------------------
 ドリツルＡ
@@ -2166,9 +2166,9 @@ Beladonna
 普通タイプ
 基本
 土耐性+30
-生命力
-サブメンバー
-農業の才
+Tenacious
+Reservist
+Green Thumb
 固定／ツタ
 *
 *
@@ -2180,7 +2180,7 @@ Beladonna
 *
 *
 なし
-Tends to be aggressive, but|is actually a kind-hearted|plant.
+Tends to be aggressive, but is actually a kind-hearted plant.
 IF SEEN, PLEASE REPORT THIS
 //entry 84 -----------------------
 ドリツルＢ
@@ -2192,9 +2192,9 @@ Beladonna
 普通タイプ
 基本
 土耐性+30
-生命力
-サブメンバー
-農業の才
+Tenacious
+Reservist
+Green Thumb
 固定／ツタ
 *
 *
@@ -2206,7 +2206,7 @@ Beladonna
 *
 *
 なし
-Tends to be aggressive, but|is actually a kind-hearted|plant.
+Tends to be aggressive, but is actually a kind-hearted plant.
 IF SEEN, PLEASE REPORT THIS
 //entry 85 -----------------------
 ドリツルＣ
@@ -2218,9 +2218,9 @@ Beladonna
 普通タイプ
 基本
 土耐性+30
-生命力
-サブメンバー
-農業の才
+Tenacious
+Reservist
+Green Thumb
 固定／ツタ
 *
 *
@@ -2232,7 +2232,7 @@ Beladonna
 *
 *
 なし
-Tends to be aggressive, but|is actually a kind-hearted|plant.
+Tends to be aggressive, but is actually a kind-hearted plant.
 IF SEEN, PLEASE REPORT THIS
 //entry 86 -----------------------
 ツルルＡ
@@ -2244,9 +2244,9 @@ Kudzu
 普通タイプ
 基本
 土耐性+30
-生命力
-サブメンバー
-農業の才
+Tenacious
+Reservist
+Green Thumb
 固定／ツタ
 *
 *
@@ -2258,7 +2258,7 @@ Kudzu
 *
 *
 なし
-Prefers to hold its ground,|but when there's sun to be|had, becomes relentless.
+Prefers to hold its ground, but when there's sun to be had, becomes relentless.
 IF SEEN, PLEASE REPORT THIS
 //entry 87 -----------------------
 ツルルＢ
@@ -2270,9 +2270,9 @@ Kudzu
 普通タイプ
 基本
 土耐性+30
-生命力
-サブメンバー
-農業の才
+Tenacious
+Reservist
+Green Thumb
 固定／ツタ
 *
 *
@@ -2284,7 +2284,7 @@ Kudzu
 *
 *
 なし
-Prefers to hold its ground,|but when there's sun to be|had, becomes relentless.
+Prefers to hold its ground, but when there's sun to be had, becomes relentless.
 IF SEEN, PLEASE REPORT THIS
 //entry 88 -----------------------
 ツルルＣ
@@ -2296,9 +2296,9 @@ Kudzu
 普通タイプ
 基本
 土耐性+30
-生命力
-サブメンバー
-農業の才
+Tenacious
+Reservist
+Green Thumb
 固定／ツタ
 *
 *
@@ -2310,7 +2310,7 @@ Kudzu
 *
 *
 なし
-Prefers to hold its ground,|but when there's sun to be|had, becomes relentless.
+Prefers to hold its ground, but when there's sun to be had, becomes relentless.
 IF SEEN, PLEASE REPORT THIS
 //entry 89 -----------------------
 ホネＡ
@@ -2322,9 +2322,9 @@ Skelly
 早熟タイプ
 基本
 異常耐性+100
-敵速度弱体化
-防御支援
-警備の才
+Spook
+Reassuring
+Straightlaced
 固定／突き刺し
 *
 *
@@ -2336,7 +2336,7 @@ Skelly
 *
 *
 なし
-Their unique appearance puts|fear into their enemies.
+Their unique appearance puts fear into their enemies.
 IF SEEN, PLEASE REPORT THIS
 //entry 90 -----------------------
 ホネＢ
@@ -2348,9 +2348,9 @@ Skelly
 早熟タイプ
 基本
 異常耐性+100
-敵速度弱体化
-防御支援
-警備の才
+Spook
+Reassuring
+Straightlaced
 固定／突き刺し
 *
 *
@@ -2362,7 +2362,7 @@ Skelly
 *
 *
 なし
-Their unique appearance puts|fear into their enemies.
+Their unique appearance puts fear into their enemies.
 IF SEEN, PLEASE REPORT THIS
 //entry 91 -----------------------
 ホネＣ
@@ -2374,9 +2374,9 @@ Skelly
 早熟タイプ
 基本
 異常耐性+100
-敵速度弱体化
-防御支援
-警備の才
+Spook
+Reassuring
+Straightlaced
 固定／突き刺し
 *
 *
@@ -2388,7 +2388,7 @@ Skelly
 *
 *
 なし
-Their unique appearance puts|fear into their enemies.
+Their unique appearance puts fear into their enemies.
 IF SEEN, PLEASE REPORT THIS
 //entry 92 -----------------------
 フニＡ
@@ -2400,9 +2400,9 @@ Zommie
 早熟タイプ
 基本
 異常耐性+100
-囮
-学
-商業の才
+Punchable
+Tutor
+Merchant
 固定／引っ掻き
 *
 *
@@ -2414,7 +2414,7 @@ Zommie
 *
 *
 なし
-Someone who died with a|grudge.|Is very conscious of how they|smell.
+Someone who died with a grudge.|Is very conscious of how they smell.
 IF SEEN, PLEASE REPORT THIS
 //entry 93 -----------------------
 フニＢ
@@ -2426,9 +2426,9 @@ Zommie
 早熟タイプ
 基本
 異常耐性+100
-囮
-学
-商業の才
+Punchable
+Tutor
+Merchant
 固定／引っ掻き
 *
 *
@@ -2440,7 +2440,7 @@ Zommie
 *
 *
 なし
-Someone who died with a|grudge.|Is very conscious of how they|smell.
+Someone who died with a grudge.|Is very conscious of how they smell.
 IF SEEN, PLEASE REPORT THIS
 //entry 94 -----------------------
 フニＣ
@@ -2452,9 +2452,9 @@ Zommie
 早熟タイプ
 基本
 異常耐性+100
-囮
-学
-商業の才
+Punchable
+Tutor
+Merchant
 固定／引っ掻き
 *
 *
@@ -2466,7 +2466,7 @@ Zommie
 *
 *
 なし
-Someone who died with a|grudge.|Is very conscious of how they|smell.
+Someone who died with a grudge.|Is very conscious of how they smell.
 IF SEEN, PLEASE REPORT THIS
 //entry 95 -----------------------
 ガンゾＡ
@@ -2478,9 +2478,9 @@ Gargoyle
 体力タイプ
 基本
 *
-魔法全体防御
-掛け声
-人気者
+Dampener
+Cheer
+Charismatic
 固定／引っ掻き
 暴風
 *
@@ -2492,7 +2492,7 @@ Gargoyle
 *
 *
 なし
-A very hard head.|Struggles to tell the|difference between a stone|and a rock.
+A very hard head.|Struggles to tell the difference between a stone and a rock.
 IF SEEN, PLEASE REPORT THIS
 //entry 96 -----------------------
 ガンゾＢ
@@ -2504,9 +2504,9 @@ Gargoyle
 体力タイプ
 基本
 *
-魔法全体防御
-掛け声
-人気者
+Dampener
+Cheer
+Charismatic
 固定／引っ掻き
 暴風
 *
@@ -2518,7 +2518,7 @@ Gargoyle
 *
 *
 なし
-A very hard head.|Struggles to tell the|difference between a stone|and a rock.
+A very hard head.|Struggles to tell the difference between a stone and a rock.
 IF SEEN, PLEASE REPORT THIS
 //entry 97 -----------------------
 ガンゾＣ
@@ -2530,9 +2530,9 @@ Gargoyle
 体力タイプ
 基本
 *
-魔法全体防御
-掛け声
-人気者
+Dampener
+Cheer
+Charismatic
 固定／引っ掻き
 暴風
 *
@@ -2544,7 +2544,7 @@ Gargoyle
 *
 *
 なし
-A very hard head.|Struggles to tell the|difference between a stone|and a rock.
+A very hard head.|Struggles to tell the difference between a stone and a rock.
 IF SEEN, PLEASE REPORT THIS
 //entry 98 -----------------------
 トットリーＡ
@@ -2556,9 +2556,9 @@ Rock Hawk
 回避タイプ
 基本
 *
-地図
-地図
-資金管理
+Orienteering
+Orienteering
+Accountant
 固定／くちばし
 突き
 *
@@ -2570,7 +2570,7 @@ Rock Hawk
 *
 *
 なし
-Are very insistent that they|do no taste any good.
+Are very insistent that they do no taste any good.
 IF SEEN, PLEASE REPORT THIS
 //entry 99 -----------------------
 トットリーＢ
@@ -2582,9 +2582,9 @@ Rock Hawk
 回避タイプ
 基本
 *
-地図
-地図
-資金管理
+Orienteering
+Orienteering
+Accountant
 固定／くちばし
 突き
 *
@@ -2596,7 +2596,7 @@ Rock Hawk
 *
 *
 なし
-Are very insistent that they|do no taste any good.
+Are very insistent that they do no taste any good.
 IF SEEN, PLEASE REPORT THIS
 //entry 100 -----------------------
 トットリーＣ
@@ -2608,9 +2608,9 @@ Rock Hawk
 回避タイプ
 基本
 *
-地図
-地図
-資金管理
+Orienteering
+Orienteering
+Accountant
 固定／くちばし
 突き
 *
@@ -2622,7 +2622,7 @@ Rock Hawk
 *
 *
 なし
-Are very insistent that they|do no taste any good.
+Are very insistent that they do no taste any good.
 IF SEEN, PLEASE REPORT THIS
 //entry 101 -----------------------
 ミラリンＡ
@@ -2634,9 +2634,9 @@ Magic Mirror
 普通タイプ
 基本
 火耐性+30|水耐性+30|土耐性+30|風耐性+30|打耐性-80
-魔法無効化
-学
-教育の才
+Canceller
+Tutor
+Professor
 固定／魔力の玉
 無心砲
 漆黒
@@ -2648,7 +2648,7 @@ Magic Mirror
 *
 *
 なし
-Can manipulate the reflected|image, so is popular with|women.
+Can manipulate the reflected image, so is popular with women.
 IF SEEN, PLEASE REPORT THIS
 //entry 102 -----------------------
 ミラリンＢ
@@ -2660,9 +2660,9 @@ Magic Mirror
 普通タイプ
 基本
 火耐性+30|水耐性+30|土耐性+30|風耐性+30|打耐性-80
-魔法無効化
-学
-教育の才
+Canceller
+Tutor
+Professor
 固定／魔力の玉
 無心砲
 漆黒
@@ -2674,7 +2674,7 @@ Magic Mirror
 *
 *
 なし
-Can manipulate the reflected|image, so is popular with|women.
+Can manipulate the reflected image, so is popular with women.
 IF SEEN, PLEASE REPORT THIS
 //entry 103 -----------------------
 ミラリンＣ
@@ -2686,9 +2686,9 @@ Magic Mirror
 普通タイプ
 基本
 火耐性+30|水耐性+30|土耐性+30|風耐性+30|打耐性-80
-魔法無効化
-学
-教育の才
+Canceller
+Tutor
+Professor
 固定／魔力の玉
 無心砲
 漆黒
@@ -2700,7 +2700,7 @@ Magic Mirror
 *
 *
 なし
-Can manipulate the reflected|image, so is popular with|women.
+Can manipulate the reflected image, so is popular with women.
 IF SEEN, PLEASE REPORT THIS
 //entry 104 -----------------------
 ズンバラＡ
@@ -2713,8 +2713,8 @@ Slasher
 基本
 *
 凶暴者
-警戒心
-軍事向き
+Wary
+General
 固定／斬り
 乱舞斬
 急所斬り
@@ -2726,7 +2726,7 @@ Slasher
 *
 *
 なし
-A regular sword that became|sentient.|Its personality depends on|how it was treated before|life.
+A regular sword that became sentient.|Its personality depends on how it was treated before life.
 IF SEEN, PLEASE REPORT THIS
 //entry 105 -----------------------
 ズンバラＢ
@@ -2739,8 +2739,8 @@ Slasher
 基本
 *
 凶暴者
-警戒心
-軍事向き
+Wary
+General
 固定／斬り
 乱舞斬
 急所斬り
@@ -2752,7 +2752,7 @@ Slasher
 *
 *
 なし
-A regular sword that became|sentient.|Its personality depends on|how it was treated before|life.
+A regular sword that became sentient.|Its personality depends on how it was treated before life.
 IF SEEN, PLEASE REPORT THIS
 //entry 106 -----------------------
 ズンバラＣ
@@ -2765,8 +2765,8 @@ Slasher
 基本
 *
 凶暴者
-警戒心
-軍事向き
+Wary
+General
 固定／斬り
 乱舞斬
 急所斬り
@@ -2778,7 +2778,7 @@ Slasher
 *
 *
 なし
-A regular sword that became|sentient.|Its personality depends on|how it was treated before|life.
+A regular sword that became sentient.|Its personality depends on how it was treated before life.
 IF SEEN, PLEASE REPORT THIS
 //entry 107 -----------------------
 ベトＡ
@@ -2790,9 +2790,9 @@ Goo
 普通タイプ
 基本
 *
-防御強化／縦
-サブメンバー
-人気者
+Iron Support
+Reservist
+Charismatic
 固定／ベトアタック
 固定／ベトシュート
 固定／ベトハンマー
@@ -2804,7 +2804,7 @@ Goo
 *
 *
 なし
-Some think they're cute.|Some think they're creepy.
+Some think they're cute. Some think they're creepy.
 IF SEEN, PLEASE REPORT THIS
 //entry 108 -----------------------
 ベトＢ
@@ -2816,9 +2816,9 @@ Goo
 普通タイプ
 基本
 *
-防御強化／縦
-サブメンバー
-人気者
+Iron Support
+Reservist
+Charismatic
 固定／ベトアタック
 固定／ベトシュート
 固定／ベトハンマー
@@ -2830,7 +2830,7 @@ Goo
 *
 *
 なし
-Some think they're cute.|Some think they're creepy.
+Some think they're cute. Some think they're creepy.
 IF SEEN, PLEASE REPORT THIS
 //entry 109 -----------------------
 ベトＣ
@@ -2842,9 +2842,9 @@ Goo
 普通タイプ
 基本
 *
-防御強化／縦
-サブメンバー
-人気者
+Iron Support
+Reservist
+Charismatic
 固定／ベトアタック
 固定／ベトシュート
 固定／ベトハンマー
@@ -2856,7 +2856,7 @@ Goo
 *
 *
 なし
-Some think they're cute.|Some think they're creepy.
+Some think they're cute. Some think they're creepy.
 IF SEEN, PLEASE REPORT THIS
 //entry 110 -----------------------
 ナメッドＡ
@@ -2868,9 +2868,9 @@ Slimer
 普通タイプ
 基本
 *
-回避強化／横
-学
-補佐官
+Evasive Ally
+Tutor
+Aide
 固定／体当たり
 *
 *
@@ -2882,7 +2882,7 @@ Slimer
 *
 *
 なし
-Giant slugs that scare the|untrained.
+Giant slugs that scare the untrained.
 IF SEEN, PLEASE REPORT THIS
 //entry 111 -----------------------
 ナメッドＢ
@@ -2894,9 +2894,9 @@ Slimer
 普通タイプ
 基本
 *
-回避強化／横
-学
-補佐官
+Evasive Ally
+Tutor
+Aide
 固定／体当たり
 *
 *
@@ -2908,7 +2908,7 @@ Slimer
 *
 *
 なし
-Giant slugs that scare the|untrained.
+Giant slugs that scare the untrained.
 IF SEEN, PLEASE REPORT THIS
 //entry 112 -----------------------
 ナメッドＣ
@@ -2920,9 +2920,9 @@ Slimer
 普通タイプ
 基本
 *
-回避強化／横
-学
-補佐官
+Evasive Ally
+Tutor
+Aide
 固定／体当たり
 *
 *
@@ -2934,7 +2934,7 @@ Slimer
 *
 *
 なし
-Giant slugs that scare the|untrained.
+Giant slugs that scare the untrained.
 IF SEEN, PLEASE REPORT THIS
 //entry 113 -----------------------
 モエルモンＡ
@@ -2946,9 +2946,9 @@ Ent
 普通タイプ
 基本
 火耐性-50
-魔法耐性
-援護射撃
-教育の才
+Resistant
+Guardian
+Professor
 固定／炭火
 火矢三連
 火矢砲
@@ -2960,7 +2960,7 @@ Ent
 *
 *
 なし
-Often accidentally burns|itself with its own fire.
+Often accidentally burns itself with its own fire.
 IF SEEN, PLEASE REPORT THIS
 //entry 114 -----------------------
 モエルモンＢ
@@ -2972,9 +2972,9 @@ Ent
 普通タイプ
 基本
 火耐性-50
-魔法耐性
-援護射撃
-教育の才
+Resistant
+Guardian
+Professor
 固定／炭火
 火矢三連
 火矢砲
@@ -2986,7 +2986,7 @@ Ent
 *
 *
 なし
-Often accidentally burns|itself with its own fire.
+Often accidentally burns itself with its own fire.
 IF SEEN, PLEASE REPORT THIS
 //entry 115 -----------------------
 モエルモンＣ
@@ -2998,9 +2998,9 @@ Ent
 普通タイプ
 基本
 火耐性-50
-魔法耐性
-援護射撃
-教育の才
+Resistant
+Guardian
+Professor
 固定／炭火
 火矢三連
 火矢砲
@@ -3012,7 +3012,7 @@ Ent
 *
 *
 なし
-Often accidentally burns|itself with its own fire.
+Often accidentally burns itself with its own fire.
 IF SEEN, PLEASE REPORT THIS
 //entry 116 -----------------------
 暗黒騎士Ａ
@@ -3024,9 +3024,9 @@ Dark Knight
 攻撃タイプ
 基本
 必殺耐性+15|異常耐性+100|闇耐性+10
-いなし
-サブメンバー
-無能
+Anticipation
+Reservist
+Inept
 固定／暗黒剣
 乱舞斬
 漆黒
@@ -3038,7 +3038,7 @@ Dark Knight
 *
 *
 なし
-Has sworn to never fall to|just one blow.
+Has sworn to never fall to just one blow.
 IF SEEN, PLEASE REPORT THIS
 //entry 117 -----------------------
 暗黒騎士Ｂ
@@ -3050,9 +3050,9 @@ Dark Knight
 攻撃タイプ
 基本
 必殺耐性+15|異常耐性+100|闇耐性+10
-いなし
-サブメンバー
-無能
+Anticipation
+Reservist
+Inept
 固定／暗黒剣
 乱舞斬
 漆黒
@@ -3064,7 +3064,7 @@ Dark Knight
 *
 *
 なし
-Has sworn to never fall to|just one blow.
+Has sworn to never fall to just one blow.
 IF SEEN, PLEASE REPORT THIS
 //entry 118 -----------------------
 暗黒騎士Ｃ
@@ -3076,9 +3076,9 @@ Dark Knight
 攻撃タイプ
 基本
 必殺耐性+15|異常耐性+100|闇耐性+10
-いなし
-サブメンバー
-無能
+Anticipation
+Reservist
+Inept
 固定／暗黒剣
 乱舞斬
 漆黒
@@ -3090,7 +3090,7 @@ Dark Knight
 *
 *
 なし
-Has sworn to never fall to|just one blow.
+Has sworn to never fall to just one blow.
 IF SEEN, PLEASE REPORT THIS
 //entry 119 -----------------------
 ダークマンＡ
@@ -3102,9 +3102,9 @@ Darkman
 普通タイプ
 基本
 *
-攻撃強化／後
-警戒心
-軍事向き
+Aggressive Escort
+Wary
+General
 固定／爪
 狙い斬り
 乱舞斬
@@ -3116,7 +3116,7 @@ Darkman
 *
 *
 なし
-Frequently seen filling the|ranks of the Netherworld's|army.
+Frequently seen filling the ranks of the Netherworld's army.
 IF SEEN, PLEASE REPORT THIS
 //entry 120 -----------------------
 ダークマンＢ
@@ -3128,9 +3128,9 @@ Darkman
 普通タイプ
 基本
 *
-攻撃強化／後
-警戒心
-軍事向き
+Aggressive Escort
+Wary
+General
 固定／爪
 狙い斬り
 乱舞斬
@@ -3142,7 +3142,7 @@ Darkman
 *
 *
 なし
-Frequently seen filling the|ranks of the Netherworld's|army.
+Frequently seen filling the ranks of the Netherworld's army.
 IF SEEN, PLEASE REPORT THIS
 //entry 121 -----------------------
 ダークマンＣ
@@ -3154,9 +3154,9 @@ Darkman
 普通タイプ
 基本
 *
-攻撃強化／後
-警戒心
-軍事向き
+Aggressive Escort
+Wary
+General
 固定／爪
 狙い斬り
 乱舞斬
@@ -3168,7 +3168,7 @@ Darkman
 *
 *
 なし
-Frequently seen filling the|ranks of the Netherworld's|army.
+Frequently seen filling the ranks of the Netherworld's army.
 IF SEEN, PLEASE REPORT THIS
 //entry 122 -----------------------
 ダークマジシャンＡ
@@ -3180,9 +3180,9 @@ Dark Mage
 気力タイプ
 基本
 光耐性-50
-前向精神
-前向精神
-教育の才
+Channeler
+Channeler
+Professor
 固定／魔力の火
 火矢三連
 暴風三連
@@ -3194,7 +3194,7 @@ Dark Mage
 *
 *
 なし
-Most demons use magic, but|don't mention that around|them.
+Most demons use magic, but don't mention that around them.
 IF SEEN, PLEASE REPORT THIS
 //entry 123 -----------------------
 ダークマジシャンＢ
@@ -3206,9 +3206,9 @@ Dark Mage
 気力タイプ
 基本
 光耐性-50
-前向精神
-前向精神
-教育の才
+Channeler
+Channeler
+Professor
 固定／魔力の火
 火矢三連
 暴風三連
@@ -3220,7 +3220,7 @@ Dark Mage
 *
 *
 なし
-Most demons use magic, but|don't mention that around|them.
+Most demons use magic, but don't mention that around them.
 IF SEEN, PLEASE REPORT THIS
 //entry 124 -----------------------
 ダークマジシャンＣ
@@ -3232,9 +3232,9 @@ Dark Mage
 気力タイプ
 基本
 光耐性-50
-前向精神
-前向精神
-教育の才
+Channeler
+Channeler
+Professor
 固定／魔力の火
 火矢三連
 暴風三連
@@ -3246,7 +3246,7 @@ Dark Mage
 *
 *
 なし
-Most demons use magic, but|don't mention that around|them.
+Most demons use magic, but don't mention that around them.
 IF SEEN, PLEASE REPORT THIS
 //entry 125 -----------------------
 ファニードラＡ
@@ -3258,9 +3258,9 @@ Dragonman
 普通タイプ
 基本
 *
-速度強化／後
-罠被害軽減
-独立行動
+Swift Escort
+Blessing
+Independent
 固定／火のブレス
 火矢三連
 *
@@ -3272,7 +3272,7 @@ Dragonman
 *
 *
 なし
-Completely unrelated to|actual dragons.
+Completely unrelated to actual dragons.
 IF SEEN, PLEASE REPORT THIS
 //entry 126 -----------------------
 ファニードラＢ
@@ -3284,9 +3284,9 @@ Dragonman
 普通タイプ
 基本
 *
-速度強化／後
-罠被害軽減
-独立行動
+Swift Escort
+Blessing
+Independent
 固定／火のブレス
 火矢三連
 *
@@ -3298,7 +3298,7 @@ Dragonman
 *
 *
 なし
-Completely unrelated to|actual dragons.
+Completely unrelated to actual dragons.
 IF SEEN, PLEASE REPORT THIS
 //entry 127 -----------------------
 ファニードラＣ
@@ -3310,9 +3310,9 @@ Dragonman
 普通タイプ
 基本
 *
-速度強化／後
-罠被害軽減
-独立行動
+Swift Escort
+Blessing
+Independent
 固定／火のブレス
 火矢三連
 *
@@ -3324,7 +3324,7 @@ Dragonman
 *
 *
 なし
-Completely unrelated to|actual dragons.
+Completely unrelated to actual dragons.
 IF SEEN, PLEASE REPORT THIS
 //entry 128 -----------------------
 イモモＡ
@@ -3336,9 +3336,9 @@ Devil Bug
 普通タイプ
 基本
 *
-学
-学
-小隊長
+Tutor
+Tutor
+Subcommander
 固定／体当たり
 突き
 払い
@@ -3350,7 +3350,7 @@ Devil Bug
 *
 *
 なし
-Sometimes, you see them turn|into hell butterflies.
+Sometimes, you see them turn into hell butterflies.
 IF SEEN, PLEASE REPORT THIS
 //entry 129 -----------------------
 イモモＢ
@@ -3362,9 +3362,9 @@ Devil Bug
 普通タイプ
 基本
 *
-学
-学
-小隊長
+Tutor
+Tutor
+Subcommander
 固定／体当たり
 突き
 払い
@@ -3376,7 +3376,7 @@ Devil Bug
 *
 *
 なし
-Sometimes, you see them turn|into hell butterflies.
+Sometimes, you see them turn into hell butterflies.
 IF SEEN, PLEASE REPORT THIS
 //entry 130 -----------------------
 イモモＣ
@@ -3388,9 +3388,9 @@ Devil Bug
 普通タイプ
 基本
 *
-学
-学
-小隊長
+Tutor
+Tutor
+Subcommander
 固定／体当たり
 突き
 払い
@@ -3402,7 +3402,7 @@ Devil Bug
 *
 *
 なし
-Sometimes, you see them turn|into hell butterflies.
+Sometimes, you see them turn into hell butterflies.
 IF SEEN, PLEASE REPORT THIS
 //entry 131 -----------------------
 ミックスＡ
@@ -3414,9 +3414,9 @@ Hybrid
 普通タイプ
 基本
 *
-魔法全体防御
-警戒心
-指揮官
+Dampener
+Wary
+Commander
 固定／火のブレス
 岩石砲
 無心三連
@@ -3428,7 +3428,7 @@ Hybrid
 *
 *
 なし
-Very clever, and very|skilled with magic.
+Very clever, and very skilled with magic.
 IF SEEN, PLEASE REPORT THIS
 //entry 132 -----------------------
 ミックスＢ
@@ -3440,9 +3440,9 @@ Hybrid
 普通タイプ
 基本
 *
-魔法全体防御
-警戒心
-指揮官
+Dampener
+Wary
+Commander
 固定／火のブレス
 岩石砲
 無心三連
@@ -3454,7 +3454,7 @@ Hybrid
 *
 *
 なし
-Very clever, and very|skilled with magic.
+Very clever, and very skilled with magic.
 IF SEEN, PLEASE REPORT THIS
 //entry 133 -----------------------
 ミックスＣ
@@ -3466,9 +3466,9 @@ Hybrid
 普通タイプ
 基本
 *
-魔法全体防御
-警戒心
-指揮官
+Dampener
+Wary
+Commander
 固定／火のブレス
 岩石砲
 無心三連
@@ -3480,7 +3480,7 @@ Hybrid
 *
 *
 なし
-Very clever, and very|skilled with magic.
+Very clever, and very skilled with magic.
 IF SEEN, PLEASE REPORT THIS
 //entry 134 -----------------------
 ファットデビルＡ
@@ -3492,9 +3492,9 @@ Fat Demon
 普通タイプ
 基本
 *
-先制攻撃迎撃
-健康優良児
-資源管理
+Paranoid
+Snacker
+Logistician
 固定／槍
 雷撃砲
 火矢幕
@@ -3506,7 +3506,7 @@ Fat Demon
 *
 *
 なし
-Likes to think about how to|fatten up thin people.
+Likes to think about how to fatten up thin people.
 IF SEEN, PLEASE REPORT THIS
 //entry 135 -----------------------
 ファットデビルＢ
@@ -3518,9 +3518,9 @@ Fat Demon
 普通タイプ
 基本
 *
-先制攻撃迎撃
-健康優良児
-資源管理
+Paranoid
+Snacker
+Logistician
 固定／槍
 雷撃砲
 火矢幕
@@ -3532,7 +3532,7 @@ Fat Demon
 *
 *
 なし
-Likes to think about how to|fatten up thin people.
+Likes to think about how to fatten up thin people.
 IF SEEN, PLEASE REPORT THIS
 //entry 136 -----------------------
 ファットデビルＣ
@@ -3544,9 +3544,9 @@ Fat Demon
 普通タイプ
 基本
 *
-先制攻撃迎撃
-健康優良児
-資源管理
+Paranoid
+Snacker
+Logistician
 固定／槍
 雷撃砲
 火矢幕
@@ -3558,7 +3558,7 @@ Fat Demon
 *
 *
 なし
-Likes to think about how to|fatten up thin people.
+Likes to think about how to fatten up thin people.
 IF SEEN, PLEASE REPORT THIS
 //entry 137 -----------------------
 ハラミボディＡ
@@ -3570,9 +3570,9 @@ Meatotaur
 普通タイプ
 基本
 必殺耐性+100
-防御強化／後
-健康優良児
-食料管理
+Iron Escort
+Snacker
+Gourmand
 固定／斧
 振り回し
 弾き飛ばし
@@ -3584,7 +3584,7 @@ Meatotaur
 *
 *
 なし
-Good at defense, but can|also attack. Very resistant|to deadly blows.
+Good at defense, but can also attack. Very resistant to deadly blows.
 IF SEEN, PLEASE REPORT THIS
 //entry 138 -----------------------
 ハラミボディＢ
@@ -3596,9 +3596,9 @@ Meatotaur
 普通タイプ
 基本
 必殺耐性+100
-防御強化／後
-健康優良児
-食料管理
+Iron Escort
+Snacker
+Gourmand
 固定／斧
 振り回し
 弾き飛ばし
@@ -3610,7 +3610,7 @@ Meatotaur
 *
 *
 なし
-Good at defense, but can|also attack. Very resistant|to deadly blows.
+Good at defense, but can also attack. Very resistant to deadly blows.
 IF SEEN, PLEASE REPORT THIS
 //entry 139 -----------------------
 ハラミボディＣ
@@ -3622,9 +3622,9 @@ Meatotaur
 普通タイプ
 基本
 必殺耐性+100
-防御強化／後
-健康優良児
-食料管理
+Iron Escort
+Snacker
+Gourmand
 固定／斧
 振り回し
 弾き飛ばし
@@ -3636,7 +3636,7 @@ Meatotaur
 *
 *
 なし
-Good at defense, but can|also attack. Very resistant|to deadly blows.
+Good at defense, but can also attack. Very resistant to deadly blows.
 IF SEEN, PLEASE REPORT THIS
 //entry 140 -----------------------
 ハンマースィングＡ
@@ -3648,9 +3648,9 @@ Goliath
 体力タイプ
 基本
 必殺耐性+20|異常耐性+100
-健康優良児
-健康優良児
-警備の才
+Snacker
+Snacker
+Straightlaced
 固定／ハンマー
 固定／振り回しハンマー
 弾き飛ばし
@@ -3662,7 +3662,7 @@ Goliath
 *
 *
 なし
-Thought of as the big|brothers to many different|races of demon.
+Thought of as the big brothers to many different races of demon.
 IF SEEN, PLEASE REPORT THIS
 //entry 141 -----------------------
 ハンマースィングＢ
@@ -3674,9 +3674,9 @@ Goliath
 体力タイプ
 基本
 必殺耐性+20|異常耐性+100
-健康優良児
-健康優良児
-警備の才
+Snacker
+Snacker
+Straightlaced
 固定／ハンマー
 固定／振り回しハンマー
 弾き飛ばし
@@ -3688,7 +3688,7 @@ Goliath
 *
 *
 なし
-Thought of as the big|brothers to many different|races of demon.
+Thought of as the big brothers to many different races of demon.
 IF SEEN, PLEASE REPORT THIS
 //entry 142 -----------------------
 ハンマースィングＣ
@@ -3700,9 +3700,9 @@ Goliath
 体力タイプ
 基本
 必殺耐性+20|異常耐性+100
-健康優良児
-健康優良児
-警備の才
+Snacker
+Snacker
+Straightlaced
 固定／ハンマー
 固定／振り回しハンマー
 弾き飛ばし
@@ -3714,7 +3714,7 @@ Goliath
 *
 *
 なし
-Thought of as the big|brothers to many different|races of demon.
+Thought of as the big brothers to many different races of demon.
 IF SEEN, PLEASE REPORT THIS
 //entry 143 -----------------------
 漆黒騎士Ａ
@@ -3726,9 +3726,9 @@ Onyx Knight
 攻撃タイプ
 基本
 必殺耐性+100|異常耐性+100|行動回数+1
-威殺
-警戒心
-軍事向き
+Merciless
+Wary
+General
 固定／漆黒剣
 固定／無限の闇
 乱舞斬改
@@ -3740,7 +3740,7 @@ Onyx Knight
 *
 *
 なし
-A true demon knight who acts|fast and decisively.
+A true demon knight who acts fast and decisively.
 IF SEEN, PLEASE REPORT THIS
 //entry 144 -----------------------
 小暗黒球Ａ
@@ -3752,9 +3752,9 @@ Dark Ball
 気力タイプ
 基本
 必殺耐性+15|異常耐性+100|闇耐性+20
-罠無効化
-サブメンバー
-無能
+Lucky
+Reservist
+Inept
 固定／闇
 固定／歪む闇
 漆黒三連
@@ -3766,7 +3766,7 @@ Dark Ball
 *
 *
 なし
-Takes centuries for it to|grow to its mature form.
+Takes centuries for it to grow to its mature form.
 IF SEEN, PLEASE REPORT THIS
 //entry 145 -----------------------
 小暗黒球Ｂ
@@ -3778,9 +3778,9 @@ Dark Ball
 気力タイプ
 基本
 必殺耐性+15|異常耐性+100|闇耐性+20
-罠無効化
-サブメンバー
-無能
+Lucky
+Reservist
+Inept
 固定／闇
 固定／歪む闇
 漆黒三連
@@ -3792,7 +3792,7 @@ Dark Ball
 *
 *
 なし
-Takes centuries for it to|grow to its mature form.
+Takes centuries for it to grow to its mature form.
 IF SEEN, PLEASE REPORT THIS
 //entry 146 -----------------------
 小暗黒球Ｃ
@@ -3804,9 +3804,9 @@ Dark Ball
 気力タイプ
 基本
 必殺耐性+15|異常耐性+100|闇耐性+20
-罠無効化
-サブメンバー
-無能
+Lucky
+Reservist
+Inept
 固定／闇
 固定／歪む闇
 漆黒三連
@@ -3818,7 +3818,7 @@ Dark Ball
 *
 *
 なし
-Takes centuries for it to|grow to its mature form.
+Takes centuries for it to grow to its mature form.
 IF SEEN, PLEASE REPORT THIS
 //entry 147 -----------------------
 大暗黒球Ａ
@@ -3830,9 +3830,9 @@ Dark Sphere
 気力タイプ
 基本
 必殺耐性+15|異常耐性+100|闇耐性+50
-邪魔回復
-サブメンバー
-独立行動
+Sickening
+Reservist
+Independent
 固定／闇
 固定／歪む闇
 漆黒五連
@@ -3844,7 +3844,7 @@ Dark Sphere
 *
 *
 なし
-Were created to transport|things through the|Netherworld.
+Were created to transport things through the Netherworld.
 IF SEEN, PLEASE REPORT THIS
 //entry 148 -----------------------
 大暗黒球Ｂ
@@ -3856,9 +3856,9 @@ Dark Sphere
 気力タイプ
 基本
 必殺耐性+15|異常耐性+100|闇耐性+50
-邪魔回復
-サブメンバー
-独立行動
+Sickening
+Reservist
+Independent
 固定／闇
 固定／歪む闇
 漆黒五連
@@ -3870,7 +3870,7 @@ Dark Sphere
 *
 *
 なし
-Were created to transport|things through the|Netherworld.
+Were created to transport things through the Netherworld.
 IF SEEN, PLEASE REPORT THIS
 //entry 149 -----------------------
 大暗黒球Ｃ
@@ -3882,9 +3882,9 @@ Dark Sphere
 気力タイプ
 基本
 必殺耐性+15|異常耐性+100|闇耐性+50
-邪魔回復
-サブメンバー
-独立行動
+Sickening
+Reservist
+Independent
 固定／闇
 固定／歪む闇
 漆黒五連
@@ -3896,7 +3896,7 @@ Dark Sphere
 *
 *
 なし
-Were created to transport|things through the|Netherworld.
+Were created to transport things through the Netherworld.
 IF SEEN, PLEASE REPORT THIS
 //entry 150 -----------------------
 炎の精霊Ａ
@@ -3908,9 +3908,9 @@ Flame Wisp
 気力タイプ
 基本
 火耐性+100
-魔法耐性
-サブメンバー
-無能
+Resistant
+Reservist
+Inept
 固定／小さな火
 火矢三連
 火矢砲
@@ -3922,7 +3922,7 @@ Flame Wisp
 *
 *
 なし
-Like all spirits, hard to|shackle down.
+Like all spirits, hard to shackle down.
 IF SEEN, PLEASE REPORT THIS
 //entry 151 -----------------------
 炎の精霊Ｂ
@@ -3934,9 +3934,9 @@ Flame Wisp
 気力タイプ
 基本
 火耐性+100
-魔法耐性
-サブメンバー
-無能
+Resistant
+Reservist
+Inept
 固定／小さな火
 火矢三連
 火矢砲
@@ -3948,7 +3948,7 @@ Flame Wisp
 *
 *
 なし
-Like all spirits, hard to|shackle down.
+Like all spirits, hard to shackle down.
 IF SEEN, PLEASE REPORT THIS
 //entry 152 -----------------------
 炎の精霊Ｃ
@@ -3960,9 +3960,9 @@ Flame Wisp
 気力タイプ
 基本
 火耐性+100
-魔法耐性
-サブメンバー
-無能
+Resistant
+Reservist
+Inept
 固定／小さな火
 火矢三連
 火矢砲
@@ -3974,7 +3974,7 @@ Flame Wisp
 *
 *
 なし
-Like all spirits, hard to|shackle down.
+Like all spirits, hard to shackle down.
 IF SEEN, PLEASE REPORT THIS
 //entry 153 -----------------------
 氷の精霊Ａ
@@ -3986,9 +3986,9 @@ Ice Wisp
 気力タイプ
 基本
 水耐性+100
-魔法耐性
-サブメンバー
-無能
+Resistant
+Reservist
+Inept
 固定／小さな水
 氷水三連
 氷水砲
@@ -4000,7 +4000,7 @@ Ice Wisp
 *
 *
 なし
-Rarely suffers from regular|afflictions.
+Rarely suffers from regular afflictions.
 IF SEEN, PLEASE REPORT THIS
 //entry 154 -----------------------
 氷の精霊Ｂ
@@ -4012,9 +4012,9 @@ Ice Wisp
 気力タイプ
 基本
 水耐性+100
-魔法耐性
-サブメンバー
-無能
+Resistant
+Reservist
+Inept
 固定／小さな水
 氷水三連
 氷水砲
@@ -4026,7 +4026,7 @@ Ice Wisp
 *
 *
 なし
-Rarely suffers from regular|afflictions.
+Rarely suffers from regular afflictions.
 IF SEEN, PLEASE REPORT THIS
 //entry 155 -----------------------
 氷の精霊Ｃ
@@ -4038,9 +4038,9 @@ Ice Wisp
 気力タイプ
 基本
 水耐性+100
-魔法耐性
-サブメンバー
-無能
+Resistant
+Reservist
+Inept
 固定／小さな水
 氷水三連
 氷水砲
@@ -4052,7 +4052,7 @@ Ice Wisp
 *
 *
 なし
-Rarely suffers from regular|afflictions.
+Rarely suffers from regular afflictions.
 IF SEEN, PLEASE REPORT THIS
 //entry 156 -----------------------
 サキューＡ
@@ -4064,9 +4064,9 @@ Succubus
 普通タイプ
 基本
 異常耐性+100
-感知
-感知
-補佐官
+Perceptive
+Perceptive
+Aide
 固定／引っ掻き
 火矢
 漆黒三連
@@ -4078,7 +4078,7 @@ Succubus
 *
 *
 なし
-Dressing sexy isn't by|choice, it's the law of|succubi.
+Dressing sexy isn't by choice, it's the law of succubi.
 IF SEEN, PLEASE REPORT THIS
 //entry 157 -----------------------
 サキューＢ
@@ -4090,9 +4090,9 @@ Succubus
 普通タイプ
 基本
 異常耐性+100
-感知
-感知
-補佐官
+Perceptive
+Perceptive
+Aide
 固定／引っ掻き
 火矢
 漆黒三連
@@ -4104,7 +4104,7 @@ Succubus
 *
 *
 なし
-Dressing sexy isn't by|choice, it's the law of|succubi.
+Dressing sexy isn't by choice, it's the law of succubi.
 IF SEEN, PLEASE REPORT THIS
 //entry 158 -----------------------
 サキューＣ
@@ -4116,9 +4116,9 @@ Succubus
 普通タイプ
 基本
 異常耐性+100
-感知
-感知
-補佐官
+Perceptive
+Perceptive
+Aide
 固定／引っ掻き
 火矢
 漆黒三連
@@ -4130,7 +4130,7 @@ Succubus
 *
 *
 なし
-Dressing sexy isn't by|choice, it's the law of|succubi.
+Dressing sexy isn't by choice, it's the law of succubi.
 IF SEEN, PLEASE REPORT THIS
 //entry 159 -----------------------
 ロームスＡ
@@ -4142,9 +4142,9 @@ Loams
 防御タイプ
 基本
 *
-打撃属性耐性／前
-学
-人気者
+Sturdy Wall
+Tutor
+Charismatic
 固定／引っ掻き
 連突き
 弾き飛ばし
@@ -4156,7 +4156,7 @@ Loams
 *
 *
 なし
-Made up of a Rockette riding|a Rocky.
+Made up of a Rockette riding a Rocky.
 IF SEEN, PLEASE REPORT THIS
 //entry 160 -----------------------
 ロームスＢ
@@ -4168,9 +4168,9 @@ Loams
 防御タイプ
 基本
 *
-打撃属性耐性／前
-学
-人気者
+Sturdy Wall
+Tutor
+Charismatic
 固定／引っ掻き
 連突き
 弾き飛ばし
@@ -4182,7 +4182,7 @@ Loams
 *
 *
 なし
-Made up of a Rockette riding|a Rocky.
+Made up of a Rockette riding a Rocky.
 IF SEEN, PLEASE REPORT THIS
 //entry 161 -----------------------
 ロームスＣ
@@ -4194,9 +4194,9 @@ Loams
 防御タイプ
 基本
 *
-打撃属性耐性／前
-学
-人気者
+Sturdy Wall
+Tutor
+Charismatic
 固定／引っ掻き
 連突き
 弾き飛ばし
@@ -4208,7 +4208,7 @@ Loams
 *
 *
 なし
-Made up of a Rockette riding|a Rocky.
+Made up of a Rockette riding a Rocky.
 IF SEEN, PLEASE REPORT THIS
 //entry 162 -----------------------
 ウォールＡ
@@ -4220,9 +4220,9 @@ Wall
 防御タイプ
 基本
 斬耐性+50|射耐性+30
-斬撃属性耐性／前
-防御支援
-資源管理
+Rugged Wall
+Reassuring
+Logistician
 固定／尻尾
 突き
 フラッシュブロー
@@ -4234,7 +4234,7 @@ Wall
 *
 *
 なし
-Surprisingly laid back.|The female carved on him is|just for appearances.
+Surprisingly laid back.|The female carved on him is just for appearances.
 IF SEEN, PLEASE REPORT THIS
 //entry 163 -----------------------
 ウォールＢ
@@ -4246,9 +4246,9 @@ Wall
 防御タイプ
 基本
 斬耐性+50|射耐性+30
-斬撃属性耐性／前
-防御支援
-資源管理
+Rugged Wall
+Reassuring
+Logistician
 固定／尻尾
 突き
 フラッシュブロー
@@ -4260,7 +4260,7 @@ Wall
 *
 *
 なし
-Surprisingly laid back.|The female carved on him is|just for appearances.
+Surprisingly laid back.|The female carved on him is just for appearances.
 IF SEEN, PLEASE REPORT THIS
 //entry 164 -----------------------
 ウォールＣ
@@ -4272,9 +4272,9 @@ Wall
 防御タイプ
 基本
 斬耐性+50|射耐性+30
-斬撃属性耐性／前
-防御支援
-資源管理
+Rugged Wall
+Reassuring
+Logistician
 固定／尻尾
 突き
 フラッシュブロー
@@ -4286,7 +4286,7 @@ Wall
 *
 *
 なし
-Surprisingly laid back.|The female carved on him is|just for appearances.
+Surprisingly laid back.|The female carved on him is just for appearances.
 IF SEEN, PLEASE REPORT THIS
 //entry 165 -----------------------
 アリトンＡ
@@ -4298,9 +4298,9 @@ Antman
 攻撃タイプ
 基本
 打耐性+50|射耐性+30
-防御強化／横
-学
-小隊長
+Iron Ally
+Tutor
+Subcommander
 固定／殴る
 連打
 フラッシュブロー
@@ -4312,7 +4312,7 @@ Antman
 *
 *
 なし
-Highly regarded as a|warrior, and can be found|hard at work all over.
+Highly regarded as a warrior, and can be found hard at work all over.
 IF SEEN, PLEASE REPORT THIS
 //entry 166 -----------------------
 アリトンＢ
@@ -4324,9 +4324,9 @@ Antman
 攻撃タイプ
 基本
 打耐性+50|射耐性+30
-防御強化／横
-学
-小隊長
+Iron Ally
+Tutor
+Subcommander
 固定／殴る
 連打
 フラッシュブロー
@@ -4338,7 +4338,7 @@ Antman
 *
 *
 なし
-Highly regarded as a|warrior, and can be found|hard at work all over.
+Highly regarded as a warrior, and can be found hard at work all over.
 IF SEEN, PLEASE REPORT THIS
 //entry 167 -----------------------
 アリトンＣ
@@ -4350,9 +4350,9 @@ Ant Lord
 攻撃タイプ
 基本
 打耐性+50|射耐性+30
-防御強化／横
-学
-小隊長
+Iron Ally
+Tutor
+Subcommander
 固定／殴る
 連打
 フラッシュブロー
@@ -4364,7 +4364,7 @@ Ant Lord
 *
 *
 なし
-Highly regarded as a|warrior, and can be found|hard at work all over.
+Highly regarded as a warrior, and can be found hard at work all over.
 IF SEEN, PLEASE REPORT THIS
 //entry 168 -----------------------
 ノーホＡ
@@ -4376,9 +4376,9 @@ Giant
 体力タイプ
 基本
 *
-防御強化／後
-掛け声
-補佐官
+Iron Escort
+Cheer
+Aide
 固定／殴る
 払い
 叩き潰し
@@ -4390,7 +4390,7 @@ Giant
 *
 *
 なし
-Willing and capable of|taking on all the enemies in|every fight.
+Willing and capable of taking on all the enemies in every fight.
 IF SEEN, PLEASE REPORT THIS
 //entry 169 -----------------------
 ノーホＢ
@@ -4402,9 +4402,9 @@ Giant
 体力タイプ
 基本
 *
-防御強化／後
-掛け声
-補佐官
+Iron Escort
+Cheer
+Aide
 固定／殴る
 払い
 叩き潰し
@@ -4416,7 +4416,7 @@ Giant
 *
 *
 なし
-Willing and capable of|taking on all the enemies in|every fight.
+Willing and capable of taking on all the enemies in every fight.
 IF SEEN, PLEASE REPORT THIS
 //entry 170 -----------------------
 ノーホＣ
@@ -4428,9 +4428,9 @@ Giant
 体力タイプ
 基本
 *
-防御強化／後
-掛け声
-補佐官
+Iron Escort
+Cheer
+Aide
 固定／殴る
 払い
 叩き潰し
@@ -4442,7 +4442,7 @@ Giant
 *
 *
 なし
-Willing and capable of|taking on all the enemies in|every fight.
+Willing and capable of taking on all the enemies in every fight.
 IF SEEN, PLEASE REPORT THIS
 //entry 171 -----------------------
 フライングカーグＡ
@@ -4454,9 +4454,9 @@ Flying Karg
 普通タイプ
 基本
 *
-射撃属性耐性／後
-サブメンバー
-内政向き
+Covering Escort
+Reservist
+Governor
 固定／ウォーターショット
 氷水砲
 氷水幕
@@ -4468,7 +4468,7 @@ Flying Karg
 *
 *
 なし
-Apparently delicious, but|they tell everybody that|their poisonous.
+Apparently delicious, but they tell everybody that their poisonous.
 IF SEEN, PLEASE REPORT THIS
 //entry 172 -----------------------
 フライングカーグＢ
@@ -4480,9 +4480,9 @@ Flying Karg
 普通タイプ
 基本
 *
-射撃属性耐性／後
-サブメンバー
-内政向き
+Covering Escort
+Reservist
+Governor
 固定／ウォーターショット
 氷水砲
 氷水幕
@@ -4494,7 +4494,7 @@ Flying Karg
 *
 *
 なし
-Apparently delicious, but|they tell everybody that|their poisonous.
+Apparently delicious, but they tell everybody that their poisonous.
 IF SEEN, PLEASE REPORT THIS
 //entry 173 -----------------------
 フライングカーグＣ
@@ -4506,9 +4506,9 @@ Flying Karg
 普通タイプ
 基本
 *
-射撃属性耐性／後
-サブメンバー
-内政向き
+Covering Escort
+Reservist
+Governor
 固定／ウォーターショット
 氷水砲
 氷水幕
@@ -4520,7 +4520,7 @@ Flying Karg
 *
 *
 なし
-Apparently delicious, but|they tell everybody that|their poisonous.
+Apparently delicious, but they tell everybody that their poisonous.
 IF SEEN, PLEASE REPORT THIS
 //entry 174 -----------------------
 スリーアイＡ
@@ -4532,9 +4532,9 @@ Triclops
 普通タイプ
 基本
 闇耐性+30
-学
-罠発見
-人気者
+Tutor
+Trap Sense
+Charismatic
 固定／魔力の玉
 無心砲
 無心幕
@@ -4546,7 +4546,7 @@ Triclops
 *
 *
 なし
-They see all with their|third eye.
+They see all with their third eye.
 IF SEEN, PLEASE REPORT THIS
 //entry 175 -----------------------
 スリーアイＢ
@@ -4558,9 +4558,9 @@ Triclops
 普通タイプ
 基本
 闇耐性+30
-学
-罠発見
-人気者
+Tutor
+Trap Sense
+Charismatic
 固定／魔力の玉
 無心砲
 無心幕
@@ -4572,7 +4572,7 @@ Triclops
 *
 *
 なし
-They see all with their|third eye.
+They see all with their third eye.
 IF SEEN, PLEASE REPORT THIS
 //entry 176 -----------------------
 スリーアイＣ
@@ -4584,9 +4584,9 @@ Triclops
 普通タイプ
 基本
 闇耐性+30
-学
-罠発見
-人気者
+Tutor
+Trap Sense
+Charismatic
 固定／魔力の玉
 無心砲
 無心幕
@@ -4598,7 +4598,7 @@ Triclops
 *
 *
 なし
-They see all with their|third eye.
+They see all with their third eye.
 IF SEEN, PLEASE REPORT THIS
 //entry 177 -----------------------
 リフリＡ
@@ -4610,9 +4610,9 @@ Nymph
 普通タイプ
 基本
 異常耐性+100|土耐性+30
-回復
-治療支援
-資金管理
+Regenerator
+Nurse
+Accountant
 固定／ツルのムチ
 小回復
 連突き
@@ -4636,9 +4636,9 @@ Nymph
 普通タイプ
 基本
 異常耐性+100|土耐性+30
-回復
-治療支援
-資金管理
+Regenerator
+Nurse
+Accountant
 固定／ツルのムチ
 小回復
 連突き
@@ -4662,9 +4662,9 @@ Nymph
 普通タイプ
 基本
 異常耐性+100|土耐性+30
-回復
-治療支援
-資金管理
+Regenerator
+Nurse
+Accountant
 固定／ツルのムチ
 小回復
 連突き
@@ -4688,9 +4688,9 @@ Giant Rat
 回避タイプ
 基本
 *
-地図
-地図
-天才
+Orienteering
+Orienteering
+Genius
 固定／鎌
 狙い斬り
 急所斬り
@@ -4702,7 +4702,7 @@ Giant Rat
 *
 *
 なし
-Think they're cute, but|others disagree.|Vicious in their own way.
+Think they're cute, but others disagree.|Vicious in their own way.
 IF SEEN, PLEASE REPORT THIS
 //entry 181 -----------------------
 ラッドＢ
@@ -4714,9 +4714,9 @@ Giant Rat
 回避タイプ
 基本
 *
-地図
-地図
-天才
+Orienteering
+Orienteering
+Genius
 固定／鎌
 狙い斬り
 急所斬り
@@ -4728,7 +4728,7 @@ Giant Rat
 *
 *
 なし
-Think they're cute, but|others disagree.|Vicious in their own way.
+Think they're cute, but others disagree.|Vicious in their own way.
 IF SEEN, PLEASE REPORT THIS
 //entry 182 -----------------------
 ラッドＣ
@@ -4740,9 +4740,9 @@ Giant Rat
 回避タイプ
 基本
 *
-地図
-地図
-天才
+Orienteering
+Orienteering
+Genius
 固定／鎌
 狙い斬り
 急所斬り
@@ -4754,7 +4754,7 @@ Giant Rat
 *
 *
 なし
-Think they're cute, but|others disagree.|Vicious in their own way.
+Think they're cute, but others disagree.|Vicious in their own way.
 IF SEEN, PLEASE REPORT THIS
 //entry 183 -----------------------
 タイフルＡ
@@ -4766,9 +4766,9 @@ Tifur
 攻撃タイプ
 基本
 射耐性+50
-攻撃強化／縦
-警戒心
-人気者
+Aggressive Support
+Wary
+Charismatic
 固定／爪
 乱舞斬
 秘剣・鶯
@@ -4780,7 +4780,7 @@ Tifur
 *
 *
 なし
-Very influential in the|Netherworld.
+Very influential in the Netherworld.
 IF SEEN, PLEASE REPORT THIS
 //entry 184 -----------------------
 タイフルＢ
@@ -4792,9 +4792,9 @@ Tifur
 攻撃タイプ
 基本
 射耐性+50
-攻撃強化／縦
-警戒心
-人気者
+Aggressive Support
+Wary
+Charismatic
 固定／爪
 乱舞斬
 秘剣・鶯
@@ -4806,7 +4806,7 @@ Tifur
 *
 *
 なし
-Very influential in the|Netherworld.
+Very influential in the Netherworld.
 IF SEEN, PLEASE REPORT THIS
 //entry 185 -----------------------
 タイフルＣ
@@ -4818,9 +4818,9 @@ Tifur
 攻撃タイプ
 基本
 射耐性+50
-攻撃強化／縦
-警戒心
-人気者
+Aggressive Support
+Wary
+Charismatic
 固定／爪
 乱舞斬
 秘剣・鶯
@@ -4832,7 +4832,7 @@ Tifur
 *
 *
 なし
-Very influential in the|Netherworld.
+Very influential in the Netherworld.
 IF SEEN, PLEASE REPORT THIS
 //entry 186 -----------------------
 ドーラＡ
@@ -4844,9 +4844,9 @@ Slime
 普通タイプ
 基本
 打耐性+50
-回避強化／縦
-罠無効化
-衛生の才
+Evasive Support
+Lucky
+Neat Freak
 固定／突き刺し
 毒斬り
 麻痺斬り
@@ -4858,7 +4858,7 @@ Slime
 *
 *
 なし
-Related to goos, but not an|advanced form.|Likes to play with goos|though.
+Related to goos, but not an advanced form.|Likes to play with goos though.
 IF SEEN, PLEASE REPORT THIS
 //entry 187 -----------------------
 ドーラＢ
@@ -4870,9 +4870,9 @@ Slime
 普通タイプ
 基本
 打耐性+50
-回避強化／縦
-罠無効化
-衛生の才
+Evasive Support
+Lucky
+Neat Freak
 固定／突き刺し
 毒斬り
 麻痺斬り
@@ -4884,7 +4884,7 @@ Slime
 *
 *
 なし
-Related to goos, but not an|advanced form.|Likes to play with goos|though.
+Related to goos, but not an advanced form.|Likes to play with goos though.
 IF SEEN, PLEASE REPORT THIS
 //entry 188 -----------------------
 ドーラＣ
@@ -4896,9 +4896,9 @@ Slime
 普通タイプ
 基本
 打耐性+50
-回避強化／縦
-罠無効化
-衛生の才
+Evasive Support
+Lucky
+Neat Freak
 固定／突き刺し
 毒斬り
 麻痺斬り
@@ -4910,7 +4910,7 @@ Slime
 *
 *
 なし
-Related to goos, but not an|advanced form.|Likes to play with goos|though.
+Related to goos, but not an advanced form.|Likes to play with goos though.
 IF SEEN, PLEASE REPORT THIS
 //entry 189 -----------------------
 チャミＡ
@@ -4922,9 +4922,9 @@ Fairy
 回避タイプ
 基本
 *
-地図
-地図
-娯楽の才
+Orienteering
+Orienteering
+Festive
 固定／小さな風
 固定／チャミの正気針
 暴風三連
@@ -4936,7 +4936,7 @@ Fairy
 *
 *
 なし
-Very fragile, but fine as|long as she doesn't get hit.
+Very fragile, but fine as long as she doesn't get hit.
 IF SEEN, PLEASE REPORT THIS
 //entry 190 -----------------------
 チャミＢ
@@ -4948,9 +4948,9 @@ Fairy
 回避タイプ
 基本
 *
-地図
-地図
-娯楽の才
+Orienteering
+Orienteering
+Festive
 固定／小さな風
 固定／チャミの正気針
 暴風三連
@@ -4962,7 +4962,7 @@ Fairy
 *
 *
 なし
-Very fragile, but fine as|long as she doesn't get hit.
+Very fragile, but fine as long as she doesn't get hit.
 IF SEEN, PLEASE REPORT THIS
 //entry 191 -----------------------
 チャミＣ
@@ -4974,9 +4974,9 @@ Fairy
 回避タイプ
 基本
 *
-地図
-地図
-娯楽の才
+Orienteering
+Orienteering
+Festive
 固定／小さな風
 固定／チャミの正気針
 暴風三連
@@ -4988,7 +4988,7 @@ Fairy
 *
 *
 なし
-Very fragile, but fine as|long as she doesn't get hit.
+Very fragile, but fine as long as she doesn't get hit.
 IF SEEN, PLEASE REPORT THIS
 //entry 192 -----------------------
 シュシュＡ
@@ -5000,9 +5000,9 @@ Hot Head
 普通タイプ
 基本
 火耐性+50
-魔法耐性
-罠無効化
-指揮官
+Resistant
+Lucky
+Commander
 固定／火のブレス
 火矢三連
 火矢砲
@@ -5014,7 +5014,7 @@ Hot Head
 *
 *
 なし
-Burns everything around him,|so daily life can be tough.
+Burns everything around him, so daily life can be tough.
 IF SEEN, PLEASE REPORT THIS
 //entry 193 -----------------------
 シュシュＢ
@@ -5026,9 +5026,9 @@ Hot Head
 普通タイプ
 基本
 火耐性+50
-魔法耐性
-罠無効化
-指揮官
+Resistant
+Lucky
+Commander
 固定／火のブレス
 火矢三連
 火矢砲
@@ -5040,7 +5040,7 @@ Hot Head
 *
 *
 なし
-Burns everything around him,|so daily life can be tough.
+Burns everything around him, so daily life can be tough.
 IF SEEN, PLEASE REPORT THIS
 //entry 194 -----------------------
 シュシュＣ
@@ -5052,9 +5052,9 @@ Hot Head
 普通タイプ
 基本
 火耐性+50
-魔法耐性
-罠無効化
-指揮官
+Resistant
+Lucky
+Commander
 固定／火のブレス
 火矢三連
 火矢砲
@@ -5066,7 +5066,7 @@ Hot Head
 *
 *
 なし
-Burns everything around him,|so daily life can be tough.
+Burns everything around him, so daily life can be tough.
 IF SEEN, PLEASE REPORT THIS
 //entry 195 -----------------------
 モンエイＡ
@@ -5078,9 +5078,9 @@ Monkie
 普通タイプ
 基本
 異常耐性+100
-罠発見
-罠発見
-政治家
+Trap Sense
+Trap Sense
+Politician
 固定／爪
 狙い斬り
 岩石砲
@@ -5092,7 +5092,7 @@ Monkie
 *
 *
 なし
-Fond of drinking, which gets|him into trouble, but he|can't stop.
+Fond of drinking, which gets him into trouble, but he can't stop.
 IF SEEN, PLEASE REPORT THIS
 //entry 196 -----------------------
 モンエイＢ
@@ -5104,9 +5104,9 @@ Monkie
 普通タイプ
 基本
 異常耐性+100
-罠発見
-罠発見
-政治家
+Trap Sense
+Trap Sense
+Politician
 固定／爪
 狙い斬り
 岩石砲
@@ -5118,7 +5118,7 @@ Monkie
 *
 *
 なし
-Fond of drinking, which gets|him into trouble, but he|can't stop.
+Fond of drinking, which gets him into trouble, but he can't stop.
 IF SEEN, PLEASE REPORT THIS
 //entry 197 -----------------------
 モンエイＣ
@@ -5130,9 +5130,9 @@ Monkie
 普通タイプ
 基本
 異常耐性+100
-罠発見
-罠発見
-政治家
+Trap Sense
+Trap Sense
+Politician
 固定／爪
 狙い斬り
 岩石砲
@@ -5144,7 +5144,7 @@ Monkie
 *
 *
 なし
-Fond of drinking, which gets|him into trouble, but he|can't stop.
+Fond of drinking, which gets him into trouble, but he can't stop.
 IF SEEN, PLEASE REPORT THIS
 //entry 198 -----------------------
 フロッグメンＡ
@@ -5156,9 +5156,9 @@ Frogman
 早熟タイプ
 基本
 水耐性+50
-勤勉
-勤勉
-教育の才
+Diligent
+Diligent
+Professor
 固定／舌
 氷水
 氷水三連
@@ -5170,7 +5170,7 @@ Frogman
 *
 *
 なし
-Highly regarded among frogs.|A surprisingly studious|individual.
+Highly regarded among frogs.|A surprisingly studious individual.
 IF SEEN, PLEASE REPORT THIS
 //entry 199 -----------------------
 フロッグメンＢ
@@ -5182,9 +5182,9 @@ Frogman
 早熟タイプ
 基本
 水耐性+50
-勤勉
-勤勉
-教育の才
+Diligent
+Diligent
+Professor
 固定／舌
 氷水
 氷水三連
@@ -5196,7 +5196,7 @@ Frogman
 *
 *
 なし
-Highly regarded among frogs.|A surprisingly studious|individual.
+Highly regarded among frogs.|A surprisingly studious individual.
 IF SEEN, PLEASE REPORT THIS
 //entry 200 -----------------------
 フロッグメンＣ
@@ -5208,9 +5208,9 @@ Frogman
 早熟タイプ
 基本
 水耐性+50
-勤勉
-勤勉
-教育の才
+Diligent
+Diligent
+Professor
 固定／舌
 氷水
 氷水三連
@@ -5222,7 +5222,7 @@ Frogman
 *
 *
 なし
-Highly regarded among frogs.|A surprisingly studious|individual.
+Highly regarded among frogs.|A surprisingly studious individual.
 IF SEEN, PLEASE REPORT THIS
 //entry 201 -----------------------
 ガルフＡ
@@ -5234,9 +5234,9 @@ Hydragon
 普通タイプ
 基本
 闇耐性+50
-感知
-感知
-警備の才
+Perceptive
+Perceptive
+Straightlaced
 固定／牙
 乱舞斬
 火矢三連
@@ -5248,7 +5248,7 @@ Hydragon
 *
 *
 なし
-Speaks the human language|with one head, and animal|with the other.|Surprisingly intelligent.
+Speaks the human language with one head, and animal with the other.|Surprisingly intelligent.
 IF SEEN, PLEASE REPORT THIS
 //entry 202 -----------------------
 ガルフＢ
@@ -5260,9 +5260,9 @@ Hydragon
 普通タイプ
 基本
 闇耐性+50
-感知
-感知
-警備の才
+Perceptive
+Perceptive
+Straightlaced
 固定／牙
 乱舞斬
 火矢三連
@@ -5274,7 +5274,7 @@ Hydragon
 *
 *
 なし
-Speaks the human language|with one head, and animal|with the other.|Surprisingly intelligent.
+Speaks the human language with one head, and animal with the other.|Surprisingly intelligent.
 IF SEEN, PLEASE REPORT THIS
 //entry 203 -----------------------
 ガルフＣ
@@ -5286,9 +5286,9 @@ Hydragon
 普通タイプ
 基本
 闇耐性+50
-感知
-感知
-警備の才
+Perceptive
+Perceptive
+Straightlaced
 固定／牙
 乱舞斬
 火矢三連
@@ -5300,7 +5300,7 @@ Hydragon
 *
 *
 なし
-Speaks the human language|with one head, and animal|with the other.|Surprisingly intelligent.
+Speaks the human language with one head, and animal with the other.|Surprisingly intelligent.
 IF SEEN, PLEASE REPORT THIS
 //entry 204 -----------------------
 フワＡ
@@ -5312,9 +5312,9 @@ Pixie
 回避タイプ
 基本
 必殺耐性+15|異常耐性+100
-罠発見
-罠発見
-食料管理
+Trap Sense
+Trap Sense
+Gourmand
 固定／小さな風
 固定／フワの癒し
 暴風三連
@@ -5326,7 +5326,7 @@ Pixie
 *
 *
 なし
-Netherworld or Celestia,|fairies love pranks.
+Netherworld or Celestia, fairies love pranks.
 IF SEEN, PLEASE REPORT THIS
 //entry 205 -----------------------
 フワＢ
@@ -5338,9 +5338,9 @@ Pixie
 回避タイプ
 基本
 必殺耐性+15|異常耐性+100
-罠発見
-罠発見
-食料管理
+Trap Sense
+Trap Sense
+Gourmand
 固定／小さな風
 固定／フワの癒し
 暴風三連
@@ -5352,7 +5352,7 @@ Pixie
 *
 *
 なし
-Netherworld or Celestia,|fairies love pranks.
+Netherworld or Celestia, fairies love pranks.
 IF SEEN, PLEASE REPORT THIS
 //entry 206 -----------------------
 フワＣ
@@ -5364,9 +5364,9 @@ Pixie
 回避タイプ
 基本
 必殺耐性+15|異常耐性+100
-罠発見
-罠発見
-食料管理
+Trap Sense
+Trap Sense
+Gourmand
 固定／小さな風
 固定／フワの癒し
 暴風三連
@@ -5378,7 +5378,7 @@ Pixie
 *
 *
 なし
-Netherworld or Celestia,|fairies love pranks.
+Netherworld or Celestia, fairies love pranks.
 IF SEEN, PLEASE REPORT THIS
 //entry 207 -----------------------
 ブラックバードＡ
@@ -5390,9 +5390,9 @@ Blackbird
 回避タイプ
 基本
 必殺耐性+5
-速度強化／横
-忍び寄る者
-補佐官
+Swift Ally
+Onslaught
+Aide
 固定／手刀
 乱舞斬
 乱舞斬改
@@ -5404,7 +5404,7 @@ Blackbird
 *
 *
 なし
-They confuse their enemies|with overwhelming speed.
+They confuse their enemies with overwhelming speed.
 IF SEEN, PLEASE REPORT THIS
 //entry 208 -----------------------
 ブラックバードＢ
@@ -5416,9 +5416,9 @@ Blackbird
 回避タイプ
 基本
 必殺耐性+5
-速度強化／横
-忍び寄る者
-補佐官
+Swift Ally
+Onslaught
+Aide
 固定／手刀
 乱舞斬
 乱舞斬改
@@ -5430,7 +5430,7 @@ Blackbird
 *
 *
 なし
-They confuse their enemies|with overwhelming speed.
+They confuse their enemies with overwhelming speed.
 IF SEEN, PLEASE REPORT THIS
 //entry 209 -----------------------
 ブラックバードＣ
@@ -5442,9 +5442,9 @@ Blackbird
 回避タイプ
 基本
 必殺耐性+5
-速度強化／横
-忍び寄る者
-補佐官
+Swift Ally
+Onslaught
+Aide
 固定／手刀
 乱舞斬
 乱舞斬改
@@ -5456,7 +5456,7 @@ Blackbird
 *
 *
 なし
-They confuse their enemies|with overwhelming speed.
+They confuse their enemies with overwhelming speed.
 IF SEEN, PLEASE REPORT THIS
 //entry 210 -----------------------
 コードＡ
@@ -5468,9 +5468,9 @@ Chord
 普通タイプ
 基本
 *
-敵回避弱体化
-感知
-人気者
+Bully
+Perceptive
+Charismatic
 固定／打撃人形
 固定／乱打人形
 弾き飛ばし
@@ -5482,7 +5482,7 @@ Chord
 *
 *
 なし
-Needs her puppet to channel|her mana. Without it, she's|helpless.
+Needs her puppet to channel her mana. Without it, she's helpless.
 IF SEEN, PLEASE REPORT THIS
 //entry 211 -----------------------
 コードＢ
@@ -5494,9 +5494,9 @@ Chord
 普通タイプ
 基本
 *
-敵回避弱体化
-感知
-人気者
+Bully
+Perceptive
+Charismatic
 固定／打撃人形
 固定／乱打人形
 弾き飛ばし
@@ -5508,7 +5508,7 @@ Chord
 *
 *
 なし
-Needs her puppet to channel|her mana. Without it, she's|helpless.
+Needs her puppet to channel her mana. Without it, she's helpless.
 IF SEEN, PLEASE REPORT THIS
 //entry 212 -----------------------
 コードＣ
@@ -5520,9 +5520,9 @@ Chord
 普通タイプ
 基本
 *
-敵回避弱体化
-感知
-人気者
+Bully
+Perceptive
+Charismatic
 固定／打撃人形
 固定／乱打人形
 弾き飛ばし
@@ -5534,7 +5534,7 @@ Chord
 *
 *
 なし
-Needs her puppet to channel|her mana. Without it, she's|helpless.
+Needs her puppet to channel her mana. Without it, she's helpless.
 IF SEEN, PLEASE REPORT THIS
 //entry 213 -----------------------
 ハイルフＡ
@@ -5546,9 +5546,9 @@ Hylf
 普通タイプ
 基本
 火耐性+20
-攻撃強化／横
-警戒心
-独立行動
+Aggressive Ally
+Wary
+Independent
 固定／棍棒
 連打
 弾き飛ばし
@@ -5572,9 +5572,9 @@ Hylf
 普通タイプ
 基本
 火耐性+20
-攻撃強化／横
-警戒心
-独立行動
+Aggressive Ally
+Wary
+Independent
 固定／棍棒
 連打
 弾き飛ばし
@@ -5598,9 +5598,9 @@ Hylf
 普通タイプ
 基本
 火耐性+20
-攻撃強化／横
-警戒心
-独立行動
+Aggressive Ally
+Wary
+Independent
 固定／棍棒
 連打
 弾き飛ばし
@@ -5624,9 +5624,9 @@ Minos
 防御タイプ
 基本
 必殺耐性+30|打耐性+50|射耐性+50
-防御強化／横
-掛け声
-小隊長
+Iron Ally
+Cheer
+Subcommander
 固定／ハンマー
 固定／振り回しハンマー
 弾き飛ばし
@@ -5638,7 +5638,7 @@ Minos
 *
 *
 なし
-Their race always wears|armor.|It's the most important thing|to them after their lives.
+Their race always wears armor.|It's the most important thing to them after their lives.
 IF SEEN, PLEASE REPORT THIS
 //entry 217 -----------------------
 ミノスＢ
@@ -5650,9 +5650,9 @@ Minos
 防御タイプ
 基本
 必殺耐性+30|打耐性+50|射耐性+50
-防御強化／横
-掛け声
-小隊長
+Iron Ally
+Cheer
+Subcommander
 固定／ハンマー
 固定／振り回しハンマー
 弾き飛ばし
@@ -5664,7 +5664,7 @@ Minos
 *
 *
 なし
-Their race always wears|armor.|It's the most important thing|to them after their lives.
+Their race always wears armor.|It's the most important thing to them after their lives.
 IF SEEN, PLEASE REPORT THIS
 //entry 218 -----------------------
 ミノスＣ
@@ -5676,9 +5676,9 @@ Minos
 防御タイプ
 基本
 必殺耐性+30|打耐性+50|射耐性+50
-防御強化／横
-掛け声
-小隊長
+Iron Ally
+Cheer
+Subcommander
 固定／ハンマー
 固定／振り回しハンマー
 弾き飛ばし
@@ -5690,7 +5690,7 @@ Minos
 *
 *
 なし
-Their race always wears|armor.|It's the most important thing|to them after their lives.
+Their race always wears armor.|It's the most important thing to them after their lives.
 IF SEEN, PLEASE REPORT THIS
 //entry 219 -----------------------
 ステップＡ
@@ -5702,9 +5702,9 @@ Steppe
 普通タイプ
 基本
 必殺耐性+5
-回避強化／横
-遠視
-娯楽の才
+Evasive Ally
+Hawkeye
+Festive
 固定／剣の舞
 固定／刃の舞
 狙い斬り
@@ -5716,7 +5716,7 @@ Steppe
 *
 *
 なし
-Worries that people around|her might see her as not|taking things seriously.
+Worries that people around her might see her as not taking things seriously.
 IF SEEN, PLEASE REPORT THIS
 //entry 220 -----------------------
 ステップＢ
@@ -5728,9 +5728,9 @@ Steppe
 普通タイプ
 基本
 必殺耐性+5
-回避強化／横
-遠視
-娯楽の才
+Evasive Ally
+Hawkeye
+Festive
 固定／剣の舞
 固定／刃の舞
 狙い斬り
@@ -5742,7 +5742,7 @@ Steppe
 *
 *
 なし
-Worries that people around|her might see her as not|taking things seriously.
+Worries that people around her might see her as not taking things seriously.
 IF SEEN, PLEASE REPORT THIS
 //entry 221 -----------------------
 ステップＣ
@@ -5754,9 +5754,9 @@ Steppe
 普通タイプ
 基本
 必殺耐性+5
-回避強化／横
-遠視
-娯楽の才
+Evasive Ally
+Hawkeye
+Festive
 固定／剣の舞
 固定／刃の舞
 狙い斬り
@@ -5768,7 +5768,7 @@ Steppe
 *
 *
 なし
-Worries that people around|her might see her as not|taking things seriously.
+Worries that people around her might see her as not taking things seriously.
 IF SEEN, PLEASE REPORT THIS
 //entry 222 -----------------------
 ウブズＡ
@@ -5780,9 +5780,9 @@ Songstress
 気力タイプ
 基本
 必殺耐性+5
-先制攻撃無効化
-感知
-商業の才
+Vigilant
+Perceptive
+Merchant
 固定／混乱の歌
 固定／癒しの歌
 暴風五連
@@ -5794,7 +5794,7 @@ Songstress
 *
 *
 なし
-If she speaks carelessly,|her magical voice can cause|problems.
+If she speaks carelessly, her magical voice can cause problems.
 IF SEEN, PLEASE REPORT THIS
 //entry 223 -----------------------
 ウブズＢ
@@ -5806,9 +5806,9 @@ Songstress
 気力タイプ
 基本
 必殺耐性+5
-先制攻撃無効化
-感知
-商業の才
+Vigilant
+Perceptive
+Merchant
 固定／混乱の歌
 固定／癒しの歌
 暴風五連
@@ -5820,7 +5820,7 @@ Songstress
 *
 *
 なし
-If she speaks carelessly,|her magical voice can cause|problems.
+If she speaks carelessly, her magical voice can cause problems.
 IF SEEN, PLEASE REPORT THIS
 //entry 224 -----------------------
 ウブズＣ
@@ -5832,9 +5832,9 @@ Songstress
 気力タイプ
 基本
 必殺耐性+5
-先制攻撃無効化
-感知
-商業の才
+Vigilant
+Perceptive
+Merchant
 固定／混乱の歌
 固定／癒しの歌
 暴風五連
@@ -5846,7 +5846,7 @@ Songstress
 *
 *
 なし
-If she speaks carelessly,|her magical voice can cause|problems.
+If she speaks carelessly, her magical voice can cause problems.
 IF SEEN, PLEASE REPORT THIS
 //entry 225 -----------------------
 ペイジＡ
@@ -5858,9 +5858,9 @@ Grimoire
 普通タイプ
 基本
 斬耐性+20
-魔法無効化
-警戒心
-教育の才
+Canceller
+Wary
+Professor
 固定／魔力の文字
 無心五連
 小回復
@@ -5872,7 +5872,7 @@ Grimoire
 *
 *
 なし
-Better at magic than direct|attacks.
+Better at magic than direct attacks.
 IF SEEN, PLEASE REPORT THIS
 //entry 226 -----------------------
 ペイジＢ
@@ -5884,9 +5884,9 @@ Grimoire
 普通タイプ
 基本
 斬耐性+20
-魔法無効化
-警戒心
-教育の才
+Canceller
+Wary
+Professor
 固定／魔力の文字
 無心五連
 小回復
@@ -5898,7 +5898,7 @@ Grimoire
 *
 *
 なし
-Better at magic than direct|attacks.
+Better at magic than direct attacks.
 IF SEEN, PLEASE REPORT THIS
 //entry 227 -----------------------
 ペイジＣ
@@ -5910,9 +5910,9 @@ Grimoire
 普通タイプ
 基本
 斬耐性+20
-魔法無効化
-警戒心
-教育の才
+Canceller
+Wary
+Professor
 固定／魔力の文字
 無心五連
 小回復
@@ -5924,7 +5924,7 @@ Grimoire
 *
 *
 なし
-Better at magic than direct|attacks.
+Better at magic than direct attacks.
 IF SEEN, PLEASE REPORT THIS
 //entry 228 -----------------------
 モジＡ
@@ -5936,9 +5936,9 @@ Page
 普通タイプ
 基本
 斬耐性+20
-打撃属性耐性／横
-罠発見
-衛生の才
+Sturdy Ally
+Trap Sense
+Neat Freak
 固定／魔力の文字
 無心三連
 無心五連
@@ -5950,7 +5950,7 @@ Page
 *
 *
 なし
-Can become more, but some|choose to stop growing at a|single page.
+Can become more, but some choose to stop growing at a single page.
 IF SEEN, PLEASE REPORT THIS
 //entry 229 -----------------------
 モジＢ
@@ -5962,9 +5962,9 @@ Page
 普通タイプ
 基本
 斬耐性+20
-打撃属性耐性／横
-罠発見
-衛生の才
+Sturdy Ally
+Trap Sense
+Neat Freak
 固定／魔力の文字
 無心三連
 無心五連
@@ -5976,7 +5976,7 @@ Page
 *
 *
 なし
-Can become more, but some|choose to stop growing at a|single page.
+Can become more, but some choose to stop growing at a single page.
 IF SEEN, PLEASE REPORT THIS
 //entry 230 -----------------------
 モジＣ
@@ -5988,9 +5988,9 @@ Page
 普通タイプ
 基本
 斬耐性+20
-打撃属性耐性／横
-罠発見
-衛生の才
+Sturdy Ally
+Trap Sense
+Neat Freak
 固定／魔力の文字
 無心三連
 無心五連
@@ -6002,7 +6002,7 @@ Page
 *
 *
 なし
-Can become more, but some|choose to stop growing at a|single page.
+Can become more, but some choose to stop growing at a single page.
 IF SEEN, PLEASE REPORT THIS
 //entry 231 -----------------------
 ペパＡ
@@ -6014,9 +6014,9 @@ Bookmark
 普通タイプ
 基本
 斬耐性+50
-打撃属性耐性／前
-罠発見
-内政向き
+Sturdy Wall
+Trap Sense
+Governor
 固定／紙斬り
 無心
 無心三連
@@ -6028,7 +6028,7 @@ Bookmark
 *
 *
 なし
-The juvenile form of a|growing book.
+The juvenile form of a growing book.
 IF SEEN, PLEASE REPORT THIS
 //entry 232 -----------------------
 ペパＢ
@@ -6040,9 +6040,9 @@ Bookmark
 普通タイプ
 基本
 斬耐性+50
-打撃属性耐性／前
-罠発見
-内政向き
+Sturdy Wall
+Trap Sense
+Governor
 固定／紙斬り
 無心
 無心三連
@@ -6054,7 +6054,7 @@ Bookmark
 *
 *
 なし
-The juvenile form of a|growing book.
+The juvenile form of a growing book.
 IF SEEN, PLEASE REPORT THIS
 //entry 233 -----------------------
 ペパＣ
@@ -6066,9 +6066,9 @@ Bookmark
 普通タイプ
 基本
 斬耐性+50
-打撃属性耐性／前
-罠発見
-内政向き
+Sturdy Wall
+Trap Sense
+Governor
 固定／紙斬り
 無心
 無心三連
@@ -6080,7 +6080,7 @@ Bookmark
 *
 *
 なし
-The juvenile form of a|growing book.
+The juvenile form of a growing book.
 IF SEEN, PLEASE REPORT THIS
 //entry 234 -----------------------
 ディスタＡ
@@ -6092,9 +6092,9 @@ Dista
 攻撃タイプ
 基本
 必殺耐性+15
-邪魔回復
-地図
-資源管理
+Sickening
+Orienteering
+Logistician
 固定／レーザー
 光槍三連
 光槍砲
@@ -6106,7 +6106,7 @@ Dista
 *
 *
 なし
-Its glittering appearance|misleads those who come|across it.
+Its glittering appearance misleads those who come across it.
 IF SEEN, PLEASE REPORT THIS
 //entry 235 -----------------------
 ディスタＢ
@@ -6118,9 +6118,9 @@ Dista
 攻撃タイプ
 基本
 必殺耐性+15
-邪魔回復
-地図
-資源管理
+Sickening
+Orienteering
+Logistician
 固定／レーザー
 光槍三連
 光槍砲
@@ -6132,7 +6132,7 @@ Dista
 *
 *
 なし
-Its glittering appearance|misleads those who come|across it.
+Its glittering appearance misleads those who come across it.
 IF SEEN, PLEASE REPORT THIS
 //entry 236 -----------------------
 ディスタＣ
@@ -6144,9 +6144,9 @@ Dista
 攻撃タイプ
 基本
 必殺耐性+15
-邪魔回復
-地図
-資源管理
+Sickening
+Orienteering
+Logistician
 固定／レーザー
 光槍三連
 光槍砲
@@ -6158,7 +6158,7 @@ Dista
 *
 *
 なし
-Its glittering appearance|misleads those who come|across it.
+Its glittering appearance misleads those who come across it.
 IF SEEN, PLEASE REPORT THIS
 //entry 237 -----------------------
 クラＡ
@@ -6170,9 +6170,9 @@ Dista Egg
 普通タイプ
 基本
 *
-防御強化／後
-罠発見
-資源管理
+Iron Escort
+Trap Sense
+Logistician
 固定／レーザー
 光槍
 光槍三連
@@ -6184,7 +6184,7 @@ Dista Egg
 *
 *
 なし
-A dista that's still|maturing.
+A dista that's still maturing.
 IF SEEN, PLEASE REPORT THIS
 //entry 238 -----------------------
 クラＢ
@@ -6196,9 +6196,9 @@ Dista Egg
 普通タイプ
 基本
 *
-防御強化／後
-罠発見
-資源管理
+Iron Escort
+Trap Sense
+Logistician
 固定／レーザー
 光槍
 光槍三連
@@ -6210,7 +6210,7 @@ Dista Egg
 *
 *
 なし
-A dista that's still|maturing.
+A dista that's still maturing.
 IF SEEN, PLEASE REPORT THIS
 //entry 239 -----------------------
 クラＣ
@@ -6222,9 +6222,9 @@ Dista Egg
 普通タイプ
 基本
 *
-防御強化／後
-罠発見
-資源管理
+Iron Escort
+Trap Sense
+Logistician
 固定／レーザー
 光槍
 光槍三連
@@ -6236,7 +6236,7 @@ Dista Egg
 *
 *
 なし
-A dista that's still|maturing.
+A dista that's still maturing.
 IF SEEN, PLEASE REPORT THIS
 //entry 240 -----------------------
 ポタタＡ
@@ -6248,9 +6248,9 @@ Iara
 体力タイプ
 基本
 火耐性+50|光耐性+50
-回復
-治療支援
-人気者
+Regenerator
+Nurse
+Charismatic
 固定／ウォーターショット
 氷水砲
 氷水幕
@@ -6262,7 +6262,7 @@ Iara
 *
 *
 なし
-Its form calms the hearts of|those who see it.
+Its form calms the hearts of those who see it.
 IF SEEN, PLEASE REPORT THIS
 //entry 241 -----------------------
 ポタタＢ
@@ -6274,9 +6274,9 @@ Iara
 体力タイプ
 基本
 火耐性+50|光耐性+50
-回復
-治療支援
-人気者
+Regenerator
+Nurse
+Charismatic
 固定／ウォーターショット
 氷水砲
 氷水幕
@@ -6288,7 +6288,7 @@ Iara
 *
 *
 なし
-Its form calms the hearts of|those who see it.
+Its form calms the hearts of those who see it.
 IF SEEN, PLEASE REPORT THIS
 //entry 242 -----------------------
 ポタタＣ
@@ -6300,9 +6300,9 @@ Iara
 体力タイプ
 基本
 火耐性+50|光耐性+50
-回復
-治療支援
-人気者
+Regenerator
+Nurse
+Charismatic
 固定／ウォーターショット
 氷水砲
 氷水幕
@@ -6314,7 +6314,7 @@ Iara
 *
 *
 なし
-Its form calms the hearts of|those who see it.
+Its form calms the hearts of those who see it.
 IF SEEN, PLEASE REPORT THIS
 //entry 243 -----------------------
 スカイアンＡ
@@ -6326,9 +6326,9 @@ Sky Angler
 普通タイプ
 基本
 異常耐性-80
-射撃属性耐性／後
-サブメンバー
-内政の才
+Covering Escort
+Reservist
+Bureaucrat
 固定／小さな水
 氷水砲
 氷水幕
@@ -6340,7 +6340,7 @@ Sky Angler
 *
 *
 なし
-Will be extremely large in a|few decades.
+Will be extremely large in a few decades.
 IF SEEN, PLEASE REPORT THIS
 //entry 244 -----------------------
 スカイアンＢ
@@ -6352,9 +6352,9 @@ Sky Angler
 普通タイプ
 基本
 異常耐性-80
-射撃属性耐性／後
-サブメンバー
-内政の才
+Covering Escort
+Reservist
+Bureaucrat
 固定／小さな水
 氷水砲
 氷水幕
@@ -6366,7 +6366,7 @@ Sky Angler
 *
 *
 なし
-Will be extremely large in a|few decades.
+Will be extremely large in a few decades.
 IF SEEN, PLEASE REPORT THIS
 //entry 245 -----------------------
 スカイアンＣ
@@ -6378,9 +6378,9 @@ Sky Angler
 普通タイプ
 基本
 異常耐性-80
-射撃属性耐性／後
-サブメンバー
-内政の才
+Covering Escort
+Reservist
+Bureaucrat
 固定／小さな水
 氷水砲
 氷水幕
@@ -6392,7 +6392,7 @@ Sky Angler
 *
 *
 なし
-Will be extremely large in a|few decades.
+Will be extremely large in a few decades.
 IF SEEN, PLEASE REPORT THIS
 //entry 246 -----------------------
 新ベトＡ
@@ -6404,9 +6404,9 @@ Gooette
 普通タイプ
 基本
 光耐性+50
-防御強化／縦
-罠発見
-内政向き
+Iron Support
+Trap Sense
+Governor
 固定／ベトアタック
 乱射
 狙い撃ち
@@ -6418,7 +6418,7 @@ Gooette
 *
 *
 なし
-Many young men raise these|looking forward to the|future.
+Many young men raise these looking forward to the future.
 IF SEEN, PLEASE REPORT THIS
 //entry 247 -----------------------
 新ベトＢ
@@ -6430,9 +6430,9 @@ Gooette
 普通タイプ
 基本
 光耐性+50
-防御強化／縦
-罠発見
-内政向き
+Iron Support
+Trap Sense
+Governor
 固定／ベトアタック
 乱射
 狙い撃ち
@@ -6444,7 +6444,7 @@ Gooette
 *
 *
 なし
-Many young men raise these|looking forward to the|future.
+Many young men raise these looking forward to the future.
 IF SEEN, PLEASE REPORT THIS
 //entry 248 -----------------------
 新ベトＣ
@@ -6456,9 +6456,9 @@ Gooette
 普通タイプ
 基本
 光耐性+50
-防御強化／縦
-罠発見
-内政向き
+Iron Support
+Trap Sense
+Governor
 固定／ベトアタック
 乱射
 狙い撃ち
@@ -6470,7 +6470,7 @@ Gooette
 *
 *
 なし
-Many young men raise these|looking forward to the|future.
+Many young men raise these looking forward to the future.
 IF SEEN, PLEASE REPORT THIS
 //entry 249 -----------------------
 天ベトＡ
@@ -6482,9 +6482,9 @@ Holy Goo
 万能タイプ
 基本
 光耐性+50
-気力回復
-学
-小隊長
+Energetic
+Tutor
+Subcommander
 固定／ベトレーザー
 固定／癒しの心
 毒の霧
@@ -6496,7 +6496,7 @@ Holy Goo
 *
 *
 なし
-Came from Celestia, and its|coloring is slightly|different from usual.
+Came from Celestia, and its coloring is slightly different from usual.
 IF SEEN, PLEASE REPORT THIS
 //entry 250 -----------------------
 天ベトＢ
@@ -6508,9 +6508,9 @@ Holy Goo
 万能タイプ
 基本
 光耐性+50
-気力回復
-学
-小隊長
+Energetic
+Tutor
+Subcommander
 固定／ベトレーザー
 固定／癒しの心
 毒の霧
@@ -6522,7 +6522,7 @@ Holy Goo
 *
 *
 なし
-Came from Celestia, and its|coloring is slightly|different from usual.
+Came from Celestia, and its coloring is slightly different from usual.
 IF SEEN, PLEASE REPORT THIS
 //entry 251 -----------------------
 天ベトＣ
@@ -6534,9 +6534,9 @@ Holy Goo
 万能タイプ
 基本
 光耐性+50
-気力回復
-学
-小隊長
+Energetic
+Tutor
+Subcommander
 固定／ベトレーザー
 固定／癒しの心
 毒の霧
@@ -6548,7 +6548,7 @@ Holy Goo
 *
 *
 なし
-Came from Celestia, and its|coloring is slightly|different from usual.
+Came from Celestia, and its coloring is slightly different from usual.
 IF SEEN, PLEASE REPORT THIS
 //entry 252 -----------------------
 一角ベトＡ
@@ -6560,9 +6560,9 @@ Circumgoo
 普通タイプ
 基本
 斬耐性+50
-生命力
-遠視
-内政向き
+Tenacious
+Hawkeye
+Governor
 固定／粘液
 払い
 フラッシュブロー
@@ -6574,7 +6574,7 @@ Circumgoo
 *
 *
 なし
-Nobody knows why it's shaped|this way.
+Nobody knows why it's shaped this way.
 IF SEEN, PLEASE REPORT THIS
 //entry 253 -----------------------
 一角ベトＢ
@@ -6586,9 +6586,9 @@ Circumgoo
 普通タイプ
 基本
 斬耐性+50
-生命力
-遠視
-内政向き
+Tenacious
+Hawkeye
+Governor
 固定／粘液
 払い
 フラッシュブロー
@@ -6600,7 +6600,7 @@ Circumgoo
 *
 *
 なし
-Nobody knows why it's shaped|this way.
+Nobody knows why it's shaped this way.
 IF SEEN, PLEASE REPORT THIS
 //entry 254 -----------------------
 一角ベトＣ
@@ -6612,9 +6612,9 @@ Circumgoo
 普通タイプ
 基本
 斬耐性+50
-生命力
-遠視
-内政向き
+Tenacious
+Hawkeye
+Governor
 固定／粘液
 払い
 フラッシュブロー
@@ -6626,7 +6626,7 @@ Circumgoo
 *
 *
 なし
-Nobody knows why it's shaped|this way.
+Nobody knows why it's shaped this way.
 IF SEEN, PLEASE REPORT THIS
 //entry 255 -----------------------
 二角ベトＡ
@@ -6638,9 +6638,9 @@ Digoo
 普通タイプ
 基本
 射耐性+50
-防御強化／後
-地図
-教育の才
+Iron Escort
+Orienteering
+Professor
 固定／ベトアタック
 強射撃
 *
@@ -6652,7 +6652,7 @@ Digoo
 *
 *
 なし
-It probably grew up in a|cramped place.
+It probably grew up in a cramped place.
 IF SEEN, PLEASE REPORT THIS
 //entry 256 -----------------------
 二角ベトＢ
@@ -6664,9 +6664,9 @@ Digoo
 普通タイプ
 基本
 射耐性+50
-防御強化／後
-地図
-教育の才
+Iron Escort
+Orienteering
+Professor
 固定／ベトアタック
 強射撃
 *
@@ -6678,7 +6678,7 @@ Digoo
 *
 *
 なし
-It probably grew up in a|cramped place.
+It probably grew up in a cramped place.
 IF SEEN, PLEASE REPORT THIS
 //entry 257 -----------------------
 二角ベトＣ
@@ -6690,9 +6690,9 @@ Digoo
 普通タイプ
 基本
 射耐性+50
-防御強化／後
-地図
-教育の才
+Iron Escort
+Orienteering
+Professor
 固定／ベトアタック
 強射撃
 *
@@ -6704,7 +6704,7 @@ Digoo
 *
 *
 なし
-It probably grew up in a|cramped place.
+It probably grew up in a cramped place.
 IF SEEN, PLEASE REPORT THIS
 //entry 258 -----------------------
 三角ベトＡ
@@ -6716,9 +6716,9 @@ Trigoo
 普通タイプ
 基本
 打耐性+50
-防御強化／前
-学
-内政の才
+Iron Wall
+Tutor
+Bureaucrat
 固定／粘液
 麻痺の霧
 興奮
@@ -6730,7 +6730,7 @@ Trigoo
 *
 *
 なし
-Its corners are surprisingly|solid.
+Its corners are surprisingly solid.
 IF SEEN, PLEASE REPORT THIS
 //entry 259 -----------------------
 三角ベトＢ
@@ -6742,9 +6742,9 @@ Trigoo
 普通タイプ
 基本
 打耐性+50
-防御強化／前
-学
-内政の才
+Iron Wall
+Tutor
+Bureaucrat
 固定／粘液
 麻痺の霧
 興奮
@@ -6756,7 +6756,7 @@ Trigoo
 *
 *
 なし
-Its corners are surprisingly|solid.
+Its corners are surprisingly solid.
 IF SEEN, PLEASE REPORT THIS
 //entry 260 -----------------------
 三角ベトＣ
@@ -6768,9 +6768,9 @@ Trigoo
 普通タイプ
 基本
 打耐性+50
-防御強化／前
-学
-内政の才
+Iron Wall
+Tutor
+Bureaucrat
 固定／粘液
 麻痺の霧
 興奮
@@ -6782,7 +6782,7 @@ Trigoo
 *
 *
 なし
-Its corners are surprisingly|solid.
+Its corners are surprisingly solid.
 IF SEEN, PLEASE REPORT THIS
 //entry 261 -----------------------
 四角ベトＡ
@@ -6794,9 +6794,9 @@ Tetragoo
 普通タイプ
 基本
 火耐性+50
-速度強化／全
-罠無効化
-資源管理
+Swift Leader
+Lucky
+Logistician
 固定／ベトアタック
 氷水
 氷水三連
@@ -6820,9 +6820,9 @@ Tetragoo
 普通タイプ
 基本
 火耐性+50
-速度強化／全
-罠無効化
-資源管理
+Swift Leader
+Lucky
+Logistician
 固定／ベトアタック
 氷水
 氷水三連
@@ -6846,9 +6846,9 @@ Tetragoo
 普通タイプ
 基本
 火耐性+50
-速度強化／全
-罠無効化
-資源管理
+Swift Leader
+Lucky
+Logistician
 固定／ベトアタック
 氷水
 氷水三連
@@ -6872,9 +6872,9 @@ Pentagoo
 普通タイプ
 基本
 水耐性+50
-回避強化／全
-学
-政治家
+Evasive Leader
+Tutor
+Politician
 固定／ベトシュート
 火矢
 火矢三連
@@ -6886,7 +6886,7 @@ Pentagoo
 *
 *
 なし
-Pentagons are in fashion|these days.
+Pentagons are in fashion these days.
 IF SEEN, PLEASE REPORT THIS
 //entry 265 -----------------------
 五角ベトＢ
@@ -6898,9 +6898,9 @@ Pentagoo
 普通タイプ
 基本
 水耐性+50
-回避強化／全
-学
-政治家
+Evasive Leader
+Tutor
+Politician
 固定／ベトシュート
 火矢
 火矢三連
@@ -6912,7 +6912,7 @@ Pentagoo
 *
 *
 なし
-Pentagons are in fashion|these days.
+Pentagons are in fashion these days.
 IF SEEN, PLEASE REPORT THIS
 //entry 266 -----------------------
 五角ベトＣ
@@ -6924,9 +6924,9 @@ Pentagoo
 普通タイプ
 基本
 水耐性+50
-回避強化／全
-学
-政治家
+Evasive Leader
+Tutor
+Politician
 固定／ベトシュート
 火矢
 火矢三連
@@ -6938,7 +6938,7 @@ Pentagoo
 *
 *
 なし
-Pentagons are in fashion|these days.
+Pentagons are in fashion these days.
 IF SEEN, PLEASE REPORT THIS
 //entry 267 -----------------------
 六角ベトＡ
@@ -6950,9 +6950,9 @@ Hexagoo
 普通タイプ
 基本
 闇耐性+50
-打撃属性耐性／全
-罠発見
-衛生の才
+Sturdy Leader
+Trap Sense
+Neat Freak
 固定／ベトインパクト
 恐怖の霧
 強連射
@@ -6964,7 +6964,7 @@ Hexagoo
 *
 *
 なし
-They want to get arranged|properly due to their shape.
+They want to get arranged properly due to their shape.
 IF SEEN, PLEASE REPORT THIS
 //entry 268 -----------------------
 六角ベトＢ
@@ -6976,9 +6976,9 @@ Hexagoo
 普通タイプ
 基本
 闇耐性+50
-打撃属性耐性／全
-罠発見
-衛生の才
+Sturdy Leader
+Trap Sense
+Neat Freak
 固定／ベトインパクト
 恐怖の霧
 強連射
@@ -6990,7 +6990,7 @@ Hexagoo
 *
 *
 なし
-They want to get arranged|properly due to their shape.
+They want to get arranged properly due to their shape.
 IF SEEN, PLEASE REPORT THIS
 //entry 269 -----------------------
 六角ベトＣ
@@ -7002,9 +7002,9 @@ Hexagoo
 普通タイプ
 基本
 闇耐性+50
-打撃属性耐性／全
-罠発見
-衛生の才
+Sturdy Leader
+Trap Sense
+Neat Freak
 固定／ベトインパクト
 恐怖の霧
 強連射
@@ -7016,7 +7016,7 @@ Hexagoo
 *
 *
 なし
-They want to get arranged|properly due to their shape.
+They want to get arranged properly due to their shape.
 IF SEEN, PLEASE REPORT THIS
 //entry 270 -----------------------
 マルＡ
@@ -7028,9 +7028,9 @@ Goop
 普通タイプ
 基本
 *
-攻撃強化／前
-地図
-商業の才
+Aggressive Wall
+Orienteering
+Merchant
 固定／魔力の玉
 無心三連
 無心砲
@@ -7042,7 +7042,7 @@ Goop
 *
 *
 なし
-Like goos, but not.|Some think they're pieces of|an ancient god.
+Like goos, but not.|Some think they're pieces of an ancient god.
 IF SEEN, PLEASE REPORT THIS
 //entry 271 -----------------------
 マルＢ
@@ -7054,9 +7054,9 @@ Goop
 普通タイプ
 基本
 *
-攻撃強化／前
-地図
-商業の才
+Aggressive Wall
+Orienteering
+Merchant
 固定／魔力の玉
 無心三連
 無心砲
@@ -7068,7 +7068,7 @@ Goop
 *
 *
 なし
-Like goos, but not.|Some think they're pieces of|an ancient god.
+Like goos, but not.|Some think they're pieces of an ancient god.
 IF SEEN, PLEASE REPORT THIS
 //entry 272 -----------------------
 マルＣ
@@ -7080,9 +7080,9 @@ Goop
 普通タイプ
 基本
 *
-攻撃強化／前
-地図
-商業の才
+Aggressive Wall
+Orienteering
+Merchant
 固定／魔力の玉
 無心三連
 無心砲
@@ -7094,7 +7094,7 @@ Goop
 *
 *
 なし
-Like goos, but not.|Some think they're pieces of|an ancient god.
+Like goos, but not.|Some think they're pieces of an ancient god.
 IF SEEN, PLEASE REPORT THIS
 //entry 273 -----------------------
 リギーウルフＡ
@@ -7106,9 +7106,9 @@ Holy Woolf
 普通タイプ
 基本
 *
-敵回避弱体化
-学
-独立行動
+Bully
+Tutor
+Independent
 固定／爪
 固定／噛み付き
 毒
@@ -7120,7 +7120,7 @@ Holy Woolf
 *
 *
 なし
-Tame by the standards of|Netherworld dogs.
+Tame by the standards of Netherworld dogs.
 IF SEEN, PLEASE REPORT THIS
 //entry 274 -----------------------
 リギーウルフＢ
@@ -7132,9 +7132,9 @@ Holy Woolf
 普通タイプ
 基本
 *
-敵回避弱体化
-学
-独立行動
+Bully
+Tutor
+Independent
 固定／爪
 固定／噛み付き
 毒
@@ -7146,7 +7146,7 @@ Holy Woolf
 *
 *
 なし
-Tame by the standards of|Netherworld dogs.
+Tame by the standards of Netherworld dogs.
 IF SEEN, PLEASE REPORT THIS
 //entry 275 -----------------------
 リギーウルフＣ
@@ -7158,9 +7158,9 @@ Holy Woolf
 普通タイプ
 基本
 *
-敵回避弱体化
-学
-独立行動
+Bully
+Tutor
+Independent
 固定／爪
 固定／噛み付き
 毒
@@ -7172,7 +7172,7 @@ Holy Woolf
 *
 *
 なし
-Tame by the standards of|Netherworld dogs.
+Tame by the standards of Netherworld dogs.
 IF SEEN, PLEASE REPORT THIS
 //entry 276 -----------------------
 リギークマンＡ
@@ -7184,9 +7184,9 @@ Holy Werebear
 体力タイプ
 基本
 *
-身代わり
-サブメンバー
-内政の才
+Scapegoat
+Reservist
+Bureaucrat
 固定／爪
 固定／引っ掻き
 混乱
@@ -7198,7 +7198,7 @@ Holy Werebear
 *
 *
 なし
-Easily mistaken for polar|bears, and just as|dangerous.
+Easily mistaken for polar bears, and just as dangerous.
 IF SEEN, PLEASE REPORT THIS
 //entry 277 -----------------------
 リギークマンＢ
@@ -7210,9 +7210,9 @@ Holy Werebear
 体力タイプ
 基本
 *
-身代わり
-サブメンバー
-内政の才
+Scapegoat
+Reservist
+Bureaucrat
 固定／爪
 固定／引っ掻き
 混乱
@@ -7224,7 +7224,7 @@ Holy Werebear
 *
 *
 なし
-Easily mistaken for polar|bears, and just as|dangerous.
+Easily mistaken for polar bears, and just as dangerous.
 IF SEEN, PLEASE REPORT THIS
 //entry 278 -----------------------
 リギークマンＣ
@@ -7236,9 +7236,9 @@ Holy Werebear
 体力タイプ
 基本
 *
-身代わり
-サブメンバー
-内政の才
+Scapegoat
+Reservist
+Bureaucrat
 固定／爪
 固定／引っ掻き
 混乱
@@ -7250,7 +7250,7 @@ Holy Werebear
 *
 *
 なし
-Easily mistaken for polar|bears, and just as|dangerous.
+Easily mistaken for polar bears, and just as dangerous.
 IF SEEN, PLEASE REPORT THIS
 //entry 279 -----------------------
 リギードリツルＡ
@@ -7262,9 +7262,9 @@ Holy Beladonna
 普通タイプ
 基本
 土耐性+30
-生命力
-生命力
-農業の才
+Tenacious
+Tenacious
+Green Thumb
 固定／ツタ
 連突き
 毒
@@ -7276,7 +7276,7 @@ Holy Beladonna
 *
 *
 なし
-Pretty much the same as|their Netherworld kind.
+Pretty much the same as their Netherworld kind.
 IF SEEN, PLEASE REPORT THIS
 //entry 280 -----------------------
 リギードリツルＢ
@@ -7288,9 +7288,9 @@ Holy Beladonna
 普通タイプ
 基本
 土耐性+30
-生命力
-生命力
-農業の才
+Tenacious
+Tenacious
+Green Thumb
 固定／ツタ
 連突き
 毒
@@ -7302,7 +7302,7 @@ Holy Beladonna
 *
 *
 なし
-Pretty much the same as|their Netherworld kind.
+Pretty much the same as their Netherworld kind.
 IF SEEN, PLEASE REPORT THIS
 //entry 281 -----------------------
 リギードリツルＣ
@@ -7314,9 +7314,9 @@ Holy Beladonna
 普通タイプ
 基本
 土耐性+30
-生命力
-生命力
-農業の才
+Tenacious
+Tenacious
+Green Thumb
 固定／ツタ
 連突き
 毒
@@ -7328,7 +7328,7 @@ Holy Beladonna
 *
 *
 なし
-Pretty much the same as|their Netherworld kind.
+Pretty much the same as their Netherworld kind.
 IF SEEN, PLEASE REPORT THIS
 //entry 282 -----------------------
 リギーツルルＡ
@@ -7340,9 +7340,9 @@ Holy Kudzu
 普通タイプ
 基本
 土耐性+30
-生命力
-生命力
-農業の才
+Tenacious
+Tenacious
+Green Thumb
 固定／ツタ
 連突き
 リフ
@@ -7354,7 +7354,7 @@ Holy Kudzu
 *
 *
 なし
-They grow on the ground|without any issue.
+They grow on the ground without any issue.
 IF SEEN, PLEASE REPORT THIS
 //entry 283 -----------------------
 リギーツルルＢ
@@ -7366,9 +7366,9 @@ Holy Kudzu
 普通タイプ
 基本
 土耐性+30
-生命力
-生命力
-農業の才
+Tenacious
+Tenacious
+Green Thumb
 固定／ツタ
 連突き
 リフ
@@ -7380,7 +7380,7 @@ Holy Kudzu
 *
 *
 なし
-They grow on the ground|without any issue.
+They grow on the ground without any issue.
 IF SEEN, PLEASE REPORT THIS
 //entry 284 -----------------------
 リギーツルルＣ
@@ -7392,9 +7392,9 @@ Holy Kudzu
 普通タイプ
 基本
 土耐性+30
-生命力
-生命力
-農業の才
+Tenacious
+Tenacious
+Green Thumb
 固定／ツタ
 連突き
 リフ
@@ -7406,7 +7406,7 @@ Holy Kudzu
 *
 *
 なし
-They grow on the ground|without any issue.
+They grow on the ground without any issue.
 IF SEEN, PLEASE REPORT THIS
 //entry 285 -----------------------
 スーソードＡ
@@ -7419,8 +7419,8 @@ Holy Slasher
 基本
 行動回数+1
 凶暴者
-警戒心
-無能
+Wary
+Inept
 固定／真っ二つ
 固定／乱剣殺
 乱舞斬改
@@ -7432,7 +7432,7 @@ Holy Slasher
 *
 *
 なし
-Concerned about its|decorations.
+Concerned about its decorations.
 IF SEEN, PLEASE REPORT THIS
 //entry 286 -----------------------
 スーソードＢ
@@ -7445,8 +7445,8 @@ Holy Slasher
 基本
 行動回数+1
 凶暴者
-警戒心
-無能
+Wary
+Inept
 固定／真っ二つ
 固定／乱剣殺
 乱舞斬改
@@ -7458,7 +7458,7 @@ Holy Slasher
 *
 *
 なし
-Concerned about its|decorations.
+Concerned about its decorations.
 IF SEEN, PLEASE REPORT THIS
 //entry 287 -----------------------
 スーソードＣ
@@ -7471,8 +7471,8 @@ Holy Slasher
 基本
 行動回数+1
 凶暴者
-警戒心
-無能
+Wary
+Inept
 固定／真っ二つ
 固定／乱剣殺
 乱舞斬改
@@ -7484,7 +7484,7 @@ Holy Slasher
 *
 *
 なし
-Concerned about its|decorations.
+Concerned about its decorations.
 IF SEEN, PLEASE REPORT THIS
 //entry 288 -----------------------
 ラムバディＡ
@@ -7496,9 +7496,9 @@ Meatakrios
 普通タイプ
 基本
 斬耐性+50
-防御強化／後
-サブメンバー
-独立行動
+Iron Escort
+Reservist
+Independent
 固定／鎌
 狙い斬り
 乱舞斬
@@ -7510,7 +7510,7 @@ Meatakrios
 *
 *
 なし
-Sees other meaty monsters as|its sworn enemies.
+Sees other meaty monsters as its sworn enemies.
 IF SEEN, PLEASE REPORT THIS
 //entry 289 -----------------------
 ラムバディＢ
@@ -7522,9 +7522,9 @@ Meatakrios
 普通タイプ
 基本
 斬耐性+50
-防御強化／後
-サブメンバー
-独立行動
+Iron Escort
+Reservist
+Independent
 固定／鎌
 狙い斬り
 乱舞斬
@@ -7536,7 +7536,7 @@ Meatakrios
 *
 *
 なし
-Sees other meaty monsters as|its sworn enemies.
+Sees other meaty monsters as its sworn enemies.
 IF SEEN, PLEASE REPORT THIS
 //entry 290 -----------------------
 ラムバディＣ
@@ -7548,9 +7548,9 @@ Meatakrios
 普通タイプ
 基本
 斬耐性+50
-防御強化／後
-サブメンバー
-独立行動
+Iron Escort
+Reservist
+Independent
 固定／鎌
 狙い斬り
 乱舞斬
@@ -7562,7 +7562,7 @@ Meatakrios
 *
 *
 なし
-Sees other meaty monsters as|its sworn enemies.
+Sees other meaty monsters as its sworn enemies.
 IF SEEN, PLEASE REPORT THIS
 //entry 291 -----------------------
 天界兵剣Ａ
@@ -7574,9 +7574,9 @@ Holy Light
 攻撃タイプ
 基本
 射耐性+50
-攻撃強化／横
-攻撃支援
-内政の才
+Aggressive Ally
+Inspiring
+Bureaucrat
 固定／天界剣
 狙い斬り
 乱舞斬
@@ -7600,9 +7600,9 @@ Holy Light
 攻撃タイプ
 基本
 射耐性+50
-攻撃強化／横
-攻撃支援
-内政の才
+Aggressive Ally
+Inspiring
+Bureaucrat
 固定／天界剣
 狙い斬り
 乱舞斬
@@ -7626,9 +7626,9 @@ Holy Light
 攻撃タイプ
 基本
 射耐性+50
-攻撃強化／横
-攻撃支援
-内政の才
+Aggressive Ally
+Inspiring
+Bureaucrat
 固定／天界剣
 狙い斬り
 乱舞斬
@@ -7652,9 +7652,9 @@ Holy Flame
 攻撃タイプ
 基本
 必殺耐性+15
-攻撃強化／前
-攻撃支援
-大将軍
+Aggressive Wall
+Inspiring
+Eminent
 固定／天界剣
 乱舞斬
 振り回し
@@ -7666,7 +7666,7 @@ Holy Flame
 *
 *
 なし
-The size of her sword|represents her dedication to|justice.
+The size of her sword represents her dedication to justice.
 IF SEEN, PLEASE REPORT THIS
 //entry 295 -----------------------
 天界兵大剣Ｂ
@@ -7678,9 +7678,9 @@ Holy Flame
 攻撃タイプ
 基本
 必殺耐性+15
-攻撃強化／前
-攻撃支援
-大将軍
+Aggressive Wall
+Inspiring
+Eminent
 固定／天界剣
 乱舞斬
 振り回し
@@ -7692,7 +7692,7 @@ Holy Flame
 *
 *
 なし
-The size of her sword|represents her dedication to|justice.
+The size of her sword represents her dedication to justice.
 IF SEEN, PLEASE REPORT THIS
 //entry 296 -----------------------
 天界兵大剣Ｃ
@@ -7704,9 +7704,9 @@ Holy Flame
 攻撃タイプ
 基本
 必殺耐性+15
-攻撃強化／前
-攻撃支援
-大将軍
+Aggressive Wall
+Inspiring
+Eminent
 固定／天界剣
 乱舞斬
 振り回し
@@ -7718,7 +7718,7 @@ Holy Flame
 *
 *
 なし
-The size of her sword|represents her dedication to|justice.
+The size of her sword represents her dedication to justice.
 IF SEEN, PLEASE REPORT THIS
 //entry 297 -----------------------
 天界兵二刀流Ａ
@@ -7730,9 +7730,9 @@ Holy Light
 普通タイプ
 基本
 雷耐性+50|闇耐性+50
-速度強化／横
-攻撃支援
-軍事向き
+Swift Ally
+Inspiring
+General
 固定／天界剣
 固定／二刀流
 秘剣・鶯
@@ -7744,7 +7744,7 @@ Holy Light
 *
 *
 なし
-Slices her enemies with both|blades.
+Slices her enemies with both blades.
 IF SEEN, PLEASE REPORT THIS
 //entry 298 -----------------------
 天界兵二刀流Ｂ
@@ -7756,9 +7756,9 @@ Holy Light
 普通タイプ
 基本
 雷耐性+50|闇耐性+50
-速度強化／横
-攻撃支援
-軍事向き
+Swift Ally
+Inspiring
+General
 固定／天界剣
 固定／二刀流
 秘剣・鶯
@@ -7770,7 +7770,7 @@ Holy Light
 *
 *
 なし
-Slices her enemies with both|blades.
+Slices her enemies with both blades.
 IF SEEN, PLEASE REPORT THIS
 //entry 299 -----------------------
 天界兵二刀流Ｃ
@@ -7782,9 +7782,9 @@ Holy Light
 普通タイプ
 基本
 雷耐性+50|闇耐性+50
-速度強化／横
-攻撃支援
-軍事向き
+Swift Ally
+Inspiring
+General
 固定／天界剣
 固定／二刀流
 秘剣・鶯
@@ -7796,7 +7796,7 @@ Holy Light
 *
 *
 なし
-Slices her enemies with both|blades.
+Slices her enemies with both blades.
 IF SEEN, PLEASE REPORT THIS
 //entry 300 -----------------------
 天界兵槍Ａ
@@ -7808,9 +7808,9 @@ Holy Light
 攻撃タイプ
 基本
 打耐性+50
-斬撃属性耐性／横
-サブメンバー
-小隊長
+Rugged Ally
+Reservist
+Subcommander
 固定／天界槍
 連打
 払い
@@ -7822,7 +7822,7 @@ Holy Light
 *
 *
 なし
-Can still attack at range|without missing a beat.
+Can still attack at range without missing a beat.
 IF SEEN, PLEASE REPORT THIS
 //entry 301 -----------------------
 天界兵槍Ｂ
@@ -7834,9 +7834,9 @@ Holy Light
 攻撃タイプ
 基本
 打耐性+50
-斬撃属性耐性／横
-サブメンバー
-小隊長
+Rugged Ally
+Reservist
+Subcommander
 固定／天界槍
 連打
 払い
@@ -7848,7 +7848,7 @@ Holy Light
 *
 *
 なし
-Can still attack at range|without missing a beat.
+Can still attack at range without missing a beat.
 IF SEEN, PLEASE REPORT THIS
 //entry 302 -----------------------
 天界兵槍Ｃ
@@ -7860,9 +7860,9 @@ Holy Light
 攻撃タイプ
 基本
 打耐性+50
-斬撃属性耐性／横
-サブメンバー
-小隊長
+Rugged Ally
+Reservist
+Subcommander
 固定／天界槍
 連打
 払い
@@ -7874,7 +7874,7 @@ Holy Light
 *
 *
 なし
-Can still attack at range|without missing a beat.
+Can still attack at range without missing a beat.
 IF SEEN, PLEASE REPORT THIS
 //entry 303 -----------------------
 天界兵杖Ａ
@@ -7886,9 +7886,9 @@ Holy Light
 気力タイプ
 基本
 光耐性+50|闇耐性+50
-全体回復
-治療支援
-教育の才
+Medic
+Nurse
+Professor
 固定／天界杖
 光槍三連
 無心砲
@@ -7900,7 +7900,7 @@ Holy Light
 *
 *
 なし
-Attacks enemies with spells,|and heals allies.
+Attacks enemies with spells, and heals allies.
 IF SEEN, PLEASE REPORT THIS
 //entry 304 -----------------------
 天界兵杖Ｂ
@@ -7912,9 +7912,9 @@ Holy Light
 気力タイプ
 基本
 光耐性+50|闇耐性+50
-全体回復
-治療支援
-教育の才
+Medic
+Nurse
+Professor
 固定／天界杖
 光槍三連
 無心砲
@@ -7926,7 +7926,7 @@ Holy Light
 *
 *
 なし
-Attacks enemies with spells,|and heals allies.
+Attacks enemies with spells, and heals allies.
 IF SEEN, PLEASE REPORT THIS
 //entry 305 -----------------------
 天界兵杖Ｃ
@@ -7938,9 +7938,9 @@ Holy Light
 気力タイプ
 基本
 光耐性+50|闇耐性+50
-全体回復
-治療支援
-教育の才
+Medic
+Nurse
+Professor
 固定／天界杖
 光槍三連
 無心砲
@@ -7952,7 +7952,7 @@ Holy Light
 *
 *
 なし
-Attacks enemies with spells,|and heals allies.
+Attacks enemies with spells, and heals allies.
 IF SEEN, PLEASE REPORT THIS
 //entry 306 -----------------------
 天界兵弓Ａ
@@ -7964,9 +7964,9 @@ Holy Wind
 普通タイプ
 基本
 射耐性+50
-射撃属性耐性／横
-援護射撃
-教育の才
+Covering Ally
+Guardian
+Professor
 固定／天界弓
 強射撃
 強連射
@@ -7978,7 +7978,7 @@ Holy Wind
 *
 *
 なし
-Pierces her enemies from a|long range.
+Pierces her enemies from a long range.
 IF SEEN, PLEASE REPORT THIS
 //entry 307 -----------------------
 天界兵弓Ｂ
@@ -7990,9 +7990,9 @@ Holy Wind
 普通タイプ
 基本
 射耐性+50
-射撃属性耐性／横
-援護射撃
-教育の才
+Covering Ally
+Guardian
+Professor
 固定／天界弓
 強射撃
 強連射
@@ -8004,7 +8004,7 @@ Holy Wind
 *
 *
 なし
-Pierces her enemies from a|long range.
+Pierces her enemies from a long range.
 IF SEEN, PLEASE REPORT THIS
 //entry 308 -----------------------
 天界兵弓Ｃ
@@ -8016,9 +8016,9 @@ Holy Wind
 普通タイプ
 基本
 射耐性+50
-射撃属性耐性／横
-援護射撃
-教育の才
+Covering Ally
+Guardian
+Professor
 固定／天界弓
 強射撃
 強連射
@@ -8030,7 +8030,7 @@ Holy Wind
 *
 *
 なし
-Pierces her enemies from a|long range.
+Pierces her enemies from a long range.
 IF SEEN, PLEASE REPORT THIS
 //entry 309 -----------------------
 天界兵素手Ａ
@@ -8042,9 +8042,9 @@ Holy Sea
 回避タイプ
 基本
 打耐性+50|光耐性+50
-打撃属性耐性／横
-サブメンバー
-警備の才
+Sturdy Ally
+Reservist
+Straightlaced
 固定／天界拳
 払い
 弾き飛ばし
@@ -8056,7 +8056,7 @@ Holy Sea
 *
 *
 なし
-Is she unarmed because she|has faith in her fists? Or|because she has no faith in|weapons?
+Is she unarmed because she has faith in her fists? Or because she has no faith in weapons?
 IF SEEN, PLEASE REPORT THIS
 //entry 310 -----------------------
 天界兵素手Ｂ
@@ -8068,9 +8068,9 @@ Holy Sea
 回避タイプ
 基本
 打耐性+50|光耐性+50
-打撃属性耐性／横
-サブメンバー
-警備の才
+Sturdy Ally
+Reservist
+Straightlaced
 固定／天界拳
 払い
 弾き飛ばし
@@ -8082,7 +8082,7 @@ Holy Sea
 *
 *
 なし
-Is she unarmed because she|has faith in her fists? Or|because she has no faith in|weapons?
+Is she unarmed because she has faith in her fists? Or because she has no faith in weapons?
 IF SEEN, PLEASE REPORT THIS
 //entry 311 -----------------------
 天界兵素手Ｃ
@@ -8094,9 +8094,9 @@ Holy Sea
 回避タイプ
 基本
 打耐性+50|光耐性+50
-打撃属性耐性／横
-サブメンバー
-警備の才
+Sturdy Ally
+Reservist
+Straightlaced
 固定／天界拳
 払い
 弾き飛ばし
@@ -8108,7 +8108,7 @@ Holy Sea
 *
 *
 なし
-Is she unarmed because she|has faith in her fists? Or|because she has no faith in|weapons?
+Is she unarmed because she has faith in her fists? Or because she has no faith in weapons?
 IF SEEN, PLEASE REPORT THIS
 //entry 312 -----------------------
 天界兵小盾Ａ
@@ -8120,9 +8120,9 @@ Holy Light
 体力タイプ
 基本
 光耐性+50|火耐性+50|水耐性+50
-盾
-防御支援
-娯楽の才
+Selfless
+Reassuring
+Festive
 固定／天界剣
 狙い斬り
 小回復
@@ -8134,7 +8134,7 @@ Holy Light
 *
 *
 なし
-Fights to protect her|friends.
+Fights to protect her friends.
 IF SEEN, PLEASE REPORT THIS
 //entry 313 -----------------------
 天界兵小盾Ｂ
@@ -8146,9 +8146,9 @@ Holy Light
 体力タイプ
 基本
 光耐性+50|火耐性+50|水耐性+50
-盾
-防御支援
-娯楽の才
+Selfless
+Reassuring
+Festive
 固定／天界剣
 狙い斬り
 小回復
@@ -8160,7 +8160,7 @@ Holy Light
 *
 *
 なし
-Fights to protect her|friends.
+Fights to protect her friends.
 IF SEEN, PLEASE REPORT THIS
 //entry 314 -----------------------
 天界兵小盾Ｃ
@@ -8172,9 +8172,9 @@ Holy Light
 体力タイプ
 基本
 光耐性+50|火耐性+50|水耐性+50
-盾
-防御支援
-娯楽の才
+Selfless
+Reassuring
+Festive
 固定／天界剣
 狙い斬り
 小回復
@@ -8186,7 +8186,7 @@ Holy Light
 *
 *
 なし
-Fights to protect her|friends.
+Fights to protect her friends.
 IF SEEN, PLEASE REPORT THIS
 //entry 315 -----------------------
 天界兵大盾Ａ
@@ -8198,9 +8198,9 @@ Holy Tree
 防御タイプ
 基本
 斬耐性+50|光耐性+50|火耐性+50|水耐性+50
-盾
-防御支援
-衛生の才
+Selfless
+Reassuring
+Neat Freak
 固定／盾打
 振り回し
 中回復
@@ -8212,7 +8212,7 @@ Holy Tree
 *
 *
 なし
-Her giant shield is|representative of her desire|to protect everyone.
+Her giant shield is representative of her desire to protect everyone.
 IF SEEN, PLEASE REPORT THIS
 //entry 316 -----------------------
 天界兵大盾Ｂ
@@ -8224,9 +8224,9 @@ Holy Tree
 防御タイプ
 基本
 斬耐性+50|光耐性+50|火耐性+50|水耐性+50
-盾
-防御支援
-衛生の才
+Selfless
+Reassuring
+Neat Freak
 固定／盾打
 振り回し
 中回復
@@ -8238,7 +8238,7 @@ Holy Tree
 *
 *
 なし
-Her giant shield is|representative of her desire|to protect everyone.
+Her giant shield is representative of her desire to protect everyone.
 IF SEEN, PLEASE REPORT THIS
 //entry 317 -----------------------
 天界兵大盾Ｃ
@@ -8250,9 +8250,9 @@ Holy Tree
 防御タイプ
 基本
 斬耐性+50|光耐性+50|火耐性+50|水耐性+50
-盾
-防御支援
-衛生の才
+Selfless
+Reassuring
+Neat Freak
 固定／盾打
 振り回し
 中回復
@@ -8264,7 +8264,7 @@ Holy Tree
 *
 *
 なし
-Her giant shield is|representative of her desire|to protect everyone.
+Her giant shield is representative of her desire to protect everyone.
 IF SEEN, PLEASE REPORT THIS
 //entry 318 -----------------------
 レッドバードＡ
@@ -8276,9 +8276,9 @@ Firebird
 万能タイプ
 基本
 必殺耐性+10|異常耐性+10|火耐性+30
-速度強化／前
-防御支援
-資金管理
+Swift Wall
+Reassuring
+Accountant
 固定／殴る
 固定／大豪炎
 火矢陣
@@ -8290,7 +8290,7 @@ Firebird
 *
 *
 なし
-A very cautious and wary|race.
+A very cautious and wary race.
 IF SEEN, PLEASE REPORT THIS
 //entry 319 -----------------------
 レッドバードＢ
@@ -8302,9 +8302,9 @@ Firebird
 万能タイプ
 基本
 必殺耐性+10|異常耐性+10|火耐性+30
-速度強化／前
-防御支援
-資金管理
+Swift Wall
+Reassuring
+Accountant
 固定／殴る
 固定／大豪炎
 火矢陣
@@ -8316,7 +8316,7 @@ Firebird
 *
 *
 なし
-A very cautious and wary|race.
+A very cautious and wary race.
 IF SEEN, PLEASE REPORT THIS
 //entry 320 -----------------------
 レッドバードＣ
@@ -8328,9 +8328,9 @@ Firebird
 万能タイプ
 基本
 必殺耐性+10|異常耐性+10|火耐性+30
-速度強化／前
-防御支援
-資金管理
+Swift Wall
+Reassuring
+Accountant
 固定／殴る
 固定／大豪炎
 火矢陣
@@ -8342,7 +8342,7 @@ Firebird
 *
 *
 なし
-A very cautious and wary|race.
+A very cautious and wary race.
 IF SEEN, PLEASE REPORT THIS
 //entry 321 -----------------------
 ティーグレＡ
@@ -8354,9 +8354,9 @@ Tigre
 攻撃タイプ
 基本
 必殺耐性+10|異常耐性+10|打耐性+30
-先制攻撃無効化
-攻撃支援
-軍事向き
+Vigilant
+Inspiring
+General
 固定／金棒
 固定／押し金棒
 フラッシュブロー
@@ -8368,7 +8368,7 @@ Tigre
 *
 *
 なし
-Quiet and reserved, but when|they have to fight, they're|merciless.
+Quiet and reserved, but when they have to fight, they're merciless.
 IF SEEN, PLEASE REPORT THIS
 //entry 322 -----------------------
 ティーグレＢ
@@ -8380,9 +8380,9 @@ Tigre
 攻撃タイプ
 基本
 必殺耐性+10|異常耐性+10|打耐性+30
-先制攻撃無効化
-攻撃支援
-軍事向き
+Vigilant
+Inspiring
+General
 固定／金棒
 固定／押し金棒
 フラッシュブロー
@@ -8394,7 +8394,7 @@ Tigre
 *
 *
 なし
-Quiet and reserved, but when|they have to fight, they're|merciless.
+Quiet and reserved, but when they have to fight, they're merciless.
 IF SEEN, PLEASE REPORT THIS
 //entry 323 -----------------------
 ティーグレＣ
@@ -8406,9 +8406,9 @@ Tigre
 攻撃タイプ
 基本
 必殺耐性+10|異常耐性+10|打耐性+30
-先制攻撃無効化
-攻撃支援
-軍事向き
+Vigilant
+Inspiring
+General
 固定／金棒
 固定／押し金棒
 フラッシュブロー
@@ -8420,7 +8420,7 @@ Tigre
 *
 *
 なし
-Quiet and reserved, but when|they have to fight, they're|merciless.
+Quiet and reserved, but when they have to fight, they're merciless.
 IF SEEN, PLEASE REPORT THIS
 //entry 324 -----------------------
 タートルランナーＡ
@@ -8432,9 +8432,9 @@ Turtle Runner
 晩成タイプ
 基本
 必殺耐性+10|異常耐性+10|水耐性+30
-前向精神
-前向精神
-娯楽の才
+Channeler
+Channeler
+Festive
 固定／レーザー
 固定／水連弾
 中回復
@@ -8446,7 +8446,7 @@ Turtle Runner
 *
 *
 なし
-Very similar to Loams, but|with turtles.
+Very similar to Loams, but with turtles.
 IF SEEN, PLEASE REPORT THIS
 //entry 325 -----------------------
 タートルランナーＢ
@@ -8458,9 +8458,9 @@ Turtle Runner
 晩成タイプ
 基本
 必殺耐性+10|異常耐性+10|水耐性+30
-前向精神
-前向精神
-娯楽の才
+Channeler
+Channeler
+Festive
 固定／レーザー
 固定／水連弾
 中回復
@@ -8472,7 +8472,7 @@ Turtle Runner
 *
 *
 なし
-Very similar to Loams, but|with turtles.
+Very similar to Loams, but with turtles.
 IF SEEN, PLEASE REPORT THIS
 //entry 326 -----------------------
 タートルランナーＣ
@@ -8484,9 +8484,9 @@ Turtle Runner
 晩成タイプ
 基本
 必殺耐性+10|異常耐性+10|水耐性+30
-前向精神
-前向精神
-娯楽の才
+Channeler
+Channeler
+Festive
 固定／レーザー
 固定／水連弾
 中回復
@@ -8498,7 +8498,7 @@ Turtle Runner
 *
 *
 なし
-Very similar to Loams, but|with turtles.
+Very similar to Loams, but with turtles.
 IF SEEN, PLEASE REPORT THIS
 //entry 327 -----------------------
 ブラウＡ
@@ -8510,9 +8510,9 @@ Blaeu
 普通タイプ
 基本
 必殺耐性+10|異常耐性+10|斬耐性+30
-攻撃強化／横
-学
-教育の才
+Aggressive Ally
+Tutor
+Professor
 固定／斬り
 固定／秘剣／青龍
 真・急所斬り
@@ -8524,7 +8524,7 @@ Blaeu
 *
 *
 なし
-They tend to be sensitive|about having small horns.
+They tend to be sensitive about having small horns.
 IF SEEN, PLEASE REPORT THIS
 //entry 328 -----------------------
 ブラウＢ
@@ -8536,9 +8536,9 @@ Blaeu
 普通タイプ
 基本
 必殺耐性+10|異常耐性+10|斬耐性+30
-攻撃強化／横
-学
-教育の才
+Aggressive Ally
+Tutor
+Professor
 固定／斬り
 固定／秘剣／青龍
 真・急所斬り
@@ -8550,7 +8550,7 @@ Blaeu
 *
 *
 なし
-They tend to be sensitive|about having small horns.
+They tend to be sensitive about having small horns.
 IF SEEN, PLEASE REPORT THIS
 //entry 329 -----------------------
 ブラウＣ
@@ -8562,9 +8562,9 @@ Blaeu
 普通タイプ
 基本
 必殺耐性+10|異常耐性+10|斬耐性+30
-攻撃強化／横
-学
-教育の才
+Aggressive Ally
+Tutor
+Professor
 固定／斬り
 固定／秘剣／青龍
 真・急所斬り
@@ -8576,7 +8576,7 @@ Blaeu
 *
 *
 なし
-They tend to be sensitive|about having small horns.
+They tend to be sensitive about having small horns.
 IF SEEN, PLEASE REPORT THIS
 //entry 330 -----------------------
 リーフウッドＡ
@@ -8588,9 +8588,9 @@ Leafwood
 速度タイプ
 基本
 必殺耐性+10|異常耐性+10|射耐性+30
-攻撃強化／後
-援護射撃
-補佐官
+Aggressive Escort
+Guardian
+Aide
 固定／弓
 固定／森の雨矢
 闇属性防御
@@ -8602,7 +8602,7 @@ Leafwood
 *
 *
 なし
-Lives in the forest and are|good with bows, but|definitely aren't elves.
+Lives in the forest and are good with bows, but definitely aren't elves.
 IF SEEN, PLEASE REPORT THIS
 //entry 331 -----------------------
 リーフウッドＢ
@@ -8614,9 +8614,9 @@ Leafwood
 速度タイプ
 基本
 必殺耐性+10|異常耐性+10|射耐性+30
-攻撃強化／後
-援護射撃
-補佐官
+Aggressive Escort
+Guardian
+Aide
 固定／弓
 固定／森の雨矢
 闇属性防御
@@ -8628,7 +8628,7 @@ Leafwood
 *
 *
 なし
-Lives in the forest and are|good with bows, but|definitely aren't elves.
+Lives in the forest and are good with bows, but definitely aren't elves.
 IF SEEN, PLEASE REPORT THIS
 //entry 332 -----------------------
 リーフウッドＣ
@@ -8640,9 +8640,9 @@ Leafwood
 速度タイプ
 基本
 必殺耐性+10|異常耐性+10|射耐性+30
-攻撃強化／後
-援護射撃
-補佐官
+Aggressive Escort
+Guardian
+Aide
 固定／弓
 固定／森の雨矢
 闇属性防御
@@ -8654,7 +8654,7 @@ Leafwood
 *
 *
 なし
-Lives in the forest and are|good with bows, but|definitely aren't elves.
+Lives in the forest and are good with bows, but definitely aren't elves.
 IF SEEN, PLEASE REPORT THIS
 //entry 333 -----------------------
 サマキューＡ
@@ -8666,9 +8666,9 @@ Imp
 攻撃タイプ
 基本
 必殺耐性+10|異常耐性+10|闇耐性+30
-邪魔回復
-攻撃支援
-独立行動
+Sickening
+Inspiring
+Independent
 固定／槍
 固定／悪魔王の槍
 脅し斬り
@@ -8680,7 +8680,7 @@ Imp
 *
 *
 なし
-Headstrong and combative.|Always a handful when they go|berserk.
+Headstrong and combative.|Always a handful when they go berserk.
 IF SEEN, PLEASE REPORT THIS
 //entry 334 -----------------------
 サマキューＢ
@@ -8692,9 +8692,9 @@ Imp
 攻撃タイプ
 基本
 必殺耐性+10|異常耐性+10|闇耐性+30
-邪魔回復
-攻撃支援
-独立行動
+Sickening
+Inspiring
+Independent
 固定／槍
 固定／悪魔王の槍
 脅し斬り
@@ -8706,7 +8706,7 @@ Imp
 *
 *
 なし
-Headstrong and combative.|Always a handful when they go|berserk.
+Headstrong and combative.|Always a handful when they go berserk.
 IF SEEN, PLEASE REPORT THIS
 //entry 335 -----------------------
 サマキューＣ
@@ -8718,9 +8718,9 @@ Imp
 攻撃タイプ
 基本
 必殺耐性+10|異常耐性+10|闇耐性+30
-邪魔回復
-攻撃支援
-独立行動
+Sickening
+Inspiring
+Independent
 固定／槍
 固定／悪魔王の槍
 脅し斬り
@@ -8732,7 +8732,7 @@ Imp
 *
 *
 なし
-Headstrong and combative.|Always a handful when they go|berserk.
+Headstrong and combative.|Always a handful when they go berserk.
 IF SEEN, PLEASE REPORT THIS
 //entry 336 -----------------------
 ルーセットＡ
@@ -8744,9 +8744,9 @@ Rousette
 早熟タイプ
 基本
 必殺耐性+10|異常耐性+10|風耐性+30
-攻撃強化／前
-サブメンバー
-小隊長
+Aggressive Wall
+Reservist
+Subcommander
 固定／斬り
 固定／逆乱れ斬り
 混乱斬り
@@ -8758,7 +8758,7 @@ Rousette
 *
 *
 なし
-Nobody knows why they wear|skirts when they're always|upside down?
+Nobody knows why they wear skirts when they're always upside down?
 IF SEEN, PLEASE REPORT THIS
 //entry 337 -----------------------
 ルーセットＢ
@@ -8770,9 +8770,9 @@ Rousette
 早熟タイプ
 基本
 必殺耐性+10|異常耐性+10|風耐性+30
-攻撃強化／前
-サブメンバー
-小隊長
+Aggressive Wall
+Reservist
+Subcommander
 固定／斬り
 固定／逆乱れ斬り
 混乱斬り
@@ -8784,7 +8784,7 @@ Rousette
 *
 *
 なし
-Nobody knows why they wear|skirts when they're always|upside down?
+Nobody knows why they wear skirts when they're always upside down?
 IF SEEN, PLEASE REPORT THIS
 //entry 338 -----------------------
 ルーセットＣ
@@ -8796,9 +8796,9 @@ Rousette
 早熟タイプ
 基本
 必殺耐性+10|異常耐性+10|風耐性+30
-攻撃強化／前
-サブメンバー
-小隊長
+Aggressive Wall
+Reservist
+Subcommander
 固定／斬り
 固定／逆乱れ斬り
 混乱斬り
@@ -8810,7 +8810,7 @@ Rousette
 *
 *
 なし
-Nobody knows why they wear|skirts when they're always|upside down?
+Nobody knows why they wear skirts when they're always upside down?
 IF SEEN, PLEASE REPORT THIS
 //entry 339 -----------------------
 アイスショットＡ
@@ -8822,9 +8822,9 @@ Khione
 回避タイプ
 基本
 必殺耐性+10|異常耐性+10|水耐性+30
-防御強化／横
-学
-資金管理
+Iron Ally
+Tutor
+Accountant
 固定／ツララ
 固定／三連ツララ
 氷水陣
@@ -8836,7 +8836,7 @@ Khione
 *
 *
 なし
-Usually live in cold places,|but can be found in|surprisingly warm places|too.
+Usually live in cold places, but can be found in surprisingly warm places too.
 IF SEEN, PLEASE REPORT THIS
 //entry 340 -----------------------
 アイスショットＢ
@@ -8848,9 +8848,9 @@ Khione
 回避タイプ
 基本
 必殺耐性+10|異常耐性+10|水耐性+30
-防御強化／横
-学
-資金管理
+Iron Ally
+Tutor
+Accountant
 固定／ツララ
 固定／三連ツララ
 氷水陣
@@ -8862,7 +8862,7 @@ Khione
 *
 *
 なし
-Usually live in cold places,|but can be found in|surprisingly warm places|too.
+Usually live in cold places, but can be found in surprisingly warm places too.
 IF SEEN, PLEASE REPORT THIS
 //entry 341 -----------------------
 アイスショットＣ
@@ -8874,9 +8874,9 @@ Khione
 回避タイプ
 基本
 必殺耐性+10|異常耐性+10|水耐性+30
-防御強化／横
-学
-資金管理
+Iron Ally
+Tutor
+Accountant
 固定／ツララ
 固定／三連ツララ
 氷水陣
@@ -8888,7 +8888,7 @@ Khione
 *
 *
 なし
-Usually live in cold places,|but can be found in|surprisingly warm places|too.
+Usually live in cold places, but can be found in surprisingly warm places too.
 IF SEEN, PLEASE REPORT THIS
 //entry 342 -----------------------
 アンゴラメイＡ
@@ -8900,9 +8900,9 @@ Angolamay
 普通タイプ
 基本
 必殺耐性+10|異常耐性+10|土耐性+30
-回避強化／横
-勤勉
-内政向き
+Evasive Ally
+Diligent
+Governor
 固定／殴る
 固定／山羊の強打
 リフ
@@ -8914,7 +8914,7 @@ Angolamay
 *
 *
 なし
-Produce breast milk even|when they're not pregnant.
+Produce breast milk even when they're not pregnant.
 IF SEEN, PLEASE REPORT THIS
 //entry 343 -----------------------
 アンゴラメイＢ
@@ -8926,9 +8926,9 @@ Angolamay
 普通タイプ
 基本
 必殺耐性+10|異常耐性+10|土耐性+30
-回避強化／横
-勤勉
-内政向き
+Evasive Ally
+Diligent
+Governor
 固定／殴る
 固定／山羊の強打
 リフ
@@ -8940,7 +8940,7 @@ Angolamay
 *
 *
 なし
-Produce breast milk even|when they're not pregnant.
+Produce breast milk even when they're not pregnant.
 IF SEEN, PLEASE REPORT THIS
 //entry 344 -----------------------
 アンゴラメイＣ
@@ -8952,9 +8952,9 @@ Angolamay
 普通タイプ
 基本
 必殺耐性+10|異常耐性+10|土耐性+30
-回避強化／横
-勤勉
-内政向き
+Evasive Ally
+Diligent
+Governor
 固定／殴る
 固定／山羊の強打
 リフ
@@ -8966,7 +8966,7 @@ Angolamay
 *
 *
 なし
-Produce breast milk even|when they're not pregnant.
+Produce breast milk even when they're not pregnant.
 IF SEEN, PLEASE REPORT THIS
 //entry 345 -----------------------
 クラムＡ
@@ -8978,9 +8978,9 @@ Kiwi
 体力タイプ
 基本
 *
-射撃属性耐性／後
-学
-農業の才
+Covering Escort
+Tutor
+Green Thumb
 固定／種
 強射撃
 斬撃属性防御
@@ -9004,9 +9004,9 @@ Kiwi
 体力タイプ
 基本
 *
-射撃属性耐性／後
-学
-農業の才
+Covering Escort
+Tutor
+Green Thumb
 固定／種
 強射撃
 斬撃属性防御
@@ -9030,9 +9030,9 @@ Kiwi
 体力タイプ
 基本
 *
-射撃属性耐性／後
-学
-農業の才
+Covering Escort
+Tutor
+Green Thumb
 固定／種
 強射撃
 斬撃属性防御
@@ -9056,9 +9056,9 @@ Ponytaur
 防御タイプ
 基本
 *
-先制攻撃
-サブメンバー
-軍事向き
+Preemptive
+Reservist
+General
 固定／槍
 狙い斬り
 乱舞斬
@@ -9070,7 +9070,7 @@ Ponytaur
 *
 *
 なし
-They tend to live quiet,|secluded lives.
+They tend to live quiet, secluded lives.
 IF SEEN, PLEASE REPORT THIS
 //entry 349 -----------------------
 ダレットＢ
@@ -9082,9 +9082,9 @@ Ponytaur
 防御タイプ
 基本
 *
-先制攻撃
-サブメンバー
-軍事向き
+Preemptive
+Reservist
+General
 固定／槍
 狙い斬り
 乱舞斬
@@ -9096,7 +9096,7 @@ Ponytaur
 *
 *
 なし
-They tend to live quiet,|secluded lives.
+They tend to live quiet, secluded lives.
 IF SEEN, PLEASE REPORT THIS
 //entry 350 -----------------------
 ダレットＣ
@@ -9108,9 +9108,9 @@ Ponytaur
 防御タイプ
 基本
 *
-先制攻撃
-サブメンバー
-軍事向き
+Preemptive
+Reservist
+General
 固定／槍
 狙い斬り
 乱舞斬
@@ -9122,7 +9122,7 @@ Ponytaur
 *
 *
 なし
-They tend to live quiet,|secluded lives.
+They tend to live quiet, secluded lives.
 IF SEEN, PLEASE REPORT THIS
 //entry 351 -----------------------
 ミレニアムＡ
@@ -9134,9 +9134,9 @@ Maya
 普通タイプ
 基本
 *
-魔法耐性
-掛け声
-小隊長
+Resistant
+Cheer
+Subcommander
 固定／斬り
 乱舞斬
 急所斬り
@@ -9148,7 +9148,7 @@ Maya
 *
 *
 なし
-Is very upset that she's|often mistaken for a regular|human.
+Is very upset that she's often mistaken for a regular human.
 IF SEEN, PLEASE REPORT THIS
 //entry 352 -----------------------
 ミレニアムＢ
@@ -9160,9 +9160,9 @@ Maya
 普通タイプ
 基本
 *
-魔法耐性
-掛け声
-小隊長
+Resistant
+Cheer
+Subcommander
 固定／斬り
 乱舞斬
 急所斬り
@@ -9174,7 +9174,7 @@ Maya
 *
 *
 なし
-Is very upset that she's|often mistaken for a regular|human.
+Is very upset that she's often mistaken for a regular human.
 IF SEEN, PLEASE REPORT THIS
 //entry 353 -----------------------
 ミレニアムＣ
@@ -9186,9 +9186,9 @@ Maya
 普通タイプ
 基本
 *
-魔法耐性
-掛け声
-小隊長
+Resistant
+Cheer
+Subcommander
 固定／斬り
 乱舞斬
 急所斬り
@@ -9200,7 +9200,7 @@ Maya
 *
 *
 なし
-Is very upset that she's|often mistaken for a regular|human.
+Is very upset that she's often mistaken for a regular human.
 IF SEEN, PLEASE REPORT THIS
 //entry 354 -----------------------
 黒い婦人Ａ
@@ -9212,9 +9212,9 @@ Dark Lady
 奇才タイプ
 基本
 光耐性-50|斬耐性+50|打耐性+50|射耐性+50
-いなし
-忍び寄る者
-補佐官
+Anticipation
+Onslaught
+Aide
 固定／小さな闇
 漆黒三連
 漆黒幕
@@ -9226,7 +9226,7 @@ Dark Lady
 *
 *
 なし
-Actually not good with|magic.
+Actually not good with magic.
 IF SEEN, PLEASE REPORT THIS
 //entry 355 -----------------------
 黒い婦人Ｂ
@@ -9238,9 +9238,9 @@ Dark Lady
 奇才タイプ
 基本
 光耐性-50|斬耐性+50|打耐性+50|射耐性+50
-いなし
-忍び寄る者
-補佐官
+Anticipation
+Onslaught
+Aide
 固定／小さな闇
 漆黒三連
 漆黒幕
@@ -9252,7 +9252,7 @@ Dark Lady
 *
 *
 なし
-Actually not good with|magic.
+Actually not good with magic.
 IF SEEN, PLEASE REPORT THIS
 //entry 356 -----------------------
 黒い婦人Ｃ
@@ -9264,9 +9264,9 @@ Dark Lady
 奇才タイプ
 基本
 光耐性-50|斬耐性+50|打耐性+50|射耐性+50
-いなし
-忍び寄る者
-補佐官
+Anticipation
+Onslaught
+Aide
 固定／小さな闇
 漆黒三連
 漆黒幕
@@ -9278,7 +9278,7 @@ Dark Lady
 *
 *
 なし
-Actually not good with|magic.
+Actually not good with magic.
 IF SEEN, PLEASE REPORT THIS
 //entry 357 -----------------------
 ライスボールＡ
@@ -9290,9 +9290,9 @@ Big Baller
 体力タイプ
 基本
 *
-前向精神
-前向精神
-人気者
+Channeler
+Channeler
+Charismatic
 固定／体当たり
 弾き飛ばし
 叩き潰し
@@ -9304,7 +9304,7 @@ Big Baller
 *
 *
 なし
-They're called balls because|they roll, but aren't|actually balls.
+They're called balls because they roll, but aren't actually balls.
 IF SEEN, PLEASE REPORT THIS
 //entry 358 -----------------------
 ライスボールＢ
@@ -9316,9 +9316,9 @@ Big Roller
 体力タイプ
 基本
 *
-前向精神
-前向精神
-人気者
+Channeler
+Channeler
+Charismatic
 固定／体当たり
 弾き飛ばし
 叩き潰し
@@ -9330,7 +9330,7 @@ Big Roller
 *
 *
 なし
-They're called balls because|they roll, but aren't|actually balls.
+They're called balls because they roll, but aren't actually balls.
 IF SEEN, PLEASE REPORT THIS
 //entry 359 -----------------------
 ライスボールＣ
@@ -9342,9 +9342,9 @@ Big Roller
 体力タイプ
 基本
 *
-前向精神
-前向精神
-人気者
+Channeler
+Channeler
+Charismatic
 固定／体当たり
 弾き飛ばし
 叩き潰し
@@ -9356,7 +9356,7 @@ Big Roller
 *
 *
 なし
-They're called balls because|they roll, but aren't|actually balls.
+They're called balls because they roll, but aren't actually balls.
 IF SEEN, PLEASE REPORT THIS
 //entry 360 -----------------------
 ジューシーボディＡ
@@ -9368,9 +9368,9 @@ Gristletaur
 万能タイプ
 基本
 *
-射撃属性耐性／全
-掛け声
-天才
+Covering Leader
+Cheer
+Genius
 固定／正拳突き
 連突き
 貫き手
@@ -9382,7 +9382,7 @@ Gristletaur
 *
 *
 なし
-Smarter than other|meatheads.
+Smarter than other meatheads.
 IF SEEN, PLEASE REPORT THIS
 //entry 361 -----------------------
 ジューシーボディＢ
@@ -9394,9 +9394,9 @@ Gristletaur
 万能タイプ
 基本
 *
-射撃属性耐性／全
-掛け声
-天才
+Covering Leader
+Cheer
+Genius
 固定／正拳突き
 連突き
 貫き手
@@ -9408,7 +9408,7 @@ Gristletaur
 *
 *
 なし
-Smarter than other|meatheads.
+Smarter than other meatheads.
 IF SEEN, PLEASE REPORT THIS
 //entry 362 -----------------------
 ジューシーボディＣ
@@ -9420,9 +9420,9 @@ Gristletaur
 万能タイプ
 基本
 *
-射撃属性耐性／全
-掛け声
-天才
+Covering Leader
+Cheer
+Genius
 固定／正拳突き
 連突き
 貫き手
@@ -9434,7 +9434,7 @@ Gristletaur
 *
 *
 なし
-Smarter than other|meatheads.
+Smarter than other meatheads.
 IF SEEN, PLEASE REPORT THIS
 //entry 363 -----------------------
 黒モーモーＡ
@@ -9446,9 +9446,9 @@ Moomoo
 普通タイプ
 基本
 *
-いなし
-学
-小隊長
+Anticipation
+Tutor
+Subcommander
 固定／噛み付き
 狙い斬り
 急所斬り
@@ -9460,7 +9460,7 @@ Moomoo
 *
 *
 なし
-Lurks in dark places to|surprise those who come|near.
+Lurks in dark places to surprise those who come near.
 IF SEEN, PLEASE REPORT THIS
 //entry 364 -----------------------
 黒モーモーＢ
@@ -9472,9 +9472,9 @@ Moomoo
 普通タイプ
 基本
 *
-いなし
-学
-小隊長
+Anticipation
+Tutor
+Subcommander
 固定／噛み付き
 狙い斬り
 急所斬り
@@ -9486,7 +9486,7 @@ Moomoo
 *
 *
 なし
-Lurks in dark places to|surprise those who come|near.
+Lurks in dark places to surprise those who come near.
 IF SEEN, PLEASE REPORT THIS
 //entry 365 -----------------------
 黒モーモーＣ
@@ -9498,9 +9498,9 @@ Moomoo
 普通タイプ
 基本
 *
-いなし
-学
-小隊長
+Anticipation
+Tutor
+Subcommander
 固定／噛み付き
 狙い斬り
 急所斬り
@@ -9512,7 +9512,7 @@ Moomoo
 *
 *
 なし
-Lurks in dark places to|surprise those who come|near.
+Lurks in dark places to surprise those who come near.
 IF SEEN, PLEASE REPORT THIS
 //entry 366 -----------------------
 触手Ａ
@@ -9538,7 +9538,7 @@ Tentacle
 *
 *
 なし
-A piece of Darx's mana made|flesh.
+A piece of Darx's mana made flesh.
 IF SEEN, PLEASE REPORT THIS
 //entry 367 -----------------------
 マクドゥの剣Ａ
@@ -9564,7 +9564,7 @@ Macdo's Sword
 *
 *
 なし
-A sword shaped creature|created from Macdo's mana.
+A sword shaped creature created from Macdo's mana.
 IF SEEN, PLEASE REPORT THIS
 //entry 368 -----------------------
 ロキンＡ
@@ -9576,9 +9576,9 @@ Rocker
 普通タイプ
 基本
 *
-魔法耐性
-罠発見
-農業の才
+Resistant
+Trap Sense
+Green Thumb
 固定／石
 強射撃
 毒射ち
@@ -9590,7 +9590,7 @@ Rocker
 *
 *
 なし
-Do not think of it as just a|floating rock.
+Do not think of it as just a floating rock.
 IF SEEN, PLEASE REPORT THIS
 //entry 369 -----------------------
 ロキンＢ
@@ -9602,9 +9602,9 @@ Rocker
 普通タイプ
 基本
 *
-魔法耐性
-罠発見
-農業の才
+Resistant
+Trap Sense
+Green Thumb
 固定／石
 強射撃
 毒射ち
@@ -9616,7 +9616,7 @@ Rocker
 *
 *
 なし
-Do not think of it as just a|floating rock.
+Do not think of it as just a floating rock.
 IF SEEN, PLEASE REPORT THIS
 //entry 370 -----------------------
 ロキンＣ
@@ -9628,9 +9628,9 @@ Rocker
 普通タイプ
 基本
 *
-魔法耐性
-罠発見
-農業の才
+Resistant
+Trap Sense
+Green Thumb
 固定／石
 強射撃
 毒射ち
@@ -9642,7 +9642,7 @@ Rocker
 *
 *
 なし
-Do not think of it as just a|floating rock.
+Do not think of it as just a floating rock.
 IF SEEN, PLEASE REPORT THIS
 //entry 371 -----------------------
 ボボボＡ
@@ -9654,9 +9654,9 @@ Ball
 普通タイプ
 基本
 火耐性+80
-自爆
-感知
-無能
+Explosive
+Perceptive
+Inept
 固定／火打
 火矢砲
 火矢幕
@@ -9668,7 +9668,7 @@ Ball
 *
 *
 なし
-They're probably not|spirits, but most people|consider them spirits.
+They're probably not spirits, but most people consider them spirits.
 IF SEEN, PLEASE REPORT THIS
 //entry 372 -----------------------
 ボボボＢ
@@ -9680,9 +9680,9 @@ Ball
 普通タイプ
 基本
 火耐性+80
-自爆
-感知
-無能
+Explosive
+Perceptive
+Inept
 固定／火打
 火矢砲
 火矢幕
@@ -9694,7 +9694,7 @@ Ball
 *
 *
 なし
-They're probably not|spirits, but most people|consider them spirits.
+They're probably not spirits, but most people consider them spirits.
 IF SEEN, PLEASE REPORT THIS
 //entry 373 -----------------------
 ボボボＣ
@@ -9706,9 +9706,9 @@ Ball
 普通タイプ
 基本
 火耐性+80
-自爆
-感知
-無能
+Explosive
+Perceptive
+Inept
 固定／火打
 火矢砲
 火矢幕
@@ -9720,7 +9720,7 @@ Ball
 *
 *
 なし
-They're probably not|spirits, but most people|consider them spirits.
+They're probably not spirits, but most people consider them spirits.
 IF SEEN, PLEASE REPORT THIS
 //entry 374 -----------------------
 レボリューションＡ
@@ -9732,9 +9732,9 @@ Revolution
 晩成タイプ
 基本
 *
-自爆
-地図
-独立行動
+Explosive
+Orienteering
+Independent
 固定／魔力塊
 無心三連
 無心五連
@@ -9746,7 +9746,7 @@ Revolution
 *
 *
 なし
-They're said to represent|the world, but nobody knows|why, not even them.
+They're said to represent the world, but nobody knows why, not even them.
 IF SEEN, PLEASE REPORT THIS
 //entry 375 -----------------------
 レボリューションＢ
@@ -9758,9 +9758,9 @@ Revolution
 晩成タイプ
 基本
 *
-自爆
-地図
-独立行動
+Explosive
+Orienteering
+Independent
 固定／魔力塊
 無心三連
 無心五連
@@ -9772,7 +9772,7 @@ Revolution
 *
 *
 なし
-They're said to represent|the world, but nobody knows|why, not even them.
+They're said to represent the world, but nobody knows why, not even them.
 IF SEEN, PLEASE REPORT THIS
 //entry 376 -----------------------
 レボリューションＣ
@@ -9784,9 +9784,9 @@ Revolution
 晩成タイプ
 基本
 *
-自爆
-地図
-独立行動
+Explosive
+Orienteering
+Independent
 固定／魔力塊
 無心三連
 無心五連
@@ -9798,7 +9798,7 @@ Revolution
 *
 *
 なし
-They're said to represent|the world, but nobody knows|why, not even them.
+They're said to represent the world, but nobody knows why, not even them.
 IF SEEN, PLEASE REPORT THIS
 //entry 377 -----------------------
 ファレン
@@ -9810,9 +9810,9 @@ Firebird
 万能タイプ
 基本
 必殺耐性+100|異常耐性+100|火耐性+50
-速度強化／前
-防御支援
-資金管理
+Swift Wall
+Reassuring
+Accountant
 固定／火炎斬り
 固定／大豪炎
 固定／朱雀掌
@@ -9824,7 +9824,7 @@ Firebird
 *
 *
 なし
-One of the core memebers of|the Alliance.
+One of the core memebers of the Alliance.
 IF SEEN, PLEASE REPORT THIS
 //entry 378 -----------------------
 タマガ
@@ -9836,9 +9836,9 @@ Tigre
 攻撃タイプ
 基本
 必殺耐性+100|異常耐性+100|打耐性+50
-先制攻撃無効化
-攻撃支援
-軍事向き
+Vigilant
+Inspiring
+General
 固定／虎の金棒
 固定／押し金棒
 固定／虎王の金棒
@@ -9850,7 +9850,7 @@ Tigre
 *
 *
 なし
-One of the core members of|the Alliance.
+One of the core members of the Alliance.
 IF SEEN, PLEASE REPORT THIS
 //entry 379 -----------------------
 ロッタ
@@ -9862,9 +9862,9 @@ Turtle Runner
 晩成タイプ
 基本
 必殺耐性+100|異常耐性+100|水耐性+50
-前向精神
-前向精神
-娯楽の才
+Channeler
+Channeler
+Festive
 固定／水弾
 固定／水連弾
 固定／亀の知恵
@@ -9876,7 +9876,7 @@ Turtle Runner
 *
 *
 なし
-One of the core members of|the Alliance.
+One of the core members of the Alliance.
 IF SEEN, PLEASE REPORT THIS
 //entry 380 -----------------------
 アオ
@@ -9888,9 +9888,9 @@ Blaeu
 普通タイプ
 基本
 必殺耐性+100|異常耐性+100|斬耐性+50
-攻撃強化／横
-学
-教育の才
+Aggressive Ally
+Tutor
+Professor
 固定／青龍斬り
 固定／秘剣／青龍
 固定／無限斬り
@@ -9902,7 +9902,7 @@ Blaeu
 *
 *
 なし
-One of the core members of|the Alliance.
+One of the core members of the Alliance.
 IF SEEN, PLEASE REPORT THIS
 //entry 381 -----------------------
 ラフィノー
@@ -9914,9 +9914,9 @@ Leafwood
 速度タイプ
 基本
 必殺耐性+100|異常耐性+100|射耐性+50
-先制攻撃
-援護射撃
-補佐官
+Preemptive
+Guardian
+Aide
 固定／森の矢
 固定／森の雨矢
 固定／森の豪矢
@@ -9928,7 +9928,7 @@ Leafwood
 *
 *
 なし
-A lesser member of the|Alliance.
+A lesser member of the Alliance.
 IF SEEN, PLEASE REPORT THIS
 //entry 382 -----------------------
 イシュ
@@ -9940,9 +9940,9 @@ Imp
 攻撃タイプ
 基本
 必殺耐性+100|異常耐性+100|闇耐性+50
-邪魔回復
-忍び寄る者
-独立行動
+Sickening
+Onslaught
+Independent
 固定／悪魔の槍
 固定／悪魔王の槍
 固定／突き飛ばし
@@ -9954,7 +9954,7 @@ Imp
 *
 *
 なし
-A lesser member of the|Alliance.
+A lesser member of the Alliance.
 IF SEEN, PLEASE REPORT THIS
 //entry 383 -----------------------
 ナイン
@@ -9966,9 +9966,9 @@ Rousette
 早熟タイプ
 基本
 必殺耐性+100|異常耐性+100|風耐性+50
-攻撃強化／前
-攻撃支援
-小隊長
+Aggressive Wall
+Inspiring
+Subcommander
 固定／逆斬り
 固定／逆乱れ斬り
 固定／逆必殺斬り
@@ -9980,7 +9980,7 @@ Rousette
 *
 *
 なし
-A lesser member of the|Alliance.
+A lesser member of the Alliance.
 IF SEEN, PLEASE REPORT THIS
 //entry 384 -----------------------
 ヒビ
@@ -9992,9 +9992,9 @@ Khione
 回避タイプ
 基本
 必殺耐性+100|異常耐性+100|水耐性+50
-防御強化／横
-防御支援
-資金管理
+Iron Ally
+Reassuring
+Accountant
 固定／二連ツララ
 固定／三連ツララ
 固定／四連ツララ
@@ -10006,7 +10006,7 @@ Khione
 *
 *
 なし
-A lesser member of the|Alliance.
+A lesser member of the Alliance.
 IF SEEN, PLEASE REPORT THIS
 //entry 385 -----------------------
 ヤーヌ
@@ -10018,9 +10018,9 @@ Angolamay
 普通タイプ
 基本
 必殺耐性+100|異常耐性+100|土耐性+50
-回避強化／横
-掛け声
-内政向き
+Evasive Ally
+Cheer
+Governor
 固定／山羊の拳
 固定／山羊の強打
 固定／山羊の豪打
@@ -10032,7 +10032,7 @@ Angolamay
 *
 *
 なし
-A lesser member of the|Alliance.
+A lesser member of the Alliance.
 IF SEEN, PLEASE REPORT THIS
 //entry 386 -----------------------
 ミアルテ
@@ -10044,9 +10044,9 @@ Seraphim of Light
 無成長タイプ
 基本
 必殺耐性+100|異常耐性+100|光耐性+80
-魔法耐性
-防御支援
-政治家
+Resistant
+Reassuring
+Politician
 固定／光神の光
 固定／貫く光
 固定／溢れる光
@@ -10058,7 +10058,7 @@ Seraphim of Light
 *
 *
 なし
-A fairly high ranking angel|of Celestia.
+A fairly high ranking angel of Celestia.
 IF SEEN, PLEASE REPORT THIS
 //entry 387 -----------------------
 ルーアルテ
@@ -10070,9 +10070,9 @@ Holy Light
 無成長タイプ
 基本
 必殺耐性+100|異常耐性+100|光耐性+30|雷耐性+50
-勤勉
-防御支援
-天才
+Diligent
+Reassuring
+Genius
 固定／光神の光
 固定／天雷棒
 固定／天雷棒の雷
@@ -10084,7 +10084,7 @@ Holy Light
 *
 *
 なし
-Miartei's little sister with|a promising future.
+Miartei's little sister with a promising future.
 IF SEEN, PLEASE REPORT THIS
 //entry 388 -----------------------
 キュリハ
@@ -10097,8 +10097,8 @@ Seraphim of Seed
 基本
 必殺耐性+100|異常耐性+100|土耐性+70
 凶暴者
-攻撃支援
-大将軍
+Inspiring
+Eminent
 固定／樹神の腕
 固定／樹神の知恵
 固定／樹神の嘆き
@@ -10110,7 +10110,7 @@ Seraphim of Seed
 *
 *
 なし
-One of the future leaders of|the Holy Seed.
+One of the future leaders of the Holy Seed.
 IF SEEN, PLEASE REPORT THIS
 //entry 389 -----------------------
 マクドゥ
@@ -10122,9 +10122,9 @@ Company Enforcer
 無成長タイプ
 基本
 必殺耐性+100|異常耐性+100|斬耐性+50|闇耐性+50|行動回数+1
-斬撃属性耐性／全
-治療支援
-補佐官
+Rugged Leader
+Nurse
+Aide
 固定／闇
 固定／迫る闇
 固定／魔炎
@@ -10136,7 +10136,7 @@ Company Enforcer
 *
 *
 なし
-A merchant and aide to the|Great Overlord.|Has many opinions about|Darx.
+A merchant and aide to the Great Overlord.|Has many opinions about Darx.
 IF SEEN, PLEASE REPORT THIS
 //entry 390 -----------------------
 スイセン
@@ -10148,9 +10148,9 @@ Angel Spy
 無成長タイプ
 基本
 必殺耐性+100|異常耐性+100|斬耐性+50|水耐性+50|行動回数+1
-先制攻撃無効化
-防御支援
-政治家
+Vigilant
+Reassuring
+Politician
 固定／神力のブレス
 固定／破壊のブレス
 固定／神罰のブレス
@@ -10162,7 +10162,7 @@ Angel Spy
 *
 *
 なし
-A member of the Anselm|Company and a rival of|Macdo.
+A member of the Anselm Company and a rival of Macdo.
 IF SEEN, PLEASE REPORT THIS
 //entry 391 -----------------------
 ワダツミ
@@ -10174,9 +10174,9 @@ Mastermind
 無成長タイプ
 基本
 必殺耐性+100|異常耐性+100|斬耐性+50|水耐性+50|行動回数+1
-魔法耐性
-攻撃支援
-政治家
+Resistant
+Inspiring
+Politician
 固定／神力球
 固定／神力三球
 固定／清流水弾
@@ -10188,7 +10188,7 @@ Mastermind
 *
 *
 なし
-Hates demons, monsters, and|the humans who join them.
+Hates demons, monsters, and the humans who join them.
 IF SEEN, PLEASE REPORT THIS
 //entry 392 -----------------------
 触手ダークスＡ
@@ -10200,9 +10200,9 @@ Tentacle
 ボスタイプ
 基本
 必殺耐性+100|異常耐性+100|斬耐性+40|闇耐性+40|行動回数+1
-防御強化／後
+Iron Escort
 なし
-無能
+Inept
 固定／乱舞斬
 乱舞斬改
 暴風陣
@@ -10214,7 +10214,7 @@ Tentacle
 *
 *
 なし
-A being created by the|tentacles.
+A being created by the tentacles.
 IF SEEN, PLEASE REPORT THIS
 //entry 393 -----------------------
 触手ダークスＢ
@@ -10226,9 +10226,9 @@ Tentacle
 ボスタイプ
 基本
 必殺耐性+100|異常耐性+100|斬耐性+40|光耐性+40|行動回数+1
-回復
+Regenerator
 なし
-無能
+Inept
 固定／乱舞斬
 秘剣・鶯
 氷水陣
@@ -10240,7 +10240,7 @@ Tentacle
 *
 *
 なし
-A being created by the|tentacles.
+A being created by the tentacles.
 IF SEEN, PLEASE REPORT THIS
 //entry 394 -----------------------
 触手ダークスＣ
@@ -10252,9 +10252,9 @@ Tentacle
 ボスタイプ
 基本
 必殺耐性+100|異常耐性+100|斬耐性+40|雷耐性+40|行動回数+1
-打撃属性耐性／横
+Sturdy Ally
 なし
-無能
+Inept
 固定／乱舞斬
 秘剣・燕
 火矢陣
@@ -10266,7 +10266,7 @@ Tentacle
 *
 *
 なし
-A being created by the|tentacles.
+A being created by the tentacles.
 IF SEEN, PLEASE REPORT THIS
 //entry 395 -----------------------
 触手ダークスＤ
@@ -10278,9 +10278,9 @@ Tentacle
 ボスタイプ
 基本
 必殺耐性+100|異常耐性+100|斬耐性+40|火耐性+40|行動回数+1
-攻撃強化／後
+Aggressive Escort
 なし
-無能
+Inept
 固定／乱舞斬
 秘剣・雉
 漆黒陣
@@ -10292,7 +10292,7 @@ Tentacle
 *
 *
 なし
-A being created by the|tentacles.
+A being created by the tentacles.
 IF SEEN, PLEASE REPORT THIS
 //entry 396 -----------------------
 触手ダークスＥ
@@ -10304,9 +10304,9 @@ Tentacle
 ボスタイプ
 基本
 必殺耐性+100|異常耐性+100|斬耐性+40|水耐性+40|行動回数+1
-射撃属性耐性／横
+Covering Ally
 なし
-無能
+Inept
 固定／乱舞斬
 秘剣・鴉
 無心陣
@@ -10318,7 +10318,7 @@ Tentacle
 *
 *
 なし
-A being created by the|tentacles.
+A being created by the tentacles.
 IF SEEN, PLEASE REPORT THIS
 //entry 397 -----------------------
 エカテー
@@ -10330,9 +10330,9 @@ Tentacle
 万能タイプ
 基本
 必殺耐性+100|異常耐性+100|闇耐性+100
-敵攻撃弱体化
-忍び寄る者
-大将軍
+Intimidating
+Onslaught
+Eminent
 固定／迫る闇
 漆黒砲
 漆黒幕
@@ -10344,7 +10344,7 @@ Tentacle
 *
 *
 なし
-A being created by the|tentacles.
+A being created by the tentacles.
 IF SEEN, PLEASE REPORT THIS
 //entry 398 -----------------------
 パニバーナ
@@ -10356,9 +10356,9 @@ Tentacle
 攻撃タイプ
 基本
 必殺耐性+100|異常耐性+100|火耐性+100
-回避強化／全
-掛け声
-軍事向き
+Evasive Leader
+Cheer
+General
 固定／大きな火
 火矢三連
 火矢砲
@@ -10370,7 +10370,7 @@ Tentacle
 *
 *
 なし
-A being created by the|tentacles.
+A being created by the tentacles.
 IF SEEN, PLEASE REPORT THIS
 //entry 399 -----------------------
 イザナ
@@ -10382,9 +10382,9 @@ Tentacle
 奇才タイプ
 基本
 必殺耐性+100|異常耐性+100|水耐性+100
-速度強化／全
-警戒心
-教育の才
+Swift Leader
+Wary
+Professor
 固定／天界剣
 乱舞斬
 秘剣・雉
@@ -10396,7 +10396,7 @@ Tentacle
 *
 *
 なし
-A being created by the|tentacles.
+A being created by the tentacles.
 IF SEEN, PLEASE REPORT THIS
 //entry 400 -----------------------
 ウルティニア
@@ -10408,9 +10408,9 @@ Tentacle
 万能タイプ
 基本
 必殺耐性+100|異常耐性+100|光耐性+100
-先制攻撃無効化
-治療支援
-政治家
+Vigilant
+Nurse
+Politician
 固定／大きな光
 光槍砲
 光槍七連
@@ -10422,7 +10422,7 @@ Tentacle
 *
 *
 なし
-A being created by the|tentacles.
+A being created by the tentacles.
 IF SEEN, PLEASE REPORT THIS
 //entry 401 -----------------------
 マリーアリス
@@ -10434,9 +10434,9 @@ Tentacle
 攻撃タイプ
 基本
 必殺耐性+100|異常耐性+100|斬耐性+30
-防御強化／全
-罠発見
-指揮官
+Iron Leader
+Trap Sense
+Commander
 固定／大きな光
 光槍砲
 光槍幕
@@ -10448,7 +10448,7 @@ Tentacle
 *
 *
 なし
-A being created by the|tentacles.
+A being created by the tentacles.
 IF SEEN, PLEASE REPORT THIS
 //entry 402 -----------------------
 フィリアネ
@@ -10460,9 +10460,9 @@ Tentacle
 防御タイプ
 基本
 必殺耐性+100|異常耐性+100|打耐性+30
-攻撃強化／全
-罠被害軽減
-補佐官
+Aggressive Leader
+Blessing
+Aide
 固定／天界剣
 乱舞斬
 火矢砲
@@ -10474,7 +10474,7 @@ Tentacle
 *
 *
 なし
-A being created by the|tentacles.
+A being created by the tentacles.
 IF SEEN, PLEASE REPORT THIS
 //entry 403 -----------------------
 商会メイド
@@ -10486,9 +10486,9 @@ Tentacle
 晩成タイプ
 基本
 必殺耐性+100|異常耐性+100
-魔法耐性
-罠無効化
-天才
+Resistant
+Lucky
+Genius
 固定／クナイ
 乱射
 全リフ
@@ -10500,7 +10500,7 @@ Tentacle
 *
 *
 なし
-A being created by the|tentacles.
+A being created by the tentacles.
 IF SEEN, PLEASE REPORT THIS
 //entry 404 -----------------------
 フォーゼロッテ
@@ -10512,9 +10512,9 @@ Tentacle
 無成長タイプ
 基本
 必殺耐性+100|異常耐性+100|闇耐性+100|行動回数+1
-魔法無効化
-罠無効化
-独立行動
+Canceller
+Lucky
+Independent
 固定／無限の闇
 漆黒九連
 漆黒陣
@@ -10526,7 +10526,7 @@ Tentacle
 *
 *
 なし
-A being created by the|tentacles.
+A being created by the tentacles.
 IF SEEN, PLEASE REPORT THIS
 //entry 405 -----------------------
 メリル
@@ -10538,9 +10538,9 @@ Tentacle
 防御タイプ
 基本
 必殺耐性+100|異常耐性+100|闇耐性+50
-魔法全体防御
-勤勉
-補佐官
+Dampener
+Diligent
+Aide
 固定／小さな闇
 漆黒砲
 漆黒幕
@@ -10552,9 +10552,9 @@ Tentacle
 *
 *
 なし
-A being created by the|tentacles.
+A being created by the tentacles.
 IF SEEN, PLEASE REPORT THIS
-//entry 406 -----------------------
+//entry 406 ----3-------------------
 カーシャ
 Kasha
 天界の住人
@@ -10564,9 +10564,9 @@ Tentacle
 攻撃タイプ
 基本
 必殺耐性+100|異常耐性+100|斬耐性+40|打耐性+40|射耐性+40
-いなし
-警戒心
-補佐官
+Anticipation
+Wary
+Aide
 固定／刀
 乱舞斬改
 秘剣・雉
@@ -10578,7 +10578,7 @@ Tentacle
 *
 *
 なし
-A being created by the|tentacles.
+A being created by the tentacles.
 IF SEEN, PLEASE REPORT THIS
 //entry 407 -----------------------
 親衛隊員Ａ
@@ -10590,9 +10590,9 @@ Tentacle
 攻撃タイプ
 基本
 必殺耐性+100|異常耐性+100|光耐性+40
-防御強化／横
-援護射撃
-小隊長
+Iron Ally
+Guardian
+Subcommander
 固定／ハンマー
 固定／振り回しハンマー
 弾き飛ばし
@@ -10604,7 +10604,7 @@ Tentacle
 *
 *
 なし
-A being created by the|tentacles.
+A being created by the tentacles.
 IF SEEN, PLEASE REPORT THIS
 //entry 408 -----------------------
 親衛隊員Ｂ
@@ -10617,8 +10617,8 @@ Tentacle
 基本
 必殺耐性+100|異常耐性+100|光耐性+40
 凶暴者
-援護射撃
-小隊長
+Guardian
+Subcommander
 固定／突き刺し
 乱舞斬
 秘剣・鴉
@@ -10630,7 +10630,7 @@ Tentacle
 *
 *
 なし
-A being created by the|tentacles.
+A being created by the tentacles.
 IF SEEN, PLEASE REPORT THIS
 //entry 409 -----------------------
 親衛隊員Ｃ
@@ -10642,9 +10642,9 @@ Tentacle
 速度タイプ
 基本
 必殺耐性+100|異常耐性+100|光耐性+40
-速度強化／横
-援護射撃
-小隊長
+Swift Ally
+Guardian
+Subcommander
 固定／斧
 払い
 弾き飛ばし
@@ -10656,7 +10656,7 @@ Tentacle
 *
 *
 なし
-A being created by the|tentacles.
+A being created by the tentacles.
 IF SEEN, PLEASE REPORT THIS
 //entry 410 -----------------------
 ドラゴン
@@ -10668,9 +10668,9 @@ Dragon
 防御タイプ
 基本
 必殺耐性+100|異常耐性+100
-魔法耐性
-防御支援
-政治家
+Resistant
+Reassuring
+Politician
 固定／火のブレス
 雷獄
 炎獄
@@ -10682,7 +10682,7 @@ Dragon
 *
 *
 なし
-Very strong, but is a male.|The females are a hundred|times stronger.
+Very strong, but is a male.|The females are a hundred times stronger.
 IF SEEN, PLEASE REPORT THIS
 //entry 411 -----------------------
 ラブリーソード
@@ -10694,9 +10694,9 @@ Swordkin
 攻撃タイプ
 基本
 必殺耐性+100|異常耐性+100|斬耐性+50|行動回数+1
-凶暴者
-掛け声
-大将軍
+Ferocious
+Cheer
+Eminent
 固定／剣の舞
 固定／刃の舞
 秘剣・鶯
@@ -10722,7 +10722,7 @@ Overlord
 必殺耐性+100|異常耐性+100
 なし
 なし
-無能
+Inept
 固定／無限の闇
 漆黒九連
 漆黒陣
@@ -10734,7 +10734,7 @@ Overlord
 *
 *
 なし
-Darx's mana given form.|But is there any thought|within it?
+Darx's mana given form.|But is there any thought within it?
 IF SEEN, PLEASE REPORT THIS
 //entry 413 -----------------------
 子ヘビ
@@ -10746,9 +10746,9 @@ Snake
 無成長タイプ
 基本
 必殺耐性+100|異常耐性+100
-射撃属性耐性／全
-忍び寄る者
-天才
+Covering Leader
+Onslaught
+Genius
 固定／噛み付き
 狙い斬り
 脅し斬り

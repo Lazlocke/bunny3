@@ -1,5 +1,15 @@
-Script translation
-
-Obj unpacking/setup/translation
 
 Image stuff
+
+
+======SOMEBODY TEST THIS=====
+I think these stat buff passive may be a mess
+Oookay. I think it's coming back to me.
+The way they work is by appending three strings together.
+One for the stat, one for "／" and one for who it affects.
+And in BB2, the ／ was replaced by " " and just two words used for each
+Like 回避強化／全 became Evasive Leader
+But in the exe, that's three separate strings that got appended together.
+And it... LOOKS like BB3 is the same way.
+But I'd feel better if somebody tested this.
+I'm going to make a note of this

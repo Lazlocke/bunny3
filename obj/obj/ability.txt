@@ -4,527 +4,527 @@
 *
 No notable ability.
 //entry 1 -----------------------
-魔王
-魔王
-魔王
+Overlord
+Overlord
+Overlord
 Able to form a party depending on Command.
 //entry 2 -----------------------
-魔王の血縁
-魔王の血縁
-魔王の血縁
+Overlord's Bloodline
+Overlord's Bloodline
+Overlord's Bloodline
 Able to form a party depending on Command.
 //entry 3 -----------------------
-威殺
-威殺
-威殺
+Merciless
+Merciless
+Merciless
 Automatically win easy battles.
 //entry 4 -----------------------
-先制攻撃
-先制攻撃
-先制攻撃
+Preemptive
+Preemptive
+Preemptive
 Perform an attack at the start of battle.
 //entry 5 -----------------------
-先制暗殺攻撃
-先制暗殺攻撃
-先制暗殺攻撃
+Assassin
+Assassin
+Assassin
 Perform a powerful attack at the start of battle.
 //entry 6 -----------------------
-先制全体攻撃
-先制全体攻撃
-先制全体攻撃
+Blitzkrieger
+Blitzkrieger
+Blitzkrieger
 Perform an area attack at the start of battle.
 //entry 7 -----------------------
-先制攻撃迎撃
-先制攻撃迎撃
-先制攻撃迎撃
+Paranoid
+Paranoid
+Paranoid
 Chance to prevent enemy ambushes.
 //entry 8 -----------------------
-先制攻撃無効化
-先制攻撃無効化
-先制攻撃無効化
+Vigilant
+Vigilant
+Vigilant
 Prevents all enemy ambushes.
 //entry 9 -----------------------
-生命力
-生命力
-生命力
+Tenacious
+Tenacious
+Tenacious
 Chance to survive a deadly blow with 1 HP.
 //entry 10 -----------------------
-健康優良児
-健康優良児
-健康優良児
+Snacker
+Snacker
+Snacker
 Recover HP while moving.
 //entry 11 -----------------------
-前向精神
-前向精神
-前向精神
+Channeler
+Channeler
+Channeler
 Recover SP while moving.
 //entry 12 -----------------------
-魔法耐性
-魔法耐性
-魔法耐性
+Resistant
+Resistant
+Resistant
 Magic damage taken reduced by 50%.
 //entry 13 -----------------------
-魔法無効化
-魔法無効化
-魔法無効化
+Canceller
+Canceller
+Canceller
 Magic damage blocked 30% of the time.
 //entry 14 -----------------------
-魔法全体防御
-魔法全体防御
-魔法全体防御
+Dampener
+Dampener
+Dampener
 Party's magic damage taken reduced by 25%.
 //entry 15 -----------------------
-全体回復
-全体回復
-全体回復
+Medic
+Medic
+Medic
 Recover party HP after battle.
 //entry 16 -----------------------
-回復
-回復
-回復
+Regenerator
+Regenerator
+Regenerator
 Recover own HP after battle.
 //entry 17 -----------------------
-邪魔回復
-邪魔回復
-邪魔回復
+Sickening
+Sickening
+Sickening
 30% chance to prevent enemy healing magic.
 //entry 18 -----------------------
-全体気力回復
-全体気力回復
-全体気力回復
+Soothing
+Soothing
+Soothing
 Slightly recover party SP during battle.
 //entry 19 -----------------------
-気力回復
-気力回復
-気力回復
+Energetic
+Energetic
+Energetic
 Slightly recover own SP during battle.
 //entry 20 -----------------------
-回避強化／全
-回避強化／全
-回避強化／全
+Evasive Leader
+Evasive Leader
+Evasive Leader
 Increase party's Evade.
 //entry 21 -----------------------
-回避強化／前
-回避強化／前
-回避強化／前
+Evasive Wall
+Evasive Wall
+Evasive Wall
 Increase front row's Evade.
 //entry 22 -----------------------
-回避強化／後
-回避強化／後
-回避強化／後
+Evasive Escort
+Evasive Escort
+Evasive Escort
 Increase back row's Evade.
 //entry 23 -----------------------
-回避強化／縦
-回避強化／縦
-回避強化／縦
+Evasive Support
+Evasive Support
+Evasive Support
 Increase own column's Evade.
 //entry 24 -----------------------
-回避強化／横
-回避強化／横
-回避強化／横
+Evasive Ally
+Evasive Ally
+Evasive Ally
 Increase own row's Evade.
 //entry 25 -----------------------
-速度強化／全
-速度強化／全
-速度強化／全
+Swift Leader
+Swift Leader
+Swift Leader
 Increase party's Speed.
 //entry 26 -----------------------
-速度強化／前
-速度強化／前
-速度強化／前
+Swift Wall
+Swift Wall
+Swift Wall
 Increase front row's Speed.
 //entry 27 -----------------------
-速度強化／後
-速度強化／後
-速度強化／後
+Swift Escort
+Swift Escort
+Swift Escort
 Increase back row's Speed.
 //entry 28 -----------------------
-速度強化／縦
-速度強化／縦
-速度強化／縦
+Swift Support
+Swift Support
+Swift Support
 Increase own column's Speed.
 //entry 29 -----------------------
-速度強化／横
-速度強化／横
-速度強化／横
+Swift Ally
+Swift Ally
+Swift Ally
 Increase own row's Speed.
 //entry 30 -----------------------
-攻撃強化／全
-攻撃強化／全
-攻撃強化／全
+Aggressive Leader
+Aggressive Leader
+Aggressive Leader
 Increase party's Attack.
 //entry 31 -----------------------
-攻撃強化／前
-攻撃強化／前
-攻撃強化／前
+Aggressive Wall
+Aggressive Wall
+Aggressive Wall
 Increase front row's Attack.
 //entry 32 -----------------------
-攻撃強化／後
-攻撃強化／後
-攻撃強化／後
+Aggressive Escort
+Aggressive Escort
+Aggressive Escort
 Increase back row's Attack.
 //entry 33 -----------------------
-攻撃強化／縦
-攻撃強化／縦
-攻撃強化／縦
+Aggressive Support
+Aggressive Support
+Aggressive Support
 Increase own column's Attack.
 //entry 34 -----------------------
-攻撃強化／横
-攻撃強化／横
-攻撃強化／横
-Increaseown row's Attack.
+Aggressive Ally
+Aggressive Ally
+Aggressive Ally
+Increase own row's Attack.
 //entry 35 -----------------------
-防御強化／全
-防御強化／全
-防御強化／全
+Iron Leader
+Iron Leader
+Iron Leader
 Increase party's Defense.
 //entry 36 -----------------------
-防御強化／前
-防御強化／前
-防御強化／前
+Iron Wall
+Iron Wall
+Iron Wall
 Increase front row's Defense.
 //entry 37 -----------------------
-防御強化／後
-防御強化／後
-防御強化／後
+Iron Escort
+Iron Escort
+Iron Escort
 Increase back row's Defense.
 //entry 38 -----------------------
-防御強化／縦
-防御強化／縦
-防御強化／縦
+Iron Support
+Iron Support
+Iron Support
 Increase own column's Defense.
 //entry 39 -----------------------
-防御強化／横
-防御強化／横
-防御強化／横
+Iron Ally
+Iron Ally
+Iron Ally
 Increase own row's Defense.
 //entry 40 -----------------------
-斬撃属性耐性／全
-斬撃属性耐性／全
-斬撃属性耐性／全
+Rugged Leader
+Rugged Leader
+Rugged Leader
 Reduce slashing damage taken by party by 20%.
 //entry 41 -----------------------
-斬撃属性耐性／前
-斬撃属性耐性／前
-斬撃属性耐性／前
+Rugged Wall
+Rugged Wall
+Rugged Wall
 Reduce slashing damage taken by front row by 20%.
 //entry 42 -----------------------
-斬撃属性耐性／後
-斬撃属性耐性／後
-斬撃属性耐性／後
+Rugged Escort
+Rugged Escort
+Rugged Escort
 Reduce slashing damage taken by back row by 20%.
 //entry 43 -----------------------
-斬撃属性耐性／縦
-斬撃属性耐性／縦
-斬撃属性耐性／縦
+Rugged Support
+Rugged Support
+Rugged Support
 Reduce slashing damage taken by own column by 20%.
 //entry 44 -----------------------
-斬撃属性耐性／横
-斬撃属性耐性／横
-斬撃属性耐性／横
+Rugged Ally
+Rugged Ally
+Rugged Ally
 Reduce slashing damage taken by own row by 20%.
 //entry 45 -----------------------
-打撃属性耐性／全
-打撃属性耐性／全
-打撃属性耐性／全
+Sturdy Leader
+Sturdy Leader
+Sturdy Leader
 Reduce crushing damage taken by party by 20%.
 //entry 46 -----------------------
-打撃属性耐性／前
-打撃属性耐性／前
-打撃属性耐性／前
+Sturdy Wall
+Sturdy Wall
+Sturdy Wall
 Reduce crushing damage taken by front row by 20%.
 //entry 47 -----------------------
-打撃属性耐性／後
-打撃属性耐性／後
-打撃属性耐性／後
+Sturdy Escort
+Sturdy Escort
+Sturdy Escort
 Reduce crushing damage taken by back row by 20%.
 //entry 48 -----------------------
-打撃属性耐性／縦
-打撃属性耐性／縦
-打撃属性耐性／縦
+Sturdy Support
+Sturdy Support
+Sturdy Support
 Reduce crushing damage taken by own column by 20%.
 //entry 49 -----------------------
-打撃属性耐性／横
-打撃属性耐性／横
-打撃属性耐性／横
+Sturdy Ally
+Sturdy Ally
+Sturdy Ally
 Reduce crushing damage taken by own row by 20%.
 //entry 50 -----------------------
-射撃属性耐性／全
-射撃属性耐性／全
-射撃属性耐性／全
+Covering Leader
+Covering Leader
+Covering Leader
 Reduce ranged damage taken by party by 20%.
 //entry 51 -----------------------
-射撃属性耐性／前
-射撃属性耐性／前
-射撃属性耐性／前
+Covering Wall
+Covering Wall
+Covering Wall
 Reduce ranged damage taken by front row by 20%.
 //entry 52 -----------------------
-射撃属性耐性／後
-射撃属性耐性／後
-射撃属性耐性／後
+Covering Escort
+Covering Escort
+Covering Escort
 Reduce ranged damage taken by back row by 20%.
 //entry 53 -----------------------
-射撃属性耐性／縦
-射撃属性耐性／縦
-射撃属性耐性／縦
+Covering Support
+Covering Support
+Covering Support
 Reduce ranged damage taken by own column by 20%.
 //entry 54 -----------------------
-射撃属性耐性／横
-射撃属性耐性／横
-射撃属性耐性／横
+Covering Ally
+Covering Ally
+Covering Ally
 Reduce ranged damage taken by own row by 20%.
 //entry 55 -----------------------
-敵攻撃弱体化
-敵攻撃弱体化
-敵攻撃弱体化
+Intimidating
+Intimidating
+Intimidating
 Reduce all enemies Attack.
 //entry 56 -----------------------
-敵回避弱体化
-敵回避弱体化
-敵回避弱体化
+Bully
+Bully
+Bully
 Reduce all enemies Evade.
 //entry 57 -----------------------
-敵防御弱体化
-敵防御弱体化
-敵防御弱体化
+Calculating
+Calculating
+Calculating
 Reduce all enemies Defense.
 //entry 58 -----------------------
-敵速度弱体化
-敵速度弱体化
-敵速度弱体化
+Spook
+Spook
+Spook
 Reduce all enemies Speed.
 //entry 59 -----------------------
-盾
-盾
-盾
+Selfless
+Selfless
+Selfless
 Chance to take half the damage for an ally with lower HP.
 //entry 60 -----------------------
-身代わり
-身代わり
-身代わり
+Scapegoat
+Scapegoat
+Scapegoat
 Chance to take all damage for an ally with lower HP.
 //entry 61 -----------------------
-囮
-囮
-囮
+Punchable
+Punchable
+Punchable
 Higher chance to be targeted by enemies.
 //entry 62 -----------------------
-いなし
-いなし
-いなし
+Anticipation
+Anticipation
+Anticipation
 Chance to reduce all damage taken by half.
 //entry 63 -----------------------
-凶暴者
-凶暴者
-凶暴者
+Ferocious
+Ferocious
+Ferocious
 When under 20% HP, Attack and Evade increased.
 //entry 64 -----------------------
-自爆
-自爆
-自爆
+Explosive
+Explosive
+Explosive
 When reduced to under 10% HP, 40% chance to self-destruct and damage the entire enemy party.
 //entry 65 -----------------------
-学
-学
-学
+Tutor
+Tutor
+Tutor
 Increase experience earned by 10%.
 //entry 66 -----------------------
-勤勉
-勤勉
-勤勉
+Diligent
+Diligent
+Diligent
 Increase experience earned by 20%.
 //entry 67 -----------------------
-罠発見
-罠発見
-罠発見
+Trap Sense
+Trap Sense
+Trap Sense
 Higher chance to detect traps.
 //entry 68 -----------------------
-罠被害軽減
-罠被害軽減
-罠被害軽減
+Blessing
+Blessing
+Blessing
 Reduce trap damage and status effect duration.
 //entry 69 -----------------------
-罠無効化
-罠無効化
-罠無効化
+Lucky
+Lucky
+Lucky
 50% chance to evade triggered traps.
 //entry 70 -----------------------
-感知
-感知
-感知
+Perceptive
+Perceptive
+Perceptive
 Detect secret doors in dungeons.
 //entry 71 -----------------------
-遠視
-遠視
-遠視
+Hawkeye
+Hawkeye
+Hawkeye
 See further in dungeons.
 //entry 72 -----------------------
-地図
-地図
-地図
+Orienteering
+Orienteering
+Orienteering
 Wider view on the minimap in dungeons.
 //entry 73 -----------------------
-警戒心
-警戒心
-警戒心
+Wary
+Wary
+Wary
 Encounter rate with enemies is reduced.
 //entry 74 -----------------------
-サブメンバー
-サブメンバー
-サブメンバー
+Reservist
+Reservist
+Reservist
 Reserve units recover HP and SP while moving.
 //entry 75 -----------------------
-忍び寄る者
-忍び寄る者
-忍び寄る者
+Onslaught
+Onslaught
+Onslaught
 Perform an attack at the start of battle.
 //entry 76 -----------------------
-攻撃支援
-攻撃支援
-攻撃支援
+Inspiring
+Inspiring
+Inspiring
 Slightly increase party's Attack.
 //entry 77 -----------------------
-防御支援
-防御支援
-防御支援
+Reassuring
+Reassuring
+Reassuring
 Slightly increase party's Defense.
 //entry 78 -----------------------
-治療支援
-治療支援
-治療支援
+Nurse
+Nurse
+Nurse
 15% chance to recover a small amount of one party member's HP during battle.
 //entry 79 -----------------------
-掛け声
-掛け声
-掛け声
+Cheer
+Cheer
+Cheer
 10% chance to increase Attack when a party member attacks.
 //entry 80 -----------------------
-援護射撃
-援護射撃
-援護射撃
+Guardian
+Guardian
+Guardian
 15% chance to take half the damage for an ally.
 //entry 81 -----------------------
-大将軍
-大将軍
-大将軍
+Eminent
+Eminent
+Eminent
 Performs well in Leadership positions.
 //entry 82 -----------------------
-政治家
-政治家
-政治家
+Politician
+Politician
+Politician
 Performs well in Governing positions.
 //entry 83 -----------------------
-資金管理
-資金管理
-資金管理
+Accountant
+Accountant
+Accountant
 While in a Governing position, increase city income by 10%.
 //entry 84 -----------------------
-資源管理
-資源管理
-資源管理
+Logistician
+Logistician
+Logistician
 While in a Governing position, increase resource income by 10%.
 //entry 85 -----------------------
-食料管理
-食料管理
-食料管理
+Gourmand
+Gourmand
+Gourmand
 While in a Governing position, increase food income by 10%.
 //entry 86 -----------------------
-人気者
-人気者
-人気者
+Charismatic
+Charismatic
+Charismatic
 As Mayor or Deputy Mayor, slightly increase residents recruited each turn.
 //entry 87 -----------------------
-内政の才
-内政の才
-内政の才
+Bureaucrat
+Bureaucrat
+Bureaucrat
 Performs well in lesser bureaucratic positions.
 //entry 88 -----------------------
-農業の才
-農業の才
-農業の才
+Green Thumb
+Green Thumb
+Green Thumb
 Performs well as Farm Manager.
 //entry 89 -----------------------
-商業の才
-商業の才
-商業の才
+Merchant
+Merchant
+Merchant
 Performs well as Trade Captain.
 //entry 90 -----------------------
-工業の才
-工業の才
-工業の才
+Industrious
+Industrious
+Industrious
 Performs well as Forge Overseer.
 //entry 91 -----------------------
-警備の才
-警備の才
-警備の才
+Straightlaced
+Straightlaced
+Straightlaced
 Performs well as Security Chief.
 //entry 92 -----------------------
-教育の才
-教育の才
-教育の才
+Professor
+Professor
+Professor
 Performs well as School Dean.
 //entry 93 -----------------------
-娯楽の才
-娯楽の才
-娯楽の才
+Festive
+Festive
+Festive
 Performs well as Merry Maker.
 //entry 94 -----------------------
-衛生の才
-衛生の才
-衛生の才
+Neat Freak
+Neat Freak
+Neat Freak
 Performs well as Sewer Czar.
 //entry 95 -----------------------
-指揮官
-指揮官
-指揮官
+Commander
+Commander
+Commander
 Performs well when placed in charge of a dungeon.
 //entry 96 -----------------------
-小隊長
-小隊長
-小隊長
+Subcommander
+Subcommander
+Subcommander
 Performs well as a dungeon floor boss.
 //entry 97 -----------------------
-独立行動
-独立行動
-独立行動
+Independent
+Independent
+Independent
 Performs well in all lesser dungeon combat positions.
 //entry 98 -----------------------
-天才
-天才
-天才
+Genius
+Genius
+Genius
 Performs well in all government positions.
 //entry 99 -----------------------
-無能
-無能
-無能
+Inept
+Inept
+Inept
 Performs terribly in all government positions.
 //entry 100 -----------------------
-内政向き
-内政向き
-内政向き
+Governor
+Governor
+Governor
 Performs well as Mayor or Deputy Mayor.
 //entry 101 -----------------------
-軍事向き
-軍事向き
-軍事向き
+General
+General
+General
 Performs well in all dungeon positions.
 //entry 102 -----------------------
-補佐官
-補佐官
-補佐官
+Aide
+Aide
+Aide
 Performs well as Deputy Mayor or Dungeon Keeper.
 //entry 103 -----------------------
-ダークス愛／攻
-ダークス愛／攻
+Loving Cheer
+Loving Cheer
 攻撃強化／主
 Greatly increase Darx's Attack.
 //entry 104 -----------------------
-ダークス愛／防
-ダークス愛／防
-防御強化／主
+Loving Bolster
+Loving Bolster
+Iron／主
 Greatly increase Darx's Defense.
 //entry 105 -----------------------
-ダークス愛／速
-ダークス愛／速
+Loving Haste
+Loving Haste
 速度強化／主
 Greatly increase Darx's Speed.
