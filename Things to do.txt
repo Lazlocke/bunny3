@@ -13,3 +13,7 @@ But in the exe, that's three separate strings that got appended together.
 And it... LOOKS like BB3 is the same way.
 But I'd feel better if somebody tested this.
 I'm going to make a note of this
+
+ALSO THING
+
+The "Darx Love" passives are really weird. I have no idea if they're working, and there's no matching things elsewhere to verify or tell unlike all the other passives.

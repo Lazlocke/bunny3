@@ -1,1 +1,0 @@
-evntface in the obj file needs to be translated and to match the <name> strings for major characters for the head-shots to appear in script segments.
