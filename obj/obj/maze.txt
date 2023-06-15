@@ -21,53 +21,53 @@
 //entry 10 -----------------------
 比率スルー
 //entry 11 -----------------------
-守備隊の頑張りで戦闘に勝利
+The forces here fought successfully.
 //entry 12 -----------------------
-階層長の頑張りで戦闘に勝利
+The battle here was won thanks to the floor boss.
 //entry 13 -----------------------
-遊撃隊の頑張りで戦闘に勝利
+The battle here was won thanks to the raid team.
 //entry 14 -----------------------
-支援隊の頑張りで戦闘に勝利
+The battle here was won thanks to the support team.
 //entry 15 -----------------------
-遊撃隊の奇襲で戦闘に大勝利
+The battle here was a huge victory thanks to the raid team.
 //entry 16 -----------------------
-冒険者に戦闘で敗北
+Adventurers won the battle here.
 //entry 17 -----------------------
-階層長が居ない隙をつかれ戦闘で敗北
+The battle was lost because there was no floor boss.
 //entry 18 -----------------------
-宝箱守備隊の頑張りで宝箱を防衛
+The treasure was defended by the guards.
 //entry 19 -----------------------
-迷宮長の頑張りで宝箱を防衛
+The dungeon master's hard work kept the treasure safe.
 //entry 20 -----------------------
-迷宮長補佐の頑張りで宝箱を防衛
+The dungeon keeper's hard work kept the treasure safe.
 //entry 21 -----------------------
-宝箱を奪われ食糧に被害
+Treasure was taken and food lost.
 //entry 22 -----------------------
-迷宮長が居ない隙をつかれ食糧に被害
+Food was stolen because there was no dungeon master.
 //entry 23 -----------------------
-宝箱を奪われ資金に被害
+Treasure was taken and money lost.
 //entry 24 -----------------------
-迷宮長が居ない隙をつかれ資金に被害
+Money was stolen because there was no dungeon master.
 //entry 25 -----------------------
-宝箱を奪われ資源に被害
+Treasure was taken and resources lost.
 //entry 26 -----------------------
-迷宮長が居ない隙をつかれ資源に被害
+Resources were stolen because there was no dungeon master.
 //entry 27 -----------------------
-迷宮の罠が発動
+A trap was triggered.
 //entry 28 -----------------------
-支援隊の仕掛けた罠が発動
+A trap set by the support team was triggered.
 //entry 29 -----------------------
-階層長の仕掛けた罠が発動
+A trap set by the dungeon master was triggered.
 //entry 30 -----------------------
-罠を回避された
+A trap was avoided.
 //entry 31 -----------------------
-迷宮で道に迷う
+Some became lost in the dungeon.
 //entry 32 -----------------------
-迷宮の広さに迷う
+Some became lost in the dungeon due to its size.
 //entry 33 -----------------------
-遊撃隊のかく乱で道に迷う
+Some became lost due to the raid team.
 //entry 34 -----------------------
-迷路を突破
+Found their way through the dungeon.
 //entry 35 -----------------------
 戦闘勝利/階層長
 //entry 36 -----------------------
