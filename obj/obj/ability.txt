@@ -77,12 +77,12 @@ Party's magic damage taken reduced by 25%.
 Medic
 Medic
 Medic
-Recover party HP after battle.
+Recover party HP during battle.
 //entry 16 -----------------------
 Regenerator
 Regenerator
 Regenerator
-Recover own HP after battle.
+Recover own HP during battle.
 //entry 17 -----------------------
 Sickening
 Sickening
