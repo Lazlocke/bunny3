@@ -438,7 +438,7 @@ weight is pure happiness.
 <name "Farren" "!FB0169">
 "Don't slack off.
  Work hard.
- If this doesn't get finished, the Overlor
+ If this doesn't get finished, the Overlord
  will be in trouble."
 #
 <name "Lotta" "!HB0099">
@@ -884,7 +884,7 @@ everything I can.
 #
 <name "Filliane" "!GA0055">
 "The Overlord hates it when parents get into
- childrens' squabbles."
+ children's squabbles."
 #
 <name "Kasha" "!TB0007">
 "Ooh...
