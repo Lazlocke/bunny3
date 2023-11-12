@@ -334,7 +334,7 @@
 "Right."
 #
 <removesprite -1 11>
-\x2B\x8A 0  0  0  0  "All facilities are now unlocked." 
+\x2B\x8A 0  0  0  0  "All actions are now unlocked." 
 <exit>
 :2A31
 <music 3>
