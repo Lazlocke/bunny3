@@ -489,7 +489,7 @@ f011ba.agf
 Pull materials and riches right|out of the ground.
 Each turn: Gathers resources and|money
 //entry 14 -----------------------
-Storehouse
+Depot
 工業
 buil12.agf
 f012aa.agf
