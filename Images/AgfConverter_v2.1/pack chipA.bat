@@ -1,2 +1,2 @@
-"encode (small files, slow).cmd" chipA
+"encode (small files, slow).cmd" chipA 
 pause
