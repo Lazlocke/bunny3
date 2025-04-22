@@ -22,7 +22,7 @@ Overlord
 *
 *
 なし
-An Overlord with many children who enjoys growing vegetables.|As a former adventurer, he has many skills.
+An Overlord with many|children who enjoys growing|vegetables.|As a former adventurer, he|has many skills.
 IF SEEN, PLEASE REPORT THIS
 //entry 1 -----------------------
 味方白ヘビ様
@@ -48,7 +48,7 @@ Commander
 *
 *
 なし
-Member of a clan of magic users who live in the human world. |Naturally resistant to many things.
+Member of a clan of magic|users who live in the human|world. |Naturally resistant to many|things.
 IF SEEN, PLEASE REPORT THIS
 //entry 2 -----------------------
 味方冥土さん
@@ -100,7 +100,7 @@ Independent
 *
 *
 なし
-An elite and storied soldier.|Don't ask about her record.
+An elite and storied|soldier.|Don't ask about her record.
 IF SEEN, PLEASE REPORT THIS
 //entry 4 -----------------------
 味方レイリン
@@ -126,7 +126,7 @@ Subcommander
 *
 *
 なし
-A little overshadowed by all the recent immigrants from Celestia.
+A little overshadowed by all|the recent immigrants from|Celestia.
 IF SEEN, PLEASE REPORT THIS
 //entry 5 -----------------------
 味方トウフ君
@@ -152,7 +152,7 @@ Merchant
 *
 *
 なし
-A demon dedicated to spreading the glory of tofu. |Longs for the east.
+A demon dedicated to|spreading the glory of tofu. |Longs for the east.
 IF SEEN, PLEASE REPORT THIS
 //entry 6 -----------------------
 味方魔鬼
@@ -178,7 +178,7 @@ Straightlaced
 *
 *
 なし
-Don't be fooled by her appearance, or she'll make you pay.
+Don't be fooled by her|appearance, or she'll make|you pay.
 IF SEEN, PLEASE REPORT THIS
 //entry 7 -----------------------
 味方天界兵Ａ
@@ -204,7 +204,7 @@ Commander
 *
 *
 なし
-Currently a member of Darx's guard.
+Currently a member of Darx's|guard.
 IF SEEN, PLEASE REPORT THIS
 //entry 8 -----------------------
 味方天界兵Ｂ
@@ -230,7 +230,7 @@ Subcommander
 *
 *
 なし
-Currently a member of Darx's guard.
+Currently a member of Darx's|guard.
 IF SEEN, PLEASE REPORT THIS
 //entry 9 -----------------------
 味方天界兵Ｃ
@@ -256,7 +256,7 @@ Charismatic
 *
 *
 なし
-Currently a member of Darx's guard.
+Currently a member of Darx's|guard.
 IF SEEN, PLEASE REPORT THIS
 //entry 10 -----------------------
 味方天界兵Ｄ
@@ -282,7 +282,7 @@ Independent
 *
 *
 なし
-Currently a member of Darx's guard.
+Currently a member of Darx's|guard.
 IF SEEN, PLEASE REPORT THIS
 //entry 11 -----------------------
 味方クマン
@@ -308,7 +308,7 @@ Bureaucrat
 *
 *
 なし
-Proud of his defense, but is bad with dogs.
+Proud of his defense, but is|bad with dogs.
 IF SEEN, PLEASE REPORT THIS
 //entry 12 -----------------------
 味方ベト
@@ -334,7 +334,7 @@ Charismatic
 *
 *
 なし
-Despite how he looks, he's a tested and seasoned hero.
+Despite how he looks, he's a|tested and seasoned hero.
 IF SEEN, PLEASE REPORT THIS
 //entry 13 -----------------------
 味方モエルモン
@@ -360,7 +360,7 @@ Professor
 *
 *
 なし
-His life's work is the study of fire magic.
+His life's work is the study|of fire magic.
 IF SEEN, PLEASE REPORT THIS
 //entry 14 -----------------------
 味方暗黒騎士
@@ -386,7 +386,7 @@ Inept
 *
 *
 なし
-Couldn't find a job in the Netherworld, so he came to the city.
+Couldn't find a job in the|Netherworld, so he came to|the city.
 IF SEEN, PLEASE REPORT THIS
 //entry 15 -----------------------
 味方ダークマジシャン
@@ -412,7 +412,7 @@ Professor
 *
 *
 なし
-Currently studying all manner of things.
+Currently studying all|manner of things.
 IF SEEN, PLEASE REPORT THIS
 //entry 16 -----------------------
 味方ファットデビル
@@ -438,7 +438,7 @@ Logistician
 *
 *
 なし
-Permanent honorary president of the It's Okay To Be Chubby club.
+Permanent honorary president|of the It's Okay To Be Chubby|club.
 IF SEEN, PLEASE REPORT THIS
 //entry 17 -----------------------
 味方ハラミボディ
@@ -464,7 +464,7 @@ Gourmand
 *
 *
 なし
-Specializes in defense, but can attack too. Resistant to killing blows.
+Specializes in defense, but|can attack too. Resistant to|killing blows.
 IF SEEN, PLEASE REPORT THIS
 //entry 18 -----------------------
 味方ハンマースィング
@@ -490,7 +490,7 @@ Straightlaced
 *
 *
 なし
-Takes care of those around him, so a lot of people think of him as their big brother.
+Takes care of those around|him, so a lot of people think|of him as their big brother.
 IF SEEN, PLEASE REPORT THIS
 //entry 19 -----------------------
 味方漆黒騎士
@@ -516,7 +516,7 @@ General
 *
 *
 なし
-A true Netherworld knight who acts twice as fast.
+A true Netherworld knight|who acts twice as fast.
 IF SEEN, PLEASE REPORT THIS
 //entry 20 -----------------------
 味方サキュー
@@ -542,7 +542,7 @@ Aide
 *
 *
 なし
-Originally didn't like dressing sexy, but being near Darx has made her open up.
+Originally didn't like|dressing sexy, but being near|Darx has made her open up.
 IF SEEN, PLEASE REPORT THIS
 //entry 21 -----------------------
 味方ロームス
@@ -568,7 +568,7 @@ Charismatic
 *
 *
 なし
-An unusual race of two paired demons, a rockette and a rocky.
+An unusual race of two|paired demons, a rockette and|a rocky.
 IF SEEN, PLEASE REPORT THIS
 //entry 22 -----------------------
 味方アリトン
@@ -620,7 +620,7 @@ Charismatic
 *
 *
 なし
-Especially interested in eye care.|Also, clothing.
+Especially interested in eye|care.|Also, clothing.
 IF SEEN, PLEASE REPORT THIS
 //entry 24 -----------------------
 味方リフリ
@@ -646,7 +646,7 @@ Accountant
 *
 *
 なし
-She's laid back, but surprisingly active.|Enjoys sunbathing.
+She's laid back, but|surprisingly active.|Enjoys sunbathing.
 IF SEEN, PLEASE REPORT THIS
 //entry 25 -----------------------
 味方チャミ
@@ -672,7 +672,7 @@ Festive
 *
 *
 なし
-A prankster like fairies, but knows the rumors so steers clear from Darx.
+A prankster like fairies,|but knows the rumors so|steers clear from Darx.
 IF SEEN, PLEASE REPORT THIS
 //entry 26 -----------------------
 味方フワ
@@ -698,7 +698,7 @@ Gourmand
 *
 *
 なし
-She's unusually serious for a fairy, so people are always suspicious of her.
+She's unusually serious for|a fairy, so people are always|suspicious of her.
 IF SEEN, PLEASE REPORT THIS
 //entry 27 -----------------------
 味方ブラックバード
@@ -724,7 +724,7 @@ Aide
 *
 *
 なし
-Personally wishes that she was called a whitebird.
+Personally wishes that she|was called a whitebird.
 IF SEEN, PLEASE REPORT THIS
 //entry 28 -----------------------
 味方ミノス
@@ -750,7 +750,7 @@ Subcommander
 *
 *
 なし
-Her armor is special and can only be worn by her.|Loves hammers and axes.
+Her armor is special and can|only be worn by her.|Loves hammers and axes.
 IF SEEN, PLEASE REPORT THIS
 //entry 29 -----------------------
 味方ステップ
@@ -776,7 +776,7 @@ Festive
 *
 *
 なし
-Prefers to be active and can't stand sitting still.
+Prefers to be active and|can't stand sitting still.
 IF SEEN, PLEASE REPORT THIS
 //entry 30 -----------------------
 味方ウブズ
@@ -802,7 +802,7 @@ Merchant
 *
 *
 なし
-Likes to sing, but her songs are so powerful that they can be dangerous.
+Likes to sing, but her songs|are so powerful that they can|be dangerous.
 IF SEEN, PLEASE REPORT THIS
 //entry 31 -----------------------
 味方モジ
@@ -828,7 +828,7 @@ Neat Freak
 *
 *
 なし
-Might be mistaken for regular paper.
+Might be mistaken for|regular paper.
 IF SEEN, PLEASE REPORT THIS
 //entry 32 -----------------------
 味方ペパ
@@ -854,7 +854,7 @@ Governor
 *
 *
 なし
-Used to stay in the library at Forzelotte's Palace, but decided to come to the city.
+Used to stay in the library|at Forzelotte's Palace, but|decided to come to the city.
 IF SEEN, PLEASE REPORT THIS
 //entry 33 -----------------------
 味方クラ
@@ -880,7 +880,7 @@ Logistician
 *
 *
 なし
-Be careful. They grow up fast.
+Be careful. They grow up|fast.
 IF SEEN, PLEASE REPORT THIS
 //entry 34 -----------------------
 味方ポタタ
@@ -906,7 +906,7 @@ Charismatic
 *
 *
 なし
-If it's in the sun too long, it'll shrink.
+If it's in the sun too long,|it'll shrink.
 IF SEEN, PLEASE REPORT THIS
 //entry 35 -----------------------
 味方スカイアン
@@ -958,7 +958,7 @@ Governor
 *
 *
 なし
-Hopes to one day become a real woman.
+Hopes to one day become a|real woman.
 IF SEEN, PLEASE REPORT THIS
 //entry 37 -----------------------
 味方天ベト
@@ -984,7 +984,7 @@ Subcommander
 *
 *
 なし
-Serious and dedicated, but his body isn't cut out for writing.
+Serious and dedicated, but|his body isn't cut out for|writing.
 IF SEEN, PLEASE REPORT THIS
 //entry 38 -----------------------
 味方一角ベト
@@ -1010,7 +1010,7 @@ Governor
 *
 *
 なし
-Wonders if it might have a corner and not be truly round.
+Wonders if it might have a|corner and not be truly|round.
 IF SEEN, PLEASE REPORT THIS
 //entry 39 -----------------------
 味方マル
@@ -1036,7 +1036,7 @@ Merchant
 *
 *
 なし
-Hates to be confused with goos.
+Hates to be confused with|goos.
 IF SEEN, PLEASE REPORT THIS
 //entry 40 -----------------------
 味方スーソード
@@ -1062,7 +1062,7 @@ Inept
 *
 *
 なし
-Every day, he searches for someone to properly sharpen him.
+Every day, he searches for|someone to properly sharpen|him.
 IF SEEN, PLEASE REPORT THIS
 //entry 41 -----------------------
 味方ラムバディ
@@ -1088,7 +1088,7 @@ Independent
 *
 *
 なし
-Sees meatotaurs as his natural rival.
+Sees meatotaurs as his|natural rival.
 IF SEEN, PLEASE REPORT THIS
 //entry 42 -----------------------
 味方クラム
@@ -1114,7 +1114,7 @@ Green Thumb
 *
 *
 なし
-Eats every fruit put in front of him, and then communicates the fruit's feelings.
+Eats every fruit put in|front of him, and then|communicates the fruit's|feelings.
 IF SEEN, PLEASE REPORT THIS
 //entry 43 -----------------------
 味方ダレット
@@ -1140,7 +1140,7 @@ General
 *
 *
 なし
-So reserved and unassuming that people often forget she's there.
+So reserved and unassuming|that people often forget|she's there.
 IF SEEN, PLEASE REPORT THIS
 //entry 44 -----------------------
 味方ミレニアム
@@ -1166,7 +1166,7 @@ Subcommander
 *
 *
 なし
-Shows off her breasts, but that's a racial thing, not because she's slutty.
+Shows off her breasts, but|that's a racial thing, not|because she's slutty.
 IF SEEN, PLEASE REPORT THIS
 //entry 45 -----------------------
 味方黒い婦人
@@ -1192,7 +1192,7 @@ Aide
 *
 *
 なし
-Cannot be physically touched, but is very vulnerable to magic.
+Cannot be physically|touched, but is very|vulnerable to magic.
 IF SEEN, PLEASE REPORT THIS
 //entry 46 -----------------------
 味方ライスボール
@@ -1218,7 +1218,7 @@ Charismatic
 *
 *
 なし
-Says strange things, but is a good guy and generally well-liked.
+Says strange things, but is|a good guy and generally|well-liked.
 IF SEEN, PLEASE REPORT THIS
 //entry 47 -----------------------
 味方ジューシーボディ
@@ -1244,7 +1244,7 @@ Genius
 *
 *
 なし
-Extremely smart, extremely seasoned.|Very reliable.
+Extremely smart, extremely|seasoned.|Very reliable.
 IF SEEN, PLEASE REPORT THIS
 //entry 48 -----------------------
 味方黒モーモー
@@ -1270,7 +1270,7 @@ Subcommander
 *
 *
 なし
-Is constantly being tripped over and stepped on, but has a tough spirit and doesn't let that get him down.
+Is constantly being tripped|over and stepped on, but has|a tough spirit and doesn't|let that get him down.
 IF SEEN, PLEASE REPORT THIS
 //entry 49 -----------------------
 味方レッドバード
@@ -1296,7 +1296,7 @@ Accountant
 *
 *
 なし
-Despite looking like a hot head, she's surprisingly intelligent.
+Despite looking like a hot|head, she's surprisingly|intelligent.
 IF SEEN, PLEASE REPORT THIS
 //entry 50 -----------------------
 味方ティーグレ
@@ -1322,7 +1322,7 @@ General
 *
 *
 なし
-Her race believes the strong rule the weak, and allies herself with people as strong as her.
+Her race believes the strong|rule the weak, and allies|herself with people as strong|as her.
 IF SEEN, PLEASE REPORT THIS
 //entry 51 -----------------------
 味方タートルランナー
@@ -1348,7 +1348,7 @@ Festive
 *
 *
 なし
-Is the leader of her people because she can control her turtle the best.
+Is the leader of her people|because she can control her|turtle the best.
 IF SEEN, PLEASE REPORT THIS
 //entry 52 -----------------------
 味方ブラウ
@@ -1374,7 +1374,7 @@ Professor
 *
 *
 なし
-Pretends to be smart, but in the end, is hit first, talk later.|Proud of her swordsmanship.
+Pretends to be smart, but in|the end, is hit first, talk|later.|Proud of her swordsmanship.
 IF SEEN, PLEASE REPORT THIS
 //entry 53 -----------------------
 味方リーフウッド
@@ -1400,7 +1400,7 @@ Aide
 *
 *
 なし
-A moderate, but sometimes supports extreme acts in the name of peace.|Enjoys growing plants.
+A moderate, but sometimes|supports extreme acts in the|name of peace.|Enjoys growing plants.
 IF SEEN, PLEASE REPORT THIS
 //entry 54 -----------------------
 味方サマキュー
@@ -1426,7 +1426,7 @@ Independent
 *
 *
 なし
-Hard to believe she's a leader with how carefree and unrestrained she is.|Works hard in secret to protect her former followers.
+Hard to believe she's a|leader with how carefree and|unrestrained she is.|Works hard in secret to|protect her former|followers.
 IF SEEN, PLEASE REPORT THIS
 //entry 55 -----------------------
 味方ルーセット
@@ -1452,7 +1452,7 @@ Subcommander
 *
 *
 なし
-Can sleep while hanging from the ceiling, but has also been known to fall.
+Can sleep while hanging from|the ceiling, but has also|been known to fall.
 IF SEEN, PLEASE REPORT THIS
 //entry 56 -----------------------
 味方アイスショット
@@ -1478,7 +1478,7 @@ Accountant
 *
 *
 なし
-Usually quiet, but isn't afraid to stab mercilessly with her icicles.
+Usually quiet, but isn't|afraid to stab mercilessly|with her icicles.
 IF SEEN, PLEASE REPORT THIS
 //entry 57 -----------------------
 味方アンゴラメイ
@@ -1504,7 +1504,7 @@ Governor
 *
 *
 なし
-Her species are natural mothers and great at raising children.
+Her species are natural|mothers and great at raising|children.
 IF SEEN, PLEASE REPORT THIS
 //entry 58 -----------------------
 味方ミアルテ
@@ -1530,7 +1530,7 @@ Politician
 *
 *
 なし
-Used to have a high position in the Holy Light, but is now one of Darx's mistresses.|Proud of the size of her chest.
+Used to have a high position|in the Holy Light, but is now|one of Darx's mistresses.|Proud of the size of her|chest.
 IF SEEN, PLEASE REPORT THIS
 //entry 59 -----------------------
 味方ルーアルテ
@@ -1556,7 +1556,7 @@ Genius
 *
 *
 なし
-Has a lot of potential, but is very impatient.
+Has a lot of potential, but|is very impatient.
 IF SEEN, PLEASE REPORT THIS
 //entry 60 -----------------------
 味方キュリハ
@@ -1582,7 +1582,7 @@ Eminent
 *
 *
 なし
-Was going to be a leader of the Holy Seed.|Is eminently capable, but seems to have a wild past.
+Was going to be a leader of|the Holy Seed.|Is eminently capable, but|seems to have a wild past.
 IF SEEN, PLEASE REPORT THIS
 //entry 61 -----------------------
 味方商会メイドＡ
@@ -1608,7 +1608,7 @@ Accountant
 *
 *
 なし
-Strictly speaking, she's not a company maid, but a mercenary.
+Strictly speaking, she's not|a company maid, but a|mercenary.
 IF SEEN, PLEASE REPORT THIS
 //entry 62 -----------------------
 味方商会メイドＢ
@@ -1634,7 +1634,7 @@ Logistician
 *
 *
 なし
-Strictly speaking, she's not a company maid, but a mercenary.
+Strictly speaking, she's not|a company maid, but a|mercenary.
 IF SEEN, PLEASE REPORT THIS
 //entry 63 -----------------------
 味方商会メイドＣ
@@ -1660,7 +1660,7 @@ Gourmand
 *
 *
 なし
-Strictly speaking, she's not a company maid, but a mercenary.
+Strictly speaking, she's not|a company maid, but a|mercenary.
 IF SEEN, PLEASE REPORT THIS
 //entry 64 -----------------------
 味方戦士
@@ -1686,7 +1686,7 @@ General
 *
 *
 なし
-Cursed by her sword, but actually is also a sword fanatic.
+Cursed by her sword, but|actually is also a sword|fanatic.
 IF SEEN, PLEASE REPORT THIS
 //entry 65 -----------------------
 味方僧侶
@@ -1712,7 +1712,7 @@ Subcommander
 *
 *
 なし
-Was fanatical to start, but the object of her obsession has become Darx...
+Was fanatical to start, but|the object of her obsession|has become Darx...
 IF SEEN, PLEASE REPORT THIS
 //entry 66 -----------------------
 味方魔法使い
@@ -1738,7 +1738,7 @@ Logistician
 *
 *
 なし
-An overzealous wizard. Gets along with Darx, demons, and angels without any issue.
+An overzealous wizard. Gets|along with Darx, demons, and|angels without any issue.
 IF SEEN, PLEASE REPORT THIS
 //entry 67 -----------------------
 味方侍
@@ -1764,7 +1764,7 @@ Independent
 *
 *
 なし
-A very frustrated samurai. Extremely competent when she's not going berserk.
+A very frustrated samurai.|Extremely competent when|she's not going berserk.
 IF SEEN, PLEASE REPORT THIS
 //entry 68 -----------------------
 味方マリーアリス
@@ -1790,7 +1790,7 @@ Commander
 *
 *
 なし
-Commander of the Overlord's guard. Probably isn't supposed to be here, but pays it no mind.
+Commander of the Overlord's|guard. Probably isn't|supposed to be here, but pays|it no mind.
 IF SEEN, PLEASE REPORT THIS
 //entry 69 -----------------------
 味方フィリアネ
@@ -1816,7 +1816,7 @@ Aide
 *
 *
 なし
-A master of parenting.|Wants to focus on that instead of fighting.
+A master of parenting.|Wants to focus on that|instead of fighting.
 IF SEEN, PLEASE REPORT THIS
 //entry 70 -----------------------
 味方エカテー
@@ -1842,7 +1842,7 @@ Eminent
 *
 *
 なし
-Her love is so deep that it becomes dangerous.
+Her love is so deep that it|becomes dangerous.
 IF SEEN, PLEASE REPORT THIS
 //entry 71 -----------------------
 味方パニバーナ
@@ -1868,7 +1868,7 @@ General
 *
 *
 なし
-Sometimes works even harder than she did when she was in Celestia.
+Sometimes works even harder|than she did when she was in|Celestia.
 IF SEEN, PLEASE REPORT THIS
 //entry 72 -----------------------
 味方イザナ
@@ -1894,7 +1894,7 @@ Professor
 *
 *
 なし
-A former researcher, but was enchanted by education and became a teacher.
+A former researcher, but was|enchanted by education and|became a teacher.
 IF SEEN, PLEASE REPORT THIS
 //entry 73 -----------------------
 味方ウルティニア
@@ -1920,7 +1920,7 @@ Politician
 *
 *
 なし
-Works with Paniverna to handle the immigrants from Celestia for Darx.
+Works with Paniverna to|handle the immigrants from|Celestia for Darx.
 IF SEEN, PLEASE REPORT THIS
 //entry 74 -----------------------
 ウルフＡ
@@ -2024,7 +2024,7 @@ Bureaucrat
 *
 *
 なし
-Has an iron defense.|Will be offended if you think it's a regular bear.
+Has an iron defense.|Will be offended if you think|it's a regular bear.
 IF SEEN, PLEASE REPORT THIS
 //entry 78 -----------------------
 クマンＢ
@@ -2050,7 +2050,7 @@ Bureaucrat
 *
 *
 なし
-Has an iron defense.|Will be offended if you think it's a regular bear.
+Has an iron defense.|Will be offended if you think|it's a regular bear.
 IF SEEN, PLEASE REPORT THIS
 //entry 79 -----------------------
 クマンＣ
@@ -2076,7 +2076,7 @@ Bureaucrat
 *
 *
 なし
-Has an iron defense.|Will be offended if you think it's a regular bear.
+Has an iron defense.|Will be offended if you think|it's a regular bear.
 IF SEEN, PLEASE REPORT THIS
 //entry 80 -----------------------
 ブーブＡ
@@ -2102,7 +2102,7 @@ Green Thumb
 *
 *
 なし
-A steadfast guard.|They consider werebears to be their rivals, but the other side ignores them.
+A steadfast guard.|They consider werebears to be|their rivals, but the other|side ignores them.
 IF SEEN, PLEASE REPORT THIS
 //entry 81 -----------------------
 ブーブＢ
@@ -2128,7 +2128,7 @@ Green Thumb
 *
 *
 なし
-A steadfast guard.|They consider werebears to be their rivals, but the other side ignores them.
+A steadfast guard.|They consider werebears to be|their rivals, but the other|side ignores them.
 IF SEEN, PLEASE REPORT THIS
 //entry 82 -----------------------
 ブーブＣ
@@ -2154,7 +2154,7 @@ Green Thumb
 *
 *
 なし
-A steadfast guard.|They consider werebears to be their rivals, but the other side ignores them.
+A steadfast guard.|They consider werebears to be|their rivals, but the other|side ignores them.
 IF SEEN, PLEASE REPORT THIS
 //entry 83 -----------------------
 ドリツルＡ
@@ -2180,7 +2180,7 @@ Green Thumb
 *
 *
 なし
-Tends to be aggressive, but is actually a kind-hearted plant.
+Tends to be aggressive, but|is actually a kind-hearted|plant.
 IF SEEN, PLEASE REPORT THIS
 //entry 84 -----------------------
 ドリツルＢ
@@ -2206,7 +2206,7 @@ Green Thumb
 *
 *
 なし
-Tends to be aggressive, but is actually a kind-hearted plant.
+Tends to be aggressive, but|is actually a kind-hearted|plant.
 IF SEEN, PLEASE REPORT THIS
 //entry 85 -----------------------
 ドリツルＣ
@@ -2232,7 +2232,7 @@ Green Thumb
 *
 *
 なし
-Tends to be aggressive, but is actually a kind-hearted plant.
+Tends to be aggressive, but|is actually a kind-hearted|plant.
 IF SEEN, PLEASE REPORT THIS
 //entry 86 -----------------------
 ツルルＡ
@@ -2258,7 +2258,7 @@ Green Thumb
 *
 *
 なし
-Prefers to hold its ground, but when there's sun to be had, becomes relentless.
+Prefers to hold its ground,|but when there's sun to be|had, becomes relentless.
 IF SEEN, PLEASE REPORT THIS
 //entry 87 -----------------------
 ツルルＢ
@@ -2284,7 +2284,7 @@ Green Thumb
 *
 *
 なし
-Prefers to hold its ground, but when there's sun to be had, becomes relentless.
+Prefers to hold its ground,|but when there's sun to be|had, becomes relentless.
 IF SEEN, PLEASE REPORT THIS
 //entry 88 -----------------------
 ツルルＣ
@@ -2310,7 +2310,7 @@ Green Thumb
 *
 *
 なし
-Prefers to hold its ground, but when there's sun to be had, becomes relentless.
+Prefers to hold its ground,|but when there's sun to be|had, becomes relentless.
 IF SEEN, PLEASE REPORT THIS
 //entry 89 -----------------------
 ホネＡ
@@ -2336,7 +2336,7 @@ Straightlaced
 *
 *
 なし
-Their unique appearance puts fear into their enemies.
+Their unique appearance puts|fear into their enemies.
 IF SEEN, PLEASE REPORT THIS
 //entry 90 -----------------------
 ホネＢ
@@ -2362,7 +2362,7 @@ Straightlaced
 *
 *
 なし
-Their unique appearance puts fear into their enemies.
+Their unique appearance puts|fear into their enemies.
 IF SEEN, PLEASE REPORT THIS
 //entry 91 -----------------------
 ホネＣ
@@ -2388,7 +2388,7 @@ Straightlaced
 *
 *
 なし
-Their unique appearance puts fear into their enemies.
+Their unique appearance puts|fear into their enemies.
 IF SEEN, PLEASE REPORT THIS
 //entry 92 -----------------------
 フニＡ
@@ -2414,7 +2414,7 @@ Merchant
 *
 *
 なし
-Someone who died with a grudge.|Is very conscious of how they smell.
+Someone who died with a|grudge.|Is very conscious of how they|smell.
 IF SEEN, PLEASE REPORT THIS
 //entry 93 -----------------------
 フニＢ
@@ -2440,7 +2440,7 @@ Merchant
 *
 *
 なし
-Someone who died with a grudge.|Is very conscious of how they smell.
+Someone who died with a|grudge.|Is very conscious of how they|smell.
 IF SEEN, PLEASE REPORT THIS
 //entry 94 -----------------------
 フニＣ
@@ -2466,7 +2466,7 @@ Merchant
 *
 *
 なし
-Someone who died with a grudge.|Is very conscious of how they smell.
+Someone who died with a|grudge.|Is very conscious of how they|smell.
 IF SEEN, PLEASE REPORT THIS
 //entry 95 -----------------------
 ガンゾＡ
@@ -2492,7 +2492,7 @@ Charismatic
 *
 *
 なし
-A very hard head.|Struggles to tell the difference between a stone and a rock.
+A very hard head.|Struggles to tell the|difference between a stone|and a rock.
 IF SEEN, PLEASE REPORT THIS
 //entry 96 -----------------------
 ガンゾＢ
@@ -2518,7 +2518,7 @@ Charismatic
 *
 *
 なし
-A very hard head.|Struggles to tell the difference between a stone and a rock.
+A very hard head.|Struggles to tell the|difference between a stone|and a rock.
 IF SEEN, PLEASE REPORT THIS
 //entry 97 -----------------------
 ガンゾＣ
@@ -2544,7 +2544,7 @@ Charismatic
 *
 *
 なし
-A very hard head.|Struggles to tell the difference between a stone and a rock.
+A very hard head.|Struggles to tell the|difference between a stone|and a rock.
 IF SEEN, PLEASE REPORT THIS
 //entry 98 -----------------------
 トットリーＡ
@@ -2570,7 +2570,7 @@ Accountant
 *
 *
 なし
-Are very insistent that they do no taste any good.
+Are very insistent that they|do no taste any good.
 IF SEEN, PLEASE REPORT THIS
 //entry 99 -----------------------
 トットリーＢ
@@ -2596,7 +2596,7 @@ Accountant
 *
 *
 なし
-Are very insistent that they do no taste any good.
+Are very insistent that they|do no taste any good.
 IF SEEN, PLEASE REPORT THIS
 //entry 100 -----------------------
 トットリーＣ
@@ -2622,7 +2622,7 @@ Accountant
 *
 *
 なし
-Are very insistent that they do no taste any good.
+Are very insistent that they|do no taste any good.
 IF SEEN, PLEASE REPORT THIS
 //entry 101 -----------------------
 ミラリンＡ
@@ -2648,7 +2648,7 @@ Professor
 *
 *
 なし
-Can manipulate the reflected image, so is popular with women.
+Can manipulate the reflected|image, so is popular with|women.
 IF SEEN, PLEASE REPORT THIS
 //entry 102 -----------------------
 ミラリンＢ
@@ -2674,7 +2674,7 @@ Professor
 *
 *
 なし
-Can manipulate the reflected image, so is popular with women.
+Can manipulate the reflected|image, so is popular with|women.
 IF SEEN, PLEASE REPORT THIS
 //entry 103 -----------------------
 ミラリンＣ
@@ -2700,7 +2700,7 @@ Professor
 *
 *
 なし
-Can manipulate the reflected image, so is popular with women.
+Can manipulate the reflected|image, so is popular with|women.
 IF SEEN, PLEASE REPORT THIS
 //entry 104 -----------------------
 ズンバラＡ
@@ -2726,7 +2726,7 @@ General
 *
 *
 なし
-A regular sword that became sentient.|Its personality depends on how it was treated before life.
+A regular sword that became|sentient.|Its personality depends on|how it was treated before|life.
 IF SEEN, PLEASE REPORT THIS
 //entry 105 -----------------------
 ズンバラＢ
@@ -2752,7 +2752,7 @@ General
 *
 *
 なし
-A regular sword that became sentient.|Its personality depends on how it was treated before life.
+A regular sword that became|sentient.|Its personality depends on|how it was treated before|life.
 IF SEEN, PLEASE REPORT THIS
 //entry 106 -----------------------
 ズンバラＣ
@@ -2778,7 +2778,7 @@ General
 *
 *
 なし
-A regular sword that became sentient.|Its personality depends on how it was treated before life.
+A regular sword that became|sentient.|Its personality depends on|how it was treated before|life.
 IF SEEN, PLEASE REPORT THIS
 //entry 107 -----------------------
 ベトＡ
@@ -2804,7 +2804,7 @@ Charismatic
 *
 *
 なし
-Some think they're cute. Some think they're creepy.
+Some think they're cute.|Some think they're creepy.
 IF SEEN, PLEASE REPORT THIS
 //entry 108 -----------------------
 ベトＢ
@@ -2830,7 +2830,7 @@ Charismatic
 *
 *
 なし
-Some think they're cute. Some think they're creepy.
+Some think they're cute.|Some think they're creepy.
 IF SEEN, PLEASE REPORT THIS
 //entry 109 -----------------------
 ベトＣ
@@ -2856,7 +2856,7 @@ Charismatic
 *
 *
 なし
-Some think they're cute. Some think they're creepy.
+Some think they're cute.|Some think they're creepy.
 IF SEEN, PLEASE REPORT THIS
 //entry 110 -----------------------
 ナメッドＡ
@@ -2882,7 +2882,7 @@ Aide
 *
 *
 なし
-Giant slugs that scare the untrained.
+Giant slugs that scare the|untrained.
 IF SEEN, PLEASE REPORT THIS
 //entry 111 -----------------------
 ナメッドＢ
@@ -2908,7 +2908,7 @@ Aide
 *
 *
 なし
-Giant slugs that scare the untrained.
+Giant slugs that scare the|untrained.
 IF SEEN, PLEASE REPORT THIS
 //entry 112 -----------------------
 ナメッドＣ
@@ -2934,7 +2934,7 @@ Aide
 *
 *
 なし
-Giant slugs that scare the untrained.
+Giant slugs that scare the|untrained.
 IF SEEN, PLEASE REPORT THIS
 //entry 113 -----------------------
 モエルモンＡ
@@ -2960,7 +2960,7 @@ Professor
 *
 *
 なし
-Often accidentally burns itself with its own fire.
+Often accidentally burns|itself with its own fire.
 IF SEEN, PLEASE REPORT THIS
 //entry 114 -----------------------
 モエルモンＢ
@@ -2986,7 +2986,7 @@ Professor
 *
 *
 なし
-Often accidentally burns itself with its own fire.
+Often accidentally burns|itself with its own fire.
 IF SEEN, PLEASE REPORT THIS
 //entry 115 -----------------------
 モエルモンＣ
@@ -3012,7 +3012,7 @@ Professor
 *
 *
 なし
-Often accidentally burns itself with its own fire.
+Often accidentally burns|itself with its own fire.
 IF SEEN, PLEASE REPORT THIS
 //entry 116 -----------------------
 暗黒騎士Ａ
@@ -3038,7 +3038,7 @@ Inept
 *
 *
 なし
-Has sworn to never fall to just one blow.
+Has sworn to never fall to|just one blow.
 IF SEEN, PLEASE REPORT THIS
 //entry 117 -----------------------
 暗黒騎士Ｂ
@@ -3064,7 +3064,7 @@ Inept
 *
 *
 なし
-Has sworn to never fall to just one blow.
+Has sworn to never fall to|just one blow.
 IF SEEN, PLEASE REPORT THIS
 //entry 118 -----------------------
 暗黒騎士Ｃ
@@ -3090,7 +3090,7 @@ Inept
 *
 *
 なし
-Has sworn to never fall to just one blow.
+Has sworn to never fall to|just one blow.
 IF SEEN, PLEASE REPORT THIS
 //entry 119 -----------------------
 ダークマンＡ
@@ -3116,7 +3116,7 @@ General
 *
 *
 なし
-Frequently seen filling the ranks of the Netherworld's army.
+Frequently seen filling the|ranks of the Netherworld's|army.
 IF SEEN, PLEASE REPORT THIS
 //entry 120 -----------------------
 ダークマンＢ
@@ -3142,7 +3142,7 @@ General
 *
 *
 なし
-Frequently seen filling the ranks of the Netherworld's army.
+Frequently seen filling the|ranks of the Netherworld's|army.
 IF SEEN, PLEASE REPORT THIS
 //entry 121 -----------------------
 ダークマンＣ
@@ -3168,7 +3168,7 @@ General
 *
 *
 なし
-Frequently seen filling the ranks of the Netherworld's army.
+Frequently seen filling the|ranks of the Netherworld's|army.
 IF SEEN, PLEASE REPORT THIS
 //entry 122 -----------------------
 ダークマジシャンＡ
@@ -3194,7 +3194,7 @@ Professor
 *
 *
 なし
-Most demons use magic, but don't mention that around them.
+Most demons use magic, but|don't mention that around|them.
 IF SEEN, PLEASE REPORT THIS
 //entry 123 -----------------------
 ダークマジシャンＢ
@@ -3220,7 +3220,7 @@ Professor
 *
 *
 なし
-Most demons use magic, but don't mention that around them.
+Most demons use magic, but|don't mention that around|them.
 IF SEEN, PLEASE REPORT THIS
 //entry 124 -----------------------
 ダークマジシャンＣ
@@ -3246,7 +3246,7 @@ Professor
 *
 *
 なし
-Most demons use magic, but don't mention that around them.
+Most demons use magic, but|don't mention that around|them.
 IF SEEN, PLEASE REPORT THIS
 //entry 125 -----------------------
 ファニードラＡ
@@ -3272,7 +3272,7 @@ Independent
 *
 *
 なし
-Completely unrelated to actual dragons.
+Completely unrelated to|actual dragons.
 IF SEEN, PLEASE REPORT THIS
 //entry 126 -----------------------
 ファニードラＢ
@@ -3298,7 +3298,7 @@ Independent
 *
 *
 なし
-Completely unrelated to actual dragons.
+Completely unrelated to|actual dragons.
 IF SEEN, PLEASE REPORT THIS
 //entry 127 -----------------------
 ファニードラＣ
@@ -3324,7 +3324,7 @@ Independent
 *
 *
 なし
-Completely unrelated to actual dragons.
+Completely unrelated to|actual dragons.
 IF SEEN, PLEASE REPORT THIS
 //entry 128 -----------------------
 イモモＡ
@@ -3350,7 +3350,7 @@ Subcommander
 *
 *
 なし
-Sometimes, you see them turn into hell butterflies.
+Sometimes, you see them turn|into hell butterflies.
 IF SEEN, PLEASE REPORT THIS
 //entry 129 -----------------------
 イモモＢ
@@ -3376,7 +3376,7 @@ Subcommander
 *
 *
 なし
-Sometimes, you see them turn into hell butterflies.
+Sometimes, you see them turn|into hell butterflies.
 IF SEEN, PLEASE REPORT THIS
 //entry 130 -----------------------
 イモモＣ
@@ -3402,7 +3402,7 @@ Subcommander
 *
 *
 なし
-Sometimes, you see them turn into hell butterflies.
+Sometimes, you see them turn|into hell butterflies.
 IF SEEN, PLEASE REPORT THIS
 //entry 131 -----------------------
 ミックスＡ
@@ -3428,7 +3428,7 @@ Commander
 *
 *
 なし
-Very clever, and very skilled with magic.
+Very clever, and very|skilled with magic.
 IF SEEN, PLEASE REPORT THIS
 //entry 132 -----------------------
 ミックスＢ
@@ -3454,7 +3454,7 @@ Commander
 *
 *
 なし
-Very clever, and very skilled with magic.
+Very clever, and very|skilled with magic.
 IF SEEN, PLEASE REPORT THIS
 //entry 133 -----------------------
 ミックスＣ
@@ -3480,7 +3480,7 @@ Commander
 *
 *
 なし
-Very clever, and very skilled with magic.
+Very clever, and very|skilled with magic.
 IF SEEN, PLEASE REPORT THIS
 //entry 134 -----------------------
 ファットデビルＡ
@@ -3506,7 +3506,7 @@ Logistician
 *
 *
 なし
-Likes to think about how to fatten up thin people.
+Likes to think about how to|fatten up thin people.
 IF SEEN, PLEASE REPORT THIS
 //entry 135 -----------------------
 ファットデビルＢ
@@ -3532,7 +3532,7 @@ Logistician
 *
 *
 なし
-Likes to think about how to fatten up thin people.
+Likes to think about how to|fatten up thin people.
 IF SEEN, PLEASE REPORT THIS
 //entry 136 -----------------------
 ファットデビルＣ
@@ -3558,7 +3558,7 @@ Logistician
 *
 *
 なし
-Likes to think about how to fatten up thin people.
+Likes to think about how to|fatten up thin people.
 IF SEEN, PLEASE REPORT THIS
 //entry 137 -----------------------
 ハラミボディＡ
@@ -3584,7 +3584,7 @@ Gourmand
 *
 *
 なし
-Good at defense, but can also attack. Very resistant to deadly blows.
+Good at defense, but can|also attack. Very resistant|to deadly blows.
 IF SEEN, PLEASE REPORT THIS
 //entry 138 -----------------------
 ハラミボディＢ
@@ -3610,7 +3610,7 @@ Gourmand
 *
 *
 なし
-Good at defense, but can also attack. Very resistant to deadly blows.
+Good at defense, but can|also attack. Very resistant|to deadly blows.
 IF SEEN, PLEASE REPORT THIS
 //entry 139 -----------------------
 ハラミボディＣ
@@ -3636,7 +3636,7 @@ Gourmand
 *
 *
 なし
-Good at defense, but can also attack. Very resistant to deadly blows.
+Good at defense, but can|also attack. Very resistant|to deadly blows.
 IF SEEN, PLEASE REPORT THIS
 //entry 140 -----------------------
 ハンマースィングＡ
@@ -3662,7 +3662,7 @@ Straightlaced
 *
 *
 なし
-Thought of as the big brothers to many different races of demon.
+Thought of as the big|brothers to many different|races of demon.
 IF SEEN, PLEASE REPORT THIS
 //entry 141 -----------------------
 ハンマースィングＢ
@@ -3688,7 +3688,7 @@ Straightlaced
 *
 *
 なし
-Thought of as the big brothers to many different races of demon.
+Thought of as the big|brothers to many different|races of demon.
 IF SEEN, PLEASE REPORT THIS
 //entry 142 -----------------------
 ハンマースィングＣ
@@ -3714,7 +3714,7 @@ Straightlaced
 *
 *
 なし
-Thought of as the big brothers to many different races of demon.
+Thought of as the big|brothers to many different|races of demon.
 IF SEEN, PLEASE REPORT THIS
 //entry 143 -----------------------
 漆黒騎士Ａ
@@ -3740,7 +3740,7 @@ General
 *
 *
 なし
-A true demon knight who acts fast and decisively.
+A true demon knight who acts|fast and decisively.
 IF SEEN, PLEASE REPORT THIS
 //entry 144 -----------------------
 小暗黒球Ａ
@@ -3766,7 +3766,7 @@ Inept
 *
 *
 なし
-Takes centuries for it to grow to its mature form.
+Takes centuries for it to|grow to its mature form.
 IF SEEN, PLEASE REPORT THIS
 //entry 145 -----------------------
 小暗黒球Ｂ
@@ -3792,7 +3792,7 @@ Inept
 *
 *
 なし
-Takes centuries for it to grow to its mature form.
+Takes centuries for it to|grow to its mature form.
 IF SEEN, PLEASE REPORT THIS
 //entry 146 -----------------------
 小暗黒球Ｃ
@@ -3818,7 +3818,7 @@ Inept
 *
 *
 なし
-Takes centuries for it to grow to its mature form.
+Takes centuries for it to|grow to its mature form.
 IF SEEN, PLEASE REPORT THIS
 //entry 147 -----------------------
 大暗黒球Ａ
@@ -3844,7 +3844,7 @@ Independent
 *
 *
 なし
-Were created to transport things through the Netherworld.
+Were created to transport|things through the|Netherworld.
 IF SEEN, PLEASE REPORT THIS
 //entry 148 -----------------------
 大暗黒球Ｂ
@@ -3870,7 +3870,7 @@ Independent
 *
 *
 なし
-Were created to transport things through the Netherworld.
+Were created to transport|things through the|Netherworld.
 IF SEEN, PLEASE REPORT THIS
 //entry 149 -----------------------
 大暗黒球Ｃ
@@ -3896,7 +3896,7 @@ Independent
 *
 *
 なし
-Were created to transport things through the Netherworld.
+Were created to transport|things through the|Netherworld.
 IF SEEN, PLEASE REPORT THIS
 //entry 150 -----------------------
 炎の精霊Ａ
@@ -3922,7 +3922,7 @@ Inept
 *
 *
 なし
-Like all spirits, hard to shackle down.
+Like all spirits, hard to|shackle down.
 IF SEEN, PLEASE REPORT THIS
 //entry 151 -----------------------
 炎の精霊Ｂ
@@ -3948,7 +3948,7 @@ Inept
 *
 *
 なし
-Like all spirits, hard to shackle down.
+Like all spirits, hard to|shackle down.
 IF SEEN, PLEASE REPORT THIS
 //entry 152 -----------------------
 炎の精霊Ｃ
@@ -3974,7 +3974,7 @@ Inept
 *
 *
 なし
-Like all spirits, hard to shackle down.
+Like all spirits, hard to|shackle down.
 IF SEEN, PLEASE REPORT THIS
 //entry 153 -----------------------
 氷の精霊Ａ
@@ -4000,7 +4000,7 @@ Inept
 *
 *
 なし
-Rarely suffers from regular afflictions.
+Rarely suffers from regular|afflictions.
 IF SEEN, PLEASE REPORT THIS
 //entry 154 -----------------------
 氷の精霊Ｂ
@@ -4026,7 +4026,7 @@ Inept
 *
 *
 なし
-Rarely suffers from regular afflictions.
+Rarely suffers from regular|afflictions.
 IF SEEN, PLEASE REPORT THIS
 //entry 155 -----------------------
 氷の精霊Ｃ
@@ -4052,7 +4052,7 @@ Inept
 *
 *
 なし
-Rarely suffers from regular afflictions.
+Rarely suffers from regular|afflictions.
 IF SEEN, PLEASE REPORT THIS
 //entry 156 -----------------------
 サキューＡ
@@ -4078,7 +4078,7 @@ Aide
 *
 *
 なし
-Dressing sexy isn't by choice, it's the law of succubi.
+Dressing sexy isn't by|choice, it's the law of|succubi.
 IF SEEN, PLEASE REPORT THIS
 //entry 157 -----------------------
 サキューＢ
@@ -4104,7 +4104,7 @@ Aide
 *
 *
 なし
-Dressing sexy isn't by choice, it's the law of succubi.
+Dressing sexy isn't by|choice, it's the law of|succubi.
 IF SEEN, PLEASE REPORT THIS
 //entry 158 -----------------------
 サキューＣ
@@ -4130,7 +4130,7 @@ Aide
 *
 *
 なし
-Dressing sexy isn't by choice, it's the law of succubi.
+Dressing sexy isn't by|choice, it's the law of|succubi.
 IF SEEN, PLEASE REPORT THIS
 //entry 159 -----------------------
 ロームスＡ
@@ -4156,7 +4156,7 @@ Charismatic
 *
 *
 なし
-Made up of a Rockette riding a Rocky.
+Made up of a Rockette riding|a Rocky.
 IF SEEN, PLEASE REPORT THIS
 //entry 160 -----------------------
 ロームスＢ
@@ -4182,7 +4182,7 @@ Charismatic
 *
 *
 なし
-Made up of a Rockette riding a Rocky.
+Made up of a Rockette riding|a Rocky.
 IF SEEN, PLEASE REPORT THIS
 //entry 161 -----------------------
 ロームスＣ
@@ -4208,7 +4208,7 @@ Charismatic
 *
 *
 なし
-Made up of a Rockette riding a Rocky.
+Made up of a Rockette riding|a Rocky.
 IF SEEN, PLEASE REPORT THIS
 //entry 162 -----------------------
 ウォールＡ
@@ -4234,7 +4234,7 @@ Logistician
 *
 *
 なし
-Surprisingly laid back.|The female carved on him is just for appearances.
+Surprisingly laid back.|The female carved on him is|just for appearances.
 IF SEEN, PLEASE REPORT THIS
 //entry 163 -----------------------
 ウォールＢ
@@ -4260,7 +4260,7 @@ Logistician
 *
 *
 なし
-Surprisingly laid back.|The female carved on him is just for appearances.
+Surprisingly laid back.|The female carved on him is|just for appearances.
 IF SEEN, PLEASE REPORT THIS
 //entry 164 -----------------------
 ウォールＣ
@@ -4286,7 +4286,7 @@ Logistician
 *
 *
 なし
-Surprisingly laid back.|The female carved on him is just for appearances.
+Surprisingly laid back.|The female carved on him is|just for appearances.
 IF SEEN, PLEASE REPORT THIS
 //entry 165 -----------------------
 アリトンＡ
@@ -4312,7 +4312,7 @@ Subcommander
 *
 *
 なし
-Highly regarded as a warrior, and can be found hard at work all over.
+Highly regarded as a|warrior, and can be found|hard at work all over.
 IF SEEN, PLEASE REPORT THIS
 //entry 166 -----------------------
 アリトンＢ
@@ -4338,7 +4338,7 @@ Subcommander
 *
 *
 なし
-Highly regarded as a warrior, and can be found hard at work all over.
+Highly regarded as a|warrior, and can be found|hard at work all over.
 IF SEEN, PLEASE REPORT THIS
 //entry 167 -----------------------
 アリトンＣ
@@ -4364,7 +4364,7 @@ Subcommander
 *
 *
 なし
-Highly regarded as a warrior, and can be found hard at work all over.
+Highly regarded as a|warrior, and can be found|hard at work all over.
 IF SEEN, PLEASE REPORT THIS
 //entry 168 -----------------------
 ノーホＡ
@@ -4390,7 +4390,7 @@ Aide
 *
 *
 なし
-Willing and capable of taking on all the enemies in every fight.
+Willing and capable of|taking on all the enemies in|every fight.
 IF SEEN, PLEASE REPORT THIS
 //entry 169 -----------------------
 ノーホＢ
@@ -4416,7 +4416,7 @@ Aide
 *
 *
 なし
-Willing and capable of taking on all the enemies in every fight.
+Willing and capable of|taking on all the enemies in|every fight.
 IF SEEN, PLEASE REPORT THIS
 //entry 170 -----------------------
 ノーホＣ
@@ -4442,7 +4442,7 @@ Aide
 *
 *
 なし
-Willing and capable of taking on all the enemies in every fight.
+Willing and capable of|taking on all the enemies in|every fight.
 IF SEEN, PLEASE REPORT THIS
 //entry 171 -----------------------
 フライングカーグＡ
@@ -4468,7 +4468,7 @@ Governor
 *
 *
 なし
-Apparently delicious, but they tell everybody that their poisonous.
+Apparently delicious, but|they tell everybody that|their poisonous.
 IF SEEN, PLEASE REPORT THIS
 //entry 172 -----------------------
 フライングカーグＢ
@@ -4494,7 +4494,7 @@ Governor
 *
 *
 なし
-Apparently delicious, but they tell everybody that their poisonous.
+Apparently delicious, but|they tell everybody that|their poisonous.
 IF SEEN, PLEASE REPORT THIS
 //entry 173 -----------------------
 フライングカーグＣ
@@ -4520,7 +4520,7 @@ Governor
 *
 *
 なし
-Apparently delicious, but they tell everybody that their poisonous.
+Apparently delicious, but|they tell everybody that|their poisonous.
 IF SEEN, PLEASE REPORT THIS
 //entry 174 -----------------------
 スリーアイＡ
@@ -4546,7 +4546,7 @@ Charismatic
 *
 *
 なし
-They see all with their third eye.
+They see all with their|third eye.
 IF SEEN, PLEASE REPORT THIS
 //entry 175 -----------------------
 スリーアイＢ
@@ -4572,7 +4572,7 @@ Charismatic
 *
 *
 なし
-They see all with their third eye.
+They see all with their|third eye.
 IF SEEN, PLEASE REPORT THIS
 //entry 176 -----------------------
 スリーアイＣ
@@ -4598,7 +4598,7 @@ Charismatic
 *
 *
 なし
-They see all with their third eye.
+They see all with their|third eye.
 IF SEEN, PLEASE REPORT THIS
 //entry 177 -----------------------
 リフリＡ
@@ -4702,7 +4702,7 @@ Genius
 *
 *
 なし
-Think they're cute, but others disagree.|Vicious in their own way.
+Think they're cute, but|others disagree.|Vicious in their own way.
 IF SEEN, PLEASE REPORT THIS
 //entry 181 -----------------------
 ラッドＢ
@@ -4728,7 +4728,7 @@ Genius
 *
 *
 なし
-Think they're cute, but others disagree.|Vicious in their own way.
+Think they're cute, but|others disagree.|Vicious in their own way.
 IF SEEN, PLEASE REPORT THIS
 //entry 182 -----------------------
 ラッドＣ
@@ -4754,7 +4754,7 @@ Genius
 *
 *
 なし
-Think they're cute, but others disagree.|Vicious in their own way.
+Think they're cute, but|others disagree.|Vicious in their own way.
 IF SEEN, PLEASE REPORT THIS
 //entry 183 -----------------------
 タイフルＡ
@@ -4780,7 +4780,7 @@ Charismatic
 *
 *
 なし
-Very influential in the Netherworld.
+Very influential in the|Netherworld.
 IF SEEN, PLEASE REPORT THIS
 //entry 184 -----------------------
 タイフルＢ
@@ -4806,7 +4806,7 @@ Charismatic
 *
 *
 なし
-Very influential in the Netherworld.
+Very influential in the|Netherworld.
 IF SEEN, PLEASE REPORT THIS
 //entry 185 -----------------------
 タイフルＣ
@@ -4832,7 +4832,7 @@ Charismatic
 *
 *
 なし
-Very influential in the Netherworld.
+Very influential in the|Netherworld.
 IF SEEN, PLEASE REPORT THIS
 //entry 186 -----------------------
 ドーラＡ
@@ -4858,7 +4858,7 @@ Neat Freak
 *
 *
 なし
-Related to goos, but not an advanced form.|Likes to play with goos though.
+Related to goos, but not an|advanced form.|Likes to play with goos|though.
 IF SEEN, PLEASE REPORT THIS
 //entry 187 -----------------------
 ドーラＢ
@@ -4884,7 +4884,7 @@ Neat Freak
 *
 *
 なし
-Related to goos, but not an advanced form.|Likes to play with goos though.
+Related to goos, but not an|advanced form.|Likes to play with goos|though.
 IF SEEN, PLEASE REPORT THIS
 //entry 188 -----------------------
 ドーラＣ
@@ -4910,7 +4910,7 @@ Neat Freak
 *
 *
 なし
-Related to goos, but not an advanced form.|Likes to play with goos though.
+Related to goos, but not an|advanced form.|Likes to play with goos|though.
 IF SEEN, PLEASE REPORT THIS
 //entry 189 -----------------------
 チャミＡ
@@ -4936,7 +4936,7 @@ Festive
 *
 *
 なし
-Very fragile, but fine as long as she doesn't get hit.
+Very fragile, but fine as|long as she doesn't get hit.
 IF SEEN, PLEASE REPORT THIS
 //entry 190 -----------------------
 チャミＢ
@@ -4962,7 +4962,7 @@ Festive
 *
 *
 なし
-Very fragile, but fine as long as she doesn't get hit.
+Very fragile, but fine as|long as she doesn't get hit.
 IF SEEN, PLEASE REPORT THIS
 //entry 191 -----------------------
 チャミＣ
@@ -4988,7 +4988,7 @@ Festive
 *
 *
 なし
-Very fragile, but fine as long as she doesn't get hit.
+Very fragile, but fine as|long as she doesn't get hit.
 IF SEEN, PLEASE REPORT THIS
 //entry 192 -----------------------
 シュシュＡ
@@ -5014,7 +5014,7 @@ Commander
 *
 *
 なし
-Burns everything around him, so daily life can be tough.
+Burns everything around him,|so daily life can be tough.
 IF SEEN, PLEASE REPORT THIS
 //entry 193 -----------------------
 シュシュＢ
@@ -5040,7 +5040,7 @@ Commander
 *
 *
 なし
-Burns everything around him, so daily life can be tough.
+Burns everything around him,|so daily life can be tough.
 IF SEEN, PLEASE REPORT THIS
 //entry 194 -----------------------
 シュシュＣ
@@ -5066,7 +5066,7 @@ Commander
 *
 *
 なし
-Burns everything around him, so daily life can be tough.
+Burns everything around him,|so daily life can be tough.
 IF SEEN, PLEASE REPORT THIS
 //entry 195 -----------------------
 モンエイＡ
@@ -5092,7 +5092,7 @@ Politician
 *
 *
 なし
-Fond of drinking, which gets him into trouble, but he can't stop.
+Fond of drinking, which gets|him into trouble, but he|can't stop.
 IF SEEN, PLEASE REPORT THIS
 //entry 196 -----------------------
 モンエイＢ
@@ -5118,7 +5118,7 @@ Politician
 *
 *
 なし
-Fond of drinking, which gets him into trouble, but he can't stop.
+Fond of drinking, which gets|him into trouble, but he|can't stop.
 IF SEEN, PLEASE REPORT THIS
 //entry 197 -----------------------
 モンエイＣ
@@ -5144,7 +5144,7 @@ Politician
 *
 *
 なし
-Fond of drinking, which gets him into trouble, but he can't stop.
+Fond of drinking, which gets|him into trouble, but he|can't stop.
 IF SEEN, PLEASE REPORT THIS
 //entry 198 -----------------------
 フロッグメンＡ
@@ -5170,7 +5170,7 @@ Professor
 *
 *
 なし
-Highly regarded among frogs.|A surprisingly studious individual.
+Highly regarded among frogs.|A surprisingly studious|individual.
 IF SEEN, PLEASE REPORT THIS
 //entry 199 -----------------------
 フロッグメンＢ
@@ -5196,7 +5196,7 @@ Professor
 *
 *
 なし
-Highly regarded among frogs.|A surprisingly studious individual.
+Highly regarded among frogs.|A surprisingly studious|individual.
 IF SEEN, PLEASE REPORT THIS
 //entry 200 -----------------------
 フロッグメンＣ
@@ -5222,7 +5222,7 @@ Professor
 *
 *
 なし
-Highly regarded among frogs.|A surprisingly studious individual.
+Highly regarded among frogs.|A surprisingly studious|individual.
 IF SEEN, PLEASE REPORT THIS
 //entry 201 -----------------------
 ガルフＡ
@@ -5248,7 +5248,7 @@ Straightlaced
 *
 *
 なし
-Speaks the human language with one head, and animal with the other.|Surprisingly intelligent.
+Speaks the human language|with one head, and animal|with the other.|Surprisingly intelligent.
 IF SEEN, PLEASE REPORT THIS
 //entry 202 -----------------------
 ガルフＢ
@@ -5274,7 +5274,7 @@ Straightlaced
 *
 *
 なし
-Speaks the human language with one head, and animal with the other.|Surprisingly intelligent.
+Speaks the human language|with one head, and animal|with the other.|Surprisingly intelligent.
 IF SEEN, PLEASE REPORT THIS
 //entry 203 -----------------------
 ガルフＣ
@@ -5300,7 +5300,7 @@ Straightlaced
 *
 *
 なし
-Speaks the human language with one head, and animal with the other.|Surprisingly intelligent.
+Speaks the human language|with one head, and animal|with the other.|Surprisingly intelligent.
 IF SEEN, PLEASE REPORT THIS
 //entry 204 -----------------------
 フワＡ
@@ -5326,7 +5326,7 @@ Gourmand
 *
 *
 なし
-Netherworld or Celestia, fairies love pranks.
+Netherworld or Celestia,|fairies love pranks.
 IF SEEN, PLEASE REPORT THIS
 //entry 205 -----------------------
 フワＢ
@@ -5352,7 +5352,7 @@ Gourmand
 *
 *
 なし
-Netherworld or Celestia, fairies love pranks.
+Netherworld or Celestia,|fairies love pranks.
 IF SEEN, PLEASE REPORT THIS
 //entry 206 -----------------------
 フワＣ
@@ -5378,7 +5378,7 @@ Gourmand
 *
 *
 なし
-Netherworld or Celestia, fairies love pranks.
+Netherworld or Celestia,|fairies love pranks.
 IF SEEN, PLEASE REPORT THIS
 //entry 207 -----------------------
 ブラックバードＡ
@@ -5404,7 +5404,7 @@ Aide
 *
 *
 なし
-They confuse their enemies with overwhelming speed.
+They confuse their enemies|with overwhelming speed.
 IF SEEN, PLEASE REPORT THIS
 //entry 208 -----------------------
 ブラックバードＢ
@@ -5430,7 +5430,7 @@ Aide
 *
 *
 なし
-They confuse their enemies with overwhelming speed.
+They confuse their enemies|with overwhelming speed.
 IF SEEN, PLEASE REPORT THIS
 //entry 209 -----------------------
 ブラックバードＣ
@@ -5456,7 +5456,7 @@ Aide
 *
 *
 なし
-They confuse their enemies with overwhelming speed.
+They confuse their enemies|with overwhelming speed.
 IF SEEN, PLEASE REPORT THIS
 //entry 210 -----------------------
 コードＡ
@@ -5482,7 +5482,7 @@ Charismatic
 *
 *
 なし
-Needs her puppet to channel her mana. Without it, she's helpless.
+Needs her puppet to channel|her mana. Without it, she's|helpless.
 IF SEEN, PLEASE REPORT THIS
 //entry 211 -----------------------
 コードＢ
@@ -5508,7 +5508,7 @@ Charismatic
 *
 *
 なし
-Needs her puppet to channel her mana. Without it, she's helpless.
+Needs her puppet to channel|her mana. Without it, she's|helpless.
 IF SEEN, PLEASE REPORT THIS
 //entry 212 -----------------------
 コードＣ
@@ -5534,7 +5534,7 @@ Charismatic
 *
 *
 なし
-Needs her puppet to channel her mana. Without it, she's helpless.
+Needs her puppet to channel|her mana. Without it, she's|helpless.
 IF SEEN, PLEASE REPORT THIS
 //entry 213 -----------------------
 ハイルフＡ
@@ -5638,7 +5638,7 @@ Subcommander
 *
 *
 なし
-Their race always wears armor.|It's the most important thing to them after their lives.
+Their race always wears|armor.|It's the most important thing|to them after their lives.
 IF SEEN, PLEASE REPORT THIS
 //entry 217 -----------------------
 ミノスＢ
@@ -5664,7 +5664,7 @@ Subcommander
 *
 *
 なし
-Their race always wears armor.|It's the most important thing to them after their lives.
+Their race always wears|armor.|It's the most important thing|to them after their lives.
 IF SEEN, PLEASE REPORT THIS
 //entry 218 -----------------------
 ミノスＣ
@@ -5690,7 +5690,7 @@ Subcommander
 *
 *
 なし
-Their race always wears armor.|It's the most important thing to them after their lives.
+Their race always wears|armor.|It's the most important thing|to them after their lives.
 IF SEEN, PLEASE REPORT THIS
 //entry 219 -----------------------
 ステップＡ
@@ -5716,7 +5716,7 @@ Festive
 *
 *
 なし
-Worries that people around her might see her as not taking things seriously.
+Worries that people around|her might see her as not|taking things seriously.
 IF SEEN, PLEASE REPORT THIS
 //entry 220 -----------------------
 ステップＢ
@@ -5742,7 +5742,7 @@ Festive
 *
 *
 なし
-Worries that people around her might see her as not taking things seriously.
+Worries that people around|her might see her as not|taking things seriously.
 IF SEEN, PLEASE REPORT THIS
 //entry 221 -----------------------
 ステップＣ
@@ -5768,7 +5768,7 @@ Festive
 *
 *
 なし
-Worries that people around her might see her as not taking things seriously.
+Worries that people around|her might see her as not|taking things seriously.
 IF SEEN, PLEASE REPORT THIS
 //entry 222 -----------------------
 ウブズＡ
@@ -5794,7 +5794,7 @@ Merchant
 *
 *
 なし
-If she speaks carelessly, her magical voice can cause problems.
+If she speaks carelessly,|her magical voice can cause|problems.
 IF SEEN, PLEASE REPORT THIS
 //entry 223 -----------------------
 ウブズＢ
@@ -5820,7 +5820,7 @@ Merchant
 *
 *
 なし
-If she speaks carelessly, her magical voice can cause problems.
+If she speaks carelessly,|her magical voice can cause|problems.
 IF SEEN, PLEASE REPORT THIS
 //entry 224 -----------------------
 ウブズＣ
@@ -5846,7 +5846,7 @@ Merchant
 *
 *
 なし
-If she speaks carelessly, her magical voice can cause problems.
+If she speaks carelessly,|her magical voice can cause|problems.
 IF SEEN, PLEASE REPORT THIS
 //entry 225 -----------------------
 ペイジＡ
@@ -5872,7 +5872,7 @@ Professor
 *
 *
 なし
-Better at magic than direct attacks.
+Better at magic than direct|attacks.
 IF SEEN, PLEASE REPORT THIS
 //entry 226 -----------------------
 ペイジＢ
@@ -5898,7 +5898,7 @@ Professor
 *
 *
 なし
-Better at magic than direct attacks.
+Better at magic than direct|attacks.
 IF SEEN, PLEASE REPORT THIS
 //entry 227 -----------------------
 ペイジＣ
@@ -5924,7 +5924,7 @@ Professor
 *
 *
 なし
-Better at magic than direct attacks.
+Better at magic than direct|attacks.
 IF SEEN, PLEASE REPORT THIS
 //entry 228 -----------------------
 モジＡ
@@ -5950,7 +5950,7 @@ Neat Freak
 *
 *
 なし
-Can become more, but some choose to stop growing at a single page.
+Can become more, but some|choose to stop growing at a|single page.
 IF SEEN, PLEASE REPORT THIS
 //entry 229 -----------------------
 モジＢ
@@ -5976,7 +5976,7 @@ Neat Freak
 *
 *
 なし
-Can become more, but some choose to stop growing at a single page.
+Can become more, but some|choose to stop growing at a|single page.
 IF SEEN, PLEASE REPORT THIS
 //entry 230 -----------------------
 モジＣ
@@ -6002,7 +6002,7 @@ Neat Freak
 *
 *
 なし
-Can become more, but some choose to stop growing at a single page.
+Can become more, but some|choose to stop growing at a|single page.
 IF SEEN, PLEASE REPORT THIS
 //entry 231 -----------------------
 ペパＡ
@@ -6028,7 +6028,7 @@ Governor
 *
 *
 なし
-The juvenile form of a growing book.
+The juvenile form of a|growing book.
 IF SEEN, PLEASE REPORT THIS
 //entry 232 -----------------------
 ペパＢ
@@ -6054,7 +6054,7 @@ Governor
 *
 *
 なし
-The juvenile form of a growing book.
+The juvenile form of a|growing book.
 IF SEEN, PLEASE REPORT THIS
 //entry 233 -----------------------
 ペパＣ
@@ -6080,7 +6080,7 @@ Governor
 *
 *
 なし
-The juvenile form of a growing book.
+The juvenile form of a|growing book.
 IF SEEN, PLEASE REPORT THIS
 //entry 234 -----------------------
 ディスタＡ
@@ -6106,7 +6106,7 @@ Logistician
 *
 *
 なし
-Its glittering appearance misleads those who come across it.
+Its glittering appearance|misleads those who come|across it.
 IF SEEN, PLEASE REPORT THIS
 //entry 235 -----------------------
 ディスタＢ
@@ -6132,7 +6132,7 @@ Logistician
 *
 *
 なし
-Its glittering appearance misleads those who come across it.
+Its glittering appearance|misleads those who come|across it.
 IF SEEN, PLEASE REPORT THIS
 //entry 236 -----------------------
 ディスタＣ
@@ -6158,7 +6158,7 @@ Logistician
 *
 *
 なし
-Its glittering appearance misleads those who come across it.
+Its glittering appearance|misleads those who come|across it.
 IF SEEN, PLEASE REPORT THIS
 //entry 237 -----------------------
 クラＡ
@@ -6184,7 +6184,7 @@ Logistician
 *
 *
 なし
-A dista that's still maturing.
+A dista that's still|maturing.
 IF SEEN, PLEASE REPORT THIS
 //entry 238 -----------------------
 クラＢ
@@ -6210,7 +6210,7 @@ Logistician
 *
 *
 なし
-A dista that's still maturing.
+A dista that's still|maturing.
 IF SEEN, PLEASE REPORT THIS
 //entry 239 -----------------------
 クラＣ
@@ -6236,7 +6236,7 @@ Logistician
 *
 *
 なし
-A dista that's still maturing.
+A dista that's still|maturing.
 IF SEEN, PLEASE REPORT THIS
 //entry 240 -----------------------
 ポタタＡ
@@ -6262,7 +6262,7 @@ Charismatic
 *
 *
 なし
-Its form calms the hearts of those who see it.
+Its form calms the hearts of|those who see it.
 IF SEEN, PLEASE REPORT THIS
 //entry 241 -----------------------
 ポタタＢ
@@ -6288,7 +6288,7 @@ Charismatic
 *
 *
 なし
-Its form calms the hearts of those who see it.
+Its form calms the hearts of|those who see it.
 IF SEEN, PLEASE REPORT THIS
 //entry 242 -----------------------
 ポタタＣ
@@ -6314,7 +6314,7 @@ Charismatic
 *
 *
 なし
-Its form calms the hearts of those who see it.
+Its form calms the hearts of|those who see it.
 IF SEEN, PLEASE REPORT THIS
 //entry 243 -----------------------
 スカイアンＡ
@@ -6340,7 +6340,7 @@ Bureaucrat
 *
 *
 なし
-Will be extremely large in a few decades.
+Will be extremely large in a|few decades.
 IF SEEN, PLEASE REPORT THIS
 //entry 244 -----------------------
 スカイアンＢ
@@ -6366,7 +6366,7 @@ Bureaucrat
 *
 *
 なし
-Will be extremely large in a few decades.
+Will be extremely large in a|few decades.
 IF SEEN, PLEASE REPORT THIS
 //entry 245 -----------------------
 スカイアンＣ
@@ -6392,7 +6392,7 @@ Bureaucrat
 *
 *
 なし
-Will be extremely large in a few decades.
+Will be extremely large in a|few decades.
 IF SEEN, PLEASE REPORT THIS
 //entry 246 -----------------------
 新ベトＡ
@@ -6418,7 +6418,7 @@ Governor
 *
 *
 なし
-Many young men raise these looking forward to the future.
+Many young men raise these|looking forward to the|future.
 IF SEEN, PLEASE REPORT THIS
 //entry 247 -----------------------
 新ベトＢ
@@ -6444,7 +6444,7 @@ Governor
 *
 *
 なし
-Many young men raise these looking forward to the future.
+Many young men raise these|looking forward to the|future.
 IF SEEN, PLEASE REPORT THIS
 //entry 248 -----------------------
 新ベトＣ
@@ -6470,7 +6470,7 @@ Governor
 *
 *
 なし
-Many young men raise these looking forward to the future.
+Many young men raise these|looking forward to the|future.
 IF SEEN, PLEASE REPORT THIS
 //entry 249 -----------------------
 天ベトＡ
@@ -6496,7 +6496,7 @@ Subcommander
 *
 *
 なし
-Came from Celestia, and its coloring is slightly different from usual.
+Came from Celestia, and its|coloring is slightly|different from usual.
 IF SEEN, PLEASE REPORT THIS
 //entry 250 -----------------------
 天ベトＢ
@@ -6522,7 +6522,7 @@ Subcommander
 *
 *
 なし
-Came from Celestia, and its coloring is slightly different from usual.
+Came from Celestia, and its|coloring is slightly|different from usual.
 IF SEEN, PLEASE REPORT THIS
 //entry 251 -----------------------
 天ベトＣ
@@ -6548,7 +6548,7 @@ Subcommander
 *
 *
 なし
-Came from Celestia, and its coloring is slightly different from usual.
+Came from Celestia, and its|coloring is slightly|different from usual.
 IF SEEN, PLEASE REPORT THIS
 //entry 252 -----------------------
 一角ベトＡ
@@ -6574,7 +6574,7 @@ Governor
 *
 *
 なし
-Nobody knows why it's shaped this way.
+Nobody knows why it's shaped|this way.
 IF SEEN, PLEASE REPORT THIS
 //entry 253 -----------------------
 一角ベトＢ
@@ -6600,7 +6600,7 @@ Governor
 *
 *
 なし
-Nobody knows why it's shaped this way.
+Nobody knows why it's shaped|this way.
 IF SEEN, PLEASE REPORT THIS
 //entry 254 -----------------------
 一角ベトＣ
@@ -6626,7 +6626,7 @@ Governor
 *
 *
 なし
-Nobody knows why it's shaped this way.
+Nobody knows why it's shaped|this way.
 IF SEEN, PLEASE REPORT THIS
 //entry 255 -----------------------
 二角ベトＡ
@@ -6652,7 +6652,7 @@ Professor
 *
 *
 なし
-It probably grew up in a cramped place.
+It probably grew up in a|cramped place.
 IF SEEN, PLEASE REPORT THIS
 //entry 256 -----------------------
 二角ベトＢ
@@ -6678,7 +6678,7 @@ Professor
 *
 *
 なし
-It probably grew up in a cramped place.
+It probably grew up in a|cramped place.
 IF SEEN, PLEASE REPORT THIS
 //entry 257 -----------------------
 二角ベトＣ
@@ -6704,7 +6704,7 @@ Professor
 *
 *
 なし
-It probably grew up in a cramped place.
+It probably grew up in a|cramped place.
 IF SEEN, PLEASE REPORT THIS
 //entry 258 -----------------------
 三角ベトＡ
@@ -6730,7 +6730,7 @@ Bureaucrat
 *
 *
 なし
-Its corners are surprisingly solid.
+Its corners are surprisingly|solid.
 IF SEEN, PLEASE REPORT THIS
 //entry 259 -----------------------
 三角ベトＢ
@@ -6756,7 +6756,7 @@ Bureaucrat
 *
 *
 なし
-Its corners are surprisingly solid.
+Its corners are surprisingly|solid.
 IF SEEN, PLEASE REPORT THIS
 //entry 260 -----------------------
 三角ベトＣ
@@ -6782,7 +6782,7 @@ Bureaucrat
 *
 *
 なし
-Its corners are surprisingly solid.
+Its corners are surprisingly|solid.
 IF SEEN, PLEASE REPORT THIS
 //entry 261 -----------------------
 四角ベトＡ
@@ -6886,7 +6886,7 @@ Politician
 *
 *
 なし
-Pentagons are in fashion these days.
+Pentagons are in fashion|these days.
 IF SEEN, PLEASE REPORT THIS
 //entry 265 -----------------------
 五角ベトＢ
@@ -6912,7 +6912,7 @@ Politician
 *
 *
 なし
-Pentagons are in fashion these days.
+Pentagons are in fashion|these days.
 IF SEEN, PLEASE REPORT THIS
 //entry 266 -----------------------
 五角ベトＣ
@@ -6938,7 +6938,7 @@ Politician
 *
 *
 なし
-Pentagons are in fashion these days.
+Pentagons are in fashion|these days.
 IF SEEN, PLEASE REPORT THIS
 //entry 267 -----------------------
 六角ベトＡ
@@ -6964,7 +6964,7 @@ Neat Freak
 *
 *
 なし
-They want to get arranged properly due to their shape.
+They want to get arranged|properly due to their shape.
 IF SEEN, PLEASE REPORT THIS
 //entry 268 -----------------------
 六角ベトＢ
@@ -6990,7 +6990,7 @@ Neat Freak
 *
 *
 なし
-They want to get arranged properly due to their shape.
+They want to get arranged|properly due to their shape.
 IF SEEN, PLEASE REPORT THIS
 //entry 269 -----------------------
 六角ベトＣ
@@ -7016,7 +7016,7 @@ Neat Freak
 *
 *
 なし
-They want to get arranged properly due to their shape.
+They want to get arranged|properly due to their shape.
 IF SEEN, PLEASE REPORT THIS
 //entry 270 -----------------------
 マルＡ
@@ -7042,7 +7042,7 @@ Merchant
 *
 *
 なし
-Like goos, but not.|Some think they're pieces of an ancient god.
+Like goos, but not.|Some think they're pieces of|an ancient god.
 IF SEEN, PLEASE REPORT THIS
 //entry 271 -----------------------
 マルＢ
@@ -7068,7 +7068,7 @@ Merchant
 *
 *
 なし
-Like goos, but not.|Some think they're pieces of an ancient god.
+Like goos, but not.|Some think they're pieces of|an ancient god.
 IF SEEN, PLEASE REPORT THIS
 //entry 272 -----------------------
 マルＣ
@@ -7094,7 +7094,7 @@ Merchant
 *
 *
 なし
-Like goos, but not.|Some think they're pieces of an ancient god.
+Like goos, but not.|Some think they're pieces of|an ancient god.
 IF SEEN, PLEASE REPORT THIS
 //entry 273 -----------------------
 リギーウルフＡ
@@ -7120,7 +7120,7 @@ Independent
 *
 *
 なし
-Tame by the standards of Netherworld dogs.
+Tame by the standards of|Netherworld dogs.
 IF SEEN, PLEASE REPORT THIS
 //entry 274 -----------------------
 リギーウルフＢ
@@ -7146,7 +7146,7 @@ Independent
 *
 *
 なし
-Tame by the standards of Netherworld dogs.
+Tame by the standards of|Netherworld dogs.
 IF SEEN, PLEASE REPORT THIS
 //entry 275 -----------------------
 リギーウルフＣ
@@ -7172,7 +7172,7 @@ Independent
 *
 *
 なし
-Tame by the standards of Netherworld dogs.
+Tame by the standards of|Netherworld dogs.
 IF SEEN, PLEASE REPORT THIS
 //entry 276 -----------------------
 リギークマンＡ
@@ -7198,7 +7198,7 @@ Bureaucrat
 *
 *
 なし
-Easily mistaken for polar bears, and just as dangerous.
+Easily mistaken for polar|bears, and just as|dangerous.
 IF SEEN, PLEASE REPORT THIS
 //entry 277 -----------------------
 リギークマンＢ
@@ -7224,7 +7224,7 @@ Bureaucrat
 *
 *
 なし
-Easily mistaken for polar bears, and just as dangerous.
+Easily mistaken for polar|bears, and just as|dangerous.
 IF SEEN, PLEASE REPORT THIS
 //entry 278 -----------------------
 リギークマンＣ
@@ -7250,7 +7250,7 @@ Bureaucrat
 *
 *
 なし
-Easily mistaken for polar bears, and just as dangerous.
+Easily mistaken for polar|bears, and just as|dangerous.
 IF SEEN, PLEASE REPORT THIS
 //entry 279 -----------------------
 リギードリツルＡ
@@ -7276,7 +7276,7 @@ Green Thumb
 *
 *
 なし
-Pretty much the same as their Netherworld kind.
+Pretty much the same as|their Netherworld kind.
 IF SEEN, PLEASE REPORT THIS
 //entry 280 -----------------------
 リギードリツルＢ
@@ -7302,7 +7302,7 @@ Green Thumb
 *
 *
 なし
-Pretty much the same as their Netherworld kind.
+Pretty much the same as|their Netherworld kind.
 IF SEEN, PLEASE REPORT THIS
 //entry 281 -----------------------
 リギードリツルＣ
@@ -7328,7 +7328,7 @@ Green Thumb
 *
 *
 なし
-Pretty much the same as their Netherworld kind.
+Pretty much the same as|their Netherworld kind.
 IF SEEN, PLEASE REPORT THIS
 //entry 282 -----------------------
 リギーツルルＡ
@@ -7354,7 +7354,7 @@ Green Thumb
 *
 *
 なし
-They grow on the ground without any issue.
+They grow on the ground|without any issue.
 IF SEEN, PLEASE REPORT THIS
 //entry 283 -----------------------
 リギーツルルＢ
@@ -7380,7 +7380,7 @@ Green Thumb
 *
 *
 なし
-They grow on the ground without any issue.
+They grow on the ground|without any issue.
 IF SEEN, PLEASE REPORT THIS
 //entry 284 -----------------------
 リギーツルルＣ
@@ -7406,7 +7406,7 @@ Green Thumb
 *
 *
 なし
-They grow on the ground without any issue.
+They grow on the ground|without any issue.
 IF SEEN, PLEASE REPORT THIS
 //entry 285 -----------------------
 スーソードＡ
@@ -7432,7 +7432,7 @@ Inept
 *
 *
 なし
-Concerned about its decorations.
+Concerned about its|decorations.
 IF SEEN, PLEASE REPORT THIS
 //entry 286 -----------------------
 スーソードＢ
@@ -7458,7 +7458,7 @@ Inept
 *
 *
 なし
-Concerned about its decorations.
+Concerned about its|decorations.
 IF SEEN, PLEASE REPORT THIS
 //entry 287 -----------------------
 スーソードＣ
@@ -7484,7 +7484,7 @@ Inept
 *
 *
 なし
-Concerned about its decorations.
+Concerned about its|decorations.
 IF SEEN, PLEASE REPORT THIS
 //entry 288 -----------------------
 ラムバディＡ
@@ -7510,7 +7510,7 @@ Independent
 *
 *
 なし
-Sees other meaty monsters as its sworn enemies.
+Sees other meaty monsters as|its sworn enemies.
 IF SEEN, PLEASE REPORT THIS
 //entry 289 -----------------------
 ラムバディＢ
@@ -7536,7 +7536,7 @@ Independent
 *
 *
 なし
-Sees other meaty monsters as its sworn enemies.
+Sees other meaty monsters as|its sworn enemies.
 IF SEEN, PLEASE REPORT THIS
 //entry 290 -----------------------
 ラムバディＣ
@@ -7562,7 +7562,7 @@ Independent
 *
 *
 なし
-Sees other meaty monsters as its sworn enemies.
+Sees other meaty monsters as|its sworn enemies.
 IF SEEN, PLEASE REPORT THIS
 //entry 291 -----------------------
 天界兵剣Ａ
@@ -7666,7 +7666,7 @@ Eminent
 *
 *
 なし
-The size of her sword represents her dedication to justice.
+The size of her sword|represents her dedication to|justice.
 IF SEEN, PLEASE REPORT THIS
 //entry 295 -----------------------
 天界兵大剣Ｂ
@@ -7692,7 +7692,7 @@ Eminent
 *
 *
 なし
-The size of her sword represents her dedication to justice.
+The size of her sword|represents her dedication to|justice.
 IF SEEN, PLEASE REPORT THIS
 //entry 296 -----------------------
 天界兵大剣Ｃ
@@ -7718,7 +7718,7 @@ Eminent
 *
 *
 なし
-The size of her sword represents her dedication to justice.
+The size of her sword|represents her dedication to|justice.
 IF SEEN, PLEASE REPORT THIS
 //entry 297 -----------------------
 天界兵二刀流Ａ
@@ -7744,7 +7744,7 @@ General
 *
 *
 なし
-Slices her enemies with both blades.
+Slices her enemies with both|blades.
 IF SEEN, PLEASE REPORT THIS
 //entry 298 -----------------------
 天界兵二刀流Ｂ
@@ -7770,7 +7770,7 @@ General
 *
 *
 なし
-Slices her enemies with both blades.
+Slices her enemies with both|blades.
 IF SEEN, PLEASE REPORT THIS
 //entry 299 -----------------------
 天界兵二刀流Ｃ
@@ -7796,7 +7796,7 @@ General
 *
 *
 なし
-Slices her enemies with both blades.
+Slices her enemies with both|blades.
 IF SEEN, PLEASE REPORT THIS
 //entry 300 -----------------------
 天界兵槍Ａ
@@ -7822,7 +7822,7 @@ Subcommander
 *
 *
 なし
-Can still attack at range without missing a beat.
+Can still attack at range|without missing a beat.
 IF SEEN, PLEASE REPORT THIS
 //entry 301 -----------------------
 天界兵槍Ｂ
@@ -7848,7 +7848,7 @@ Subcommander
 *
 *
 なし
-Can still attack at range without missing a beat.
+Can still attack at range|without missing a beat.
 IF SEEN, PLEASE REPORT THIS
 //entry 302 -----------------------
 天界兵槍Ｃ
@@ -7874,7 +7874,7 @@ Subcommander
 *
 *
 なし
-Can still attack at range without missing a beat.
+Can still attack at range|without missing a beat.
 IF SEEN, PLEASE REPORT THIS
 //entry 303 -----------------------
 天界兵杖Ａ
@@ -7900,7 +7900,7 @@ Professor
 *
 *
 なし
-Attacks enemies with spells, and heals allies.
+Attacks enemies with spells,|and heals allies.
 IF SEEN, PLEASE REPORT THIS
 //entry 304 -----------------------
 天界兵杖Ｂ
@@ -7926,7 +7926,7 @@ Professor
 *
 *
 なし
-Attacks enemies with spells, and heals allies.
+Attacks enemies with spells,|and heals allies.
 IF SEEN, PLEASE REPORT THIS
 //entry 305 -----------------------
 天界兵杖Ｃ
@@ -7952,7 +7952,7 @@ Professor
 *
 *
 なし
-Attacks enemies with spells, and heals allies.
+Attacks enemies with spells,|and heals allies.
 IF SEEN, PLEASE REPORT THIS
 //entry 306 -----------------------
 天界兵弓Ａ
@@ -7978,7 +7978,7 @@ Professor
 *
 *
 なし
-Pierces her enemies from a long range.
+Pierces her enemies from a|long range.
 IF SEEN, PLEASE REPORT THIS
 //entry 307 -----------------------
 天界兵弓Ｂ
@@ -8004,7 +8004,7 @@ Professor
 *
 *
 なし
-Pierces her enemies from a long range.
+Pierces her enemies from a|long range.
 IF SEEN, PLEASE REPORT THIS
 //entry 308 -----------------------
 天界兵弓Ｃ
@@ -8030,7 +8030,7 @@ Professor
 *
 *
 なし
-Pierces her enemies from a long range.
+Pierces her enemies from a|long range.
 IF SEEN, PLEASE REPORT THIS
 //entry 309 -----------------------
 天界兵素手Ａ
@@ -8056,7 +8056,7 @@ Straightlaced
 *
 *
 なし
-Is she unarmed because she has faith in her fists? Or because she has no faith in weapons?
+Is she unarmed because she|has faith in her fists? Or|because she has no faith in|weapons?
 IF SEEN, PLEASE REPORT THIS
 //entry 310 -----------------------
 天界兵素手Ｂ
@@ -8082,7 +8082,7 @@ Straightlaced
 *
 *
 なし
-Is she unarmed because she has faith in her fists? Or because she has no faith in weapons?
+Is she unarmed because she|has faith in her fists? Or|because she has no faith in|weapons?
 IF SEEN, PLEASE REPORT THIS
 //entry 311 -----------------------
 天界兵素手Ｃ
@@ -8108,7 +8108,7 @@ Straightlaced
 *
 *
 なし
-Is she unarmed because she has faith in her fists? Or because she has no faith in weapons?
+Is she unarmed because she|has faith in her fists? Or|because she has no faith in|weapons?
 IF SEEN, PLEASE REPORT THIS
 //entry 312 -----------------------
 天界兵小盾Ａ
@@ -8134,7 +8134,7 @@ Festive
 *
 *
 なし
-Fights to protect her friends.
+Fights to protect her|friends.
 IF SEEN, PLEASE REPORT THIS
 //entry 313 -----------------------
 天界兵小盾Ｂ
@@ -8160,7 +8160,7 @@ Festive
 *
 *
 なし
-Fights to protect her friends.
+Fights to protect her|friends.
 IF SEEN, PLEASE REPORT THIS
 //entry 314 -----------------------
 天界兵小盾Ｃ
@@ -8186,7 +8186,7 @@ Festive
 *
 *
 なし
-Fights to protect her friends.
+Fights to protect her|friends.
 IF SEEN, PLEASE REPORT THIS
 //entry 315 -----------------------
 天界兵大盾Ａ
@@ -8212,7 +8212,7 @@ Neat Freak
 *
 *
 なし
-Her giant shield is representative of her desire to protect everyone.
+Her giant shield is|representative of her desire|to protect everyone.
 IF SEEN, PLEASE REPORT THIS
 //entry 316 -----------------------
 天界兵大盾Ｂ
@@ -8238,7 +8238,7 @@ Neat Freak
 *
 *
 なし
-Her giant shield is representative of her desire to protect everyone.
+Her giant shield is|representative of her desire|to protect everyone.
 IF SEEN, PLEASE REPORT THIS
 //entry 317 -----------------------
 天界兵大盾Ｃ
@@ -8264,7 +8264,7 @@ Neat Freak
 *
 *
 なし
-Her giant shield is representative of her desire to protect everyone.
+Her giant shield is|representative of her desire|to protect everyone.
 IF SEEN, PLEASE REPORT THIS
 //entry 318 -----------------------
 レッドバードＡ
@@ -8290,7 +8290,7 @@ Accountant
 *
 *
 なし
-A very cautious and wary race.
+A very cautious and wary|race.
 IF SEEN, PLEASE REPORT THIS
 //entry 319 -----------------------
 レッドバードＢ
@@ -8316,7 +8316,7 @@ Accountant
 *
 *
 なし
-A very cautious and wary race.
+A very cautious and wary|race.
 IF SEEN, PLEASE REPORT THIS
 //entry 320 -----------------------
 レッドバードＣ
@@ -8342,7 +8342,7 @@ Accountant
 *
 *
 なし
-A very cautious and wary race.
+A very cautious and wary|race.
 IF SEEN, PLEASE REPORT THIS
 //entry 321 -----------------------
 ティーグレＡ
@@ -8368,7 +8368,7 @@ General
 *
 *
 なし
-Quiet and reserved, but when they have to fight, they're merciless.
+Quiet and reserved, but when|they have to fight, they're|merciless.
 IF SEEN, PLEASE REPORT THIS
 //entry 322 -----------------------
 ティーグレＢ
@@ -8394,7 +8394,7 @@ General
 *
 *
 なし
-Quiet and reserved, but when they have to fight, they're merciless.
+Quiet and reserved, but when|they have to fight, they're|merciless.
 IF SEEN, PLEASE REPORT THIS
 //entry 323 -----------------------
 ティーグレＣ
@@ -8420,7 +8420,7 @@ General
 *
 *
 なし
-Quiet and reserved, but when they have to fight, they're merciless.
+Quiet and reserved, but when|they have to fight, they're|merciless.
 IF SEEN, PLEASE REPORT THIS
 //entry 324 -----------------------
 タートルランナーＡ
@@ -8446,7 +8446,7 @@ Festive
 *
 *
 なし
-Very similar to Loams, but with turtles.
+Very similar to Loams, but|with turtles.
 IF SEEN, PLEASE REPORT THIS
 //entry 325 -----------------------
 タートルランナーＢ
@@ -8472,7 +8472,7 @@ Festive
 *
 *
 なし
-Very similar to Loams, but with turtles.
+Very similar to Loams, but|with turtles.
 IF SEEN, PLEASE REPORT THIS
 //entry 326 -----------------------
 タートルランナーＣ
@@ -8498,7 +8498,7 @@ Festive
 *
 *
 なし
-Very similar to Loams, but with turtles.
+Very similar to Loams, but|with turtles.
 IF SEEN, PLEASE REPORT THIS
 //entry 327 -----------------------
 ブラウＡ
@@ -8524,7 +8524,7 @@ Professor
 *
 *
 なし
-They tend to be sensitive about having small horns.
+They tend to be sensitive|about having small horns.
 IF SEEN, PLEASE REPORT THIS
 //entry 328 -----------------------
 ブラウＢ
@@ -8550,7 +8550,7 @@ Professor
 *
 *
 なし
-They tend to be sensitive about having small horns.
+They tend to be sensitive|about having small horns.
 IF SEEN, PLEASE REPORT THIS
 //entry 329 -----------------------
 ブラウＣ
@@ -8576,7 +8576,7 @@ Professor
 *
 *
 なし
-They tend to be sensitive about having small horns.
+They tend to be sensitive|about having small horns.
 IF SEEN, PLEASE REPORT THIS
 //entry 330 -----------------------
 リーフウッドＡ
@@ -8602,7 +8602,7 @@ Aide
 *
 *
 なし
-Lives in the forest and are good with bows, but definitely aren't elves.
+Lives in the forest and are|good with bows, but|definitely aren't elves.
 IF SEEN, PLEASE REPORT THIS
 //entry 331 -----------------------
 リーフウッドＢ
@@ -8628,7 +8628,7 @@ Aide
 *
 *
 なし
-Lives in the forest and are good with bows, but definitely aren't elves.
+Lives in the forest and are|good with bows, but|definitely aren't elves.
 IF SEEN, PLEASE REPORT THIS
 //entry 332 -----------------------
 リーフウッドＣ
@@ -8654,7 +8654,7 @@ Aide
 *
 *
 なし
-Lives in the forest and are good with bows, but definitely aren't elves.
+Lives in the forest and are|good with bows, but|definitely aren't elves.
 IF SEEN, PLEASE REPORT THIS
 //entry 333 -----------------------
 サマキューＡ
@@ -8680,7 +8680,7 @@ Independent
 *
 *
 なし
-Headstrong and combative.|Always a handful when they go berserk.
+Headstrong and combative.|Always a handful when they go|berserk.
 IF SEEN, PLEASE REPORT THIS
 //entry 334 -----------------------
 サマキューＢ
@@ -8706,7 +8706,7 @@ Independent
 *
 *
 なし
-Headstrong and combative.|Always a handful when they go berserk.
+Headstrong and combative.|Always a handful when they go|berserk.
 IF SEEN, PLEASE REPORT THIS
 //entry 335 -----------------------
 サマキューＣ
@@ -8732,7 +8732,7 @@ Independent
 *
 *
 なし
-Headstrong and combative.|Always a handful when they go berserk.
+Headstrong and combative.|Always a handful when they go|berserk.
 IF SEEN, PLEASE REPORT THIS
 //entry 336 -----------------------
 ルーセットＡ
@@ -8758,7 +8758,7 @@ Subcommander
 *
 *
 なし
-Nobody knows why they wear skirts when they're always upside down?
+Nobody knows why they wear|skirts when they're always|upside down?
 IF SEEN, PLEASE REPORT THIS
 //entry 337 -----------------------
 ルーセットＢ
@@ -8784,7 +8784,7 @@ Subcommander
 *
 *
 なし
-Nobody knows why they wear skirts when they're always upside down?
+Nobody knows why they wear|skirts when they're always|upside down?
 IF SEEN, PLEASE REPORT THIS
 //entry 338 -----------------------
 ルーセットＣ
@@ -8810,7 +8810,7 @@ Subcommander
 *
 *
 なし
-Nobody knows why they wear skirts when they're always upside down?
+Nobody knows why they wear|skirts when they're always|upside down?
 IF SEEN, PLEASE REPORT THIS
 //entry 339 -----------------------
 アイスショットＡ
@@ -8836,7 +8836,7 @@ Accountant
 *
 *
 なし
-Usually live in cold places, but can be found in surprisingly warm places too.
+Usually live in cold places,|but can be found in|surprisingly warm places|too.
 IF SEEN, PLEASE REPORT THIS
 //entry 340 -----------------------
 アイスショットＢ
@@ -8862,7 +8862,7 @@ Accountant
 *
 *
 なし
-Usually live in cold places, but can be found in surprisingly warm places too.
+Usually live in cold places,|but can be found in|surprisingly warm places|too.
 IF SEEN, PLEASE REPORT THIS
 //entry 341 -----------------------
 アイスショットＣ
@@ -8888,7 +8888,7 @@ Accountant
 *
 *
 なし
-Usually live in cold places, but can be found in surprisingly warm places too.
+Usually live in cold places,|but can be found in|surprisingly warm places|too.
 IF SEEN, PLEASE REPORT THIS
 //entry 342 -----------------------
 アンゴラメイＡ
@@ -8914,7 +8914,7 @@ Governor
 *
 *
 なし
-Produce breast milk even when they're not pregnant.
+Produce breast milk even|when they're not pregnant.
 IF SEEN, PLEASE REPORT THIS
 //entry 343 -----------------------
 アンゴラメイＢ
@@ -8940,7 +8940,7 @@ Governor
 *
 *
 なし
-Produce breast milk even when they're not pregnant.
+Produce breast milk even|when they're not pregnant.
 IF SEEN, PLEASE REPORT THIS
 //entry 344 -----------------------
 アンゴラメイＣ
@@ -8966,7 +8966,7 @@ Governor
 *
 *
 なし
-Produce breast milk even when they're not pregnant.
+Produce breast milk even|when they're not pregnant.
 IF SEEN, PLEASE REPORT THIS
 //entry 345 -----------------------
 クラムＡ
@@ -9070,7 +9070,7 @@ General
 *
 *
 なし
-They tend to live quiet, secluded lives.
+They tend to live quiet,|secluded lives.
 IF SEEN, PLEASE REPORT THIS
 //entry 349 -----------------------
 ダレットＢ
@@ -9096,7 +9096,7 @@ General
 *
 *
 なし
-They tend to live quiet, secluded lives.
+They tend to live quiet,|secluded lives.
 IF SEEN, PLEASE REPORT THIS
 //entry 350 -----------------------
 ダレットＣ
@@ -9122,7 +9122,7 @@ General
 *
 *
 なし
-They tend to live quiet, secluded lives.
+They tend to live quiet,|secluded lives.
 IF SEEN, PLEASE REPORT THIS
 //entry 351 -----------------------
 ミレニアムＡ
@@ -9148,7 +9148,7 @@ Subcommander
 *
 *
 なし
-Is very upset that she's often mistaken for a regular human.
+Is very upset that she's|often mistaken for a regular|human.
 IF SEEN, PLEASE REPORT THIS
 //entry 352 -----------------------
 ミレニアムＢ
@@ -9174,7 +9174,7 @@ Subcommander
 *
 *
 なし
-Is very upset that she's often mistaken for a regular human.
+Is very upset that she's|often mistaken for a regular|human.
 IF SEEN, PLEASE REPORT THIS
 //entry 353 -----------------------
 ミレニアムＣ
@@ -9200,7 +9200,7 @@ Subcommander
 *
 *
 なし
-Is very upset that she's often mistaken for a regular human.
+Is very upset that she's|often mistaken for a regular|human.
 IF SEEN, PLEASE REPORT THIS
 //entry 354 -----------------------
 黒い婦人Ａ
@@ -9226,7 +9226,7 @@ Aide
 *
 *
 なし
-Actually not good with magic.
+Actually not good with|magic.
 IF SEEN, PLEASE REPORT THIS
 //entry 355 -----------------------
 黒い婦人Ｂ
@@ -9252,7 +9252,7 @@ Aide
 *
 *
 なし
-Actually not good with magic.
+Actually not good with|magic.
 IF SEEN, PLEASE REPORT THIS
 //entry 356 -----------------------
 黒い婦人Ｃ
@@ -9278,7 +9278,7 @@ Aide
 *
 *
 なし
-Actually not good with magic.
+Actually not good with|magic.
 IF SEEN, PLEASE REPORT THIS
 //entry 357 -----------------------
 ライスボールＡ
@@ -9304,7 +9304,7 @@ Charismatic
 *
 *
 なし
-They're called balls because they roll, but aren't actually balls.
+They're called balls because|they roll, but aren't|actually balls.
 IF SEEN, PLEASE REPORT THIS
 //entry 358 -----------------------
 ライスボールＢ
@@ -9330,7 +9330,7 @@ Charismatic
 *
 *
 なし
-They're called balls because they roll, but aren't actually balls.
+They're called balls because|they roll, but aren't|actually balls.
 IF SEEN, PLEASE REPORT THIS
 //entry 359 -----------------------
 ライスボールＣ
@@ -9356,7 +9356,7 @@ Charismatic
 *
 *
 なし
-They're called balls because they roll, but aren't actually balls.
+They're called balls because|they roll, but aren't|actually balls.
 IF SEEN, PLEASE REPORT THIS
 //entry 360 -----------------------
 ジューシーボディＡ
@@ -9382,7 +9382,7 @@ Genius
 *
 *
 なし
-Smarter than other meatheads.
+Smarter than other|meatheads.
 IF SEEN, PLEASE REPORT THIS
 //entry 361 -----------------------
 ジューシーボディＢ
@@ -9408,7 +9408,7 @@ Genius
 *
 *
 なし
-Smarter than other meatheads.
+Smarter than other|meatheads.
 IF SEEN, PLEASE REPORT THIS
 //entry 362 -----------------------
 ジューシーボディＣ
@@ -9434,7 +9434,7 @@ Genius
 *
 *
 なし
-Smarter than other meatheads.
+Smarter than other|meatheads.
 IF SEEN, PLEASE REPORT THIS
 //entry 363 -----------------------
 黒モーモーＡ
@@ -9460,7 +9460,7 @@ Subcommander
 *
 *
 なし
-Lurks in dark places to surprise those who come near.
+Lurks in dark places to|surprise those who come|near.
 IF SEEN, PLEASE REPORT THIS
 //entry 364 -----------------------
 黒モーモーＢ
@@ -9486,7 +9486,7 @@ Subcommander
 *
 *
 なし
-Lurks in dark places to surprise those who come near.
+Lurks in dark places to|surprise those who come|near.
 IF SEEN, PLEASE REPORT THIS
 //entry 365 -----------------------
 黒モーモーＣ
@@ -9512,7 +9512,7 @@ Subcommander
 *
 *
 なし
-Lurks in dark places to surprise those who come near.
+Lurks in dark places to|surprise those who come|near.
 IF SEEN, PLEASE REPORT THIS
 //entry 366 -----------------------
 触手Ａ
@@ -9538,7 +9538,7 @@ Tentacle
 *
 *
 なし
-A piece of Darx's mana made flesh.
+A piece of Darx's mana made|flesh.
 IF SEEN, PLEASE REPORT THIS
 //entry 367 -----------------------
 マクドゥの剣Ａ
@@ -9564,7 +9564,7 @@ Macdo's Sword
 *
 *
 なし
-A sword shaped creature created from Macdo's mana.
+A sword shaped creature|created from Macdo's mana.
 IF SEEN, PLEASE REPORT THIS
 //entry 368 -----------------------
 ロキンＡ
@@ -9590,7 +9590,7 @@ Green Thumb
 *
 *
 なし
-Do not think of it as just a floating rock.
+Do not think of it as just a|floating rock.
 IF SEEN, PLEASE REPORT THIS
 //entry 369 -----------------------
 ロキンＢ
@@ -9616,7 +9616,7 @@ Green Thumb
 *
 *
 なし
-Do not think of it as just a floating rock.
+Do not think of it as just a|floating rock.
 IF SEEN, PLEASE REPORT THIS
 //entry 370 -----------------------
 ロキンＣ
@@ -9642,7 +9642,7 @@ Green Thumb
 *
 *
 なし
-Do not think of it as just a floating rock.
+Do not think of it as just a|floating rock.
 IF SEEN, PLEASE REPORT THIS
 //entry 371 -----------------------
 ボボボＡ
@@ -9668,7 +9668,7 @@ Inept
 *
 *
 なし
-They're probably not spirits, but most people consider them spirits.
+They're probably not|spirits, but most people|consider them spirits.
 IF SEEN, PLEASE REPORT THIS
 //entry 372 -----------------------
 ボボボＢ
@@ -9694,7 +9694,7 @@ Inept
 *
 *
 なし
-They're probably not spirits, but most people consider them spirits.
+They're probably not|spirits, but most people|consider them spirits.
 IF SEEN, PLEASE REPORT THIS
 //entry 373 -----------------------
 ボボボＣ
@@ -9720,7 +9720,7 @@ Inept
 *
 *
 なし
-They're probably not spirits, but most people consider them spirits.
+They're probably not|spirits, but most people|consider them spirits.
 IF SEEN, PLEASE REPORT THIS
 //entry 374 -----------------------
 レボリューションＡ
@@ -9746,7 +9746,7 @@ Independent
 *
 *
 なし
-They're said to represent the world, but nobody knows why, not even them.
+They're said to represent|the world, but nobody knows|why, not even them.
 IF SEEN, PLEASE REPORT THIS
 //entry 375 -----------------------
 レボリューションＢ
@@ -9772,7 +9772,7 @@ Independent
 *
 *
 なし
-They're said to represent the world, but nobody knows why, not even them.
+They're said to represent|the world, but nobody knows|why, not even them.
 IF SEEN, PLEASE REPORT THIS
 //entry 376 -----------------------
 レボリューションＣ
@@ -9798,7 +9798,7 @@ Independent
 *
 *
 なし
-They're said to represent the world, but nobody knows why, not even them.
+They're said to represent|the world, but nobody knows|why, not even them.
 IF SEEN, PLEASE REPORT THIS
 //entry 377 -----------------------
 ファレン
@@ -9824,7 +9824,7 @@ Accountant
 *
 *
 なし
-One of the core memebers of the Alliance.
+One of the core memebers of|the Alliance.
 IF SEEN, PLEASE REPORT THIS
 //entry 378 -----------------------
 タマガ
@@ -9850,7 +9850,7 @@ General
 *
 *
 なし
-One of the core members of the Alliance.
+One of the core members of|the Alliance.
 IF SEEN, PLEASE REPORT THIS
 //entry 379 -----------------------
 ロッタ
@@ -9876,7 +9876,7 @@ Festive
 *
 *
 なし
-One of the core members of the Alliance.
+One of the core members of|the Alliance.
 IF SEEN, PLEASE REPORT THIS
 //entry 380 -----------------------
 アオ
@@ -9902,7 +9902,7 @@ Professor
 *
 *
 なし
-One of the core members of the Alliance.
+One of the core members of|the Alliance.
 IF SEEN, PLEASE REPORT THIS
 //entry 381 -----------------------
 ラフィノー
@@ -9928,7 +9928,7 @@ Aide
 *
 *
 なし
-A lesser member of the Alliance.
+A lesser member of the|Alliance.
 IF SEEN, PLEASE REPORT THIS
 //entry 382 -----------------------
 イシュ
@@ -9954,7 +9954,7 @@ Independent
 *
 *
 なし
-A lesser member of the Alliance.
+A lesser member of the|Alliance.
 IF SEEN, PLEASE REPORT THIS
 //entry 383 -----------------------
 ナイン
@@ -9980,7 +9980,7 @@ Subcommander
 *
 *
 なし
-A lesser member of the Alliance.
+A lesser member of the|Alliance.
 IF SEEN, PLEASE REPORT THIS
 //entry 384 -----------------------
 ヒビ
@@ -10006,7 +10006,7 @@ Accountant
 *
 *
 なし
-A lesser member of the Alliance.
+A lesser member of the|Alliance.
 IF SEEN, PLEASE REPORT THIS
 //entry 385 -----------------------
 ヤーヌ
@@ -10032,7 +10032,7 @@ Governor
 *
 *
 なし
-A lesser member of the Alliance.
+A lesser member of the|Alliance.
 IF SEEN, PLEASE REPORT THIS
 //entry 386 -----------------------
 ミアルテ
@@ -10058,7 +10058,7 @@ Politician
 *
 *
 なし
-A fairly high ranking angel of Celestia.
+A fairly high ranking angel|of Celestia.
 IF SEEN, PLEASE REPORT THIS
 //entry 387 -----------------------
 ルーアルテ
@@ -10084,7 +10084,7 @@ Genius
 *
 *
 なし
-Miartei's little sister with a promising future.
+Miartei's little sister with|a promising future.
 IF SEEN, PLEASE REPORT THIS
 //entry 388 -----------------------
 キュリハ
@@ -10110,7 +10110,7 @@ Eminent
 *
 *
 なし
-One of the future leaders of the Holy Seed.
+One of the future leaders of|the Holy Seed.
 IF SEEN, PLEASE REPORT THIS
 //entry 389 -----------------------
 マクドゥ
@@ -10136,7 +10136,7 @@ Aide
 *
 *
 なし
-A merchant and aide to the Great Overlord.|Has many opinions about Darx.
+A merchant and aide to the|Great Overlord.|Has many opinions about|Darx.
 IF SEEN, PLEASE REPORT THIS
 //entry 390 -----------------------
 スイセン
@@ -10162,7 +10162,7 @@ Politician
 *
 *
 なし
-A member of the Anselm Company and a rival of Macdo.
+A member of the Anselm|Company and a rival of|Macdo.
 IF SEEN, PLEASE REPORT THIS
 //entry 391 -----------------------
 ワダツミ
@@ -10188,7 +10188,7 @@ Politician
 *
 *
 なし
-Hates demons, monsters, and the humans who join them.
+Hates demons, monsters, and|the humans who join them.
 IF SEEN, PLEASE REPORT THIS
 //entry 392 -----------------------
 触手ダークスＡ
@@ -10214,7 +10214,7 @@ Inept
 *
 *
 なし
-A being created by the tentacles.
+A being created by the|tentacles.
 IF SEEN, PLEASE REPORT THIS
 //entry 393 -----------------------
 触手ダークスＢ
@@ -10240,7 +10240,7 @@ Inept
 *
 *
 なし
-A being created by the tentacles.
+A being created by the|tentacles.
 IF SEEN, PLEASE REPORT THIS
 //entry 394 -----------------------
 触手ダークスＣ
@@ -10266,7 +10266,7 @@ Inept
 *
 *
 なし
-A being created by the tentacles.
+A being created by the|tentacles.
 IF SEEN, PLEASE REPORT THIS
 //entry 395 -----------------------
 触手ダークスＤ
@@ -10292,7 +10292,7 @@ Inept
 *
 *
 なし
-A being created by the tentacles.
+A being created by the|tentacles.
 IF SEEN, PLEASE REPORT THIS
 //entry 396 -----------------------
 触手ダークスＥ
@@ -10318,7 +10318,7 @@ Inept
 *
 *
 なし
-A being created by the tentacles.
+A being created by the|tentacles.
 IF SEEN, PLEASE REPORT THIS
 //entry 397 -----------------------
 エカテー
@@ -10344,7 +10344,7 @@ Eminent
 *
 *
 なし
-A being created by the tentacles.
+A being created by the|tentacles.
 IF SEEN, PLEASE REPORT THIS
 //entry 398 -----------------------
 パニバーナ
@@ -10370,7 +10370,7 @@ General
 *
 *
 なし
-A being created by the tentacles.
+A being created by the|tentacles.
 IF SEEN, PLEASE REPORT THIS
 //entry 399 -----------------------
 イザナ
@@ -10396,7 +10396,7 @@ Professor
 *
 *
 なし
-A being created by the tentacles.
+A being created by the|tentacles.
 IF SEEN, PLEASE REPORT THIS
 //entry 400 -----------------------
 ウルティニア
@@ -10422,7 +10422,7 @@ Politician
 *
 *
 なし
-A being created by the tentacles.
+A being created by the|tentacles.
 IF SEEN, PLEASE REPORT THIS
 //entry 401 -----------------------
 マリーアリス
@@ -10448,7 +10448,7 @@ Commander
 *
 *
 なし
-A being created by the tentacles.
+A being created by the|tentacles.
 IF SEEN, PLEASE REPORT THIS
 //entry 402 -----------------------
 フィリアネ
@@ -10474,7 +10474,7 @@ Aide
 *
 *
 なし
-A being created by the tentacles.
+A being created by the|tentacles.
 IF SEEN, PLEASE REPORT THIS
 //entry 403 -----------------------
 商会メイド
@@ -10500,7 +10500,7 @@ Genius
 *
 *
 なし
-A being created by the tentacles.
+A being created by the|tentacles.
 IF SEEN, PLEASE REPORT THIS
 //entry 404 -----------------------
 フォーゼロッテ
@@ -10526,7 +10526,7 @@ Independent
 *
 *
 なし
-A being created by the tentacles.
+A being created by the|tentacles.
 IF SEEN, PLEASE REPORT THIS
 //entry 405 -----------------------
 メリル
@@ -10552,7 +10552,7 @@ Aide
 *
 *
 なし
-A being created by the tentacles.
+A being created by the|tentacles.
 IF SEEN, PLEASE REPORT THIS
 //entry 406 ----3-------------------
 カーシャ
@@ -10578,7 +10578,7 @@ Aide
 *
 *
 なし
-A being created by the tentacles.
+A being created by the|tentacles.
 IF SEEN, PLEASE REPORT THIS
 //entry 407 -----------------------
 親衛隊員Ａ
@@ -10604,7 +10604,7 @@ Subcommander
 *
 *
 なし
-A being created by the tentacles.
+A being created by the|tentacles.
 IF SEEN, PLEASE REPORT THIS
 //entry 408 -----------------------
 親衛隊員Ｂ
@@ -10630,7 +10630,7 @@ Subcommander
 *
 *
 なし
-A being created by the tentacles.
+A being created by the|tentacles.
 IF SEEN, PLEASE REPORT THIS
 //entry 409 -----------------------
 親衛隊員Ｃ
@@ -10656,7 +10656,7 @@ Subcommander
 *
 *
 なし
-A being created by the tentacles.
+A being created by the|tentacles.
 IF SEEN, PLEASE REPORT THIS
 //entry 410 -----------------------
 ドラゴン
@@ -10682,7 +10682,7 @@ Politician
 *
 *
 なし
-Very strong, but is a male.|The females are a hundred times stronger.
+Very strong, but is a male.|The females are a hundred|times stronger.
 IF SEEN, PLEASE REPORT THIS
 //entry 411 -----------------------
 ラブリーソード
@@ -10734,7 +10734,7 @@ Inept
 *
 *
 なし
-Darx's mana given form.|But is there any thought within it?
+Darx's mana given form.|But is there any thought|within it?
 IF SEEN, PLEASE REPORT THIS
 //entry 413 -----------------------
 子ヘビ

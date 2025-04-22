@@ -487,7 +487,7 @@ f011ba.agf
 *
 *
 Pull materials and riches right|out of the ground.
-Each turn: Gathers resources and|money
+Each turn: Gathers resources andmoney
 //entry 14 -----------------------
 Depot
 工業
@@ -557,7 +557,7 @@ f013cb.agf
 *
 *
 Creates all manner of things|needed for civilized living.
-Each turn: Consumes resources and increases citizens|Increases dungeon trap efficiency
+Each turn: Consumes resources |and increases citizens|Increases dungeon trap|efficiency
 //entry 16 -----------------------
 Research Lab
 工業
@@ -592,7 +592,7 @@ f014cb.agf
 *
 *
 Conducts all manner of|research, scrupulous and shady.
-Each turn: Consumes resources and increases citizens|Increases dungeon trap efficiency
+Each turn: Consumes resources |and increases citizens|Increases dungeon trap efficiency
 //entry 17 -----------------------
 Store
 商業
@@ -662,7 +662,7 @@ f016ca.agf
 資金|住民/2
 *
 Acts as a casino, fairground,|theater, and more!
-Each turn: Gather money|Improves dungeon treasure chests
+Each turn: Gathers money|Improves dungeon treasure chests
 //entry 19 -----------------------
 RL District
 商業
@@ -697,7 +697,7 @@ f017ca.agf
 資金|住民/2
 *
 For adult entertainment.|Children categorically not|allowed.
-Each turn: Gather money|Improves dungeon treasure chests
+Each turn: Gathers money|Improves dungeon treasure chests
 //entry 20 -----------------------
 Stadium
 商業
@@ -837,7 +837,7 @@ f021ab.agf
 *
 *
 Cleanliness is next to|godliness.
-Each turn: Increase citizens|Each turn: Gather money
+Each turn: Increases citizens|Each turn: Gathers money
 //entry 24 -----------------------
 Hot Spring
 環境
@@ -872,7 +872,7 @@ f022ab.agf
 *
 *
 The hot water comes from|somewhere else. You can't just|dig it up.
-Each turn: Increase citizens|Each turn: Gather money
+Each turn: Increases citizens|Each turn: Gathers money
 //entry 25 -----------------------
 Park
 環境
@@ -907,7 +907,7 @@ f023ab.agf
 *
 *
 A place to put your mind at|ease.
-Increase dungeon defense
+Increases dungeon defense
 //entry 26 -----------------------
 Forest
 環境
@@ -942,7 +942,7 @@ f024aa.agf
 *
 *
 Can be surprisingly difficult|to distinguish between this and|a natural forest.
-Increase defense
+Increases dungeon defense
 //entry 27 -----------------------
 Pond
 環境
@@ -977,7 +977,7 @@ f025aa.agf
 *
 *
 Somewhere to keep water.|Certain races tend to gather|here.
-Inc defense
+Increases dungeon defense
 //entry 28 -----------------------
 School
 学園
@@ -1012,7 +1012,7 @@ f027aa.agf
 *
 *
 A branch of Forzelotte|Academy.
-Each turn: increase citizens|Increases dungeon defense
+Each turn: Increases citizens|Increases dungeon defense
 //entry 29 -----------------------
 Dormitory
 学園
