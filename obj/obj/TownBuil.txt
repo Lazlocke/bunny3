@@ -102,7 +102,7 @@ f000aa.agf
 *
 *
 The dwelling of the Overlord,|and headquarters of the local|Gunguskar branch.
-Each turn: Recruit a few citizens|Increases maximum citizens
+Each turn: Recruit citizens|Increases maximum citizens
 //entry 3 -----------------------
 Garrison
 行政
@@ -172,7 +172,7 @@ f002ca.agf
 *
 住民/2
 A place for the sick to heal.
-KOed units recover faster
+KOed units recover faster|||            -Health-
 //entry 5 -----------------------
 Housing
 住居
@@ -382,7 +382,7 @@ f008ca.agf
 *
 *
 Food is life, for humans,|demons, and angels.
-Each turn: Gathers food|Level up to increase output
+Each turn: Gathers food|Level up to increase output||    -Mayor- -D Mayor- -Farm-
 //entry 11 -----------------------
 Ranch
 農業
@@ -417,7 +417,7 @@ f009ca.agf
 *
 *
 Raises livestock, but don't get|too attached to them.
-Each turn: Gathers food|Level up to increase output
+Each turn: Gathers food|Level up to increase output||    -Mayor- -D Mayor- -Farm-
 //entry 12 -----------------------
 Orchard
 農業
@@ -452,7 +452,7 @@ f010ca.agf
 *
 *
 Enjoy the fruits of your|labors.
-Each turn: Gathers food|Level up to increase output
+Each turn: Gathers food|Level up to increase output||    -Mayor- -D Mayor- -Farm-
 //entry 13 -----------------------
 Mine
 工業
@@ -487,7 +487,7 @@ f011ba.agf
 *
 *
 Pull materials and riches right|out of the ground.
-Each turn: Gathers resources andmoney
+Each turn: Gathers resources andmoney||   -Mayor- -D Mayor- -Forge-
 //entry 14 -----------------------
 Depot
 工業
@@ -522,7 +522,7 @@ f012ba.agf
 *
 *
 A place to accumulate and store|supplies.
-Each turn: Gathers resources
+Each turn: Gathers resources|||   -Mayor- -D Mayor- -Forge-
 //entry 15 -----------------------
 Workshop
 工業
@@ -557,7 +557,7 @@ f013cb.agf
 *
 *
 Creates all manner of things|needed for civilized living.
-Each turn: Consumes resources |and increases citizens|Increases dungeon trap|efficiency
+Each turn: Consumes resources |and increases citizens|Increases trap efficiency|            -Forge-
 //entry 16 -----------------------
 Research Lab
 工業
@@ -592,7 +592,7 @@ f014cb.agf
 *
 *
 Conducts all manner of|research, scrupulous and shady.
-Each turn: Consumes resources |and increases citizens|Increases dungeon trap efficiency
+Each turn: Consumes resources |and increases citizens|Increases trap efficiency|            -Forge-
 //entry 17 -----------------------
 Store
 商業
@@ -627,7 +627,7 @@ f015ca.agf
 *
 *
 There's nothing wrong with a|few businesses on the side.
-Each turn: Gathers money|Improves dungeon treasure chests
+Each turn: Gathers money|Improves dungeon treasure chests|        -Mayor- -Trade-
 //entry 18 -----------------------
 E Center
 商業
@@ -662,7 +662,7 @@ f016ca.agf
 資金|住民/2
 *
 Acts as a casino, fairground,|theater, and more!
-Each turn: Gathers money|Improves dungeon treasure chests
+Each turn: Gathers money|Improves dungeon treasure chests|    -Mayor- -Trade- -Morale-
 //entry 19 -----------------------
 RL District
 商業
@@ -697,7 +697,7 @@ f017ca.agf
 資金|住民/2
 *
 For adult entertainment.|Children categorically not|allowed.
-Each turn: Gathers money|Improves dungeon treasure chests
+Each turn: Gathers money|Improves dungeon treasure chests|        -Trade- -Morale-
 //entry 20 -----------------------
 Stadium
 商業
@@ -837,7 +837,7 @@ f021ab.agf
 *
 *
 Cleanliness is next to|godliness.
-Each turn: Increases citizens|Each turn: Gathers money
+Each turn: Increases citizens|Each turn: Gathers money||       -Mayor- -D Mayor-
 //entry 24 -----------------------
 Hot Spring
 環境
@@ -872,7 +872,7 @@ f022ab.agf
 *
 *
 The hot water comes from|somewhere else. You can't just|dig it up.
-Each turn: Increases citizens|Each turn: Gathers money
+Each turn: Increases citizens|Each turn: Gathers money||       -Mayor- -D Mayor-
 //entry 25 -----------------------
 Park
 環境
@@ -1047,4 +1047,4 @@ f028aa.agf
 *
 *
 Healthy living for healthy|minds.
-Increases dungeon defense
+Increases dungeon defense|||            -School-
