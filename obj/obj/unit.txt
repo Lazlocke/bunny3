@@ -1570,7 +1570,7 @@ Seraphim of Seed
 必殺耐性+50|異常耐性+50|土耐性+35
 凶暴者
 Loving Haste
-Eminent
+Imposing
 固定／樹神の腕
 固定／樹神の知恵
 固定／樹神の嘆き
@@ -1830,7 +1830,7 @@ Dungeon Master
 必殺耐性+100|異常耐性+100|闇耐性+100
 Intimidating
 Loving Cheer
-Eminent
+Imposing
 漆黒
 漆黒砲
 *
@@ -7654,7 +7654,7 @@ Holy Flame
 必殺耐性+15
 Aggressive Wall
 Inspiring
-Eminent
+Imposing
 固定／天界剣
 乱舞斬
 振り回し
@@ -7680,7 +7680,7 @@ Holy Flame
 必殺耐性+15
 Aggressive Wall
 Inspiring
-Eminent
+Imposing
 固定／天界剣
 乱舞斬
 振り回し
@@ -7706,7 +7706,7 @@ Holy Flame
 必殺耐性+15
 Aggressive Wall
 Inspiring
-Eminent
+Imposing
 固定／天界剣
 乱舞斬
 振り回し
@@ -10098,7 +10098,7 @@ Seraphim of Seed
 必殺耐性+100|異常耐性+100|土耐性+70
 凶暴者
 Inspiring
-Eminent
+Imposing
 固定／樹神の腕
 固定／樹神の知恵
 固定／樹神の嘆き
@@ -10332,7 +10332,7 @@ Tentacle
 必殺耐性+100|異常耐性+100|闇耐性+100
 Intimidating
 Onslaught
-Eminent
+Imposing
 固定／迫る闇
 漆黒砲
 漆黒幕
@@ -10696,7 +10696,7 @@ Swordkin
 必殺耐性+100|異常耐性+100|斬耐性+50|行動回数+1
 Ferocious
 Cheer
-Eminent
+Imposing
 固定／剣の舞
 固定／刃の舞
 秘剣・鶯

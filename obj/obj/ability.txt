@@ -404,30 +404,30 @@ Guardian
 Guardian
 15% chance to take half the damage for an ally.
 //entry 81 -----------------------
-Eminent
-Eminent
-Eminent
+Imposing
+Imposing
+Imposing
 Performs well in Leadership positions.
 //entry 82 -----------------------
 Politician
 Politician
 Politician
-Performs well in Governing positions.
+Performs exceptionally in leadership positions.
 //entry 83 -----------------------
 Accountant
 Accountant
 Accountant
-While in a Governing position, increase city income by 10%.
+While in a civic position, increase city income by 10%.
 //entry 84 -----------------------
 Logistician
 Logistician
 Logistician
-While in a Governing position, increase resource income by 10%.
+While in a civic position, increase resource income by 10%.
 //entry 85 -----------------------
 Gourmand
 Gourmand
 Gourmand
-While in a Governing position, increase food income by 10%.
+While in a civic position, increase food income by 10%.
 //entry 86 -----------------------
 Charismatic
 Charismatic
@@ -437,7 +437,7 @@ As Mayor or Deputy Mayor, slightly increase residents recruited each turn.
 Bureaucrat
 Bureaucrat
 Bureaucrat
-Performs well in lesser bureaucratic positions.
+Performs well in lesser city positions.
 //entry 88 -----------------------
 Green Thumb
 Green Thumb
@@ -467,12 +467,12 @@ Performs well as School Dean.
 Festive
 Festive
 Festive
-Performs well as Merry Maker.
+Performs well as Morale Officer.
 //entry 94 -----------------------
 Neat Freak
 Neat Freak
 Neat Freak
-Performs well as Sewer Czar.
+Performs well as Health Captain.
 //entry 95 -----------------------
 Commander
 Commander

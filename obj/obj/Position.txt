@@ -4,43 +4,43 @@
 重要な数値
 //entry 1 -----------------------
 Mayor
-Reports only to the Overlord. In charge of the city.
+Reports only to the Overlord.In charge of the city.
 Governing|Leadership
 //entry 2 -----------------------
 Deputy Mayor
-Supports the mayor, and takes over when they're indisposed.
+Supports the mayor, and takes|over when they're indisposed.
 Governing|Leadership
 //entry 3 -----------------------
 Farm Manager
-Oversees the city's agriculture and ranches.
+Oversees the city's |agriculture and ranches.
 Governing
 //entry 4 -----------------------
 Trade Captain
-Manages all of the city's commercial affairs.
+Manages all of the city's |commercial affairs.
 Governing
 //entry 5 -----------------------
 Forge Overseer
-Takes care of the city's industry.
+Takes care of the city's |industry.
 Governing
 //entry 6 -----------------------
 Security Chief
-In charge of safety and security.
+In charge of safety and |security.
 Governing
 //entry 7 -----------------------
 School Dean
-Handles the city's educational needs.
+Handles the city's educationalneeds.
 Governing
 //entry 8 -----------------------
-Party Planner
-The city's chief morale officer.
+Morale Officer
+The city's chief party |planner.
 Governing
 //entry 9 -----------------------
-Sewer Czar
-The king of the city's sanitation.
+Health Captain
+The king of the city's |sanitation.
 Governing
 //entry 10 -----------------------
 Dungeon Master
-The final boss of the Palace of Darx.
+The final boss of the Palace|of Darx.
 Governing|Leadership
 //entry 11 -----------------------
 Dungeon Keeper
@@ -48,37 +48,37 @@ Supports the dungeon master.
 Governing|Leadership
 //entry 12 -----------------------
 1st Floor Boss
-The first major enemy adventurers will face.
+The first major enemy |adventurers will face.
 Leadership
 //entry 13 -----------------------
 2nd Floor Boss
-Handles things deeper in the dungeon.
+Handles things deeper in the|dungeon.
 Leadership
 //entry 14 -----------------------
 3rd Floor Boss
-A boss for persistent adventurers.
+A boss for persistent |adventurers.
 Leadership
 //entry 15 -----------------------
 4th Floor Boss
-A major challenge for adventurers to face.
+A major challenge for |adventurers to face.
 Leadership
 //entry 16 -----------------------
 5th Floor Boss
-A boss for the deep underground.
+A boss for the deep |underground.
 Leadership
 //entry 17 -----------------------
 6th Floor Boss
-A boss that few adventurers will face.
+A boss that few adventurers |will face.
 Leadership
 //entry 18 -----------------------
 7th Floor Boss
-Only the strongest adventurers should make it this far.
+Only the strongest |adventurers should make it |this far.
 Leadership
 //entry 19 -----------------------
 Raid Commander
-Roams the dungeon, looking for adventurers to fight.
+Roams the dungeon, looking |for adventurers to fight.
 Leadership
 //entry 20 -----------------------
 Support Captain
-Helps out in the dungeon however they can.
+Helps out in the dungeon |however they can.
 Leadership
