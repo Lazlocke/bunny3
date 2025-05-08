@@ -7,12 +7,12 @@ No notable ability.
 Overlord
 Overlord
 Overlord
-Able to form a party depending on Command.
+Able to form a party depending on |rank.
 //entry 2 -----------------------
 Overlord's Bloodline
 Overlord's Bloodline
 Overlord's Bloodline
-Able to form a party depending on Command.
+Able to form a party depending on |rank.
 //entry 3 -----------------------
 Merciless
 Merciless
@@ -22,17 +22,17 @@ Automatically win easy battles.
 Preemptive
 Preemptive
 Preemptive
-Perform an attack at the start of battle.
+Perform an attack at the start of |battle.
 //entry 5 -----------------------
 Assassin
 Assassin
 Assassin
-Perform a powerful attack at the start of battle.
+Perform a powerful attack at the |start of battle.
 //entry 6 -----------------------
 Blitzkrieger
 Blitzkrieger
 Blitzkrieger
-Perform an area attack at the start of battle.
+Perform an area attack at the start|of battle.
 //entry 7 -----------------------
 Paranoid
 Paranoid
@@ -47,7 +47,7 @@ Prevents all enemy ambushes.
 Tenacious
 Tenacious
 Tenacious
-Chance to survive a deadly blow with 1 HP.
+Chance to survive a deadly blow |with 1 HP.
 //entry 10 -----------------------
 Snacker
 Snacker
@@ -67,12 +67,12 @@ Magic damage taken reduced by 50%.
 Canceller
 Canceller
 Canceller
-Magic damage blocked 30% of the time.
+Magic damage blocked 30% of the |time.
 //entry 14 -----------------------
 Dampener
 Dampener
 Dampener
-Party's magic damage taken reduced by 25%.
+Party's magic damage taken reduced|by 25%.
 //entry 15 -----------------------
 Medic
 Medic
@@ -87,17 +87,17 @@ Recover own HP during battle.
 Sickening
 Sickening
 Sickening
-30% chance to prevent enemy healing magic.
+30% chance to prevent enemy healing|magic.
 //entry 18 -----------------------
 Soothing
 Soothing
 Soothing
-Slightly recover party SP during battle.
+Slightly recover party SP during|battle.
 //entry 19 -----------------------
 Energetic
 Energetic
 Energetic
-Slightly recover own SP during battle.
+Slightly recover own SP during|battle.
 //entry 20 -----------------------
 Evasive Leader
 Evasive Leader
@@ -202,77 +202,77 @@ Increase own row's Defense.
 Rugged Leader
 Rugged Leader
 Rugged Leader
-Reduce slashing damage taken by party by 20%.
+Reduce slashing damage taken by|party by 20%.
 //entry 41 -----------------------
 Rugged Wall
 Rugged Wall
 Rugged Wall
-Reduce slashing damage taken by front row by 20%.
+Reduce slashing damage taken by|front row by 20%.
 //entry 42 -----------------------
 Rugged Escort
 Rugged Escort
 Rugged Escort
-Reduce slashing damage taken by back row by 20%.
+Reduce slashing damage taken by|back row by 20%.
 //entry 43 -----------------------
 Rugged Support
 Rugged Support
 Rugged Support
-Reduce slashing damage taken by own column by 20%.
+Reduce slashing damage taken by|own column by 20%.
 //entry 44 -----------------------
 Rugged Ally
 Rugged Ally
 Rugged Ally
-Reduce slashing damage taken by own row by 20%.
+Reduce slashing damage taken by|own row by 20%.
 //entry 45 -----------------------
 Sturdy Leader
 Sturdy Leader
 Sturdy Leader
-Reduce crushing damage taken by party by 20%.
+Reduce crushing damage taken by|party by 20%.
 //entry 46 -----------------------
 Sturdy Wall
 Sturdy Wall
 Sturdy Wall
-Reduce crushing damage taken by front row by 20%.
+Reduce crushing damage taken by|front row by 20%.
 //entry 47 -----------------------
 Sturdy Escort
 Sturdy Escort
 Sturdy Escort
-Reduce crushing damage taken by back row by 20%.
+Reduce crushing damage taken by|back row by 20%.
 //entry 48 -----------------------
 Sturdy Support
 Sturdy Support
 Sturdy Support
-Reduce crushing damage taken by own column by 20%.
+Reduce crushing damage taken by|own column by 20%.
 //entry 49 -----------------------
 Sturdy Ally
 Sturdy Ally
 Sturdy Ally
-Reduce crushing damage taken by own row by 20%.
+Reduce crushing damage taken by|own row by 20%.
 //entry 50 -----------------------
 Covering Leader
 Covering Leader
 Covering Leader
-Reduce ranged damage taken by party by 20%.
+Reduce ranged damage taken by partyby 20%.
 //entry 51 -----------------------
 Covering Wall
 Covering Wall
 Covering Wall
-Reduce ranged damage taken by front row by 20%.
+Reduce ranged damage taken by frontrow by 20%.
 //entry 52 -----------------------
 Covering Escort
 Covering Escort
 Covering Escort
-Reduce ranged damage taken by back row by 20%.
+Reduce ranged damage taken by back|row by 20%.
 //entry 53 -----------------------
 Covering Support
 Covering Support
 Covering Support
-Reduce ranged damage taken by own column by 20%.
+Reduce ranged damage taken by own|column by 20%.
 //entry 54 -----------------------
 Covering Ally
 Covering Ally
 Covering Ally
-Reduce ranged damage taken by own row by 20%.
+Reduce ranged damage taken by own|row by 20%.
 //entry 55 -----------------------
 Intimidating
 Intimidating
@@ -297,32 +297,32 @@ Reduce all enemies Speed.
 Selfless
 Selfless
 Selfless
-Chance to take half the damage for an ally with lower HP.
+Chance to take half the damage for|an ally with lower HP.
 //entry 60 -----------------------
 Scapegoat
 Scapegoat
 Scapegoat
-Chance to take all damage for an ally with lower HP.
+Chance to take all damage for an|ally with lower HP.
 //entry 61 -----------------------
 Punchable
 Punchable
 Punchable
-Higher chance to be targeted by enemies.
+Higher chance to be targeted by|enemies.
 //entry 62 -----------------------
 Anticipation
 Anticipation
 Anticipation
-Chance to reduce all damage taken by half.
+Chance to reduce all damage taken|by half.
 //entry 63 -----------------------
 Ferocious
 Ferocious
 Ferocious
-When under 20% HP, Attack and Evade increased.
+When under 20% HP, Attack and Evade|increased.
 //entry 64 -----------------------
 Explosive
 Explosive
 Explosive
-When reduced to under 10% HP, 40% chance to self-destruct and damage the entire enemy party.
+When reduced to under 10% HP, 40%|chance to self-destruct and damage|the entire enemy party.
 //entry 65 -----------------------
 Tutor
 Tutor
@@ -342,12 +342,12 @@ Higher chance to detect traps.
 Blessing
 Blessing
 Blessing
-Reduce trap damage and status effect duration.
+Reduce trap damage and status|effect duration.
 //entry 69 -----------------------
 Lucky
 Lucky
 Lucky
-50% chance to evade triggered traps.
+50% chance to evade triggered|traps.
 //entry 70 -----------------------
 Perceptive
 Perceptive
@@ -362,22 +362,22 @@ See further in dungeons.
 Orienteering
 Orienteering
 Orienteering
-Wider view on the minimap in dungeons.
+Wider view on the minimap in|dungeons.
 //entry 73 -----------------------
 Wary
 Wary
 Wary
-Encounter rate with enemies is reduced.
+Encounter rate with enemies is|reduced.
 //entry 74 -----------------------
 Reservist
 Reservist
 Reservist
-Reserve units recover HP and SP while moving.
+Reserve units recover HP and SP|while moving.
 //entry 75 -----------------------
 Onslaught
 Onslaught
 Onslaught
-Perform an attack at the start of battle.
+Perform an attack at the start of|battle.
 //entry 76 -----------------------
 Inspiring
 Inspiring
@@ -392,52 +392,52 @@ Slightly increase party's Defense.
 Nurse
 Nurse
 Nurse
-15% chance to recover a small amount of one party member's HP during battle.
+15% chance to recover a small|amount of one party member's HP|during battle.
 //entry 79 -----------------------
 Cheer
 Cheer
 Cheer
-10% chance to increase Attack when a party member attacks.
+10% chance to increase Attack when|a party member attacks.
 //entry 80 -----------------------
 Guardian
 Guardian
 Guardian
-15% chance to take half the damage for an ally.
+15% chance to take half the damage|for an ally.
 //entry 81 -----------------------
 Imposing
 Imposing
 Imposing
-Performs well in Leadership positions.
+Performs well in leadership|positions where Charisma is needed.
 //entry 82 -----------------------
 Politician
 Politician
 Politician
-Performs exceptionally in leadership positions.
+Performs exceptionally in|leadership positions.
 //entry 83 -----------------------
 Accountant
 Accountant
 Accountant
-While in a civic position, increase city income by 10%.
+While in a civic position, increase|city income by 10%.
 //entry 84 -----------------------
 Logistician
 Logistician
 Logistician
-While in a civic position, increase resource income by 10%.
+While in a civic position, increase|resource income by 10%.
 //entry 85 -----------------------
 Gourmand
 Gourmand
 Gourmand
-While in a civic position, increase food income by 10%.
+While in a civic position, increase|food income by 10%.
 //entry 86 -----------------------
 Charismatic
 Charismatic
 Charismatic
-As Mayor or Deputy Mayor, slightly increase residents recruited each turn.
+As Mayor or Deputy Mayor, slightly|increase residents recruited each|turn.
 //entry 87 -----------------------
 Bureaucrat
 Bureaucrat
 Bureaucrat
-Performs well in lesser city positions.
+Performs well in lesser city|positions.
 //entry 88 -----------------------
 Green Thumb
 Green Thumb
@@ -477,42 +477,42 @@ Performs well as Health Captain.
 Commander
 Commander
 Commander
-Performs well when placed in charge of a dungeon.
+Performs well when placed in charge|of a dungeon.
 //entry 96 -----------------------
 Subcommander
 Subcommander
 Subcommander
-Performs well as a dungeon floor boss.
+Performs well as a dungeon floor|boss.
 //entry 97 -----------------------
 Independent
 Independent
 Independent
-Performs well in all lesser dungeon combat positions.
+Performs well in all lesser dungeon|combat positions.
 //entry 98 -----------------------
 Genius
 Genius
 Genius
-Performs well in all government positions.
+Performs well in all government|positions.
 //entry 99 -----------------------
 Inept
 Inept
 Inept
-Performs terribly in all government positions.
+Performs terribly in all government|positions.
 //entry 100 -----------------------
 Governor
 Governor
 Governor
-Performs well as Mayor or Deputy Mayor.
+Performs well as Mayor or Deputy|Mayor.
 //entry 101 -----------------------
 General
 General
 General
-Performs well in all dungeon positions.
+Performs well in all dungeon|positions.
 //entry 102 -----------------------
 Aide
 Aide
 Aide
-Performs well as Deputy Mayor or Dungeon Keeper.
+Performs well as Deputy Mayor or|Dungeon Keeper.
 //entry 103 -----------------------
 Loving Cheer
 Loving Cheer
