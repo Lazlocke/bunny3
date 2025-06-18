@@ -2,6 +2,31 @@
 Expedition:
 Defeat the enemies within dungeons to obtain
 residents, money, resources, and food.
+#
+To start, Darx will be on his own, so be 
+very careful, but build up your city and
+you'll soon find allies to join you.
+#
+You'll stumble across enemies randomly, 
+but you'll be able to see the most 
+dangerous enemies from a distance, so 
+pick your battles carefully.
+#
+The deeper you go into dungeons, the
+more dangerous they become as well.
+Be careful until you're fully prepared.
+#
+No matter how long you spend exploring
+a dungeon, only one turn will pass.
+#
+Once you've explored enough of a floor,
+a mini-map will be revealed.
+#
+Places you've found resources, money,
+or citizens will also be marked, but
+they can only be collected once per
+Expedition.
+#
 Good luck.
 #
 :B7
@@ -10,6 +35,7 @@ Good luck.
 \x0A\x04\x00\xB4\x84\x01\x6E 1  "bo3000.box" \x15 :DD7: 
 :FD
 \x1A\x01\x0B\x43\x00\x30\x00\x39\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x32\x00\x31\x00\x09\x00 :2E2: \x1A\x01\x09\x46\x00\x31\x00\x30\x00\x31\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :29C: \x0A\x04\x00\x65\x84\x01
+Affairs:
 Administrative activities are now unlocked.
 Inspect, Event, and Exchange are available.
 #
@@ -39,6 +65,12 @@ A turn passes, but recover some health.
 Injured companies will also recover more
 quickly.
 #
+Certain events will happen when you rest
+once the requirements are met.
+#
+All work and no play makes a dull Overlord.
+Just don't neglect your duties.
+#
 :38E
 \x1A\x01\x08\x46\x00\x31\x00\x38\x00\x32\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :3AC: \x15 :DD7: 
 :3AC
@@ -47,9 +79,9 @@ quickly.
 \x1A\x01\x0B\x43\x00\x30\x00\x39\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x32\x00\x33\x00\x09\x00 :692: 
 <music 10>
 \x2B\x1A\x01\x09\x46\x00\x31\x00\x30\x00\x33\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :64C: \x0A\x04\x00\x67\x84\x01
-Construct:
-Each different facility you build will have
-its own effect. Most produce money, resources,
+Construction:
+Each facility you build will have its own
+effect. Most produce money, resources,
 or food.
 #
 At first, they will only produce a small
@@ -65,9 +97,24 @@ residents, as well as characters from previous
 games, relies on building the right 
 facilities.
 #
+Most party members will also be attracted to
+join you when you've built certain facilities
+up to a certain level.
+#
+Multiple low level buildings will give the
+same output and fulfill the same party member
+recruitment requirements as a few high level
+ones.
+#
+Don't be afraid to remove old buildings as 
+your needs change, but remember that
+the new building will start at level 1.
+#
 Pay attention though. Your city needs enough
 people to man the facilities or they will not
-function. Maintain a balance between your
+gain experience or produce anything.
+#
+Maintain a balance between your
 population and your construction.
 #
 :64C
@@ -78,34 +125,57 @@ population and your construction.
 \x1A\x01\x0B\x43\x00\x30\x00\x39\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x32\x00\x34\x00\x09\x00 :986: 
 <music 4>
 \x2B\x1A\x01\x09\x46\x00\x31\x00\x30\x00\x34\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :940: \x0A\x04\x00\x68\x84\x01
+Deployment:
 Determine the deployment of your companions.
 #
 Broadly speaking, there are three roles.
 Each unit has a passive skill for each role
 that is only active when they're deployed in
-that position.
+that role.
 #
 Party:
 Party members will join Darx when he enters
 dungeons and fight at his side. 
+#
+Each party member has a cost, and the total
+cost of the party is limited. This limit will
+increase as you proceed through the game.
 #
 Reserve:
 Similar to Party members, they will enter
 dungeons with Darx, but they will not
 directly participate in battle.
 #
+Reserve members are likewise limited by the
+total party cost.
+#
 These units mainly support Darx through their
-passive ability.
+passive ability, but if the party members
+fall in battle, they will step up to fight.
 #
 Government:
 A leadership position within the city.
 They will stay in the city even when Darx
 goes into dungeons.
 #
+Your city is small, so leaders aren't needed
+yet, but they will be once it begins to grow.
+#
 Each different city job can have its own
 effect, and certain people are especially
 well, or especially poorly, suited for civic
 duty.
+#
+Look at each character's Civic ability to
+find what they're best at.
+#
+Most buildings perform more efficiently when
+a suitable person is in the leadership role
+most closely tied to them.
+#
+The Mayor and Deputy Mayor are especially
+influential, so make sure you pick the right
+person for the job.
 #
 :940
 \x1A\x01\x08\x46\x00\x31\x00\x38\x00\x34\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :95E: \x15 :DD7: 
@@ -115,9 +185,10 @@ duty.
 \x1A\x01\x0B\x43\x00\x30\x00\x39\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x32\x00\x35\x00\x09\x00 :A7E: 
 <music 4>
 \x2B\x1A\x01\x09\x46\x00\x31\x00\x30\x00\x35\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :A38: \x0A\x04\x00\x69\x84\x01
+Equipment:
 Equip items on your characters.
 Each individual character is able to carry
-and use various equipment.
+and use one piece of equipment.
 #
 :A38
 \x1A\x01\x08\x46\x00\x31\x00\x38\x00\x35\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :A56: \x15 :DD7: 
@@ -127,9 +198,26 @@ and use various equipment.
 \x1A\x01\x0B\x43\x00\x30\x00\x39\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x32\x00\x36\x00\x09\x00 :B65: 
 <music 4>
 \x2B\x1A\x01\x09\x46\x00\x31\x00\x30\x00\x36\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :B1F: \x0A\x04\x00\x6A\x84\x01
-When a character levels up, they earn skill
-points that can be used to improve their
+Training:
+When a character levels up, they earn Skill
+Points that can be used to improve their
 abilities.
+#
+Skill Points (SP) can be used both to learn
+new skills, and to improve a character's
+base statistics. 
+#
+Learned skills can be forgotten to regain
+the SP used, but improved statistics cannot
+be undone.
+#
+Most characters have innate skills that
+cannot be forgotten, and may not be able to
+learn every skill.
+#
+Darx is the ultimate blank slate to build
+however you want, just remember that he
+always has to be in the party.
 #
 :B1F
 \x1A\x01\x08\x46\x00\x31\x00\x38\x00\x36\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :B3D: \x15 :DD7: 
@@ -139,7 +227,12 @@ abilities.
 \x1A\x01\x0B\x43\x00\x30\x00\x39\x00\x35\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x32\x00\x37\x00\x09\x00 :C11: 
 <music 4>
 \x2B\x1A\x01\x09\x46\x00\x31\x00\x30\x00\x37\x00\x20\x00\x6F\x00\x66\x00\x66\x00\x09\x00 :BCB: \x0A\x04\x00\x6B\x84\x01
-You may buy needed supplies at Gunguskar.
+Store:
+You may buy needed equipment at Gunguskar.
+#
+This is the same money used for the city
+and to construct new buildings, so make
+sure you use it wisely.
 #
 :BCB
 \x1A\x01\x08\x46\x00\x31\x00\x38\x00\x37\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :BE9: \x15 :DD7: 

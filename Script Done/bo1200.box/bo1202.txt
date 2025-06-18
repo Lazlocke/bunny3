@@ -152,6 +152,23 @@ them escaping.
 "Yes.
  We look forward to working with you."
 #
+Special Gunguskar:
+Gunguskar will provide you special services
+within the dungeon.
+#
+Most, such as handling supplies, money, and
+captives, will be done automatically, but
+each Expedition, they can provide a few
+limited services.
+#
+The most important service is Egress, which
+allows you to instantly return to the dungeon
+entrance.
+#
+Open the Camp menu to browse their services.
+More will be unlocked as you progress through
+the game.
+#
 \x8A 0  0  0  0  "Gunguskar Support can now be used." 
 <exit>
 :21AD
