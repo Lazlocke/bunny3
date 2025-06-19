@@ -117,6 +117,23 @@ gain experience or produce anything.
 Maintain a balance between your
 population and your construction.
 #
+To start out, it would be a good idea to
+build one of each type of building to get
+your economy up and running.
+#
+You have about 30 turns before Macdo issues
+her first test. Aim to have surpluses of
+1,200 Food, 2,200 Money, and 400 Resources
+by that point.
+#
+You will have a few extra turns if you need to
+shore up your numbers, but do not expect mercy
+if you fail.
+#
+Her tests after that will come without warning,
+and only become more difficult. Make sure your
+economy keeps growing to meet her challenge. 
+#
 :64C
 \x1A\x01\x08\x46\x00\x31\x00\x38\x00\x33\x00\x20\x00\x6F\x00\x6E\x00\x09\x00 :66A: \x15 :DD7: 
 :66A
