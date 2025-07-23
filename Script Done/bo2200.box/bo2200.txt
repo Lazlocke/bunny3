@@ -190,7 +190,7 @@
 <name "Darx">
 "Right."
 #
-\x8A 0  0  0  0  "Special Gunguskar has been enhanced.|(Unlocked by total steps in dungeons.)" 
+\x8A 0  0  0  0  "Special Gunguskar has been enhanced.|(Unlocked by total steps.)" 
 <exit>
 :10ED
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
@@ -224,7 +224,7 @@
 <name "Company Maid" "!DC0419" "ka34c000.agf">
 "Don't worry about the little stuff."
 #
-\x8A 0  0  0  0  "Special Gunguskar has been enhanced.|(Unlocked by total steps in dungeons.)" 
+\x8A 0  0  0  0  "Special Gunguskar has been enhanced.|(Unlocked by total steps.)" 
 <exit>
 :1439
 \x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
