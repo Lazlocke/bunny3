@@ -1,34 +1,33 @@
 ﻿<music 11>
 <background "bg008a0.agf" 10>
 <sprite "ta03a011.agf" 4 4 11>
-<name "ミアルテ" "!SA0203">
-「私の方が先に従っているから、私が先輩で良いの
-　かしら？」
+<name "Miartei" "!SA0203">
+"Since I was the first to follow, does that
+ make me your senior?"
 #
 <removesprite -1 11>
 <sprite "ta03a011.agf" 2 4 11>
 <sprite "ta04a017.agf" 6 5 11>
-<name "ルーアルテ" "!RA0215">
-「お姉様。
-　それを言われると、私の方が先なのですが……」
+<name "Rualtei" "!RA0215">
+"Sister, when you put it like that, that makes
+ me the first..."
 #
 <removesprite -1 11>
 <sprite "ta05a017.agf" 4 4 11>
-<name "キュリハ" "!FA0314">
-「私はどちらでも構いませんよ。
-　先輩方」
+<name "Kyuriha" "!FA0314">
+"I don't mind either way, my seniors."
 #
 <removesprite -1 11>
 <sprite "ta03a014.agf" 4 4 11>
-<name "ミアルテ" "!SA0204">
-「ごめんなさい。
-　今まで通りでいきましょう」
+<name "Miartei" "!SA0204">
+"I'm sorry.
+ Let's go back to how things have always been."
 #
 <removesprite -1 11>
 <sprite "ta03a014.agf" 2 4 11>
 <sprite "ta04a018.agf" 6 5 11>
-<name "ルーアルテ" "!RA0216">
-「ですね」
+<name "Rualtei" "!RA0216">
+"Yeah."
 #
 <removesprite -1 11>
 \x2B\x78\x78

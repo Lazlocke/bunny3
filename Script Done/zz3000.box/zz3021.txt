@@ -1,33 +1,34 @@
 ﻿<music 22>
 <background "ev070a01.agf" 10>
-<name "耐える戦士" "!RB0065">
-「ぁ、ぁぁ、ふぁ、あぁ……ぁぁぁ……ぁぁ……」
+<name "Enduring Fighter" "!RB0065">
+"Ah...aah...aaah...aah...aaah...aah..."
 #
-<name "悲鳴を上げる僧侶" "!LB0094">
-「ひぃ、ひぁ、いやっ、いやぁぁ……」
+<name "Screaming Priestess" "!LB0094">
+"Aah! Ah! No! Noooo..."
 #
-<name "泣く魔法使い" "!GB0087">
-「やめてぇ、もう、やめてよぉ、こ、こんなの……
-　ぁぁぁぁ……」
+<name "Crying Wizard" "!GB0087">
+"Stop... No more...
+ Stop... P-Please...
+ Aaaah..."
 #
-　……
+...
 #
-<name "マクドゥ" "!ZA0456">
-「人間は、脆いな」
+<name "Macdo" "!ZA0456">
+"Humans are so fragile."
 #
-<name "マクドゥ" "!ZA0457">
-「すぐにヘタってしまう」
+<name "Macdo" "!ZA0457">
+"They fall apart in no time."
 #
-<name "マクドゥ" "!ZA0458">
-「まあ、魔界や天界の住人と比べるのがおかしいの
-　か」
+<name "Macdo" "!ZA0458">
+"Well, it'd be wrong to compare them to demons
+ or angels."
 #
-<name "マクドゥ" "!ZA0459">
-「しかし、あの触手。
-　人間を相手にしていると凶暴になったような気が
-　するが……」
+<name "Macdo" "!ZA0459">
+"Still, those tentacles...
+ It seems like they go berserk when given
+ humans..."
 #
-<name "マクドゥ" "!ZA0460">
-「本体の影響か？」
+<name "Macdo" "!ZA0460">
+"Is it because of their origin?"
 #
 \x78\x78

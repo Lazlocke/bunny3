@@ -1,106 +1,112 @@
 ﻿<music 22>
 <background "ev069a01.agf" 10>
-<name "嫌がる天界兵" "!QB0081">
-「ひぎっ、ひあぁっ、あー、も、もう、むり……」
+<name "Resisting Angel" "!QB0081">
+"Aagh! Aah! Aaaah!
+ I-I can't take any more..."
 #
-<name "泣く天界兵" "!WB0072">
-「そんなの、は、はいらない、はひっ、うぐぐぐっ」
+<name "Crying Angel" "!WB0072">
+"I don't w-want this...
+ Aah! Mmmgggh!"
 #
-<name "屈した天界兵" "!TC0071">
-「もう止めて……ひぁ、あ、な、何でも言う事を聞
-　くから、やめ、ひぁ、ぁっ、ぁぁっ」
+<name "Surrendering Angel" "!TC0071">
+"Please stop... Aaah...ah...
+ I-I'll do whatever you say, just... stop...
+ Ah! Ah! Aaah!"
 #
-　……
+...
 #
-<name "ラキア" "!ZC0314">
-「マクドゥ様。
-　ここに来られて大丈夫なのですか？」
+<name "Rakia" "!ZC0314">
+"Are you okay coming here, Macdo?"
 #
-<name "マクドゥ" "!ZA0443">
-「ああ。
-　いつまでも怯えてられん」
+<name "Macdo" "!ZA0443">
+"Yes. I can't be afraid forever."
 #
-<name "ラキア" "!ZC0315">
-「しかし……」
+<name "Rakia" "!ZC0315">
+"But..."
 #
-<name "マクドゥ" "!ZA0444">
-「天界の連中が同じ目にあっていると思うと、哀れ
-　であり、愉快だ」
+<name "Macdo" "!ZA0444">
+"It's both pitiable and amusing to see angels
+ going through the same thing as me."
 #
-<name "ラキア" "!ZC0316">
-「そうですか」
+<name "Rakia" "!ZC0316">
+"Is it?"
 #
-<name "マクドゥ" "!ZA0445">
-「……ところでラキア。
-　質問だが」
+<name "Macdo" "!ZA0445">
+"...By the way, Rakia, a question."
 #
-<name "ラキア" "!ZC0317">
-「なんでしょう」
+<name "Rakia" "!ZC0317">
+"What is it?"
 #
-<name "マクドゥ" "!ZA0446">
-「この部屋に食事を運んだ形跡が無い。
-　あの触手は食わないにしても、やられている女達
-　は食わんとまずかろう」
+<name "Macdo" "!ZA0446">
+"I've seen no signs food is brought to this
+ room.
+ Even if the tentacles don't eat, the women
+ they're assaulting still need to."
 #
-<name "ラキア" "!ZC0318">
-「それに関しては、天界の住人、魔界の住人であれ
-　ば大丈夫です」
+<name "Rakia" "!ZC0318">
+"As far as that goes, so long as they're
+ angels or demons, they're fine."
 #
-<name "マクドゥ" "!ZA0447">
-「ん？」
+<name "Macdo" "!ZA0447">
+"Hm?"
 #
-<name "ラキア" "!ZC0319">
-「あの触手から吐き出される精液。
-　あれは高魔力の塊です」
+<name "Rakia" "!ZC0319">
+"The semen expelled from those tentacles is
+ full of powerful mana."
 #
-<name "ラキア" "!ZC0320">
-「体内は当然、肌に触れるだけで食事の代わりにな
-　ります」
+<name "Rakia" "!ZC0320">
+"Just touching their skin is more than enough
+ sustenance."
 #
-<name "マクドゥ" "!ZA0448">
-「そうか」
+<name "Macdo" "!ZA0448">
+"I see."
 #
-<name "ラキア" "!ZC0321">
-「その代わり、中に居る者達は常に回復魔法を掛け
-　られているような状態で激しく責められますので」
+<name "Rakia" "!ZC0321">
+"Actually, despite being violently ravished,
+ the people in there are being constantly
+ soaked in healing magic."
 #
-<name "マクドゥ" "!ZA0449">
-「ラキアはあれを体験した事があるのか？」
+<name "Macdo" "!ZA0449">
+"Have you ever experienced it?"
 #
-<name "ラキア" "!ZC0322">
-「い、いえ」
+<name "Rakia" "!ZC0322">
+"N-No."
 #
-<name "マクドゥ" "!ZA0450">
-「なら、体験した私が言おう。
-　気が狂いそうなぐらいの快楽と苦痛だ」
+<name "Macdo" "!ZA0450">
+"Then let me tell you from personal experience.
+ It is unbelievable pleasure and pain."
 #
-<name "ラキア" "!ZC0323">
-「それゆえ、慣れた者でも三日。
-　慣れていない者は一時間程度で交代させています」
+<name "Rakia" "!ZC0323">
+"It seems to take people about three days to
+ get used to it.
+ If they're not, they need to be pulled out
+ after an hour."
 #
-<name "マクドゥ" "!ZA0451">
-「適切だな。
-　私もあと半日、あれが続いたらと思うと怖くて仕
-　方が無い」
+<name "Macdo" "!ZA0451">
+"That seems right.
+ I can't help but shudder thinking about
+ having to go through another half a day of
+ that." 
 #
-<name "ラキア" "!ZC0324">
-「あ、あの件は……」
+<name "Rakia" "!ZC0324">
+"A-About that..."
 #
-<name "マクドゥ" "!ZA0452">
-「解っている。
-　不注意だったのは私だ」
+<name "Macdo" "!ZA0452">
+"I know.
+ I was the careless one."
 #
-<name "マクドゥ" "!ZA0453">
-「その件で、責める気はない」
+<name "Macdo" "!ZA0453">
+"I'm not blaming you for that."
 #
-<name "ラキア" "!ZC0325">
-「そうですか」
+<name "Rakia" "!ZC0325">
+"I see."
 #
-<name "マクドゥ" "!ZA0454">
-「もう少し見学していく。
-　これに関する資料があれば、用意を頼めるか」
+<name "Macdo" "!ZA0454">
+"Let's continue our tour.
+ If you have any documents about this, can I
+ ask you to put them together for me?"
 #
-<name "ラキア" "!ZC0326">
-「承知しました」
+<name "Rakia" "!ZC0326">
+"I understand."
 #
 \x78\x78

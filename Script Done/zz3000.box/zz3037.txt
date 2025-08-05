@@ -1,98 +1,106 @@
 ﻿<music 17>
 <background "ev091a02.agf" 10>
-<name "マリーアリス" "!LA5024">
-「ふぁ、ぁ、んぁ、あっ、やっ、んんっ」
+<name "Marialis" "!LA5024">
+"Aah! Ah! Mm! Ah! Aah! Mmmm!"
 #
-<name "ダークス">
-「声が大きい」
+<name "Darx">
+"You're being loud."
 #
-<name "マリーアリス" "!LA5025">
-「す、すみませ、ふぁ……んんぁっ、も、もう少し、
-　動きを、ぁっ、ぁっ、ぁぁっ！
-　違い、ます、ゆっくりに、あっ、こ、声が……
-　ふひぁっ」
+<name "Marialis" "!LA5025">
+"I-I'm sorry... Aaah! Mmm! 
+ M-Move a little less... ah! Ah! Aah!
+ Not like... that... Slower... 
+ Ah! M-My voice... Ah!"
 #
-　俺のモノを突き入れられ、喜ぶ様を見ながら、俺
-　は過去を思い出す。
+I think about the past as I thrust my dick into
+her pleasured body.
 #
-　マリーアリスとは、敵対関係にあった。
+We were enemies at first.
 #
-　天蓋の城。
+It was Castle Baldaquin.
 #
-　魔王の森に落ちた天界の施設の一つ目。
+The first of Celestia's castles that fell into
+the Forest of the Overlord.
 #
-　そこから派遣された侵攻軍の隊長。
+She was the captain of the invasion forces
+they sent.
 #
-　フォーゼロッテ宮に多大な被害を与えた憎むべき
-　敵。
+A deadly enemy that caused a massive amount of
+damage to Forzelotte's Shrine.
 #
-　捕らえた後は、侵攻した事を後悔させるレベルで
-　性的に痛めつけた。
+After capturing her, I tortured her sexually
+until she regretted everything she had done.
 #
-　処女もその他大勢と共に、感慨も無く奪ってやっ
-　た。
+I took her virginity without caring, along with
+countless others.
 #
-　一般の捕虜として扱い、重要視しなかった。
+She was treated as just another prisoner, and
+not given any preferential treatment.
 #
-　そうしてプライドを打ち砕だかれながら、かなり
-　頑張ったが、最終的には快楽に溺れて俺に降った。
+Her pride was crushed, and despite her best
+efforts, succumbed to pleasure and in the end,
+swore herself to me.
 #
-　降った後は、忠実な部下であろうとし、今では俺
-　の親衛隊隊長。
+After turning, she became a faithful follower,
+and is now the commander of my personal guards.
 #
-　そして、俺の子を産んだ事のある嫁の一人。
+And one of my brides who has borne one of my
+children.
 #
-<name "マリーアリス" "!LA5026">
-「ぁ、ん、んぁ、ふぁ、ぁ、ひぁっ、あっ」
+<name "Marialis" "!LA5026">
+"Ah! Mm! Mm! Aah! Ah! Aah! Ah!"
 #
-<name "ダークス">
-「射精するぞ」
+<name "Darx">
+"I'm going to come."
 #
-<name "マリーアリス" "!LA5027">
-「ぁ、んぁ」
+<name "Marialis" "!LA5027">
+"Ah! Mm!"
 #
-　俺の言葉に返事する代わりに、マリーアリスは足
-　を少し広げ、モノを深く挿入しやすい体勢をとっ
-　てくれる。
+Instead of saying anything, she spreads her
+legs wider, taking a position to make it easier
+for me to go as deep as possible inside her.
 #
-<name "マリーアリス" "!LA5028">
-「ぁ、ん、んぁ」
+<name "Marialis" "!LA5028">
+"Ah! Mm! Mm!"
 #
-　俺のモノがマリーアリスの膣奥を突き上げると、
-　そこに固定するかのように締め上げてくる。
+When I thrust all the way into her, she 
+squeezes hard like she's trying to hold me 
+there.
 #
-<name "マリーアリス" "!LA5029">
-「んんんっ」
+<name "Marialis" "!LA5029">
+"Mmmmmm!"
 #
-　そして、俺のモノ先から放たれる大量の精液を子
-　宮で受け止めつつ、マリーアリスは快楽の絶頂に
-　浸った。
+And she soaks in the climax of her pleasure as
+I flood her womb with semen.
 #
 <background "ev091a03.agf" 10>
-<name "マリーアリス" "!LA5030">
-「ぁぁぁぁぁぁぁぁぁぁぁぁぁぁっ！」
+<name "Marialis" "!LA5030">
+"Aaaaaaaaaahhhhhhh!!!!!"
 #
 <music 11>
 <background "bg013a0.agf" 10>
 <sprite "ta15a005.agf" 4 4 11>
-<name "マリーアリス" "!LA5031">
-「なかなか、ハードでした」
+<name "Marialis" "!LA5031">
+"That was very intense."
 #
-<name "ダークス">
-「……」
+<name "Darx">
+"..."
 #
 <sprite "ta15a004.agf" 4 4 12>
-<name "マリーアリス" "!LA5032">
-「優しいのも悪くありませんが、野外ですとこういっ
-　た方が興奮しますね……あの、なにか？」
+<name "Marialis" "!LA5032">
+"I don't mind doing it gently, but outdoors
+ is so much more stimulating...
+ Um, what is it?"
 #
-<name "ダークス">
-「もう一回するぞ」
+<name "Darx">
+"Let's do it again."
 #
 <removesprite -1 11>
-<name "マリーアリス" "!LA5033">
-「え、あっ、ん、ふぁ、ま、魔王様っ、ああん」
+<name "Marialis" "!LA5033">
+"Huh?
+ Ah! Mm! Aah! O-Overlord!
+ Aaaah!"
 #
-　足腰が立たなくなるまで、相手をしてやった。
+I kept it up until she couldn't stand.
 #
 \x78\x78

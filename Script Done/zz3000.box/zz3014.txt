@@ -1,36 +1,37 @@
 ﻿<music 5>
 <background "bg011a0.agf" 10>
-<name "ダークス">
-「分身体触手を作れるようになって生まれた利点！
-　その一！」
+<name "Darx">
+"The first advantage of being able to produce
+ tentacles!"
 #
-<name "ダークス">
-「高い所に手が届く！」
+<name "Darx">
+"You can reach up high!"
 #
-<name "冷静な街の住民" "!HC0043">
-「見た目、気持ち悪いです」
+<name "Composed Citizen" "!HC0043">
+"It looks creepy."
 #
-<name "希望する街の住民" "!SB0076">
-「出来る限り、止めてください」
+<name "Hopeful Citizen" "!SB0076">
+"Please stop doing that."
 #
-<name "ダークス">
-「利点、その二！」
+<name "Darx">
+"The second advantage!"
 #
-<name "ダークス">
-「Ｈの時、色々なプレイが出来る」
+<name "Darx">
+"You can do all kinds of sex things."
 #
-<name "冷静な街の住民" "!HC0046">
-「ぁ……触手での拘束プレイ」
+<name "Composed Citizen" "!HC0046">
+"Ah... Like tentacle bondage play."
 #
-<name "希望する街の住民" "!SB0077">
-「魔王様のモノと合わせての二点責め、三点責め」
+<name "Hopeful Citizen" "!SB0077">
+"Being ravished in two places while the
+ Overlord uses a third."
 #
-<name "冷静な街の住民" "!HC0047">
-「二本挿しも……」
+<name "Composed Citizen" "!HC0047">
+"Double insertion..."
 #
-<name "ダークス">
-「……」
+<name "Darx">
+"..."
 #
-　評判は、色々だ。
+Opinions are divided.
 #
 \x78\x78

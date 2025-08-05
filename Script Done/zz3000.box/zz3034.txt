@@ -1,45 +1,44 @@
 ﻿<music 4>
 <background "bg009a0.agf" 10>
 <sprite "ta05a018.agf" 4 4 11>
-<name "キュリハ" "!FA0388">
-「あーん、ダークス様ぁ」
+<name "Kyuriha" "!FA0388">
+"Aah! Darx!"
 #
 <removesprite -1 11>
-<name "感心する元天界兵" "!QB0043">
-「あのキュリハ様が……」
+<name "Impressed Angel" "!QB0043">
+"That's Kyuriha..."
 #
-<name "驚く元天界兵" "!WB0028">
-「魔王様、超凄い」
+<name "Surprised Angel" "!WB0028">
+"The Overlord is super incredible."
 #
-<name "事情通の元天界兵" "!TC0006">
-「うん。
-　ミアルテ様だけでも凄いのに、あのキュリハ様も
-　だもんね」
+<name "Knowledgable Angel" "!TC0006">
+"Yeah.
+ Just Miartei is impressive, but Kyuriha too."
 #
-<name "感心する元天界兵" "!QB0044">
-「……尊敬するわ」
+<name "Impressed Angel" "!QB0044">
+"...You have to respect it."
 #
-<name "驚く元天界兵" "!WB0029">
-「ええ、本当に」
+<name "Surprised Angel" "!WB0029">
+"Yes, truly."
 #
-<name "事情通の元天界兵" "!TC0007">
-「うん」
+<name "Knowledgable Angel" "!TC0007">
+"Yeah."
 #
 <sprite "ta05a017.agf" 4 4 11>
-<name "キュリハ" "!FA0389">
-「お嬢様方が何を知っているかは存じませんが……
-　わかっていますよね」
+<name "Kyuriha" "!FA0389">
+"I don't know what it is that you ladies are
+ exactly talking about, but...
+ You know, yes?"
 #
-<name "感心する元天界兵" "!QB0045">
-「はい。
-　何も喋りません」
+<name "Impressed Angel" "!QB0045">
+"Yes, we won't say anything."
 #
-<name "驚く元天界兵" "!WB0030">
-「記憶から消しました」
+<name "Surprised Angel" "!WB0030">
+"It's gone from our memories."
 #
 <sprite "ta05a019.agf" 4 4 12>
-<name "キュリハ" "!FA0390">
-「よろしい」
+<name "Kyuriha" "!FA0390">
+"Good."
 #
 <removesprite -1 11>
 \x2B\x78\x78

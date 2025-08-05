@@ -1,98 +1,107 @@
 ﻿<music 17>
 <background "ev052a00.agf" 10>
-<name "パニバーナ" "!DA0056">
-「ふぁ……」
+<name "Paniverna" "!DA0056">
+"Aah..."
 #
-<name "ウルティニア" "!EA0023">
-「パニにタップリ、注ぎましたね」
+<name "Ultinia" "!EA0023">
+"Pani's overflowing."
 #
-<name "ダークス">
-「お前達にも、それなりに注いだつもりだぞ」
+<name "Darx">
+"I was trying to do that to all of you."
 #
-<name "イザナ" "!AA0021">
-「ですね。
-　ん……ぁ……休憩しますか？」
+<name "Izana" "!AA0021">
+"Indeed.
+ Mm...ah...
+ Would you like to rest?"
 #
-<name "ダークス">
-「無理するな。
-　三人とも、まだ動けないだろ」
+<name "Darx">
+"No need to overdo it.
+ None of you can move yet, can you?"
 #
-<name "ウルティニア" "!EA0024">
-「お気遣い、ありがとうございます」
+<name "Ultinia" "!EA0024">
+"Thank you for your consideration."
 #
-<name "ダークス">
-「ああ、そういやウルティニア」
+<name "Darx">
+"Oh, that reminds me, Ultinia."
 #
-<name "ウルティニア" "!EA0025">
-「はい？」
+<name "Ultinia" "!EA0025">
+"Yes?"
 #
-<name "ダークス">
-「フォーゼロッテ宮にいる敵の様子はどうだ？」
+<name "Darx">
+"How have the enemies been at Forzelotte's
+ Shrine?"
 #
 <background "ev052a01.agf" 12>
-<name "ウルティニア" "!EA0026">
-「どうと言われましても、いつも通りですね」
+<name "Ultinia" "!EA0026">
+"No matter how you look at it, there's nothing
+ out of the ordinary."
 #
-<name "ウルティニア" "!EA0027">
-「非統治エリアの勢力が散発的に攻撃。
-　ただ、本格的な侵攻は皆無です」
+<name "Ultinia" "!EA0027">
+"There are occasional attacks from the
+ uncontrolled areas, but no serious
+ incursions."
 #
-<name "ウルティニア" "!EA0028">
-「まだこちらに降っていない天界の方々から、説得
-　は来ますが武力行使はありません」
+<name "Ultinia" "!EA0028">
+"There's angels who haven't yet joined us,
+ but while there's been negotiations, there
+ haven't been any real attacks."
 #
-<name "イザナ" "!AA0022">
-「説得ねぇ」
+<name "Izana" "!AA0022">
+"Still can't convince them?"
 #
-<name "パニバーナ" "!DA0057">
-「食料や資源の要求でしょ」
+<name "Paniverna" "!DA0057">
+"They're demanding food and resources, aren't
+ they?"
 #
-<name "ダークス">
-「そうなのか？」
+<name "Darx">
+"Really?"
 #
-<name "ウルティニア" "!EA0029">
-「はい。
-　当然、断っていますが、同情する部下もいますの
-　で完璧にとは……」
+<name "Ultinia" "!EA0029">
+"Yes.
+ Of course, I've officially refused, but some
+ of our followers are sympathetic to them, so
+ it's not an ideal situation."
 #
-<name "ウルティニア" "!EA0030">
-「すみません。
-　目溢しをしている状態です」
+<name "Ultinia" "!EA0030">
+"I'm sorry.
+ I do realize I'm turning a blind eye."
 #
-<name "ウルティニア" "!EA0031">
-「魔王様のご命令があれば、即座に締め上げます」
+<name "Ultinia" "!EA0031">
+"If you give the order, I will take a stricter
+ stance immediately."
 #
-<name "ダークス">
-「ヘタに締め上げると、一か八かの強攻策に来られ
-　て被害が出る」
+<name "Darx">
+"If you crack down, that might push some people
+ over the edge and make things worse."
 #
-<name "ダークス">
-「食料は今のままで構わんが、おおっぴらにやるな
-　よ。
-　命令を聞かないヤツが、勝手に渡した程度にだ」
+<name "Darx">
+"I'm fine with supplying them food, but don't
+ do it openly.
+ Just enough that it's like someone is 
+ disobeying orders to get it to them."
 #
-<name "ウルティニア" "!EA0032">
-「はい」
+<name "Ultinia" "!EA0032">
+"Okay."
 #
-<name "ダークス">
-「資源に関しては、管理体制を適度に変えて渡し難
-　くしろ」
+<name "Darx">
+"As for supplies, tweak our logistics to make
+ it more difficult for things to go missing."
 #
-<name "ウルティニア" "!EA0033">
-「承知しました」
+<name "Ultinia" "!EA0033">
+"I understand."
 #
-<name "ダークス">
-「仕事の話はこんなものか。
-　再開するぞ」
+<name "Darx">
+"Is that all the work talk?
+ Let's get back to it."
 #
-<name "パニバーナ" "!DA0058">
-「はい」
+<name "Paniverna" "!DA0058">
+"Okay."
 #
-<name "イザナ" "!AA0023">
-「頑張ります」
+<name "Izana" "!AA0023">
+"Good luck."
 #
 <background "ev052a02.agf" 12>
-<name "ウルティニア" "!EA0034">
-「あ、わ、私からお願いします」
+<name "Ultinia" "!EA0034">
+"Ah, m-me too, please."
 #
 \x78\x78

@@ -1,103 +1,111 @@
 ﻿<music 5>
 <background "bg011a0.agf" 10>
-　さて……
+Okay...
 #
-　俺は魔法の練習をする。
+I summon my mana.
 #
-　と言っても、分身体関連の練習だ。
+That said, I'm doing something with my other
+body.
 #
-　自分の周囲に触手を出すのは、自由自在だ。
+I can pull a tentacle out at will near me.
 #
-　もう自分の手足が増えた感覚で扱える。
+I'm able to control it just like it's one of
+my own limbs.
 #
-　しかし、身体から切り離す独立した分身体は、な
-　かなか手間が掛かる。
+But making a whole body that can exist
+completely separate from me takes a lot of
+time and effort.
 #
-　俺は練習で、小さな分身体を作り上げる。
+I'm practicing just creating a tiny body.
 #
-　触手一本。
+One tentacle.
 #
-　サイズは……俺のモノと同じぐらい。
+It's... about the same size as my dick.
 #
-　これぐらいのサイズには、意識を送るのは難しい。
+It's hard to send my mind into something this
+small.
 #
-　サイズが小さくて、感覚を合わせるのが困難だ。
+It's so tiny that my senses don't fit right.
 #
-　そして、このサイズでは、触手のほうにも意識は
-　生まれない。
+And when it's this small, it doesn't have any
+mind of its own either.
 #
-　フォーゼロッテ宮の分身体のように、ある程度の
-　サイズが無いと意識は生まれず、指示せずとも勝
-　手に判断などはしてくれない。
+Just like the one back in Forzelotte's Shrine,
+it needs to be a certain size before it has any
+will of its own, and it still can't actually
+think or decide for itself.
 #
-　今、手にあるこの短い触手。
+This tiny tentacle sits in my hand.
 #
-　これは役立たずか？
+Is it useless?
 #
-　いや、そうではない。
+No, it's not.
 #
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!AC0131">
-「え？
-　あの、なんですか？」
+<name "Company Maid" "!AC0131">
+"Huh?
+ Um, what's that?"
 #
 <removesprite -1 11>
 <music 22>
-　俺は抱いた事のあるメイドの膣内に、今の触手を
-　捻じ込んだ。
+I force the tentacle into the pussy of the
+maid I just fucked.
 #
 <sprite "ta34a102.agf" 4 4 11>
-<name "商会メイド" "!AC0132">
-「ぁ、ん、ま、魔王様？」
+<name "Company Maid" "!AC0132">
+"Ah...mm...
+ O-Overlord?"
 #
 <removesprite -1 11>
-　そして、俺は自分の股間に意識を集中する。
+And then focus on my crotch.
 #
 <sprite "ta34a108.agf" 4 4 11>
-<name "商会メイド" "!AC0133">
-「ひぅぅっ、あっ、ああっ、ひぁぁぁっ！」
+<name "Company Maid" "!AC0133">
+"Aaah! Aah! Aaah! Aaahhhh!"
 #
 <removesprite -1 11>
-　全ての意識を移す事は出来ないが、身体の一部な
-　ら可能だ。
+I can't transfer my mind, but I can do it with
+parts of my body.
 #
-　そして、手は成功した。
+And it worked.
 #
-　ならばと股間のモノでやってみた。
+So I'm doing it with my dick.
 #
-　なかなか良い。
+It feels pretty good.
 #
-　突っ込んで居ないのに、突っ込んだ感じになる。
+Even though I'm not inside her, it feels like
+I am.
 #
-　しかも、動きが触手に近い。
+And it moves kind of like the tentacle.
 #
-　少し惜しいが、感覚を切ってみる。
+It's too bad, but I let go of the feeling.
 #
-<name "商会メイド" "!AC0134">
-「ぁ、うぁ、ぁっ、ひぁっ、あぁぁぁっ！」
+<name "Company Maid" "!AC0134">
+"Ah! Aah! Ah! Ahh! Aaaah!"
 #
-　膣内の触手は動き続けているようだ。
+The tentacle inside her apparently keeps
+moving.
 #
-　なるほど。
+I see.
 #
-　今度、敵にでも使ってみよう。
+I should try this against an enemy.
 #
-<name "商会メイド" "!AC0135">
-「ぁ、うぁ、ま、魔王様。
-　そろそろ、ひっ、ぁ、お、怒り、ますよ」
+<name "Company Maid" "!AC0135">
+"Ah! Aah! O-Overlord, if you keep this up...
+ Ah! Aah! I-I'll get mad."
 #
-<name "ダークス">
-「……」
+<name "Darx">
+"..."
 #
-　そうか、怒られてしまうのか。
+Oh, she's getting upset.
 #
-<name "商会メイド" "!AC0136">
-「あ、嘘、嘘です。
-　ぉ、怒り、怒りませんから、ひぁ、ぁっ、ぁっ、
-　ぁぁぁぁぁぁぁっ！」
+<name "Company Maid" "!AC0136">
+"Ah! I'm kidding! I'm kidding!
+ I-I won't... I won't be mad!
+ Aah! Aaah! Aah! Aaaaahhhhh!"
 #
-　俺はメイドと少し楽しんだ。
+I have some fun with her.
 #
-　当然、後で怒られた。
+She got mad, of course.
 #
 \x78\x78

@@ -1,129 +1,136 @@
 ﻿<music 14>
 <background "ev028a01.agf" 10>
-<name "ダークス">
-「そういえば……キュリハさんはスイセンさんと友
-　達だと聞いたが、どれぐらいの付き合いなんだ？」
+<name "Darx">
+"That reminds me...
+ Are you friends with Suisen?
+ How long have you known each other?"
 #
-<name "キュリハ" "!FA0203">
-「そうですね……」
+<name "Kyuriha" "!FA0203">
+"Let me see..."
 #
-<name "キュリハ" "!FA0204">
-「かなり子供の頃から一緒でした」
+<name "Kyuriha" "!FA0204">
+"We've pretty much been together since
+ childhood."
 #
 <music 8>
 <background "ev029a00.agf" 10>
-<name "キュリハ" "!FA0205">
-「いくぞー」
+<name "Kyuriha" "!FA0205">
+"Let's go!"
 #
-<name "スイセン" "!YA0051">
-「方向、間違ってるけど。
-　良いの？」
+<name "Suisen" "!YA0051">
+"But this is the wrong direction.
+ Are you sure?"
 #
-<name "キュリハ" "!FA0206">
-「細かい事は気にしないの！」
+<name "Kyuriha" "!FA0206">
+"Don't worry about the little stuff!"
 #
-<name "ミアルテ" "!SA0168">
-「え、え、ええぇ、キュリちゃん、なんで私、こん
-　なのに乗って、ひっ、おち、落ちるぅ」
+<name "Miartei" "!SA0168">
+"E-E-Eeehhh!? Kyuri! Why do I have to ride
+ this thing!?
+ Ah! I-I'm falling!"
 #
-<name "スイセン" "!YA0052">
-「キュリハが、ブラックディールを退治しに行こうっ
-　て言ったからよ」
+<name "Suisen" "!YA0052">
+"Kyuriha said we're gonna go take out the
+ Black Diel."
 #
-<name "ミアルテ" "!SA0169">
-「ブラ、ブラック、ディールって、あ、あの？
-　ドラゴンぐらい怖いって言われてるヤツじゃない」
+<name "Miartei" "!SA0169">
+"T-The Black Diel? 
+ U-Um...
+ Isn't that scary as a dragon?"
 #
-<name "キュリハ" "!FA0207">
-「だいじょーぶ、だいじょーぶ。
-　なんとかなるって」
+<name "Kyuriha" "!FA0207">
+"Don't worry. Don't worry.
+ It'll work out."
 #
-<name "ミアルテ" "!SA0170">
-「っその自信、どこから来るのよー」
+<name "Miartei" "!SA0170">
+"How can you be so sure of that?"
 #
-<name "スイセン" "!YA0053">
-「なんだかんだ言いながら、ミアも乗りこなすのよ
-　ねぇ。
-　さすがだわ」
+<name "Suisen" "!YA0053">
+"You say that, but you're coming anyway.
+ I knew it."
 #
-<name "ミアルテ" "!SA0171">
-「あ、え、いつのまに、ひっ、落ちる、落ちるぅ」
+<name "Miartei" "!SA0171">
+"Ah! Huh? S-Since wh...ah!
+ I'm falling! I'm falling!"
 #
-<name "スイセン" "!YA0054">
-「でも、どうするの？
-　見たって言われてる場所と違う……居た！」
+<name "Suisen" "!YA0054">
+"But what now?
+ This isn't where they said they saw...
+ There it is!"
 #
-<name "キュリハ" "!FA0208">
-「はっけーん」
+<name "Kyuriha" "!FA0208">
+"After it!"
 #
-<name "ミアルテ" "!SA0172">
-「ど、ど、どうするの？」
+<name "Miartei" "!SA0172">
+"W-What are we doing?"
 #
-<name "スイセン" "!YA0055">
-「キュリ？」
+<name "Suisen" "!YA0055">
+"Kyuri?"
 #
-<name "キュリハ" "!FA0209">
-「もちろん、突撃よー！」
+<name "Kyuriha" "!FA0209">
+"Of course, charge!"
 #
-<name "ミアルテ" "!SA0173">
-「ええええええっ！」
+<name "Miartei" "!SA0173">
+"Eeeehhh!?"
 #
-<name "スイセン" "!YA0056">
-「仕方が無い。
-　覚悟を決めるわよ！」
+<name "Suisen" "!YA0056">
+"No helping it now.
+ Prepare yourself!"
 #
-<name "ミアルテ" "!SA0174">
-「ちょ、ど、どうして、そんなに」
+<name "Miartei" "!SA0174">
+"Hey!
+ W-Why are we..."
 #
-<name "キュリハ" "!FA0210">
-「ミアは右、スイは左。
-　よろしくね！」
+<name "Kyuriha" "!FA0210">
+"Mia, right!
+ Sui, left!
+ I'm counting on you!"
 #
-<name "ミアルテ" "!SA0175">
-「あ、あうう」
+<name "Miartei" "!SA0175">
+"O-Oooh..."
 #
-<name "スイセン" "!YA0057">
-「ミア。
-　諦めなさい。
-　行くわよ」
+<name "Suisen" "!YA0057">
+"Just accept it, Mia.
+ Here we go."
 #
-<name "ミアルテ" "!SA0176">
-「あ、まって、まってぇぇぇぇっ」
+<name "Miartei" "!SA0176">
+"Ah! Wait!
+ Waaaaaaiiitttt!"
 #
 <background "ev029b00.agf" 10>
 <music 14>
 <background "ev028a01.agf" 10>
-<name "ダークス">
-「それで、どんな感じだったんだ？」
+<name "Darx">
+"So, what was it like?"
 #
-<name "キュリハ" "!FA0211">
-「………………身体が弱く、あまり外には出られま
-　せんでしたねぇ」
+<name "Kyuriha" "!FA0211">
+".........I was a weak child, and couldn't 
+ go out much."
 #
-<name "ダークス">
-「そうなのか？」
+<name "Darx">
+"Really?"
 #
-<name "キュリハ" "!FA0212">
-「ええ。
-　外で自由にしている他の子達が羨ましかったです」
+<name "Kyuriha" "!FA0212">
+"Yes. I was jealous of the other children who
+ were free outside."
 #
-<name "ダークス">
-「ほう。
-　今は身体は大丈夫なのか？」
+<name "Darx">
+"Oh?
+ And you're okay now?"
 #
-<name "キュリハ" "!FA0213">
-「ええ、だからなのかもしれませんね。
-　こうやって色々な場所に行きたがるのは」
+<name "Kyuriha" "!FA0213">
+"Yes, that does appear to be the case.
+ So now I can go wherever I please."
 #
-<name "ダークス">
-「なるほど」
+<name "Darx">
+"I see."
 #
-<name "キュリハ" "!FA0214">
-「ふふふ」
+<name "Kyuriha" "!FA0214">
+"Hahaha..."
 #
-　……
+...
 #
-<name "キュリハ" "!FA0215">
-「私のおしとやかなイメージを守らねば」
+<name "Kyuriha" "!FA0215">
+"I do have to protect my graceful image."
 #
 \x78\x78

@@ -1,24 +1,24 @@
 ﻿<music 17>
 <background "ev050a00.agf" 10>
-<name "エカテー" "!TA0003">
-「魔王様ー」
+<name "Ekate" "!TA0003">
+"Overlord."
 #
-　行為を終えたエカテーが、俺に抱きつく。
+After we finish, Ekate hugs me.
 #
-<name "エカテー" "!TA0004">
-「魔王様、魔王様、魔王様ぁ♪」
+<name "Ekate" "!TA0004">
+"Overlord.♪ Overlord.♪ Overlord.♪"
 #
-　そして、思いっきり甘えてきた。
+And dotes on me like a baby.
 #
-<name "エカテー" "!TA0005">
-「魔王様♪」
+<name "Ekate" "!TA0005">
+"Overlord.♪"
 #
-<name "ダークス">
-「よし、可愛いからもう一回だ」
+<name "Darx">
+"Okay, you're cute, so one more time."
 #
-<name "エカテー" "!TA0006">
-「やったぁ」
+<name "Ekate" "!TA0006">
+"Yay!"
 #
-　俺はエカテーと夜を楽しんだ。
+I enjoy the night with her.
 #
 \x78\x78

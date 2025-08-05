@@ -3347,8 +3347,8 @@ I enjoy the hot spring with her.
  only ten minutes!"
 #
 <name "Ultinia" "!EA0059">
-"After you rubbed my breast, my heart was
- started beating too hard...
+"After you rubbed my breast, my heart started
+ beating too hard...
  I couldn't take it."
 #
 Apparently it's not just her followers who were
@@ -4856,7 +4856,7 @@ Just as I was thinking that, Rakia comes in.
  humans..."
 #
 <name "Macdo" "!ZA0460">
-"Is it because of their original?"
+"Is it because of their origin?"
 #
 \x0A\x44\x02\xD1\x84\x01
 <exit>
@@ -5053,7 +5053,7 @@ tentacles.
  Isn't that scary as a dragon?"
 #
 <name "Kyuriha" "!FA0207">
-"Don't worry. Don't owrry.
+"Don't worry. Don't worry.
  It'll work out."
 #
 <name "Miartei" "!SA0170">

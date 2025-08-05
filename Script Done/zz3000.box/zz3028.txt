@@ -1,38 +1,38 @@
 ﻿<music 18>
 <background "ev034a03.agf" 10>
-<name "キュリハ" "!FA0346">
-「あー……」
+<name "Kyuriha" "!FA0346">
+"Aaahhh..."
 #
-<name "ダークス">
-「大丈夫か？」
+<name "Darx">
+"You okay?"
 #
-<name "キュリハ" "!FA0347">
-「は、はい……なんとか……」
+<name "Kyuriha" "!FA0347">
+"Y-Yes, I think so..."
 #
-<name "ダークス">
-「良かったぞ」
+<name "Darx">
+"That's good."
 #
-<name "キュリハ" "!FA0348">
-「ありがとうございます」
+<name "Kyuriha" "!FA0348">
+"Thank you very much."
 #
-<name "キュリハ" "!FA0349">
-「ですが、その……」
+<name "Kyuriha" "!FA0349">
+"But, um..."
 #
-<name "ダークス">
-「ん？」
+<name "Darx">
+"Hm?"
 #
-<name "キュリハ" "!FA0350">
-「今日は前しか使われないのですか？」
+<name "Kyuriha" "!FA0350">
+"Only using the front today?"
 #
-<name "ダークス">
-「…………激しくするぞ」
+<name "Darx">
+"...This'll be intense."
 #
-<name "キュリハ" "!FA0351">
-「構いません」
+<name "Kyuriha" "!FA0351">
+"I don't mind."
 #
-　俺はキュリハの後ろの穴で、何度も楽しんだ。
+I enjoy myself plenty of times with her ass.
 #
-<name "キュリハ" "!FA0352">
-「ま、まさか……あそこまでとは……」
+<name "Kyuriha" "!FA0352">
+"I-I can't believe... you went that far..."
 #
 \x78\x78

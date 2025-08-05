@@ -1,47 +1,47 @@
 ﻿<music 5>
 <background "bg011a0.agf" 10>
 <sprite "ta34a001.agf" 4 4 11>
-<name "商会メイド" "!DC0167">
-「あの、魔王様」
+<name "Company Maid" "!DC0167">
+"Um, Overlord."
 #
-<name "ダークス">
-「ん？」
+<name "Darx">
+"Hm?"
 #
-<name "商会メイド" "!DC0168">
-「あの触手の塊は、魔王様の分身体ですよね」
+<name "Company Maid" "!DC0168">
+"That mass of tentacles is your body, right?"
 #
-<name "ダークス">
-「ああ」
+<name "Darx">
+"Yeah."
 #
-<name "商会メイド" "!DC0169">
-「どうして、魔王様そっくりに作らなかったんです
-　か？」
+<name "Company Maid" "!DC0169">
+"Why didn't you make it look like you?"
 #
-<name "ダークス">
-「分身体の作り方を教えてくれたのが、自分そっく
-　りに作るのは止めろって言うからさ。
-　どっちが自分か認識できなくなるんだって」
+<name "Darx">
+"The one who taught me how to make it told me
+ not to make it look like myself.
+ It'd be impossible to tell which one was the
+ real me."
 #
 <sprite "ta34a000.agf" 4 4 12>
-<name "商会メイド" "!DC0170">
-「ああ、なるほど」
+<name "Company Maid" "!DC0170">
+"Oh, I see."
 #
-<name "ダークス">
-「魔族や魔物なら気にしないんだろうけど、人間な
-　ら肉体を大事にしろと言われちゃ、従うしかない
-　だろ」
+<name "Darx">
+"I don't know about monsters or demons, but
+ humans have to take care of their bodies, so
+ I had to do what I was told."
 #
-<name "商会メイド" "!DC0171">
-「ですね」
+<name "Company Maid" "!DC0171">
+"Indeed."
 #
-<name "ダークス">
-「だから、決して技量が足りないワケじゃないんだ。
-　触手塊が一番楽だったとかじゃないぞ」
+<name "Darx">
+"It's not that I can't do it at all.
+ Tentacles were just easiest."
 #
 <sprite "ta34a004.agf" 4 4 12>
-<name "商会メイド" "!DC0172">
-「わ、わかってますよ。
-　あははは」
+<name "Company Maid" "!DC0172">
+"I-I understand.
+ Hahaha..."
 #
 <removesprite -1 11>
 \x2B\x78\x78

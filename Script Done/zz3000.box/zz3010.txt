@@ -1,249 +1,254 @@
 ﻿<music 39>
 <background "bg002a0.agf" 10>
-<name "メリルの部下" "!QB0074">
-「メリル様。
-　報告書、まとまりました」
+<name "Mery's Subordinate" "!QB0074">
+"Meryl, the report's finished."
 #
 <sprite "ta12a001.agf" 4 4 11>
-<name "メリル" "!HA0013">
-「そう。
-　じゃあ、魔王様の所に行ってくるわ」
+<name "Meryl" "!HA0013">
+"Okay.
+ Then I'm off to see the Overlord."
 #
-<name "メリルの部下" "!QB0075">
-「留守はお任せください」
+<name "Mery's Subordinate" "!QB0075">
+"Leave here to us."
 #
 <sprite "ta12a003.agf" 4 4 12>
-<name "メリル" "!HA0014">
-「ええ」
+<name "Meryl" "!HA0014">
+"Yes."
 #
 <removesprite -1 11>
-　……
+...
 #
 <sprite "ta02a000.agf" 4 4 11>
-<name "マクドゥ" "!ZA0321">
-「メリル様。
-　よろしいかな」
+<name "Macdo" "!ZA0321">
+"Meryl, a moment?"
 #
 <removesprite -1 11>
 <sprite "ta12a000.agf" 2 4 11>
 <sprite "ta02a000.agf" 6 5 11>
-<name "メリル" "!HA0015">
-「マクドゥ様。
-　なにかありましたか？」
+<name "Meryl" "!HA0015">
+"What can I do for you, Macdo?"
 #
 <sprite "ta02a001.agf" 6 5 12>
-<name "マクドゥ" "!ZA0322">
-「ダークス様の元に参られると聞いたものでな、同
-　行を願いたい」
+<name "Macdo" "!ZA0322">
+"I hear you're going to see Darx.
+ I'd like to come."
 #
 <sprite "ta12a001.agf" 2 4 12>
-<name "メリル" "!HA0016">
-「一緒に行きたいと？」
+<name "Meryl" "!HA0016">
+"With me?"
 #
 <sprite "ta02a000.agf" 6 5 12>
-<name "マクドゥ" "!ZA0323">
-「問題はあるか？」
+<name "Macdo" "!ZA0323">
+"Is there an issue?"
 #
 <sprite "ta12a010.agf" 2 4 12>
-<name "メリル" "!HA0017">
-「いえ、何も問題はありません。
-　どうぞご同行下さい」
+<name "Meryl" "!HA0017">
+"No, none at all.
+ Please, come along."
 #
 <sprite "ta02a004.agf" 6 5 12>
-<name "マクドゥ" "!ZA0324">
-「うむ」
+<name "Macdo" "!ZA0324">
+"Mm."
 #
 <removesprite -1 11>
 <music 18>
 <background "ev055a00.agf" 10>
-<name "メリル" "!HA0018">
-「この件は前例通りに処理しました。
-　ただ、二点ほど問題が出たので、対処法の説明を
-　させて頂きます」
+<name "Meryl" "!HA0018">
+"This matter was handled like usual, but we
+ ran into a couple problems, so let me explain
+ what we're doing about them."
 #
 <background "ev055b00.agf" 10>
-<name "メリル" "!HA0019">
-「まず、一点目ですが、こちらの資料をご覧下さい。
-　東側復興作業の作業工程表ＡとＢです」
+<name "Meryl" "!HA0019">
+"First, for starters, look at this report.
+ These are the progress schedules A and B for
+ the eastern reconstruction work."
 #
-<name "メリル" "!HA0020">
-「工程表Ａを行ったグループ内で、急遽トラブルが
-　発生。
-　原因を追究した結果が、問題の一点目になります」
+<name "Meryl" "!HA0020">
+"The group performing schedule A ran into an
+ unexpected problem. Investigating what caused
+ that is the first issue we need to focus on."
 #
-<name "ダークス">
-「まったく関係ないと思うが？」
+<name "Darx">
+"Does that even matter?"
 #
-<name "メリル" "!HA0021">
-「繋がっていたと言う事でしょう。
-　私も驚きました。
-　次に工程表Ｂですが、問題の一点目に関して……」
+<name "Meryl" "!HA0021">
+"I think they're related.
+ I was surprised too.
+ Next, looking at schedule B, the first part
+ of the problem is..."
 #
-<name "マクドゥ" "!ZA0325">
-「ほ、報告の最中に邪魔をしてすまないが……
-　少し、良いか？」
+<name "Macdo" "!ZA0325">
+"I-I apologize for interrupting your report,
+ but... could I have a moment?"
 #
-<name "ダークス">
-「なんだ？」
+<name "Darx">
+"What is it?"
 #
-<name "マクドゥ" "!ZA0326">
-「報告は、常にこのスタイルなのか？」
+<name "Macdo" "!ZA0326">
+"Do you always report like this?"
 #
-<name "メリル" "!HA0022">
-「ええ、そうです」
+<name "Meryl" "!HA0022">
+"Yes, that's right."
 #
-　ベッドの上に全裸で横たわる俺の上に、同じく全
-　裸になったメリルが跨り、膣内にモノを挿入した
-　スタイル。
+I'm lying naked in bed with Meryl on top of
+me, also naked, straddling me with my dick 
+inside her.
 #
-　メリルは報告しながら、腰を動かして俺のモノを
-　刺激してくれる。
+She moves her hips to stimulate me as she gives
+her report.
 #
-<name "メリル" "!HA0023">
-「私に二心無い事を伝える為には、最適かと」
+<name "Meryl" "!HA0023">
+"Isn't this the best way to prove I'm not
+ hiding anything?"
 #
-<name "マクドゥ" "!ZA0327">
-「最適？
-　これが最適？」
+<name "Macdo" "!ZA0327">
+"The best way?
+ This is the best way?"
 #
-<name "メリル" "!HA0024">
-「ああ、この体位の事は気にしないでください。
-　試行錯誤した結果、報告書を読み上げやすい体位
-　を選んだ結果がこれなので……」
+<name "Meryl" "!HA0024">
+"Oh, don't worry about the position.
+ It took some tries, but we picked this
+ position because it's the easiest to read
+ reports."
 #
-<name "マクドゥ" "!ZA0328">
-「いや、そういう意味で最適という言葉を使ったの
-　ではなく……」
+<name "Macdo" "!ZA0328">
+"No, that's not what I meant by best..."
 #
-<name "マクドゥ" "!ZA0329">
-「メリルの様子をずっと見ていたが、どこかで合図
-　した様子もなかった。
-　本当に報告の度にこんな事をしているのか？」
+<name "Macdo" "!ZA0329">
+"I'd been watching you closely the whole time,
+ and didn't see you give him any kind of
+ signal.
+ Do you really do this every time you report?"
 #
-<name "メリル" "!HA0025">
-「んぁっ、魔王様。
-　魔王様が動くのは駄目ですよ。
-　私が動く事で、服従と忠誠を証明できるのですか
-　ら」
+<name "Meryl" "!HA0025">
+"Mm... Overlord.
+ You aren't allowed to move.
+ I have to be the one to move to prove my
+ obedience and loyalty."
 #
-<name "メリル" "!HA0026">
-「ね、マクドゥ様」
+<name "Meryl" "!HA0026">
+"Right, Macdo?"
 #
-<name "マクドゥ" "!ZA0330">
-「……く」
+<name "Macdo" "!ZA0330">
+"..."
 #
-<name "マクドゥ" "!ZA0331">
-「すまないが、まだ続きそうなので先に失礼する」
+<name "Macdo" "!ZA0331">
+"Pardon me, but if this is going to continue,
+ I'm excusing myself."
 #
-<name "マクドゥ" "!ZA0332">
-「私は用事を済ませたら、先に帰らせて貰うので気
-　にしないでくれ」
+<name "Macdo" "!ZA0332">
+"Don't worry about me.
+ I'll go home once I finish my business."
 #
-<name "メリル" "!HA0027">
-「そうですか？
-　残念ですね。
-　報告が終わった後、ご一緒に楽しもうと思ってい
-　たのですが……」
+<name "Meryl" "!HA0027">
+"Are you sure?
+ That's a shame.
+ I was hoping to enjoy your company once I
+ finished my report."
 #
-<name "マクドゥ" "!ZA0333">
-「そんな趣味は無い。
-　失礼する」
+<name "Macdo" "!ZA0333">
+"I'm not into that.
+ Excuse me."
 #
-　マクドゥは部屋から出て行った。
+She beats a hasty retreat.
 #
-<name "ダークス">
-「……あんまりマクドゥを挑発するな。
-　俺が恨まれる」
+<name "Darx">
+"...Don't rile her up so much.
+ She'll take it out on me."
 #
-<name "メリル" "!HA0028">
-「ですが、私達から魔王様を奪ったのは事実ですの
-　で」
+<name "Meryl" "!HA0028">
+"But she did take you from us."
 #
-<name "メリル" "!HA0029">
-「これぐらいは苛めても問題無いでしょう」
+<name "Meryl" "!HA0029">
+"Teasing her this much is fine."
 #
-<name "ダークス">
-「まあな」
+<name "Darx">
+"I guess."
 #
-　メリルが報告に来る度にこんな事をしているワケ
-　ではない。
+She doesn't actually report like this every
+time.
 #
-　完全にアドリブだ。
+That was completely improvised.
 #
-　それが成立するほど、俺とメリルの仲は深い。
+We're close enough to be able to pick up on
+each other like that.
 #
-<name "メリル" "!HA0030">
-「ともかく、戻って来られても困りますので、報告
-　を続けます」
+<name "Meryl" "!HA0030">
+"Anyway, it'd be trouble if she decides to
+ come back, so let me continue the report."
 #
-<name "ダークス">
-「ああ、どうぞ」
+<name "Darx">
+"Yeah, go ahead."
 #
-　メリルは腰を動かしながら、報告を続ける。
+She continues while moving her hips.
 #
-　その報告が終わるまでに、二回ほど射精を強要さ
-　れてしまった。
+By the time she finishes, I had come twice.
 #
-<name "ダークス">
-「腕を上げたな」
+<name "Darx">
+"You've gotten pretty good."
 #
-<name "メリル" "!HA0031">
-「不本意ながら」
+<name "Meryl" "!HA0031">
+"Against my will."
 #
-　多分、俺の人生の中で一番多く相手をしたのがメ
-　リルだろう。
+Meryl's possibly who I've been with more than
+anybody else.
 #
-　俺がフォーゼロッテの部下だった頃、俺の上司で
-　あったメリルが降格騒ぎを起こし、俺の部下になっ
-　た。
+She was my boss when I was Forzelotte's minion,
+but she caused an incident, got demoted, and
+ended up answering to me.
 #
-　肉体的にはそれからの付き合いだ。
+We've had a physical relationship ever since
+then.
 #
-<name "メリル" "!HA0032">
-「では、続いて報告です」
+<name "Meryl" "!HA0032">
+"Okay, on to the next report."
 #
-<name "ダークス">
-「ん？
-　終わったんじゃなかったか？」
+<name "Darx">
+"Hm?
+ I thought you were finished."
 #
-<name "メリル" "!HA0033">
-「久しぶりの行為が、これでは寂しいと思いますが」
+<name "Meryl" "!HA0033">
+"It's been so long, it'd be a little sad to
+ leave it at just that."
 #
-<name "ダークス">
-「確かにな……じゃあ、お前の身体の良さでも報告
-　して貰おうかな」
+<name "Darx">
+"That's true...
+ Then how about a report on the virtues of 
+ your body?"
 #
-<name "メリル" "!HA0034">
-「はい。
-　その報告は、実際にお試し頂くのが一番かと」
+<name "Meryl" "!HA0034">
+"Yes, sir.
+ I think that report is best investigated
+ personally."
 #
-<name "ダークス">
-「だな」
+<name "Darx">
+"Yeah."
 #
-　俺は腰を跳ね上げ、メリルの身体を浮かした。
+I thrust my hips and push her upward.
 #
 <background "ev055b01.agf" 10>
-<name "メリル" "!HA0035">
-「ひぁっ」
+<name "Meryl" "!HA0035">
+"Ah!"
 #
-　そして、落下する事で、俺のモノが深くメリルの
-　膣内に潜り込む。
+And then she falls, plunging my dick deep into
+her pussy.
 #
 <background "ev055c00.agf" 10>
-<name "メリル" "!HA0036">
-「ふぁ、ぁ、ぁぁぁっ」
+<name "Meryl" "!HA0036">
+"Aah! Ah! Aaah!"
 #
-　俺に射精を二回も強要しながら、一度も達してな
-　いメリルの膣内はかなり熟れていた。
+Despite forcing me to come twice, she hasn't
+come yet, so her pussy is incredibly tender.
 #
-　我慢していた事もあるのだろう。
+She must've been holding back.
 #
 <background "ev055c01.agf" 10>
-<name "メリル" "!HA0037">
-「あっ、ふぁっ、んぁっ、ああん、あ、あ、ま、ひ、
-　魔王様ぁっ！」
+<name "Meryl" "!HA0037">
+"Aah! Ahh! Ahhh! Aaaah! Ah! Aah!
+ O-Overlord!"
 #
-　メリルは大きな声と共に絶頂を迎え、俺の三回目
-　の精液を膣内で受け止めた。
+She orgasms with a loud cry and takes my
+third shot of semen into her.
 #
 \x78\x78

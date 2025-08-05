@@ -1,86 +1,85 @@
 ﻿<music 14>
 <background "ev018d00.agf" 10>
-<name "キュリハ" "!FA0375">
-「このテーブルと椅子は……」
+<name "Kyuriha" "!FA0375">
+"This table and these chairs..."
 #
-<name "ミアルテ" "!SA0213">
-「天界から取り寄せました」
+<name "Miartei" "!SA0213">
+"I ordered them from Celestia."
 #
-<name "ミアルテ" "!SA0214">
-「キュリハのお茶も良いけど、私のお茶も悪くない
-　でしょ」
+<name "Miartei" "!SA0214">
+"Your tea is fine, but mine isn't bad either."
 #
-<name "キュリハ" "!FA0376">
-「そうですね」
+<name "Kyuriha" "!FA0376">
+"Indeed."
 #
-<name "ルーアルテ" "!RA0223">
-「お姉様。
-　ケーキの用意ができました」
+<name "Rualtei" "!RA0223">
+"Sister, the cake is ready."
 #
-<name "ミアルテ" "!SA0215">
-「ありがとう。
-　ルーアルテも席にどうぞ」
+<name "Miartei" "!SA0215">
+"Thank you.
+ Please have a seat yourself too."
 #
-<name "ルーアルテ" "!RA0224">
-「はい」
+<name "Rualtei" "!RA0224">
+"Okay."
 #
-<name "キュリハ" "!FA0377">
-「こうしてこのテーブルと椅子でお茶をしていると、
-　ここに来る前を思い出します」
+<name "Kyuriha" "!FA0377">
+"Having tea with you, with this table and
+ these chairs, it reminds me of before we
+ came here."
 #
-<name "ミアルテ" "!SA0216">
-「そうね」
+<name "Miartei" "!SA0216">
+"Yes."
 #
-<name "キュリハ" "!FA0378">
-「私がわざわざ警告したのに、ちょっかいを出して
-　来た事も……」
+<name "Kyuriha" "!FA0378">
+"I went out of my way to warn you, and you
+ decided to meddle anyway..."
 #
-<name "ミアルテ" "!SA0217">
-「あ、あはは。
-　それは忘れて下さい」
+<name "Miartei" "!SA0217">
+"H-Hahaha...
+ Please forget that."
 #
-<name "キュリハ" "!FA0379">
-「…………あの」
+<name "Kyuriha" "!FA0379">
+"...Um..."
 #
-<name "ミアルテ" "!SA0218">
-「なにかしら？」
+<name "Miartei" "!SA0218">
+"What is it?"
 #
-<name "キュリハ" "!FA0380">
-「ミアルテは、どうして私の警告を無視したのです
-　か？」
+<name "Kyuriha" "!FA0380">
+"Why did you ignore my warning?"
 #
-<name "ミアルテ" "!SA0219">
-「え？」
+<name "Miartei" "!SA0219">
+"Huh?"
 #
-<name "キュリハ" "!FA0381">
-「貴女が魔界を嫌っているのは知っていましたが、
-　私の警告を無視して活動するほどとは思えません」
+<name "Kyuriha" "!FA0381">
+"I knew you hated the Netherworld, but I don't
+ think that would be enough for you to ignore
+ me and start acting."
 #
-<name "ミアルテ" "!SA0220">
-「それは、えっと……あれ？」
+<name "Miartei" "!SA0220">
+"That's... um... huh?"
 #
-<name "キュリハ" "!FA0384">
-「スイセンが煽ったと言っていましたが？」
+<name "Kyuriha" "!FA0384">
+"Are you saying Suisen incited you?"
 #
-<name "ミアルテ" "!SA0221">
-「…………スイセンが来たのは覚えているけど。
-　あれ？」
+<name "Miartei" "!SA0221">
+"...I do remember Suisen coming to see me.
+ Huh?"
 #
-<name "キュリハ" "!FA0385">
-「ルーアルテは何か知りませんか？」
+<name "Kyuriha" "!FA0385">
+"Do you know anything, Rualtei?"
 #
-<name "ルーアルテ" "!RA0225">
-「い、いえ？
-　私はお姉様から指示を頂き、それに従っただけで
-　す」
+<name "Rualtei" "!RA0225">
+"N-No?
+ I just got orders from my sister and followed
+ them."
 #
-<name "キュリハ" "!FA0386">
-「……これは」
+<name "Kyuriha" "!FA0386">
+"This means...
 #
-<name "ミアルテ" "!SA0222">
-「スイセンが裏で何かしているの？」
+<name "Miartei" "!SA0222">
+"Was Suisen up to something?"
 #
-<name "キュリハ" "!FA0387">
-「可能性が出て来ました」
+<name "Kyuriha" "!FA0387">
+"It does seem possible."
 #
 \x78\x78

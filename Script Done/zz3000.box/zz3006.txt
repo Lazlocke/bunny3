@@ -1,210 +1,220 @@
 ﻿<music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta01a004.agf" 4 4 11>
-<name "ソフィア" "!ZB0628">
-「魔王様。
-　お手紙です」
+<name "Sofia" "!ZB0628">
+"Overlord, a letter for you."
 #
-<name "ダークス">
-「ん？
-　ウルティニアから？」
+<name "Darx">
+"Hm?
+ From Ultinia?"
 #
 <removesprite -1 11>
-　俺の妻の一人だ。
+She's one of my wives.
 #
-<name "ダークス">
-「なんだ？」
+<name "Darx">
+"What is it?"
 #
-　俺は手紙を広げた。
+I open the letter.
 #
-　仕事の報告と、温泉へのお誘いだった。
+It's a work report, and invitation to the hot
+springs.
 #
-　温泉か……
+Hot springs, huh?
 #
-　悪くないな。
+That doesn't sound bad.
 #
-　場所は……
+The place is...
 #
-　ここか。
+Here?
 #
-　あー、なるほど。
+Aah, I see.
 #
-　こっちに来る理由ね。
+That's why she came.
 #
-<name "ダークス">
-「ソフィア」
+<name "Darx">
+"Sofia."
 #
 <sprite "ta01a004.agf" 4 4 11>
-<name "ソフィア" "!ZB0629">
-「はい」
+<name "Sofia" "!ZB0629">
+"Yes?"
 #
-<name "ダークス">
-「少し、出かける」
+<name "Darx">
+"I'm going out for a while."
 #
 <sprite "ta01a001.agf" 4 4 12>
-<name "ソフィア" "!ZB0630">
-「は、はい」
+<name "Sofia" "!ZB0630">
+"Y-Yes, sir."
 #
 <removesprite -1 11>
-　思い立ったら、即行動だ。
+Strike while the iron's hot.
 #
 <music 49>
 <background "ev053a00.agf" 10>
-<name "ダークス">
-「はぁ……落ち着く」
+<name "Darx">
+"Aaah...
+ So relaxing."
 #
-　俺はウルティニアと共に温泉に入った。
+I get in the hot spring with Ultinia.
 #
-　混浴……ではなく、俺専用に用意された温泉だ。
+It's not mixed bathing, but this one is,
+exclusively for me.
 #
-　と言っても、普段は一般開放。
+Normally though, it's open for anybody to use.
 #
-　俺が入れる温泉という事だ。
+This hot spring's for me only.
 #
-　だから、こんな感じになっているが、テレる者
-　は少ない。
+So despite how it looks, not many of the people
+here are too shy.
 #
-　俺が来るかもしれない温泉に居るのは、基本的
-　に俺に抱かれた事のある者達だ。
+Since it's my personalhot springs, they're
+pretty much all women I've slept with.
 #
-<name "ウルティニア" "!EA0045">
-「ですね。
-　こちらの調子はどうです？」
+<name "Ultinia" "!EA0045">
+"Indeed.
+ How is everything with you?"
 #
-<name "ダークス">
-「それなりだな。
-　街だけに集中させて貰えれば、もう少し楽なんだ
-　が……」
+<name "Darx">
+"It's not bad.
+ It'd be a little easier if all I had to
+ worry about was the city though."
 #
-<name "ウルティニア" "!EA0046">
-「戦っている方が性に合っていると思いますが？」
+<name "Ultinia" "!EA0046">
+"Isn't it more like you to fight?"
 #
-<name "ダークス">
-「確かにな。
-　お前の所はどうだ？」
+<name "Darx">
+"That's a fair point.
+ How about things with you?"
 #
-　ウルティニアは、パニバーナ、イザナと共に天蓋
-　の城の領主をやっていた天界の住人だ。
+Ultinia, Paniverna, and Izana are angels who
+were the lords of Castle Baldaquin.
 #
-　今は俺の妻の一人として、フォーゼロッテ宮に残っ
-　た天界組をまとめている。
+Now, as my wives, they deal with the angels
+who are staying at Forzelotte's Shrine.
 #
-<name "ウルティニア" "!EA0047">
-「仕事は順調ですが、部下に不満が少々」
+<name "Ultinia" "!EA0047">
+"My work is going well, but there's some
+ dissatisfaction among our people."
 #
-<name "ダークス">
-「不満？」
+<name "Darx">
+"Dissatisfaction?"
 #
-<name "ウルティニア" "!EA0048">
-「私の部下の大半が、元天界側の兵士。
-　魔王様に抱かれ、魔王様が居るからこそ残った者
-　が殆どですから」
+<name "Ultinia" "!EA0048">
+"Most of my people are warriors from Celestia.
+ You slept with almost all of them, and they
+ stayed simply because it's where you are."
 #
-<name "ウルティニア" "!EA0049">
-「時々、魔王様の元に行ければ良いのですが、そう
-　もいかないでしょう」
+<name "Ultinia" "!EA0049">
+"They want to come see you every now and then,
+ but that's not acceptable."
 #
-<name "ウルティニア" "!EA0050">
-「お陰で、自主的に分身体の所に行く者が、少ない
-　ながら出る始末です」
+<name "Ultinia" "!EA0050">
+"Because of that, a few of them go to your
+ other body on their own, but it's only a few."
 #
-<name "ダークス">
-「あー、そうか。
-　対策を考えないといけないか」
+<name "Darx">
+"Aah, I see.
+ Sounds like I need to come up with something
+ then."
 #
-<name "ウルティニア" "!EA0051">
-「時々、マリーアリスの部下に混ぜてそちらに送り
-　ますので、適度にお相手をして頂ければ」
+<name "Ultinia" "!EA0051">
+"Every now and then, I can let some sneak in
+ with Marialis's group, if you can make sure
+ to accomodate them."
 #
-<name "ダークス">
-「それ、マクドゥに見つかると煩いだろ？」
+<name "Darx">
+"Wouldn't it be bad if Macdo found out?"
 #
-<name "ウルティニア" "!EA0052">
-「私の見た感じでは、これぐらいは見逃して貰えそ
-　うですよ。
-　実際、何も手伝っていませんし、逆に魔王様の手
-　を塞いでいるとも言えます」
+<name "Ultinia" "!EA0052">
+"From what I can tell, she'd overlook this.
+ In fact, it's not helping you at all.
+ If anything, it's creating more problems for
+ you to deal with."
 #
-<name "ダークス">
-「ははは。
-　そうか。
-　それは困ったな」
+<name "Darx">
+"Hahaha.
+ I see.
+ It could be a handful."
 #
-<name "ウルティニア" "!EA0053">
-「適度に、で構いませんので」
+<name "Ultinia" "!EA0053">
+"It should be fine in moderation."
 #
-<name "ダークス">
-「わかった」
+<name "Darx">
+"All right."
 #
-<name "ウルティニア" "!EA0054">
-「こういったお願いをしておきながらなんですが、
-　色々と疲労が溜まっていると聞いております。
-　今日はのんびりとお寛ぎ下さい」
+<name "Ultinia" "!EA0054">
+"I now it's a lot to ask you to do things like
+ this, and I hear how tired and stressed you
+ are.
+ Please just relax and enjoy yourself today."
 #
-<name "ダークス">
-「ああ、そうさせて貰おう」
+<name "Darx">
+"Yeah, I will."
 #
-<name "ダークス">
-「が……なぜ、俺の股間に手を伸ばす？
-　寛げないだろ？」
+<name "Darx">
+"So... why are you reaching between my legs?
+ Aren't we supposed to be relaxing?"
 #
-<name "ウルティニア" "!EA0055">
-「魔王様にとっては、こういった事はお寛ぎの範疇
-　だと思っておりましたが？」
+<name "Ultinia" "!EA0055">
+"Isn't this kind of thing a sort of relaxation
+ for you?"
 #
-<name "ダークス">
-「体力、気力の消費度合いが、愛情の深さだろ。
-　寛ぎながらやらん」
+<name "Darx">
+"Physical and mentally venting is the core of
+ expressing love.
+ It's not a part of relaxation."
 #
-<name "ダークス">
-「それに、お前相手に楽な行為にはならないだろ」
+<name "Darx">
+"Besides, you know I won't go easy with you."
 #
-<name "ウルティニア" "!EA0056">
-「ああ、感動です。
-　そんなにも私の事を」
+<name "Ultinia" "!EA0056">
+"Aah, I'm so touched.
+ You think so much of me."
 #
-<name "ダークス">
-「ははは」
+<name "Darx">
+"Hahahaha."
 #
-　ウルティニアは俺が手を抜いても察するし、機嫌
-　が悪くなった上に執拗に求めてくるからなぁ。
+She can always see right through me, no matter
+how I try to hide it, and is relentless 
+whenever she's in a bad mood.
 #
-　なら、最初っから全開で相手した方がお互いの為
-　だ。
+So it's better for both of us to be completely
+open right from the start.
 #
-　嫌いじゃないしな。
+I don't hate that.
 #
-<name "ダークス">
-「ま、ともかく後でだ」
+<name "Darx">
+"Well, later, anyway."
 #
-<name "ダークス">
-「とりあえず、今はこの温泉を楽しませてくれ」
+<name "Darx">
+"For now, let's just enjoy the hot spring."
 #
-<name "ウルティニア" "!EA0057">
-「承知しました。
-　名残惜しいですけど」
+<name "Ultinia" "!EA0057">
+"I understand.
+ It is a shame though."
 #
-<name "ダークス">
-「後で気絶するまで相手してやるから」
+<name "Darx">
+"I'll be with you later until you pass out."
 #
-　俺はウルティニアの胸を乱暴に揉む。
+I squeeze her breast hard.
 #
-<name "ウルティニア" "!EA0058">
-「んぁ……
-　た、楽しみにしております」
+<name "Ultinia" "!EA0058">
+"Mmm...
+ I-I'm looking forward to it."
 #
-　俺はウルティニアと一緒に、温泉を楽しんだ。
+I enjoy the hot spring with her.
 #
-　……
+...
 #
-<name "ダークス">
-「後でって言ったのに、十分後に押し倒された！」
+<name "Darx">
+"I said later, but you forced me down after
+ only ten minutes!"
 #
-<name "ウルティニア" "!EA0059">
-「胸を揉まれてから、鼓動が激しくなり過ぎて……
-　我慢できませんでした」
+<name "Ultinia" "!EA0059">
+"After you rubbed my breast, my heart started
+ beating too hard...
+ I couldn't take it."
 #
-　不満が溜まっていたのは、部下だけじゃなかった
-　ようだ。
+Apparently it's not just her followers who were
+frustrated.
 #
 \x78\x78

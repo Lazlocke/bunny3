@@ -1,43 +1,47 @@
 ﻿<music 11>
 <background "bg013a0.agf" 10>
-<name "ダークス">
-「マリーアリス」
+<name "Darx">
+"Marialis."
 #
 <sprite "ta15a003.agf" 4 4 11>
-<name "マリーアリス" "!LA5034">
-「なんですか？」
+<name "Marialis" "!LA5034">
+"Yes?"
 #
-<name "ダークス">
-「エロい事、するぞー！」
+<name "Darx">
+"Let's have sex!"
 #
 <sprite "ta15a013.agf" 4 4 12>
-<name "マリーアリス" "!LA5035">
-「え？」
+<name "Marialis" "!LA5035">
+"Huh?"
 #
 <removesprite -1 11>
 <music 17>
 <background "ev091a00.agf" 10>
-<name "マリーアリス" "!LA5036">
-「もう、強引なんですから」
+<name "Marialis" "!LA5036">
+"Honestly.
+ You're so pushy."
 #
-<name "ダークス">
-「と言いながらも、しっかりと受け入れてくれるな」
+<name "Darx">
+"You say that, but you totally accepted it."
 #
-<name "マリーアリス" "!LA5037">
-「あはは……鍛えられましたから」
+<name "Marialis" "!LA5037">
+"Hahaha...
+ That's how I was trained."
 #
-<name "ダークス">
-「ん？
-　どんな鍛えられ方をしたんだ？」
+<name "Darx">
+"Hm?
+ Trained how?"
 #
-<name "マリーアリス" "!LA5038">
-「もう、知っている癖に」
+<name "Marialis" "!LA5038">
+"Honestly.
+ You already know."
 #
-<name "ダークス">
-「じゃあ、鍛えた成果を見せて貰おうか」
+<name "Darx">
+"Then can I see the results of that training?"
 #
-<name "マリーアリス" "!LA5040">
-「はい。
-　存分に、どうぞ」
+<name "Marialis" "!LA5040">
+"Yes.
+ To your heart's desire.
+ Please."
 #
 \x78\x78

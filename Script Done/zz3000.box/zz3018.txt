@@ -1,58 +1,61 @@
 ﻿<music 22>
 <background "ev069a01.agf" 10>
-<name "悶える天界兵" "!QB0082">
-「ぅぁ、ぁ、ぁ、ひぁ、ああん」
+<name "Writhing Angel" "!QB0082">
+"Aah! Ah! Aah! Aah! Ahhhh!"
 #
-<name "喘ぐ天界兵" "!WB0073">
-「んんぁ、んぁ、ふぁ……」
+<name "Panting Angel" "!WB0073">
+"Mmm...mmm...aaah..."
 #
-<name "嫌がる天界兵" "!TC0072">
-「ひっ、ひぁ、ひぁぁっ、くぁ、も、もう無理ぃ」
+<name "Resisting Angel" "!TC0072">
+"Ah! Aah! Ah! Ngh!
+ N-No more!"
 #
-　分身体は、激しく天界兵達の肉体を求め続けてい
-　た。
+My body continue violently raping their
+bodies.
 #
-<name "ラキア" "!ZC0327">
-「どうです？」
+<name "Rakia" "!ZC0327">
+"How is it?"
 #
-<name "商会メイド" "!PC0192">
-「問題ありません。
-　いつも通りです」
+<name "Company Maid" "!PC0192">
+"No problems.
+ Same as always."
 #
-<name "ラキア" "!ZC0328">
-「そうですか。
-　体験している者達の感想は？」
+<name "Rakia" "!ZC0328">
+"I see.
+ What about the people going through it?"
 #
-<name "商会メイド" "!PC0193">
-「概ね高評価です」
+<name "Company Maid" "!PC0193">
+"Mostly high marks."
 #
-<name "ラキア" "!ZC0329">
-「例えば？」
+<name "Rakia" "!ZC0329">
+"Such as?"
 #
-<name "商会メイド" "!PC0194">
-「テクニシャンで、飽きない。
-　弱い所を覚えていてくれる。
-　激しい」
+<name "Company Maid" "!PC0194">
+"It's skilled and never gets tired.
+ It remembers my weak spots.
+ It's intense."
 #
-<name "商会メイド" "!PC0195">
-「代わり映えしませんが、このような感じです」
+<name "Company Maid" "!PC0195">
+"It doesn't look pretty, but that's how it
+ is."
 #
-<name "ラキア" "!ZC0330">
-「そうみたいね。
-　では、いつも通りに」
+<name "Rakia" "!ZC0330">
+"Seems like it.
+ Then, keep it up."
 #
-<name "商会メイド" "!PC0196">
-「はい。
-　次の交代は、二十六時間後を予定しております」
+<name "Company Maid" "!PC0196">
+"Yes, ma'am.
+ The next shift is scheduled for 26 hours from
+ now."
 #
-<name "ラキア" "!ZC0331">
-「了解しました」
+<name "Rakia" "!ZC0331">
+"Understood."
 #
-<name "ラキア" "!ZC0332">
-「……貴女が捕まったりしないようにね」
+<name "Rakia" "!ZC0332">
+"...Make sure you don't get caught."
 #
-<name "商会メイド" "!PC0197">
-「あはは。
-　注意します」
+<name "Company Maid" "!PC0197">
+"Hahaha.
+ I'll be careful."
 #
 \x78\x78

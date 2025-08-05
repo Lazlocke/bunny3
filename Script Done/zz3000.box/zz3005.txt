@@ -1,68 +1,71 @@
 ﻿<music 17>
 <background "ev052a01.agf" 10>
-<name "ウルティニア" "!EA0040">
-「魔王様」
+<name "Ultinia" "!EA0040">
+"Overlord."
 #
-<name "ダークス">
-「ん？」
+<name "Darx">
+"Hm?"
 #
-<name "ウルティニア" "!EA0041">
-「最近は天蓋の城周辺は平和なんです。
-　小競り合いも減りました」
+<name "Ultinia" "!EA0041">
+"Lately, it's been peaceful around Castle
+ Baldaquin.
+ There's been fewer battles as well."
 #
-<name "ダークス">
-「良い事だな」
+<name "Darx">
+"Isn't that a good thing?"
 #
-<name "ウルティニア" "!EA0042">
-「そうなのですが、どうも不気味で……」
+<name "Ultinia" "!EA0042">
+"Yes, but it's also unsettling..."
 #
-<name "ダークス">
-「根拠としては弱いが……嵐の前の静けさという言
-　葉もある。
-　注意はしておこう。
-　パニバーナ」
+<name "Darx">
+"It's a bad saying, but they do say there's a
+ calm before a storm.
+ Stay on guard.
+ Paniverna."
 #
-<name "パニバーナ" "!DA0059">
-「ふぁ、は、はい？」
+<name "Paniverna" "!DA0059">
+"Aah...
+ Y-Yes?"
 #
-<name "ダークス">
-「エカテーを向こうに戻すまで、扉の間に気を配っ
-　てくれ」
+<name "Darx">
+"Until Ekate's back, keep especially careful
+ watch on the Hall of Doors."
 #
-<name "パニバーナ" "!DA0060">
-「わかりました」
+<name "Paniverna" "!DA0060">
+"Understood."
 #
-<name "ダークス">
-「イザナは、学園生徒の安全重視。
-　あまり遠くへ行かせるな。
-　フォーゼロッテにも伝えておく」
+<name "Darx">
+"Izana, focus on keeping the students safe.
+ Don't let them go too far afield.
+ I'll tell Forzelotte too."
 #
-<name "イザナ" "!AA0025">
-「はい」
+<name "Izana" "!AA0025">
+"Okay."
 #
-<name "ダークス">
-「ウルティニアは、警戒態勢の再確認だ」
+<name "Darx">
+"Ultinia, make sure you stay on guard."
 #
-<name "ウルティニア" "!EA0043">
-「承知しました」
+<name "Ultinia" "!EA0043">
+"I understand."
 #
-<name "ダークス">
-「では、解散」
+<name "Darx">
+"Okay, dismissed."
 #
-<name "ウルティニア" "!EA0044">
-「えー」
+<name "Ultinia" "!EA0044">
+"Eeh?"
 #
-<name "イザナ" "!AA0026">
-「ええー」
+<name "Izana" "!AA0026">
+"Eeeeh?"
 #
-<name "パニバーナ" "!DA0061">
-「も、もう一回ぐらいは耐えてみせます」
+<name "Paniverna" "!DA0061">
+"I-I could stand one more time."
 #
-<name "ダークス">
-「……仕方が無い。
-　相手してやるけど、今の命令を忘れるなよ」
+<name "Darx">
+"...If you insist.
+ I'll do it, but don't forget the orders I
+ gave you."
 #
 <background "ev052a03.agf" 10>
-　俺は頑張った。
+I did my best.
 #
 \x78\x78

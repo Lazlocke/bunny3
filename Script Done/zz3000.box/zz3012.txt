@@ -1,193 +1,212 @@
 ﻿<music 5>
 <background "bg011b0.agf" 10>
-<name "ダークス">
-「ふう……」
+<name "Darx">
+"Whew..."
 #
-　俺はベッドに横たわり、身体を休める。
+I lie down in the bed and relax.
 #
-　調子は悪くない。
+I don't feel too bad.
 #
-　時間もある……
+I've got time...
 #
-　そろそろやっておかないとな。
+I should do it soon.
 #
-　俺は強く目を閉じた。
+I close my eyes.
 #
 <music 15>
 <background "bg017a0.agf" 10>
-　そして、自分の分身体を意識する。
+And focus on my other body.
 #
-　あの触手塊。
+The mass of tentacles.
 #
-　同時に、自分の身体が作り変えられる感覚が襲っ
-　てくる。
+It feels like my entire body is being 
+transformed.
 #
-　それはかなり暴力的だ。
+It's pretty violent.
 #
-　一度、分解され、もう一度組み立てられる、そん
-　な感じだ。
+Like being torn apart and put back together.
 #
-　さらに、自分の感情の攻撃的な部分が増加してい
-　くのがわかる。
+And I can feel all aggressive emotions flooding
+into me.
 #
-　わかってしまう。
+I'm aware of it all.
 #
-　妙な冷静さ。
+A strange calmness.
 #
-　そして光が俺の目を襲う。
+And then light blinds me.
 #
 <background "bg018a0.agf" 10>
 <music 22>
 <background "ev069a00.agf" 10>
-　まずは視覚。
+First, sight comes back.
 #
-　触手に絡まれた天界兵達が見える。
+Angels wrapped in tentacles.
 #
-　そして聴覚。
+And then hearing.
 #
-<name "悶える天界兵" "!QB0076">
-「ふぁ、ん、んぁ、ぁ、いやぁ……」
+<name "Writhing Angel" "!QB0076">
+"Aah...mm...mmm...ah...
+ Nooo..."
 #
-<name "喘ぐ天界兵" "!WB0069">
-「あ、も、も、もう、駄目、やめ、んんぁ」
+<name "Panting Angel" "!WB0069">
+"Ah... D-Don't... No...
+ Stop...
+ Mmmm..."
 #
-<name "抵抗する天界兵" "!TC0069">
-「ぁ……くそっ、こ、こんなので……
-　ひぅっ、ま、また、中に……こ、殺して、ひぅ、
-　殺してやるからぁ！」
+<name "Resistant Angel" "!TC0069">
+"Ah... Damn it... T-This is...
+ Aah! I-Inside again...
+ I-I'll kill... ah!
+ I'm going to kill you!"
 #
-　聞きなれた喘ぎ、怨嗟の声、そして触手が天界兵
-　の肉体を甚振る音。
+Moans, resentment, and the sounds of tentacles
+wrapping around the angels...
+All sounds I'm used to.
 #
-　何の音か理解し始めると同時に、圧倒的な感覚が
-　俺を襲う。
+As I recognize the sounds, an overwhelming
+sensation hits me.
 #
-　自分の身体が全て触手になり、全てが手であり、
-　口であり、モノである感覚。
+My whole body is tentacles.
+Everything is a hand, a mouth, a dick.
 #
-　最初の頃は、その感覚に耐えれずに何度も吐いた。
+At the start, I couldn't stand the sensations
+and threw up over and over again.
 #
-　気絶もした。
+I even passed out.
 #
-　しかし、回数を繰り返す事でやっと慣れてきた。
+But after doing it many times, I finally got
+used to it.
 #
-　分身体。
+My other body.
 #
-　その身体に自身の意識が移った。
+My mind inside that body.
 #
-　それを理解すると同時に、少し前の分身体の記憶
-　が襲ってくる。
+Its memory suddenly floods into me.
 #
-　無理矢理に体験させられる感じだ。
+It's like it's being forced into my head.
 #
-　だが、それで状況を理解する。
+But now I understand the situation.
 #
-　いや、まあ、理解しても一緒だ。
+Well, it doesn't change anything.
 #
-　分身体の居る部屋に放り込まれた天界兵。
+These angels were thrown into this room.
 #
-　それを襲っているだけだ。
+It's just attacking them.
 #
-　見覚えはある。
+That's obvious.
 #
-　城落下後に捕らえた天界兵だ。
+These angels were taken prisoner after the
+castles fell.
 #
-　処女を奪い、陵辱してやった。
+I took their virginity and raped them.
 #
-　その後、なかなか屈服せずに現在に至る。
+Even after all this time, they haven't given
+in.
 #
-　定期的にこの分身体の相手をさせられている者達
-　だ。
+These are the ones that are regularly thrown
+to my body.
 #
-<name "悶える天界兵" "!QB0077">
-「ぁ、うぁ、ぁぁぁぁ……許してぇ……ふぁっ」
+<name "Writhing Angel" "!QB0077">
+"Ah...aah...aaah...
+ Forgive me...
+ Aaah!"
 #
-<name "喘ぐ天界兵" "!WB0070">
-「うぐぁ、ぁ、ぁぁっ、そ、そこは、ひぁ、駄目、
-　ぁ、ぁ、ぁぁぁぁぁっ！」
+<name "Panting Angel" "!WB0070">
+"Aaah! Ah! Aaah! T-That's...aaah!
+ No! Ah! Ah! Aaaaah!"
 #
-<name "抵抗する天界兵" "!TC0070">
-「殺す、絶対に……絶対にだ……ぁ、うぁ、ぁ」
+<name "Resistant Angel" "!TC0070">
+"I swear I'll kill you...
+ I swear...
+ Ah...aah...ah!"
 #
-　そう判断できる冷静な思考とは別に、常に雌を求
-　める本能的な部分が自分の身体……触手を巧みに
-　動かして天界兵の肉体を執拗に求める。
+Despite how calmly I can think right now, my
+body instinctively always hungers for women.
+The tentacles move dextrously and lust for
+their bodies.
 #
-　その行為は、かなり激しい。
+The act is intense.
 #
-　無理矢理に足を広げさせ、無防備になった前後の
-　穴に太い触手を捻じ込む。
+Their legs are forcibly spead, and thick
+tentacles are thrust into their unprotected
+holes.
 #
-　その感触は、自分のモノを捻じ込んだのと同様の
-　快楽を生み出し、そして自分の手を突き入れたか
-　のような細かな動作をする。
+It's the same feeling as if my dick was in 
+them, but with the fine movements as if it was
+my fingers.
 #
-　穴の中に入った触手の動きは複雑だ。
+The tentacles writhe inside their holes.
 #
-　基本的な前後運動は当然として、拡大、縮小、回
-　転、そして振動。
+In and out, but also growing and shrinking,
+rotating, and vibrating.
 #
-　あらゆる動きで穴の中を掻きまわす。
+Stirring up their holes with each little
+movement.
 #
-　奥への侵入が困難になると、触手の先からさらに
-　細い触手が生み出され、奥を目指す。
+If it's too hard to go too deep, thinner
+tentacles sprout from the tips to go deeper.
 #
-<name "悶える天界兵" "!QB0078">
-「ぁぁぁぁぁぁぁっ！」
+<name "Writhing Angel" "!QB0078">
+"Aaaaaah!"
 #
-　そして、触手の先という先から精液を発射する。
+And then semen shoots from the tentacles.
 #
 <background "ev069a01.agf" 10>
-<name "喘ぐ天界兵" "!WB0071">
-「ぁ、ま、また、嫌、これ、嫌、ぁ、ぁぁっ！」
+<name "Panting Angel" "!WB0071">
+"Ah! A-Agin!
+ No! Not this!
+ Ah! Aaah!"
 #
-　普通にモノ先から飛び出すような場所もあれば、
-　ドクドクと流し込むような触手もある。
+Anywhere that could be filled normally, the
+tentacles are sure to flood.
 #
-　千差万別。
+In every way possible.
 #
-　しかし、俺はそれら一本一本を操作している感覚
-　も味わう。
+But I also feel like I'm controlling every
+single one of them.
 #
-　圧倒的な快楽。
+The pleasure is overwhelming.
 #
-　俺は本能のままに、天界兵達を蹂躙し続けた。
+I continue to give in to my instincts and
+violate the angels.
 #
 <background "bg017a0.agf" 10>
 <music 5>
 <background "bg011b0.agf" 10>
-　俺はゆっくりと目を開けた。
+I slowly open my eyes.
 #
-　自分の身体を確認する。
+It's my own body.
 #
-<name "ダークス">
-「ふう」
+<name "Darx">
+"Whew..."
 #
-　定期的に分身体への意識を移す行為。
+I try to regularly move my mind into that
+body.
 #
-　長時間、移している必要は無いらしいが、これは
-　必須なのだそうだ。
+It doesn't need to be for a long time, but it
+does need to be done regularly.
 #
-　分身体を作る方法を教えてくれた者、魔界の大魔
-　王からのアドバイスだ。
+At least, that's what I was told by the Great
+Overlord who taught me how to create it.
 #
-　なんでも分身体の感情を整理する為には、これが
-　一番だそうだ。
+He said that's the best way to sort out the
+emotions in my other body.
 #
-　解りやすい不具合とすれば、長期間放置して意識
-　を移すと、向こうの感覚に引っ張られ過ぎて戻っ
-　て来れなくなるらしい。
+It's easy to understand why.
+If left alone for too long, you get pulled too
+deep into its own sensations and it becomes
+hard to come back.
 #
-　さすがにそれはマズイ。
+That would be very bad.
 #
-　というか危ない。
+Or rather, dangerous.
 #
-　本当は、分身体など使いたくない。
+Honestly, I'd prefer not to use it.
 #
-　だが、俺には必要だ。
+But I need it.
 #
-　そう。
+Yeah.
 #
-　俺には必要なのだ。
+I need it.
 #
 \x78\x78

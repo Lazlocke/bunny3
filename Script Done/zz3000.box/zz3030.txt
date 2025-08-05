@@ -1,92 +1,91 @@
 ﻿<music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta05a008.agf" 4 4 11>
-<name "キュリハ" "!FA0357">
-「未来なんてわかりませんね」
+<name "Kyuriha" "!FA0357">
+"You never know what the future may hold."
 #
 <removesprite -1 11>
 <sprite "ta05a008.agf" 2 4 11>
 <sprite "ta03a004.agf" 6 5 11>
-<name "ミアルテ" "!SA0205">
-「そうですね」
+<name "Miartei" "!SA0205">
+"That's right."
 #
 <sprite "ta05a015.agf" 2 4 12>
-<name "キュリハ" "!FA0358">
-「まさか、貴女と男を取り合うなんて」
+<name "Kyuriha" "!FA0358">
+"I never thought I'd be competing with you
+ over a man."
 #
 <sprite "ta03a022.agf" 6 5 12>
-<name "ミアルテ" "!SA0206">
-「ええ」
+<name "Miartei" "!SA0206">
+"Yes."
 #
 <sprite "ta05a017.agf" 2 4 12>
-<name "キュリハ" "!FA0359">
-「とりあえず、私の方が先に来ました。
-　ご遠慮願えますか？」
+<name "Kyuriha" "!FA0359">
+"In any case, I was here first.
+ Could you wait your turn?"
 #
 <sprite "ta03a024.agf" 6 5 12>
-<name "ミアルテ" "!SA0207">
-「いえいえ、後先は関係ありません。
-　今日のお昼、私にお声が掛かりました」
+<name "Miartei" "!SA0207">
+"No, no. Order doesn't matter.
+ He asked me to join him today at noon."
 #
 <sprite "ta05a019.agf" 2 4 12>
-<name "キュリハ" "!FA0360">
-「普通に挨拶されただけだと思いますが？」
+<name "Kyuriha" "!FA0360">
+"I believe that was just an ordinary greeting."
 #
 <sprite "ta03a022.agf" 6 5 12>
-<name "ミアルテ" "!SA0208">
-「私と魔王様の間にしかわからない機微があるので
-　す」
+<name "Miartei" "!SA0208">
+"We have a subtle bond that only the two of
+ us share."
 #
 <sprite "ta05a005.agf" 2 4 12>
-<name "キュリハ" "!FA0361">
-「ミア、私の怖さ。
-　忘れましたか」
+<name "Kyuriha" "!FA0361">
+"Mia, have you forgotten how scary I can be."
 #
 <sprite "ta03a007.agf" 6 5 12>
-<name "ミアルテ" "!SA0209">
-「キュリちゃん。
-　私にだって下がれない事はありますよ」
+<name "Miartei" "!SA0209">
+"There are some things even I won't back down
+ over, Kyuri."
 #
 <sprite "ta05a020.agf" 2 4 12>
-<name "キュリハ" "!FA0362">
-「ふふふふふ」
+<name "Kyuriha" "!FA0362">
+"Heheheheh..."
 #
 <removesprite -1 11>
-　まさに二人が激闘しようとした所に、ルーアルテ
-　がやってきた。
+Just as a fight was about to break out, Rualtei
+arrives.
 #
-　俺の部屋から。
+From my room.
 #
 <sprite "ta04a010.agf" 4 4 11>
-<name "ルーアルテ" "!RA0217">
-「あ、あの……なにを？」
+<name "Rualtei" "!RA0217">
+"U-Um... What?"
 #
 <removesprite -1 11>
 <sprite "ta05a012.agf" 4 4 11>
-<name "キュリハ" "!FA0363">
-「……ミア。
-　争っている場合ではありませんね」
+<name "Kyuriha" "!FA0363">
+"...Mia, I don't believe now is the time we
+ should be fighting."
 #
 <removesprite -1 11>
 <sprite "ta05a012.agf" 2 4 11>
 <sprite "ta03a014.agf" 6 5 11>
-<name "ミアルテ" "!SA0210">
-「そのようですね」
+<name "Miartei" "!SA0210">
+"It would seem so."
 #
 <removesprite -1 11>
 <sprite "ta04a017.agf" 4 4 11>
-<name "ルーアルテ" "!RA0218">
-「え？」
+<name "Rualtei" "!RA0218">
+"Huh?"
 #
 <removesprite -1 11>
-　俺はその後、キュリハとミアルテの相手をした。
+I dealt with both of them later.
 #
 <sprite "ta04a011.agf" 4 4 11>
-<name "ルーアルテ" "!RA0219">
-「が、頑張れー」
+<name "Rualtei" "!RA0219">
+"G-Good luck."
 #
 <removesprite -1 11>
-　遠慮がちに応援する声は、誰に向けられたものだっ
-　たのだろうか。
+I have no idea who that was directed towards.
 #
 \x78\x78

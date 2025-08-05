@@ -1,58 +1,59 @@
 ﻿<music 18>
 <background "ev033a00.agf" 10>
-<name "キュリハ" "!FA0353">
-「んぁ、ふぁ、ん、ぬぁ、んん」
+<name "Kyuriha" "!FA0353">
+"Mmm...aaah...mmm...mm...mmm..."
 #
-<name "商会メイド" "!DC0047">
-「あの、魔王様」
+<name "Company Maid" "!DC0047">
+"Um, Overlord."
 #
-<name "ダークス">
-「ん？」
+<name "Darx">
+"Hm?"
 #
-<name "商会メイド" "!DC0048">
-「まだキュリハ様を許していないんですか？」
+<name "Company Maid" "!DC0048">
+"You still haven't forgiven her yet?"
 #
-<name "ダークス">
-「そう思うか？」
+<name "Darx">
+"You don't think so?"
 #
-<name "商会メイド" "!DC0049">
-「ええ」
+<name "Company Maid" "!DC0049">
+"Yes."
 #
-<name "ダークス">
-「そうか。
-　わかった。
-　下がって良いぞ」
+<name "Darx">
+"I see.
+ Understood.
+ You may leave."
 #
-<name "ダークス">
-「……」
+<name "Darx">
+"..."
 #
-<name "ダークス">
-「とか言われてしまうんだが……」
+<name "Darx">
+"She says that, but..."
 #
-<name "キュリハ" "!FA0354">
-「んぁ、お気になさらずに」
+<name "Kyuriha" "!FA0354">
+"Mm... Pay her no mind."
 #
-<name "ダークス">
-「無茶を言うな」
+<name "Darx">
+"That's a big ask."
 #
-　この全裸フェラ行為は、キュリハの希望だ。
+This naked blowjob is what she wanted.
 #
-<name "ダークス">
-「まさか、露出の趣味まであったとは」
+<name "Darx">
+"I had not idea you were an exhibitionist."
 #
-<name "キュリハ" "!FA0355">
-「ダークス様によって、教えられたのです」
+<name "Kyuriha" "!FA0355">
+"You're the one who taught me."
 #
-<name "ダークス">
-「ふん。
-　他の男に見せる気はないんだがな」
+<name "Darx">
+"Hmph.
+ I don't want any other men seeing this."
 #
-　一応、男性の出入りは禁止にしてある。
+For now, men are strictly prohibited from
+coming or going here.
 #
-<name "キュリハ" "!FA0356">
-「ぁ、ん、んんっ……」
+<name "Kyuriha" "!FA0356">
+"Ah...mm...mmm..."
 #
-　俺はキュリハの頭を抱え、その口内に大量の精液
-　を放ってやった。
+I hold her head and let out a flood of semen
+into her mouth.
 #
 \x78\x78

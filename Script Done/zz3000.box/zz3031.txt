@@ -1,69 +1,68 @@
 ﻿<music 4>
 <background "bg009a0.agf" 10>
 <sprite "ta05a004.agf" 4 4 11>
-<name "キュリハ" "!FA0364">
-「ダークス様……素敵」
+<name "Kyuriha" "!FA0364">
+"Darx... How wonderful."
 #
 <removesprite -1 11>
 <sprite "ta03a004.agf" 4 4 11>
-<name "ミアルテ" "!SA0211">
-「私の方が先に相手をして貰ったんですからね。
-　そこを忘れないように」
+<name "Miartei" "!SA0211">
+"I was with him before you.
+ Don't forget that."
 #
 <removesprite -1 11>
 <sprite "ta04a017.agf" 4 4 11>
-<name "ルーアルテ" "!RA0220">
-「まさか、お姉様とキュリハ様が人間の男を奪い合
-　う日が来るなんて……」
+<name "Rualtei" "!RA0220">
+"I can't believe the day came where the two of
+ you would be fighting over a human..."
 #
 <removesprite -1 11>
-<name "ダークス">
-「ルーアルテ。
-　相手をしてくれ」
+<name "Darx">
+"Rualtei, be with me."
 #
 <sprite "ta04a005.agf" 4 4 11>
-<name "ルーアルテ" "!RA0221">
-「は、はい」
+<name "Rualtei" "!RA0221">
+"O-Okay."
 #
 <sprite "ta04a012.agf" 4 4 12>
-<name "ルーアルテ" "!RA0222">
-「えっと、すみません。
-　お姉様、キュリハ様」
+<name "Rualtei" "!RA0222">
+"Um, excuse me, Sister, Kyuriha."
 #
 <removesprite -1 11>
 <sprite "ta05a016.agf" 4 4 11>
-<name "キュリハ" "!FA0365">
-「ダークス様……これほどお慕い申し上げているのに」
+<name "Kyuriha" "!FA0365">
+"Darx... but I want you so desperately."
 #
 <removesprite -1 11>
 <sprite "ta05a016.agf" 2 4 11>
 <sprite "ta03a014.agf" 6 5 11>
-<name "ミアルテ" "!SA0212">
-「ううううっ、私より妹の方が……」
+<name "Miartei" "!SA0212">
+"Ooooooh...
+ My little sister before me..."
 #
 <removesprite -1 11>
-<name "パニバーナ" "!DA0039" "ka14a000.agf">
-「ライバル、増えたね」
+<name "Paniverna" "!DA0039" "ka14a000.agf">
+"Even more rivals."
 #
-<name "ウルティニア" "!EA0008" "ka29a000.agf">
-「うん」
+<name "Ultinia" "!EA0008" "ka29a000.agf">
+"Yeah."
 #
-<name "イザナ" "!AA0008" "ka28a000.agf">
-「まあ、いつもの事だと思うし」
+<name "Izana" "!AA0008" "ka28a000.agf">
+"Well, it's the same as always."
 #
-<name "パニバーナ" "!DA0040" "ka14a000.agf">
-「そうね。
-　まあ、キュリハ様の姿を見た時から、こうなるか
-　なーって、思ってたし」
+<name "Paniverna" "!DA0040" "ka14a000.agf">
+"I guess.
+ Well, I had a hunch it'd turn out like this
+ the second I saw Kyuriha."
 #
-<name "ウルティニア" "!EA0009" "ka29a000.agf">
-「私も」
+<name "Ultinia" "!EA0009" "ka29a000.agf">
+"Me too."
 #
-<name "イザナ" "!AA0009" "ka28a000.agf">
-「さすがは魔王様って事かな」
+<name "Izana" "!AA0009" "ka28a000.agf">
+"It's what I'd expect from him, I guess."
 #
-<name "パニバーナ" "!DA0041" "ka14a000.agf">
-「そうだね」
+<name "Paniverna" "!DA0041" "ka14a000.agf">
+"Yeah."
 #
 <removesprite -1 11>
 \x2B\x78\x78

@@ -1,43 +1,46 @@
 ﻿<music 14>
 <background "ev028a01.agf" 10>
-<name "キュリハ" "!FA0366">
-「こうやってお茶をしていますと……」
+<name "Kyuriha" "!FA0366">
+"Having tea with you like this..."
 #
-<name "キュリハ" "!FA0367">
-「ダークス様に抱かれる前を思い出します」
+<name "Kyuriha" "!FA0367">
+"It brings back memories of before being with
+ you."
 #
-<name "ダークス">
-「抱かれる前……
-　天界の住人にしては、話が通じるヤツだと思った
-　な」
+<name "Darx">
+"Before...
+ I had thought that for an angel, you were
+ one I could actually talk to."
 #
-<name "キュリハ" "!FA0368">
-「ありがとうございます」
+<name "Kyuriha" "!FA0368">
+"Thank you very much."
 #
-<name "キュリハ" "!FA0369">
-「ですが……
-　抱かれた後でこうやって向き合いますと、以前の
-　私は上辺だけだったと改めて感じます」
+<name "Kyuriha" "!FA0369">
+"However...
+ Facing you like this aftering having laid
+ together, I'm reminded once again that it was
+ all superficial."
 #
-<name "ダークス">
-「そうか？」
+<name "Darx">
+"Oh?"
 #
-<name "キュリハ" "!FA0370">
-「はい。
-　……自身の心をまったく開いていなかったと。
-　赤面する思いです」
+<name "Kyuriha" "!FA0370">
+"Yes.
+ ...I had not truly opened my heart at all.
+ The thought makes me blush."
 #
-<name "ダークス">
-「そんなキュリハに、俺がしてやれる事はあるか」
+<name "Darx">
+"Is there anything I can do for you to help?"
 #
-<name "キュリハ" "!FA0371">
-「この場では……さ、さすがに人目があります」
+<name "Kyuriha" "!FA0371">
+"Here?
+ T-There are people watching."
 #
-<name "ダークス">
-「帰ってからな。
-　今はお茶を楽しもう」
+<name "Darx">
+"Then later.
+ For now, let's enjoy our tea."
 #
-<name "キュリハ" "!FA0372">
-「はい」
+<name "Kyuriha" "!FA0372">
+"Yes."
 #
 \x78\x78

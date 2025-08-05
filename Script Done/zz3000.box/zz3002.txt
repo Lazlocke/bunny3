@@ -1,37 +1,37 @@
 ﻿<music 17>
 <background "ev050a00.agf" 10>
-<name "エカテー" "!TA0007">
-「ぁぁん、魔王様。
-　素敵だったよ」
+<name "Ekate" "!TA0007">
+"Aaah! Overlord.
+ You were wonderful."
 #
-<name "ダークス">
-「お前も可愛かったぞ」
+<name "Darx">
+"You were very pretty too."
 #
-　俺とエカテーは軽くキスをする。
+We share a quick kiss.
 #
-<name "エカテー" "!TA0008">
-「……でも」
+<name "Ekate" "!TA0008">
+"...But..."
 #
-<name "ダークス">
-「ん？」
+<name "Darx">
+"Hm?"
 #
-<name "エカテー" "!TA0009">
-「優しくされると、後で寂しい」
+<name "Ekate" "!TA0009">
+"When you're loving, I get lonely later."
 #
-<name "ダークス">
-「……そうか。
-　それは悪かった」
+<name "Darx">
+"...I see.
+ Sorry about that."
 #
-<name "エカテー" "!TA0010">
-「うん。
-　じゃあ、もう一回」
+<name "Ekate" "!TA0010">
+"Yep.
+ Then one more time."
 #
-<name "ダークス">
-「……」
+<name "Darx">
+"..."
 #
-<name "エカテー" "!TA0011">
-「激しいので」
+<name "Ekate" "!TA0011">
+"Be rough."
 #
-　夜は長かった。
+It was a long night.
 #
 \x78\x78

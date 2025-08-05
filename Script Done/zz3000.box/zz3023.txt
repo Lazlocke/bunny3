@@ -1,172 +1,178 @@
 ﻿<music 8>
 <background "ev029a00.agf" 10>
-<name "ミアルテ" "!SA0177">
-「ひい、こっちに来たぁ」
+<name "Miartei" "!SA0177">
+"Aaah!
+ It's coming this way!"
 #
-<name "スイセン" "!YA0058">
-「手強いわね」
+<name "Suisen" "!YA0058">
+"It is formidible."
 #
-<name "キュリハ" "!FA0216">
-「ぬううう」
+<name "Kyuriha" "!FA0216">
+"Grrrrr!"
 #
-<name "スイセン" "!YA0059">
-「どうする？」
+<name "Suisen" "!YA0059">
+"Now what?"
 #
-<name "キュリハ" "!FA0219">
-「武器が足りない。
-　一時撤退」
+<name "Kyuriha" "!FA0219">
+"We don't have the weapons for this.
+ We have to run away for now."
 #
-<name "スイセン" "!YA0060">
-「そう簡単に逃がしてくれそうにないけど」
+<name "Suisen" "!YA0060">
+"I don't think we'll get away so easily."
 #
-<name "キュリハ" "!FA0220">
-「……炎神族の演習場ってどこだっけ？」
+<name "Kyuriha" "!FA0220">
+"...Which way's the Flame Lord's training
+ grounds?"
 #
-<name "スイセン" "!YA0061">
-「もう少し、東の方だけど……まさか」
+<name "Suisen" "!YA0061">
+"It's a little more east, but...
+ No way."
 #
-<name "キュリハ" "!FA0221">
-「そこに当てて、その間に逃げる」
+<name "Kyuriha" "!FA0221">
+"We'll lure it there, and then run."
 #
-<name "スイセン" "!YA0062">
-「さすがキュリ。
-　ミア、作戦が決まった！
-　そのままこっちに引っ張って来て」
+<name "Suisen" "!YA0062">
+"I knew you could do it.
+ Mia, we've got a plan!
+ Just keep luring it this way."
 #
-<name "ミアルテ" "!SA0178">
-「む、無茶言うなぁぁっ！」
+<name "Miartei" "!SA0178">
+"D-Don't be ridiculous!"
 #
 <background "ev029b00.agf" 10>
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta03a005.agf" 4 4 11>
-<name "ミアルテ" "!SA0179">
-「こんな感じの子供時代でしたね」
+<name "Miartei" "!SA0179">
+"That's what my childhood was like."
 #
-<name "ダークス">
-「……キュリハに聞いたのと違うな」
+<name "Darx">
+"...Kyuriha tells a different story."
 #
 <sprite "ta03a019.agf" 4 4 12>
-<name "ミアルテ" "!SA0180">
-「あー……
-　キュリハは、子供時代の武勇伝を封印しています
-　から」
+<name "Miartei" "!SA0180">
+"Aah...
+ She's buried her childhood exploits."
 #
-<name "ダークス">
-「そうなのか？」
+<name "Darx">
+"Really?"
 #
 <sprite "ta03a020.agf" 4 4 12>
-<name "ミアルテ" "!SA0181">
-「ええ、もう少し大きくなってから、ちょっとした
-　事件に遭遇しまして、それ以来」
+<name "Miartei" "!SA0181">
+"Yes, ever since a certain incident that
+ happened when she was a little older."
 #
-<name "ダークス">
-「……ひょっとしてドラゴン？」
+<name "Darx">
+"...Might it have involved a dragon?"
 #
 <sprite "ta03a014.agf" 4 4 12>
-<name "ミアルテ" "!SA0182">
-「ご存知でしたか」
+<name "Miartei" "!SA0182">
+"You know about it?"
 #
 <sprite "ta03a015.agf" 4 4 12>
-<name "ミアルテ" "!SA0183">
-「天界にドラゴンが一頭、攻め込んできまして」
+<name "Miartei" "!SA0183">
+"A dragon had attacked Celestia."
 #
 <sprite "ta03a016.agf" 4 4 12>
-<name "ミアルテ" "!SA0184">
-「ちょうど、その進路上に私達も居たのです」
+<name "Miartei" "!SA0184">
+"We just happened to be in its way."
 #
 <sprite "ta03a014.agf" 4 4 12>
-<name "ミアルテ" "!SA0185">
-「私やスイセンのように早々に気絶していれば、も
-　う少しマシだったのかもしれませんが、ヘタに耐
-　えてしまった分、深いトラウマを持ってしまった
-　ようで」
+<name "Miartei" "!SA0185">
+"Maybe it would've been better if she had been
+ knocked out quickly like Suisen and me, but
+ she apparently suffered some deep trauma from
+ hanging on so long."
 #
-<name "ダークス">
-「それで心を入れ替えたと？」
+<name "Darx">
+"And that changed her?"
 #
 <sprite "ta03a020.agf" 4 4 12>
-<name "ミアルテ" "!SA0186">
-「まあ、一因だとは思いますが……本命ではないか
-　と」
+<name "Miartei" "!SA0186">
+"Well, I think it's one of the reasons, but
+ it's not the main one."
 #
-<name "ダークス">
-「え？」
+<name "Darx">
+"Huh?"
 #
 <sprite "ta03a002.agf" 4 4 12>
-<name "ミアルテ" "!SA0187">
-「キュリハは、昔から強い相手や困難に挑むのが好
-　きなんです」
+<name "Miartei" "!SA0187">
+"She always liked challenging strong enemies
+ and difficulties."
 #
 <sprite "ta03a003.agf" 4 4 12>
-<name "ミアルテ" "!SA0188">
-「ですので、ドラゴンに恐怖すれど、だからと言っ
-　て心を入れ替えるほどではないと思います」
+<name "Miartei" "!SA0188">
+"So even if she is now afraid of dragons, I
+ don't think that would be enough to change 
+ her."
 #
-<name "ダークス">
-「なるほど」
+<name "Darx">
+"I see."
 #
 <sprite "ta03a014.agf" 4 4 12>
-<name "ミアルテ" "!SA0189">
-「今、大人しい感じなのは……封印したとはいえ武
-　勇伝の数々は記憶に残る物で、それを聞いた許婚
-　が逃げた所為ですね」
+<name "Miartei" "!SA0189">
+"She's settled down now... Her past is buried,
+ but the memories must still fill her heart.
+ I heard it's because she ran away from
+ marriage."
 #
-<name "ダークス">
-「許婚？」
+<name "Darx">
+"Marriage?"
 #
 <sprite "ta03a019.agf" 4 4 12>
-<name "ミアルテ" "!SA0190">
-「天界では血統を重んじますから、居る者も珍しく
-　ありません。
-　まあ、家同士の約束なだけで、結婚直前まで顔を
-　合わせない事もありますが」
+<name "Miartei" "!SA0190">
+"Bloodlines are very important in Celestia,
+ so it's not uncommon for us. Well, it's just
+ a promise between families. Sometimes you
+ don't even meet until the wedding."
 #
-<name "ダークス">
-「そうか。
-　じゃあ、お前にも許婚は居るのか？」
+<name "Darx">
+"I see.
+ Then do you have a fiance too?"
 #
 <sprite "ta03a020.agf" 4 4 12>
-<name "ミアルテ" "!SA0191">
-「はい。
-　ですが、顔は知りません」
+<name "Miartei" "!SA0191">
+"Yes, but I never met him."
 #
 <sprite "ta03a023.agf" 4 4 12>
-<name "ミアルテ" "!SA0192">
-「そんな婚約者より、魔王様の方が大事です」
+<name "Miartei" "!SA0192">
+"You're more important than a fiance like
+ that."
 #
-<name "ダークス">
-「それは嬉しいが、その許婚には悪い事をしたな」
+<name "Darx">
+"Thank you, but I still feel like I wronged
+ him."
 #
 <sprite "ta03a012.agf" 4 4 12>
-<name "ミアルテ" "!SA0193">
-「お気になさるので？」
+<name "Miartei" "!SA0193">
+"That bothers you?"
 #
-<name "ダークス">
-「そりゃな。
-　俺に許婚が居たとして、それが別の男に手を出さ
-　れたら怒る」
+<name "Darx">
+"I guess.
+ I'd be mad if I had a fiancee who some other
+ man laid a hand on."
 #
 <sprite "ta03a019.agf" 4 4 12>
-<name "ミアルテ" "!SA0194">
-「では、かなりの数の男を敵にしていますね」
+<name "Miartei" "!SA0194">
+"Then you've made quite a few men your enemies,
+ haven't you?"
 #
-<name "ダークス">
-「確かにな」
+<name "Darx">
+"That's true."
 #
 <removesprite -1 11>
-　気にしても仕方が無いか。
+No point in worrying about it now.
 #
-<name "ダークス">
-「ま、キュリハが大人しいのは、許婚に逃げられた
-　からと……」
+<name "Darx">
+"Well, if Kyuriha really has settled down
+ because she escaped that marriage..."
 #
-<name "ダークス">
-「言ってやるのは、止めておこう」
+<name "Darx">
+"Maybe better not to bring it up."
 #
 <sprite "ta03a019.agf" 4 4 11>
-<name "ミアルテ" "!SA0195">
-「気にしてるので、そうしてあげてください」
+<name "Miartei" "!SA0195">
+"It worries me, so please do."
 #
 <removesprite -1 11>
 \x2B\x78\x78

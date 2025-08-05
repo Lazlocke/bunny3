@@ -1,178 +1,193 @@
 ﻿<music 11>
 <background "bg013a0.agf" 10>
-<sprite "ta15a003.agf" 4 4 11>
-<name "マリーアリス" "!LA5005">
-「魔王様」
+<name "Marialis" "!LA5005">
+"Overlord."
 #
-<name "ダークス">
-「ん？」
+<name "Darx">
+"Hm?"
 #
 <removesprite -1 11>
 <music 17>
 <background "ev091a00.agf" 10>
-<name "マリーアリス" "!LA5006">
-「こ、こんな場所で……あう」
+<name "Marialis" "!LA5006">
+"T-This place is...
+ Ooh..."
 #
-<name "ダークス">
-「声は抑えろ」
+<name "Darx">
+"Keep your voice down."
 #
 <background "ev091a01.agf" 10>
-<name "マリーアリス" "!LA5007">
-「わかっていますけど……んぁ、ぁ、った、ふぁ」
+<name "Marialis" "!LA5007">
+"I know that, but...
+ Mm...ah...ah...aah..."
 #
-　俺のモノがマリーアリスの膣内で、前後に動き始
-　める。
+I start moving my dick back and forth inside
+her pussy.
 #
-<name "マリーアリス" "!LA5008">
-「ぁ、ん、んんぁ……」
+<name "Marialis" "!LA5008">
+"Ah...mmm...mmm..."
 #
-　挿入して間もないのだが、マリーアリスの膣内は
-　十分な愛液を分泌しながら、俺のモノに絡み付い
-　てくる。
+I only just stuck it in her, but she's already
+let out enough love juice and it wraps all
+over my dick.
 #
-<name "ダークス">
-「なんだかんだ言いながらも、こっちは準備万端だ
-　な」
+<name "Darx">
+"Despite what you say, it seems like you were
+ ready for this."
 #
-<name "マリーアリス" "!LA5009">
-「い、言わないで、んぁ、ください」
+<name "Marialis" "!LA5009">
+"P-Please don't... mm... say that."
 #
-<name "ダークス">
-「褒めているんだ。
-　素直に受け取れ」
+<name "Darx">
+"It's a compliment.
+ Accept it like a good girl."
 #
-　俺は腰の動きを少し速め、マリーアリスを喜ばせ
-　てやる。
+I move faster and try to pleasure her.
 #
-<name "マリーアリス" "!LA5010">
-「んぁ、ぁ、ふぁ、ぁ、んぁ……」
+<name "Marialis" "!LA5010">
+"Mm...ah...aah...ah...mmm..."
 #
-<name "ダークス">
-「こういった野外プレイも、新鮮で良いな」
+<name "Darx">
+"Doing it outdoors is a nice change of pace."
 #
-<name "マリーアリス" "!LA5011">
-「ふぁ、ぁ、んぁ……め、迷宮の、ぁ、な、中で、
-　なら……何度も、ふぁん」
+<name "Marialis" "!LA5011">
+"Aah...ah...mmm...
+ W-We've done it... ah... i-in the dungeon...
+ many times...
+ Aaah!"
 #
-<name "ダークス">
-「そうだな。
-　迷宮の中なら、何度も経験があるな」
+<name "Darx">
+"I guess.
+ You're pretty used to doing it in the 
+ dungeon."
 #
-　迷宮内部は、かなり広い。
-　あそこでのプレイを野外プレイと言われても違和
-　感はあまりないかもしれない。
+It's still pretty big in there though.
+Doing it there isn't all that different from 
+doing it outdoors.
 #
-　しかし、やはり、違う。
+But it's just not the same.
 #
-　魔王亭のバルコニーでのプレイも悪くなかったが、
-　真昼間の街中プレイは燃える。
+Doing it on the balcony of the Overlord's 
+Retreat isn't bad, but doing it in the middle
+of the day in the city really turns me on.
 #
-　耳を澄ませば聞こえる雑踏。
+If you listen closely, you can hear crowds of
+people.
 #
-　いつ見られるかもしれないと言う緊張感。
+There's the excitement that you could be caught
+at any moment.
 #
-　そして上を見れば明るい太陽。
+And you can look up at the bright sun.
 #
-　こういった行為と似つかわしくない環境が、俺の
-　腰をさらに激しく暴れさせる。
+It's a setting completely unfitting for what
+we're doing, and makes my hips thrust even
+harder.
 #
-<name "マリーアリス" "!LA5012">
-「あ、んぁ、ふぁ、ぁ、やっ、ひぁっ、うぁっ」
+<name "Marialis" "!LA5012">
+"Aah! Mm! Aah! Ah! Ahh! Aah! Ahh!"
 #
-　まあ、この場所に来る為の通路は護衛達が塞いで
-　いるので、一般住民に見られる事はほぼ無いのだ
-　が……
+Well, this hallway is blocked by guards, so
+there's virtually no chance regular people will
+see us.
 #
-　俺はその快楽に喜ぶように、さらに激しくマリー
-　アリスを求めた。
+I want her even more, and she lusts for more
+pleasure too.
 #
 <background "ev091a02.agf" 10>
-<name "マリーアリス" "!LA5013">
-「んぁ、あっ、ま、魔王様っ、ふぁっ、急に、ぁ、
-　ん、こ、声が、んんんっ」
+<name "Marialis" "!LA5013">
+"Mm! Ah! O-Overlord! Aaah!
+ So fast...
+ Ah! Mm! M-My voice..
+ Mmmmmmm!"
 #
-<name "ダークス">
-「抑えろ」
+<name "Darx">
+"Hold it in."
 #
-　そう言いながらも、俺は行為を遠慮する気は欠片
-　も無い。
+No matter what I say, I have no intention of
+holding back.
 #
-<name "マリーアリス" "!LA5014">
-「ん、む、ううっ、ふあっ、あっ、うあっ、ああん」
+<name "Marialis" "!LA5014">
+"Mm! Mmm! Oohh! Aaah! Ah! Aah! Aaah!"
 #
-　腰を激しく動かしてマリーアリスの膣内を掻き回
-　しながら、胸を愛撫し、キスをし、顔を舐める。
+I thrust intensely, stirring up her pussy
+while caressing her breasts, kissing her, and 
+licking her face.
 #
-<name "マリーアリス" "!LA5015">
-「ふぁ……」
+<name "Marialis" "!LA5015">
+"Aahhh..."
 #
-　マリーアリスが喜ぶ行為は、全て熟知している。
+She's very familiar with all of it.
 #
-<name "マリーアリス" "!LA5016">
-「んぁ、ぁ、ふぁ、ぁっ、んんぁ、ぁっ、ぁっ」
+<name "Marialis" "!LA5016">
+"Mmm! Ah! Aah! Ah! Mmmm! Ah! Aah!"
 #
-<name "ダークス">
-「マリーアリス」
+<name "Darx">
+"Marilias."
 #
-<name "マリーアリス" "!LA5017">
-「ふぁ、ま、魔王様……」
+<name "Marialis" "!LA5017">
+"Aah...
+ O-Overlord..."
 #
-　俺はマリーアリスの胸を強く噛みながら、モノを
-　膣奥深く潜り込ませ、一回目の射精を開始した。
+I bite her breast hard, plunge deep inside her,
+and start to come.
 #
 <background "ev091a03.agf" 10>
-<name "マリーアリス" "!LA5018">
-「ん……ぁっ、ふぁっ、ぁっ……ぁぁぁぁぁぁぁっ」
+<name "Marialis" "!LA5018">
+"Mm...ah...ah...aah...
+ Aaaaaaahhh!"
 #
-　それに合わせるように、マリーアリスも膣内を痙
-　攣させ、大きく達した。
+And at the same time, her pussy squeezes tight
+like it's wrapping around me and she has a
+big orgasm.
 #
-<name "マリーアリス" "!LA5019">
-「ぁ、ふぁ、ぁ……ぁぁ……」
+<name "Marialis" "!LA5019">
+"Ah...aah...ah...aaah..."
 #
-　予想では、軽く達する程度かと思ったが……
+I thought her climax would be small...
 #
-<name "ダークス">
-「こういったプレイも、新鮮で良いな？」
+<name "Darx">
+"Doing it like this is nice and new, isn't it?"
 #
-<name "マリーアリス" "!LA5020">
-「ふぁ……ぁ……は、はい……」
+<name "Marialis" "!LA5020">
+"Aah...ah...
+ Y-Yes..."
 #
-　俺同様に、マリーアリスも街中での野外プレイに
-　新鮮さと強い快楽を感じていたらしい。
+Same as me, she really enjoyed the newness of
+doing it outside in the city.
 #
-<name "ダークス">
-「まあ、クセになると周囲に迷惑だから、ほどほど
-　にな」
+<name "Darx">
+"Well, if we overdo it, it'll bother people
+ around us, so maybe just once in a while."
 #
-<name "マリーアリス" "!LA5021">
-「んぁ……は、はい……でしたら」
+<name "Marialis" "!LA5021">
+"Mmm... Y-Yes, although..."
 #
-<name "ダークス">
-「ん？」
+<name "Darx">
+"Hm?"
 #
-<name "マリーアリス" "!LA5022">
-「もう少し、頂けますか？」
+<name "Marialis" "!LA5022">
+"Could we do it a little more?"
 #
-<name "ダークス">
-「……」
+<name "Darx">
+"..."
 #
-　俺はマリーアリスと日没近くまで頑張った。
+I stayed with her there until the sun set.
 #
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta01a036.agf" 4 4 11>
-<name "ソフィア" "!ZB5027">
-「えっと……
-　理由の解らない通行止めに、苦情が来てますけど」
+<name "Sofia" "!ZB5027">
+"Um...
+ I'm getting complaints for road closures for
+ reasons I don't understand."
 #
-<name "ダークス">
-「悪かった」
+<name "Darx">
+"Sorry."
 #
 <removesprite -1 11>
 <sprite "ta15a000.agf" 4 4 11>
-<name "マリーアリス" "!LA5023">
-「すみません」
+<name "Marialis" "!LA5023">
+"I'm sorry."
 #
 <removesprite -1 11>
 \x2B\x78\x78

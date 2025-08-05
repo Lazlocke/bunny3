@@ -1,108 +1,115 @@
 ﻿<music 18>
 <background "ev034a00.agf" 10>
-<name "キュリハ" "!FA0315">
-「ん、んぁ、ふぁ……ダ、ダークス様ぁ」
+<name "Kyuriha" "!FA0315">
+"Mm...ah...ah...
+ D-Darx..."
 #
-<name "ダークス">
-「どうした？
-　ずいぶんと甘えるな」
+<name "Darx">
+"What's going on?
+ You're being especially clingy."
 #
-<name "キュリハ" "!FA0316">
-「そんな、ん、んぁ、ふぁ、も、もっと……
-　ぁ、ぁぁっ、そこは、ふぁっ、あっ」
+<name "Kyuriha" "!FA0316">
+"Not at all...
+ Mm...mm...ah... M-More...
+ Ah...aaah... Right there...
+ Aah! Ah!"
 #
-　俺はキュリハの膣内でモノを擦り上げる。
+I rub my dick inside her.
 #
-<name "キュリハ" "!FA0317">
-「んぁ、ぁ、ふぁっ」
+<name "Kyuriha" "!FA0317">
+"Mm...ah...aah!"
 #
-　キュリハは自分から誘ってくる事は少ないが、こ
-　ちらが水を向ければ積極的に乗ってくる。
+She doesn't entice me often, but whenever I
+show any interest, she responds with 
+enthusiasm.
 #
-　そうなれば、どんなプレイだろうと断る事はない。
+When that happens, she doesn't say no, no
+matter what I try.
 #
-　少し前に、キツめの調教系でやったが、喜んで受
-　けていた。
+Not long ago, I put her through some really
+intense stuff, and she took it all happily.
 #
-　逆に愛情タップリなやつでも、ちゃんと応えてく
-　れる。
+And if I do the opposite, and shower her with
+affection, she responds in kind too.
 #
-　適当にやっているのではない。
+She's not faking it.
 #
-　全て本気で応えているのが、キュリハの凄いとこ
-　ろだ。
+The great thing about her is that she responds
+to everything with her whole heart.
 #
-　お陰で、相手をする回数が自然に増える。
+So naturally, I keep coming back to her more
+and more.
 #
-<name "キュリハ" "!FA0318">
-「んぁ、あん、あ、ダークス様、ふぁっ、あっ。
-　も、もう、ぁ、だ、駄目、ふぁ、ぁっ」
+<name "Kyuriha" "!FA0318">
+"Mmm...aah! Ah! Darx! Aah! Ah!
+ I-I...ah! I can't! Aaah! Ah!"
 #
-　不意にキュリハの力が抜けたので、俺は自分の腰
-　の動きを速めた。
+She suddenly goes limp and I move my hips
+faster.
 #
 <background "ev034a01.agf" 10>
-<name "キュリハ" "!FA0319">
-「んんんんんっ！」
+<name "Kyuriha" "!FA0319">
+"Mmmmmmmm!!!"
 #
-　キュリハが達し、完全に動きが止まる。
+She climaxes and completely stops moving.
 #
-<name "キュリハ" "!FA0320">
-「ぁ……ぁ、ふぁ……」
+<name "Kyuriha" "!FA0320">
+"Ah...ah...ahh..."
 #
-　そんなキュリハに、俺は遠慮なく何回目かの射精
-　を行った。
+I come into her yet again without holding back.
 #
 <background "ev034a02.agf" 10>
-<name "キュリハ" "!FA0321">
-「ぁぁ……んん……ダークス様が、子宮に……」
+<name "Kyuriha" "!FA0321">
+"Aah...mmm...
+ You're in my womb..."
 #
-<name "ダークス">
-「嬉しそうだな」
+<name "Darx">
+"You look happy."
 #
-<name "キュリハ" "!FA0322">
-「そう見えますか？」
+<name "Kyuriha" "!FA0322">
+"Do I seem that way?"
 #
-<name "ダークス">
-「ああ」
+<name "Darx">
+"Yeah."
 #
-<name "キュリハ" "!FA0323">
-「そうですね。
-　嬉しいのかもしれません」
+<name "Kyuriha" "!FA0323">
+"I see.
+ Perhaps I am happy."
 #
-<name "キュリハ" "!FA0324">
-「こうして、女として扱われる事に」
+<name "Kyuriha" "!FA0324">
+"Being treated like a woman like this."
 #
-<name "ダークス">
-「キュリハは誰がどう見ても女だろ」
+<name "Darx">
+"I think everybody has always seen you as a
+ woman."
 #
-<name "キュリハ" "!FA0325">
-「それはそうですけど……
-　性の対象として見られる事は少なかったので」
+<name "Kyuriha" "!FA0325">
+"That may be true, but... it was very rare for
+ me to be lusted after."
 #
-<name "ダークス">
-「そうなのか？」
+<name "Darx">
+"Really?"
 #
-<name "キュリハ" "!FA0326">
-「はい」
+<name "Kyuriha" "!FA0326">
+"Yes."
 #
-<name "キュリハ" "!FA0327">
-「まさか、このように男性に抱かれる日々が来ると
-　は考えもしませんでした」
+<name "Kyuriha" "!FA0327">
+"I thought that the day I would be with a man
+ like this may never come."
 #
-<name "ダークス">
-「そうか」
+<name "Darx">
+"I see."
 #
 <background "ev034a03.agf" 10>
-<name "キュリハ" "!FA0328">
-「……幸せです」
+<name "Kyuriha" "!FA0328">
+"...I am happy."
 #
-<name "ダークス">
-「次は、俺の子供を産め」
+<name "Darx">
+"Then have my child."
 #
-<name "キュリハ" "!FA0329">
-「是非とも」
+<name "Kyuriha" "!FA0329">
+"Of course."
 #
-　俺はキュリハとの行為を、長く楽しんだ。
+I enjoy myself with her for a long time.
 #
 \x78\x78

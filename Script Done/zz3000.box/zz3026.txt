@@ -1,81 +1,82 @@
 ﻿<music 18>
 <background "ev034a00.agf" 10>
-<name "キュリハ" "!FA0330">
-「ぁ、ふぁ、ぁっ、ダ、ダークス様、んぁ、ふあっ」
+<name "Kyuriha" "!FA0330">
+"Ah! Aah! Ah! D-Darx!
+ Aah! Ahh!"
 #
-<name "ダークス">
-「出すぞ」
+<name "Darx">
+"I'm going to come."
 #
-<name "キュリハ" "!FA0331">
-「ぁ、ふぁ、は、はい」
+<name "Kyuriha" "!FA0331">
+"Ah! Aah! Y-Yes!"
 #
-　俺はキュリハを抱き締めて固定し、自分の腰を打
-　ち付ける。
+I hold her close and tight and slam my hips
+into her.
 #
-<name "キュリハ" "!FA0332">
-「ぁ、ぁ、ぁ……」
+<name "Kyuriha" "!FA0332">
+"Ah...ah...ah..."
 #
-　そして、射精。
+And come.
 #
 <background "ev034a01.agf" 10>
-<name "キュリハ" "!FA0333">
-「んんんんんんっ！」
+<name "Kyuriha" "!FA0333">
+"Mmmmmmmm!!!!!"
 #
-　俺の射精に合わせ、キュリハも達したようだ。
+It looks like she came at the same time as me.
 #
-<name "キュリハ" "!FA0334">
-「ぁ、うぁ、ぁ、ぁぁ……ふぁ」
+<name "Kyuriha" "!FA0334">
+"Ah...aah...ah...aah...aahhh..."
 #
-　満足気に余韻に浸る。
+She soaks satisfied in the afterglow.
 #
-　俺はそれを邪魔せず、ギュッと抱き締めたままで
-　いてやった。
+I keep holding her tight, careful not to
+disturb her.
 #
-<name "キュリハ" "!FA0335">
-「ぁぁ……」
+<name "Kyuriha" "!FA0335">
+"Aah..."
 #
 <background "bg017a0.agf" 10>
 <music 5>
 <background "bg011b0.agf" 10>
 <sprite "ta05a017.agf" 4 4 11>
-<name "キュリハ" "!FA0336">
-「お疲れ様でした」
+<name "Kyuriha" "!FA0336">
+"Thank you very much."
 #
-<name "ダークス">
-「ああ。
-　お前が可愛いから、つい頑張ってしまった」
+<name "Darx">
+"Yeah.
+ You're so pretty, I just had to give it my
+ best."
 #
 <sprite "ta05a112.agf" 4 4 12>
-<name "キュリハ" "!FA0337">
-「ぁ……」
+<name "Kyuriha" "!FA0337">
+"Ah..."
 #
-<name "ダークス">
-「どうした？」
+<name "Darx">
+"What is it?"
 #
 <sprite "ta05a115.agf" 4 4 12>
-<name "キュリハ" "!FA0338">
-「い、いえ……その……」
+<name "Kyuriha" "!FA0338">
+"N-No, um..."
 #
-<name "ダークス">
-「ん？」
+<name "Darx">
+"Hm?"
 #
 <sprite "ta05a117.agf" 4 4 12>
-<name "キュリハ" "!FA0339">
-「やはり、ダークス様は身内に優しいと感じまして」
+<name "Kyuriha" "!FA0339">
+"I knew it.
+ You're gentle to your own people."
 #
-<name "ダークス">
-「そうか」
+<name "Darx">
+"Oh?"
 #
 <sprite "ta05a119.agf" 4 4 12>
-<name "キュリハ" "!FA0340">
-「はい。
-　そして、私もその身内に入れた事、嬉しく思いま
-　す」
+<name "Kyuriha" "!FA0340">
+"Yes, and I am happy to be among them."
 #
-<name "ダークス">
-「……」
+<name "Darx">
+"..."
 #
 <removesprite -1 11>
-　もう一回、頑張る事になった。
+I had to give it my best one more time.
 #
 \x78\x78

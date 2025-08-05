@@ -1,32 +1,32 @@
 ﻿<music 18>
 <background "ev055c00.agf" 10>
-<name "ダークス">
-「今回はマクドゥは居ないんだろ？」
+<name "Darx">
+"No Macdo this time?"
 #
-<name "メリル" "!HA0038">
-「覗かれても困りますし、前に言った事が嘘だとバ
-　レても面倒ですから続けます」
+<name "Meryl" "!HA0038">
+"I don't mind being watched, but if she found
+ out I was lying, that'd be a headache, so
+ let's keep doing this."
 #
-<name "メリル" "!HA0039">
-「駄目ですか？」
+<name "Meryl" "!HA0039">
+"Or are you against that?"
 #
-<name "ダークス">
-「別に良いけどな」
+<name "Darx">
+"I'm fine with it."
 #
-<name "メリル" "!HA0040">
-「では、魔王様。
-　報告１、楽しむ事９、でお願いします」
+<name "Meryl" "!HA0040">
+"Then Overlord, one part report, nine parts
+ fun, if you would."
 #
-<name "ダークス">
-「了解。
-　じゃあ、先に楽しむか」
+<name "Darx">
+"Roger.
+ Fun first?"
 #
-<name "メリル" "!HA0041">
-「ふぁんっ！」
+<name "Meryl" "!HA0041">
+"Aaah!"
 #
-　俺はメリルの肉体を、存分に楽しんだ。
+I fully enjoyed her body.
 #
-　当然、メリルに報告をする体力など残っていなかっ
-　た。
+Of course, she had no energy left to report.
 #
 \x78\x78

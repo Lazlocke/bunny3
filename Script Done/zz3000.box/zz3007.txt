@@ -1,102 +1,106 @@
 ﻿<music 49>
 <background "ev053b00.agf" 10>
-<name "ダークス">
-「あー、こうやって温泉に入りながら、酒を飲む」
+<name "Darx">
+"Aaah, drinking in a hot spring."
 #
-<name "ダークス">
-「まったりするなぁ」
+<name "Darx">
+"So relaxing."
 #
-<name "ウルティニア" "!EA0060">
-「ですね」
+<name "Ultinia" "!EA0060">
+"It is."
 #
-<name "ダークス">
-「こっそり入りに来たのに、なぜ居るかは聞かない
-　でおくよ」
+<name "Darx">
+"I thought I snuck in, so I don't know if I
+ should ask what you're doing here."
 #
-<name "ウルティニア" "!EA0061">
-「聞いても構いませんのに」
+<name "Ultinia" "!EA0061">
+"You're allowed to ask."
 #
-<name "ダークス">
-「聞かせて俺の心が濁ったりしないと思うなら、言っ
-　ても良いぞ」
+<name "Darx">
+"If you think you can tell me without it 
+ clouding my judgement, go ahead."
 #
-<name "ウルティニア" "!EA0062">
-「では、ＨＩ・ＭＩ・ＴＵ♪
-　という事にしましょう」
+<name "Ultinia" "!EA0062">
+"Then it's a se-cret.♪
+ We can go with that."
 #
-<name "ダークス">
-「それが良い。
-　ははは」
+<name "Darx">
+"That's fine.
+ Hahaha."
 #
-<name "ダークス">
-「というワケにはいかないから、温泉から出たら徹
-　底追及する」
+<name "Darx">
+"I won't press it, but as soon as we get out,
+ there will be a thorough interrogation."
 #
-<name "ウルティニア" "!EA0063">
-「では、温泉から出さなければ良いワケですよね」
+<name "Ultinia" "!EA0063">
+"Then it might be a good idea if you don't get
+ out."
 #
-<name "ダークス">
-「え？
-　あ、おい、他の連中が……」
+<name "Darx">
+"Huh?
+ Ah, hey, the rest of the people here are..."
 #
-<name "ウルティニア" "!EA0064">
-「前も居たので、気にしません」
+<name "Ultinia" "!EA0064">
+"They've always been here.
+ Don't worry about them."
 #
-<name "ダークス">
-「いや、他の連中もなんだか俺を狙っているような
-　感じの目なんだが……」
+<name "Darx">
+"No, it feels like they've all got their eyes
+ on me..."
 #
-<name "ウルティニア" "!EA0065">
-「そういえば、周りに居るのは私の部下です」
+<name "Ultinia" "!EA0065">
+"That reminds me, all of them here do work for
+ me."
 #
-<name "ダークス">
-「え？」
+<name "Darx">
+"Huh?"
 #
-<name "ウルティニア" "!EA0066">
-「裸でも気付かれない。
-　なかなか見事な変装だと思いません？」
+<name "Ultinia" "!EA0066">
+"Naked, but unnoticed.
+ Quite a brillaint disguise, wouldn't you say?"
 #
-<name "ダークス">
-「ははははは……」
+<name "Darx">
+"Hahahahaha..."
 #
-　聞く手間が省けた。
+That saves me the trouble of any more
+questions.
 #
-　ウルティニアに俺の行動が筒抜けな理由は、これ
-　か。
+So this is why she knew exactly where I'd be.
 #
-　マクドゥにバレたら絶対に問題にされる。
+If Macdo found out, there would definitely be
+hell to pay.
 #
-<name "ウルティニア" "!EA0067">
-「納得されたところで、えいっ」
+<name "Ultinia" "!EA0067">
+"Now that you understand... yah!"
 #
-<name "ダークス">
-「……えっと、ウルティニアさん」
+<name "Darx">
+"...Um, Ultinia?"
 #
-　ウルティニアの手が、俺の股間のモノを刺激して
-　いる。
+Her hand's already between my legs.
 #
 <background "ev053b01.agf" 10>
-<name "ウルティニア" "!EA0068">
-「楽しみましょう」
+<name "Ultinia" "!EA0068">
+"Let's enjoy ourselves."
 #
-<name "ダークス">
-「……変装している情報収集部隊、引き上げさせろ」
+<name "Darx">
+"...Disguised intelligence unit, it's time to
+ go."
 #
-<name "ウルティニア" "!EA0069">
-「もとより一回限りと思っております」
+<name "Ultinia" "!EA0069">
+"This is a one time opportunity."
 #
-<name "ウルティニア" "!EA0070">
-「ですが、ここまで変装で頑張った部下にもご褒美
-　を与えて頂けますと……」
+<name "Ultinia" "!EA0070">
+"But if you could reward your subordinates who
+ tried so hard to be here under cover..."
 #
-<name "ダークス">
-「全員、相手にしてやろう」
+<name "Darx">
+"I'll take all of you on."
 #
-<name "ウルティニア" "!EA0071">
-「流石は魔王様です」
+<name "Ultinia" "!EA0071">
+"Just as I'd expect."
 #
-　俺は楽しんだ。
+I enjoy myself.
 #
-　全てを忘れるように。
+And forget everything else.
 #
 \x78\x78

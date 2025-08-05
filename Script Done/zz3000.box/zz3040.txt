@@ -1,40 +1,42 @@
 ﻿<music 17>
 <background "ev091a03.agf" 10>
-<name "マリーアリス" "!LA5045">
-「んぁ……魔王様♪」
+<name "Marialis" "!LA5045">
+"Mm... Overlord.♪"
 #
 <music 11>
 <background "bg013a0.agf" 10>
 <sprite "ta01a004.agf" 4 4 11>
-<name "ソフィア" "!ZB5028">
-「魔王様、お疲れ様です」
+<name "Sofia" "!ZB5028">
+"Well done, Overlord."
 #
-<name "ダークス">
-「ん？
-　ああ……なにかあったのか？」
+<name "Darx">
+"Hm?
+ Oh...
+ Did something happen?"
 #
 <sprite "ta01a036.agf" 4 4 12>
-<name "ソフィア" "!ZB5029">
-「なにかあったと言うか、これからあるのですが」
+<name "Sofia" "!ZB5029">
+"I would say it has, but it hasn't happened
+ yet."
 #
-<name "ダークス">
-「？」
+<name "Darx">
+"Huh?"
 #
-<name "ソフィア" "!ZB5030">
-「順番待ちの列が、向こうに……
-　それなりの数になっておりまして」
+<name "Sofia" "!ZB5030">
+"There's a line over there...
+ It's quite a few people."
 #
-<name "ダークス">
-「え、えっと……」
+<name "Darx">
+"U-Um..."
 #
 <sprite "ta01a033.agf" 4 4 12>
-<name "ソフィア" "!ZB5031">
-「野外プレイはレアなので、このチャンスを逃すワ
-　ケにはいかないとの事です。
-　頑張ってください」
+<name "Sofia" "!ZB5031">
+"Outdoor play is rare, so nobody wants to miss
+ their chance.
+ Good luck."
 #
-<name "ダークス">
-「……」
+<name "Darx">
+"..."
 #
 <removesprite -1 11>
 \x2B\x78\x78

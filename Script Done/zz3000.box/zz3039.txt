@@ -1,26 +1,28 @@
 ﻿<music 11>
 <background "bg013a0.agf" 10>
 <sprite "ta15a004.agf" 4 4 11>
-<name "マリーアリス" "!LA5041">
-「魔王様、魔王様」
+<name "Marialis" "!LA5041">
+"Overlord.
+ Overlord."
 #
-<name "ダークス">
-「どうした？」
+<name "Darx">
+"What is it?"
 #
 <sprite "ta15a005.agf" 4 4 12>
-<name "マリーアリス" "!LA5042">
-「あそこに物陰が！」
+<name "Marialis" "!LA5042">
+"There's cover over there!"
 #
-<name "ダークス">
-「……」
+<name "Darx">
+"..."
 #
 <removesprite -1 11>
 <music 17>
 <background "ev091a00.agf" 10>
-<name "ダークス">
-「露骨な誘い方だな」
+<name "Darx">
+"That's a very explicit invitation."
 #
-<name "マリーアリス" "!LA5043">
-「それでも、しっかり乗ってくれる魔王様が好きです」
+<name "Marialis" "!LA5043">
+"Still, I love that you know exactly what I
+ mean."
 #
 \x78\x78

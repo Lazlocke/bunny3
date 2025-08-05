@@ -1,39 +1,40 @@
 ﻿<music 17>
 <background "ev052a00.agf" 10>
-<name "ウルティニア" "!EA0035">
-「そういえば、聞きましたよ」
+<name "Ultinia" "!EA0035">
+"Actually, I heard something."
 #
-<name "ダークス">
-「ん？」
+<name "Darx">
+"Hm?"
 #
-<name "ウルティニア" "!EA0036">
-「ミアルテ様を仲間にしたと」
+<name "Ultinia" "!EA0036">
+"That Miartei is one of us now."
 #
-<name "ダークス">
-「ああ」
+<name "Darx">
+"Yeah."
 #
-<name "ウルティニア" "!EA0037">
-「凄いですね」
+<name "Ultinia" "!EA0037">
+"That's incredible."
 #
-<name "ダークス">
-「そうか？」
+<name "Darx">
+"It is?"
 #
-<name "ウルティニア" "!EA0038">
-「ええ。
-　あの方、魔界嫌いでは有名でしたから」
+<name "Ultinia" "!EA0038">
+"Yes.
+ Her hatred for the Netherworld was known far
+ and wide."
 #
-<name "ダークス">
-「わかりあえば、なんとかなる」
+<name "Darx">
+"Where there's a will, there's a way."
 #
-<name "ウルティニア" "!EA0039">
-「では、次は私とわかりあって貰えますか」
+<name "Ultinia" "!EA0039">
+"Then can you show that will to me next?"
 #
-<name "イザナ" "!AA0024">
-「私もお願いします」
+<name "Izana" "!AA0024">
+"Me too, please."
 #
-<name "ダークス">
-「……頑張らせて貰おう」
+<name "Darx">
+"...I'll do my best."
 #
-　俺はパニバーナ達とベッドの中で楽しんだ。
+I enjoy my time in bed with the three of them.
 #
 \x78\x78

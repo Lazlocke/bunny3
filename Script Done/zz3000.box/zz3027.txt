@@ -1,38 +1,40 @@
 ﻿<music 18>
 <background "ev034a03.agf" 10>
-<name "ダークス">
-「キュリハ」
+<name "Darx">
+"Kyuriha."
 #
-<name "キュリハ" "!FA0341">
-「なんでしょう？」
+<name "Kyuriha" "!FA0341">
+"What is it?"
 #
-<name "ダークス">
-「髪の毛が翼になっているけど、それで飛ぶのか？」
+<name "Darx">
+"You have wings in your hair.
+ Do you fly with them?"
 #
-<name "キュリハ" "!FA0342">
-「いえ、飛ぶ翼は背中に……出し入れできます」
+<name "Kyuriha" "!FA0342">
+"No, my flying wings are on my back.
+ I can bring them in and out."
 #
-<name "ダークス">
-「じゃあ、その髪の毛の翼は？」
+<name "Darx">
+"Then what are the hair wings for?"
 #
-<name "キュリハ" "!FA0343">
-「ファッションです」
+<name "Kyuriha" "!FA0343">
+"Fashion."
 #
-<name "ダークス">
-「……」
+<name "Darx">
+"..."
 #
-<name "キュリハ" "!FA0344">
-「寝癖ではありませんよ」
+<name "Kyuriha" "!FA0344">
+"It's not bed hair."
 #
-<name "ダークス">
-「そ、そうか。
-　変な事を聞いたな」
+<name "Darx">
+"I-I see.
+ That must've been a weird question."
 #
-<name "キュリハ" "!FA0345">
-「いえ。
-　では、もう一回、お願いします」
+<name "Kyuriha" "!FA0345">
+"Hardly.
+ One more time, please."
 #
-<name "ダークス">
-「ああ」
+<name "Darx">
+"Yeah."
 #
 \x78\x78

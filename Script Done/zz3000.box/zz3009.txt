@@ -1,50 +1,54 @@
 ﻿<music 39>
 <background "bg002a0.agf" 10>
 <sprite "ta12a001.agf" 4 4 11>
-<name "メリル" "!HA0009">
-「マクドゥ様。
-　街に行って魔王様に報告を行いたいのですが、構
-　いませんか？」
+<name "Meryl" "!HA0009">
+"Macdo, I want to go to the city and report to
+ the Overlord.
+ Do you mind?"
 #
 <removesprite -1 11>
 <sprite "ta12a000.agf" 2 4 11>
 <sprite "ta02a001.agf" 6 5 11>
-<name "マクドゥ" "!ZA0316">
-「報告だけか？」
+<name "Macdo" "!ZA0316">
+"Just report?"
 #
 <sprite "ta12a001.agf" 2 4 12>
-<name "メリル" "!HA0010">
-「魔王様にお会い出来るのでしたら、各部門から連
-　絡、伝達事項等を集めて行いたいと考えています」
+<name "Meryl" "!HA0010">
+"If possible, I'd like to meet with him to 
+ discuss each group's situation as well as
+ bring any messages they may have for him and
+ vice versa."
 #
 <sprite "ta02a000.agf" 6 5 12>
-<name "マクドゥ" "!ZA0317">
-「了承した。
-　そういったこちらの業務に関する事なら、街に行っ
-　て貰って構わん」
+<name "Macdo" "!ZA0317">
+"That's fine.
+ So long as it's concerning matters here, I
+ don't care if you go to the city."
 #
 <sprite "ta02a028.agf" 6 5 12>
-<name "マクドゥ" "!ZA0318">
-「また、同様の内容なら、今後、私の許可は必要無い」
+<name "Macdo" "!ZA0318">
+"And in the future for similar things, you 
+ don't need my permission."
 #
 <sprite "ta12a000.agf" 2 4 12>
-<name "メリル" "!HA0011">
-「そうですか」
+<name "Meryl" "!HA0011">
+"All right."
 #
 <sprite "ta02a001.agf" 6 5 12>
-<name "マクドゥ" "!ZA0319">
-「ただ、向こうの街に関する事で、アドバイスのよ
-　うな発言は避けて貰いたい」
+<name "Macdo" "!ZA0319">
+"However, I want you to avoid giving him 
+ anything like advice as far as running the
+ city is concerned."
 #
 <sprite "ta12a001.agf" 2 4 12>
-<name "メリル" "!HA0012">
-「魔王様が私如きのアドバイスを必要としていると
-　も思えませんが、わかりました。
-　そういった発言は避けるように注意しましょう」
+<name "Meryl" "!HA0012">
+"I don't believe he needs my help, but I
+ understand.
+ I'll be careful to hold my tongue."
 #
 <sprite "ta02a000.agf" 6 5 12>
-<name "マクドゥ" "!ZA0320">
-「よろしくお願いする」
+<name "Macdo" "!ZA0320">
+"Thank you."
 #
 <removesprite -1 11>
 \x2B\x78\x78
