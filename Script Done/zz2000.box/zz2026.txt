@@ -1,71 +1,77 @@
 ﻿<music 11>
 <background "bg008a0.agf" 10>
-<name "進行する住民" "!BC0193">
-「さあ、釣り大会です。
-　私、個人的にかなり楽しみにしておりました」
+<name "Announcing Citizen" "!BC0193">
+"Okay, it's time for the fishing tournament.
+ I've personally been counting down the
+ days."
 #
-<name "進行する住民" "!BC0194">
-「この調子で、定例化すれば良いのにと思っており
-　ます」
+<name "Announcing Citizen" "!BC0194">
+"I hope we can make this a regular event." 
 #
-<name "進行する住民" "!BC0195">
-「さて私、司会をしながら糸を垂らしておりますが
-　腕前の方はからっきしです」
+<name "Announcing Citizen" "!BC0195">
+"Now then, I may be the announcer, and
+ fishing myself, but my skills are lacking."
 #
-<name "進行する住民" "!BC0196">
-「そう、ただの司会が出来る釣り好きな魔族ですな
-　んです。
-　ですがヘタの横好きと言いますか……あれ？
-　糸が……竿も……」
+<name "Announcing Citizen" "!BC0196">
+"Yes, I'm just a demon announcer who loves to
+ fish. You may say that loving to fish but
+ being bad at it is... oh?
+ My line... My rod..."
 #
-<name "進行する住民" "!BC0197">
-「うおおおっ！
-　ま、まさか、まさかのヒット！」
+<name "Announcing Citizen" "!BC0197">
+"Ooooh!
+ N-No way!
+ It's a bite!"
 #
-<name "進行する住民" "!BC0198">
-「きた、きた、きたぁぁぁぁっ！」
+<name "Announcing Citizen" "!BC0198">
+"A bite! A bite! A biiiiite!"
 #
-<name "進行する住民" "!BC0199">
-「うおおっ、た、たまりません、この手応え、これ
-　は大物、大物です！」
+<name "Announcing Citizen" "!BC0199">
+"Ooooh!
+ I-I can't believe it!
+ It's a big one!
+ A big one!"
 #
-<name "進行する住民" "!BC0200">
-「私、確信しました！」
+<name "Announcing Citizen" "!BC0200">
+"I'm sure of it!"
 #
-<name "進行する住民" "!BC0201">
-「ひょっとして、これまでの私の歴史の中で、一番
-　の大物かもしれません！」
+<name "Announcing Citizen" "!BC0201">
+"This may the biggest catch in all of my
+ fishing life!"
 #
-<name "進行する住民" "!BC0202">
-「ここは司会を忘れ、ファイトに集中したいと思い
-　ます！」
+<name "Announcing Citizen" "!BC0202">
+"I have to forget about announcing and
+ concentrate on this battle!"
 #
-<name "進行する住民" "!BC0203">
-「うおおおおおおおおおおおおおおおおっ！」
+<name "Announcing Citizen" "!BC0203">
+"Oooooooohhhhhhhhh!"
 #
-<name "進行する住民" "!BC0204">
-「や、や、やりました！
-　魚の名前は知りませんが、７２センチです！
-　大物です！」
+<name "Announcing Citizen" "!BC0204">
+"I-I-I did it!
+ I don't know aht kind of fish this is, but
+ it's 72 cm!
+ It's a whopper!"
 #
-<name "進行する住民" "!BC0205">
-「感動です。
-　感動で前が見えません！」
+<name "Announcing Citizen" "!BC0205">
+"I'm so moved.
+ I'm so moved I can't see what lies before
+ me!"
 #
-　……
+...
 #
-<name "見てた住民" "!LB0185">
-「あれ？
-　今の流れだとメダカサイズってオチじゃないの？」
+<name "Watching Citizen" "!LB0185">
+"Huh?
+ The way things are going, won't it be the
+ size of a goldfish?"
 #
-<name "参加している住民" "!GB0278">
-「釣りは筋書きの無いドラマよ。
-　そして、今のファイトを見て、魔王様が超本気に
-　なってる」
+<name "Participating Citizen" "!GB0278">
+"Fishing is a drama without purpose.
+ And look at the fight now.
+ The Overlord's gotten super serious."
 #
-<name "見てた住民" "!LB0186">
-「あー、魔王様も釣り、好きだからねぇ」
+<name "Watching Citizen" "!LB0186">
+"Oh, so he likes fishing too?"
 #
-　釣り大会は、賑わった。
+The fishing tournament was a success.
 #
 \x78\x78

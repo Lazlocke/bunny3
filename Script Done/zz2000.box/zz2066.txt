@@ -1,83 +1,85 @@
 ﻿<music 17>
 <background "ev064a00.agf" 10>
-<name "ラフィノー" "!EB0051">
-「ふぁ……」
+<name "Raffino" "!EB0051">
+"Aah..."
 #
-<name "ラフィノー" "!EB0052">
-「ぁぁ……」
+<name "Raffino" "!EB0052">
+"Ahh..."
 #
-<name "ラフィノー" "!EB0053">
-「こういったのも……」
+<name "Raffino" "!EB0053">
+"And this too..."
 #
 <music 4>
 <background "bg009a0.agf" 10>
 <sprite "ta34b002.agf" 4 4 11>
-<name "商会メイド" "!DC0112">
-「ラフィノー様。
-　大丈夫ですか？」
+<name "Company Maid" "!DC0112">
+"Raffino?
+ Are you okay?"
 #
 <removesprite -1 11>
 <sprite "ta20a120.agf" 2 5 11>
 <sprite "ta34b002.agf" 6 4 11>
-<name "ラフィノー" "!EB0054">
-「え？
-　あ、いえ、だ、大丈夫です」
+<name "Raffino" "!EB0054">
+"Huh?
+ Oh, no, I-I'm fine."
 #
-<name "商会メイド" "!DC0113">
-「そうですか？
-　体調が悪いのでしたら、無理をなさらずに横にな
-　られては……」
+<name "Company Maid" "!DC0113">
+"Are you sure?
+ If you're sick, you should lay down instead
+ of pushing yourself."
 #
 <sprite "ta20a005.agf" 2 5 12>
-<name "ラフィノー" "!EB0055">
-「い、いえ……ははは。
-　ぼーっとしていました」
+<name "Raffino" "!EB0055">
+"N-No... Hahaha...
+ Just daydreaming."
 #
 <sprite "ta20a004.agf" 2 5 12>
-<name "ラフィノー" "!EB0056">
-「し、失礼します」
+<name "Raffino" "!EB0056">
+"E-Excuse me."
 #
 <removesprite -1 11>
 <music 11>
 <background "bg008a0.agf" 10>
 <sprite "ta20a019.agf" 4 4 11>
-<name "ラフィノー" "!EB0057">
-「ビ、ビックリしたぁ」
+<name "Raffino" "!EB0057">
+"T-That startled me."
 #
 <sprite "ta20a017.agf" 4 4 12>
-<name "ラフィノー" "!EB0058">
-「駄目ね。
-　昼間っから妄想なんて」
+<name "Raffino" "!EB0058">
+"Oh no.
+ I can't believe I'm spacing out in the middle
+ of the day."
 #
 <sprite "ta20a018.agf" 4 4 12>
-<name "ラフィノー" "!EB0059">
-「しかも、あんな……」
+<name "Raffino" "!EB0059">
+"Still, that was..."
 #
 <removesprite -1 11>
 <music 17>
 <background "ev064a01.agf" 10>
-<name "ラフィノー" "!EB0060">
-「ぁ……んんっ！」
+<name "Raffino" "!EB0060">
+"Ah...mmmm!"
 #
-<name "ラフィノー" "!EB0061">
-「ぅぅ……妄想だけで軽くイッちゃった」
+<name "Raffino" "!EB0061">
+"Oooh...
+ Just fantasizing and I came a little..."
 #
-<name "ラフィノー" "!EB0062">
-「欲求不満？
-　それとも、あんな風にされたい願望が私に？」
+<name "Raffino" "!EB0062">
+"Am I frustrated?
+ Or do I want to be like that?"
 #
 <music 11>
 <background "bg008a0.agf" 10>
 <sprite "ta20a018.agf" 4 4 11>
-<name "ラフィノー" "!EB0063">
-「あー……と、ともかく。
-　下着をこのままには出来ないから、着替えに帰っ
-　て、あ、あと……」
+<name "Raffino" "!EB0063">
+"Aah... A-Anyway...
+ I can't keep these panties on.
+ I need to go home and change, a-and then..."
 #
 <sprite "ta20a120.agf" 4 4 12>
-<name "ラフィノー" "!EB0064">
-「出来るだけ魔王様の傍に居れば、声を掛けて貰え
-　るかな」
+<name "Raffino" "!EB0064">
+"If I stay as close as I can to the Overlord,
+ maybe he'll call for me."
 #
 <removesprite -1 11>
 \x2B\x78\x78

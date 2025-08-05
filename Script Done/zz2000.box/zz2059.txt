@@ -1,69 +1,71 @@
 ﻿<music 11>
 <background "bg008a0.agf" 10>
 <sprite "ta22a009.agf" 4 4 11>
-<name "ナイン" "!QA0097">
-「うーん」
+<name "Nein" "!QA0097">
+"Hmmmm..."
 #
 <removesprite -1 11>
 <sprite "ta20a000.agf" 2 4 11>
 <sprite "ta22a009.agf" 6 5 11>
-<name "ラフィノー" "!EB0067">
-「どうしました？」
+<name "Raffino" "!EB0067">
+"What's the matter?"
 #
 <sprite "ta22a010.agf" 6 5 12>
-<name "ナイン" "!QA0098">
-「え？
-　あ、いや……その……時々、女性が私の姿を見て
-　逃げるのよねぇ」
+<name "Nein" "!QA0098">
+"Huh?
+ Oh, no, um... 
+ Sometimes women run away when they see me."
 #
 <sprite "ta20a017.agf" 2 4 12>
-<name "ラフィノー" "!EB0068">
-「えっと……本気で言ってます？」
+<name "Raffino" "!EB0068">
+"Um... Are you serious?"
 #
 <sprite "ta22a009.agf" 6 5 12>
-<name "ナイン" "!QA0099">
-「うん。
-　ひょっとして、理由を知ってるの？」
+<name "Nein" "!QA0099">
+"Yeah.
+ Do you maybe know why?"
 #
 <sprite "ta20a018.agf" 2 4 12>
-<name "ラフィノー" "!EB0069">
-「ええ」
+<name "Raffino" "!EB0069">
+"Yes."
 #
 <sprite "ta22a004.agf" 6 5 12>
-<name "ナイン" "!QA0100">
-「教えてよ」
+<name "Nein" "!QA0100">
+"Tell me."
 #
 <sprite "ta20a016.agf" 2 4 12>
-<name "ラフィノー" "!EB0070">
-「貴女の前から逃げるのは、魔王様の部屋から出て
-　きた女性で、スカートが比較的短い方です」
+<name "Raffino" "!EB0070">
+"They're running away from a woman who came 
+ out of the Overlord's room with a very short
+ skirt."
 #
 <sprite "ta22a016.agf" 6 5 12>
-<name "ナイン" "!QA0101">
-「………………ああ！」
+<name "Nein" "!QA0101">
+".........Aah!"
 #
 <sprite "ta20a017.agf" 2 4 12>
-<name "ラフィノー" "!EB0071">
-「汚れていたり、履いていない可能性もありますか
-　ら」
+<name "Raffino" "!EB0071">
+"They're filthy, or there's nothing there at
+ all."
 #
 <sprite "ta22a012.agf" 6 5 12>
-<name "ナイン" "!QA0102">
-「そ、そっか」
+<name "Nein" "!QA0102">
+"I-I see."
 #
 <sprite "ta20a005.agf" 2 4 12>
-<name "ラフィノー" "!EB0072">
-「もう少し高く飛ぶ事を意識すれば、解決すると思
-　いますよ」
+<name "Raffino" "!EB0072">
+"I think you you focus on just flying a little
+ higher, that'll fix everything."
 #
 <sprite "ta22a003.agf" 6 5 12>
-<name "ナイン" "!QA0103">
-「だね。
-　ありがとう」
+<name "Nein" "!QA0103">
+"Yeah.
+ Thanks."
 #
 <sprite "ta20a004.agf" 2 4 12>
-<name "ラフィノー" "!EB0073">
-「いえ、では失礼します」
+<name "Raffino" "!EB0073">
+"It's nothing.
+ Excuse me."
 #
 <removesprite -1 11>
 \x2B\x78\x78

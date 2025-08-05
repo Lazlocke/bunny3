@@ -981,8 +981,8 @@ I gave her my all.
 <music 3>
 <background "bg010a0.agf" 10>
 <name "Darx">
-"Ignoring in front of me for a second, what
- about having your panties exposed when
+"Forgetting about in front of me for a second,
+ what about having your panties exposed when
  going around the city?"
 #
 <sprite "ta22a003.agf" 4 4 11>
@@ -1316,7 +1316,7 @@ Hibi is one of us now.
 <background "bg010a0.agf" 10>
 <name "Darx">
 "Hibi?
- Ihear you have quite the reputation."
+ I hear you have quite the reputation."
 #
 <name "Hibi" "!DB0034" "ka23a011.agf">
 "Huh?"

@@ -1,325 +1,331 @@
 ﻿<music 3>
 <background "bg010a0.agf" 10>
-<name "フィリアネ" "!GA0016" "ka25a000.agf">
-「魔王様」
+<name "Filliane" "!GA0016" "ka25a000.agf">
+"Overlord."
 #
-<name "ダークス">
-「ん？
-　どうした？」
+<name "Darx">
+"Hm? What is it?"
 #
-<name "フィリアネ" "!GA0017" "ka25a000.agf">
-「久しぶりにお会い出来たのですから、お相手をし
-　て頂きたいなと」
+<name "Filliane" "!GA0017" "ka25a000.agf">
+"We haven't seen each other for such a long
+ time, so I was hoping you'd make love with
+ me."
 #
 <sprite "ta15a005.agf" 4 4 11>
-<name "マリーアリス" "!LA0086">
-「フィリアネだけはズルいです。
-　という事で、ついて来ました」
+<name "Marialis" "!LA0086">
+"Just her wouldn't be fair.
+ So I came too."
 #
 <removesprite -1 11>
-<name "ダークス">
-「お前ら二人はわかるけど、その後ろは？」
+<name "Darx">
+"Okay, so that's you two, but what about the
+ ones behind you?"
 #
-<name "希望する親衛隊員" "!QB0130" "ka35b000.agf">
-「隊長と一心同体です」
+<name "Hopeful Guard" "!QB0130" "ka35b000.agf">
+"I am mind and body with our captain."
 #
-<name "賛同する親衛隊員" "!WB0121" "ka35b000.agf">
-「私も」
+<name "Agreeing Guard" "!WB0121" "ka35b000.agf">
+"Me too."
 #
-<name "便乗する親衛隊員" "!TC0119" "ka35b000.agf">
-「私もです」
+<name "Opportunistic Guard" "!TC0119" "ka35b000.agf">
+"Me too."
 #
-<name "ダークス">
-「ははは。
-　せ、折角だけど、仕事があるんだ……」
+<name "Darx">
+"Hahaha.
+ I-It would be fine, but I have a lot of
+ work..."
 #
-<name "フィリアネ" "!GA0018" "ka25a000.agf">
-「お手伝いします」
+<name "Filliane" "!GA0018" "ka25a000.agf">
+"We'll help."
 #
 <sprite "ta15a005.agf" 4 4 11>
-<name "マリーアリス" "!LA0087">
-「手早く終わらせましょう」
+<name "Marialis" "!LA0087">
+"We'll finish in no time."
 #
 <removesprite -1 11>
 <music 18>
 <background "ev058a00.agf" 10>
-<name "希望する親衛隊員" "!QB0131">
-「ぁ、うぁ……ふぁ……」
+<name "Hopeful Guard" "!QB0131">
+"Ah...ah...aah..."
 #
-<name "賛同する親衛隊員" "!WB0122">
-「ぁぁ……」
+<name "Agreeing Guard" "!WB0122">
+"Aahh..."
 #
-<name "便乗する親衛隊員" "!TC0120">
-「ひぁ……ん……」
+<name "Opportunistic Guard" "!TC0120">
+"Aah...mm..."
 #
-　俺は親衛隊の者達を相手にした後、最後にマリー
-　アリスとフィリアネを同時に相手にする。
+After finishing with the guards, I take care
+of Filliane and Marialis at the same time. 
 #
-<name "マリーアリス" "!LA0088">
-「ふぁ、ぁ、んぁ、んんぁ」
+<name "Marialis" "!LA0088">
+"Aah...ah...mm...mmm..."
 #
-<name "フィリアネ" "!GA0019">
-「ぁぁん……んぁ」
+<name "Filliane" "!GA0019">
+"Aah...mmm..."
 #
-　俺のモノをマリーアリスの膣内に挿入し、フィリ
-　アネの陰部は手で愛撫を続ける。
+I stick my dick into Marialis while caressing
+Filliane's pussy.
 #
-<name "フィリアネ" "!GA0020">
-「ん、わ、私の方にも……」
+<name "Filliane" "!GA0020">
+"Mm...
+ D-Do me too..."
 #
-<name "ダークス">
-「今はマリーアリスだ」
+<name "Darx">
+"It's Marialis's turn right now."
 #
-　俺は不満そうなフィリアネの膣内に指を突き入れ、
-　乱暴に掻きまわす。
+I stick my finger deeper into her and rub it
+violently to appease her dissatisfaction.
 #
-<name "フィリアネ" "!GA0021">
-「ぁ、ふぁ、も、もう……」
+<name "Filliane" "!GA0021">
+"Ah...ah...
+ G-Geez..."
 #
-<name "ダークス">
-「次はお前だから、準備しておけ」
+<name "Darx">
+"You're next, so get yourself ready."
 #
-　そう言って優しく指を動かし、フィリアネの陰部
-　を愛撫する。
+I go back to gently caressing her.
 #
-<name "フィリアネ" "!GA0022">
-「ふぁ、は、はい」
+<name "Filliane" "!GA0022">
+"Aah... O-Okay..."
 #
-<name "ダークス">
-「マリーアリス」
+<name "Darx">
+"Marialis."
 #
-<name "マリーアリス" "!LA0089">
-「はぁ、ふぁ、ふぁ、あ、んぁ、あっ」
+<name "Marialis" "!LA0089">
+"Aah...ah...aah...ah...mm...ah..."
 #
-　マリーアリスは俺のモノの動きに合わせて、甘い
-　声を出している。
+Marialis is moaning with each movement of my
+dick.
 #
-<name "ダークス">
-「速めるぞ」
+<name "Darx">
+"I'm going to go faster."
 #
-<name "マリーアリス" "!LA0090">
-「んぁ、ど、どうぞ」
+<name "Marialis" "!LA0090">
+"Mm...
+ P-Please."
 #
-　マリーアリスは俺が動きやすいように、足をさら
-　に広げてくれた。
+She spreads her legs to make it easier for me
+to move.
 #
-　そうやって俺を受け入れてくれる事に、俺は素直
-　に喜びながら腰の動きを速めた。
+I go faster, happy to see her openly accepting
+me.
 #
-<name "マリーアリス" "!LA0091">
-「ぁっ、ぁっ、ぁぁっ！」
+<name "Marialis" "!LA0091">
+"Ah! Aah! Ahhh!"
 #
-　マリーアリスの膣内は俺のモノを少しキツく締め
-　付けてくれる。
+Her pussy squeezes tight around my dick.
 #
-　だが、マリーアリスの分泌する愛液によって程良
-　い具合になり、かなりの快楽になる。
+But because of all the love juices she's
+leaking out, it feels really good.
 #
-<name "マリーアリス" "!LA0092">
-「んぁ、ふぁ、ぁっ、や、ん、んっ、んひっ！
-　そ、そこは、ふぁ、ぁ、ぁんっ、んんぁっ」
+<name "Marialis" "!LA0092">
+"Mm! Aah! Ah! Ah! Mm! Mmm! Aahh!
+ R-Right there... 
+ Aahhh! Ah! Aah! Ahhh!"
 #
-　そして、温かさ。
+And warm.
 #
-　マリーアリスの体温が、俺を包み込んでくれるよ
-　うで、俺の腰が勝手にマリーアリスを求めている
-　感じだ。
+It feels like her warmth is enveloping me, 
+and my hips desire her all on their own.
 #
-　しかし、それでも俺の手はフィリアネを忘れない。
+But my hand still doesn't forget Filliane.
 #
-<name "フィリアネ" "!GA0023">
-「ぁ、うぁ、ふぁ……ぁぁん」
+<name "Filliane" "!GA0023">
+"Ah...aah...ahhh...aah!"
 #
-　いや、フィリアネが忘れさせない。
+No, she won't me forget.
 #
-　指からダイレクトに伝わるフィリアネの陰部。
+I can feel her pussy distinctly on my fingers.
 #
-<name "フィリアネ" "!GA0024">
-「ぁ、んぁ、ふぁ……」
+<name "Filliane" "!GA0024">
+"Ah...mmm...ahhh..."
 #
-　そこが、早く俺のモノを突き入れろと催促してい
-　るようだ。
+Like it's urging me to stick my dick in her
+as soon as possible.
 #
-　俺の指がさらに求めて動きだす。
+My finger moves, searching for more.
 #
-<name "フィリアネ" "!GA0025">
-「ぁひっ、あっ、ふぁっ」
+<name "Filliane" "!GA0025">
+"Aah! Ah! Ahh!"
 #
-<name "マリーアリス" "!LA0093">
-「ぁ、うぁ、あ、ふあっ」
+<name "Marialis" "!LA0093">
+"Ah! Aah! Ah! Ahh!"
 #
-　二人の甘い声を聞きながら、俺は腰と指を動かし
-　続ける。
+I continue moving my hips and fingers as I
+listen to their sweet moans.
 #
-　ずっとこの快楽に浸っていたが、起伏はある。
+I've soaked in this pleasure for a long time,
+but it goes up and down.
 #
-　そして、そろそろ頂に到達しようとしているのを
-　感じる。
+And I can feel that it's almost at its peak.
 #
-<name "ダークス">
-「出すぞ」
+<name "Darx">
+"I'm going to come."
 #
-<name "マリーアリス" "!LA0094">
-「ぁ、ふぁ、は、はい」
+<name "Marialis" "!LA0094">
+"Ah...ah...
+ Y-Yes..."
 #
-　俺の言葉に、マリーアリスが喜びを見せる。
+She shows open pleasure at my words.
 #
-<name "ダークス">
-「フィリアネ。
-　お前も一緒だ」
+<name "Darx">
+"Filliane, come with me too."
 #
-<name "フィリアネ" "!GA0026">
-「ぁ、は、はい」
+<name "Filliane" "!GA0026">
+"Ah... Y-Yes..."
 #
-　俺は指先でフィリアネの膣壁を激しく擦った。
+I rub her walls with my fingertips.
 #
-<name "ダークス">
-「受け止めろ」
+<name "Darx">
+"Take it."
 #
-　そう言って、俺はマリーアリスの膣内に射精を開
-　始した。
+As I say that, I start coming inside Marialis.
 #
 <background "ev058a01.agf" 10>
-<name "マリーアリス" "!LA0095">
-「ぁ、ふぁ、ぁっ、ああああああっ！」
+<name "Marialis" "!LA0095">
+"Ah! Aah! Aah! Ahhhhhhhhhh!!!"
 #
-<name "フィリアネ" "!GA0027">
-「ひぁ、ぁ、ん、んんんんっ！」
+<name "Filliane" "!GA0027">
+"Ah! Ah! Mmm! Mmmmmmmmmm!!!"
 #
-　俺の射精を受け止めながらマリーアリスは達し、
-　俺の指によってフィリアネも絶頂を迎えた。
+She climaxes while I come in her at the same
+time as Filliane orgasms on my fingers.
 #
-<name "マリーアリス" "!LA0096">
-「ぁ、ふぁ、ぁ……」
+<name "Marialis" "!LA0096">
+"Ah...ahhh...ah..."
 #
-<name "フィリアネ" "!GA0028">
-「ひぁ……ぁ……ぁぁ」
+<name "Filliane" "!GA0028">
+"Aah...ah...aaah..."
 #
-　二人の荒い息。
+The two gasp for breath.
 #
-　このまま続けたくなるが、俺はモノをマリーアリ
-　スから抜き、フィリアネに向けた。
+I'm tempted to keep going, but I pull out of
+Marialis and turn to Filliane.
 #
-<name "マリーアリス" "!LA0097">
-「ぁ……」
+<name "Marialis" "!LA0097">
+"Ah..."
 #
 <background "ev058b00.agf" 10>
-<name "フィリアネ" "!GA0029">
-「んんっ」
+<name "Filliane" "!GA0029">
+"Mmmm!"
 #
-　今度は、フィリアネの膣内でモノを動かし、片手
-　でマリーアリスの陰部を弄る。
+This time, I move my dick in Filliane's pussy
+while playing with Marialis with my other 
+hand.
 #
-<name "フィリアネ" "!GA0030">
-「あ、あ、ふあ、あ、ま、魔王、魔王様ぁ」
+<name "Filliane" "!GA0030">
+"Ah...ah...ah...ah...
+ M-My Lord... My Lord..."
 #
-　達したばかりのフィリアネだったが、俺のモノが
-　深く挿入された事で激しく身体を動かし始めた。
+She just came, so she writhes violently with
+my dick suddenly thrust deep into her.
 #
-<name "マリーアリス" "!LA0098">
-「ぁ、ふぁ、ぁ、ぁぁ」
+<name "Marialis" "!LA0098">
+"Ah...aah...ah...aah..."
 #
-　そして、精液を流し込まれたばかりのマリーアリ
-　スの膣内は、俺の指をキツく圧迫して逃さない。
+And Marialis's pussy, freshly filled with my
+semen, squeezes hard onto my fingers and won't
+let go.
 #
-<name "フィリアネ" "!GA0031">
-「ぁ、うぁ、ぁ、ぁ、ああっ」
+<name "Filliane" "!GA0031">
+"Ah! Aah! Ah! Ah! Aaah!"
 #
-<name "マリーアリス" "!LA0099">
-「ひぁ、ひぁぅ、ぁぁぁぁ」
+<name "Marialis" "!LA0099">
+"Ah! Ahh! Aaaahh!"
 #
-<name "フィリアネ" "!GA0032">
-「んぁ、あっ、も、もっと、ひぁ、ひぁ、ああっ」
+<name "Filliane" "!GA0032">
+"Aah! Ah! M-More!
+ Ahh! Ahh! Aaah!"
 #
-　フィリアネの積極的な態度に、俺は早々に射精を
-　強要されそうになる。
+Filliane's enthusiastic response is already
+close to forcing me to come.
 #
-<name "フィリアネ" "!GA0033">
-「ぁ、ぁ、ふぁ、ぁぁっ」
+<name "Filliane" "!GA0033">
+"Ah! Ah! Aah! Ahh!"
 #
-　まあ、我慢する事は無い。
+Well, I don't need to hold back.
 #
-　俺はフィリアネの行為をありがたく受けながら、
-　快楽に浸る。
+I gratefully accept her actions and soak in
+the pleasure.
 #
-　しかし、先ほどのように、俺の片手だけはフィリ
-　アネではなく、マリーアリスを求めていた。
+But just like before, she's not the only one.
+Marialis is also demanding my attention.
 #
-<name "マリーアリス" "!LA0100">
-「ぁ、ふぁ、ぁっ、ぁぁぁっ」
+<name "Marialis" "!LA0100">
+"Ah! Aah! Ah! Aaaah!"
 #
-　可愛い二人だ。
+They're both adorable.
 #
-　俺は激しく腰を動かしつつも、指の動きを止めず、
-　フィリアネの膣内に射精を行いながら、マリーア
-　リスを指で絶頂させた。
+I move my hips frantically, but never stop my
+fingers. I come inside Filliane while Marialis
+orgasms on my fingers.
 #
 <background "ev058b01.agf" 10>
-<name "フィリアネ" "!GA0034">
-「ふぁぁぁぁぁぁぁぁ」
+<name "Filliane" "!GA0034">
+"Ahhhhhhhhhh!!!!!!"
 #
-<name "マリーアリス" "!LA0101">
-「んぁぁぁぁぁ……」
+<name "Marialis" "!LA0101">
+"Mmmmmmm..."
 #
-　そうしながら、俺は二人との行為を延々と楽しみ
-　続けた。
+I continue to enjoy myself with them for a
+very long time.
 #
 <music 5>
 <background "bg011a0.agf" 10>
 <sprite "ta15a011.agf" 4 4 11>
-<name "マリーアリス" "!LA0102">
-「あの、魔王様」
+<name "Marialis" "!LA0102">
+"Um, My Lord."
 #
-<name "ダークス">
-「ん？」
+<name "Darx">
+"Hm?"
 #
 <sprite "ta15a012.agf" 4 4 12>
-<name "マリーアリス" "!LA0103">
-「どうして、他の方々が先で、私達が最後だったの
-　ですか？」
+<name "Marialis" "!LA0103">
+"Why did you do the others first and us last?"
 #
-<name "ダークス">
-「お前らを先にすると、他の奴等に順番が回らない
-　だろ」
+<name "Darx">
+"If I started with you, the others would never
+ get a turn."
 #
 <removesprite -1 11>
-<name "フィリアネ" "!GA0035" "ka25a000.agf">
-「そうですか？」
+<name "Filliane" "!GA0035" "ka25a000.agf">
+"Really?"
 #
-<name "ダークス">
-「そうなるだろ。
-　だからだよ」
+<name "Darx">
+"Really.
+ That's why."
 #
-<name "ダークス">
-「別に、お前達の前で他の女を抱いて嫉妬させよう
-　とか思ってないぞ」
+<name "Darx">
+"I would never think of making you jealous by
+ having sex with other women in front of you."
 #
-<name "フィリアネ" "!GA0036" "ka25a000.agf">
-「まるっきり、考えもしなかったと？」
+<name "Filliane" "!GA0036" "ka25a000.agf">
+"You never thought of that at all?"
 #
-<name "ダークス">
-「そりゃ、少しは考えたけどな」
+<name "Darx">
+"I had maybe thought about it a little bit."
 #
 <sprite "ta15a016.agf" 4 4 11>
-<name "マリーアリス" "!LA0104">
-「もう……意地悪ですね」
+<name "Marialis" "!LA0104">
+"Geez...
+ What a bully."
 #
-<name "ダークス">
-「お前らが可愛いからだ。
-　許せ」
+<name "Darx">
+"It's because you two are so cute.
+ Forgive me."
 #
 <removesprite -1 11>
-<name "フィリアネ" "!GA0037" "ka25a000.agf">
-「また、お相手してくださるなら」
+<name "Filliane" "!GA0037" "ka25a000.agf">
+"Only if we do it again."
 #
-<name "ダークス">
-「はいはい。
-　お相手しますよ」
+<name "Darx">
+"Yeah, yeah.
+ I can handle that."
 #
-　俺はマリーアリスとフィリアネとイチャイチャし
-　ながら、他の者達が目覚めるのを待った。
+I keep flirting with the two of them while
+waiting for the others to wake up.
 #
-<name "倒れた親衛隊員" "!WB0123" "ka35b000.agf">
-「た、隊長達がタフ過ぎる……」
+<name "Fallen Guard" "!WB0123" "ka35b000.agf">
+"T-The captains are so tough..."
 #
 \x78\x78

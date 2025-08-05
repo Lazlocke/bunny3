@@ -1,27 +1,28 @@
 ﻿<music 3>
 <background "bg010a0.agf" 10>
-<name "ダークス">
-「ヒビか。
-　そういや、なかなか評判が良いらしいな」
+<name "Darx">
+"Hibi?
+ I hear you have quite the reputation."
 #
-<name "ヒビ" "!DB0034" "ka23a011.agf">
-「え？」
+<name "Hibi" "!DB0034" "ka23a011.agf">
+"Huh?"
 #
-<name "ダークス">
-「冷やすのが得意だから、食い物の鮮度が保てるっ
-　て色々な所が褒めてたぞ」
+<name "Darx">
+"You're good at cooling, so a lot of people
+ are singing your praises for keeping food
+ fresh."
 #
-<name "ヒビ" "!DB0035" "ka23a003.agf">
-「……私達は、冷たい食べ物が好きなだけ」
+<name "Hibi" "!DB0035" "ka23a003.agf">
+"...We just like cold food."
 #
-<name "ダークス">
-「テレるな」
+<name "Darx">
+"You're blushing."
 #
-<name "ヒビ" "!DB0036" "ka23a104.agf">
-「テ、テレてない。
-　……でも、冷やす物があったら言って」
+<name "Hibi" "!DB0036" "ka23a104.agf">
+"I-I am not.
+ ...But tell me if something needs cooling."
 #
-<name "ダークス">
-「ああ、頼らせて貰うよ」
+<name "Darx">
+"Yeah, I'm counting on you."
 #
 \x78\x78

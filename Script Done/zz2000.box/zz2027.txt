@@ -1,30 +1,32 @@
 ﻿<music 11>
 <background "bg008a0.agf" 10>
-<name "進行する住民" "!BC0206">
-「さあ、釣り大会。
-　開始です！」
+<name "Announcing Citizen" "!BC0206">
+"Now, let's begin the fishing tournament!"
 #
-<name "進行する住民" "!BC0207">
-「あー、そこのお嬢さん。
-　凍らせて手掴みは止めてください」
+<name "Announcing Citizen" "!BC0207">
+"Ah, you there, young lady.
+ Don't freeze them and then grab them by
+ hand."
 #
-<name "進行する住民" "!BC0208">
-「あと、そっちのお嬢さん。
-　池を沸騰させるのも無しです」
+<name "Announcing Citizen" "!BC0208">
+"And you there, miss.
+ No boiling the pond."
 #
-<name "進行する住民" "!BC0209">
-「衝撃で魚を気絶させるガッチン漁もお止めくださ
-　い」
+<name "Announcing Citizen" "!BC0209">
+"Please also stop shocking the fish to knock
+ them out."
 #
-<name "進行する住民" "!BC0210">
-「ああっと、そちらのお嬢さん。
-　潜る気満々ですが、大会中の遊泳は禁止ですよ」
+<name "Announcing Citizen" "!BC0210">
+"Aah, you there, young lady.
+ I see you are ready to dive, but swimming is
+ against the rules during this tournament."
 #
-<name "進行する住民" "!BC0211">
-「槍や弓を構えているお嬢さんも居ますが、大会で
-　使う道具は竿と糸と針、あとはエサぐらいです。
-　武器はしまいましょう」
+<name "Announcing Citizen" "!BC0211">
+"I also see some of you ladies holding spears
+ and bows. The only tools allowed in this
+ tournament are rods, lines, hooks, and bait.
+ Please put your weapons away."
 #
-　釣り大会は、賑わった。
+The fishing tournament was a success.
 #
 \x78\x78

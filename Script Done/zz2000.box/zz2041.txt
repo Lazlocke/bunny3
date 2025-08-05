@@ -1,77 +1,79 @@
 ﻿<music 3>
 <background "bg010a0.agf" 10>
-<name "魔族な街の住民" "!KB5000">
-「力比べ？
-　なんだそりゃ？」
+<name "Demon Citizen" "!KB5000">
+"A trial of strength?
+ What's that?"
 #
-<name "普通の街の住民" "!ZD5006">
-「なんだそりゃって、力比べは力比べだろ？
-　今度のイベント」
+<name "Ordinary Citizen" "!ZD5006">
+"What? Isn't it what it sounds like?
+ It's the next event they're holding."
 #
-<name "魔族な街の住民" "!KB5002">
-「そこは解ってるよ。
-　俺が解らないのは、ここ。
-　この告知、良く読んでみろよ」
+<name "Demon Citizen" "!KB5002">
+"I understand that much.
+ This is what I don't get.
+ Read the part of the announcement here."
 #
-<name "普通の街の住民" "!ZD5007">
-「種族ハンデ無し」
+<name "Ordinary Citizen" "!ZD5007">
+"No race restrictions."
 #
-<name "魔族な街の住民" "!KB5003">
-「感想は？」
+<name "Demon Citizen" "!KB5003">
+"What do you think?"
 #
-<name "普通の街の住民" "!ZD5008">
-「なんだそりゃ」
+<name "Ordinary Citizen" "!ZD5008">
+"What the hell?"
 #
-<name "魔族な街の住民" "!KB5004">
-「だろ？」
+<name "Demon Citizen" "!KB5004">
+"Right?"
 #
-<name "普通の街の住民" "!ZD5009">
-「ああ。
-　どうなってるんだ？
-　ノーホ種とチャミ種がハンデ無しで力比べするの
-　か？」
+<name "Ordinary Citizen" "!ZD5009">
+"Yeah.
+ What's going on?
+ How do you compare the strength of something
+ like a giant and a fairy without a handicap?"
 #
-<name "魔族な街の住民" "!KB5005">
-「いや、その対戦の場合、どんなハンデをつけても
-　駄目だろうけど……」
+<name "Demon Citizen" "!KB5005">
+"I mean, in that kind of matchup, I'm not sure
+ any handicap would matter..."
 #
-<name "普通の街の住民" "!ZD5011">
-「参加はしたくないが、興味がある」
+<name "Ordinary Citizen" "!ZD5011">
+"I don't want to participate, but I'm
+ curious."
 #
-<name "魔族な街の住民" "!KB5006">
-「そ、そうだな」
+<name "Demon Citizen" "!KB5006">
+"Y-Yeah."
 #
 <music 11>
 <background "bg015a0.agf" 10>
-　……
+...
 #
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta01a033.agf" 4 4 11>
-<name "ソフィア" "!ZB5020">
-「集客作戦、成功です」
+<name "Sofia" "!ZB5020">
+"Our strategy to attract an audience has been
+ a success."
 #
-<name "ダークス">
-「それはわかったが……
-　俺が強制参加になっているんだが」
+<name "Darx">
+"I understand that, but I'm being forced to
+ participate."
 #
 <sprite "ta01a027.agf" 4 4 12>
-<name "ソフィア" "!ZB5022">
-「すみません。
-　集客には成功しましたが、参加者が予想以上に少
-　なくて……」
+<name "Sofia" "!ZB5022">
+"I'm sorry.
+ We were able to attract an audience, but
+ fewer participants than we hoped for."
 #
-<name "ダークス">
-「参加してるのって、大型種族ばかりだよな。
-　種族ハンデ無しで良いって思う奴等ばっかりだよ
-　な」
+<name "Darx">
+"The only ones are the big races?
+ They're the only ones who thinks it's okay
+ to do this without limiting by race."
 #
 <sprite "ta01a033.agf" 4 4 12>
-<name "ソフィア" "!ZB5023">
-「頑張ってください。
-　応援しています」
+<name "Sofia" "!ZB5023">
+"Good luck.
+ I'm rooting for you."
 #
 <removesprite -1 11>
-　回復魔法って凄いと思った。
+At least the healing magic was incredible.
 #
 \x78\x78

@@ -1,52 +1,56 @@
 ﻿<music 4>
 <background "bg009a0.agf" 10>
 <sprite "ta34b000.agf" 4 4 11>
-<name "商会メイド" "!PC0127">
-「アンゴラメイ種族の母乳は、三種類の味があります」
+<name "Company Maid" "!PC0127">
+"There are three different kinds of angolamay
+ breast milk."
 #
 <sprite "ta34b004.agf" 4 4 12>
-<name "商会メイド" "!PC0128">
-「まずは非妊娠時期」
+<name "Company Maid" "!PC0128">
+"First, when they're not pregnant."
 #
-<name "商会メイド" "!PC0129">
-「これは異性を誘う時期の為、母乳には媚薬になる
-　効果が含まれています。
-　味は濃く、粘りがあります。
-　これはそれなりに売れます」
+<name "Company Maid" "!PC0129">
+"During this time, the breast milk has an
+ aphrodisiac effect in order to attract a male.
+ The taste is rich and viscous.
+ It sells quite well."
 #
-<name "商会メイド" "!PC0130">
-「ついで、妊娠時期」
+<name "Company Maid" "!PC0130">
+"Next, when they're pregnant."
 #
-<name "商会メイド" "!PC0131">
-「体内にいる子供に栄養を取られるので、母乳の味
-　は劣化します」
+<name "Company Maid" "!PC0131">
+"Since the nutrients are going to the child
+ inside her, the taste of the breast milk is
+ diminished."
 #
-<name "商会メイド" "!PC0132">
-「ですが、これも薬の原材料となるので、高値では
-　ありませんが売れます」
+<name "Company Maid" "!PC0132">
+"However, it is also a raw material for some
+ drugs, so it can be sold, but not for a lot."
 #
-<name "商会メイド" "!PC0133">
-「最後に、出産直後から半年ぐらいまでの時期」
+<name "Company Maid" "!PC0133">
+"Finally, from after they give birth until 
+ around six months later."
 #
-<name "商会メイド" "!PC0134">
-「子供の為の母乳です」
+<name "Company Maid" "!PC0134">
+"This is breast milk for the child."
 #
-<name "商会メイド" "!PC0135">
-「当然、子供の為なので栄養価が高い母乳となりま
-　す」
+<name "Company Maid" "!PC0135">
+"Of course, since it's for a child, it is 
+ packed with nutrients."
 #
-<name "商会メイド" "!PC0136">
-「これが一番高く売れます。
-　ですが、子供に飲ませる為の母乳ですので、なか
-　なか流通には乗りません」
+<name "Company Maid" "!PC0136">
+"This fetches the highest price, but since it's
+ for their baby, it's not easy to come by."
 #
 <sprite "ta34b000.agf" 4 4 12>
-<name "商会メイド" "!PC0137">
-「以上。
-　アンゴラメイ種族の母乳についてでした」
+<name "Company Maid" "!PC0137">
+"The end.
+ That's all you need to know about angolamay
+ breast milk."
 #
 <removesprite -1 11>
-<name "ヤーヌ" "!NB0022" "ka24a014.agf">
-「め、目の前で説明されると恥ずかしい」
+<name "Yahnu" "!NB0022" "ka24a014.agf">
+"I-It's a little embarrassing to have it
+ spelled out right in front of you."
 #
 \x78\x78

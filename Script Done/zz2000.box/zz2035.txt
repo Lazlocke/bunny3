@@ -1,76 +1,85 @@
 ﻿<music 13>
 <background "ev004a00.agf" 10>
-<name "興味ある住民" "!KB0288">
-「ギャンブル大会……ってなんだ？」
+<name "Interested Citizen" "!KB0288">
+"A gambling tournament?
+ What's that?"
 #
-<name "商会メイド" "!PC0543">
-「文字通り、ギャンブルの大会ですよ」
+<name "Company Maid" "!PC0543">
+"Literally, a tournament of gambling."
 #
-<name "興味ある住民" "!KB0289">
-「やっぱり良くわからない」
+<name "Interested Citizen" "!KB0289">
+"I still don't get it."
 #
-<name "商会メイド" "!PC0545">
-「参加者はプレイヤーとなり、一定期間内に大会が
-　指定するギャンブルに参加して、一番稼いだ人が
-　優勝となります」
+<name "Company Maid" "!PC0545">
+"Every participant is a player who gambles
+ in contests determined by the tournament
+ over a period of time.
+ Whoever wins the most money is the winner."
 #
-<name "興味ある住民" "!KB0290">
-「なるほど」
+<name "Interested Citizen" "!KB0290">
+"I see."
 #
-<name "商会メイド" "!PC0546">
-「参加費は不要ですが、賭け金は自己負担です。
-　ですので、儲けはそのまま持っていってＯＫとな
-　ります」
+<name "Company Maid" "!PC0546">
+"There's no entry fee, but you need to put up
+ your own money to gamble.
+ So you also get to keep whatever you win."
 #
-<name "興味ある住民" "!KB0291">
-「ほう」
+<name "Interested Citizen" "!KB0291">
+"Oh?"
 #
-<name "商会メイド" "!PC0547">
-「注意点は一つ。
-　競うのはギャンブルで稼いだ金額です」
+<name "Company Maid" "!PC0547">
+"There's one catch.
+ You're judged on how much money you win
+ through gambling."
 #
-<name "興味ある住民" "!KB0292">
-「てーっと……」
+<name "Interested Citizen" "!KB0292">
+"Meaning..."
 #
-<name "商会メイド" "!PC0548">
-「所持金が百万Ｂあろうとも、ギャンブルで一Ｂも
-　稼げなければ勝負になりません」
+<name "Company Maid" "!PC0548">
+"It doesn't matter if you start with a
+ million Ｂ.
+ If you don't earn a single Ｂ through 
+ gambling, you can't win."
 #
-<name "興味ある住民" "!KB0293">
-「なるほどね。
-　しかし、それでも所持金が多いヤツが有利だよな」
+<name "Interested Citizen" "!KB0293">
+"I get it.
+ Still though, doesn't starting with a ton of
+ money give you a big advantange?"
 #
-<name "商会メイド" "!PC0549">
-「その分、ギャンブルで失うリスクを負っています
-　から」
+<name "Company Maid" "!PC0549">
+"But you also risk losing it all in a bad
+ bet."
 #
-<name "興味ある住民" "!KB0294">
-「なるほどねぇ」
+<name "Interested Citizen" "!KB0294">
+"I see."
 #
-<name "商会メイド" "!PC0550">
-「参加は自由ですので、機会がありましたらどうぞ」
+<name "Company Maid" "!PC0550">
+"Participating is free, so please join if you
+ have a chance."
 #
-<name "興味ある住民" "!KB0295">
-「考えておくよ」
+<name "Interested Citizen" "!KB0295">
+"I'll think about it."
 #
-<name "商会メイド" "!PC0551">
-「よろしくお願いします」
+<name "Company Maid" "!PC0551">
+"Thank you very much."
 #
-　……
+...
 #
-<name "ダークス">
-「まあ、それなりに盛り上がったようだな」
+<name "Darx">
+"Well, it seems like people had a good time."
 #
-<name "商会メイド" "!PC0552">
-「最終日は、殺気立ってしまったのが問題ですね」
+<name "Company Maid" "!PC0552">
+"The problem was the last day got a little
+ too heated up."
 #
-<name "ダークス">
-「煽り過ぎだと思うぞ。
-　別に運営は儲けなくて良いんだから、その辺りを
-　反省してくれ」
+<name "Darx">
+"You fanned the flames too much.
+ You don't need to make a profit off of
+ running everything.
+ Think about that carefully."
 #
-<name "商会メイド" "!PC0553">
-「は、はい。
-　次回はもう少し、マイルドにします」
+<name "Company Maid" "!PC0553">
+"Y-Yes, sir.
+ Next time will be milder."
 #
 \x78\x78

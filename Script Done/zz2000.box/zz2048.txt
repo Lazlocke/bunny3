@@ -1,114 +1,121 @@
 ﻿<music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta21a003.agf" 4 4 11>
-<name "イシュ" "!AB0035">
-「魔王様、呼んだ？」
+<name "Ish" "!AB0035">
+"Overlord, you called?"
 #
-<name "ダークス">
-「ああ」
+<name "Darx">
+"Yeah."
 #
 <removesprite -1 11>
-　イシュはニコニコとやってくる。
+She comes in with a grin.
 #
-<name "ダークス">
-「ここの生活には慣れたか？」
+<name "Darx">
+"Are you getting used to living here?"
 #
-　住人になって数日。
+She's been a citizen for the last few days.
 #
-　本来の活発さを目立たせ始めていた。
+Her original energy is starting to come back.
 #
 <sprite "ta21a004.agf" 4 4 11>
-<name "イシュ" "!AB0036">
-「うん」
+<name "Ish" "!AB0036">
+"Yep."
 #
 <removesprite -1 11>
-　住民にする時の条件として、集会で謝罪をさせた。
+One of the conditions for her acceptance was
+that we had a gathering and she needed to
+apologize to everyone.
 #
-　その為、内心はともかく、表立ってイシュを責め
-　る者も居ない。
+This way, nobody holds a grudge against her,
+at least, not openly.
 #
-　まあ、俺が徹底して甚振っていた噂もあいまって、
-　どちらかと言えば同情的な意見も強い。
+Well, there have also been a lot of rumors
+about me being especially merciless to her, so
+if anything, people are pretty sympathetic to
+her.
 #
-<name "ダークス">
-「そうか」
+<name "Darx">
+"I see."
 #
 <sprite "ta21a011.agf" 4 4 11>
-<name "イシュ" "!AB0037">
-「あ、でも、ちょっと暴れ足りない」
+<name "Ish" "!AB0037">
+"Ah, but I wanna run wild a little more."
 #
-<name "ダークス">
-「わかった。
-　検討しよう」
+<name "Darx">
+"Okay.
+ I'll think about it."
 #
 <sprite "ta21a004.agf" 4 4 12>
-<name "イシュ" "!AB0038">
-「うん」
+<name "Ish" "!AB0038">
+"'Kay."
 #
-<name "ダークス">
-「ところで、お前の膣内に入ったままの分身体だが、
-　そろそろ抜いてやろう」
+<name "Darx">
+"By the way, the piece of me in your pussy,
+ I think it's time to take it out."
 #
 <sprite "ta21a014.agf" 4 4 12>
-<name "イシュ" "!AB0039">
-「え？」
+<name "Ish" "!AB0039">
+"Eh?"
 #
 <removesprite -1 11>
-　俺の分身体は、まだイシュの膣内に挿入されたま
-　まだ。
+That piece of my other body is still inside
+her.
 #
-　呼び出すのには便利だが、ここまで素直になった
-　のだから許してやろうという気にもなる。
+It's useful to call her, but she's being well
+behaved enough that I can let her off.
 #
-<name "ダークス">
-「こっちに来い。
-　触れないと、消す事が出来ないんだ」
+<name "Darx">
+"Come here.
+ I need to touch it to get rid of it."
 #
 <sprite "ta21a014.agf" 4 4 11>
-<name "イシュ" "!AB0040">
-「あ、あっ……そ、その……」
+<name "Ish" "!AB0040">
+"A-Ah... U-Um..."
 #
-<name "ダークス">
-「ん？」
+<name "Darx">
+"Hm?"
 #
 <sprite "ta21a015.agf" 4 4 12>
-<name "イシュ" "!AB0041">
-「べ、別に、こ、このままでも……私は……」
+<name "Ish" "!AB0041">
+"Y-You don't... y-you can't just leave... it
+ in me..."
 #
-<name "ダークス">
-「…………」
+<name "Darx">
+"........."
 #
 <removesprite -1 11>
-　俺はイシュの膣内の分身体を、思いっきり動かし
-　てやった。
+I move the piece of me inside her with all my
+strength.
 #
 <sprite "ta21a119.agf" 4 4 11>
-<name "イシュ" "!AB0042">
-「ふひぃっ！」
+<name "Ish" "!AB0042">
+"Aaah!"
 #
 <removesprite -1 11>
-　思わず腰の力が抜け、へたり込むイシュ。
+Her legs give out under and she falls to the
+floor.
 #
-　しかし、分身体の動きは止まらない。
+But my tentacle doesn't stop.
 #
 <sprite "ta21a119.agf" 4 4 11>
-<name "イシュ" "!AB0043">
-「ぁ、ぁ、うぁ、ぁっ、ひぁぁぁぁぁぁぁっ！」
+<name "Ish" "!AB0043">
+"Ah! Ah! Aaah! Aaaahhhhh!"
 #
 <removesprite -1 11>
-　イシュはへたり込みながら、一気に達して果てた。
+She climaxes immediately, and collapses.
 #
 <sprite "ta21a120.agf" 4 4 11>
-<name "イシュ" "!AB0044">
-「ぅぁ……ぁ……気持ち良かった」
+<name "Ish" "!AB0044">
+"Aah...ah...
+ That felt good..."
 #
-<name "ダークス">
-「本当に抜かなくて良いのか？」
+<name "Darx">
+"You really don't want me to take it out?"
 #
-<name "イシュ" "!AB0045">
-「う、うん」
+<name "Ish" "!AB0045">
+"Y-Yeah."
 #
 <removesprite -1 11>
-　希望通りにしてやる事にした。
+I guess I'll do what she wants.
 #
 \x78\x78

@@ -1,70 +1,75 @@
 ﻿<music 18>
 <background "ev022a02.agf" 10>
-<name "ミアルテ" "!SA0129">
-「ぁぁ……如何でしたか？」
+<name "Miartei" "!SA0129">
+"Aaah...
+ How was that?"
 #
-<name "ダークス">
-「覚えが早いな、なかなか良かったぞ。
-　さすがはミアルテだ」
+<name "Darx">
+"You learn fast.
+ It was pretty good.
+ Just like I'd expect of you."
 #
-<name "ミアルテ" "!SA0130">
-「そんな……私は魔王様の指示通りに……」
+<name "Miartei" "!SA0130">
+"Not at all...
+ I just did like you told me to."
 #
-　俺は行為を終え、休憩するミアルテの頭を撫でて
-　やる。
+I finish and stroke her hair while we rest.
 #
-<name "ミアルテ" "!SA0131">
-「ぁん」
+<name "Miartei" "!SA0131">
+"Aah!"
 #
-<name "ダークス">
-「ミアルテ、天界に戻りたいか？」
+<name "Darx">
+"Miartei, do you want to go back to Celestia?"
 #
-<name "ミアルテ" "!SA0132">
-「……いえ、ここに。
-　魔王様のお傍に」
+<name "Miartei" "!SA0132">
+"...No, I want to be here.
+ At your side."
 #
-<name "ダークス">
-「良いのか？」
+<name "Darx">
+"Are you sure?"
 #
-<name "ミアルテ" "!SA0133">
-「はい」
+<name "Miartei" "!SA0133">
+"Yes."
 #
-<name "ミアルテ" "!SA0134">
-「それに、正直……その、魔王様と……こういった
-　行為をしましたので、天界に居場所がありません」
+<name "Miartei" "!SA0134">
+"Besides, honestly... um, because of what 
+ you've done with me, there's no place for me
+ in Celestia."
 #
-<name "ダークス">
-「そうか」
+<name "Darx">
+"I see."
 #
-<name "ミアルテ" "!SA0135">
-「妹共々、よろしくお願いします」
+<name "Miartei" "!SA0135">
+"Please take responsibility for me and my
+ sister."
 #
-<name "ダークス">
-「ミアルテ」
+<name "Darx">
+"Miartei."
 #
-<name "ミアルテ" "!SA0136">
-「はい」
+<name "Miartei" "!SA0136">
+"Yes?"
 #
-<name "ダークス">
-「ミアルテはミアルテ、ルーアルテはルーアルテだ」
+<name "Darx">
+"You are you.
+ And she is someone else."
 #
-<name "ミアルテ" "!SA0137">
-「え、ええ」
+<name "Miartei" "!SA0137">
+"Y-Yes."
 #
-<name "ダークス">
-「覚えておけ」
+<name "Darx">
+"Remember that."
 #
-<name "ミアルテ" "!SA0138">
-「……はい」
+<name "Miartei" "!SA0138">
+"...Yes."
 #
-<name "ダークス">
-「じゃあ、続きだ。
-　動け」
+<name "Darx">
+"Then let's continue.
+ Move."
 #
 <background "ev022a04.agf" 10>
-<name "ミアルテ" "!SA0139">
-「はい♪」
+<name "Miartei" "!SA0139">
+"Yes.♪"
 #
-　俺はミアルテとの行為を楽しんだ。
+I enjoy myself with her.
 #
 \x78\x78

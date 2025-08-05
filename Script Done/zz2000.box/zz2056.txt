@@ -1,27 +1,26 @@
 ﻿<music 3>
 <background "bg010a0.agf" 10>
-<name "ダークス">
-「うーむ」
+<name "Darx">
+"Hmmm."
 #
-<name "ダークス">
-「ナインのあの姿は、やっぱり誘っているようにし
-　か見えない」
+<name "Darx">
+"Nein always looks like she's tempting me."
 #
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!PC0118">
-「それがナインさんを襲った理由ですか？」
+<name "Company Maid" "!PC0118">
+"Is that why you assaulted her?"
 #
-<name "商会メイド" "!PC0119">
-「激し過ぎて、気絶しちゃっているんですけど」
+<name "Company Maid" "!PC0119">
+"You were too rough and she passed out."
 #
-<name "ダークス">
-「誘っているようにしか……」
+<name "Darx">
+"It's like she was tempting me..."
 #
-<name "商会メイド" "!PC0120">
-「目を覚ましたら、ちゃんと謝るように」
+<name "Company Maid" "!PC0120">
+"When she wakes up, make sure you apologize."
 #
-<name "ダークス">
-「は、はーい」
+<name "Darx">
+"O-Okay."
 #
 <removesprite -1 11>
 \x2B\x78\x78

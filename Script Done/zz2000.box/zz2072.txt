@@ -1,25 +1,27 @@
 ﻿<music 11>
 <background "bg008a0.agf" 10>
 <sprite "ta04a010.agf" 4 4 11>
-<name "ルーアルテ" "!RA0157">
-「うーん……」
+<name "Rualtei" "!RA0157">
+"Hmm..."
 #
 <sprite "ta04a011.agf" 4 4 12>
-<name "ルーアルテ" "!RA0158">
-「武器……天雷棒、思ったより素直に返してくれた」
+<name "Rualtei" "!RA0158">
+"My weapon, the Fulmination Rod...
+ They gave it back easier than I thought they
+ would."
 #
 <sprite "ta04a012.agf" 4 4 12>
-<name "ルーアルテ" "!RA0159">
-「私が、もう逆らわないとか思ってるのかな」
+<name "Rualtei" "!RA0159">
+"Do they think I won't fight them anymore?"
 #
 <sprite "ta04a013.agf" 4 4 12>
-<name "ルーアルテ" "!RA0160">
-「むむむ……」
+<name "Rualtei" "!RA0160">
+"Hmmmmmmm..."
 #
 <sprite "ta04a012.agf" 4 4 12>
-<name "ルーアルテ" "!RA0161">
-「キュ、キュリハ様が怖いから、もう少しだけ大人
-　しくしておいてあげるわ」
+<name "Rualtei" "!RA0161">
+"K-Kyuriha is scary, so I'll behave for just
+ a little longer..."
 #
 <removesprite -1 11>
 \x2B\x78\x78

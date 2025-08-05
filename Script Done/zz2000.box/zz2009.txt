@@ -1,129 +1,139 @@
 ﻿<music 10>
 <background "bg014a1.agf" 10>
-<name "守備する魔族" "!RB5024">
-「この問題、なかなか難しいわね」
+<name "Defending Demon" "!RB5024">
+"This puzzle is really hard."
 #
-<name "警備する魔族" "!LB5020">
-「どんな問題？」
+<name "Guard Demon" "!LB5020">
+"What puzzle?"
 #
-<name "守備する魔族" "!RB5025">
-「これよ。
-　ここさえ解ければ、先に進めるんだけど……」
+<name "Defending Demon" "!RB5025">
+"This one.
+ If I could just solve it, I could move on..."
 #
-<name "警備する魔族" "!LB5021">
-「ふむふむ。
-　なかなかの難問。
-　って、仕事中に何をやってるのよ」
+<name "Guard Demon" "!LB5021">
+"Hmmmm.
+ That's pretty complicated.
+ Wait, why are you doing this while you're on
+ duty?"
 #
-<name "守備する魔族" "!RB5026">
-「暇潰し、こんな場所に侵入者なんて来ないわよ」
+<name "Defending Demon" "!RB5026">
+"I'm bored.
+ No intruders ever come somewhere like this."
 #
-<name "警備する魔族" "!LB5022">
-「……まあ、確かにね」
+<name "Guard Demon" "!LB5022">
+"...Well, that's true."
 #
-<name "守備する魔族" "!RB5027">
-「で、この問題だけど……わかる？」
+<name "Defending Demon" "!RB5027">
+"So, this puzzle...
+ Do you get it?"
 #
-<name "警備する魔族" "!LB5023">
-「解る訳ないでしょ。
-　なにせ、侵入者を追い返す為の謎なんだから」
+<name "Guard Demon" "!LB5023">
+"How should I know?
+ I mean, it's a puzzle to drive off 
+ intruders."
 #
-<name "警備する魔族" "!LB5024">
-「というか……
-　七つの問題のうち、二つ解除しちゃったのは問題
-　あるんじゃないかな」
+<name "Guard Demon" "!LB5024">
+"Or rather...
+ I think the problem here is that you've 
+ already unlocked two of the seven parts of
+ the puzzle."
 #
-<name "守備する魔族" "!RB5028">
-「あとでちゃんと元に戻しておくから」
+<name "Defending Demon" "!RB5028">
+"I'll reset them later."
 #
-<name "警備する魔族" "!LB5025">
-「もう……」
+<name "Guard Demon" "!LB5025">
+"Geez..."
 #
-<name "守備する魔族" "!RB5029">
-「しかし……難しい。
-　たぶん、ここの球がヒントだと思うんだけど」
+<name "Defending Demon" "!RB5029">
+"Still... this is tough.
+ Maybe the ball here is a hint."
 #
-<name "警備する魔族" "!LB5026">
-「答えが気になるなら、階層長に聞いたら？」
+<name "Guard Demon" "!LB5026">
+"If you're worried about the answer, why don't
+ you ask dungeon master?"
 #
-<name "守備する魔族" "!RB5030">
-「むう、それしかないか……」
+<name "Defending Demon" "!RB5030">
+"Hmm...
+ Is that the only way?"
 #
-<name "冒険者" "!KB5019">
-「待ちたまえ！」
+<name "Adventurer" "!KB5019">
+"Hold it right there!"
 #
-<name "守備する魔族" "!RB5031">
-「だ、誰？」
+<name "Defending Demon" "!RB5031">
+"W-Who's there?"
 #
-<name "冒険者" "!KB5020">
-「俺はパン屋のウィットニーをライバル視する男。
-　お団子屋のハイゼルマン！」
+<name "Adventurer" "!KB5020">
+"I am the rival of Whitney the Baker!
+ Heiselman the Dumpling Maker!"
 #
-<name "警備する魔族" "!LB5027">
-「……し、侵入者だ！」
+<name "Guard Demon" "!LB5027">
+"...I-Intruder!"
 #
-<name "守備する魔族" "!RB5032">
-「け、警報を、援軍を！」
+<name "Defending Demon" "!RB5032">
+"R-Ring the alarm!
+ Call reinforcements!"
 #
-<name "ハイゼルマン" "!KB5021">
-「待て！
-　待つんだ！
-　君達を攻撃する気は欠片もない！」
+<name "Heiselman" "!KB5021">
+"Wait!
+ Hold on!
+ I have no intention of attacking you!"
 #
-<name "守備する魔族" "!RB5033">
-「え？」
+<name "Defending Demon" "!RB5033">
+"Huh?"
 #
-<name "ハイゼルマン" "!KB5022">
-「あったら、問答無用で斬り掛っているだろ」
+<name "Heiselman" "!KB5022">
+"If I did, I would have cut you down without
+ calling out to you."
 #
-<name "守備する魔族" "!RB5034">
-「確かに……」
+<name "Defending Demon" "!RB5034">
+"That's true..."
 #
-<name "ハイゼルマン" "!KB5023">
-「俺の冒険者としてのスタイルは、戦闘を極力避け、
-　ひっそりと迷宮のお宝を頂く単独盗賊スタイル！」
+<name "Heiselman" "!KB5023">
+"My adventurer style is to avoid combat as
+ much as possible and to sneakily steal the
+ treasures of a dungeon, all on my own!"
 #
-<name "ハイゼルマン" "!KB5025">
-「その俺が君達の前に姿を見せた！
-　理由はわかるな！」
+<name "Heiselman" "!KB5025">
+"I appeared before you!
+ Do you know why!?"
 #
-<name "警備する魔族" "!LB5028">
-「え、えっと……」
+<name "Guard Demon" "!LB5028">
+"U-Um..."
 #
-<name "守備する魔族" "!RB5035">
-「ひょっとして、この問題を解きたいと？」
+<name "Defending Demon" "!RB5035">
+"You mean, to solve this puzzle?"
 #
-<name "ハイゼルマン" "!KB5026">
-「イエス！」
+<name "Heiselman" "!KB5026">
+"Yes!"
 #
-<name "ハイゼルマン" "!KB5027">
-「パン屋のウィットニーをライバル視する俺に取っ
-　て、解けない問題は挑戦状に等しい！
-　是非、挑戦させて欲しい！」
+<name "Heiselman" "!KB5027">
+"Whitney the Baker is my rival.
+ An unsolvable puzzle is a challenge to me!
+ I must face this challenge!"
 #
-<name "守備する魔族" "!RB5036">
-「じゃ、じゃあ解いてみる？
-　私達じゃ無理そうだから」
+<name "Defending Demon" "!RB5036">
+"T-Then, do you want to try to solve it?
+ It seems impossible for us."
 #
-<name "ハイゼルマン" "!KB5028">
-「任せな！」
+<name "Heiselman" "!KB5028">
+"Let me at it!"
 #
-<name "警備する魔族" "!LB5029">
-「い、いいのかなぁ」
+<name "Guard Demon" "!LB5029">
+"I-Is this okay?"
 #
-　……
+...
 #
 <music 11>
 <background "bg008a0.agf" 10>
 <sprite "ta01a010.agf" 4 4 11>
-<name "ソフィア" "!ZB5025">
-「いいわけありませんよね」
+<name "Sofia" "!ZB5025">
+"It was absolutely not okay."
 #
 <removesprite -1 11>
-<name "警備する魔族" "!LB5030">
-「ですよね」
+<name "Guard Demon" "!LB5030">
+"I thought so."
 #
-<name "守備する魔族" "!RB5037">
-「でも、クリアできてスッキリ！」
+<name "Defending Demon" "!RB5037">
+"But I feel so refreshed with it solved!"
 #
 \x78\x78

@@ -1,77 +1,77 @@
 ﻿<music 3>
 <background "bg010a0.agf" 10>
-<name "ダークス">
-「そう言えば、お前らって女しか居ないのか？」
+<name "Darx">
+"That reminds me, are you all women?"
 #
-　ラフィノー達の種族は、女しか見ていない気がす
-　る。
+I've only ever seen women of Raffino's 
+species.
 #
 <sprite "ta20a001.agf" 4 4 11>
-<name "ラフィノー" "!EB0043">
-「私共の種族では、男が生まれる確率がとても低い
-　のです」
+<name "Raffino" "!EB0043">
+"For us, it's very rare for a man to be born."
 #
-<name "ダークス">
-「ほう。
-　じゃあ、今は居ないのか？」
+<name "Darx">
+"Oh?
+ So there are none here?"
 #
 <sprite "ta20a000.agf" 4 4 12>
-<name "ラフィノー" "!EB0044">
-「いえ、二人。
-　まだ小さな子供ですが……」
+<name "Raffino" "!EB0044">
+"No, there's two.
+ But they're still young children."
 #
-<name "ダークス">
-「お前らの種族の生命線か」
+<name "Darx">
+"The lifeline of your kind?"
 #
 <sprite "ta20a001.agf" 4 4 12>
-<name "ラフィノー" "!EB0045">
-「はい」
+<name "Raffino" "!EB0045">
+"Yes."
 #
-<name "ダークス">
-「大事に育ててやれ」
+<name "Darx">
+"Take good care of them."
 #
 <sprite "ta20a011.agf" 4 4 12>
-<name "ラフィノー" "!EB0046">
-「え？」
+<name "Raffino" "!EB0046">
+"Huh?"
 #
-<name "ダークス">
-「ん？
-　変な事を言ったか？」
+<name "Darx">
+"Hm?
+ Did I say something wrong?"
 #
 <sprite "ta20a004.agf" 4 4 12>
-<name "ラフィノー" "!EB0047">
-「い、いえ。
-　大事に育てます」
+<name "Raffino" "!EB0047">
+"N-No.
+ We will."
 #
-<name "ダークス">
-「ああ、そうしてやれ」
+<name "Darx">
+"Yeah, do that."
 #
-<name "ダークス">
-「それと、そんな事情なら子作りを手伝ってやろう。
-　適当な女を数人、俺の部屋に寄越せ」
+<name "Darx">
+"And if that's the case, I'll help you have
+ children.
+ Send any willing women to my room."
 #
 <sprite "ta20a020.agf" 4 4 12>
-<name "ラフィノー" "!EB0048">
-「お断りします」
+<name "Raffino" "!EB0048">
+"No thank you."
 #
-<name "ダークス">
-「……慣れて来たな」
+<name "Darx">
+"...You're getting used to things, huh?"
 #
 <sprite "ta20a004.agf" 4 4 12>
-<name "ラフィノー" "!EB0049">
-「はい」
+<name "Raffino" "!EB0049">
+"Yes."
 #
-<name "ダークス">
-「では、お前で良い。
-　俺の部屋に来い」
+<name "Darx">
+"Then just you is fine.
+ Come to my room."
 #
 <sprite "ta20a005.agf" 4 4 12>
-<name "ラフィノー" "!EB0050">
-「承知しました。
-　優しくしてくださいね」
+<name "Raffino" "!EB0050">
+"Understood.
+ Please be gentle."
 #
-<name "ダークス">
-「おう」
+<name "Darx">
+"Yeah."
 #
 <removesprite -1 11>
 \x2B\x78\x78

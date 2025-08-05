@@ -1,15 +1,15 @@
 ﻿<music 11>
 <background "bg013a0.agf" 10>
-<name "噂を聞いた住民" "!KB0283">
-「また、ファッションショーをやるんだってよ」
+<name "Knowing Citizen" "!KB0283">
+"I hear they're having another fashion show."
 #
-<name "商店経営者" "!CB0189">
-「お。
-　じゃあ、こっちも便乗して何かするか」
+<name "Shop Keeper" "!CB0189">
+"Oh. Then maybe we should do something to cash
+ in on it too."
 #
-<name "噂を聞いた住民" "!KB0284">
-「だな」
+<name "Knowing Citizen" "!KB0284">
+"Yeah."
 #
-　ファッションショーにより、街が活性化した。
+The fashion show energized the city.
 #
 \x78\x78

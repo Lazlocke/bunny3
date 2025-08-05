@@ -1,57 +1,60 @@
 ﻿<music 11>
 <background "bg008a0.agf" 10>
 <sprite "ta34a004.agf" 4 4 11>
-<name "商会メイド" "!DC0493">
-「今日はボランティアに集まって頂き、ありがとう
-　ございます」
+<name "Company Maid" "!DC0493">
+"Thank you all for volunteering today."
 #
 <sprite "ta34a000.agf" 4 4 12>
-<name "商会メイド" "!DC0494">
-「本日の活動は街の清掃。
-　ゴミ拾いです」
+<name "Company Maid" "!DC0494">
+"Today's activity is cleaning up the city.
+ Picking up all the garbage."
 #
-<name "商会メイド" "!DC0495">
-「集めたゴミは、指定の場所に運んでください。
-　よろしくお願いします」
+<name "Company Maid" "!DC0495">
+"Please bring all the garbage you collect to
+ the designated area.
+ Thank you very much."
 #
-<name "参加する住民" "!ZD0168">
-「うーっす」
+<name "Participating Citizen" "!ZD0168">
+"Got it."
 #
 <sprite "ta34a004.agf" 4 4 12>
-<name "商会メイド" "!DC0496">
-「なお、魔王様から、活動終了後の飲み会代を頂い
-　ております」
+<name "Company Maid" "!DC0496">
+"Also, please remember that we have received
+ a party budget for afterward from the 
+ Overlord."
 #
-<name "商会メイド" "!DC0497">
-「魔王様に感謝の言葉を」
+<name "Company Maid" "!DC0497">
+"Let us all be grateful to him."
 #
-<name "それが目的な住民" "!UA0185">
-「魔王様、ありがとうございます」
+<name "Goal-Driven Citizen" "!UA0185">
+"Thank you, Overlord."
 #
 <sprite "ta34a001.agf" 4 4 12>
-<name "商会メイド" "!DC0498">
-「飲み会の会場は魔王亭です。
-　では、活動開始！」
+<name "Company Maid" "!DC0498">
+"The party will be at the Overlord's Retreat.
+ Okay, let's get to work!"
 #
-<name "真面目な住民" "!ZE0250">
-「おおっ！」
+<name "Serious Citizen" "!ZE0250">
+"Yeah!"
 #
 <removesprite -1 11>
-　……
+...
 #
-<name "ダークス">
-「飲み会代、強奪された感じだったのだが……」
+<name "Darx">
+"Party budget?
+ I feel like I was robbed..."
 #
 <sprite "ta01a004.agf" 4 4 11>
-<name "ソフィア" "!ZB0992">
-「まあまあ」
+<name "Sofia" "!ZB0992">
+"Now, now."
 #
-<name "ダークス">
-「ボランティアに報酬を出しちゃ駄目な気も……」
+<name "Darx">
+"I'm not sure we should be rewarding
+ volunteers either..."
 #
 <sprite "ta01a033.agf" 4 4 12>
-<name "ソフィア" "!ZB0993">
-「まあまあ」
+<name "Sofia" "!ZB0993">
+"Now, now."
 #
 <removesprite -1 11>
 \x2B\x78\x78

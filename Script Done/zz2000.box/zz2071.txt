@@ -1,84 +1,89 @@
 ﻿<music 3>
 <background "bg010a0.agf" 10>
-<name "ダークス">
-「……ルーアルテって、意外と胸がある」
+<name "Darx">
+"...Rulatei, you have more of a chest than I
+ expected."
 #
 <sprite "ta04a001.agf" 4 4 11>
-<name "ルーアルテ" "!RA0151">
-「だ、だったらなに？」
+<name "Rualtei" "!RA0151">
+"W-What about it?"
 #
-<name "ダークス">
-「揉んでやろう」
+<name "Darx">
+"Let me rub them."
 #
 <sprite "ta04a009.agf" 4 4 12>
-<name "ルーアルテ" "!RA0152">
-「触らせるかっ！」
+<name "Rualtei" "!RA0152">
+"Don't touch me!"
 #
-<name "ダークス">
-「じゃあ、尻で良いよ」
+<name "Darx">
+"Then your butt is fine."
 #
 <sprite "ta04a008.agf" 4 4 12>
-<name "ルーアルテ" "!RA0153">
-「だから、揉むなっ！」
+<name "Rualtei" "!RA0153">
+"I said no touching!"
 #
 <removesprite -1 11>
 <sprite "ta05a003.agf" 4 4 11>
-<name "キュリハ" "!FA0168">
-「賑やかですね」
+<name "Kyuriha" "!FA0168">
+"Aren't we lively."
 #
-<name "ダークス">
-「ああ、キュリハさん」
+<name "Darx">
+"Ah, Kyuriha."
 #
 <sprite "ta05a017.agf" 4 4 12>
-<name "キュリハ" "!FA0169">
-「ルーアルテも、ずいぶんと馴染んだようで」
+<name "Kyuriha" "!FA0169">
+"Rualtei, you also seems to seem to be getting
+ along well."
 #
 <removesprite -1 11>
 <sprite "ta04a012.agf" 4 4 11>
-<name "ルーアルテ" "!RA0154">
-「べ、別に馴染んでなんか……」
+<name "Rualtei" "!RA0154">
+"I-I am not getting along..."
 #
 <removesprite -1 11>
 <sprite "ta05a019.agf" 4 4 11>
-<name "キュリハ" "!FA0170">
-「ふふ。
-　そうでしたか、それは失礼しました」
+<name "Kyuriha" "!FA0170">
+"Haha.
+ I see.
+ Pardon me then."
 #
 <sprite "ta05a003.agf" 4 4 12>
-<name "キュリハ" "!FA0171">
-「ところでダークス様」
+<name "Kyuriha" "!FA0171">
+"By the way, Darx..."
 #
-<name "ダークス">
-「ん？」
+<name "Darx">
+"Hm?"
 #
 <sprite "ta05a017.agf" 4 4 12>
-<name "キュリハ" "!FA0172">
-「ルーアルテより私の方が胸は大きいと思いますが、
-　お揉みになられます？」
+<name "Kyuriha" "!FA0172">
+"I believe my breasts are larger than hers.
+ Would you like to rub them?"
 #
-<name "ダークス">
-「ははは。
-　揉ませてくれるの？」
+<name "Darx">
+"Hahaha.
+ Are you going to let me?"
 #
 <removesprite -1 11>
 <sprite "ta04a009.agf" 4 4 11>
-<name "ルーアルテ" "!RA0155">
-「させるか！」
+<name "Rualtei" "!RA0155">
+"Like hell!"
 #
-<name "ダークス">
-「なんだ、嫉妬か？」
+<name "Darx">
+"Oh, are you jealous?"
 #
 <sprite "ta04a022.agf" 4 4 12>
-<name "ルーアルテ" "!RA0156">
-「ち、違う！
-　ふぁ、ぁっ、や、やめ、あぁあぁぁ」
+<name "Rualtei" "!RA0156">
+"N-No!
+ Ahh! Ah! S-Stop it!
+ Aaahhhh!"
 #
 <removesprite -1 11>
 <sprite "ta05a017.agf" 4 4 11>
-<name "キュリハ" "!FA0173">
-「ふふ。
-　やはり、ずいぶんと馴染んだようですね。
-　良い事です」
+<name "Kyuriha" "!FA0173">
+"Haha.
+ It does seem like you two are getting along
+ quite well after all.
+ That's nice."
 #
 <removesprite -1 11>
 \x2B\x78\x78

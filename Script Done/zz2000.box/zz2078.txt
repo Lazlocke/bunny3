@@ -1,29 +1,31 @@
 ﻿<music 11>
 <background "bg008a0.agf" 10>
 <sprite "ta03a004.agf" 4 4 11>
-<name "ミアルテ" "!SA0147">
-「住んでみれば、天界とあまり変わりませんね」
+<name "Miartei" "!SA0147">
+"Living here isn't that much different from
+ Celestia."
 #
 <sprite "ta03a005.agf" 4 4 12>
-<name "ミアルテ" "!SA0148">
-「まあ……魔族が多いのは仕方がありませんが」
+<name "Miartei" "!SA0148">
+"Well... there's nothing to be done about
+ there being so many demons."
 #
 <sprite "ta03a012.agf" 4 4 12>
-<name "ミアルテ" "!SA0149">
-「……はぁ」
+<name "Miartei" "!SA0149">
+"..."
 #
 <sprite "ta03a013.agf" 4 4 12>
-<name "ミアルテ" "!SA0150">
-「昔の私は、どうして魔族をあそこまで嫌っていた
-　のでしょうか」
+<name "Miartei" "!SA0150">
+"Why did I used to hate demons so much
+ anyway?"
 #
 <sprite "ta03a014.agf" 4 4 12>
-<name "ミアルテ" "!SA0151">
-「……」
+<name "Miartei" "!SA0151">
+"..."
 #
 <sprite "ta03a004.agf" 4 4 12>
-<name "ミアルテ" "!SA0152">
-「もう少し、自分を見つめ直さなければ」
+<name "Miartei" "!SA0152">
+"I need to reflect on myself more."
 #
 <removesprite -1 11>
 \x2B\x78\x78

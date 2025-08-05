@@ -1,19 +1,21 @@
 ﻿<music 3>
 <background "bg010a0.agf" 10>
-<name "ダークス">
-「俺の前はともかく、街中でパンツ丸出しなのはど
-　うなんだろうな」
+<name "Darx">
+"Forgetting about in front of me for a second,
+ what about having your panties exposed when
+ going around the city?"
 #
 <sprite "ta22a003.agf" 4 4 11>
-<name "ナイン" "!QA0082">
-「外出時は二枚履きしていますよ」
+<name "Nein" "!QA0082">
+"I wear two layers when I go out."
 #
-<name "ダークス">
-「一枚、没収」
+<name "Darx">
+"Conficating one of them."
 #
 <sprite "ta22a116.agf" 4 4 12>
-<name "ナイン" "!QA0083">
-「きゃぁぁぁっ、に、二枚とも取ってますぅ」
+<name "Nein" "!QA0083">
+"Eeeek!
+ Y-You took both!"
 #
 <removesprite -1 11>
 \x2B\x78\x78

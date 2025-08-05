@@ -1,35 +1,35 @@
 ﻿<music 4>
 <background "ev001a00.agf" 10>
-<name "食事する住民" "!JA0170">
-「第一回、料理コンテスト？」
+<name "Eating Citizen" "!JA0170">
+"The first cooking tournament?"
 #
-<name "お茶を飲む住民" "!ZH0135">
-「なんだ、これ？」
+<name "Drinking Citizen" "!ZH0135">
+"What's that?"
 #
-<name "甘味を楽しむ住民" "!SB0262">
-「料理勝負でしょ」
+<name "Sweet Tooth Citizen" "!SB0262">
+"A cooking competition, obviously."
 #
-<name "食事する住民" "!JA0171">
-「なるほど。
-　じゃあ、特製のシチューで会場をうならせてやる
-　ぜ！」
+<name "Eating Citizen" "!JA0171">
+"I see.
+ Then I'll wow them with my special stew!"
 #
-<name "お茶を飲む住民" "!ZH0136">
-「いやいや、俺様のクラムチャウダーが優勝さ！」
+<name "Drinking Citizen" "!ZH0136">
+"No way. My clam chowder will be the winner!"
 #
-<name "甘味を楽しむ住民" "!SB0263">
-「あははははは。
-　私の作る鳥の丸焼きに勝てると思っているの？」
+<name "Sweet Tooth Citizen" "!SB0263">
+"Hahahahaha!
+ You think you can defeat my roasted chicken?"
 #
-<name "食事する住民" "!JA0172">
-「楽しみだなぁ」
+<name "Eating Citizen" "!JA0172">
+"This will be fun."
 #
-　……
+...
 #
-<name "企画したメイド" "!DC0510">
-「しょ、食材のテーマを決めて、料理をして貰うつ
-　もりだったんだけど……」
+<name "Planning Maid" "!DC0510">
+"B-But I was going to ask them to cook with
+ a certain theme ingredient..."
 #
-　得意料理を持ち寄り、勝負する事になった。
+Everyone brought their best recipe and
+competed over that.
 #
 \x78\x78

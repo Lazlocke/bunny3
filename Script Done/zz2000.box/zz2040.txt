@@ -1,37 +1,38 @@
 ﻿<music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta01a033.agf" 4 4 11>
-<name "ソフィア" "!ZB5015">
-「さあ、イベントですよー！」
+<name "Sofia" "!ZB5015">
+"Okay, it's event time!"
 #
-<name "ダークス">
-「おう！
-　と言いたいが、内容を詳しく聞いていないぞ？」
+<name "Darx">
+"Yeah!
+ ...Is what I'd say, but you haven't told me
+ what you're doing."
 #
 <sprite "ta01a027.agf" 4 4 12>
-<name "ソフィア" "!ZB5016">
-「細かい事を気にしてはいけません！」
+<name "Sofia" "!ZB5016">
+"Don't worry about the little details!"
 #
-<name "ダークス">
-「待て」
+<name "Darx">
+"Hold on."
 #
-<name "ソフィア" "!ZB5017">
-「気にしてはいけません！」
+<name "Sofia" "!ZB5017">
+"Don't worry about it!"
 #
-<name "ダークス">
-「何も決まって無いな！」
+<name "Darx">
+"I haven't okayed anything!"
 #
-<name "ソフィア" "!ZB5018">
-「気にしては……」
+<name "Sofia" "!ZB5018">
+"Don't worry..."
 #
-<name "ダークス">
-「ラキアさんにチクろう」
+<name "Darx">
+"I'll tell Rakia on you."
 #
 <sprite "ta01a037.agf" 4 4 12>
-<name "ソフィア" "!ZB5019">
-「すみません。
-　それだけは勘弁してください。
-　急ぎ、まとめていますので」
+<name "Sofia" "!ZB5019">
+"I'm sorry.
+ Please forgive me.
+ I'll quickly summarize for you."
 #
 <removesprite -1 11>
 \x2B\x78\x78

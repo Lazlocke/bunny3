@@ -1,120 +1,126 @@
 ﻿<music 4>
 <background "bg009a0.agf" 10>
-<name "フィリアネ" "!GA0001" "ka25a000.agf">
-「こんにちは」
+<name "Filliane" "!GA0001" "ka25a000.agf">
+"Hello."
 #
-<name "ベテラン親衛隊員" "!TC0115" "ka35b000.agf">
-「あ、フィリアネ副隊長」
+<name "Veteran Guard" "!TC0115" "ka35b000.agf">
+"Ah, Subcommander Filliane."
 #
-<name "フィリアネ" "!GA0002" "ka25a000.agf">
-「もう私は部隊から離れているから、副隊長じゃな
-　いわよ」
+<name "Filliane" "!GA0002" "ka25a000.agf">
+"I'm not in the guard anymore.
+ I'm not your subcommander."
 #
-<name "ベテラン親衛隊員" "!TC0116" "ka35b000.agf">
-「そうでした。
-　育児部門長」
+<name "Veteran Guard" "!TC0116" "ka35b000.agf">
+"I guess.
+ Head of childcare then."
 #
-<name "フィリアネ" "!GA0003" "ka25a000.agf">
-「それもねー、あはは……」
+<name "Filliane" "!GA0003" "ka25a000.agf">
+"There is that...
+ Hahaha..."
 #
-<name "フィリアネ" "!GA0004" "ka25a000.agf">
-「私に子育ての才能があるとは、予想もしなかった
-　わよ」
+<name "Filliane" "!GA0004" "ka25a000.agf">
+"I never expected that I'd have a talent for
+ taking care of kids."
 #
-<name "ベテラン親衛隊員" "!TC0117" "ka35b000.agf">
-「でも、評判なんでしょ？」
+<name "Veteran Guard" "!TC0117" "ka35b000.agf">
+"But you're famous for it now."
 #
-<name "フィリアネ" "!GA0005" "ka25a000.agf">
-「まあね。
-　えっとマリーは？」
+<name "Filliane" "!GA0005" "ka25a000.agf">
+"I guess.
+ Um, where's Mari?"
 #
-<name "ベテラン親衛隊員" "!TC0118" "ka35b000.agf">
-「隊長なら、もうすぐ戻られます。
-　お待ちください」
+<name "Veteran Guard" "!TC0118" "ka35b000.agf">
+"The captain should be back soon.
+ Please be patient."
 #
-<name "フィリアネ" "!GA0006" "ka25a000.agf">
-「ええ」
+<name "Filliane" "!GA0006" "ka25a000.agf">
+"Okay."
 #
-<name "ダークス">
-「その間、俺が相手をしてやろうか？」
+<name "Darx">
+"I could keep you company in the meantime."
 #
-<name "フィリアネ" "!GA0007" "ka25a000.agf">
-「魔王様っ。
-　お久しぶりです」
+<name "Filliane" "!GA0007" "ka25a000.agf">
+"Overlord!
+ It's been a while."
 #
-<name "ダークス">
-「ああ。
-　……大丈夫か？
-　やつれてないか？」
+<name "Darx">
+"Yeah.
+ ...Are you okay?
+ You look like you're not eating enough."
 #
-<name "フィリアネ" "!GA0008" "ka25a000.agf">
-「お気遣い、ありがとうございます。
-　どちらかと言えば太った方で……」
+<name "Filliane" "!GA0008" "ka25a000.agf">
+"Thank you for your concern.
+ If anything, I'm putting on weight..."
 #
-<name "ダークス">
-「育児は力仕事らしいからな」
+<name "Darx">
+"I have heard that kids are a lot of hard
+ labor."
 #
-<name "フィリアネ" "!GA0009" "ka25a000.agf">
-「はい。
-　ですが、戦場に居るよりは楽しいです」
+<name "Filliane" "!GA0009" "ka25a000.agf">
+"Yes, but it's much more fun than being on the
+ battlefield."
 #
-<name "ダークス">
-「そうか。
-　……育児、任せっぱなしで悪いな」
+<name "Darx">
+"I see.
+ ...Sorry for leaving you to take care of all
+ the kids."
 #
-<name "フィリアネ" "!GA0010" "ka25a000.agf">
-「いえ。
-　自分の子も居ますし」
+<name "Filliane" "!GA0010" "ka25a000.agf">
+"It's fine.
+ I have a daughter of my own too."
 #
-<name "ダークス">
-「フィーナは元気にしているか？
-　母親を取られたって嫉妬しないか？」
+<name "Darx">
+"How is Fina doing?
+ She's not jealous of her mother getting taken
+ away?"
 #
-<name "フィリアネ" "!GA0011" "ka25a000.agf">
-「元気ですよ。
-　嫉妬は……してないと言うと寂しいですが、マリ
-　アと仲良くやっていますから」
+<name "Filliane" "!GA0011" "ka25a000.agf">
+"She's well.
+ Not exactly jealous... more like lonely.
+ She is getting along with Maria though."
 #
-<name "ダークス">
-「ああ、フィーナとマリアは仲が良いからな」
+<name "Darx">
+"Yeah, Fina and Maria are close, aren't they?"
 #
-<name "フィリアネ" "!GA0012" "ka25a000.agf">
-「それはもう、私とマリーのような仲の良さです」
-#
-<sprite "ta15a003.agf" 4 4 11>
-<name "マリーアリス" "!LA0084">
-「でも、魔王様を独り占めにしていると、その仲に
-　ヒビが入るわよね」
-#
-<name "フィリアネ" "!GA0013" "ka25a000.agf">
-「うわっ。
-　びっくりした」
-#
-<removesprite -1 11>
-<name "ダークス">
-「お帰り」
+<name "Filliane" "!GA0012" "ka25a000.agf">
+"They're already good friends, just like Mari
+ and me."
 #
 <sprite "ta15a003.agf" 4 4 11>
-<name "マリーアリス" "!LA0085">
-「はっ。
-　ただいま、帰還しました。
-　報告を行いたいのですが……」
+<name "Marialis" "!LA0084">
+"But if you keep him all to yourself, there
+ might be cracks in that relationship."
+#
+<name "Filliane" "!GA0013" "ka25a000.agf">
+"Aah!
+ You scared me."
 #
 <removesprite -1 11>
-<name "ダークス">
-「手早く終わらせて解放するよ」
+<name "Darx">
+"Welcome back."
 #
-<name "フィリアネ" "!GA0014" "ka25a000.agf">
-「別にベッドの中で三人とかでもＯＫですよ」
+<sprite "ta15a003.agf" 4 4 11>
+<name "Marialis" "!LA0085">
+"Sir.
+ Reporting back from duty.
+ I'm ready to report..."
 #
-<name "ダークス">
-「ははは。
-　今日は無理だ」
+<removesprite -1 11>
+<name "Darx">
+"Make it quick and I'll let you go."
 #
-<name "フィリアネ" "!GA0015" "ka25a000.agf">
-「残念です」
+<name "Filliane" "!GA0014" "ka25a000.agf">
+"It'd be okay for it to be just the three of
+ us in bed."
 #
-<name "ダークス">
-「まったくだ」
+<name "Darx">
+"Hahaha.
+ Unfortunately not an option today."
+#
+<name "Filliane" "!GA0015" "ka25a000.agf">
+"Too bad."
+#
+<name "Darx">
+"Seriously."
 #
 \x78\x78

@@ -1,62 +1,64 @@
 ﻿<music 5>
 <background "bg011a0.agf" 10>
-<name "ヤーヌ" "!NB0031" "ka24a114.agf">
-「ん、んぁ、ふぁ……」
+<name "Yahnu" "!NB0031" "ka24a114.agf">
+"Mm...mm...aah..."
 #
-<name "ダークス">
-「ヤーヌ」
+<name "Darx">
+"Yahnu."
 #
-<name "ヤーヌ" "!NB0032" "ka24a114.agf">
-「なんですか？」
+<name "Yahnu" "!NB0032" "ka24a114.agf">
+"What is it?"
 #
-<name "ダークス">
-「飲んでいいか？」
+<name "Darx">
+"Can I have a drink?"
 #
-<name "ヤーヌ" "!NB0033" "ka24a115.agf">
-「は、はい、どうぞ」
+<name "Yahnu" "!NB0033" "ka24a115.agf">
+"Y-Yes, go ahead."
 #
-　ヤーヌが差し出した胸に、しゃぶりつく。
+I suck on her offered nipple.
 #
-<name "ヤーヌ" "!NB0034" "ka24a114.agf">
-「ん……」
+<name "Yahnu" "!NB0034" "ka24a114.agf">
+"Mm..."
 #
-<name "ダークス">
-「媚薬の材料だけあって、俺の股間が暴発しそうに
-　なるな」
+<name "Darx">
+"Just from the aphrodisiac in this, my dick
+ already feels like it's going to burst."
 #
-<name "ヤーヌ" "!NB0035" "ka24a103.agf">
-「どうぞ、私の身体は魔王様専用。
-　好きに使ってください」
+<name "Yahnu" "!NB0035" "ka24a103.agf">
+"Go ahead. My body belongs to nobody but you.
+ You may use it however you desire."
 #
-<name "ダークス">
-「わかった」
+<name "Darx">
+"Got it."
 #
-　俺はヤーヌとの行為を楽しんだ。
+I enjoy myself with her.
 #
 <music 4>
 <background "bg009a0.agf" 10>
 <sprite "ta34b001.agf" 4 4 11>
-<name "商会メイド" "!PC0139">
-「昼食を運びに行って、どうして次の日の朝に帰っ
-　て来るのでしょうか？」
+<name "Company Maid" "!PC0139">
+"Why did you leave for lunch, and then not
+ come back until the next morning?"
 #
-<name "ヤーヌ" "!NB0036" "ka24a014.agf">
-「す、すみません。
-　魔王様が母乳を求められまして……」
+<name "Yahnu" "!NB0036" "ka24a014.agf">
+"I-I'm sorry.
+ The Overlord asked for breast milk..."
 #
-<name "ダークス">
-「あ、こら、俺だけの所為にするな。
-　お前も胸をアピールしただろ。
-　揉めって目で合図しただろ」
+<name "Darx">
+"Ah, hey, don't put all the blame on me.
+ You showed off your breasts yourself.
+ You gave me a look saying you wanted me to
+ squeeze them."
 #
-<name "商会メイド" "!PC0140">
-「魔王様。
-　言い訳はよくありませんよ」
+<name "Company Maid" "!PC0140">
+"Overlord.
+ It's bad to make excuses."
 #
-<name "ダークス">
-「えー」
+<name "Darx">
+"Eeeh?"
 #
 <removesprite -1 11>
-　日頃の行いの大切さを、少し感じた。
+I got scolded about the importance of daily
+chores.
 #
 \x78\x78

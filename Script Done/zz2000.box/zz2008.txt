@@ -1,60 +1,65 @@
 ﻿<music 18>
 <background "ev058b00.agf" 10>
-<name "フィリアネ" "!GA0045">
-「ぁぁ、ふぁ、あ、んぁ……」
+<name "Filliane" "!GA0045">
+"Aaah...aah...ah...mmm..."
 #
-<name "ダークス">
-「何度でもやってやるからな」
+<name "Darx">
+"I'll do it as many times as you want."
 #
-<name "フィリアネ" "!GA0046">
-「ふぁ、は、はい」
+<name "Filliane" "!GA0046">
+"Aah... 
+ Y-Yes..."
 #
-<name "親衛隊員" "!WB0124">
-「んん……」
+<name "Guard" "!WB0124">
+"Mmm..."
 #
-<name "ダークス">
-「……ちょっとタイム」
+<name "Darx">
+"...Hold on.
+ Time out."
 #
-　俺は目を覚ました者の所に行って、全力で相手を
-　する。
+I go to the girl who woke up and give her all
+I've got.
 #
-<name "親衛隊員" "!WB0125">
-「ひっ、ひぁ、ひぁ、うぁ、あぁぁぁぁっ！」
+<name "Guard" "!WB0125">
+"Ah! Aah! Ah! Aah! Aaaah!"
 #
-　気絶するまで相手をしてから、戻って来た。
+After she passes out, I come back to them.
 #
-　再開。
+And resume.
 #
-<name "フィリアネ" "!GA0047">
-「ぁ、あの、今のは？」
+<name "Filliane" "!GA0047">
+"U-Um, what was that?"
 #
-<name "ダークス">
-「起きたヤツから、突っ込む」
+<name "Darx">
+"I have to stick it in the ones who wake up."
 #
-<name "フィリアネ" "!GA0048">
-「あ、あはは……
-　では、起こさないように声を抑えてお相手を」
+<name "Filliane" "!GA0048">
+"H-Hahaha...
+ Then I'll keep my voice down to not disturb
+ them."
 #
-<name "ダークス">
-「抑えられるかな」
+<name "Darx">
+"You think you can?"
 #
-<name "フィリアネ" "!GA0049">
-「ん……んひっ、あっ、ふあっ！」
+<name "Filliane" "!GA0049">
+"Mm...mmm!
+ Ah! Aaah!"
 #
-<name "マリーアリス" "!LA0109">
-「ぁ、魔王様。
-　私も居ますよ」
+<name "Marialis" "!LA0109">
+"Ah, My Lord.
+ Me too."
 #
-<name "ダークス">
-「わかっている」
+<name "Darx">
+"All right."
 #
-　俺はフィリアネとマリーアリス、そして目を覚ま
-　した者達を相手に行為を楽しみ続けた。
+I continue to enjoy myself with them, and with
+the ones who wake up.
 #
 <background "ev058b01.agf" 10>
-<name "ソフィア" "!ZB0683">
-「まる三日は……流石に……」
+<name "Sofia" "!ZB0683">
+"Three whole days...
+ Unbelievable."
 #
-　少し、怒られた。
+There was some anger over it.
 #
 \x78\x78

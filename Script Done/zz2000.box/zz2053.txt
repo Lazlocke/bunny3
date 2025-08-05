@@ -1,58 +1,61 @@
 ﻿<music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta22a000.agf" 4 4 11>
-<name "ナイン" "!QA0074">
-「お、お呼びですか？」
+<name "Nein" "!QA0074">
+"Y-You called for me?"
 #
-<name "ダークス">
-「高度、そのまま下げろ」
+<name "Darx">
+"Lower the altitude."
 #
 <sprite "ta22a001.agf" 4 4 12>
-<name "ナイン" "!QA0075">
-「は、はい」
+<name "Nein" "!QA0075">
+"O-Okay."
 #
 <removesprite -1 11>
 <sprite "ta22b001.agf" 4 4 11>
-　目の前にパンツ。
+Her panties are right in front of my eyes.
 #
-　……
+...
 #
-<name "ナイン" "!QA0076" "ka22b000.agf">
-「ひゃぅっ、ちょ、ふはっ、や、やめ……ぁぁん」
+<name "Nein" "!QA0076" "ka22b000.agf">
+"Aaah! H-He... Aah!
+ S-Stop it...aah!"
 #
 <removesprite -1 11>
-　そのまま、一回頑張った。
+I gave her my all.
 #
 <sprite "ta22a108.agf" 4 4 11>
-<name "ナイン" "!QA0077">
-「い、いきなり襲わないで下さいよ」
+<name "Nein" "!QA0077">
+"D-Don't attack me out of nowhere!"
 #
-<name "ダークス">
-「いや、目の前にパンツがあるから」
-#
-<sprite "ta22a110.agf" 4 4 12>
-<name "ナイン" "!QA0078">
-「だったら、ズボンを履かせてくださいよ」
-#
-<name "ダークス">
-「それは駄目だ」
-#
-<sprite "ta22a109.agf" 4 4 12>
-<name "ナイン" "!QA0079">
-「うう……」
-#
-<name "ダークス">
-「恥ずかしいのか？」
+<name "Darx">
+"I mean, there were panties right in front of
+ me."
 #
 <sprite "ta22a110.agf" 4 4 12>
-<name "ナイン" "!QA0080">
-「普段からこうですから、それほど……」
+<name "Nein" "!QA0078">
+"Then I'll wear pants."
+#
+<name "Darx">
+"That's unacceptable."
 #
 <sprite "ta22a109.agf" 4 4 12>
-<name "ナイン" "!QA0081">
-「でも、じっと見られてると……」
+<name "Nein" "!QA0079">
+"Ooh..."
+#
+<name "Darx">
+"Are you embarrassed?"
+#
+<sprite "ta22a110.agf" 4 4 12>
+<name "Nein" "!QA0080">
+"This is how I've always been, so not
+ really..."
+#
+<sprite "ta22a109.agf" 4 4 12>
+<name "Nein" "!QA0081">
+"But when you're looking at me..."
 #
 <removesprite -1 11>
-　……もう一回、頑張った。
+...I gave her my all again.
 #
 \x78\x78

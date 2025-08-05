@@ -1,33 +1,35 @@
 ﻿<music 13>
 <background "ev004a00.agf" 10>
-<name "司会メイド" "!PC0558">
-「第三回、ギャンブル大会！」
+<name "Host Maid" "!PC0558">
+"Welcome to the third gambling tournament!"
 #
-<name "参加する住民" "!ZD0170">
-「かなり規模が小さくなったな」
+<name "Participating Citizen" "!ZD0170">
+"They've really lowered the scale."
 #
-<name "説明を聞く住民" "!UA0188">
-「掛け率もマイルドになったし……」
+<name "Listening Citizen" "!UA0188">
+"The amounts have been reduced too..."
 #
-<name "少し不満な住民" "!HC0194">
-「子供のお遊びレベルってヤツよね」
+<name "Unhappy Citizen" "!HC0194">
+"It's like at a kid's game's level."
 #
-<name "司会メイド" "!PC0559">
-「うう、各方面からの苦情で仕方なく」
+<name "Host Maid" "!PC0559">
+"Awww...
+ I had to do it because of the complaints 
+ from everywhere."
 #
-<name "参加する住民" "!ZD0171">
-「でも、楽しむから安心してくれ！」
+<name "Participating Citizen" "!ZD0171">
+"But don't worry, it'll still be fun!"
 #
-<name "説明を聞く住民" "!UA0189">
-「そうだー！」
+<name "Listening Citizen" "!UA0189">
+"That's right!"
 #
-<name "司会メイド" "!PC0560">
-「ありがとー！」
+<name "Host Maid" "!PC0560">
+"Thank you!"
 #
-　ギャンブル大会は、熱狂的なファンの獲得に成功
-　したようだ。
+The gambling tournament has attracted a
+dedicated cadre of fans.
 #
-<name "司会メイド" "!PC0561">
-「でも、ギャンブルはほどほどにね」
+<name "Host Maid" "!PC0561">
+"But only gamble responsibly, all right?"
 #
 \x78\x78

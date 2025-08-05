@@ -1,55 +1,58 @@
 ﻿<music 11>
 <background "bg008a0.agf" 10>
-<name "真面目な元天界兵" "!RB0002">
-「ルーアルテ様ですか？」
+<name "Serious Angel" "!RB0002">
+"Is that you, Rualtei?"
 #
 <sprite "ta04a010.agf" 4 4 11>
-<name "ルーアルテ" "!RA0166">
-「ええ、そうよ」
+<name "Rualtei" "!RA0166">
+"Yes, that's right."
 #
-<name "真面目な元天界兵" "!RB0003">
-「お噂はかねがね。
-　どうですか、ご一緒にお食事でも」
+<name "Serious Angel" "!RB0003">
+"I'd heard the rumors.
+ Would you like to eat with us?"
 #
 <sprite "ta04a011.agf" 4 4 12>
-<name "ルーアルテ" "!RA0167">
-「いいけど……貴女達は？」
+<name "Rualtei" "!RA0167">
+"That's fine, but... who are you?"
 #
-<name "真面目な元天界兵" "!RB0004">
-「魔王様に挑んだ挙句、ボロボロになるまで抱かれ
-　て、天界に戻れなくなった者達です」
+<name "Serious Angel" "!RB0004">
+"We fought the Overlord and were violated 
+ until we were in tatters, and can no longer
+ go back to Celestia."
 #
 <sprite "ta04a013.agf" 4 4 12>
-<name "ルーアルテ" "!RA0168">
-「……負け犬の会？」
+<name "Rualtei" "!RA0168">
+"...A group of losers?"
 #
-<name "真面目な元天界兵" "!RB0005">
-「いえ、男性の良さに気付い……違った。
-　魔王様の素晴らしさに気付いた者達です」
+<name "Serious Angel" "!RB0005">
+"No, we realized the goodness of men.
+ No that's not it.
+ We realized the greatness of the Overlord."
 #
-<name "期待する元天界兵" "!LB0013">
-「捕まった時、どんなプレイをされたかを語って下
-　さい」
+<name "Excited Angel" "!LB0013">
+"Tell us what he did with you when you were
+ captured."
 #
-<name "想像する元天界兵" "!GB0009">
-「いいなぁ。
-　最近の魔王様、ちょー怖いから、きっと容赦無し
-　よ」
+<name "Imagining Angel" "!GB0009">
+"I'm jealous.
+ Lately, he's been pretty scary, so I bet he
+ showed you no mercy."
 #
 <sprite "ta04a017.agf" 4 4 12>
-<name "ルーアルテ" "!RA0169">
-「えっと……お食事の話はまた今度で」
+<name "Rualtei" "!RA0169">
+"Um... I'll eat with you some other time."
 #
-<name "真面目な元天界兵" "!RB0006">
-「えー」
+<name "Serious Angel" "!RB0006">
+"Eeeh?"
 #
 <removesprite -1 11>
-　……
+...
 #
 <sprite "ta04a027.agf" 4 4 11>
-<name "ルーアルテ" "!RA0170">
-「違う。
-　私はあんな連中とは違う……はず！」
+<name "Rualtei" "!RA0170">
+"No.
+ I'm not like them...
+ I can't be!"
 #
 <removesprite -1 11>
 \x2B\x78\x78

@@ -1,54 +1,55 @@
 ﻿<music 4>
 <background "bg009a0.agf" 10>
-<name "食事中の住民" "!SB0258">
-「美術展の開催のお知らせ……」
+<name "Eating Citizen" "!SB0258">
+"Notification of an art exhibition..."
 #
-<name "お茶を飲む住民" "!ZE0251">
-「参加自由。
-　モデル自由、画材自由……なんでもアリって事か」
+<name "Drinking Citizen" "!ZE0251">
+"Participation is free.
+ Models are free, art supplies are free...
+ So you can just do anything?"
 #
-<name "興味のある住民" "!MB0165">
-「何か賞でもあるのか？」
+<name "Interested Citizen" "!MB0165">
+"Are there some kind of prizes?"
 #
-<name "お茶を飲む住民" "!ZE0252">
-「優秀賞を獲得すると、副賞として魔王亭で使える
-　金券を貰えるよう……おお、結構な額だな」
+<name "Drinking Citizen" "!ZE0252">
+"If you win a top prize, you get a gift
+ certificate for the Overlord's Retreat...
+ Ooh, that's a lot of money."
 #
-<name "食事中の住民" "!SB0259">
-「優秀賞って一人？」
+<name "Eating Citizen" "!SB0259">
+"Is there just one of prize?"
 #
-<name "お茶を飲む住民" "!ZE0253">
-「いや、何人も出る感じだな」
+<name "Drinking Citizen" "!ZE0253">
+"No, it looks like there'll be several."
 #
-<name "興味のある住民" "!MB0166">
-「俺、本気出してみるぜ」
+<name "Interested Citizen" "!MB0166">
+"I'll have to get serious then."
 #
-<name "食事中の住民" "!SB0260">
-「私も」
+<name "Eating Citizen" "!SB0260">
+"Me too."
 #
-<name "お茶を飲む住民" "!ZE0254">
-「じゃあ、俺も参加してみようかな」
+<name "Drinking Citizen" "!ZE0254">
+"Then I guess I'll do it too."
 #
 <music 3>
 <background "bg010a0.agf" 10>
-<name "ダークス">
-「盛り上がりそうだが……
-　大丈夫か？
-　結構な額を副賞にしているが」
+<name "Darx">
+"It seems fun, but are you sure about this?
+ Those prizes are a lot of money."
 #
 <sprite "ta01a027.agf" 4 4 11>
-<name "ソフィア" "!ZB0994">
-「ふふふ。
-　美術なるものの価値は、審査員の独断と偏見で決
-　まるのです」
+<name "Sofia" "!ZB0994">
+"Heheheh...
+ The value of art is at the whim and caprice
+ of the judge."
 #
-<name "ダークス">
-「し、絞るのは構わないが、審査はちゃんとやって
-　やれよ」
+<name "Darx">
+"I-I don't care how you narrow it down, but
+ do it right."
 #
 <sprite "ta01a034.agf" 4 4 12>
-<name "ソフィア" "!ZB0995">
-「はーい」
+<name "Sofia" "!ZB0995">
+"Yes, siiir."
 #
 <removesprite -1 11>
 \x2B\x78\x78

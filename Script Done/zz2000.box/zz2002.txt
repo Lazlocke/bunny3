@@ -1,75 +1,77 @@
 ﻿<music 10>
 <background "ev056a00.agf" 10>
-<name "ミレーヌ" "!TC0078">
-「ブレンダとフレンダって、名前が似てて紛らわし
-　いわよね」
+<name "Mylene" "!TC0078">
+"Brenda and Frenda... 
+ Your names are confusing because they're so
+ similar."
 #
-<name "ブレンダ" "!QB0087">
-「いまさら何を……」
+<name "Brenda" "!QB0087">
+"You're saying that now?"
 #
-<name "フレンダ" "!WB0078">
-「私達、知り合ってから結構な日数が経っていると
-　思いますけど？」
+<name "Frenda" "!WB0078">
+"Hasn't it been a pretty long time since we
+ met each other?"
 #
-<name "ミレーヌ" "!TC0079">
-「そうだけど……やっぱり思っちゃうのよね。
-　まるで姉妹みたいじゃない」
+<name "Mylene" "!TC0079">
+"Yeah, but... I still think about it.
+ It's not like you're sisters."
 #
-<name "ブレンダ" "!QB0088">
-「それなりの数が居るんだから、似たような名前の
-　人なんていくらでも居るわよ」
+<name "Brenda" "!QB0088">
+"There's a lot of people out there, so some
+ people just have similar names."
 #
-<name "フレンダ" "!WB0079">
-「そうです」
+<name "Frenda" "!WB0079">
+"That's right."
 #
-<name "ミレーヌ" "!TC0080">
-「似たような名前で、同じ境遇で、同じ部隊で分隊
-　長」
+<name "Mylene" "!TC0080">
+"But similar names, similar circumstances,
+ both squad leaders in the same unit."
 #
-<name "ミレーヌ" "!TC0081">
-「やっぱり紛らわしくない？」
+<name "Mylene" "!TC0081">
+"Isn't that confusing?"
 #
-<name "ブレンダ" "!QB0089">
-「紛らわしくないわよ。
-　これまで間違った事、ないでしょ？」
+<name "Brenda" "!QB0089">
+"It's not confusing.
+ Nobody's gotten it wrong yet, have they?"
 #
-<name "ミレーヌ" "!TC0082">
-「そうだけど、うーん……」
+<name "Mylene" "!TC0082">
+"I guess, but, um..."
 #
-<name "フレンダ" "!WB0080">
-「じゃあ、貴女の名前をこっちに寄せて体感してみ
-　るのはどうですか？」
+<name "Frenda" "!WB0080">
+"Then why don't we don't try making your name
+ like it too?"
 #
-<name "ミレーヌ" "!TC0083">
-「え？」
+<name "Mylene" "!TC0083">
+"Huh?"
 #
-<name "フレンダ" "!WB0081">
-「ブレンダ、フレンダだから……グレンダなんてど
-　うでしょう？」
+<name "Frenda" "!WB0081">
+"Brenda, Frenda, and... 
+ How about Glenda?"
 #
-<name "ブレンダ" "!QB0090">
-「ブレンダ、フレンダ、グレンダ」
+<name "Brenda" "!QB0090">
+"Brenda, Frenda, Glenda."
 #
-<name "ブレンダ" "!QB0091">
-「流石に部下達が困りそうな気がしてきた」
+<name "Brenda" "!QB0091">
+"I think our subordinates might have an issue
+ with that."
 #
-<name "ミレーヌ" "!TC0084">
-「やっぱり紛らわしいのよ」
+<name "Mylene" "!TC0084">
+"See? It is confusing."
 #
-<name "フレンダ" "!WB0082">
-「三人だからですよ。
-　二人なら平気です」
+<name "Frenda" "!WB0082">
+"It's because there's three.
+ Two is fine."
 #
-<name "マリーアリス" "!LA0068">
-「はいはい。
-　仕事中に無駄話をしない。
-　ブレンダ、フレンダ、グレンダ。
-　問題は？」
+<name "Marialis" "!LA0068">
+"Yes, yes.
+ No chitchat while on the job.
+ Brenda, Frenda, Glenda.
+ Are there any issues?"
 #
-<name "ブレンダ" "!QB0092">
-「あ、ありません」
+<name "Brenda" "!QB0092">
+"N-None."
 #
-<name "ミレーヌ" "!TC0085">
-「ありませんが、ミレーヌに戻してください」
+<name "Mylene" "!TC0085">
+"N-None, but please back to Mylene."
 #
 \x78\x78

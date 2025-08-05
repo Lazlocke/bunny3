@@ -1,54 +1,56 @@
 ﻿<music 18>
 <background "ev022a00.agf" 10>
-<name "ミアルテ" "!SA0121">
-「あん、あ、ふぁ、ま、魔王様ぁ」
+<name "Miartei" "!SA0121">
+"Aah! Ah! Ahh! O-Overlord!"
 #
-<name "ダークス">
-「いいぞ、その調子で動け」
+<name "Darx">
+"That's good.
+ Keep moving like that."
 #
-<name "ミアルテ" "!SA0122">
-「は、はい。
-　んぁ、ふぁ、あっ、んんっ」
+<name "Miartei" "!SA0122">
+"O-Okay.
+ Aah! Ahh! Ah! Mmm!"
 #
-　ミアルテの巧みな腰使いに、俺のモノはあっと言
-　う間に射精に導かれた。
+Miartei's skillful movement with her hips
+quickly make me come.
 #
 <background "ev022a01.agf" 10>
-<name "ミアルテ" "!SA0123">
-「ぁ、あっ、ふぁ……魔王様が……ああ」
+<name "Miartei" "!SA0123">
+"Ah...ah...aah...
+ Overlord... Aah..."
 #
-　俺のモノ先から放たれた精液が、ミアルテの子宮
-　を満たしていく。
+The semen from my dick fills her womb.
 #
-<name "ミアルテ" "!SA0124">
-「んぁ……」
+<name "Miartei" "!SA0124">
+"Mmm..."
 #
-<name "ダークス">
-「どんどん、上手くなるな」
+<name "Darx">
+"You've gotten much better."
 #
 <background "ev022a02.agf" 10>
-<name "ミアルテ" "!SA0125">
-「はい」
+<name "Miartei" "!SA0125">
+"Yes."
 #
-<name "ダークス">
-「覚えも良いし、たいしたものだ」
+<name "Darx">
+"You learn quickly too.
+ I'm impressed."
 #
-<name "ミアルテ" "!SA0126">
-「そんな……」
+<name "Miartei" "!SA0126">
+"It's nothing..."
 #
-<name "ダークス">
-「住人から色々と噂を聞いているぞ。
-　仲良くやっているらしいな」
+<name "Darx">
+"I've heard from the people living here.
+ It sounds like you're getting along."
 #
-<name "ミアルテ" "!SA0127">
-「はい」
+<name "Miartei" "!SA0127">
+"Yes."
 #
-<name "ダークス">
-「褒美だ」
+<name "Darx">
+"That deserves a reward."
 #
-<name "ミアルテ" "!SA0128">
-「あっ」
+<name "Miartei" "!SA0128">
+"Ah!"
 #
-　俺は明け方まで、ミアルテとの行為を楽しんだ。
+I enjoy myself with her until dawn.
 #
 \x78\x78

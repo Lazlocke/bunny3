@@ -1,51 +1,54 @@
 ﻿<music 11>
 <background "bg008a0.agf" 10>
-<name "実況メイド" "!PC0437" "ka34d000.agf">
-「第一回。
-　棒で球を打つ競技、ドラゴンスレイヤーの大会を
-　始めます」
+<name "Announcer Maid" "!PC0437" "ka34d000.agf">
+"It's the first ever tournament for Dragon
+ Slayer, the sport of hitting a ball with
+ sticks."
 #
-<name "実況メイド" "!PC0438" "ka34d000.agf">
-「第一試合、ダイヤモンドパンチ対ザ・魔王帝」
+<name "Announcer Maid" "!PC0438" "ka34d000.agf">
+"The first match is Diamond Punch versus
+ The Overlords."
 #
-<name "実況メイド" "!PC0439" "ka34d000.agf">
-「ダイヤモンドパンチは、一番から四番までの棒使
-　いが達人級。
-　彼らから生み出される得点に期待しましょう」
+<name "Announcer Maid" "!PC0439" "ka34d000.agf">
+"Diamond Punch's top four batters are master
+ class. We can expect high scoring from them."
 #
-<name "解説メイド" "!DC0318" "ka34e000.agf">
-「一方、ザ・魔王帝は、魔王様を中心としたチーム。
-　メンバーの大半が反則級。
-　唯一の穴が魔王様と言われるチームです」
+<name "Commenting Maid" "!DC0318" "ka34e000.agf">
+"On the other side, The Overlords are a team
+ based around the Overlord.
+ Most of its members are dirty players.
+ The only wild card is the Overlord himself."
 #
-<name "解説メイド" "!DC0319" "ka34e000.agf">
-「その魔王様ですが、魔球を開発したとの情報を入
-　手しています」
+<name "Commenting Maid" "!DC0319" "ka34e000.agf">
+"I hear that he's developed a new trick
+ pitch."
 #
-<name "解説メイド" "!DC0320" "ka34e000.agf">
-「その魔球が、ダイヤモンドパンチをどこまで抑え
-　るか。
-　楽しみな対決です」
+<name "Commenting Maid" "!DC0320" "ka34e000.agf">
+"Will that trick pitch be able to hold back
+ Diamond Punch?
+ Look forward to the big game."
 #
 <background "bg015a0.agf" 10>
-　……
+...
 #
 <background "bg008a0.agf" 10>
-<name "実況メイド" "!PC0440" "ka34d000.agf">
-「魔王様、持ちませんでしたね。
-　まさかの二回裏での降板」
+<name "Announcer Maid" "!PC0440" "ka34d000.agf">
+"The Overlord couldn't do it.
+ I didn't expect him to be pulled in the
+ second inning."
 #
-<name "実況メイド" "!PC0441" "ka34d000.agf">
-「その後、トージョ様が圧倒的な投球でダイヤモン
-　ドパンチを抑えましたが……魔王様の失点が大き
-　過ぎましたね」
+<name "Announcer Maid" "!PC0441" "ka34d000.agf">
+"After that, Tojo held off Diamond Punch with
+ an impressive pitching performance, but the
+ deficit the Overlord left was too much to
+ overcome."
 #
-<name "解説メイド" "!DC0321" "ka34e000.agf">
-「ええ。
-　結果、十八対十二で、ダイヤモンドパンチの勝利。
-　両チーム、お疲れ様でした」
+<name "Commenting Maid" "!DC0321" "ka34e000.agf">
+"Yes. The final results were 18-12 for
+ Diamond Punch.
+ Well played, both teams."
 #
-<name "実況メイド" "!PC0442" "ka34d000.agf">
-「では、次の試合に移りましょう」
+<name "Announcer Maid" "!PC0442" "ka34d000.agf">
+"Now, on to the next game."
 #
 \x78\x78

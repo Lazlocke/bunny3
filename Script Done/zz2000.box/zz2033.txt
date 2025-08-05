@@ -1,79 +1,83 @@
 ﻿<music 4>
 <background "bg009a0.agf" 10>
 <sprite "ta34c000.agf" 4 4 11>
-<name "血気盛んなメイド" "!AC0293">
-「虫にも色々居ますが、作物や住居に被害を及ぼす
-　のは害虫です」
+<name "Spirited Maid" "!AC0293">
+"There are many kinds of bugs, but the pests
+ cause damage to homes and crops."
 #
-<name "血気盛んなメイド" "!AC0294">
-「その害虫が増えて来たとの話がありますので、住
-　民総出で駆除を行います」
+<name "Spirited Maid" "!AC0294">
+"We've had reports that pests are increasing,
+ so all citizens must work together to
+ exterminate them."
 #
 <sprite "ta34c004.agf" 4 4 12>
-<name "血気盛んなメイド" "!AC0295">
-「それがここに集まって貰った理由です！」
+<name "Spirited Maid" "!AC0295">
+"That's why you're all gathered here!"
 #
-<name "参加する住民" "!RB0173">
-「おー！」
+<name "Participating Citizen" "!RB0173">
+"Yeah!"
 #
 <sprite "ta34c000.agf" 4 4 12>
-<name "血気盛んなメイド" "!AC0296">
-「武器は持ったなー！」
+<name "Spirited Maid" "!AC0296">
+"You have your weapons!"
 #
-<name "参加する住民" "!RB0174">
-「おー！」
+<name "Participating Citizen" "!RB0174">
+"Yeah!"
 #
-<name "血気盛んなメイド" "!AC0297">
-「潜伏しそうな場所は、ここに書き出してある！
-　一匹残らず殲滅する気で取り掛かってください！」
+<name "Spirited Maid" "!AC0297">
+"The most likely hiding spots are written
+ here!
+ Now get to exterminating every single last
+ one of them!"
 #
 <removesprite -1 11>
 <sprite "ta34b006.agf" 4 4 11>
-<name "穏健派なメイド" "!DC0507">
-「あのー。
-　流石に一匹残らずってのは、ちょっと可哀想な感
-　じが」
+<name "Restrained Maid" "!DC0507">
+"Um, it feels a little sad to be trying to
+ kill every last one."
 #
 <removesprite -1 11>
 <sprite "ta34b006.agf" 2 4 11>
 <sprite "ta34c002.agf" 6 5 11>
-<name "血気盛んなメイド" "!AC0298">
-「残った一匹が、貴女の額に取り付く様子を想像し
-　てください」
+<name "Spirited Maid" "!AC0298">
+"Imagine the very last one falling on your
+ forehead."
 #
 <sprite "ta34b005.agf" 2 4 12>
-<name "穏健派なメイド" "!DC0508">
-「殺すっ！」
+<name "Restrained Maid" "!DC0508">
+"I'll kill it!"
 #
 <sprite "ta34c000.agf" 6 5 12>
-<name "血気盛んなメイド" "!AC0299">
-「よろしい！
-　では、作業開始！」
+<name "Spirited Maid" "!AC0299">
+"Good!
+ Let's get to work!"
 #
 <removesprite -1 11>
-　黒い害虫を駆除する為、住民は頑張った。
+The citizens work hard to exterminate the
+pests.
 #
-　その姿は鬼気迫る物があり、間違っても害虫に同
-　情などしようものなら、俺でも駆除されてしまい
-　そうな勢いがあった。
+The sight of them at work is bone-chilling,
+and if I make the mistake of feeling sorry
+for the pests, I feel like I might be
+exterminated too.
 #
-　恐ろしい。
+Terrifying.
 #
 <sprite "ta34c001.agf" 4 4 11>
-<name "血気盛んなメイド" "!AC0300">
-「魔王様。
-　サボっています？」
+<name "Spirited Maid" "!AC0300">
+"Overlord, are you slacking off?"
 #
-<name "ダークス">
-「い、いや……」
+<name "Darx">
+"N-No..."
 #
 <sprite "ta34c004.agf" 4 4 12>
-<name "血気盛んなメイド" "!AC0301">
-「では、急ぎ目標探索、及びその殲滅。
-　頑張ってください」
+<name "Spirited Maid" "!AC0301">
+"Then hurry up. 
+ Find your target, and then destroy.
+ Work hard."
 #
-<name "ダークス">
-「りょ、了解」
+<name "Darx">
+"R-Roger that."
 #
 <removesprite -1 11>
 \x2B\x78\x78

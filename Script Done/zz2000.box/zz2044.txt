@@ -1,40 +1,41 @@
 ﻿<music 3>
 <background "bg010a0.agf" 10>
-<name "ダークス">
-「そう言えば、お前の所も男が少なかったな」
+<name "Darx">
+"That reminds me, didn't your group have almost
+ no men?"
 #
-<name "ヤーヌ" "!NB0027" "ka24a000.agf">
-「男は全滅しました。
-　他のアンゴラメイ種族の勢力から、借りないとい
-　けません」
+<name "Yahnu" "!NB0027" "ka24a000.agf">
+"The men were wiped out.
+ We have to borrow from other angolamay."
 #
-<name "ダークス">
-「……なるほど。
-　まあ、心配するな」
+<name "Darx">
+"...I see.
+ Well, don't sweat it."
 #
-<name "ダークス">
-「住民はどんどんと増やす」
+<name "Darx">
+"We'll keep bring in more citizens."
 #
-<name "ダークス">
-「そのうち、アンゴラメイの男も住民になるだろう」
+<name "Darx">
+"Sooner or later, there should be some
+ angolamay men too."
 #
-<name "ヤーヌ" "!NB0028" "ka24a001.agf">
-「よろしくお願いします」
+<name "Yahnu" "!NB0028" "ka24a001.agf">
+"Please and thank you."
 #
-<name "ダークス">
-「だが、お前は俺専用だ。
-　他の男には渡さんぞ」
+<name "Darx">
+"But you're just for me.
+ No other man gets to have you."
 #
-<name "ヤーヌ" "!NB0029" "ka24a002.agf">
-「……では、私が魔王様専用であると、この身体に
-　教え込んで下さい」
+<name "Yahnu" "!NB0029" "ka24a002.agf">
+"...Then please brand my body to show that I
+ am only yours."
 #
-　ヤーヌの視線は、俺の股間に向かっている。
+Her eyes are on my dick.
 #
-<name "ダークス">
-「任せておけ」
+<name "Darx">
+"Leave it to me."
 #
-<name "ヤーヌ" "!NB0030" "ka24a003.agf">
-「はい」
+<name "Yahnu" "!NB0030" "ka24a003.agf">
+"Yes."
 #
 \x78\x78

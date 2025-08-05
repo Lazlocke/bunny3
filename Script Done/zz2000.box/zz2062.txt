@@ -1,48 +1,52 @@
 ﻿<music 3>
 <background "bg010a0.agf" 10>
-<name "ヒビ" "!DB0037" "ka23a001.agf">
-「魔王様」
+<name "Hibi" "!DB0037" "ka23a001.agf">
+"Overlord."
 #
-<name "ダークス">
-「ん？」
+<name "Darx">
+"Hm?"
 #
-<name "ヒビ" "!DB0038" "ka23a000.agf">
-「イシュに聞いたけど、その……あの……」
+<name "Hibi" "!DB0038" "ka23a000.agf">
+"I heard from Ish, um, well..."
 #
-<name "ダークス">
-「イシュって事は、分身体の件か？」
+<name "Darx">
+"From Ish?
+ You mean my other body?"
 #
-<name "ヒビ" "!DB0039" "ka23a001.agf">
-「うん」
+<name "Hibi" "!DB0039" "ka23a001.agf">
+"Yeah."
 #
-<name "ダークス">
-「まさか、挿入して欲しいのか？」
+<name "Darx">
+"Wait, do you want it inside you?"
 #
-<name "ヒビ" "!DB0040" "ka23a003.agf">
-「うん」
+<name "Hibi" "!DB0040" "ka23a003.agf">
+"Yeah."
 #
-<name "ダークス">
-「まあ、良いけど……じゃあ、ちょっと来い」
+<name "Darx">
+"Well, that's fine, I guess...
+ Okay, come here a second."
 #
-<name "ヒビ" "!DB0041" "ka23a004.agf">
-「ん……あ、そっちじゃなく……こっちに」
+<name "Hibi" "!DB0041" "ka23a004.agf">
+"Mm...
+ Ah, not there...
+ Here."
 #
-<name "ダークス">
-「本当に良いのか？」
+<name "Darx">
+"Are you sure about that?"
 #
-<name "ヒビ" "!DB0042" "ka23a003.agf">
-「うん」
+<name "Hibi" "!DB0042" "ka23a003.agf">
+"Yeah."
 #
-　強く希望するので、ヒビの後ろの穴に分身体を挿
-　入してやった。
+Since it's what she's insisting on, I put a
+tiny piece of my other body in her ass.
 #
-　しばらくして、戻ってきた。
+Soon afterwards, she comes back.
 #
-<name "ヒビ" "!DB0043" "ka23a104.agf">
-「うぁ……ぁ……」
+<name "Hibi" "!DB0043" "ka23a104.agf">
+"Aah...ah..."
 #
-　トイレに困ったらしい。
+Apparently there were bathroom issues.
 #
-　まあ、そうだよな。
+Well, I suppose so.
 #
 \x78\x78

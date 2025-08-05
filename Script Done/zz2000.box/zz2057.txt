@@ -1,33 +1,35 @@
 ﻿<music 3>
 <background "bg010a0.agf" 10>
-<name "ダークス">
-「すまん。
-　聞いてはいけない質問かもしれないんだがな」
+<name "Darx">
+"Sorry.
+ Maybe this question is over the line."
 #
 <sprite "ta22a003.agf" 4 4 11>
-<name "ナイン" "!QA0090">
-「なに？」
+<name "Nein" "!QA0090">
+"What?"
 #
-<name "ダークス">
-「お前、トイレはどうやってするんだ？」
+<name "Darx">
+"How do you go to the bathroom?"
 #
 <sprite "ta22a004.agf" 4 4 12>
-<name "ナイン" "!QA0091">
-「こう……ひっくり返って普通に」
+<name "Nein" "!QA0091">
+"Like this...
+ I turn around and do it normally."
 #
-<name "ダークス">
-「…………」
+<name "Darx">
+"..."
 #
 <sprite "ta22a016.agf" 4 4 12>
-<name "ナイン" "!QA0092">
-「だ、駄目だった？」
+<name "Nein" "!QA0092">
+"I-Is that bad?"
 #
-<name "ダークス">
-「飛ばすのかなぁとか、色々と想像したのに！」
+<name "Darx">
+"I was imagining it would like, fly or
+ something!"
 #
 <sprite "ta22a108.agf" 4 4 12>
-<name "ナイン" "!QA0093">
-「そ、想像しないでくださいっ！」
+<name "Nein" "!QA0093">
+"D-Don't imagine that!"
 #
 <removesprite -1 11>
 \x2B\x78\x78

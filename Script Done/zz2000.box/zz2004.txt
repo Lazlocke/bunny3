@@ -1,173 +1,182 @@
 ﻿<music 4>
 <background "bg009a0.agf" 10>
-<name "ブレンダ" "!QB0100">
-「ブレンダです！」
+<name "Brenda" "!QB0100">
+"Brenda!"
 #
-<name "フレンダ" "!WB0091">
-「フレンダです」
+<name "Frenda" "!WB0091">
+"Frenda."
 #
-<name "ミレーヌ" "!TC0086">
-「グ、グレンダです」
+<name "Mylene" "!TC0086">
+"G-Glenda."
 #
-<name "ブレンダ" "!QB0101">
-「三レンダの漫才コーナー！」
+<name "Brenda" "!QB0101">
+"It's the standup comedy corner trio!"
 #
-<name "ブレンダ" "!QB0102">
-「いやー、急にこんな場所で漫才しろ言われても、
-　困りますねー」
+<name "Brenda" "!QB0102">
+"Well, doing standup out of nowhere somewhere
+ like this?
+ It's kinda hard."
 #
-<name "ミレーヌ" "!TC0087">
-「ですねー」
+<name "Mylene" "!TC0087">
+"I know, right?"
 #
-<name "フレンダ" "!WB0092">
-「私は困りません。
-　常にあらゆる事態を想定して準備しています。
-　貴女方とは違うのです」
+<name "Frenda" "!WB0092">
+"I have no problem with it.
+ I'm always ready for anything.
+ I'm not like you."
 #
-<name "ミレーヌ" "!TC0088">
-「え？
-　漫才させられる事態も想定していたの？」
+<name "Mylene" "!TC0088">
+"Huh?
+ You're ready even for doing standup?"
 #
-<name "フレンダ" "!WB0093">
-「当然です」
+<name "Frenda" "!WB0093">
+"Of course."
 #
-<name "ミレーヌ" "!TC0089">
-「す、すごい」
+<name "Mylene" "!TC0089">
+"W-Wow."
 #
-<name "フレンダ" "!WB0094">
-「しかし、漫才は一人ではできません。
-　私の準備は万全ですが、貴女方が……」
+<name "Frenda" "!WB0094">
+"But you can't do standup alone.
+ I'm ready, but you guys..."
 #
-<name "ブレンダ" "!QB0103">
-「ちょっと待って。
-　貴女が準備したものってなに？」
+<name "Brenda" "!QB0103">
+"Hold on a minute.
+ How exactly are you ready?"
 #
-<name "フレンダ" "!WB0095">
-「大きな紙を折りたたんだ物、伸びる紐、洗濯物を
-　干す時に使う道具」
+<name "Frenda" "!WB0095">
+"I have a big folded paper, stretchy slacks,
+ and tools for hanging up laundry."
 #
-<name "ブレンダ" "!QB0104">
-「えっと、待って……まず」
+<name "Brenda" "!QB0104">
+"Um... Hold on.
+ First of all..."
 #
-<name "ブレンダ" "!QB0105">
-「漫才に道具は使わないわ！
-　喋りだけで勝負するのが漫才なんだから！」
+<name "Brenda" "!QB0105">
+"You don't use props for standup!
+ Standup is won or lost only through the
+ dialogue!"
 #
-<name "ミレーヌ" "!TC0090">
-「道具とかセットを使うとコントになっちゃうから
-　ね」
+<name "Mylene" "!TC0090">
+"If you use props or set pieces, then it
+ becomes sketch comedy."
 #
-<name "ブレンダ" "!QB0106">
-「次に、小道具としても内容が酷い！
-　なにこれ？
-　どう使う気？」
+<name "Brenda" "!QB0106">
+"Second, these props are terrible!
+ What is this?
+ How are you supposed to use it?"
 #
-<name "ミレーヌ" "!TC0091">
-「自分で受ける気は欠片もないわよね」
+<name "Mylene" "!TC0091">
+"You never had any intention of doing this
+ with the stuff you brought."
 #
-<name "ブレンダ" "!QB0107">
-「でもって、アンタは常にこんなものを持ち歩いて
-　いたのか！」
+<name "Brenda" "!QB0107">
+"And what, you always carry stuff like this
+ around with you?"
 #
-<name "ミレーヌ" "!TC0092">
-「前から変な物を持っているなぁとは思っていたの
-　よね」
+<name "Mylene" "!TC0092">
+"I had thought it was strange for you to have
+ it for a while."
 #
-<name "フレンダ" "!WB0096">
-「舐めて貰っては困ります。
-　道具を用意したのは未熟な貴女方でもツッコめる
-　ようにと考えた末です。
-　私がこの程度しか準備していないと？」
+<name "Frenda" "!WB0096">
+"You better not be underestimating me.
+ I brought these props so that you rookies
+ could make fun of them. Did you really think
+ that was all I had ready?"
 #
-<name "ミレーヌ" "!TC0093">
-「え？
-　まだ、何かあるの？」
+<name "Mylene" "!TC0093">
+"Huh?
+ There's more?"
 #
-<name "フレンダ" "!WB0099">
-「道具だけではなく、ネタも用意しています」
+<name "Frenda" "!WB0099">
+"I don't just have these props, but I have
+ gags too."
 #
-<name "ブレンダ" "!QB0108">
-「おおっ！
-　その取り出したメモ帳にネタが満載なのね！」
+<name "Brenda" "!QB0108">
+"Ooh!
+ You have a whole notebook full of jokes!"
 #
-<name "フレンダ" "!WB0100">
-「ふふふ。
-　とりあえず、天気の話でもして貰えますか？
-　そこから私がネタに繋げますから」
+<name "Frenda" "!WB0100">
+"Heheheh.
+ So how about we talk about the weather?
+ I'll start, and you can just read from
+ there."
 #
-<name "ミレーヌ" "!TC0094">
-「な、なんだかベテランっぽい」
+<name "Mylene" "!TC0094">
+"N-Now you feel like a veteran."
 #
-<name "ブレンダ" "!QB0109">
-「とりあえず天気の話ね。
-　えっと……
-　最近、暑くなってきましたね」
+<name "Brenda" "!QB0109">
+"So let's talk about the weather.
+ Um...
+ It's been hot lately."
 #
-<name "フレンダ" "!WB0101">
-「そうですね」
+<name "Frenda" "!WB0101">
+"It has."
 #
-<name "ミレーヌ" "!TC0095">
-「こんなに暑いと、夜は寝苦しくて困るわよね」
+<name "Mylene" "!TC0095">
+"When it's this hot, it's hard to sleep at
+ night."
 #
-<name "フレンダ" "!WB0102">
-「そうですね」
+<name "Frenda" "!WB0102">
+"It is."
 #
-<name "ブレンダ" "!QB0110">
-「そうそう。
-　それに朝起きたら寝汗でビッショリ。
-　でも、すぐに暑さでそれも乾いてしまう」
+<name "Brenda" "!QB0110">
+"That's right.
+ And when you wake up in the morning, you're
+ covered in sweat.
+ But because it's hot, it dries up quickly."
 #
-<name "フレンダ" "!WB0103">
-「そうですね」
+<name "Frenda" "!WB0103">
+"It does."
 #
-<name "ミレーヌ" "!TC0096">
-「残るのは酷い匂いだけ。
-　はぁ、早く寒くならないかなぁ」
+<name "Mylene" "!TC0096">
+"That just leaves the awful smell.
+ Man, I hope it gets cold soon."
 #
-<name "フレンダ" "!WB0104">
-「そうですね」
+<name "Frenda" "!WB0104">
+"It will."
 #
-<name "ブレンダ" "!QB0111">
-「って、さっきから相槌しか打ってないじゃない！」
+<name "Brenda" "!QB0111">
+"Hey, you're just agreeing with everything!"
 #
-<name "フレンダ" "!WB0105">
-「そうですね」
+<name "Frenda" "!WB0105">
+"I am."
 #
-<name "ミレーヌ" "!TC0097">
-「あ、このメモ帳、“そうですね”と“なんでやね
-　ん”しか書いてない！」
+<name "Mylene" "!TC0097">
+"Ah! There's nothing written in this notebook
+ but things like 'It is' and 'What the heck'!"
 #
-<name "ブレンダ" "!QB0112">
-「アンタ、それだけで乗り切るつもりだったの！」
+<name "Brenda" "!QB0112">
+"You thought you were going to get away with
+ just that!?"
 #
-<name "フレンダ" "!WB0106">
-「大丈夫、いけます」
+<name "Frenda" "!WB0106">
+"Don't worry, it'll work."
 #
-<name "ブレンダ" "!QB0113">
-「いけるか！
-　もうええ、ここまでや！」
+<name "Brenda" "!QB0113">
+"No it won't!
+ Geez! I've had enough!"
 #
-<name "ミレーヌ" "!TC0098">
-「ありがとうございましたー」
+<name "Mylene" "!TC0098">
+"Thank you very much."
 #
-　……
+...
 #
-<name "ブレンダ" "!QB0114">
-「と、こ、こんな感じでどうでしょう？」
+<name "Brenda" "!QB0114">
+"So, h-how was that?"
 #
-<name "ミレーヌ" "!TC0099">
-「サボったペナルティ」
+<name "Mylene" "!TC0099">
+"For our punishment for slacking off."
 #
-<name "フレンダ" "!WB0107">
-「頑張りました」
+<name "Frenda" "!WB0107">
+"We tried our best."
 #
-<name "マリーアリス" "!LA0069">
-「審査委員長、判定は？」
+<name "Marialis" "!LA0069">
+"Judge, your decision?"
 #
-<name "ダークス">
-「面白かったから、もう一ネタ」
+<name "Darx">
+"It was kind of funny, so one more round."
 #
-<name "ブレンダ" "!QB0115">
-「ひぃ～」
+<name "Brenda" "!QB0115">
+"Awwwww..."
 #
 \x78\x78

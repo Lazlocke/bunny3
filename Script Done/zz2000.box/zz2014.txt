@@ -1,81 +1,84 @@
 ﻿<music 11>
 <background "bg013a0.agf" 10>
-<name "クールな住民" "!BC0166">
-「なんだ？
-　この甘ったるい匂いは？」
+<name "Cool Citizen" "!BC0166">
+"What's that sugary smell?"
 #
-<name "事情を知る住民" "!ZH0131">
-「お菓子会だよ。
-　知らないのか？」
+<name "Aware Citizen" "!ZH0131">
+"It's a bake fest.
+ You didn't know?"
 #
-<name "クールな住民" "!BC0167">
-「ああ、女子供が参加するヤツか」
+<name "Cool Citizen" "!BC0167">
+"Oh, that thing for women and kids?"
 #
-<name "事情を知る住民" "!ZH0132">
-「おいおい、男だって参加してるぜ」
+<name "Aware Citizen" "!ZH0132">
+"Hey, men do it too."
 #
-<name "クールな住民" "!BC0168">
-「けっ。
-　あんなもん、男が参加するもんじゃねぇよ」
+<name "Cool Citizen" "!BC0168">
+"Keh.
+ It's not something a man should participate
+ in."
 #
-<name "事情を知る住民" "!ZH0133">
-「そんな事、言うなよ。
-　ほら、お菓子会で作られたヤツ、配ってるぜ」
+<name "Aware Citizen" "!ZH0133">
+"Don't say that.
+ Look, they're handing out some of the stuff
+ they made."
 #
-<name "クールな住民" "!BC0169">
-「いらねーよ」
+<name "Cool Citizen" "!BC0169">
+"Don't want any."
 #
-<name "かわいい系の住民" "!GB0260">
-「い、いりませんか。
-　すみません。
-　私、お菓子作りがヘタで……」
+<name "Cute Citizen" "!GB0260">
+"Y-You don't?
+ I'm sorry.
+ I'm not very good at baking..."
 #
-<name "クールな住民" "!BC0170">
-「…………も、貰ってやるよ」
+<name "Cool Citizen" "!BC0170">
+"...I-I'll have one."
 #
-<name "かわいい系の住民" "!GB0261">
-「え？」
+<name "Cute Citizen" "!GB0261">
+"Huh?"
 #
-<name "クールな住民" "!BC0171">
-「貰ってやるって言ってんだ。
-　よこせよ」
+<name "Cool Citizen" "!BC0171">
+"I said I'll have one.
+ Give it to me."
 #
-<name "かわいい系の住民" "!GB0262">
-「はい、どうぞ」
+<name "Cute Citizen" "!GB0262">
+"Okay, here."
 #
-<name "クールな住民" "!BC0172">
-「ふんっ。
-　たしかにイマイチだな……」
+<name "Cool Citizen" "!BC0172">
+"Hmph.
+ You're right.
+ It's not very good..."
 #
-<name "かわいい系の住民" "!GB0263">
-「あ……」
+<name "Cute Citizen" "!GB0263">
+"Oh..."
 #
-<name "クールな住民" "!BC0173">
-「でも、誰かの為にって愛情は感じたぜ。
-　次、頑張りな」
+<name "Cool Citizen" "!BC0173">
+"But I felt your love for someone in it.
+ Do better next time."
 #
-<name "かわいい系の住民" "!GB0264">
-「は、はい。
-　あの、次もまた、貰ってくれますか？」
+<name "Cute Citizen" "!GB0264">
+"O-Okay.
+ Um, could you try the next one too?"
 #
-<name "クールな住民" "!BC0174">
-「気が向いたらな」
+<name "Cool Citizen" "!BC0174">
+"If I feel like it."
 #
 <music 4>
 <background "bg009a0.agf" 10>
 <sprite "ta34b000.agf" 4 4 11>
-<name "商会メイド" "!DC0472">
-「以上のような展開になる可能性が、僅かにですが
-　あります。
-　そんな会です。
-　ご協力を」
+<name "Company Maid" "!DC0472">
+"There is the possibility that something like
+ that will happen, but just a slight one.
+ That kind of festival.
+ We'd like your cooperation."
 #
 <removesprite -1 11>
-<name "夢を見る商店主人" "!CB0185">
-「ありったけの菓子の材料を出せ！
-　倉庫の分もだ！」
+<name "Dreaming Shopkeeper" "!CB0185">
+"We'll supply every kind of ingredient you
+ need to bake anything!
+ The whole warehouse too!"
 #
-<name "期待する住民" "!MB0156">
-「おおっ！」
+<name "Expectant Citizens" "!MB0156">
+"Yeah!"
 #
 \x78\x78

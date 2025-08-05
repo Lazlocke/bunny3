@@ -1,100 +1,101 @@
 ﻿<music 3>
 <background "bg010a0.agf" 10>
-<name "ダークス">
-「やるって決めたけど……」
+<name "Darx">
+"I approved it, but..."
 #
-<name "ダークス">
-「芋煮会ってなんだ？」
+<name "Darx">
+"What exactly is a potluck?"
 #
 <sprite "ta34b000.agf" 4 4 11>
-<name "商会メイド" "!DC0473">
-「そのまま、芋を煮る会ですよ」
+<name "Company Maid" "!DC0473">
+"A festival for a pot of luck!"
 #
-<name "ダークス">
-「はぁ……」
+<name "Darx">
+"Um..."
 #
-<name "商会メイド" "!DC0474">
-「とりあえず、ご参加ください」
+<name "Company Maid" "!DC0474">
+"Just join us."
 #
-<name "ダークス">
-「おう」
+<name "Darx">
+"Okay."
 #
-<name "商会メイド" "!DC0475">
-「まず、大きな鍋。
-　それです。
-　それを持って来てください」
+<name "Company Maid" "!DC0475">
+"First, a big pot.
+ That's it.
+ Bring it here."
 #
-<name "ダークス">
-「ああ」
+<name "Darx">
+"Okay."
 #
 <removesprite -1 11>
 <music 11>
 <background "bg008a0.agf" 10>
 <sprite "ta34b000.agf" 4 4 11>
-<name "商会メイド" "!DC0476">
-「街の真ん中……
-　雨が降っても大丈夫な場所に鍋をセット」
+<name "Company Maid" "!DC0476">
+"Put it in the middle of the city.
+ Set it somewhere it'll be okay even if it
+ rains."
 #
-<name "商会メイド" "!DC0477">
-「水を適度に放り込んで……」
+<name "Company Maid" "!DC0477">
+"Fill it with a lot of water..."
 #
-<name "商会メイド" "!DC0478">
-「火をつけます」
+<name "Company Maid" "!DC0478">
+"Light a fire."
 #
-<name "ダークス">
-「ああ」
+<name "Darx">
+"Okay."
 #
-<name "商会メイド" "!DC0479">
-「待ちます」
+<name "Company Maid" "!DC0479">
+"Now we wait."
 #
-<name "ダークス">
-「具材がまるっきり無いが……」
+<name "Darx">
+"There's nothing in it."
 #
-<name "商会メイド" "!DC0480">
-「大丈夫です」
+<name "Company Maid" "!DC0480">
+"That's okay."
 #
-<name "ダークス">
-「そう言われても、これで出来上がるのはお湯じゃ
-　ないか？」
+<name "Darx">
+"But aren't we just making hot water?"
 #
-<name "商会メイド" "!DC0481">
-「大丈夫です。
-　ほら」
+<name "Company Maid" "!DC0481">
+"It'll be okay.
+ Look."
 #
 <removesprite -1 11>
-<name "近隣の住民" "!ZH0134">
-「おーい、魚を持って来たぞー」
+<name "Nearby Citizen" "!ZH0134">
+"Hey, I brought fish."
 #
-<name "参加希望の住民" "!MB0157">
-「おいおい、まずは芋だろう」
+<name "Participating Citizen" "!MB0157">
+"Come on, first has to be potatoes."
 #
-<name "遠慮がちな住民" "!CB0186">
-「ネギ、放り込んでも良いかな？」
+<name "Cheap Citizen" "!CB0186">
+"Can I throw in some spring onions?"
 #
-<name "ゴボウ好きな住民" "!KB0274">
-「ゴボウ」
+<name "Burdock Citizen" "!KB0274">
+"Burdock."
 #
-<name "彩りを考える住民" "!BC0175">
-「ニンジン」
+<name "Coloring Citizen" "!BC0175">
+"Carrots."
 #
 <sprite "ta34b000.agf" 4 4 11>
-<name "商会メイド" "!DC0482">
-「持ち寄られた具材をぶっこみ、完成です」
+<name "Company Maid" "!DC0482">
+"We throw in the food people brought, and
+ that's it."
 #
-<name "ダークス">
-「味は？」
+<name "Darx">
+"How's it taste?"
 #
-<name "商会メイド" "!DC0483">
-「調味料を持ってきてくれる方もいますから、なん
-　とかまとまりますよ」
+<name "Company Maid" "!DC0483">
+"Some people will bring seasonings.
+ We'll make it work somehow."
 #
-<name "商会メイド" "!DC0484">
-「ささ、かき混ぜてください」
+<name "Company Maid" "!DC0484">
+"Go on, get stirring."
 #
-<name "ダークス">
-「おう」
+<name "Darx">
+"Right."
 #
 <removesprite -1 11>
-　芋煮会は、それなりに好評だった。
+The potluck was fairly successful.
 #
 \x78\x78

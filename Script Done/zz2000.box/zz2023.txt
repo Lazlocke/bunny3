@@ -1,46 +1,50 @@
 ﻿<music 11>
 <background "bg008a0.agf" 10>
-<name "武装する住民" "!BC0190">
-「避難訓練だな」
+<name "Armed Citizen" "!BC0190">
+"Here for the evacuation drill?"
 #
-<name "防具を着込む住民" "!KB0285">
-「ああ」
+<name "Armored Citizen" "!KB0285">
+"Yeah."
 #
-<name "武装する住民" "!BC0191">
-「実は俺、楽しみで寝れなかったんだ」
+<name "Armed Citizen" "!BC0191">
+"Actually, I was so excited I couldn't sleep."
 #
-<name "防具を着込む住民" "!KB0286">
-「俺もだ」
+<name "Armored Citizen" "!KB0286">
+"Me too."
 #
-<name "武装する住民" "!BC0192">
-「へへへ。
-　よーし、やってやるぜぇ！」
+<name "Armed Citizen" "!BC0192">
+"Heheheh.
+ All right, let's do it!"
 #
-<name "防具を着込む住民" "!KB0287">
-「おうさ！
-　避難訓練、こんなに楽しい日はない！」
+<name "Armored Citizen" "!KB0287">
+"Yeah!
+ Nothing's as much fun as evacuation drill
+ day!"
 #
-<name "ダークス">
-「……」
+<name "Darx">
+"..."
 #
-<name "ダークス">
-「あの、彼らは……？」
+<name "Darx">
+"Uh, who were they?"
 #
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!PC0537">
-「冒険者担当の方です。
-　この街に来たというシチュエーションで、自由に
-　行動してＯＫですから」
+<name "Company Maid" "!PC0537">
+"They're in charge of adventurers.
+ Because of how they ended up in the city, 
+ this is a chance for them to act however
+ they want."
 #
-<name "ダークス">
-「あー、なるほど。
-　……俺もその役」
+<name "Darx">
+"Aah, I see.
+ ...I'll be doing that too."
 #
-<name "商会メイド" "!PC0538">
-「魔王様は避難時に指示を出す立場です」
+<name "Company Maid" "!PC0538">
+"The Overlord's duty is to command the
+ evacuation."
 #
-<name "ダークス">
-「ですね、すみません」
+<name "Darx">
+"You're right.
+ Sorry."
 #
 <removesprite -1 11>
 \x2B\x78\x78

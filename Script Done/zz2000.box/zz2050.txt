@@ -1,59 +1,60 @@
 ﻿<music 11>
 <background "bg008a0.agf" 10>
 <sprite "ta21a011.agf" 4 4 11>
-<name "イシュ" "!AB0048">
-「あー……」
+<name "Ish" "!AB0048">
+"Aaah..."
 #
 <sprite "ta21a012.agf" 4 4 12>
-<name "イシュ" "!AB0049">
-「良い場所」
+<name "Ish" "!AB0049">
+"This is a good place."
 #
 <sprite "ta21a013.agf" 4 4 12>
-<name "イシュ" "!AB0050">
-「私、ここに火を……」
+<name "Ish" "!AB0050">
+"I set a fire here..."
 #
 <sprite "ta21a014.agf" 4 4 12>
-<name "イシュ" "!AB0051">
-「そりゃ、怒るか……」
+<name "Ish" "!AB0051">
+"That's why they were mad."
 #
 <removesprite -1 11>
 <music 20>
 <background "ev065a02.agf" 10>
-<name "イシュ" "!AB0052">
-「あんな目に遭わされても仕方が無いよね」
+<name "Ish" "!AB0052">
+"I guess no wonder they did that to me."
 #
-<name "イシュ" "!AB0053">
-「うん……」
+<name "Ish" "!AB0053">
+"Yeah."
 #
-<name "イシュ" "!AB0054">
-「あの時の魔王様。
-　凄かった……」
+<name "Ish" "!AB0054">
+"The Overlord then was... something else."
 #
-<name "イシュ" "!AB0055">
-「許してって言っても、全然聞いてくれなかったし」
+<name "Ish" "!AB0055">
+"I begged him for mercy, but he wouldn't
+ listen."
 #
-<name "イシュ" "!AB0056">
-「うう……」
+<name "Ish" "!AB0056">
+"Oooh..."
 #
 <music 11>
 <background "bg008a0.agf" 10>
 <sprite "ta21a000.agf" 4 4 11>
-<name "イシュ" "!AB0057">
-「悩んでいても仕方が無い！」
+<name "Ish" "!AB0057">
+"Worrying about it now won't do any good!"
 #
 <sprite "ta21a004.agf" 4 4 12>
-<name "イシュ" "!AB0058">
-「魔王様の為に働いて、挽回すれば良いんだ！」
+<name "Ish" "!AB0058">
+"I just need to work hard for him and make up
+ for that!"
 #
 <sprite "ta21a119.agf" 4 4 12>
-<name "イシュ" "!AB0059">
-「うん！
-　頑張……ひぁんっ！！」
+<name "Ish" "!AB0059">
+"Yep!
+ Just gotta...aaah!"
 #
 <sprite "ta21a120.agf" 4 4 12>
-<name "イシュ" "!AB0060">
-「ぁ、ま、魔王様が、ふぁ、よ、呼んで……
-　ぁぁぁぁぁ……」
+<name "Ish" "!AB0060">
+"Ah... T-The Overlord's... aah... c-calling...
+ Aaahhh..."
 #
 <removesprite -1 11>
 \x2B\x78\x78

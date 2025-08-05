@@ -1,40 +1,41 @@
 ﻿<music 11>
 <background "bg013a0.agf" 10>
-<name "検討する住民" "!KB0278">
-「バザーに出す物あるか？」
+<name "Thinking Citizen" "!KB0278">
+"Do you have anything for the bazaar?"
 #
-<name "参加したい住民" "!BC0182">
-「むー、探すか」
+<name "Participating Citizen" "!BC0182">
+"Hmm, I need to check."
 #
-<name "検討する住民" "!KB0279">
-「これは？」
+<name "Thinking Citizen" "!KB0279">
+"How about this?"
 #
-<name "参加したい住民" "!BC0183">
-「駄目だ。
-　それは借り物だから、バザーに出せない」
+<name "Participating Citizen" "!BC0183">
+"No, I'm borrowing that.
+ I can't sell it at a bazaar."
 #
-<name "検討する住民" "!KB0280">
-「じゃあ、これは？」
+<name "Thinking Citizen" "!KB0280">
+"Then what about this?"
 #
-<name "参加したい住民" "!BC0184">
-「やめろ。
-　それは俺の黒歴史だ」
+<name "Participating Citizen" "!BC0184">
+"No way.
+ That's part of my dark past."
 #
-<name "検討する住民" "!KB0281">
-「興味あるな」
+<name "Thinking Citizen" "!KB0281">
+"Now I'm curious."
 #
-<name "参加したい住民" "!BC0185">
-「見たら、俺達の間の友情は崩壊する。
-　それほどの物を紐解くと言うのであれば、この魔
-　眼が黙っちゃいないぜ」
+<name "Participating Citizen" "!BC0185">
+"If you find out, our friendship will be done
+ for. If you are that determined to tear apart
+ something that important, my demon eye will
+ not be able to remain silent."
 #
-<name "検討する住民" "!KB0282">
-「お前……魔眼とか持ってたのか？」
+<name "Thinking Citizen" "!KB0282">
+"You... have a demon eye?"
 #
-<name "参加したい住民" "!BC0186">
-「だいたい、そんな事が書いてあるんだよ。
-　それは置いて、さっさと探せ」
+<name "Participating Citizen" "!BC0186">
+"That's more or less how it goes.
+ Just put it down and keep looking."
 #
-　バザーは、盛況だった。
+The bazaar was a success.
 #
 \x78\x78

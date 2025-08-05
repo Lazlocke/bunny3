@@ -1,23 +1,26 @@
 ﻿<music 11>
 <background "bg008a0.agf" 10>
-<name "少しモテる住民" "!KB0275">
-「清掃会って、みんなで街や家の掃除をするだけだ
-　ろ？」
+<name "Semi-Popular Citizen" "!KB0275">
+"Isn't a cleaning festival just everybody
+ cleaning up their houses and the city?"
 #
-<name "幼馴染な住民" "!LB0183">
-「ゴミがまとめて出るから、効率が良いんだって」
+<name "Childhood Friend Citizen" "!LB0183">
+"They say that because all the garbage gets
+ thrown out at the same time, it's more
+ efficient this way."
 #
-<name "少しモテる住民" "!KB0276">
-「へー」
+<name "Semi-Popular Citizen" "!KB0276">
+"Oh?"
 #
-<name "少しモテる住民" "!KB0277">
-「しかし、これをされると滅多に掃除しなくなるん
-　じゃないか？」
+<name "Semi-Popular Citizen" "!KB0277">
+"But if they do this, won't nothing get
+ cleaned the rest of the time?"
 #
-<name "幼馴染な住民" "!LB0184">
-「みんながみんな、貴方みたいなサボり魔じゃない
-　から大丈夫」
+<name "Childhood Friend Citizen" "!LB0184">
+"Not everybody is as lazy as you, so we'll be
+ fine."
 #
-　街が綺麗になり、住民に活力が湧いた。
+The city was cleaned up, and the citizens
+were motivated.
 #
 \x78\x78

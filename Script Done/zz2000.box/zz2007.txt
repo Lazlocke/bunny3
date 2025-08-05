@@ -1,77 +1,77 @@
 ﻿<music 18>
 <background "ev058b00.agf" 10>
-<name "フィリアネ" "!GA0038">
-「ぁ、ふぁ、ぁっ、ああっ」
+<name "Filliane" "!GA0038">
+"Ah...ah...aah...aaah..."
 #
-<name "マリーアリス" "!LA0105">
-「ぁ、ぁん、ん、んぁ、ふぁん」
+<name "Marialis" "!LA0105">
+"Ah...aah...mmm...mmm...aah!"
 #
-　俺はフィリアネとマリーアリスを交互に抱き続け
-　ていた。
+I keep fucking both Filliane and Marialis.
 #
 <background "ev058b01.agf" 10>
-<name "フィリアネ" "!GA0039">
-「ぁっ、ぁぁぁっ！」
+<name "Filliane" "!GA0039">
+"Ah! Aaah!"
 #
-<name "マリーアリス" "!LA0106">
-「ふぁぁぁん」
+<name "Marialis" "!LA0106">
+"Ahhhhhh!"
 #
-　そして、何度も射精を繰り返す。
+And come over and over.
 #
-　二人が絶頂を迎えた数も、数え切れない。
+I can't even count the number of times the 
+two of them have come either.
 #
 <music 5>
 <background "bg011a0.agf" 10>
 <sprite "ta15a120.agf" 4 4 11>
-<name "マリーアリス" "!LA0107">
-「ふう」
+<name "Marialis" "!LA0107">
+"Aaah..."
 #
 <removesprite -1 11>
-<name "フィリアネ" "!GA0040" "ka25a000.agf">
-「満足♪」
+<name "Filliane" "!GA0040" "ka25a000.agf">
+"Satisfied.♪"
 #
-<name "ダークス">
-「お前ら、かなり強くなったな」
+<name "Darx">
+"You guys have gotten really strong."
 #
-<name "フィリアネ" "!GA0041" "ka25a000.agf">
-「まあ、魔王様との関係も長いですし、回数も多い
-　ですから」
+<name "Filliane" "!GA0041" "ka25a000.agf">
+"Well, our relationship with you has been
+ long and frequent."
 #
-<name "ダークス">
-「そうか」
+<name "Darx">
+"I see."
 #
-<name "フィリアネ" "!GA0042" "ka25a000.agf">
-「それに、最初の頃はかなりハードプレイだったじゃ
-　ないですか」
+<name "Filliane" "!GA0042" "ka25a000.agf">
+"Also, you were into pretty hard play back at
+ the start."
 #
-<name "ダークス">
-「まあな」
+<name "Darx">
+"I guess."
 #
-　元は二人とも敵だ。
+They were both originally enemies.
 #
-<name "フィリアネ" "!GA0043" "ka25a000.agf">
-「なのに今は優しいから」
+<name "Filliane" "!GA0043" "ka25a000.agf">
+"But you're so gentle now."
 #
-<name "ダークス">
-「耐えられると？」
+<name "Darx">
+"You can still take it?"
 #
-<name "フィリアネ" "!GA0044" "ka25a000.agf">
-「嬉しさで身悶えします」
+<name "Filliane" "!GA0044" "ka25a000.agf">
+"I'm writhing in joy."
 #
-<name "ダークス">
-「マリーアリスは？」
+<name "Darx">
+"Marialis?"
 #
 <sprite "ta15a116.agf" 4 4 11>
-<name "マリーアリス" "!LA0108">
-「えっと……気絶するのが勿体無いかなぁって」
+<name "Marialis" "!LA0108">
+"Um... I think it'd be a waste to pass out."
 #
-<name "ダークス">
-「……」
+<name "Darx">
+"..."
 #
 <removesprite -1 11>
-　可愛いヤツらだ。
+They really are lovable.
 #
-　シャワーを浴び、着替えが終わっているが、もう
-　一回襲ってやった。
+I took a shower and got changed, but ended up
+attacking them for one more round.
 #
 \x78\x78

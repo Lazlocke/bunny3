@@ -1,17 +1,18 @@
 ﻿<music 13>
 <background "ev051a01.agf" 10>
-<name "ダークス">
-「祭りをする度に、パニバーナが来るのだが……」
+<name "Darx">
+"Every time we throw a festival, Paniverna
+ shows up."
 #
-<name "商会メイド" "!PC0535">
-「盛り上がるから良いのでは？」
+<name "Company Maid" "!PC0535">
+"She's popular, so isn't it okay?"
 #
-<name "ダークス">
-「向こうの仕事、大丈夫なのかなぁって」
+<name "Darx">
+"I'm more wondering about her work."
 #
-<name "商会メイド" "!PC0536">
-「あはは……」
+<name "Company Maid" "!PC0536">
+"Hahaha..."
 #
-　祭りは大いに賑わった。
+The festival was lively.
 #
 \x78\x78

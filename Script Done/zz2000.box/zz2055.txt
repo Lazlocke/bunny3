@@ -1,79 +1,85 @@
 ﻿<music 3>
 <background "bg010a0.agf" 10>
-<name "ダークス">
-「常に逆さま」
+<name "Darx">
+"You're always upside down."
 #
-<name "ダークス">
-「精液、流し込んだら零れ難いよな」
+<name "Darx">
+"If I come inside, the semen won't spill out
+ at all."
 #
 <sprite "ta22a010.agf" 4 4 11>
-<name "ナイン" "!QA0084">
-「な、なんですか、急に？」
+<name "Nein" "!QA0084">
+"W-Why are you bringing that up?"
 #
-<name "ダークス">
-「いや、気にするな」
+<name "Darx">
+"No reason.
+ Don't worry about it."
 #
 <sprite "ta22a009.agf" 4 4 12>
-<name "ナイン" "!QA0085">
-「無理でしょ。
-　気になりますよ」
+<name "Nein" "!QA0085">
+"There's no way.
+ I have to worry."
 #
-<name "ダークス">
-「そうか。
-　じゃあ……ああ、ここじゃあれだな」
+<name "Darx">
+"I see.
+ Then...
+ Oh, not here."
 #
 <removesprite -1 11>
 <music 17>
 <background "ev066a00.agf" 10>
-　俺はナインをダークス宮に引っ張って、Ｈな事を
-　始めた。
+I drag her to the dungeon and start having
+sex with her.
 #
-<name "ダークス">
-「女の股間を見ながら、口内で射精」
+<name "Darx">
+"Coming in the mouth while looking at a
+ pussy."
 #
-<name "ダークス">
-「うーむ」
+<name "Darx">
+"Hmmm..."
 #
-<name "ナイン" "!QA0086">
-「うぐぐ……
-　ど、どうしていつもこの体位なんですか」
+<name "Nein" "!QA0086">
+"Mmgh...
+ Why is it always in this position?"
 #
-<name "ダークス">
-「立ちながらこの体位が出来るのって、お前ぐらい
-　だからな」
+<name "Darx">
+"You're the only one who can do this position
+ standing up."
 #
-<name "ダークス">
-「それとも、嫌か？」
+<name "Darx">
+"Or do you not like it?"
 #
-<name "ナイン" "!QA0087">
-「うう……光栄です」
+<name "Nein" "!QA0087">
+"Ooh...
+ Thank you."
 #
-<name "ダークス">
-「よく言った。
-　もう一回やるぞ」
+<name "Darx">
+"Well said.
+ Let's do it again."
 #
-<name "ナイン" "!QA0088">
-「うぁ、つ、次は口じゃなくてその……」
+<name "Nein" "!QA0088">
+"Aah...
+ N-Next time, not in my mouth, um..."
 #
-<name "ダークス">
-「わかっている」
+<name "Darx">
+"I understand."
 #
-　俺は目の前の股間を舐める。
+I lick the pussy in front of me.
 #
-<name "ダークス">
-「次はここだな」
+<name "Darx">
+"Next time will be here."
 #
-<name "ナイン" "!QA0089">
-「んぁ、ふは、は、はひ」
+<name "Nein" "!QA0089">
+"Mm...aah... 
+ Y-Yes..."
 #
-　俺はナインの膣内と口内を楽しんだ。
+I enjoy her pussy and mouth.
 #
-<name "商会メイド" "!PC0117">
-「あの魔王様。
-　ダークス宮での行為は、控えて頂けるとありがた
-　いのですが……」
+<name "Company Maid" "!PC0117">
+"Um, Overlord, we would appreciate it if you
+ didn't do that in the dungeon."
 #
-<name "ダークス">
-「すまん」
+<name "Darx">
+"Sorry."
 #
 \x78\x78

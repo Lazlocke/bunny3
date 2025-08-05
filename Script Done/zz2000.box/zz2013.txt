@@ -1,65 +1,66 @@
 ﻿<music 13>
 <background "ev051a01.agf" 10>
-<name "パニバーナ" "!DA0090">
-「ふう……」
+<name "Paniverna" "!DA0090">
+"Whew..."
 #
-<name "マネージャー" "!ZD0158">
-「お疲れ様です。
-　次の出番は二時間後です」
+<name "Manager" "!ZD0158">
+"Good work.
+ Your next set is in two hours."
 #
-<name "パニバーナ" "!DA0091">
-「わかったわ。
-　何か食べる物」
+<name "Paniverna" "!DA0091">
+"All right.
+ I need something to eat."
 #
-<name "マネージャー" "!ZD0159">
-「用意してあります」
+<name "Manager" "!ZD0159">
+"It's ready for you."
 #
-<name "パニバーナ" "!DA0092">
-「魔王様は？」
+<name "Paniverna" "!DA0092">
+"And the Overlord?"
 #
-<name "マネージャー" "!ZD0160">
-「お呼びしております」
+<name "Manager" "!ZD0160">
+"He's been invited."
 #
-<name "ダークス">
-「縛られているんだけど……俺、魔王だよな」
+<name "Darx">
+"I've been tied up.
+ I am the Overlord, you know?"
 #
-<name "マネージャー" "!ZD0161">
-「すみません。
-　パニバーナ様のご機嫌の為にも、ご協力ください」
+<name "Manager" "!ZD0161">
+"I'm sorry.
+ Please understand it's to keep her in good
+ spirits."
 #
-<name "ダークス">
-「正しい事を言っている風だが、おかしくないか？
-　なあ、おかしいよな？
-　自分でもそう感じているんだろ？」
+<name "Darx">
+"You realize that this isn't normal, right?
+ This is crazy?
+ You understand that too?"
 #
-<name "マネージャー" "!ZD0162">
-「私は、パニバーナ様が望むなら天界の命神王です
-　ら縛ります」
+<name "Manager" "!ZD0162">
+"I would tie up even the God King of Celestia
+ if that was Miss Paniverna's request."
 #
-<name "ダークス">
-「む、無駄な迫力が……ある」
+<name "Darx">
+"R-Resistance is... useless?"
 #
-<name "マネージャー" "!ZD0163">
-「では、パニバーナ様。
-　一時間五十分後にまた来ます。
-　ごゆっくり」
+<name "Manager" "!ZD0163">
+"Well then, Miss Paniverna. I'll be back in an
+ hour and fifty minutes.
+ Enjoy yourself."
 #
-<name "パニバーナ" "!DA0093">
-「ありがとう」
+<name "Paniverna" "!DA0093">
+"Thank you."
 #
-<name "ダークス">
-「……優秀なマネージャーだな」
+<name "Darx">
+"...That's an excellent manager."
 #
-<name "パニバーナ" "!DA0094">
-「ええ。
-　では、魔王様～」
+<name "Paniverna" "!DA0094">
+"Yes.
+ Now then, Overlord.♪"
 #
-<name "ダークス">
-「とりあえず、諦めて相手をしてやるから縛ってる
-　のを解いてくれ。
-　本気で抜け出せん」
+<name "Darx">
+"I give up. I'll stay with you, just untie me.
+ I know there's no escape."
 #
-<name "パニバーナ" "!DA0095">
-「はーい♪」
+<name "Paniverna" "!DA0095">
+"Yep.♪"
 #
 \x78\x78

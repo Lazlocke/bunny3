@@ -1,58 +1,60 @@
 ﻿<music 4>
 <background "bg009a0.agf" 10>
-<name "興味ある住民" "!GB0275">
-「ファッションショーをやるって聞いたのですが、
-　どういったイベントなんですか？」
+<name "Interested Citizen" "!GB0275">
+"I heard you're doing a fashion show, but
+ what kind of event is that?"
 #
 <sprite "ta34b000.agf" 4 4 11>
-<name "商会メイド" "!DC0485">
-「女の子が公費で着飾るイベントです」
+<name "Company Maid" "!DC0485">
+"It's an event for girls to dress up, at the
+ city's expense."
 #
-<name "興味ある住民" "!GB0276">
-「一般者の参加は？」
+<name "Interested Citizen" "!GB0276">
+"Can regular citizens participate?"
 #
-<name "商会メイド" "!DC0486">
-「もちろん、募集しております」
+<name "Company Maid" "!DC0486">
+"Of course. We're recruiting."
 #
-<name "興味ある住民" "!GB0277">
-「参加で！」
+<name "Interested Citizen" "!GB0277">
+"I'll do it!"
 #
-<name "商会メイド" "!DC0487">
-「はい、ありがとうございます」
+<name "Company Maid" "!DC0487">
+"Okay.
+ Thank you very much."
 #
 <removesprite -1 11>
-　……
+...
 #
-<name "気になった住民" "!BC0187">
-「ファッションショーをやるって聞いたのですが、
-　どういったイベントなんですか？」
+<name "Curious Citizen" "!BC0187">
+"I heard you're doing a fashion show, but
+ what kind of event is that?"
 #
 <sprite "ta34b000.agf" 4 4 11>
-<name "商会メイドＢ" "!DC0488">
-「着飾った女の子を堂々と眺める事ができるイベン
-　トです」
+<name "Company Maid B" "!DC0488">
+"It's an event where you can look at girls who
+ are dressed up fancily."
 #
-<name "気になった住民" "!BC0188">
-「なにか協力できる事はありますか」
+<name "Curious Citizen" "!BC0188">
+"Is there anything I can do to help?"
 #
-<name "商会メイド" "!DC0489">
-「裏方スタッフを募集しております」
+<name "Company Maid" "!DC0489">
+"We're recruiting backstage staff."
 #
-<name "気になった住民" "!BC0189">
-「やるぜ！」
+<name "Curious Citizen" "!BC0189">
+"I'll do it!"
 #
 <removesprite -1 11>
-　……
+...
 #
-<name "ダークス">
-「あー、えっと……事実の一面を全てのように言わ
-　れるのは、ちょっと」
+<name "Darx">
+"Um, I feel like you're deliberately leaving
+ off key details here..."
 #
 <sprite "ta34b000.agf" 4 4 11>
-<name "商会メイド" "!DC0490">
-「これもイベント成功の為です」
+<name "Company Maid" "!DC0490">
+"This is also for the success of the event."
 #
 <removesprite -1 11>
-　ファッションショーは、大盛況だった。
+The fashion show was a great success.
 #
 \x78\x78

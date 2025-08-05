@@ -1,104 +1,108 @@
 ﻿<music 4>
 <background "bg009a0.agf" 10>
 <sprite "ta16a000.agf" 4 4 11>
-<name "ファレン" "!FB0136">
-「恐ろしいフォーゼロッテを倒したクヴァルっての
-　が居て……
-　そのクヴァルを倒したのが今の魔王、ダークス様」
+<name "Farren" "!FB0136">
+"There was some guy named Cuvar who defeated
+ the formidable Forzelotte.
+ And the one who beat him is the Overlord,
+ Darx."
 #
 <sprite "ta16a009.agf" 4 4 12>
-<name "ファレン" "!FB0137">
-「考えてみると、恐ろしい相手に喧嘩を売ったわね」
+<name "Farren" "!FB0137">
+"Thinking about it now, we picked a fight with
+ someone very dangerous."
 #
 <removesprite -1 11>
 <sprite "ta16a009.agf" 2 4 11>
 <sprite "ta18a014.agf" 6 5 11>
-<name "ロッタ" "!HB0085">
-「うん」
+<name "Lotta" "!HB0085">
+"Yeah."
 #
 <sprite "ta16a015.agf" 2 4 12>
-<name "ファレン" "!FB0138">
-「でも、そういった情報が全然入って来なかったか
-　ら」
+<name "Farren" "!FB0138">
+"But never heard any of that."
 #
 <removesprite -1 11>
 <sprite "ta19a010.agf" 4 4 11>
-<name "アオ" "!WA0147">
-「そうだよね。
-　その情報があれば、素直にこの街に従ったのに」
+<name "Ao" "!WA0147">
+"That's right.
+ If I knew that, I would've joined this city
+ without a fight."
 #
 <removesprite -1 11>
 <sprite "ta19a010.agf" 2 5 11>
 <sprite "ta17a014.agf" 6 4 11>
-<name "タマガ" "!PB0107">
-「情報が遮断されていた」
+<name "Tamaga" "!PB0107">
+"Our information was being intercepted."
 #
 <removesprite -1 11>
 <sprite "ta18a001.agf" 4 4 11>
-<name "ロッタ" "!HB0086">
-「そう、それ！」
+<name "Lotta" "!HB0086">
+"Yeah, that!"
 #
 <removesprite -1 11>
 <sprite "ta16a001.agf" 2 4 11>
 <sprite "ta18a001.agf" 6 5 11>
-<name "ファレン" "!FB0139">
-「だから、ここを攻撃した事もそのせい！」
+<name "Farren" "!FB0139">
+"That's why we ended up attacking here!"
 #
 <removesprite -1 11>
 <sprite "ta19a010.agf" 4 4 11>
-<name "アオ" "!WA0148">
-「僕達は悪くない」
+<name "Ao" "!WA0148">
+"It wasn't our fault."
 #
 <removesprite -1 11>
 <sprite "ta19a010.agf" 2 5 11>
 <sprite "ta17a014.agf" 6 4 11>
-<name "タマガ" "!PB0108">
-「だから、許してください」
+<name "Tamaga" "!PB0108">
+"So forgive us."
 #
 <removesprite -1 11>
-<name "ダークス">
-「え？
-　いや、個別に罰は与えたし……」
+<name "Darx">
+"Huh?
+ Um, I already punished each of you..."
 #
-<name "ダークス">
-「それに、ロッタが……」
+<name "Darx">
+"And Lotta's, well..."
 #
 <sprite "ta16a019.agf" 4 4 11>
-<name "ファレン" "!FB0140">
-「もう気にしない事にしました」
+<name "Farren" "!FB0140">
+"You have to put it behind you."
 #
-<name "ダークス">
-「俺がな……あ、こら、脱がすな。
-　手を押さえるな……あ、ああっ」
+<name "Darx">
+"I... Ah, hey, don't strip.
+ Let go of my arms.
+ A-Ah!"
 #
 <removesprite -1 11>
-　押し倒された俺だったが、最後は逆転した。
+I got pushed down, but turned the tables on
+them quickly enough.
 #
 <sprite "ta18a012.agf" 4 4 11>
-<name "ロッタ" "!HB0087">
-「す、凄い……」
+<name "Lotta" "!HB0087">
+"W-Wow..."
 #
-<name "ダークス">
-「お前もやるか？」
+<name "Darx">
+"You want to do it too?"
 #
 <sprite "ta18a019.agf" 4 4 12>
-<name "ロッタ" "!HB0088">
-「あはは。
-　旦那が居るからー」
+<name "Lotta" "!HB0088">
+"Hahaha...
+ I already have a husband."
 #
-<name "ダークス">
-「そうだったな。
-　誘って悪かった」
+<name "Darx">
+"Oh, right.
+ Sorry for asking."
 #
-<name "ダークス">
-「そして、その心を大事にするんだぞ」
+<name "Darx">
+"And make sure you take care of yourself."
 #
 <sprite "ta18a018.agf" 4 4 12>
-<name "ロッタ" "!HB0089">
-「はーい」
+<name "Lotta" "!HB0089">
+"Yeeep."
 #
 <removesprite -1 11>
-　俺は倒れている三人をベッドに放り込み、仕事に
-　戻った。
+I leave the three of them passed out in bed 
+and go back to work.
 #
 \x78\x78

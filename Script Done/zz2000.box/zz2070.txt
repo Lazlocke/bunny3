@@ -1,48 +1,47 @@
 ﻿<music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta16a015.agf" 4 4 11>
-<name "ファレン" "!FB0141">
-「あの、魔王様。
-　妖精のチャミやフワに手を出したとの噂を聞いた
-　のですが……」
+<name "Farren" "!FB0141">
+"Um, Overlord, I heard rumors that you've done
+ sexual things with fairies..."
 #
-<name "ダークス">
-「……」
+<name "Darx">
+"..."
 #
 <sprite "ta16a020.agf" 4 4 12>
-<name "ファレン" "!FB0142">
-「事実ですか？」
+<name "Farren" "!FB0142">
+"Is that true?"
 #
-<name "ダークス">
-「………………………………ファレン君」
+<name "Darx">
+".........Farren."
 #
 <sprite "ta16a015.agf" 4 4 12>
-<name "ファレン" "!FB0143">
-「は、はい」
+<name "Farren" "!FB0143">
+"Y-Yes?"
 #
-<name "ダークス">
-「ちょっとこちらへ」
+<name "Darx">
+"Come here a minute."
 #
 <sprite "ta16a114.agf" 4 4 12>
-<name "ファレン" "!FB0144">
-「え？
-　あっ、ふぁ、あぁぁぁっ！」
+<name "Farren" "!FB0144">
+"Huh?
+ Ah! Ahh! Aaaahh!"
 #
 <removesprite -1 11>
-　抱いて黙らせた。
+I fucked her into silence.
 #
 <sprite "ta16a116.agf" 4 4 11>
-<name "ファレン" "!FB0145">
-「ぁぅ……」
+<name "Farren" "!FB0145">
+"Ooh..."
 #
 <removesprite -1 11>
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!DC0121">
-「別に隠さなくても……
-　それなりに有名な話ですから」
+<name "Company Maid" "!DC0121">
+"You don't need to hide it.
+ Everybody knows about it."
 #
-<name "ダークス">
-「なんとなくだ」
+<name "Darx">
+"For some reason."
 #
 <removesprite -1 11>
 \x2B\x78\x78

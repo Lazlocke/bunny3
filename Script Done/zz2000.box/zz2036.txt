@@ -1,35 +1,37 @@
 ﻿<music 13>
 <background "ev004a00.agf" 10>
-<name "司会メイド" "!PC0554">
-「第二回、ギャンブル大会！」
+<name "Host Maid" "!PC0554">
+"It's the second gambling tournament!"
 #
-<name "喜ぶ街の住民" "!ZD0169">
-「いえー！」
+<name "Happy Citizen" "!ZD0169">
+"Yay!"
 #
-<name "金を握る住民" "!UA0187">
-「待ってたぜー！」
+<name "Wealthy Citizen" "!UA0187">
+"I've been waiting for this!"
 #
-<name "気合の入った住民" "!HC0193">
-「今回は有り金全部、賭ける！」
+<name "Spirited Citizen" "!HC0193">
+"This time, I'm betting all the money I've
+ got!"
 #
-<name "司会メイド" "!PC0555">
-「え、えっと……
-　ギャンブルは生活を崩さない程度に、お遊び感覚
-　で参加してください」
+<name "Host Maid" "!PC0555">
+"U-Um...
+ Don't gamble so much it ruins your life.
+ Please just play for fun."
 #
-<name "司会メイド" "!PC0556">
-「儲からなくても、笑えるぐらいが理想ですからね。
-　か、賭け過ぎは駄目ですよ」
+<name "Host Maid" "!PC0556">
+"You want to be able to laugh about it, even
+ if you don't make any money.
+ D-Don't bet too much."
 #
-<name "司会メイド" "!PC0557">
-「奥さんとか子供を質に入れるのもアウトですから
-　ね、ね？
-　私と皆さんとの約束ですよ」
+<name "Host Maid" "!PC0557">
+"Betting your wife and kids is also 
+ off-limits, okay? Okay?
+ That's a promise between all of us."
 #
-<name "お手伝いメイド" "!DC0509">
-「今回は念入りだな～」
+<name "Helping Maid" "!DC0509">
+"They're being very careful this time."
 #
-<name "ディーラーメイド" "!AC0306">
-「前回、身持ちを崩した人が出たから」
+<name "Dealer Maid" "!AC0306">
+"Because last time, someone lost the farm."
 #
 \x78\x78

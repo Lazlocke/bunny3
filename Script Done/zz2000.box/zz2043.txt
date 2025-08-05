@@ -1,51 +1,54 @@
 ﻿<music 4>
 <background "bg009a0.agf" 10>
-<name "ダークス">
-「自分の母乳を売り買いされるのは気分が良いもの
-　ではないと思ったが……」
+<name "Darx">
+"I'm not sure how I feel about buying and
+ selling breast milk..."
 #
 <sprite "ta34b000.agf" 4 4 11>
-<name "商会メイド" "!PC0138">
-「毎度ありがとうございます」
+<name "Company Maid" "!PC0138">
+"Thank you for your business."
 #
 <removesprite -1 11>
-<name "ダークス">
-「自分から売りに来たりしているんだな」
+<name "Darx">
+"But you're selling it yourself, huh?"
 #
-<name "ヤーヌ" "!NB0023" "ka24a003.agf">
-「アンゴラメイ種族の、大きな収入源です。
-　高値で売れると嬉しいです」
+<name "Yahnu" "!NB0023" "ka24a003.agf">
+"It's one of the angolamay's main sources of
+ income. We're happy so long as it sells for a
+ tidy profit."
 #
-<name "ダークス">
-「なるほど」
+<name "Darx">
+"I see."
 #
 <background "ev068b00.agf" 10>
-<name "ダークス">
-「ああ、でもあの時。
-　俺を睨んだろ？」
+<name "Darx">
+"Ah, but back then, weren't you really mad at
+ me?"
 #
-<name "ヤーヌ" "!NB0024">
-「自分で売るのは構いませんが、無理矢理に搾られ
-　た物を売られるのは……やはり、抵抗が」
+<name "Yahnu" "!NB0024">
+"I'm fine selling it myself, but having it 
+ squeezed out of me by force?
+ Yeah, I hate that."
 #
-<name "ダークス">
-「恥ずかしいって事か？」
+<name "Darx">
+"Like, it's embarrassing?"
 #
 <background "bg009a0.agf" 10>
-<name "ヤーヌ" "!NB0025" "ka24a005.agf">
-「生産職のプライドです。
-　コンディションで味も微妙に変化しますし、母乳
-　の出始めと出終わりでも味の変化があるんです」
+<name "Yahnu" "!NB0025" "ka24a005.agf">
+"It's the pride of a craftsman.
+ Conditions have slight effects on the taste 
+ too. The taste can also change at both the
+ start and end of lactation."
 #
-<name "ヤーヌ" "!NB0026" "ka24a006.agf">
-「それらを考慮せずに一つのビンに流し込んだので、
-　品質としてはそれほど高い物にはならず、それを
-　私の名前付きで売られたらと思うと赤面の思いで
-　す」
+<name "Yahnu" "!NB0026" "ka24a006.agf">
+"You just drained it all into bottles without
+ thinking about any of that, so it was 
+ definitely low quality. I'd be ashamed to
+ sell that with my name on it."
 #
-<name "ダークス">
-「……む、無理矢理搾って、悪かったな」
+<name "Darx">
+"...S-Sorry for forcibly milking you."
 #
-　素直に謝る俺だった。
+I apologized meekly.
 #
 \x78\x78

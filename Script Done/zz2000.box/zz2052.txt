@@ -1,113 +1,115 @@
 ﻿<music 3>
 <background "bg010a0.agf" 10>
-<name "ダークス">
-「ん？
-　面会？」
+<name "Darx">
+"Hm? A meeting?"
 #
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!AC0091">
-「はい。
-　イシュさんの元部下です」
+<name "Company Maid" "!AC0091">
+"Yes, with one of Ish's former followers."
 #
-<name "ダークス">
-「なんだ？
-　まあいい、呼んでくれ」
+<name "Darx">
+"What?
+ Well, okay.
+ Call her in."
 #
-<name "商会メイド" "!AC0092">
-「はい」
+<name "Company Maid" "!AC0092">
+"Yes, sir."
 #
 <removesprite -1 11>
-<name "イシュの元部下" "!SB0043">
-「あ、あう、お、お会いできて光栄です」
+<name "Ish's Subordinate" "!SB0043">
+"O-Ooh...
+ I-It's an honor to see you."
 #
-<name "ダークス">
-「どういった用件だ？」
+<name "Darx">
+"What can I do for you?"
 #
-<name "イシュの元部下" "!SB0044">
-「その魔王様、私達の事、怒ってませんか？」
+<name "Ish's Subordinate" "!SB0044">
+"Um, aren't you angry at us?"
 #
-<name "ダークス">
-「？」
+<name "Darx">
+"Hm?"
 #
-<name "イシュの元部下" "!SB0045">
-「私達も、イシュ様と一緒になってここを攻撃した
-　から」
+<name "Ish's Subordinate" "!SB0045">
+"Because we attacked here with Ish too."
 #
-<name "ダークス">
-「ああ、そういう意味じゃ怒っている」
+<name "Darx">
+"Yeah, I'm mad as far as that's concerned."
 #
-<name "ダークス">
-「だが、今のお前らはここの住民だ」
+<name "Darx">
+"But you're citizens here now."
 #
-<name "ダークス">
-「過去の罪で、罰したりはしないぞ」
+<name "Darx">
+"I won't punish you for past crimes."
 #
-<name "イシュの元部下" "!SB0046">
-「で、でも……その……」
+<name "Ish's Subordinate" "!SB0046">
+"B-But... um..."
 #
-<name "ダークス">
-「ん？」
+<name "Darx">
+"Hm?"
 #
-<name "イシュの元部下" "!SB0047">
-「ば、罰を貰った方が、楽になれるんです」
+<name "Ish's Subordinate" "!SB0047">
+"I-It might be easier for us if we are
+ punished."
 #
-<name "ダークス">
-「罰して欲しいのか」
+<name "Darx">
+"You want me to punish you?"
 #
-<name "イシュの元部下" "!SB0048">
-「は、はい。
-　ここで生活を始めて、自分達の行いを反省しまし
-　た。
-　魔王様の怒りも納得できます」
+<name "Ish's Subordinate" "!SB0048">
+"Y-Yes.
+ Once we began living her, we came to regret
+ what we did.
+ We understand your anger."
 #
-<name "イシュの元部下" "!SB0049">
-「だから、ば、罰を受ける前にここの住民になった
-　事に抵抗が……」
+<name "Ish's Subordinate" "!SB0049">
+"So, i-it feels right that we should have to
+ pay for what we did before becoming
+ citizens..."
 #
-<name "ダークス">
-「わかった。
-　罰をやろう」
+<name "Darx">
+"I see.
+ Then I'll punish you."
 #
-<name "ダークス">
-「お前だけか？」
+<name "Darx">
+"Just you?"
 #
-<name "イシュの元部下" "!SB0050">
-「いえ、他にも何人か」
+<name "Ish's Subordinate" "!SB0050">
+"No, there's some others too."
 #
-<name "ダークス">
-「そうか。
-　では、そいつらを集めて罰を与えよう」
+<name "Darx">
+"I see.
+ Then let's round them up and deliver 
+ punishment."
 #
-<name "イシュの元部下" "!SB0051">
-「よろしくお願いします」
+<name "Ish's Subordinate" "!SB0051">
+"Thank you very much."
 #
-<name "ダークス">
-「ああ、参考までに聞きたいが、Ｈな罰と、労働的
-　な罰、どっちが良い？」
+<name "Darx">
+"Oh, and just so I know, do you prefer sexual
+ punishment, or hard labor?"
 #
-<name "イシュの元部下" "!SB0052">
-「…………Ｈな罰って」
+<name "Ish's Subordinate" "!SB0052">
+"...Sexual punishment."
 #
 <background "ev065a02.agf" 10>
-<name "イシュの元部下" "!SB0053">
-「イシュ様がされてたようなアレですよね」
+<name "Ish's Subordinate" "!SB0053">
+"Will it be the same as you did to Ish?"
 #
-<name "ダークス">
-「あれより、ハードだ」
+<name "Darx">
+"It'll be much worse than that."
 #
-<name "イシュの元部下" "!SB0054">
-「ひっ」
+<name "Ish's Subordinate" "!SB0054">
+"Eep!"
 #
-<name "ダークス">
-「で、どうする？」
+<name "Darx">
+"So, what's your choice?"
 #
-<name "イシュの元部下" "!SB0055">
-「う、うう……ば、罰は与えられるものです。
-　どんな罰でも甘んじて受けます」
+<name "Ish's Subordinate" "!SB0055">
+"O-Oooh... P-Punishment is punishment.
+ I'll accept whatever punishment it is."
 #
-<name "ダークス">
-「わかった」
+<name "Darx">
+"All right."
 #
-　当然、Ｈな罰で頑張って貰った。
+Naturally, I sexually punished them thoroughly.
 #
 \x78\x78

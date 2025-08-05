@@ -1,60 +1,65 @@
 ﻿<music 11>
 <background "bg008a0.agf" 10>
 <sprite "ta34b004.agf" 4 4 11>
-<name "司会メイド" "!DC0504">
-「第二回、クイズ大会！」
+<name "Host Maid" "!DC0504">
+"It's time for the second quiz tournament!"
 #
 <sprite "ta34b000.agf" 4 4 12>
-<name "司会メイド" "!DC0505">
-「今回は、本戦までにいくつかの予選があります。
-　頑張って下さいね」
+<name "Host Maid" "!DC0505">
+"This time, there will be several qualifying
+ rounds before the main competition.
+ Good luck, everyone."
 #
 <removesprite -1 11>
-<name "前回参加者" "!ZE0264">
-「おお、学習している！」
+<name "Former Participant" "!ZE0264">
+"Ooh! I've been studying!"
 #
-<name "苦笑する住民" "!JA0169">
-「前回は、終わるまで五日位掛かったもんな」
+<name "Nervous Citizen" "!JA0169">
+"The last one took five days to finish."
 #
-<name "前回参加者" "!ZE0265">
-「最終的に、出題者と解答者の阿吽の呼吸で、終わ
-　らせたような感じだったしな」
+<name "Former Participant" "!ZE0265">
+"In the end, it felt like the host and the
+ contestants were all working together to
+ end it."
 #
-<name "知らない住民" "!LB0187">
-「どういう事？」
+<name "Unaware Citizen" "!LB0187">
+"What do you mean?"
 #
-<name "前回参加者" "!ZE0266">
-「出題者側が、常に答えが○の問題を出し続けて、
-　解答者側は×に一人づつ送り込んでいったんだ」
+<name "Former Participant" "!ZE0266">
+"The host kept giving only questions where
+ the answer was true, and the contestants
+ sent someone one by one to the false side."
 #
-<name "前回参加者" "!ZE0267">
-「で、出題者側が答えが×の問題を出して決まり。
-　終わった時の一体感は、凄かったぜ」
+<name "Former Participant" "!ZE0267">
+"And then, the host gave a question where the
+ answer was false, and that settled it.
+ The sense of unity when it was over was
+ incredible."
 #
-<name "知らない住民" "!LB0188">
-「へ、へぇ」
+<name "Unaware Citizen" "!LB0188">
+"O-Oh."
 #
-<name "前回参加者" "!ZE0268">
-「ともかく、予選だ。
-　頑張ろうぜ！」
+<name "Former Participant" "!ZE0268">
+"Anyway, time for the qualifying round.
+ Good luck!"
 #
-<name "知らない住民" "!LB0189">
-「う、うん」
+<name "Unaware Citizen" "!LB0189">
+"Y-Yeah."
 #
 <background "bg015a0.agf" 10>
-　期間が短く終わり、好評だった。
+It was short, and popular.
 #
 <music 4>
 <background "bg009a0.agf" 10>
 <sprite "ta34b000.agf" 4 4 11>
-<name "司会メイド" "!DC0506">
-「な、なんとか一日で終わった」
+<name "Host Maid" "!DC0506">
+"W-We managed to finish in a single day."
 #
 <removesprite -1 11>
 <sprite "ta34a000.agf" 2 4 11>
 <sprite "ta34b000.agf" 6 5 11>
-<name "商会メイド" "!PC0541">
-「ご苦労様」
+<name "Company Maid" "!PC0541">
+"Good work."
 #
 <removesprite -1 11>
 \x2B\x78\x78

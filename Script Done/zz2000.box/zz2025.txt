@@ -1,38 +1,38 @@
 ﻿<music 11>
 <background "bg008a0.agf" 10>
-<name "参加する住民" "!ZD0164">
-「釣り大会は構わないが、ここの池って作られた池
-　だろ？
-　魚、居るのか？」
+<name "Participating Citizen" "!ZD0164">
+"I'm fine with a fishing tournament, but isn't
+ that pond man-made?
+ Are there any fish?"
 #
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!DC0491">
-「ちゃんと居ますよ。
-　生態系を考えて、色々と放流されているんです」
+<name "Company Maid" "!DC0491">
+"There are fish.
+ Many of been released there in consideration
+ for the ecosystem."
 #
-<name "参加する住民" "!ZD0165">
-「へぇ。
-　あ、でも、それだったら俺達が釣ったらマズいん
-　じゃないのか？
-　生態系が崩れるだろ」
+<name "Participating Citizen" "!ZD0165">
+"Oh? But in that case, isn't it bad to catch
+ them?
+ You'll destroy the ecosystem."
 #
-<name "商会メイド" "!DC0516">
-「いえ、それが……」
+<name "Company Maid" "!DC0516">
+"No, it's..."
 #
-<name "参加する住民" "!ZD0166">
-「ん？」
+<name "Participating Citizen" "!ZD0166">
+"Hm?"
 #
-<name "商会メイド" "!DC0492">
-「大型魚を放流し過ぎて、釣らないとマズい状況で
-　して……
-　キャッチ＆イートでお願いします」
+<name "Company Maid" "!DC0492">
+"We released too many big fish, and we'll be
+ in trouble if they're not caught...
+ Catch and eat, please."
 #
-<name "参加する住民" "!ZD0167">
-「池の生態系が俺達釣り人の手に掛かっているワケ
-　だな。
-　任せておけ！」
+<name "Participating Citizen" "!ZD0167">
+"Meaning that the pond's ecosystem is in the
+ hands of us fishermen.
+ Leave it us!"
 #
 <removesprite -1 11>
-　釣り大会は、賑わった。
+The fishing tournament was a success.
 #
 \x78\x78

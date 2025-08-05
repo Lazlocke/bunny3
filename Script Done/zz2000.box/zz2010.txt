@@ -1,221 +1,228 @@
 ﻿<music 11>
 <background "bg008a0.agf" 10>
-<name "ダークス">
-「景気対策に、祭りをするか」
+<name "Darx">
+"How about we put on a festival to stimulate
+ business?"
 #
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!AC0288">
-「祭りですか？
-　良いですね。
-　規模はどれぐらいにしますか？」
+<name "Company Maid" "!AC0288">
+"A festival?
+ That sounds nice.
+ How big will it be?"
 #
-<name "ダークス">
-「派手にやりたいが……
-　派手過ぎても後が大変だ」
+<name "Darx">
+"I'd want an impressive one, but overdoing it
+ would be its own headache."
 #
-<name "商会メイド" "!AC0289">
-「ですね」
+<name "Company Maid" "!AC0289">
+"Yeah."
 #
-<name "ダークス">
-「適度に頼む」
+<name "Darx">
+"Keep it in moderation, please."
 #
-<name "商会メイド" "!AC0290">
-「お任せください」
+<name "Company Maid" "!AC0290">
+"Leave it to me."
 #
 <removesprite -1 11>
 <music 13>
 <background "ev051a00.agf" 10>
-<name "パニバーナ" "!DA0080">
-「盛り上がってるー！
-　次の曲、いくわよー！」
+<name "Paniverna" "!DA0080">
+"Get excited!
+ It's time for the next song!"
 #
 <background "ev051a01.agf" 10>
-<name "応援する住民" "!RB0172">
-「いえー！」
+<name "Cheering Citizen" "!RB0172">
+"Yay!"
 #
-<name "驚く住民" "!LB0181">
-「うわっ。
-　すごい！」
+<name "Surprised Citizen" "!LB0181">
+"Oooh.
+ Amazing!"
 #
-<name "気付いた住民" "!GB0258">
-「あれ、パニバーナ様？」
+<name "Aware Citizen" "!GB0258">
+"Oh, is that Paniverna?"
 #
-<name "驚く住民" "!LB0182">
-「そうみたい。
-　もうちょっと前に行かない？」
+<name "Surprised Citizen" "!LB0182">
+"Looks like it.
+ Want to get a little closer?"
 #
-<name "気付いた住民" "!GB0259">
-「ええ、いくわよっ！」
+<name "Aware Citizen" "!GB0259">
+"Yeah, let's go!"
 #
-<name "熱狂的な住民" "!MB0151">
-「出遅れた！
-　まさか、パニバーナ様が来るなんて予想していな
-　かった！」
+<name "Fan Citizen" "!MB0151">
+"I'm late!
+ I didn't expect Paniverna to be here!"
 #
-<name "熱狂的な住民" "!MB0152">
-「しかも、エコ様、ダー様、エリザベス様との臨時
-　ユニットだなんて！」
+<name "Fan Citizen" "!MB0152">
+"And I can't believe she's doing a collab 
+ with Eko, Dah, and Elizabeth!"
 #
-<name "全力な住民" "!CB0182">
-「悔やむのは後だ！
-　遅れた分、やる事はわかっているな！」
+<name "All-Out Citizen" "!CB0182">
+"Regret your lateness later!
+ You know what you have to do to make up for
+ it!"
 #
-<name "覚悟を決めた住民" "!KB0272">
-「おう！
-　見せてやろうぜ、俺達の結束力！」
+<name "Prepared Citizen" "!KB0272">
+"Yeah!
+ Let's show them the power of our solidarity!"
 #
-<name "指揮する住民" "!BC0162">
-「鉄壁と呼ばれる警備体制で、観客とスタッフの安
-　全を守るんだ！」
+<name "Commanding Citizen" "!BC0162">
+"We will protect the safety of the audience
+ and the staff with our iron wall!"
 #
-<name "熱狂的な住民" "!MB0153">
-「おお！」
+<name "Fan Citizen" "!MB0153">
+"Yeah!"
 #
-<name "管理メイド" "!DC0454">
-「あの、どんどん人が集まっているんですけど……」
+<name "Managing Maid" "!DC0454">
+"Um, more and more people are coming..."
 #
-<name "総監督メイド" "!PC0526">
-「収拾がつかなくなる前に、休憩を入れて」
+<name "Supervising Maid" "!PC0526">
+"Call an intermission before we lose control."
 #
-<name "管理メイド" "!DC0455">
-「は、はい」
+<name "Managing Maid" "!DC0455">
+"Y-Yes, ma'am."
 #
-<name "総監督メイド" "!PC0527">
-「舞台を休ませるワケにはいかないから、次の出番
-　の方に……」
+<name "Supervising Maid" "!PC0527">
+"We can't go up on stage, so we need to signal
+ whoever's going next..."
 #
-<name "管理メイド" "!DC0456">
-「あの、休憩の指示ボードを出したのですが、無視
-　されました」
+<name "Managing Maid" "!DC0456">
+"Um, I put up a sign saying to go to
+ intermission but they ignored it."
 #
-<name "総監督メイド" "!PC0528">
-「指示ボードが見えなかったとかは？」
+<name "Supervising Maid" "!PC0528">
+"Could they not see the sign?"
 #
-<name "管理メイド" "!DC0457">
-「思いっきりに睨まれましたから、確実に見ている
-　と思います」
+<name "Managing Maid" "!DC0457">
+"She was staring right at me with daggers in
+ her eyes, so I'm pretty sure she saw it."
 #
-<name "総監督メイド" "!PC0529">
-「…………………………えっと」
+<name "Supervising Maid" "!PC0529">
+".........Um..."
 #
-<name "総監督メイド" "!PC0530">
-「指示ボードに“魔王様からのお願い”って入れて
-　再トライ。
-　ああ、ハートマークを意味ありげに散らして」
+<name "Supervising Maid" "!PC0530">
+"Write 'Request from the Overlord' on it and
+ try again.
+ Oh, and put heart marks suggestively all
+ around it."
 #
-<name "管理メイド" "!DC0458">
-「は、はい」
+<name "Managing Maid" "!DC0458">
+"O-Okay."
 #
-<name "パニバーナ" "!DA0081">
-「ちょっと早いけど、次の曲でラストー！」
+<name "Paniverna" "!DA0081">
+"It's a little early, but next song's the last
+ for now!"
 #
-<name "管理メイド" "!DC0459">
-「効果絶大でした」
+<name "Managing Maid" "!DC0459">
+"It worked perfectly."
 #
-<name "総監督メイド" "!PC0531">
-「よろしい」
+<name "Supervising Maid" "!PC0531">
+"Good."
 #
-<name "総監督メイド" "!PC0532">
-「盛り上がり過ぎは困るけど、冷え過ぎても困るか
-　ら、これからが本番よ」
+<name "Supervising Maid" "!PC0532">
+"We don't want things to get too heated up,
+ but we don't want the mood to die either.
+ We're just getting started."
 #
-<name "管理メイド" "!DC0461">
-「はい！」
+<name "Managing Maid" "!DC0461">
+"Yes, ma'am!"
 #
 <music 11>
 <background "bg013a0.agf" 10>
 <sprite "ta34a002.agf" 4 4 11>
-<name "商会メイド" "!AC0291">
-「現場、大混乱でしたね」
+<name "Company Maid" "!AC0291">
+"It was chaos."
 #
-<name "ダークス">
-「パニバーナを呼ぶからだろ？
-　あれでも歌って踊る事に関しては、ファンが居る
-　ぐらいだぞ。
-　俺もそれを知った時は驚いたけど」
+<name "Darx">
+"Because you invited Paniverna.
+ She has a genuine fanclub when it comes to
+ singing and dancing.
+ I was surprised when I found out too."
 #
-<name "商会メイド" "!AC0292">
-「私が呼んだんじゃないです」
+<name "Company Maid" "!AC0292">
+"I didn't invite her."
 #
-<name "ダークス">
-「え？」
+<name "Darx">
+"Huh?"
 #
 <removesprite -1 11>
 <sprite "ta14a022.agf" 4 4 11>
-<name "パニバーナ" "!DA0082">
-「自主参加でーす」
+<name "Paniverna" "!DA0082">
+"I decided to participate on my own."
 #
-<name "ダークス">
-「パニ」
+<name "Darx">
+"Pani."
 #
-<name "ダークス">
-「来て大丈夫なのか？」
+<name "Darx">
+"Is it really okay for you to be here?"
 #
-　マクドゥが煩いんじゃないか？
-#
-<sprite "ta14a005.agf" 4 4 12>
-<name "パニバーナ" "!DA0083">
-「自主参加の呼びかけをラキアのお店でやっていま
-　したから、大丈夫かと。
-　問題があれば、弾かれていると思いますし」
-#
-<name "ダークス">
-「なるほど」
-#
-<sprite "ta14a006.agf" 4 4 12>
-<name "パニバーナ" "!DA0084">
-「仕事で来たからには精一杯、盛り上げますよ」
-#
-<name "ダークス">
-「おう。
-　任せたぞ」
+Won't Macdo have something to say about that?
 #
 <sprite "ta14a005.agf" 4 4 12>
-<name "パニバーナ" "!DA0085">
-「はい。
-　そして今晩は盛り上がった私と……」
+<name "Paniverna" "!DA0083">
+"I was here on business for Rakia's shop, so
+ I can do what I want on my own.
+ If there's a problem, it's that I was
+ skipping out on my work."
 #
-<name "ダークス">
-「その理屈でいうと、一緒に来た奴等全員を相手に
-　しないといけなくないか？」
-#
-　舞台の出演者リストに、知った名前がいくつかあ
-　る。
+<name "Darx">
+"I see."
 #
 <sprite "ta14a006.agf" 4 4 12>
-<name "パニバーナ" "!DA0086">
-「細かい事は気にしない、気にしない」
+<name "Paniverna" "!DA0084">
+"Since I'm here on business anyway, it's 
+ better to make things exciting."
+#
+<name "Darx">
+"Yeah.
+ You got that right."
+#
+<sprite "ta14a005.agf" 4 4 12>
+<name "Paniverna" "!DA0085">
+"Yep.
+ So I expect a lot of excitement tonight for
+ me..."
+#
+<name "Darx">
+"By that logic, doesn't that mean excitement
+ for all the others who we with you on stage?"
+#
+There's quite a few names on that list I 
+recognize.
+#
+<sprite "ta14a006.agf" 4 4 12>
+<name "Paniverna" "!DA0086">
+"Don't sweat the details."
 #
 <removesprite -1 11>
 <sprite "ta34a000.agf" 4 4 11>
-<name "管理メイド" "!PC0534">
-「パニバーナ様。
-　すみません、次の出演時間に関してご相談が……」
+<name "Managing Maid" "!PC0534">
+"Miss Paniverna, excuse me, but we need to
+ speak about going back on stage..."
 #
 <removesprite -1 11>
 <sprite "ta14a006.agf" 4 4 11>
-<name "パニバーナ" "!DA0087">
-「すぐに行くわ」
+<name "Paniverna" "!DA0087">
+"I'll be right there."
 #
 <sprite "ta14a005.agf" 4 4 12>
-<name "パニバーナ" "!DA0088">
-「それでは、魔王様。
-　私の舞台、楽しんでくださいね」
+<name "Paniverna" "!DA0088">
+"Well, then, Overlord.
+ I hope you enjoy my performance."
 #
-<name "ダークス">
-「おう」
+<name "Darx">
+"Yeah."
 #
 <removesprite -1 11>
 <background "bg015a0.agf" 10>
-　祭りは大いに賑わった。
+The festival was lively.
 #
 <music 17>
 <background "bg016a0.agf" 10>
-　そして、その日の晩、俺のベッドも賑わった。
+And my bed that night was lively as well.
 #
-<name "パニバーナ" "!DA0089" "ka14a105.agf">
-「なんだかんだ言っても、しっかり相手をしてくれ
-　る魔王様が好き」
+<name "Paniverna" "!DA0089" "ka14a105.agf">
+"No matter what anybody says, I love my
+ Overlord who takes complete care of me."
 #
 <removesprite -1 11>
 \x2B\x78\x78

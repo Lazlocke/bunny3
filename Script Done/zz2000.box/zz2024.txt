@@ -1,35 +1,43 @@
 ﻿<music 11>
 <background "bg008a0.agf" 10>
-<name "気合の入る住民" "!MB0162">
-「避難訓練か、ふふふ……やってやるぜ！」
+<name "Spirited Citizen" "!MB0162">
+"An evacuation drill, huh?
+ Heheheh...
+ Let's do it!"
 #
-<name "思案する住民" "!CB0190">
-「おう、今回は冒険者野郎なんかには負けねぇ」
+<name "Thinking Citizen" "!CB0190">
+"Yeah.
+ I won't let some adventurer get the better of
+ me this time."
 #
-<name "気合の入る住民" "!MB0163">
-「前回はこの辺りで一般住民が捕まったんだ」
+<name "Spirited Citizen" "!MB0163">
+"Last time, the citizens were caught around
+ this area."
 #
-<name "思案する住民" "!CB0191">
-「あー、ここはあの店舗が問題だな。
-　視界の確保が出来ない」
+<name "Thinking Citizen" "!CB0191">
+"Ah, that store's the problem here.
+ You don't have a clear view from it."
 #
-<name "気合の入る住民" "!MB0164">
-「始まると同時に、店舗を壊すか？」
+<name "Spirited Citizen" "!MB0164">
+"So we wreck the store as soon as the drill
+ starts?"
 #
-<name "思案する住民" "!CB0192">
-「それは流石に……」
+<name "Thinking Citizen" "!CB0192">
+"That's perfect..."
 #
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!PC0539">
-「なんだか、避難訓練と言うより、住民ＶＳ冒険者
-　的なイベントになりつつありますね」
+<name "Company Maid" "!PC0539">
+"This is becoming less of an evacuation drill
+ and more of a citizens versus adventurers
+ event."
 #
-<name "ダークス">
-「まあ、これも避難訓練だからいいさ。
-　災害からの避難もキッチリさせるぞ」
+<name "Darx">
+"Well, that's also training for evacuation.
+ I'll make sure they're properly safe from any
+ actual disaster."
 #
-<name "商会メイド" "!PC0540">
-「はい」
+<name "Company Maid" "!PC0540">
+"Yes, sir."
 #
 <removesprite -1 11>
 \x2B\x78\x78

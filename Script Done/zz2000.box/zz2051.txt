@@ -1,59 +1,61 @@
 ﻿<music 11>
 <background "bg013a0.agf" 10>
 <sprite "ta21a119.agf" 4 4 11>
-<name "イシュ" "!AB0061">
-「ふひっ、ま、魔王様が呼んで……ぁぁぁ……」
+<name "Ish" "!AB0061">
+"Aaah!
+ T-The Overlord's calling...
+ Aaahh..."
 #
-<name "心配する街の住民" "!HC0031">
-「ア、アンタ。
-　大丈夫かい？」
+<name "Concerned Citizen" "!HC0031">
+"A-Are you okay?"
 #
 <sprite "ta21a114.agf" 4 4 12>
-<name "イシュ" "!AB0062">
-「ぁ、だ、大丈夫……だから、み、見ないで……」
+<name "Ish" "!AB0062">
+"Ah...
+ I-I'm fine... just... d-don't look at me..."
 #
 <sprite "ta21a119.agf" 4 4 12>
-<name "イシュ" "!AB0063">
-「ひぅぁ、い、行かないと……」
+<name "Ish" "!AB0063">
+"Aaah! 
+ I-I have to go..."
 #
 <removesprite -1 11>
-　……
+...
 #
-<name "見ていた街の住民" "!SB0040">
-「あれが例の子かい？」
+<name "Watching Citizen" "!SB0040">
+"That's the girl?"
 #
-<name "哀れむ街の住民" "!RB0039">
-「ええ」
+<name "Sympathetic Citizen" "!RB0039">
+"Yeah."
 #
-<name "見ていた街の住民" "!SB0041">
-「酷い事をした娘だけど、あそこまでの罰を受けて
-　るなら許してあげないとね」
+<name "Watching Citizen" "!SB0041">
+"She did a terrible thing, but she's been
+ punished so much, you've got to forgive her."
 #
-<name "哀れむ街の住民" "!RB0040">
-「そうね」
+<name "Sympathetic Citizen" "!RB0040">
+"I see."
 #
-<name "見ていた街の住民" "!SB0042">
-「でも、魔王様。
-　容赦無いわねぇ」
+<name "Watching Citizen" "!SB0042">
+"Still, the Overlord sure is merciless."
 #
-<name "哀れむ街の住民" "!RB0041">
-「うん」
+<name "Sympathetic Citizen" "!RB0041">
+"Yeah."
 #
 <music 3>
 <background "bg010a0.agf" 10>
-<name "ダークス">
-「あの、イシュさん。
-　君の膣内の俺の分身体、そろそろ回収させてくれ
-　ないかな？」
+<name "Darx">
+"Um, Ish.
+ Isn't it about time you let me take my 
+ tentacle out from your pussy?"
 #
 <sprite "ta21a001.agf" 4 4 11>
-<name "イシュ" "!AB0064">
-「お断りします」
+<name "Ish" "!AB0064">
+"No thank you."
 #
 <sprite "ta21a020.agf" 4 4 12>
-<name "イシュ" "!AB0065">
-「あ、あともう少し振動を激しくするのと、動きに
-　変化を……」
+<name "Ish" "!AB0065">
+"A-And could you vibrate it a little harder
+ and change up the movement a little..."
 #
 <removesprite -1 11>
 \x2B\x78\x78

@@ -1,26 +1,27 @@
 ﻿<music 11>
 <background "bg013a0.agf" 10>
-<name "小物店な住民" "!MB0158">
-「バザーをやるんだってよ」
+<name "Knick Knack Merchant" "!MB0158">
+"They're holding a bazaar."
 #
-<name "軽食屋な住民" "!CB0187">
-「ほう。
-　しかし、俺の家に出せる物は無いな……」
+<name "Snack Merchant" "!CB0187">
+"Oh?
+ But there's nothing from my place I can put
+ out..."
 #
-<name "小物店な住民" "!MB0159">
-「無駄な物、持たない主義だもんな。
-　だが、大丈夫だ」
+<name "Knick Knack Merchant" "!MB0159">
+"I try not to sell anything useless either.
+ But that's fine."
 #
-<name "小物店な住民" "!MB0160">
-「出店をやっても良いんだってよ」
+<name "Knick Knack Merchant" "!MB0160">
+"They said we could open a stall anyway."
 #
-<name "軽食屋な住民" "!CB0188">
-「ほう。
-　ならば、出番だな」
+<name "Snack Merchant" "!CB0188">
+"Oh?
+ Then you've got an opening."
 #
-<name "小物店な住民" "!MB0161">
-「ああ」
+<name "Knick Knack Merchant" "!MB0161">
+"Yeah."
 #
-　バザーは、盛況だった。
+The bazaar was a success.
 #
 \x78\x78

@@ -1,49 +1,50 @@
 ﻿<music 3>
 <background "bg010a0.agf" 10>
-<name "ナイン" "!QA0001" "ka22a114.agf">
-「ぁぁぁぁっ」
+<name "Nein" "!QA0001" "ka22a114.agf">
+"Aaaah!"
 #
-<name "ヤーヌ" "!NB0001" "ka24a115.agf">
-「ひぅぅぅぅっ」
+<name "Yahnu" "!NB0001" "ka24a115.agf">
+"Ahhhh!"
 #
-<name "ラフィノー" "!EB0065" "ka20a118.agf">
-「んぁぁぁぁぁぁっ」
+<name "Raffino" "!EB0065" "ka20a118.agf">
+"Aaaahhh!"
 #
 <sprite "ta21a003.agf" 4 4 11>
-<name "イシュ" "!AB0046">
-「どう？」
+<name "Ish" "!AB0046">
+"See?"
 #
 <removesprite -1 11>
-<name "ナイン" "!QA0002" "ka22a109.agf">
-「す、凄い」
+<name "Nein" "!QA0002" "ka22a109.agf">
+"W-Wow."
 #
-<name "ヤーヌ" "!NB0002" "ka24a115.agf">
-「ふぁ、く、癖になっちゃいそう」
+<name "Yahnu" "!NB0002" "ka24a115.agf">
+"Aah... I-I could get used to that."
 #
-<name "ラフィノー" "!EB0066" "ka20a118.agf">
-「イ、イシュだけ、ず、ずるい……」
+<name "Raffino" "!EB0066" "ka20a118.agf">
+"I-It's not fair j-just you get it..."
 #
 <sprite "ta21a004.agf" 4 4 11>
-<name "イシュ" "!AB0047">
-「えへへ」
+<name "Ish" "!AB0047">
+"Hahaha..."
 #
-<name "ダークス">
-「……」
+<name "Darx">
+"..."
 #
 <removesprite -1 11>
-　一部で、俺の分身体が人気になった。
+My other self achieved some level of
+notoriety.
 #
 <sprite "ta15a003.agf" 4 4 11>
-<name "マリーアリス" "!LA0056">
-「チラッ」
+<name "Marialis" "!LA0056">
+"..."
 #
-<name "マリーアリス" "!LA0057">
-「チラッチラッ」
+<name "Marialis" "!LA0057">
+"........."
 #
-<name "ダークス">
-「……」
+<name "Darx">
+"..."
 #
 <removesprite -1 11>
-　本物を捻じ込んでやった。
+I stuck the real thing in her.
 #
 \x78\x78

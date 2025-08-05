@@ -1,27 +1,28 @@
 ﻿<music 11>
 <background "bg008a0.agf" 10>
 <sprite "ta22a003.agf" 4 4 11>
-<name "ナイン" "!QA0094">
-「あ、落し物だ」
+<name "Nein" "!QA0094">
+"Ah, you dropped something."
 #
 <removesprite -1 11>
 <sprite "ta21a000.agf" 2 4 11>
 <sprite "ta22a003.agf" 6 5 11>
-<name "イシュ" "!AB0066">
-「良く見つけるね」
+<name "Ish" "!AB0066">
+"Well spotted."
 #
 <sprite "ta22a004.agf" 6 5 12>
-<name "ナイン" "!QA0095">
-「逆さまだからね」
+<name "Nein" "!QA0095">
+"It's because I'm upside down."
 #
 <sprite "ta21a001.agf" 2 4 12>
-<name "イシュ" "!AB0067">
-「まあ、羨ましいとは思わないけど。
-　パンツ丸出しだし」
+<name "Ish" "!AB0067">
+"Well, I'm not really jealous.
+ Your underwear is showing."
 #
 <sprite "ta22a009.agf" 6 5 12>
-<name "ナイン" "!QA0096">
-「うう、これは魔王様がそうしろって言うからぁ」
+<name "Nein" "!QA0096">
+"Oooh...
+ The Overlord says I have to be like this."
 #
 <removesprite -1 11>
 \x2B\x78\x78

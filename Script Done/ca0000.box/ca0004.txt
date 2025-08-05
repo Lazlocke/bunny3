@@ -1362,7 +1362,7 @@ The fishing tournament was a success.
 <name "Calculating Citizen" "!JA0168">
 "Huh? Oh! M-Me too!"
 #
-Both of them drew losers.
+Both of them lost.
 #
 \x0A\x44\x02\x76\x84\x01
 <exit>
@@ -1418,7 +1418,7 @@ Both of them drew losers.
 <background "bg008a0.agf" 10>
 <sprite "ta34b004.agf" 4 4 11>
 <name "Host Maid" "!DC0504">
-"It's time for the second quick tournament!"
+"It's time for the second quiz tournament!"
 #
 <sprite "ta34b000.agf" 4 4 12>
 <name "Host Maid" "!DC0505">

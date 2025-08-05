@@ -1,53 +1,58 @@
 ﻿<music 11>
 <background "bg013a0.agf" 10>
-<name "母親な住民" "!GB0265">
-「こら、部屋を片付けなさいっていつも言ってるで
-　しょ」
+<name "Motherly Citizen" "!GB0265">
+"Come on, I'm always having to tell you to
+ clean up your room."
 #
-<name "息子な住民" "!BC0176">
-「うるさいなー。
-　また今度」
+<name "Childish Citizen" "!BC0176">
+"Shut up.
+ I'll do it later."
 #
-<name "母親な住民" "!GB0266">
-「今度っていつよ。
-　清掃会じゃないとやらないとか言わないでしょうね」
+<name "Motherly Citizen" "!GB0266">
+"When's later?
+ Don't tell me you won't do it except during
+ cleaning festivals."
 #
-<name "息子な住民" "!BC0177">
-「ああ、それそれ、清掃会になったら片付けるよ」
+<name "Childish Citizen" "!BC0177">
+"Yeah, that's right.
+ I'll clean it up when it's cleaning festival
+ time."
 #
-<name "母親な住民" "!GB0267">
-「……清掃会になったらやるのね」
+<name "Motherly Citizen" "!GB0267">
+"...So you'll do it if it's a cleaning
+ festival?"
 #
-<name "息子な住民" "!BC0178">
-「ああ。
-　やるよ。
-　だからもう良いだろ」
+<name "Childish Citizen" "!BC0178">
+"Yeah. I'll do it.
+ Good enough then?"
 #
-<name "母親な住民" "!GB0268">
-「やらなかったら、酷いからね」
+<name "Motherly Citizen" "!GB0268">
+"If you don't, that'd be bad, right?"
 #
-<name "息子な住民" "!BC0179">
-「わかったって言ってるだろ。
-　……ん？
-　なんで、掃除道具を持ってくるんだよ」
+<name "Childish Citizen" "!BC0179">
+"I said I'd do it already.
+ ...Hm?
+ Why do you have all those cleaning supplies?"
 #
-<name "母親な住民" "!GB0270">
-「今日が、その清掃会だからさ」
+<name "Motherly Citizen" "!GB0270">
+"Because today is a cleaning festival."
 #
-<name "息子な住民" "!BC0180">
-「は、はかったなぁ！」
+<name "Childish Citizen" "!BC0180">
+"Y-You set me up!"
 #
-<name "母親な住民" "!GB0271">
-「万が一、魔王様が見にきたら、さすがのアンタで
-　も困るよね」
+<name "Motherly Citizen" "!GB0271">
+"If the Overlord saw this, you know you'd be
+ in trouble."
 #
-<name "息子な住民" "!BC0181">
-「く、くう……仕方が無い」
+<name "Childish Citizen" "!BC0181">
+"U-Urgh...
+ Fine, whatever."
 #
-　街が綺麗になり、住民に活力が湧いた。
+The city was cleaned up, and the citizens
+were motivated.
 #
-<name "母親な住民" "!GB0272">
-「できれば、毎週。
-　毎週お願いできませんか！」
+<name "Motherly Citizen" "!GB0272">
+"Every week, if we can!
+ Please, every single week!"
 #
 \x78\x78

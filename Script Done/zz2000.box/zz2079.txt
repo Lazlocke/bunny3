@@ -1,72 +1,70 @@
 ﻿<music 11>
 <background "bg013a0.agf" 10>
-<name "街の魚屋さん" "!BC0001">
-「ミアルテちゃん、海の魚が手に入ったよ。
-　どうだい？」
+<name "Fish Merchant" "!BC0001">
+"I've got some ocean fish, Miartei.
+ How about it?"
 #
 <sprite "ta03a005.agf" 4 4 11>
-<name "ミアルテ" "!SA0153">
-「じゃあ、それを二匹もらいましょう。
-　ああ、そことそれね。
-　痛んだのはいらないわ」
+<name "Miartei" "!SA0153">
+"Then I'll take two.
+ Oh, that one and that one.
+ I don't need them butchered."
 #
-<name "街の魚屋さん" "!BC0002">
-「かー、まいったねぇ。
-　さすがはミアルテちゃんだ。
-　良いヤツばっかり持っていくね」
+<name "Fish Merchant" "!BC0002">
+"Gah, you're killing me.
+ I should've known you'd take the best ones."
 #
 <sprite "ta03a004.agf" 4 4 12>
-<name "ミアルテ" "!SA0154">
-「料理は食材が命ですから」
+<name "Miartei" "!SA0154">
+"The ingredients are the soul of a dish." 
 #
-<name "街の魚屋さん" "!BC0003">
-「まいど。
-　ミアルテちゃん、美人だからこれサービスね」
+<name "Fish Merchant" "!BC0003">
+"Thank you.
+ A special price for your beauty."
 #
 <sprite "ta03a024.agf" 4 4 12>
-<name "ミアルテ" "!SA0155">
-「ありがとう。
-　また買いに来るわね」
+<name "Miartei" "!SA0155">
+"Thank you.
+ I'll be back another time."
 #
-<name "街の魚屋さん" "!BC0004">
-「よろしくー」
+<name "Fish Merchant" "!BC0004">
+"You're welcome."
 #
 <removesprite -1 11>
-　……
+...
 #
 <sprite "ta04a013.agf" 4 4 11>
-<name "ルーアルテ" "!RA0201">
-「お姉様、かなり馴染んでません？」
+<name "Rualtei" "!RA0201">
+"You get along with them pretty well."
 #
 <removesprite -1 11>
 <sprite "ta03a011.agf" 2 4 11>
 <sprite "ta04a013.agf" 6 5 11>
-<name "ミアルテ" "!SA0156">
-「そうかしら？」
+<name "Miartei" "!SA0156">
+"Do I?"
 #
 <sprite "ta04a010.agf" 6 5 12>
-<name "ルーアルテ" "!RA0202">
-「ええ、先に居る私より馴染んでいるように見え
-　ます」
+<name "Rualtei" "!RA0202">
+"Yes. Even more than me who was here first."
 #
 <sprite "ta03a023.agf" 2 4 12>
-<name "ミアルテ" "!SA0157">
-「つまり、ルーアルテは自分で買い物をあまりせず、
-　お料理もしなかったからじゃないかしら？」
+<name "Miartei" "!SA0157">
+"Isn't that because you don't cook for 
+ yourself, so you don't go shopping?"
 #
 <sprite "ta04a018.agf" 6 5 12>
-<name "ルーアルテ" "!RA0203">
-「あう」
+<name "Rualtei" "!RA0203">
+"Ooh..."
 #
 <sprite "ta03a005.agf" 2 4 12>
-<name "ミアルテ" "!SA0158">
-「ふふ。
-　ちゃんとお料理も教えてあげますよ。
-　今日も来るのでしょう」
+<name "Miartei" "!SA0158">
+"Haha.
+ I'll teach you how to properly cook.
+ You can come today too."
 #
 <sprite "ta04a026.agf" 6 5 12>
-<name "ルーアルテ" "!RA0204">
-「はい、お邪魔します」
+<name "Rualtei" "!RA0204">
+"Okay, thank you."
 #
 <removesprite -1 11>
 \x2B\x78\x78

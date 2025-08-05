@@ -1,11 +1,12 @@
 ﻿<music 11>
 <background "bg013a0.agf" 10>
-<name "主婦な住民" "!GB0273">
-「不用品を放出して、必要な物を集める」
+<name "Housewife Citizen" "!GB0273">
+"Set free what you don't need.
+ Collect what you do."
 #
-<name "主婦な住民" "!GB0274">
-「バザーって良いなぁ」
+<name "Housewife Citizen" "!GB0274">
+"Bazaars are great."
 #
-　バザーは、盛況だった。
+The bazaar was a success.
 #
 \x78\x78

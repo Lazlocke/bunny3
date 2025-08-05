@@ -1,47 +1,47 @@
 ﻿<music 13>
 <background "ev051a01.agf" 10>
-<name "聞きに来た住民" "!ZD0155">
-「パニバーナ様がもう歌っているぞ！」
+<name "Listening Citizen" "!ZD0155">
+"Paniverna's already singing!"
 #
-<name "悔しがる住民" "!MB0154">
-「ちい、出遅れた」
+<name "Bitter Citizen" "!MB0154">
+"Tch! We're late!"
 #
-<name "聞きに来た住民" "!ZD0156">
-「なーに、コールで出遅れを取り戻すぞ！」
+<name "Listening Citizen" "!ZD0156">
+"Come on, make up for it with a cheer!"
 #
-<name "悔しがる住民" "!MB0155">
-「ＯＫ！
-　コール内容は？」
+<name "Bitter Citizen" "!MB0155">
+"Okay!
+ What's the cheer?"
 #
-<name "素直な住民" "!CB0183">
-「ラブリーパニバーナだろ？」
+<name "Excited Citizen" "!CB0183">
+"Lovely Paniverna, right?"
 #
-<name "敬愛する住民" "!KB0273">
-「様を付けろ、様を！」
+<name "Passionate Citizen" "!KB0273">
+"Lady! Don't forget the lady!"
 #
-<name "素直な住民" "!CB0184">
-「ラブリーパニバーナ様か」
+<name "Excited Citizen" "!CB0184">
+"Lovely Lady Paniverna?"
 #
-<name "考える住民" "!BC0163">
-「ラブリーに違和感を感じる」
+<name "Pondering Citizen" "!BC0163">
+"Lovely feels weird to me."
 #
-<name "提案する住民" "!ZE0249">
-「セクシー？」
+<name "Suggesting Citizen" "!ZE0249">
+"Sexy?"
 #
-<name "考える住民" "!BC0164">
-「違うな」
+<name "Pondering Citizen" "!BC0164">
+"No."
 #
-<name "代案を出す住民" "!ZF0151">
-「ワイルド」
+<name "Alternative Citizen" "!ZF0151">
+"Wild."
 #
-<name "考える住民" "!BC0165">
-「ワイルドパニバーナ様……」
+<name "Pondering Citizen" "!BC0165">
+"Wild Lady Paniverna..."
 #
-<name "聞きに来た住民" "!ZD0157">
-「よし、決まりだ！」
+<name "Listening Citizen" "!ZD0157">
+"Okay, that's it!"
 #
-　祭りは大いに賑わった。
+It was a lively festival.
 #
-　コールが受けたかどうかは不明だ。
+I don't know if she even heard the cheer.
 #
 \x78\x78

@@ -1,84 +1,86 @@
 ﻿<music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta21a114.agf" 4 4 11>
-<name "イシュ" "!AB0029">
-「ま、魔王様……お呼びですか？」
+<name "Ish" "!AB0029">
+"O-Overlord... you called me?"
 #
-<name "ダークス">
-「ああ、呼んだ。
-　しかし、時間が掛かったな」
+<name "Darx">
+"Yeah, I did.
+ You took a while to get here."
 #
 <sprite "ta21a119.agf" 4 4 12>
-<name "イシュ" "!AB0030">
-「そ、それは……その……ぅぁ……」
+<name "Ish" "!AB0030">
+"W-Well, um... ah..."
 #
 <removesprite -1 11>
-　イシュの足はフラフラしている。
+Her legs are quivering.
 #
-　まあ、当然か。
+Well, of course.
 #
-　イシュの前の穴には、俺のモノサイズの分身体が
-　捻じ込まれたままだ。
+A piece of my other body is buried inside her
+pussy right now.
 #
-　常に膨張したサイズで挿入されており、その分身
-　体を振動する事が呼び出しの合図となっている。
+It's big enough to fill her, and I can vibrate
+it when I want to call her to me.
 #
-　そして俺は、今日、六回目の呼び出しを行ってい
-　た。
+This is the sixth time I've called her today.
 #
 <sprite "ta21a119.agf" 4 4 11>
-<name "イシュ" "!AB0031">
-「ぅぅ……も、もう、許して……」
+<name "Ish" "!AB0031">
+"Ooh...
+ P-Please, no more..."
 #
-<name "ダークス">
-「別に怒っていないぞ。
-　ただ、呼び出しただけだ」
+<name "Darx">
+"I'm not mad at you.
+ I just wanted to see you."
 #
-<name "ダークス">
-「あ、用件はそこの紙を取って、持ってきてくれ」
+<name "Darx">
+"Oh, I need you to pick up that paper over
+ there and bring it to me."
 #
-<name "イシュ" "!AB0032">
-「うう……」
+<name "Ish" "!AB0032">
+"Ooh..."
 #
 <removesprite -1 11>
-　ちなみに、イシュはまだこの街の住民ではない。
+She's not a citizen in the city yet.
 #
-　俺が認めていない。
+I haven't accepted her.
 #
-　現在の立場は、ただの捕虜だ。
+Right now, she's still technically a prisoner.
 #
 <sprite "ta21a114.agf" 4 4 11>
-<name "イシュ" "!AB0033">
-「は、はい……これですか」
+<name "Ish" "!AB0033">
+"Y-Yes, sir...
+ This one?"
 #
-<name "ダークス">
-「ああ、ご苦労。
-　戻って良いぞ」
+<name "Darx">
+"Yeah. Thanks.
+ You can go."
 #
 <sprite "ta21a115.agf" 4 4 11>
-<name "イシュ" "!AB0034">
-「うぁ、は、はい」
+<name "Ish" "!AB0034">
+"Ooh...
+ Y-Yes, sir."
 #
 <removesprite -1 11>
-　イシュはヨロヨロと退室する。
+She staggers out of the room.
 #
-　……
+...
 #
 <sprite "ta34a002.agf" 4 4 11>
-<name "商会メイド" "!DC0114">
-「魔王様にしては、かなり厳しいのではありません
-　か？」
+<name "Company Maid" "!DC0114">
+"Isn't this unusually cruel, even for you?"
 #
-<name "ダークス">
-「ふん」
+<name "Darx">
+"Hmph."
 #
-<name "ダークス">
-「まあ、近いうちに住民にしてやる。
-　それまでだ」
+<name "Darx">
+"Well, I'll let her be a citizen soon.
+ But until then..."
 #
 <sprite "ta34a000.agf" 4 4 12>
-<name "商会メイド" "!DC0115">
-「そのお言葉で、安心致しました」
+<name "Company Maid" "!DC0115">
+"It's a relief to hear that."
 #
 <removesprite -1 11>
 \x2B\x78\x78
