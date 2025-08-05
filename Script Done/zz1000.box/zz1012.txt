@@ -1,72 +1,74 @@
 ﻿<music 3>
 <background "bg010a0.agf" 10>
-<name "ダークス">
-「生活は落ち着いたか？」
+<name "Darx">
+"Have you settled in to living here?"
 #
 <sprite "ta03a004.agf" 4 4 11>
-<name "ミアルテ" "!SA0116">
-「はい」
+<name "Miartei" "!SA0116">
+"Yes."
 #
-<name "ダークス">
-「希望通り、お前とルーアルテは隣同士の家を与え
-　たけど……それで良かったのか？」
+<name "Darx">
+"I gave you and Rualtei houses next to each
+ other like you asked...
+ Are you sure about that?"
 #
 <removesprite -1 11>
 <sprite "ta04a012.agf" 4 4 11>
-<name "ルーアルテ" "!RA0192">
-「私は一緒の方が……」
+<name "Rualtei" "!RA0192">
+"I'd rather live with you..."
 #
 <removesprite -1 11>
 <sprite "ta03a005.agf" 2 4 11>
 <sprite "ta04a012.agf" 6 5 11>
-<name "ミアルテ" "!SA0117">
-「私も一緒の方が良かったのですが、それではお互
-　いの為になりません。
-　何度も言いましたよね」
+<name "Miartei" "!SA0117">
+"I would also like to live with you, but that
+ isn't good for either of us.
+ I've explained that to you many times."
 #
 <sprite "ta03a004.agf" 2 4 12>
-<name "ミアルテ" "!SA0118">
-「隣同士が譲歩の限界です」
+<name "Miartei" "!SA0118">
+"Neighbors are the closest I'll accept."
 #
 <sprite "ta04a013.agf" 6 5 12>
-<name "ルーアルテ" "!RA0193">
-「は、はい……」
+<name "Rualtei" "!RA0193">
+"O-Okay..."
 #
 <removesprite -1 11>
-　一緒に住むのも、隣同士も同じようなものだと思
-　うが……まあ、言及しないで置こう。
+I feel like that's basically the same as
+living together, but...
+Well, I don't need to say anything.
 #
-<name "ダークス">
-「では、今日からお前達は俺の部下だ。
-　文句は無いな」
+<name "Darx">
+"So, from now on, you're under me.
+ We're okay with that?"
 #
 <sprite "ta03a004.agf" 2 4 11>
 <sprite "ta04a001.agf" 6 5 11>
-<name "ミアルテ" "!SA0119">
-「はい」
+<name "Miartei" "!SA0119">
+"Yes."
 #
 <sprite "ta04a000.agf" 6 5 12>
-<name "ルーアルテ" "!RA0194">
-「はい」
+<name "Rualtei" "!RA0194">
+"Yes."
 #
 <sprite "ta03a005.agf" 2 4 12>
-<name "ミアルテ" "!SA0120">
-「姉妹共々、よろしくお願いします」
+<name "Miartei" "!SA0120">
+"We sisters will serve you."
 #
 <removesprite -1 11>
 <music 11>
 <background "bg008a0.agf" 10>
 <sprite "ta05a000.agf" 4 4 11>
-<name "キュリハ" "!FA0196">
-「ルーアルテはともかく、ミアルテまで……」
+<name "Kyuriha" "!FA0196">
+"Not just Rualtei, but Miartei too..."
 #
 <sprite "ta05a001.agf" 4 4 12>
-<name "キュリハ" "!FA0197">
-「これは……」
+<name "Kyuriha" "!FA0197">
+"This is..."
 #
 <sprite "ta05a020.agf" 4 4 12>
-<name "キュリハ" "!FA0198">
-「………………」
+<name "Kyuriha" "!FA0198">
+"........."
 #
 <removesprite -1 11>
 \x2B\x78\x78

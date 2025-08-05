@@ -1,94 +1,96 @@
 ﻿<music 11>
 <background "bg008a0.agf" 10>
 <sprite "ta10a001.agf" 4 4 11>
-<name "フォーゼロッテ" "!XA0124">
-「ところで、エカテー」
+<name "Forzelotte" "!XA0124">
+"A word, Ekate."
 #
 <removesprite -1 11>
 <sprite "ta13a000.agf" 2 4 11>
 <sprite "ta10a001.agf" 6 5 11>
-<name "エカテー" "!TA0016">
-「なんですか？」
+<name "Ekate" "!TA0016">
+"What is it?"
 #
 <sprite "ta10a010.agf" 6 5 12>
-<name "フォーゼロッテ" "!XA0125">
-「貴様、魔王の妻は自分だと人間に吹聴しているそ
-　うだな」
+<name "Forzelotte" "!XA0125">
+"I hear you have been telling humans that you
+ are the wife of the Overlord."
 #
-<name "エカテー" "!TA0017">
-「え、あ、えっと……」
+<name "Ekate" "!TA0017">
+"Huh? Oh, um..."
 #
 <sprite "ta10a009.agf" 6 5 12>
-<name "フォーゼロッテ" "!XA0126">
-「虚言はルール違反じゃないか？
-　虚言は」
+<name "Forzelotte" "!XA0126">
+"Isn't lying against the rules?
+ That is a lie."
 #
-<name "エカテー" "!TA0018">
-「で、ですよねぇ」
+<name "Ekate" "!TA0018">
+"Y-You're right."
 #
 <sprite "ta10a008.agf" 6 5 12>
-<name "フォーゼロッテ" "!XA0127">
-「広い心を持つ私とて、キレる事はあるのだから、
-　ほどほどにな」
+<name "Forzelotte" "!XA0127">
+"I am magnanimous, but my patience does have
+ its limits.
+ Do not test it."
 #
-<name "エカテー" "!TA0019">
-「はい」
+<name "Ekate" "!TA0019">
+"Yes, ma'am."
 #
 <removesprite -1 11>
 <music 3>
 <background "bg010a0.agf" 10>
-<name "ダークス">
-「流石の貫禄だな」
+<name "Darx">
+"You've got quite the presence."
 #
 <sprite "ta10a001.agf" 4 4 11>
-<name "フォーゼロッテ" "!XA0128">
-「ん？」
+<name "Forzelotte" "!XA0128">
+"Hm?"
 #
-<name "ダークス">
-「エカテーが素直に従うからさ」
+<name "Darx">
+"You've got Ekate cowed."
 #
 <sprite "ta10a005.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0129">
-「ああ……
-　アレは小さい時から私に仕えていたからな」
+<name "Forzelotte" "!XA0129">
+"Ah...
+ That's because she's served me since she was
+ a little girl."
 #
-<name "ダークス">
-「そうなのか？」
+<name "Darx">
+"Really?"
 #
 <sprite "ta10a006.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0130">
-「うむ。
-　脆弱な娘だったが、苦労して今の強さを手に入れ
-　た。
-　その点は認めるのだが……」
+<name "Forzelotte" "!XA0130">
+"Mmhmm.
+ She was a delicate girl who struggled to
+ achieve the strength she has now.
+ I do admit that."
 #
 <sprite "ta10a012.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0131">
-「どうも、子供っぽい部分が抜けていない」
+<name "Forzelotte" "!XA0131">
+"But the childish side of her still remains."
 #
 <sprite "ta10a020.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0132">
-「お前と会ってから、さらにだ」
+<name "Forzelotte" "!XA0132">
+"Even moreso since she met you."
 #
-<name "ダークス">
-「あはは」
+<name "Darx">
+"Hahaha..."
 #
 <sprite "ta10a005.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0133">
-「まあ、私が世話をしきれん分、お主の助けとなっ
-　てくれるだろう」
+<name "Forzelotte" "!XA0133">
+"Well, I want her to help you when I am unable
+ to."
 #
-<name "ダークス">
-「お前の元部下達には、色々と助けられているよ」
+<name "Darx">
+"Your former subordinates have helped me a lot
+ over the years."
 #
 <sprite "ta10a024.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0134">
-「そうか。
-　まあ、私が働かなかった分、働いてくれた者達だ。
-　大事に扱ってくれ」
+<name "Forzelotte" "!XA0134">
+"Yes. Well, they did the work that I could not.
+ Take good care of them."
 #
-<name "ダークス">
-「ああ、わかっている」
+<name "Darx">
+"Yeah, I know."
 #
 <removesprite -1 11>
 \x2B\x78\x78

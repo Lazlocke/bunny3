@@ -1,83 +1,84 @@
 ﻿<music 40>
 <background "bg004a0.agf" 10>
 <sprite "ta10a005.agf" 4 4 11>
-<name "フォーゼロッテ" "!XA0094">
-「うむ。
-　不用意な接触にさえ注意すれば、ここに来ても平
-　気か」
+<name "Forzelotte" "!XA0094">
+"Mm.
+ So, as long as I'm careful about accidental
+ contact, I can come here too?"
 #
 <sprite "ta10a006.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0095">
-「もっと早く開発すべきであった」
+<name "Forzelotte" "!XA0095">
+"I wish we had created this sooner."
 #
 <removesprite -1 11>
 <sprite "ta08a004.agf" 2 4 11>
 <sprite "ta10a006.agf" 6 5 11>
-<name "ラキア" "!ZC0226">
-「ええ。
-　ダークス様に会えず寂しいからと、必死に研究し
-　た甲斐がありましたね」
+<name "Rakia" "!ZC0226">
+"Yes. I know you're lonely not seeing Darx,
+ so this was worth the hard work we put into
+ researching it."
 #
 <sprite "ta10a019.agf" 6 5 12>
-<name "フォーゼロッテ" "!XA0096">
-「ち、違うぞ。
-　これは学園運営において、流石に不便だったから
-　であって……」
+<name "Forzelotte" "!XA0096">
+"N-Not for him.
+ Running a school like that was far too
+ troublesome..."
 #
 <sprite "ta08a023.agf" 2 4 12>
-<name "ラキア" "!ZC0227">
-「はいはい」
+<name "Rakia" "!ZC0227">
+"Yes, yes."
 #
 <sprite "ta10a008.agf" 6 5 12>
-<name "フォーゼロッテ" "!XA0097">
-「も、元魔王に対し、なかなか挑戦的な態度じゃな」
+<name "Forzelotte" "!XA0097">
+"T-That is quite the attitude to take with a
+ former Overlord."
 #
 <sprite "ta08a026.agf" 2 4 12>
-<name "ラキア" "!ZC0228">
-「元ですから」
+<name "Rakia" "!ZC0228">
+"Former, after all."
 #
 <sprite "ta10a015.agf" 6 5 12>
-<name "フォーゼロッテ" "!XA0098">
-「うぬ」
+<name "Forzelotte" "!XA0098">
+"Mrr..."
 #
 <sprite "ta08a004.agf" 2 4 12>
-<name "ラキア" "!ZC0229">
-「それに、学園長の立場では、ギュンギュスカー商
-　会の窓口の一つであるこの私には勝てないと思い
-　ますけど」
+<name "Rakia" "!ZC0229">
+"Also, as the principal of a school, I believe
+ that I hold more sway than you as the head of
+ the local Gunguskar branch."
 #
 <sprite "ta10a016.agf" 6 5 12>
-<name "フォーゼロッテ" "!XA0099">
-「うぬぬぬぬ」
+<name "Forzelotte" "!XA0099">
+"Rrrrrrrrrr..."
 #
 <sprite "ta08a005.agf" 2 4 12>
-<name "ラキア" "!ZC0230">
-「ですので、旧来の友人として接しております。
-　歓迎しますよ。
-　フォーゼロッテ」
+<name "Rakia" "!ZC0230">
+"So I welcome you as an old friend would.
+ Welcome to my cafe, Forzelotte."
 #
 <sprite "ta08a023.agf" 2 4 12>
-<name "ラキア" "!ZC0231">
-「貴女を私の店に呼ぶのは、夢でしたから」
+<name "Rakia" "!ZC0231">
+"It's always been my dream to serve you here."
 #
 <sprite "ta10a020.agf" 6 5 12>
-<name "フォーゼロッテ" "!XA0100">
-「ふ、ふん。
-　ダ、ダークスの前では、解っているだろうな」
+<name "Forzelotte" "!XA0100">
+"H-Hmph.
+ I-I know about you and Darx."
 #
 <sprite "ta08a004.agf" 2 4 12>
-<name "ラキア" "!ZC0232">
-「ちゃんと立てますから、ご安心を。
-　何を食べます？」
+<name "Rakia" "!ZC0232">
+"I know my place perfectly.
+ Don't worry.
+ What can I get you?"
 #
 <sprite "ta10a024.agf" 6 5 12>
-<name "フォーゼロッテ" "!XA0101">
-「お主に任せる。
-　自慢の品から持って来るが良い」
+<name "Forzelotte" "!XA0101">
+"You decide.
+ Bring me your best."
 #
 <sprite "ta08a023.agf" 2 4 12>
-<name "ラキア" "!ZC0233">
-「承知しました」
+<name "Rakia" "!ZC0233">
+"As you wish."
 #
 <removesprite -1 11>
 \x2B\x78\x78

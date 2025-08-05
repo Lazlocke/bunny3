@@ -1,272 +1,276 @@
 ﻿<music 5>
 <background "bg011a0.agf" 10>
 <sprite "ta01a023.agf" 4 4 11>
-<name "ソフィア" "!ZB0171">
-「魔王様、魔王様」
+<name "Sofia" "!ZB0171">
+"Overlord, Overlord."
 #
-<name "ダークス">
-「ん？
-　どうした、珍しく慌てて」
+<name "Darx">
+"Hm?
+ What's all the commotion?"
 #
 <sprite "ta01a037.agf" 4 4 12>
-<name "ソフィア" "!ZB0172">
-「すみません。
-　魔王様にお客様です」
+<name "Sofia" "!ZB0172">
+"I'm sorry.
+ You have a guest."
 #
-<name "ダークス">
-「客？」
+<name "Darx">
+"A guest?"
 #
-<name "ソフィア" "!ZB0173">
-「少し前からお待ちになっておりまして……」
+<name "Sofia" "!ZB0173">
+"She's been waiting for a while..."
 #
-<name "ダークス">
-「お前がそこまで慌てるって事は、偉いヤツが来た
-　のか？」
+<name "Darx">
+"Who's so important that it's got you in such
+ a panic?"
 #
-<name "ソフィア" "!ZB0174">
-「偉いと言いますか、なんと言いますか……」
+<name "Sofia" "!ZB0174">
+"Well, by important, I think it's more..."
 #
-<name "ダークス">
-「誰なんだ？」
+<name "Darx">
+"Who is it?"
 #
 <removesprite -1 11>
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta05a003.agf" 4 4 11>
-<name "キュリハ" "!FA0012">
-「天界から参りましたキュリハ、と申します」
+<name "Kyuriha" "!FA0012">
+"My name is Kyuriha, of Celestia."
 #
 <sprite "ta05a017.agf" 4 4 12>
-<name "キュリハ" "!FA0013">
-「以後、お見知りおき下さい」
+<name "Kyuriha" "!FA0013">
+"It is an honor to meet you."
 #
-<name "ダークス">
-「ああ。
-　よろしく」
-#
-<sprite "ta05a004.agf" 4 4 12>
-<name "キュリハ" "!FA0014">
-「さて、魔王ダークス様。
-　私がここに来た理由なのですが……」
-#
-<name "ダークス">
-「ぜひ聞きたいな」
-#
-<sprite "ta05a003.agf" 4 4 12>
-<name "キュリハ" "!FA0015">
-「その説明の前に、天界と魔界のご関係はどの程度
-　ご理解されてますか？」
-#
-<name "ダークス">
-「長らく戦争やって休戦中。
-　そう聞いているが、違うのか？」
-#
-<name "キュリハ" "!FA0016">
-「いえ、その認識で間違いありません」
+<name "Darx">
+"Yeah, same."
 #
 <sprite "ta05a004.agf" 4 4 12>
-<name "キュリハ" "!FA0017">
-「では、この場所の希少性にはお気づきだと思いま
-　す」
+<name "Kyuriha" "!FA0014">
+"Well then, Overlord Darx.
+ As to why I'm here..."
 #
-<name "ダークス">
-「希少性ってーと、天界の連中と魔界の連中が、こ
-　こで暮らしているって事か？」
+<name "Darx">
+"Let's hear it."
 #
 <sprite "ta05a003.agf" 4 4 12>
-<name "キュリハ" "!FA0018">
-「はい。
-　その上で、この場の代表が人間、ダークス様であ
-　ると言う事です」
+<name "Kyuriha" "!FA0015">
+"Before I explain, how much do you understand
+ about the relationship between Celestia and
+ the Netherworld?"
 #
-<name "ダークス">
-「そんなに珍しいか？」
+<name "Darx">
+"A truce after some big war.
+ Or have I heard wrong?"
+#
+<name "Kyuriha" "!FA0016">
+"No, that understanding is correct."
+#
+<sprite "ta05a004.agf" 4 4 12>
+<name "Kyuriha" "!FA0017">
+"So I believe you understand how rare this
+ place is."
+#
+<name "Darx">
+"By rare, you mean angels and demons living
+ together?"
+#
+<sprite "ta05a003.agf" 4 4 12>
+<name "Kyuriha" "!FA0018">
+"Yes, and on top of that, ruled over by a
+ human."
+#
+<name "Darx">
+"Is that so rare?"
 #
 <sprite "ta05a017.agf" 4 4 12>
-<name "キュリハ" "!FA0019">
-「数人のお話や、一時的な事はありますが、子供ま
-　で作るのは珍しいですね」
+<name "Kyuriha" "!FA0019">
+"There are the occasional stories and brief
+ occurrences, but just having children at all
+ is rare enough."
 #
-<name "ダークス">
-「はは……」
+<name "Darx">
+"Haha..."
 #
-<name "ダークス">
-「で、文句でも言いに来たのか？」
-#
-<sprite "ta05a004.agf" 4 4 12>
-<name "キュリハ" "!FA0020">
-「いえいえ。
-　逆です」
-#
-<name "ダークス">
-「ん？」
-#
-<sprite "ta05a003.agf" 4 4 12>
-<name "キュリハ" "!FA0021">
-「大変、興味深い事象であると、命神王様を始め、
-　各部族の王も関心を寄せております」
-#
-<name "ダークス">
-「ほう」
+<name "Darx">
+"So, you're here to bitch about it?"
 #
 <sprite "ta05a004.agf" 4 4 12>
-<name "キュリハ" "!FA0022">
-「このような地が増える事は、天界と魔界の休戦に
-　も良い影響を及ぼすだろうとの考えから、この地
-　の視察に私が派遣された次第です」
+<name "Kyuriha" "!FA0020">
+"Not at all.
+ The opposite."
 #
-<name "ダークス">
-「なるほど」
+<name "Darx">
+"Hm?"
 #
 <sprite "ta05a003.agf" 4 4 12>
-<name "キュリハ" "!FA0023">
-「魔界の大魔王、アイシエス王の許可は頂いており
-　ます」
+<name "Kyuriha" "!FA0021">
+"It is quite the interesting occurrence.
+ The God King, and each house's rulers, have
+ all taken an interest."
+#
+<name "Darx">
+"Oh?"
+#
+<sprite "ta05a004.agf" 4 4 12>
+<name "Kyuriha" "!FA0022">
+"We believe that the prospering of such a 
+ place would have a beneficial effect on the
+ truce between us.
+ I was sent to inspect your land."
+#
+<name "Darx">
+"I see."
+#
+<sprite "ta05a003.agf" 4 4 12>
+<name "Kyuriha" "!FA0023">
+"I also have the permission of the Great
+ Overlord of the Netherworld, Lord Aishies."
 #
 <sprite "ta05a017.agf" 4 4 12>
-<name "キュリハ" "!FA0024">
-「ここに逗留する事、お許し下さい」
+<name "Kyuriha" "!FA0024">
+"Please allow me to stay here."
 #
-<name "ダークス">
-「大魔王の紹介状があるなら、断れないよな」
+<name "Darx">
+"If you've got the okay from the Great 
+ Overlord, I can't exactly say no."
 #
 <removesprite -1 11>
 <sprite "ta01a028.agf" 4 4 11>
-<name "ソフィア" "!ZB0175">
-「断られると、思いっきり困ります。
-　是非、受け入れてください」
+<name "Sofia" "!ZB0175">
+"If you refuse, you'll be in huge trouble.
+ Please, let her."
 #
 <removesprite -1 11>
 <sprite "ta05a015.agf" 4 4 11>
-<name "キュリハ" "!FA0025">
-「ご迷惑を……まるっきりお掛けしないとは言い切
-　れませんが、出来る限りそちらの指示に従います。
-　なにとぞ、逗留の許可を」
+<name "Kyuriha" "!FA0025">
+"You have my thanks. I cannot say I will cause
+ you no troubles,  but I will endeavor to obey
+ however I can.
+ All I ask is your permission to be here."
 #
-<name "ダークス">
-「返事をする前に一つ、質問がある」
+<name "Darx">
+"One question before I decide."
 #
 <sprite "ta05a003.agf" 4 4 12>
-<name "キュリハ" "!FA0026">
-「なんでしょうか？」
+<name "Kyuriha" "!FA0026">
+"What is it?"
 #
-<name "ダークス">
-「キュリハさんは、俺の敵か？」
+<name "Darx">
+"Are you my enemy?"
 #
 <sprite "ta05a004.agf" 4 4 12>
-<name "キュリハ" "!FA0027">
-「……なかなか切り込んだ質問ですね」
+<name "Kyuriha" "!FA0027">
+"...That is a very loaded question."
 #
-<name "ダークス">
-「で、返事は？」
+<name "Darx">
+"And what's your answer?"
 #
 <sprite "ta05a019.agf" 4 4 12>
-<name "キュリハ" "!FA0028">
-「現段階では敵ではありません。
-　また、敵に回るにしても、宣言してからにさせて
-　頂きます」
+<name "Kyuriha" "!FA0028">
+"Right now, I am not your enemy.
+ And if I become your enemy, I will tell you
+ when I do."
 #
-<name "ダークス">
-「わかった。
-　逗留を許可しよう」
+<name "Darx">
+"Fine.
+ You can stay."
 #
 <sprite "ta05a003.agf" 4 4 12>
-<name "キュリハ" "!FA0029">
-「ありがとうございます」
+<name "Kyuriha" "!FA0029">
+"Thank you very much."
 #
-<name "ダークス">
-「細かい話は、ソフィアとしてくれ。
-　この街で困った事があった時もだ」
+<name "Darx">
+"Talk to Sofia for the rest, and if you have
+ any problems in the city."
 #
 <sprite "ta05a017.agf" 4 4 12>
-<name "キュリハ" "!FA0030">
-「承知しました」
+<name "Kyuriha" "!FA0030">
+"I understand."
 #
 <removesprite -1 11>
-<name "ダークス">
-「ソフィア。
-　キュリハさんの事、任せたぞ」
+<name "Darx">
+"Sofia, look after her."
 #
 <sprite "ta01a004.agf" 4 4 11>
-<name "ソフィア" "!ZB0176">
-「はい。
-　お任せください」
+<name "Sofia" "!ZB0176">
+"Yes, sir.
+ Leave it to me."
 #
 <removesprite -1 11>
-<name "ダークス">
-「まあ、こうして会ったのも何かの縁だ。
-　適当な時にでも、食事を一緒にしよう」
+<name "Darx">
+"Well, I'm sure we met like this for a reason.
+ Let's have dinner together some time."
 #
 <sprite "ta05a003.agf" 4 4 11>
-<name "キュリハ" "!FA0031">
-「はい。
-　その時を楽しみにしております」
+<name "Kyuriha" "!FA0031">
+"Yes, I look forward to it."
 #
 <removesprite -1 11>
-　……
+...
 #
 <music 14>
 <music 3>
-<name "ダークス">
-「さてと……」
+<name "Darx">
+"Now then..."
 #
-<name "ダークス">
-「そこのメイド。
-　ちょっとこっちに」
+<name "Darx">
+"You there, maid.
+ Come here a minute."
 #
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!AC0032">
-「はい？
-　何かありましたか？」
+<name "Company Maid" "!AC0032">
+"Yes?
+ Can I help you?"
 #
-<name "ダークス">
-「すまん。
-　キュリハの言ってた命神王って誰だ？」
-#
-<sprite "ta34a002.agf" 4 4 12>
-<name "商会メイド" "!AC0033">
-「……本気で言ってます？」
-#
-<name "ダークス">
-「どこかで聞いたような気はするんだが……」
-#
-<sprite "ta34a000.agf" 4 4 12>
-<name "商会メイド" "!AC0034">
-「命神王とは、天界で一番偉い地位を指す名称です」
-#
-<name "商会メイド" "!AC0035">
-「魔界の大魔王様と同じぐらい偉いとお考えくださ
-　い」
-#
-<name "ダークス">
-「なるほど。
-　つまり、その偉いのに言われてここに偵察に来たっ
-　て事か」
-#
-<name "商会メイド" "!AC0036">
-「そうなりますが……
-　わからずに対応していたのですか？」
-#
-<name "ダークス">
-「いや、知らないとか言ったらソフィアが怒りそう
-　だったから」
+<name "Darx">
+"Sorry, who's this God King that Kyuriha
+ mentioned?"
 #
 <sprite "ta34a002.agf" 4 4 12>
-<name "商会メイド" "!AC0037">
-「まあ、言わなくて正解ですね。
-　受け取り方によっては、挑発にも聞こえますから」
+<name "Company Maid" "!AC0033">
+"...Are you seriously asking?"
 #
-<name "ダークス">
-「だろ」
+<name "Darx">
+"I feel like I've heard that term somewhere
+ before..."
 #
 <sprite "ta34a000.agf" 4 4 12>
-<name "商会メイド" "!AC0038">
-「天界に関する資料、机の上に置いておきますから、
-　目を通しておいてくださいね」
+<name "Company Maid" "!AC0034">
+"The God King is the ruler of Celestia."
 #
-<name "ダークス">
-「すまん。
-　助かる」
+<name "Company Maid" "!AC0035">
+"Think of him as the same as the Great
+ Overlord of the Netherworld."
+#
+<name "Darx">
+"I see.
+ So in other words, this big shot sent her to
+ check me out?"
+#
+<name "Company Maid" "!AC0036">
+"It seems like it...
+ You answered without knowing that?"
+#
+<name "Darx">
+"Oh, well, if I said I didn't know, Sofia
+ would have gotten mad."
+#
+<sprite "ta34a002.agf" 4 4 12>
+<name "Company Maid" "!AC0037">
+"Well, saying nothing was correct, I guess.
+ It might have caused an incident depending
+ on how you asked."
+#
+<name "Darx">
+"Right?"
+#
+<sprite "ta34a000.agf" 4 4 12>
+<name "Company Maid" "!AC0038">
+"I'll leave reports about Celestia on your
+ desk.
+ Please review them."
+#
+<name "Darx">
+"Thanks."
 #
 <removesprite -1 11>
 \x2B\x78\x78

@@ -1,254 +1,268 @@
 ﻿<music 5>
 <background "bg011a0.agf" 10>
 <sprite "ta10a005.agf" 4 4 11>
-<name "フォーゼロッテ" "!XA0221">
-「久しいな」
+<name "Forzelotte" "!XA0221">
+"It's been a while."
 #
-<name "ダークス">
-「ああ、今日はどういった用件で？」
+<name "Darx">
+"Yeah. What brings you here today?"
 #
 <sprite "ta10a006.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0222">
-「仕事の件で、少し相談があるのだが、構わぬか？」
+<name "Forzelotte" "!XA0222">
+"I wanted some advice with work, if you 
+ didn't mind."
 #
-<name "ダークス">
-「どうしたんだ？」
+<name "Darx">
+"What's up?"
 #
 <sprite "ta10a005.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0223">
-「学園に関してだ」
+<name "Forzelotte" "!XA0223">
+"It's about the school."
 #
-<name "ダークス">
-「学園ってーっと、フォーゼロッテ学園か？」
+<name "Darx">
+"The school?
+ Forzelotte Academy?"
 #
 <sprite "ta10a003.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0224">
-「うむ。
-　実はその学園の分校を、ここに作って欲しいのだ」
+<name "Forzelotte" "!XA0224">
+"Mmhmm.
+ I would actually like to open a branch of
+ the school here."
 #
-<name "ダークス">
-「ここに？
-　向こうに何か問題があったのか？」
+<name "Darx">
+"Here?
+ Is something the matter over there?"
 #
 <sprite "ta10a001.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0225">
-「問題と言うか……
-　城の件で、元々あった学園施設は崩壊。
-　お主の子を教育する為の施設と併合しての再建だっ
-　たから、問題が無い方がおかしい」
+<name "Forzelotte" "!XA0225">
+"Not the matter, precisely... The school was
+ already destroyed by the castle incident.
+ Annexing facilities to rebuild it for your
+ children would naturally cause problems."
 #
-<name "ダークス">
-「そうなのか？」
+<name "Darx">
+"Really?"
 #
 <sprite "ta10a004.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0226">
-「そうなのだ」
+<name "Forzelotte" "!XA0226">
+"Really."
 #
 <sprite "ta10a002.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0227">
-「それに、時が経てば経つほど、お主の子が成長し
-　て学ばせる必要が出てくる。
-　実質、広さが足りなくなりつつあり、迷宮内では
-　拡張もし難い」
+<name "Forzelotte" "!XA0227">
+"Furthermore, the more time passes, the more
+ of your children there will be to learn and
+ grow. It's already too small, and it's 
+ difficult to make more space in the dungeon."
 #
-<name "ダークス">
-「で、こっちに分校か」
+<name "Darx">
+"So an offshoot school here?"
 #
 <sprite "ta10a003.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0228">
-「一応、分校と言っているが、将来的にはこっちを
-　正式な学園にして、フォーゼロッテ宮の方は潰す
-　予定だ」
+<name "Forzelotte" "!XA0228">
+"Technically an offshoot for now, but I plan
+ to make it a formal school in the future and
+ eliminate the one in Forzelotte's Shrine."
 #
-<name "ダークス">
-「……なかなか規模の大きな計画だが、ここはまだ
-　それほど落ち着いていないぞ。
-　抵抗勢力もあるしな」
+<name "Darx">
+"...That's a pretty big plan.
+ I'm not sure things are settled enough here
+ yet. I don't think everybody will be on
+ board with it either."
 #
 <sprite "ta10a005.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0229">
-「自衛ぐらいはさせるさ」
+<name "Forzelotte" "!XA0229">
+"I can take care of myself."
 #
 <sprite "ta10a006.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0230">
-「なに、心配はいらぬ。
-　教師陣は、ロギウスを筆頭に、それなりの古参が
-　居るし、お主によって寝返った城の幹部連中も居
-　る」
+<name "Forzelotte" "!XA0230">
+"Besides, your concern is unnecessary.
+ The teachers are lead by Logius, and while
+ there are some entrenched, there are also
+ leaders from the castle recruited by you."
 #
 <sprite "ta10a028.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0231">
-「それに、生徒達は生徒達で、変なのが多いからな」
+<name "Forzelotte" "!XA0231">
+"Additionally, the students are students.
+ There are plenty of troublemakers among
+ them."
 #
-<name "ダークス">
-「そんなに変なヤツが多いのか？」
+<name "Darx">
+"There are that many troublemakers?"
 #
 <sprite "ta10a002.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0232">
-「その筆頭が我が娘、コゼロットだと思うがな」
+<name "Forzelotte" "!XA0232">
+"The one at the top of the list is our
+ daughter, Kozelotte."
 #
-<name "ダークス">
-「コ、コゼは変じゃない！」
+<name "Darx">
+"K-Koze's not like that!"
 #
 <sprite "ta10a001.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0233">
-「まあ、父親の目にはそう映るのだろう」
+<name "Forzelotte" "!XA0233">
+"Well, her father would say that."
 #
-<name "ダークス">
-「うぬぬ……」
+<name "Darx">
+"Grrr..."
 #
 <sprite "ta10a024.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0234">
-「ははは。
-　それに、生徒の半数はお主の子だ。
-　殴られて黙っている者達ではあるまい」
+<name "Forzelotte" "!XA0234">
+"Hahaha.
+ I would also add that half the students are
+ your children. You would not be able to
+ intimidate them into compliance."
 #
-<name "ダークス">
-「……確かに」
+<name "Darx">
+"...That's true."
 #
 <sprite "ta10a005.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0235">
-「では、許可を」
+<name "Forzelotte" "!XA0235">
+"So I have your permission."
 #
-<name "ダークス">
-「相談じゃなかったのか？」
+<name "Darx">
+"That's not what you wanted to discuss, was
+ it?"
 #
 <sprite "ta10a028.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0236">
-「相談は終わった、話は次の段階へ進んだのだ」
+<name "Forzelotte" "!XA0236">
+"The discussion is over, so we can move on to
+ the next step."
 #
-<name "ダークス">
-「まったく……場所はどこになるんだ？」
+<name "Darx">
+"Seriously?
+ Where is this place even going?"
 #
 <sprite "ta10a005.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0237">
-「場所はラキアに選定させている最中だが……
-　それなりの広さが欲しいから、ここからは少し離
-　れた場所になると言っていたな」
+<name "Forzelotte" "!XA0237">
+"I'm letting Rakia choose where.
+ I want enough space, but I would prefer it
+ to be some ways from here."
 #
-<name "ダークス">
-「こちらが用意する物は？」
+<name "Darx">
+"And what do you need for it?"
 #
 <sprite "ta10a006.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0238">
-「金は不要だ。
-　ただ、資源が居る」
+<name "Forzelotte" "!XA0238">
+"Not money, but I will need resources."
 #
-<name "ダークス">
-「それで、許可を寄越せって、資源を寄越せと言っ
-　ているのと同じじゃないか？」
+<name "Darx">
+"And you want permission to use them.
+ Basically the same as asking me to donate
+ them to you?"
 #
 <sprite "ta10a001.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0239">
-「そうなのか。
-　言葉は難しいな」
+<name "Forzelotte" "!XA0239">
+"That's correct.
+ It's difficult to come out and just say
+ that."
 #
-<name "ダークス">
-「白々しい……この計画に反対者は？」
+<name "Darx">
+"So shameless...
+ Is anybody against this?"
 #
 <sprite "ta10a004.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0240">
-「マクドゥを心配しているなら大丈夫であろう。
-　ラキアを通じて、許可が出ている」
+<name "Forzelotte" "!XA0240">
+"If you're concerned about Macdo, you don't
+ need to be. She's already given her
+ permission through Rakia."
 #
 <sprite "ta10a002.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0241">
-「教師、生徒の大半も賛同している」
+<name "Forzelotte" "!XA0241">
+"The majority of teachers and students have
+ approved it as well."
 #
 <sprite "ta10a012.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0242">
-「強く反対を主張していたのはロギウスだな。
-　お主の傍では、女子生徒の安全を確保するのが云
-　々かんぬん。
-　信用が無いのは……まあ、仕方が無い事だ」
+<name "Forzelotte" "!XA0242">
+"Logius was the one firmly against it.
+ She doesn't think the safety of the girls can
+ be assured that close to you. I wish I could
+ argue, but... well, it is what it is."
 #
-<name "ダークス">
-「心当たりがあってすみません」
+<name "Darx">
+"Sorry for the memories."
 #
 <sprite "ta10a013.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0243">
-「後は……表立っての反対はしていないが、ラキア
-　だな」
+<name "Forzelotte" "!XA0243">
+"Besides her, she didn't directly oppose it,
+ but Rakia didn't like it."
 #
-<name "ダークス">
-「ラキアさんが？」
+<name "Darx">
+"Rakia?"
 #
 <sprite "ta10a015.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0244">
-「学園関係者がこちらに移れば、それに引っ張られ
-　て移る者も出てくる事になる」
+<name "Forzelotte" "!XA0244">
+"If the people with the school move here,
+ many of their compatriots will also leave."
 #
-<name "ダークス">
-「ああ、なるほど。
-　フォーゼロッテ宮の住民数が減り、それは売り上
-　げの低下に繋がるか」
+<name "Darx">
+"Oh, I see. Fewer people in Forzelotte's
+ Shrine means less business for her."
 #
 <sprite "ta10a005.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0246">
-「うむ。
-　しかし、分校の計画は積極的にやってくれている」
+<name "Forzelotte" "!XA0246">
+"Mmhmm, but she has been helping with the
+ plans for a new school."
 #
 <sprite "ta10a024.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0247">
-「後でお主がサービスしてやれば、クリアできる問
-　題だと思うぞ」
+<name "Forzelotte" "!XA0247">
+"I believe that's a problem that can be
+ addressed with your special touch later."
 #
-<name "ダークス">
-「サービス？」
+<name "Darx">
+"Special touch?"
 #
 <sprite "ta10a028.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0248">
-「抱いておるのだろう。
-　今更、隠さなくても……」
+<name "Forzelotte" "!XA0248">
+"I know you have sex with her.
+ You don't need to hide it."
 #
-<name "ダークス">
-「……わかる？」
+<name "Darx">
+"...You knew?"
 #
 <sprite "ta10a005.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0249">
-「なんとなくだがな。
-　ああ、怒ったりはせぬが……
-　あのラキアがなぁと感心はした」
+<name "Forzelotte" "!XA0249">
+"I had my suspicions.
+ Oh, I'm not upset about it.
+ More impressed that you convinced her."
 #
 <sprite "ta10a006.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0250">
-「どうやって口説き落とした？」
+<name "Forzelotte" "!XA0250">
+"How did you manage that?"
 #
-<name "ダークス">
-「そこは流石に口を割れないな」
+<name "Darx">
+"A gentleman doesn't kiss and tell."
 #
 <sprite "ta10a024.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0251">
-「では聞かぬから、許可を」
+<name "Forzelotte" "!XA0251">
+"Then I withdraw the question."
 #
-<name "ダークス">
-「わかった」
+<name "Darx">
+"All right."
 #
 <sprite "ta10a005.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0252">
-「うむ。
-　では、仕事は終わった」
+<name "Forzelotte" "!XA0252">
+"Mm.
+ My work is done then."
 #
-<name "ダークス">
-「お疲れ」
+<name "Darx">
+"Good work."
 #
 <sprite "ta10a024.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0253">
-「仕事は終わった」
+<name "Forzelotte" "!XA0253">
+"I am done with work."
 #
-<name "ダークス">
-「えっと……」
+<name "Darx">
+"Uh..."
 #
 <removesprite -1 11>
-　俺はフォーゼロッテを小脇に抱え、ベッドに行く
-　事にした。
+I pick her up under my arm and carry her to
+bed.
 #
-<name "フォーゼロッテ" "!XA0255" "ka10a027.agf">
-「あー、我が愛しき旦那様。
-　できれば小脇に抱えるのではなく、お姫様抱っこ
-　を要望する」
+<name "Forzelotte" "!XA0255" "ka10a027.agf">
+"Aah, my dear husband, I would much appreciate
+ it if you would carry me like a princess 
+ instead of a sack."
 #
-<name "ダークス">
-「はいはい」
+<name "Darx">
+"Yeah, yeah."
 #
 \x78\x78

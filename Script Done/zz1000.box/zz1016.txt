@@ -1,41 +1,40 @@
 ﻿<music 19>
 <background "ev044a03.agf" 10>
-<name "フォーゼロッテ" "!XA0102">
-「んぁ……ん」
+"Mmm...mm..."
 #
-　俺は小さいフォーゼロッテに、何度目かの射精を
-　終えた。
+I finish coming with Forzelotte several times.
 #
-<name "フォーゼロッテ" "!XA0103">
-「ふぁ……」
+<name "Forzelotte" "!XA0103">
+"Ahh..."
 #
 <music 5>
 <background "bg011a0.agf" 10>
 <sprite "ta10a105.agf" 4 4 11>
-<name "フォーゼロッテ" "!XA0104">
-「うむ。
-　なかなか、濃厚な愛情表現であった」
+<name "Forzelotte" "!XA0104">
+"Mm.
+ That was quite the expression of love."
 #
-<name "ダークス">
-「そっちもな」
+<name "Darx">
+"You too."
 #
 <sprite "ta10a120.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0105">
-「ううっ」
+<name "Forzelotte" "!XA0105">
+"Nngh..."
 #
-<name "ダークス">
-「できれば帰って、本体を抱きたい」
+<name "Darx">
+"I wish I could go home and be with the real
+ you."
 #
 <sprite "ta10a124.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0106">
-「その気持ちで十分だ」
+<name "Forzelotte" "!XA0106">
+"The sentiment is enough."
 #
 <sprite "ta10a105.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0107">
-「私と私の子等の為にも頑張ってくれ」
+<name "Forzelotte" "!XA0107">
+"Work hard for me and my children."
 #
-<name "ダークス">
-「ああ、任せておけ」
+<name "Darx">
+"Yeah, don't you worry."
 #
 <removesprite -1 11>
 \x2B\x78\x78

@@ -1,28 +1,29 @@
 ﻿<music 17>
 <background "ev027a03.agf" 10>
-<name "ルーアルテ" "!RA0143">
-「ふぁ、ぁ、ぁ、ぁ……んぁぁぁぁぁぁ」
+<name "Rualtei" "!RA0143">
+"Aah...ah...ah...ah...mmmmmmmaaah!"
 #
-　ルーアルテは大きく達した。
+She has a big orgasm.
 #
-<name "ルーアルテ" "!RA0144">
-「ぁ……は、はぁ、ぁ……ぁぁ……」
+<name "Rualtei" "!RA0144">
+"Ah...ah...ahhh...ah...aaah..."
 #
 <background "ev027a04.agf" 10>
-<name "ダークス">
-「大丈夫か？」
+<name "Darx">
+"Are you okay?"
 #
-<name "ルーアルテ" "!RA0145">
-「ぁぁ……
-　だ、大丈夫かとか聞きながら、射精しないでくれ
-　る？」
+<name "Rualtei" "!RA0145">
+"Aah...
+ C-Can you not ejaculate while you're asking
+ if I'm okay?"
 #
-<name "ダークス">
-「止まらないのが男だ」
+<name "Darx">
+"Men don't know when to stop."
 #
-<name "ルーアルテ" "!RA0146">
-「も、もう……ぁ……」
+<name "Rualtei" "!RA0146">
+"G-Geez...
+ Ah..."
 #
-　俺は仲良くルーアルテとの行為を楽しんだ。
+I enjoy myself with her happily.
 #
 \x78\x78

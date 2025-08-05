@@ -1,97 +1,98 @@
 ﻿<music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta05a003.agf" 4 4 11>
-<name "キュリハ" "!FA0222">
-「ダークス様。
-　お話があります」
+<name "Kyuriha" "!FA0222">
+"Darx, I need to speak with you."
 #
-<name "ダークス">
-「ん？」
+<name "Darx">
+"Hm?"
 #
 <sprite "ta05a004.agf" 4 4 12>
-<name "キュリハ" "!FA0223">
-「私、この地より退去させて頂きます」
+<name "Kyuriha" "!FA0223">
+"I will be leaving here."
 #
-<name "ダークス">
-「そうか。
-　視察が終わったのか？」
+<name "Darx">
+"I see.
+ Your inspection's over?"
 #
 <sprite "ta05a003.agf" 4 4 12>
-<name "キュリハ" "!FA0224">
-「いえ、視察の任務はミアルテに引き継いで貰いま
-　す」
+<name "Kyuriha" "!FA0224">
+"No. Miartei will be taking over those duties
+ in my stead."
 #
-<name "ダークス">
-「じゃあ、キュリハさんは？」
+<name "Darx">
+"Then what about you?"
 #
 <sprite "ta05a019.agf" 4 4 12>
-<name "キュリハ" "!FA0225">
-「一度、天界に戻り。
-　その後、ミアルテに従った者達を回収し、そのま
-　まその地でダークス様と敵対させて頂きます」
+<name "Kyuriha" "!FA0225">
+"For now, I will return to Celestia.
+ Once I do, I will gather those who followed
+ Miartei and return here as your enemy."
 #
-<name "ダークス">
-「…………またどうして？」
+<name "Darx">
+"...Why exactly?"
 #
 <removesprite -1 11>
-　ミアルテやルーアルテの件か？
+Is this about Miartei and Rualtei?
 #
 <sprite "ta05a003.agf" 4 4 11>
-<name "キュリハ" "!FA0226">
-「純粋な好奇心、純粋な戦闘欲です」
+<name "Kyuriha" "!FA0226">
+"Pure curiosity.
+ Pure lust for battle."
 #
 <sprite "ta05a004.agf" 4 4 12>
-<name "キュリハ" "!FA0227">
-「私は、ダークス様がどれほど強いかを知りたいの
-　です」
+<name "Kyuriha" "!FA0227">
+"I wish to know how strong you are."
 #
-<name "ダークス">
-「なるほど」
+<name "Darx">
+"I see."
 #
 <sprite "ta05a003.agf" 4 4 12>
-<name "キュリハ" "!FA0228">
-「回りくどいと思われるかもしれませんが、この街
-　には愛着も少なからずあります。
-　この場での戦いは避けたく思いましたので」
+<name "Kyuriha" "!FA0228">
+"I know this may seem contradictory, but I do
+ have feelings for this city.
+ I was hoping to avoid a battle here."
 #
-<name "ダークス">
-「それはこっちも願いたいな。
-　まあ、敵に回る時は挨拶するって言ってたから、
-　この場で斬りかかったりはしないさ」
+<name "Darx">
+"That's what I want too.
+ Well, you did say when we met that you'd tell
+ me if you became my enemy.
+ I won't attack you right here."
 #
 <sprite "ta05a017.agf" 4 4 12>
-<name "キュリハ" "!FA0229">
-「ありがとうございます」
+<name "Kyuriha" "!FA0229">
+"Thank you very much."
 #
-<name "ダークス">
-「ただ、一つ確認だ」
+<name "Darx">
+"But I want to confirm one thing."
 #
 <sprite "ta05a003.agf" 4 4 12>
-<name "キュリハ" "!FA0230">
-「なんでしょう？」
+<name "Kyuriha" "!FA0230">
+"What is it?"
 #
-<name "ダークス">
-「俺が勝ったら、お前もミアルテやルーアルテのよ
-　うに扱うぞ」
+<name "Darx">
+"If I win, I'll do the same thing to you that
+ I did to Miartei and Rualtei."
 #
 <sprite "ta05a004.agf" 4 4 12>
-<name "キュリハ" "!FA0231">
-「覚悟の上です」
+<name "Kyuriha" "!FA0231">
+"I am prepared for that."
 #
-<name "ダークス">
-「……わかった。
-　ここを立ち去った瞬間、お前は敵だ」
+<name "Darx">
+"...Fine.
+ As soon as you leave here, you're my enemy."
 #
 <sprite "ta05a017.agf" 4 4 12>
-<name "キュリハ" "!FA0232">
-「拠点が決まり次第、招待状をお送りします」
+<name "Kyuriha" "!FA0232">
+"I will send an invitation as soon as I have
+ settled on a location."
 #
-<name "ダークス">
-「欲しくないけど、待ってるよ」
+<name "Darx">
+"This isn't what I want, but I'll be waiting."
 #
 <removesprite -1 11>
-　キュリハがこの街から出て行った。
+Kyuriha leaves the city.
 #
-　少し、寂しい。
+I miss her already.
 #
 \x78\x78

@@ -1,81 +1,83 @@
 ﻿<music 11>
 <background "bg008a0.agf" 10>
 <sprite "ta05a000.agf" 4 4 11>
-<name "キュリハ" "!FA0186">
-「ダークス様。
-　ミアルテを捕らえたと聞きました」
+<name "Kyuriha" "!FA0186">
+"Darx, I heard you captured Miartei."
 #
-<name "ダークス">
-「耳が早いな」
+<name "Darx">
+"News gets around fast."
 #
-<name "ダークス">
-「一応、キュリハさんが止めるかなと思って、まだ
-　手は出していない」
+<name "Darx">
+"I expected you'd try to stop me, so I haven't
+ laid a finger on her yet."
 #
 <sprite "ta05a014.agf" 4 4 12>
-<name "キュリハ" "!FA0187">
-「なかなか残酷な事をしますね」
+<name "Kyuriha" "!FA0187">
+"That's quite cruel of you."
 #
-<name "ダークス">
-「そうか？」
+<name "Darx">
+"Is it?"
 #
 <removesprite -1 11>
-　焦らすのが、そんなに残酷だろうか。
+Wouldn't it be crueler to not wait?
 #
 <sprite "ta05a016.agf" 4 4 11>
-<name "キュリハ" "!FA0188">
-「ミアルテにではなく、私に対してです」
+<name "Kyuriha" "!FA0188">
+"Not to her.
+ To me."
 #
 <sprite "ta05a015.agf" 4 4 12>
-<name "キュリハ" "!FA0189">
-「止めれば、私は二度も言った事を変える女になっ
-　てしまいます」
+<name "Kyuriha" "!FA0189">
+"If I stop you, I will once again be a woman
+ who goes back on her word."
 #
 <sprite "ta05a014.agf" 4 4 12>
-<name "キュリハ" "!FA0190">
-「ですが、止めなければ私は友人を見捨てる事になっ
-　てしまいます」
+<name "Kyuriha" "!FA0190">
+"But if I don't stop you, it would be turning
+ my back on a friend."
 #
 <sprite "ta05a016.agf" 4 4 12>
-<name "キュリハ" "!FA0191">
-「ひょっとして、ルーアルテの時に一度止めた事、
-　怒ってます？」
+<name "Kyuriha" "!FA0191">
+"Could it be you're still mad that I stepped
+ in with Rualtei?"
 #
-<name "ダークス">
-「そんな事はないさ。
-　純粋に気を遣ったつもりだったんだ」
+<name "Darx">
+"Not at all.
+ I'm sure you were just concerned for her."
 #
 <sprite "ta05a015.agf" 4 4 12>
-<name "キュリハ" "!FA0192">
-「では、無用な配慮かと。
-　勝者はダークス様で、ミアルテは敗者です。
-　ご自由にお扱いください」
+<name "Kyuriha" "!FA0192">
+"Then my concern went unheeded.
+ You are the victor.
+ She is the vanquished.
+ You may do with her as you please."
 #
-<name "ダークス">
-「気を悪くさせたら、謝るよ」
+<name "Darx">
+"If I offended you, I apologize."
 #
 <sprite "ta05a016.agf" 4 4 12>
-<name "キュリハ" "!FA0193">
-「お気になさらずに。
-　ただ、処刑の際は立ち合わせて下さい」
+<name "Kyuriha" "!FA0193">
+"There's no need for that.
+ But please let me be present for her
+ execution."
 #
-<name "ダークス">
-「殺す気はないよ。
-　まあ、殺された方がマシだと思うかもしれないけ
-　どな」
+<name "Darx">
+"I'm not going to kill her.
+ Well, she might wish I did."
 #
 <sprite "ta05a015.agf" 4 4 12>
-<name "キュリハ" "!FA0194">
-「……一安心ですね。
-　女としては、複雑な気持ちですが」
+<name "Kyuriha" "!FA0194">
+"...That is a relief, though as a woman, I do
+ feel conflicted."
 #
-<name "ダークス">
-「そりゃ、悪かった」
+<name "Darx">
+"Sorry about that."
 #
 <sprite "ta05a019.agf" 4 4 12>
-<name "キュリハ" "!FA0195">
-「いえ。
-　私の警告を無視したミアルテが、全て悪いのです」
+<name "Kyuriha" "!FA0195">
+"No.
+ The blame lies solely on her for ignoring my
+ warnings."
 #
 <removesprite -1 11>
 \x2B\x78\x78

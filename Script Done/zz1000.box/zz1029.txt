@@ -1,55 +1,56 @@
 ﻿<music 4>
 <background "bg009a0.agf" 10>
-<name "噂する娘" "!HC0082">
-「魔王様の噂、色々と聞いていたけど……」
+<name "Gossipping Girl" "!HC0082">
+"I had heard the rumors about the Overlord,
+ but..."
 #
-<name "賛同する娘" "!SB0161">
-「本当だったね」
+<name "Agreeing Girl" "!SB0161">
+"They were all true."
 #
-<name "思い出す娘" "!RB0145">
-「うん」
+<name "Remembering Girl" "!RB0145">
+"Yeah."
 #
 <music 17>
 <background "ev059a01.agf" 10>
-<name "何度も絶頂した娘" "!LB0110">
-「絶倫だったね」
+<name "Multiple Orgasms Girl" "!LB0110">
+"He was incredible."
 #
-<name "うっとりする娘" "!GB0109">
-「激しかったし」
+<name "Enraptured Girl" "!GB0109">
+"So intense."
 #
-<name "声の大きかった娘" "!QB0159">
-「いろんなテクニックがあった」
+<name "Loud Girl" "!QB0159">
+"He knew all kinds of techniques."
 #
-<name "悶える娘" "!WB0150">
-「私なんか、気絶しちゃったし」
+<name "Writhing Girl" "!WB0150">
+"I passed out."
 #
-<name "噂する娘" "!HC0083">
-「そりゃ、天界の連中だって落ちるわよね」
+<name "Gossipping Girl" "!HC0083">
+"No wonder the Celestials fell."
 #
-<name "賛同する娘" "!SB0162">
-「うん」
+<name "Agreeing Girl" "!SB0162">
+"Yeah."
 #
-<name "思い出す娘" "!RB0146">
-「でも、あれをフォーゼロッテ様やメリル様は、単
-　身で受け止めるそうよ」
+<name "Remembering Girl" "!RB0146">
+"But I heard that Forzelotte and Meryl can
+ handle him by themselves."
 #
-<name "何度も絶頂した娘" "!LB0111">
-「え？
-　あれを？」
+<name "Multiple Orgasms Girl" "!LB0111">
+"Huh?
+ They can?"
 #
-<name "うっとりする娘" "!GB0110">
-「嘘……」
+<name "Enraptured Girl" "!GB0110">
+"No way..."
 #
-<name "声の大きかった娘" "!QB0160">
-「す、凄い……」
+<name "Loud Girl" "!QB0160">
+"A-Amazing..."
 #
-<name "悶える娘" "!WB0151">
-「尊敬するわ」
+<name "Writhing Girl" "!WB0151">
+"Admirable."
 #
-<name "噂する娘" "!HC0084">
-「うん」
+<name "Gossipping Girl" "!HC0084">
+"Yeah."
 #
-　知らない所で評価の上がったフォーゼロッテとメ
-　リルだった。
+Forzelotte and Meryl's reputation improved,
+though they had no idea why.
 #
 \x78\x78

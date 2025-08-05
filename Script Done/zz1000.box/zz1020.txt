@@ -1,325 +1,331 @@
 ﻿<music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta05a003.agf" 4 4 11>
-<name "キュリハ" "!FA0061">
-「ダークス様。
-　よろしいですか？」
+<name "Kyuriha" "!FA0061">
+"Darx, may I have a moment?"
 #
-<name "ダークス">
-「ん？」
+<name "Darx">
+"Hm?"
 #
 <sprite "ta05a004.agf" 4 4 12>
-<name "キュリハ" "!FA0062">
-「実は、ダークス様に面会を希望する者がおりまし
-　て、連れてきてもよろしいでしょうか？」
+<name "Kyuriha" "!FA0062">
+"There's somebody who'd like to meet you.
+ May I introduce her to you?"
 #
-<name "ダークス">
-「構わないが、誰だ？」
+<name "Darx">
+"Fine.
+ Who is it?"
 #
 <sprite "ta05a003.agf" 4 4 12>
-<name "キュリハ" "!FA0063">
-「天界の商人です」
+<name "Kyuriha" "!FA0063">
+"A merchant from Celestia."
 #
 <removesprite -1 11>
-　半日後。
+The next day...
 #
 <sprite "ta06a003.agf" 4 4 11>
-<name "スイセン" "!YA0001">
-「お初にお目に掛かります」
+<name "Suisen" "!YA0001">
+"It's a pleasure to meet you."
 #
 <sprite "ta06a004.agf" 4 4 12>
-<name "スイセン" "!YA0002">
-「アンゼルム商会のスイセンと申します。
-　こちらのヘビはスー。
-　以後、お見知りおきください」
+<name "Suisen" "!YA0002">
+"I am Suisen from the Anselm Company.
+ The snake is Sue.
+ I look forward to doing business with you."
 #
-<name "ダークス">
-「アンゼルム商会？」
+<name "Darx">
+"Anselm Company?"
 #
 <sprite "ta06a005.agf" 4 4 12>
-<name "スイセン" "!YA0003">
-「天界版のギュンギュスカー商会とお考えください」
+<name "Suisen" "!YA0003">
+"Think of us as the Celestia version of
+ Gunguskar."
 #
 <sprite "ta06a003.agf" 4 4 12>
-<name "スイセン" "!YA0004">
-「まあ、ギュンギュスカー商会ほど影響力を持って
-　はいませんが……」
+<name "Suisen" "!YA0004">
+"Well, we don't have quite the same reach as
+ Gunguskar though."
 #
-<name "ダークス">
-「そうか」
+<name "Darx">
+"I see."
 #
 <sprite "ta06a004.agf" 4 4 12>
-<name "スイセン" "!YA0005">
-「ダークス様にお会いしたかったのは、ここでの商
-　売の許可を頂きたく思いまして」
+<name "Suisen" "!YA0005">
+"I wanted to meet you and would like your
+ permission to do business here."
 #
-<name "ダークス">
-「商売？」
+<name "Darx">
+"Business?"
 #
 <sprite "ta06a003.agf" 4 4 12>
-<name "スイセン" "!YA0006">
-「はい。
-　ここには、天界から移住された方がそれなりに居
-　ると思います」
+<name "Suisen" "!YA0006">
+"Yes. I believe there are a number of people
+ here from Celestia."
 #
 <sprite "ta06a004.agf" 4 4 12>
-<name "スイセン" "!YA0007">
-「こちらでの生活に不自由は無いでしょうが、天界
-　の品が恋しくなる方も居るのではないかと思い、
-　参上した次第です」
+<name "Suisen" "!YA0007">
+"While I'm sure their lives here are
+ comfortable, they are no doubt missing some
+ of Celestia's wares, and I would like to
+ provide them."
 #
-<name "ダークス">
-「なるほど」
+<name "Darx">
+"I see."
 #
-<name "ダークス">
-「あー、別に構わんと言ってやりたいんだがな。
-　そういう事を勝手に決めると怒るのが居るんだ。
-　これが」
+<name "Darx">
+"Um, I'd say that I don't mind personally,
+ but I think I'd ruffle somebody's feathers if
+ I did that."
 #
 <sprite "ta06a003.agf" 4 4 12>
-<name "スイセン" "!YA0008">
-「どなたですか？」
+<name "Suisen" "!YA0008">
+"Whose?"
 #
-<name "ダークス">
-「ギュンギュスカー商会の方々」
+<name "Darx">
+"Gunguskar's."
 #
 <sprite "ta06a005.agf" 4 4 12>
-<name "スイセン" "!YA0009">
-「先に手を付けられたのはギュンギュスカー商会。
-　それは認めますが、それ以後、他の商会の参入を
-　阻むのは商人としてどうかと」
+<name "Suisen" "!YA0009">
+"I accept that they were here before us, but
+ what kind of merchant stops other merchants
+ from opening their own business in the same
+ place?"
 #
 <sprite "ta06a003.agf" 4 4 12>
-<name "スイセン" "!YA0010">
-「それとも、ダークス様はギュンギュスカー商会と
-　独占契約でもされているのですか？
-　私共の情報では、そういった契約は無いとなって
-　おりますが」
+<name "Suisen" "!YA0010">
+"Or did you have an exclusive contract with
+ them? According to our information, no such
+ thing exists."
 #
-<name "ダークス">
-「確かにそんな契約はしてないけどな。
-　世の中には仁義ってのがあるだろ」
+<name "Darx">
+"I certainly don't have a contract like that,
+ but fair's fair, right?"
 #
-<name "ダークス">
-「色々世話になっておきながら、後からちょっと条
-　件の良いのがあるから鞍替えってのは……嫌われ
-　ると思わないか？」
+<name "Darx">
+"They've done a lot for me, and if I were to
+ turn my back on them now...
+ Don't you think that'd cause some problems?"
 #
 <sprite "ta06a004.agf" 4 4 12>
-<name "スイセン" "!YA0011">
-「確かにそうですね。
-　ですが、私共が求めるのは鞍替えではありません。
-　新しい、ここには無い商品を販売させて欲しいと
-　言っているだけです」
+<name "Suisen" "!YA0011">
+"You are quite correct, but we are not asking
+ you to turn your back on them.
+ Just that we be allowed to sell commodities
+ that cannot be found here."
 #
-<name "ダークス">
-「なるほど。
-　じゃあ、別にギュンギュスカー商会が来ても大丈
-　夫だろう。
-　少し待ってくれ」
+<name "Darx">
+"I see. Then it'll be okay with you if we have
+ someone from Gunguskar join this
+ conversation.
+ One moment."
 #
 <sprite "ta06a005.agf" 4 4 12>
-<name "スイセン" "!YA0012">
-「ふふ。
-　承知しました」
+<name "Suisen" "!YA0012">
+"Heheh.
+ Of course."
 #
 <sprite "ta06a003.agf" 4 4 12>
-<name "スイセン" "!YA0013">
-「ギュンギュスカー商会の到着が楽しみです」
+<name "Suisen" "!YA0013">
+"I look forward to Gunguskar's involvement."
 #
 <removesprite -1 11>
 <music 16>
 <background "ev036a00.agf" 10>
-<name "マクドゥ" "!ZA0085">
-「ふんっ」
+<name "Macdo" "!ZA0085">
+"Hmph."
 #
-<name "スイセン" "!YA0014">
-「ふふふ」
+<name "Suisen" "!YA0014">
+"Heheheh."
 #
-<name "ダークス">
-「え？
-　なに、この雰囲気？」
+<name "Darx">
+"Huh?
+ What's this atmosphere?"
 #
-<name "ソフィア" "!ZB0177">
-「わ、わかりません」
+<name "Sofia" "!ZB0177">
+"I-I don't know."
 #
-　二人が出会ってから、睨み合っていた。
+The two have been staring at each other since
+they met.
 #
-<name "ラキア" "!ZC0146">
-「ダークス様、マズいですよ。
-　あの組み合わせはマズい」
+<name "Rakia" "!ZC0146">
+"Darx, this is bad.
+ This combination is really bad."
 #
-<name "ダークス">
-「なに、あの二人、面識があるの？」
+<name "Darx">
+"What? Do they know each other?"
 #
-<name "ラキア" "!ZC0147">
-「ガンガンにやりあってるライバル関係です」
+<name "Rakia" "!ZC0147">
+"They have a rivalry that goes back years."
 #
-<name "ラキア" "!ZC0148">
-「お互い、十回以上、相手の商売を潰してます」
+<name "Rakia" "!ZC0148">
+"They've both destroyed the other's business
+ a dozen times over."
 #
-<name "ダークス">
-「な、なるほど……」
+<name "Darx">
+"I-I see."
 #
-<name "ラキア" "!ZC0149">
-「とりあえず、黙って様子を伺いましょう」
+<name "Rakia" "!ZC0149">
+"For now, let's just watch and wait."
 #
-<name "スイセン" "!YA0015">
-「ここで商売を始めます。
-　アンゼルム商会のスイセンです。
-　この地の先任者に、ご挨拶させて頂きます」
+<name "Suisen" "!YA0015">
+"I am starting a business here.
+ I am Suisen from the Anselm Company. 
+ It's my honor to greet our predecessors."
 #
-<name "マクドゥ" "!ZA0086">
-「それはご丁寧に」
+<name "Macdo" "!ZA0086">
+"How very kind of you."
 #
-<name "スイセン" "!YA0016">
-「では、今後ともよろしくお願いします。
-　細かい話は後ほど、下でお茶でも飲みながらで構
-　いませんか」
+<name "Suisen" "!YA0016">
+"I look forward to our business together.
+ Why don't we discuss the details downstairs
+ over a cup of tea?"
 #
-<name "マクドゥ" "!ZA0087">
-「いいだろう」
+<name "Macdo" "!ZA0087">
+"Fine."
 #
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta06a003.agf" 4 4 11>
-<name "スイセン" "!YA0017">
-「では、ダークス様。
-　これからもよろしくお願いします」
+<name "Suisen" "!YA0017">
+"Well then, Darx.
+ I look forward to doing business with you."
 #
 <removesprite -1 11>
-　スイセンは頭を下げ、部屋から出て行った。
+She bows and leaves.
 #
-<name "ダークス">
-「え？
-　良いのか？
-　話が商売やる事になってたけど」
+<name "Darx">
+"Huh?
+ Is all good?
+ I thought you were going to discuss
+ business."
 #
-　俺が少し混乱していると、マクドゥがこれまでに
-　なく丁寧に頭を下げた。
+Macdo bows her head to me in my confusion,
+more politely than she's ever acted before.
 #
 <sprite "ta02a004.agf" 4 4 11>
-<name "マクドゥ" "!ZA0088">
-「ダークス様」
+<name "Macdo" "!ZA0088">
+"Darx."
 #
-<name "ダークス">
-「な、なんだ？」
+<name "Darx">
+"Y-Yes?"
 #
 <sprite "ta02a005.agf" 4 4 12>
-<name "マクドゥ" "!ZA0089">
-「我が商会の到着まで、口約束すら相手に与えなかっ
-　たそうで」
+<name "Macdo" "!ZA0089">
+"I believe I never formally spoke a promise
+ to you on behalf of our company since my
+ arrival."
 #
 <sprite "ta02a026.agf" 4 4 12>
-<name "マクドゥ" "!ZA0091">
-「大変、ありがとうございます。
-　我が商会は、これまで以上の励みを持って、ダー
-　クス様の御商売を支援いたします。
-　今後とも、よろしくお願いします」
+<name "Macdo" "!ZA0091">
+"Thank you for everything you've done.
+ Our company will continue supporting you in
+ your endeavors, now more than ever.
+ Thank you for your continued patronage."
 #
-<name "ダークス">
-「お、おう」
+<name "Darx">
+"H-Hey."
 #
 <sprite "ta02a028.agf" 4 4 12>
-<name "マクドゥ" "!ZA0092">
-「できれば、腐れ天使商会を叩き返して貰えれば、
-　もっと嬉しかったのですけどね」
+<name "Macdo" "!ZA0092">
+"Of course, if you were to kick that garbage
+ angel business out on their asses, I would
+ be even more appreciative."
 #
-<name "ダークス">
-「い、色々……あるから……すまない」
+<name "Darx">
+"T-There's um, lots of, um... sorry."
 #
 <removesprite -1 11>
 <sprite "ta08a012.agf" 2 5 11>
 <sprite "ta02a028.agf" 6 4 11>
-<name "ラキア" "!ZC0150">
-「マクドゥ様、マクドゥ様。
-　大魔王様ですらアンゼルム商会の面談は断れない
-　んですから、無茶を言うのは……」
+<name "Rakia" "!ZC0150">
+"Macdo, Macdo.
+ Even the Great Lord can't turn away Anselm.
+ Please do not be unreasonable..."
 #
 <sprite "ta02a029.agf" 6 4 12>
-<name "マクドゥ" "!ZA0093">
-「むううう」
+<name "Macdo" "!ZA0093">
+"Rrrrrr..."
 #
 <removesprite -1 11>
 <sprite "ta08a023.agf" 4 4 11>
-<name "ラキア" "!ZC0151">
-「ダークス様。
-　ですが、本当に私達の到着まで、何もお話を進め
-　なかった件。
-　本当に感謝しています」
+<name "Rakia" "!ZC0151">
+"Darx, thank you so much for not agreeing to
+ anything without consulting with us first.
+ We truly appreciate it."
 #
 <sprite "ta08a004.agf" 4 4 12>
-<name "ラキア" "!ZC0152">
-「あと、ソフィア」
+<name "Rakia" "!ZC0152">
+"And, Sofia."
 #
 <removesprite -1 11>
 <sprite "ta01a023.agf" 4 4 11>
-<name "ソフィア" "!ZB0178">
-「は、はい」
+<name "Sofia" "!ZB0178">
+"Y-Yes?"
 #
 <removesprite -1 11>
 <sprite "ta08a016.agf" 4 4 11>
-<name "ラキア" "!ZC0153">
-「説教です。
-　来なさい」
+<name "Rakia" "!ZC0153">
+"A lesson.
+ Come."
 #
 <removesprite -1 11>
 <sprite "ta08a016.agf" 2 4 11>
 <sprite "ta01a028.agf" 6 5 11>
-<name "ソフィア" "!ZB0179">
-「あうう……」
+<name "Sofia" "!ZB0179">
+"Oohh..."
 #
 <removesprite -1 11>
-　三人は出て行った。
+The three leave.
 #
-　俺は近くにいたギュンギュスカーメイドに声を掛
-　けた。
+I flag a nearby Gunguskar maid over.
 #
-<name "ダークス">
-「なんでソフィアが説教を食らうんだ？」
+<name "Darx">
+"Why is Sofia getting a lesson?"
 #
 <sprite "ta34a002.agf" 4 4 11>
-<name "商会メイド" "!AC0042">
-「あー……完全に脇が甘かったって事ですから。
-　特にアンゼルム商会が来ているのに、同席してい
-　なかったのが大きいですね」
+<name "Company Maid" "!AC0042">
+"Umm... because they were caught completely by
+ surprise. It's a very big deal that they
+ didn't know someone was coming, especially
+ when it's Anselm."
 #
-<name "商会メイド" "!AC0043">
-「ダークス様のお声一つで、この街からギュンギュ
-　スカー商会が締め出される可能性もありましたか
-　ら」
+<name "Company Maid" "!AC0043">
+"With one word from you, you could completely
+ shut Gunguskar out from the city."
 #
-<name "ダークス">
-「……心配なら独占契約、結ぶか？」
+<name "Darx">
+"...If they're that worried about it, why not
+ make an exclusive contract?"
 #
 <sprite "ta34a000.agf" 4 4 12>
-<name "商会メイド" "!AC0044">
-「商会の方針で、そういった契約は基本的にはしま
-　せん。
-　他の商会が来ても、品質で勝てば良い話ですから」
+<name "Company Maid" "!AC0044">
+"It's company policy to not make such
+ agreements. Even if other businesses come,
+ we succeed by quality."
 #
-<name "ダークス">
-「なるほど」
+<name "Darx">
+"I see."
 #
 <removesprite -1 11>
-　遠くでソフィアの悲鳴を聞きながら、焦って何か
-　決めなくて良かったと思った。
+As I hear Sofia scream in the distance, I'm
+glad I didn't rush to make a decision.
 #
-<name "ダークス">
-「で、なんでスイセンが商売をやる事は確定になっ
-　ていたんだ？」
+<name "Darx">
+"So, why was it just accepted that Suisen
+ would be doing business here then?"
 #
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!AC0045">
-「抵抗しても無駄と知っているんじゃないですか」
+<name "Company Maid" "!AC0045">
+"Don't you know there are some things that
+ it's pointless to resist?"
 #
-<name "ダークス">
-「なるほど」
+<name "Darx">
+"I see."
 #
 <removesprite -1 11>
-　じゃあ、ソフィアが同席しても無力だったんじゃ
-　ないのかなぁ。
+So what does it matter if Sofia warned them
+about it or not?
 #
-　まあ、口出しは止めておこう。
+Well, I better just stay out of it.
 #
 \x78\x78

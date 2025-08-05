@@ -1,47 +1,50 @@
 ﻿<music 4>
 <background "bg009a0.agf" 10>
 <sprite "ta18a018.agf" 4 4 11>
-<name "ロッタ" "!HB0070">
-「えへへー。
-　魔王様の事、好きだよー、優しいしー」
+<name "Lotta" "!HB0070">
+"Hahaha.
+ I like the Overlord.
+ He's so nice."
 #
 <removesprite -1 11>
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta19a015.agf" 4 4 11>
-<name "アオ" "!WA0124">
-「魔王様。
-　まさか、ロッタにまで……」
+<name "Ao" "!WA0124">
+"Overlord, don't tell me, you..."
 #
-<name "ダークス">
-「出してない、出してない」
+<name "Darx">
+"I didn't.
+ I didn't."
 #
 <sprite "ta19a003.agf" 4 4 12>
-<name "アオ" "!WA0125">
-「失礼しました」
+<name "Ao" "!WA0125">
+"Excuse me."
 #
-<name "ダークス">
-「気にするな。
-　失礼した分、返して貰うから」
+<name "Darx">
+"Don't worry about it.
+ You'll just have to make up for the
+ rudeness."
 #
 <sprite "ta19a001.agf" 4 4 12>
-<name "アオ" "!WA0126">
-「え？」
+<name "Ao" "!WA0126">
+"Huh?"
 #
 <removesprite -1 11>
-　アオの膣内で、二回ほど射精した。
+I come twice inside her.
 #
 <sprite "ta17a014.agf" 4 4 11>
-<name "タマガ" "!PB0096">
-「あの、魔王様。
-　まさかロッタにまで……」
+<name "Tamaga" "!PB0096">
+"Um, Overlord.
+ Don't tell me you and Lotta..."
 #
-<name "ダークス">
-「……」
+<name "Darx">
+"..."
 #
 <removesprite -1 11>
-　タマガの膣内でも、二回ほど射精した。
+I come twice in Tamaga.
 #
-　自分の信用の無さに、少し驚いた。
+I'm a little disappointed in the lack of faith
+people have in me.
 #
 \x78\x78

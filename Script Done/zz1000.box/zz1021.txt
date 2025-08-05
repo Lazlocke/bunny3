@@ -1,120 +1,128 @@
 ﻿<music 4>
 <background "bg009a0.agf" 10>
-　一階でマクドゥとスイセンが話していると聞いた
-　ので、様子を見に行った。
+I heard Macdo and Suisen talking and went to
+check on them.
 #
 <music 16>
 <background "ev036a00.agf" 10>
 <background "ev036b00.agf" 10>
-<name "マクドゥ" "!ZA0094">
-「おどれ、ショバ荒らしか？
-　えー度胸やの」
+<name "Macdo" "!ZA0094">
+"What are you, a swindler?
+ Don't we have some brass."
 #
 <background "ev036b01.agf" 10>
-<name "スイセン" "!YA0023">
-「あーん？
-　ショバ荒らし？
-　なにゆーてんねん」
+<name "Suisen" "!YA0023">
+"Eeeh?
+ A swindler?
+ What're you bitching about?"
 #
-<name "スイセン" "!YA0024">
-「アンタんとこがしょーもない商売やっとーから、
-　わざわざ商品持ってきただけやろが」
+<name "Suisen" "!YA0024">
+"You're just running your shop like a junk
+ heap, so I had come all this way to bring
+ quality products."
 #
-<name "スイセン" "!YA0025">
-「それでアンタんとこの売り上げが落ちるんか？
-　あー、落ちるかぁ。
-　隣に優良店があると、扱ってる商品がちごーても
-　比べられるからなぁ」
+<name "Suisen" "!YA0025">
+"So what? Your sales gonna hurt? Oh no, there
+ goes your business. That's what happens when
+ a real store opens next door and people can
+ see what quality products are."
 #
-<name "スイセン" "!YA0026">
-「そりゃ、すまんかったな。
-　もーしわけない」
+<name "Suisen" "!YA0026">
+"I am so sorry about that.
+ So very damn sorry."
 #
-<name "マクドゥ" "!ZA0095">
-「テメェ。
-　舐め腐った事ゆーてたら、しばきまわっそ」
+<name "Macdo" "!ZA0095">
+"You little...
+ Keep talking like that and I'll kick your
+ ass."
 #
-<name "スイセン" "!YA0027">
-「おー怖い怖い。
-　すぐ暴力や」
+<name "Suisen" "!YA0027">
+"Ooh, so scary.
+ Such a thug."
 #
-<name "スイセン" "!YA0028">
-「商売人は金と商品で勝負するもんちゃうか？」
+<name "Suisen" "!YA0028">
+"I thought a merchant was supposed to win with
+ prices and products."
 #
-<name "マクドゥ" "!ZA0096">
-「えー度胸やのぉ。
-　そこまでゆーなら、金と商品で勝負じゃ」
+<name "Macdo" "!ZA0096">
+"Now you've said it.
+ If you're so confident, then let's fight with
+ prices and products."
 #
-<name "マクドゥ" "!ZA0097">
-「テメェんとこの腐れ天使商会が潰れるまでやった
-　るからの。
-　覚悟せぇや！」
+<name "Macdo" "!ZA0097">
+"I'll crush your shitty angel company into 
+ dust.
+ Bring it on!"
 #
-<name "スイセン" "!YA0029">
-「えーで、いくらでも付き合ったんで。
-　せやけど、途中で泣いても許さんからの」
+<name "Suisen" "!YA0029">
+"Fine. I'll play with your company all you 
+ want. Don't come crying to me when it's too
+ much for you."
 #
-<name "スイセン" "!YA0030">
-「あー……でも、ワイは優しいからなぁ」
+<name "Suisen" "!YA0030">
+"Oh, but I do have a kind soul."
 #
-<name "スイセン" "!YA0032">
-「裸土下座するなら許したるで。
-　その後、降伏した犬みたいに腹みせろや。
-　よしよしと撫でたるさかい、えんりょのー嬉ショ
-　ン垂らしたってくれや」
+<name "Suisen" "!YA0032">
+"Strip and beg for forgiveness and I'll go
+ easy. And then roll on your back for me like 
+ a dog. I'll pet you and scratch you until you
+ piss yourself with glee."
 #
-<name "マクドゥ" "!ZA0098">
-「なかなかおもろい事ゆーやんけ。
-　いまゆーた事全部、そっちに返したらぁ」
+<name "Macdo" "!ZA0098">
+"That's a pretty amusing thing to say.
+ I could say it all right back to you."
 #
-　……
+...
 #
-<name "ソフィア" "!ZB0180">
-「あの二人、急に喋り方が変わったんですけど」
+<name "Sofia" "!ZB0180">
+"They're talking like two completely different
+ people."
 #
-<name "ラキア" "!ZC0154">
-「高級商人語よ。
-　私でも使いこなすのが難しいわ」
+<name "Rakia" "!ZC0154">
+"It's high level merchant language.
+ Even I haven't mastered it yet."
 #
-<name "ソフィア" "!ZB0181">
-「あ、あれが……高級商人語」
+<name "Sofia" "!ZB0181">
+"T-That's... high level merchant language?"
 #
-　ガラの悪いおっさんの喧嘩にしか見えない。
+Sounded more like a pissing match between two
+geezers.
 #
-<name "ラキア" "!ZC0155">
-「ちなみに、優勢なのはスイセンさんの……あっ！」
+<name "Rakia" "!ZC0155">
+"By the way, Suisen has the advantage right
+ now... Ah!"
 #
-<name "ソフィア" "!ZB0182">
-「いま、マクドゥ様、スイセンさんを殴りませんで
-　した？」
+<name "Sofia" "!ZB0182">
+"Did Macdo just hit Suisen?"
 #
-<name "ラキア" "!ZC0156">
-「じ、時間を越えるパンチ。
-　タ、タイムブロー」
+<name "Rakia" "!ZC0156">
+"T-That was a punch beyond time.
+ A chrono blow."
 #
-<name "ラキア" "!ZC0157">
-「まさか、あの技を使えるなんて……」
+<name "Rakia" "!ZC0157">
+"I can't believe she can use that
+ technique..."
 #
-<name "ソフィア" "!ZB0183">
-「な、殴って良いんですか？
-　途中で金と商品で勝負だって言ってた感じがする
-　んですけど……」
+<name "Sofia" "!ZB0183">
+"H-Hitting's allowed?
+ I thought it was supposed to be all about
+ prices and products..."
 #
-<name "ラキア" "!ZC0158">
-「タイミング次第なの。
-　あれは絶妙のタイミングだったわ。
-　スイセンさんも、攻撃されたとは取れない。
-　なにせ、自分がボケたところだったから」
+<name "Rakia" "!ZC0158">
+"It's about timing, and that was immaculate
+ timing. Suisen can't even say that she was
+ attacked.
+ Even I can't believe the punch line."
 #
-<name "ソフィア" "!ZB0184">
-「よ、よくわかりません」
+<name "Sofia" "!ZB0184">
+"I-I don't get it."
 #
-<name "ラキア" "!ZC0159">
-「とにかく、今の一発で形勢が不利からイーブンに
-　まで持っていったわ。
-　流石はマクドゥ様」
+<name "Rakia" "!ZC0159">
+"Anyway, that one thrust took her from a
+ disadvantage back to an even playing field.
+ Well done, Macdo!"
 #
-　ルールのわからないスポーツを観戦している気分
-　になる俺だった。
+I feel like I'm watching a sport with rules I
+can't even begin to understand.
 #
 \x78\x78

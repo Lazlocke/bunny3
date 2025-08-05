@@ -1,50 +1,51 @@
 ﻿<music 3>
 <background "bg010a0.agf" 10>
-<name "ラッサン" "!ZE0035" "ka38a000.agf">
-「魔王はん、魔王はん」
+<name "Lassan" "!ZE0035" "ka38a000.agf">
+"Overlor', Overlor'."
 #
-<name "ダークス">
-「ん？」
+<name "Darx">
+"Hm?"
 #
-<name "ラッサン" "!ZE0036" "ka38a000.agf">
-「わいの土下座と同じぐらいの、前に二人見たって
-　話ですけど、誰でっか？」
+<name "Lassan" "!ZE0036" "ka38a000.agf">
+"When I waz bowin', those guys doin' it same
+ as me, who were they?"
 #
-<name "ダークス">
-「フォーゼロッテ宮で働いているゴランと、俺が冒
-　険者やってた頃の知人でタツマキってヤツだ」
+<name "Darx">
+"Golan, who works at Forzelotte's Shrine, and
+ Tatsumaki, who I knew when I was an 
+ adventurer."
 #
-<name "ラッサン" "!ZE0037" "ka38a000.agf">
-「……その二人、ひょっとして結婚してるんちゃい
-　ますか？」
+<name "Lassan" "!ZE0037" "ka38a000.agf">
+"...Are they both married by chance?"
 #
-<name "ダークス">
-「ああ、そうだな」
+<name "Darx">
+"Yeah, that's right."
 #
-<name "ダークス">
-「ん？
-　どうした？
-　急に涙して」
+<name "Darx">
+"Hm?
+ What's the matter?
+ Why the tears?"
 #
-<name "ラッサン" "!ZE0038" "ka38a000.agf">
-「おうた事ない二人やけど、心の繋がりを感じまし
-　てな」
+<name "Lassan" "!ZE0038" "ka38a000.agf">
+"We never met, but I c'n tell they're kindre'
+ spirits."
 #
-<name "ラッサン" "!ZE0039" "ka38a000.agf">
-「うう……わい、一人やなかったんや」
+<name "Lassan" "!ZE0039" "ka38a000.agf">
+"Oooh... I ain't alone!"
 #
-<name "ラッサン" "!ZE0040" "ka38a000.agf">
-「まだ見ぬ同志に、感謝や！
-　よーし、今日も頑張るで！」
+<name "Lassan" "!ZE0040" "ka38a000.agf">
+"Thank you, comrades I ain't never met!
+ Right! Time to git ta work!"
 #
-<name "ダークス">
-「……俺も一応、結婚してるけど」
+<name "Darx">
+"...I'm married too, you know."
 #
-<name "ラッサン" "!ZE0041" "ka38a000.agf">
-「土下座が必要無いハーレム作れる方は、仲間に入
-　れまへん」
+<name "Lassan" "!ZE0041" "ka38a000.agf">
+"Makin' a harem don' mean ever gettin' down on
+ yer knees.
+ Ya ain't one of us."
 #
-<name "ダークス">
-「あ、そうですか……」
+<name "Darx">
+"Oh, I see..."
 #
 \x78\x78

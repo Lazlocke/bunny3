@@ -3711,15 +3711,15 @@ Well, I better just stay out of it.
 :14BE2
 <music 4>
 <background "bg009a0.agf" 10>
-I heard Macdo and Suisen talking and checked
-in on them.
+I heard Macdo and Suisen talking and went to
+check on them.
 #
 <music 16>
 <background "ev036a00.agf" 10>
 <background "ev036b00.agf" 10>
 <name "Macdo" "!ZA0094">
 "What are you, a swindler?
- Don't we have some balls?"
+ Don't we have some brass."
 #
 <background "ev036b01.agf" 10>
 <name "Suisen" "!YA0023">

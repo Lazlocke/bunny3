@@ -2543,7 +2543,7 @@ The two start playing.
 #
 <sprite "ta10a024.agf" 4 4 12>
 <name "Forzelotte" "!XA0134">
-"Yes. Well, they did the work that I did not.
+"Yes. Well, they did the work that I could not.
  Take good care of them."
 #
 <name "Darx">

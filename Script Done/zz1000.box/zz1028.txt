@@ -1,154 +1,161 @@
 ﻿<music 17>
 <background "ev059a00.agf" 10>
-　部屋に帰って休もうと思ったら、部屋には全裸の
-　女性が多数待機していた。
+I go back to my room to get some rest, but
+there are a bunch of naked women waiting for
+me there.
 #
-<name "全裸の娘" "!HC0079">
-「お帰りなさいませー」
+<name "Naked Girl" "!HC0079">
+"Welcome home."
 #
-<name "股を開く娘" "!SB0158">
-「魔王様♪」
+<name "Spread Legged Girl" "!SB0158">
+"Overlord.♪"
 #
-<name "潤んだ瞳の娘" "!RB0142">
-「あは、魔王様だ」
+<name "Seductive Girl" "!RB0142">
+"Haha, Overlord."
 #
-<name "下着姿の娘" "!LB0108">
-「あーん、おそいー」
+<name "Underwear Girl" "!LB0108">
+"Aaah, you're late."
 #
-<name "陰部を弄る娘" "!GB0107">
-「ふぁ、私のココ、もう準備出来てますから」
+<name "Masturbating Girl" "!GB0107">
+"Ahhh...
+ My pussy's ready for you."
 #
-<name "誘う娘" "!QB0158">
-「私も……」
+<name "Inviting Girl" "!QB0158">
+"Mine too..."
 #
-<name "胸の大きな娘" "!WB0149">
-「んぁ、魔王様。
-　私の胸など、如何ですか？」
+<name "Big Breasted Girl" "!WB0149">
+"Mm... Overlord.
+ Do you like my breasts?"
 #
-<name "ダークス">
-「嬉しいが、少し待て」
+<name "Darx">
+"This is great, but hold on."
 #
-<name "ダークス">
-「そして、状況を説明できるヤツは居るか？」
+<name "Darx">
+"So, who's going to explain what's going on
+ here?"
 #
-<name "商会メイド" "!PC0268">
-「僭越ながら私が」
+<name "Company Maid" "!PC0268">
+"If you'll allow me."
 #
-　俺の後ろに居たメイドが居た。
+There's a maid standing behind me.
 #
-　メイド服を着ている事から、目の前の女性達と一
-　線を引いているのがわかる。
+Considering that she's dressed, there's a 
+clear line differentiating her from the rest
+of them.
 #
-<name "ダークス">
-「頼む」
+<name "Darx">
+"Please."
 #
-<name "商会メイド" "!PC0269">
-「街、発展しましたよね」
+<name "Company Maid" "!PC0269">
+"The city had grown, yes?"
 #
-<name "ダークス">
-「ああ」
+<name "Darx">
+"Yeah."
 #
-<name "商会メイド" "!PC0270">
-「魔王様、女性好きですよね」
+<name "Company Maid" "!PC0270">
+"And you are fond of women, yes?"
 #
-<name "ダークス">
-「ああ」
+<name "Darx">
+"Yeah."
 #
-<name "商会メイド" "!PC0271">
-「街の発展に感謝する女性の方々が、魔王様に抱か
-　れたいと押し寄せ。
-　暴動になりそうでしたので、ここにお通しした次
-　第です」
+<name "Company Maid" "!PC0271">
+"The women who are grateful for the 
+ development of the city are eager to have
+ sex with you. It seemed like it would soon
+ lead to a riot, hence this situation."
 #
-<name "商会メイド" "!PC0272">
-「後は魔王様がなんとかしてくれると信じて」
+<name "Company Maid" "!PC0272">
+"I have faith that you can take over from
+ here."
 #
-<name "商会メイド" "!PC0273">
-「以上です」
+<name "Company Maid" "!PC0273">
+"The end."
 #
-<name "ダークス">
-「えっと……好きに抱けって事？」
+<name "Darx">
+"Uh, so have sex with them?"
 #
-<name "商会メイド" "!PC0274">
-「はい。
-　ちなみに、持ち物検査、病気検査はクリア。
-　身元調査等でも問題はありません」
+<name "Company Maid" "!PC0274">
+"Yes. By the way, they have been frisked and
+ inspected for diseases.
+ Their background checks were clear as well."
 #
-<name "商会メイド" "!PC0275">
-「最終面接はソフィア様がされ、ここに居るのはそ
-　れに合格したメンバーです」
+<name "Company Maid" "!PC0275">
+"Sofia conducted the final interview, and
+ those who passed are here."
 #
-<name "ダークス">
-「つまり、街で有力者になりそうなヤツの関係者っ
-　て事か」
+<name "Darx">
+"Meaning that these are all people of some
+ influence within the city?"
 #
-<name "商会メイド" "!PC0276">
-「です」
+<name "Company Maid" "!PC0276">
+"Indeed."
 #
-<name "ダークス">
-「ＯＫ。
-　わかった。
-　もう下がっていいぞ」
+<name "Darx">
+"Okay. Got it.
+ You can leave now."
 #
-<name "ダークス">
-「ああ、三時間後ぐらいに全員分の食事を頼む」
+<name "Darx">
+"Oh, and send food for everybody in about
+ three hours."
 #
-<name "商会メイド" "!PC0277">
-「承知しました」
+<name "Company Maid" "!PC0277">
+"As you wish."
 #
-　そしてメイドが去り、部屋の扉が閉められた。
+She leaves, closing the door behind her.
 #
-<name "ダークス">
-「嫌がっても、逃がさないからな」
+<name "Darx">
+"You're not getting away, even if you don't
+ like it."
 #
-<name "全裸の娘" "!HC0080">
-「はい♪」
+<name "Naked Girl" "!HC0080">
+"Okay.♪"
 #
-<name "股を開く娘" "!SB0159">
-「よろしくお願いします」
+<name "Spread Legged Girl" "!SB0159">
+"I look forward to it."
 #
-<name "潤んだ瞳の娘" "!RB0143">
-「あ、わ、私から……」
+<name "Seductive Girl" "!RB0143">
+"Ah, I-I..."
 #
-　……
+...
 #
-　三時間後。
+Three hours later...
 #
 <background "ev059a01.agf" 10>
-<name "果てた娘" "!HC0081">
-「ぁ、うぁ……ぁ……」
+<name "Exhausted Girl" "!HC0081">
+"Ah...ah...ahh..."
 #
-<name "気絶する娘" "!SB0160">
-「ふぁ……」
+<name "Fainted Girl" "!SB0160">
+"Ahhh..."
 #
-<name "快楽に浸る娘" "!RB0144">
-「ぁぁぁ……」
+<name "Basking Girl" "!RB0144">
+"Aaahhh..."
 #
-<name "商会メイド" "!PC0278">
-「ご、ご苦労様です」
+<name "Company Maid" "!PC0278">
+"W-Well done."
 #
-<name "ダークス">
-「ん？
-　もう三時間か？」
+<name "Darx">
+"Hm?
+ Three hours already?"
 #
-<name "商会メイド" "!PC0279">
-「は、はい」
+<name "Company Maid" "!PC0279">
+"Y-Yes."
 #
-<name "ダークス">
-「ああ、そこに置いておいてくれ」
+<name "Darx">
+"Ah, just leave it there."
 #
-　俺は抱いている女に射精しながら、全員に言う。
+I speak to all the women I've come inside.
 #
-<name "ダークス">
-「食える者から食っておけ。
-　まだまだ続くぞ」
+<name "Darx">
+"Whoever can should eat.
+ We're just getting started."
 #
-<name "耐える娘" "!LB0109">
-「は、はひ……」
+<name "Enduring Girl" "!LB0109">
+"O-Okay..."
 #
-<name "頑張る娘" "!GB0108">
-「ぁ、うぁ……ま、まだ……」
+<name "Perservering Girl" "!GB0108">
+"A-Ah...
+ M-More...?"
 #
-　住民による歓迎を、俺は楽しく味わった。
+I enjoy the gratitude of my citizens.
 #
 \x78\x78

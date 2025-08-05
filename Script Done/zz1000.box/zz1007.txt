@@ -1,30 +1,33 @@
 ﻿<music 17>
 <background "ev027a02.agf" 10>
-<name "ダークス">
-「ルーアルテ」
+<name "Darx">
+"Rualtei."
 #
-<name "ルーアルテ" "!RA0147">
-「な、なに、んぁ、ふぁ、よ」
+<name "Rualtei" "!RA0147">
+"W-What?
+ Aah...ah..."
 #
-<name "ダークス">
-「正直に言うけど」
+<name "Darx">
+"I want to be honest with you."
 #
-<name "ルーアルテ" "!RA0148">
-「だから、んんぁ、な、なに？」
+<name "Rualtei" "!RA0148">
+"Like I said...mmm...
+ W-What?"
 #
-<name "ダークス">
-「お前のここ、かなり気持ち良いわ」
+<name "Darx">
+"Your pussy feels really good."
 #
 <background "ev027a00.agf" 10>
-<name "ルーアルテ" "!RA0149">
-「馬鹿、アホ、死ねっ！」
+<name "Rualtei" "!RA0149">
+"Asshole! Idiot!
+ Die!"
 #
-<name "ダークス">
-「はははははは」
+<name "Darx">
+"Hahahahaha!"
 #
-<name "ルーアルテ" "!RA0150">
-「あひっ、ひぁっ、ひぁっ、ひぁっ」
+<name "Rualtei" "!RA0150">
+"Aah! Ahh! Aah! Aahh!"
 #
-　俺は仲良くルーアルテとの行為を楽しんだ。
+I enjoy myself with her happily.
 #
 \x78\x78

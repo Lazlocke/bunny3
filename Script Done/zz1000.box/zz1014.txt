@@ -1,448 +1,467 @@
 ﻿<music 5>
 <background "bg011a0.agf" 10>
-　俺が部屋に戻ると、珍しいお客が居た。
+There's an unusual visitor waiting in my
+room.
 #
 <sprite "ta10a005.agf" 4 4 11>
-<name "フォーゼロッテ" "!XA0040">
-「元気そうだな」
+<name "Forzelotte" "!XA0040">
+"You look well."
 #
-<name "ダークス">
-「フォーゼロッテか。
-　その姿って事は……」
+<name "Darx">
+"Forzelotte?
+ And in that form..."
 #
-　フォーゼロッテは身体のサイズを自由に変えられ
-　るが、本人ではない。
+She can change the size of her body however
+she wants, but this isn't actually her.
 #
-　本人であれば、フォーゼロッテの持つ魔力吸収能
-　力によって、この魔王亭に居る者達全てがダウン、
-　もしくは消滅だ。
+If it was, her ability to absorb mana would
+have already at least knocked out every single
+person in the Overlord's Retreat, if not
+killed them.
 #
-　本人はそのような行為を望んでいないので、その
-　ように不用意にフォーゼロッテ宮の最奥にある自
-　室から出る事はない。
+She doesn't want that to happen, so she almost
+never leaves her room deep inside Forzelotte's
+Shrine.
 #
-　出たら出たで、フォーゼロッテ宮の機能的な問題
-　もあるしな。
+There would also be some functional problems
+with Forzelotte's Shrine if she left.
 #
-　だから、本人が身体のサイズを変えているわけで
-　はない。
+So it's clear that this isn't her changing
+her size.
 #
-　ここに来るまで、他の者達は普通に生活していた
-　事からもわかる。
+If it was, there would have been carnage and
+chaos all around us right now.
 #
-　となると……
+Which means...
 #
-<name "ダークス">
-「分身体？」
+<name "Darx">
+"A clone?"
 #
 <removesprite -1 11>
-　俺の触手のように、魔力の一部で作る分身体。
+Like my tentacles, she can create a separate
+body out of her mana.
 #
-　それもありえない。
+This isn't what that is though.
 #
-　分身体であっても、魔力吸収能力は同じだ。
+If it was a clone, it'd still have her mana
+absorption powers.
 #
-　偽者？
+So a fake?
 #
-　しかし、雰囲気、魔力は本人だ。
+But it looks just like her, and it feels like
+her mana.
 #
 <sprite "ta10a004.agf" 4 4 11>
-<name "フォーゼロッテ" "!XA0041">
-「あー、説明するから構えるでない。
-　妻として悲しいぞ」
+<name "Forzelotte" "!XA0041">
+"Oh, I don't mind explaining.
+ Your wife is sad."
 #
-<name "ダークス">
-「やっぱり、本人だよな」
+<name "Darx">
+"I knew it.
+ It is you."
 #
 <sprite "ta10a005.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0042">
-「うむ。
-　しかし、微妙に違うのだ」
+<name "Forzelotte" "!XA0042">
+"Mmhmm, but not quite me."
 #
-<name "ダークス">
-「というと？」
+<name "Darx">
+"What do you mean?"
 #
 <sprite "ta10a006.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0043">
-「この身体の構成魔力は、全て私の魔力だ」
+<name "Forzelotte" "!XA0043">
+"The mana within this body is entirely mine."
 #
 <sprite "ta10a005.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0044">
-「だから、私の身体と言っても差し支えない」
+<name "Forzelotte" "!XA0044">
+"So you would not be wrong to say this body is
+ mine."
 #
 <sprite "ta10a004.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0045">
-「だが、分身体ではなく、直接操作している」
+<name "Forzelotte" "!XA0045">
+"But it is not a clone.
+ I am controlling it directly."
 #
-<name "ダークス">
-「？」
+<name "Darx">
+"Huh?"
 #
 <sprite "ta10a005.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0046">
-「魔法で生み出した身体を、遠隔操作していると思っ
-　て構わぬ」
+<name "Forzelotte" "!XA0046">
+"You can think about it like I'm controlling a
+ body that I created with mana from afar."
 #
-<name "ダークス">
-「じゃあ、本体は？」
+<name "Darx">
+"Then what about the real you?"
 #
 <sprite "ta10a006.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0047">
-「フォーゼロッテ宮の自室で、睡眠状態だな」
+<name "Forzelotte" "!XA0047">
+"Asleep in my room in Forzelotte's Shrine."
 #
 <sprite "ta10a005.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0048">
-「そして、気付いているであろうが、この姿での最
-　大の利点を」
+<name "Forzelotte" "!XA0048">
+"And as I'm sure you've noticed, there is a
+ significant advantage to this body."
 #
-<name "ダークス">
-「周囲の魔力を奪ってしまう能力を……」
+<name "Darx">
+"You don't suck up all the mana around you."
 #
 <sprite "ta10a024.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0049">
-「かなり抑え込む事が可能だ」
+<name "Forzelotte" "!XA0049">
+"I can by and large suppress it."
 #
-<name "ダークス">
-「本当か？」
+<name "Darx">
+"Are you sure?"
 #
 <sprite "ta10a021.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0050">
-「うむ。
-　といっても、周囲限定で、流石に接触すれば吸収
-　してしまうがな」
+<name "Forzelotte" "!XA0050">
+"Mmhmm, but it is limited to just around me.
+ I will absorb it if it comes into physical
+ contact."
 #
-<name "ダークス">
-「完璧に……とはいかないか」
-#
-<sprite "ta10a020.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0051">
-「何事にも欠点はある」
-#
-<sprite "ta10a022.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0052">
-「能力的には、本体の１／１０も出ないだろうし、
-　こちらを操作中に本体に何かあれば影響がある」
+<name "Darx">
+"Not... perfect then, huh?"
 #
 <sprite "ta10a020.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0053">
-「さらに、本体から離れた状態で操作を止めれば、
-　この身体は霧散してしまうし、再構築に一苦労だ」
+<name "Forzelotte" "!XA0051">
+"Nothing is."
 #
 <sprite "ta10a022.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0054">
-「強くなるワケでもないし、本体が無防備になり過
-　ぎるのであまり研究されなかった術だが、私の本
-　体は私の意志に無関係に周囲を攻撃するからな」
+<name "Forzelotte" "!XA0052">
+"It's not even a tenth as strong as my true
+ body, and if something were to happen to me
+ while I was controlling this, it would have
+ a significant effect."
 #
-<name "ダークス">
-「丁度良いわけだ」
+<sprite "ta10a020.agf" 4 4 12>
+<name "Forzelotte" "!XA0053">
+"Furthermore, if I release control of this
+ body too far away from my actual body, it
+ will disintegrate and be difficult to
+ reconstruct."
+#
+<sprite "ta10a022.agf" 4 4 12>
+<name "Forzelotte" "!XA0054">
+"It is not a path to strength, nor a skill 
+ many learn because the main body is left
+ helpless, but mine attacks those around it
+ regardless of my will anyway."
+#
+<name "Darx">
+"So it works for you."
 #
 <sprite "ta10a024.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0055">
-「うむ
-　欠点のいくつかに目を瞑れば、最高だ」
+<name "Forzelotte" "!XA0055">
+"Well, it is useful if you are able to
+ overlook its faults."
 #
 <sprite "ta10a005.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0056">
-「この身体で食事も可能だし、睡眠も取れる」
+<name "Forzelotte" "!XA0056">
+"I can even eat and sleep with this body."
 #
-<name "ダークス">
-「吸収した魔力は、どこに行くんだ？」
+<name "Darx">
+"Where does the mana you absorb go?"
 #
 <sprite "ta10a006.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0057">
-「当然、この身体に溜まる」
+<name "Forzelotte" "!XA0057">
+"It accumulates naturally in this body."
 #
 <sprite "ta10a005.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0058">
-「元の身体に近い位置で操作をやめれば、元の身体
-　の方に魔力が渡される」
+<name "Forzelotte" "!XA0058">
+"If I release control near my real body, the
+ mana will pass to it."
 #
 <sprite "ta10a004.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0059">
-「ん？
-　どうした？」
+<name "Forzelotte" "!XA0059">
+"Hm?
+ What is it?"
 #
-<name "ダークス">
-「す、凄いじゃないか！」
+<name "Darx">
+"T-That's incredible!"
 #
 <sprite "ta10a024.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0060">
-「もっと褒めても構わぬ」
+<name "Forzelotte" "!XA0060">
+"You may continue your praise."
 #
-<name "ダークス">
-「凄い、凄いぞ！」
+<name "Darx">
+"Wow!
+ Incredible!"
 #
 <sprite "ta10a023.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0061">
-「ははははは……っと、なぜ私を小脇に抱え、ベッ
-　ドに連れ込もうとしている？」
+<name "Forzelotte" "!XA0061">
+"Hahahaha...
+ Why are you picking me up under your arm and
+ carrying me to the bed?"
 #
-<name "ダークス">
-「ははははは」
+<name "Darx">
+"Hahahahaha!"
 #
 <sprite "ta10a018.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0062">
-「あ、ちょ、こ、こら、え、あっ」
+<name "Forzelotte" "!XA0062">
+"Ah, hey, w-wait...
+ Eh? Ah!"
 #
 <removesprite -1 11>
 <music 19>
 <background "ev044a00.agf" 10>
-　俺は小さなフォーゼロッテをベッドに連れ込み、
-　早々に行為を開始した。
+I take the little Forzelotte to the bed and
+get started right away.
 #
-<name "フォーゼロッテ" "!XA0063">
-「んぁ、お、お主、ら、乱暴過ぎるぞ」
+<name "Forzelotte" "!XA0063">
+"Mm...
+ Y-You're... t-too rough."
 #
-<name "ダークス">
-「そうか？」
+<name "Darx">
+"Am I?"
 #
-　しっかりと愛撫をしてからの挿入だったし、フォ
-　ーゼロッテの膣内の濡れも十分だ。
+After caressing her thoroughly, I stuck it in.
+She's more than wet enough.
 #
 <background "ev044a01.agf" 10>
-<name "フォーゼロッテ" "!XA0064">
-「うむ。
-　んぁ、い、いつもは、もう少し、んぁ、あっ、あ、
-　ああっ、ひっ」
+<name "Forzelotte" "!XA0064">
+"Mmhmm.
+ Aah... Y-You're always a little more...
+ Aah...ah...ah...ah!"
 #
-<name "ダークス">
-「いつもはどうした？」
+<name "Darx">
+"A little more what?"
 #
-　俺は行為を続け、フォーゼロッテの言葉を塞ぐ。
+I continue and interrupt her.
 #
-<name "フォーゼロッテ" "!XA0065">
-「んんっ……も、もう、ふぁっ」
+<name "Forzelotte" "!XA0065">
+"Mmmm...
+ H-Honestly...
+ Aahhh..."
 #
-<name "ダークス">
-「なんだ？」
+<name "Darx">
+"What?"
 #
-<name "フォーゼロッテ" "!XA0066">
-「す、好きにしろ」
+<name "Forzelotte" "!XA0066">
+"D-Do as you wish."
 #
-<name "ダークス">
-「わかった」
+<name "Darx">
+"Got it."
 #
-　俺はフォーゼロッテの足首を掴んで広げた。
+I grab her ankles and spread her legs.
 #
-　小さなフォーゼロッテの無防備な姿。
+Her tiny body is wide open.
 #
-　そして、俺のモノは深々とそのフォーゼロッテの
-　膣内に納められている。
+And my dick is buried deep inside her.
 #
-　フォーゼロッテの顔を見ると……
+When I look at her face...
 #
-<name "フォーゼロッテ" "!XA0067">
-「好きにしろとこっちは宣言したのだ、さっさと動
-　いて楽しませろ」
+<name "Forzelotte" "!XA0067">
+"I told you to do as you like.
+ Just get moving and amuse yourself."
 #
-　実際に言葉にしたワケではないだろうが、そう言
-　うフォーゼロッテを容易に想像でき、俺の腰は動
-　き出した。
+I doubt she really means that, but I can
+definitely see her saying that and start
+moving my hips.
 #
-<name "フォーゼロッテ" "!XA0068">
-「あっ、んぁ、ひぁんっ」
+<name "Forzelotte" "!XA0068">
+"Ah...ah...aaah!"
 #
-　ゆっくりと動くのは最初だけ。
+Slowly to start.
 #
-　すぐに激しい動きになり、フォーゼロッテの小さ
-　な身体が浮き上がる。
+But soon intensely, forcing her small body
+up.
 #
-　しかし、俺はフォーゼロッテの両足を引き、距離
-　を詰めさせる。
+But I pull her legs down and force her close.
 #
-<name "フォーゼロッテ" "!XA0069">
-「あひっ、ひっ、ふひっ！」
+<name "Forzelotte" "!XA0069">
+"Aah! Ah! Ahhh!"
 #
-　俺のモノのサイズは、小さな身体のフォーゼロッ
-　テには少し大きい。
+My dick looks even bigger going into her tiny
+body.
 #
-　モノ先は常にフォーゼロッテの子宮を突き上げて
-　いる。
+And the tip of my dick is pressing against her
+womb.
 #
-<name "フォーゼロッテ" "!XA0070">
-「ひっ、ふひっ、ひぁっ、あっ、うあっ！」
+<name "Forzelotte" "!XA0070">
+"Aah! Ahh! Aaah! Ah! Aah!"
 #
-　だが、フォーゼロッテはそれを受け入れてくれる。
+But she accepts it.
 #
-<name "フォーゼロッテ" "!XA0071">
-「ふぁ、ぁっ、んんぁっ、ぁは、ぁっ」
+<name "Forzelotte" "!XA0071">
+"Aah! Ah! Mmmm! Aah! Ah!"
 #
-　それが解っているので、俺も遠慮はしない。
+Knowing that, I don't hold back.
 #
-　激しくする事が、愛情の表現になると信じ、小さ
-　な身体のフォーゼロッテを蹂躙する。
+Doing it intensely is a way of showing my 
+love, so I completely violate her small body.
 #
-<name "フォーゼロッテ" "!XA0072">
-「ふぁっ、ぁっ、ぁぁっ、んんっ」
+<name "Forzelotte" "!XA0072">
+"Aah! Ah! Aaah! Ahhh!"
 #
-　そして、接合部からの感覚でフォーゼロッテが達
-　しようとするのを感じると同時に、俺のモノは射
-　精に向けて動いた。
+At the same time as I feel her start to 
+orgasm from where we're connected, my dick
+starts to ejaculate too.
 #
 <background "ev044a02.agf" 10>
-<name "フォーゼロッテ" "!XA0073">
-「ふぁぁぁぁぁぁぁぁぁぁぁぁっ！」
+<name "Forzelotte" "!XA0073">
+"Aaaaaahhhhhhh!"
 #
-　俺の射精と、フォーゼロッテが達するタイミング
-　がピッタリと合う。
+I come at the exact same time as she does.
 #
-<name "フォーゼロッテ" "!XA0074">
-「ぁ、うぁ、ぁ……ぁぁぁぁ……」
+<name "Forzelotte" "!XA0074">
+"Ah...aah...ah...aaaaah..."
 #
-　余韻に浸るフォーゼロッテ。
+She soaks in the afterglow.
 #
-　そのフォーゼロッテの肉体を、また腰を動かして
-　モノで貫く。
+I move my hips and my dick inside her again.
 #
-<name "フォーゼロッテ" "!XA0075">
-「ふひっ！」
+<name "Forzelotte" "!XA0075">
+"Aah!"
 #
-<name "ダークス">
-「久しぶりだから、遠慮しない」
+<name "Darx">
+"It's been a long time, so I wouldn't go
+ easy."
 #
-<name "フォーゼロッテ" "!XA0076">
-「んぁ、ぁ、望む所だ……掛かって来るが良い」
+<name "Forzelotte" "!XA0076">
+"Aah...ah... 
+ That's what I want...
+ Give me everything you have..."
 #
-<name "ダークス">
-「ああ」
+<name "Darx">
+"Yeah."
 #
-　俺は遠慮なく、フォーゼロッテとの行為を楽しんだ。
+I enjoy myself with her without reserve.
 #
 <background "ev044a03.agf" 10>
-<name "フォーゼロッテ" "!XA0077">
-「ぁ、ふぁ……ぁぁ」
+<name "Forzelotte" "!XA0077">
+"Ah...ahh...ahh..."
 #
-　何度も何度も……
+Over and over again...
 #
 <background "ev044a04.agf" 10>
-<name "フォーゼロッテ" "!XA0078">
-「そ、そろそろ……」
+<name "Forzelotte" "!XA0078">
+"T-That's about enough..."
 #
-　執拗に。
+Relentlessly.
 #
 <background "ev044a05.agf" 10>
-<name "フォーゼロッテ" "!XA0079">
-「も、もう良いのでは……」
+<name "Forzelotte" "!XA0079">
+"T-That's enough already..."
 #
-<name "ダークス">
-「お前が相手だからな。
-　まだやれる」
+<name "Darx">
+"It's you.
+ I can keep going."
 #
-<name "フォーゼロッテ" "!XA0080">
-「……ふ」
+<name "Forzelotte" "!XA0080">
+"..."
 #
 <background "ev044a06.agf" 10>
-<name "フォーゼロッテ" "!XA0081">
-「よかろう。
-　お主がもう良いと言うまで、相手をしよう」
+<name "Forzelotte" "!XA0081">
+"Very well.
+ I will stay with you until you're satisfied."
 #
-<name "ダークス">
-「当然だ」
+<name "Darx">
+"Of course."
 #
 <background "bg017a0.agf" 10>
 <music 5>
 <background "bg016a0.agf" 10>
-　三日ぐらい続いた。
+Three days later...
 #
 <background "bg011a0.agf" 10>
 <sprite "ta10a010.agf" 4 4 11>
-<name "フォーゼロッテ" "!XA0082">
-「お、お主。
-　前々から思っていたが……
-　こういった小さい体型の方が好みなのか？」
+<name "Forzelotte" "!XA0082">
+"Y-You...
+ I've wondered for a while, but do you prefer
+ this kind of small figure?"
 #
-<name "ダークス">
-「ん？」
+<name "Darx">
+"Hm?"
 #
 <sprite "ta10a127.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0083">
-「かなり、激しかった」
+<name "Forzelotte" "!XA0083">
+"That was quite intense."
 #
-<name "ダークス">
-「お前との行為だからだ。
-　それに、お前だってその姿の方が盛り上がってい
-　るだろ」
+<name "Darx">
+"Because it was with you.
+ Also, you in that form is pretty arousing."
 #
 <sprite "ta10a113.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0084">
-「そ、それは、その……思い出の姿と言うか」
+<name "Forzelotte" "!XA0084">
+"T-That's, um...
+ A form from long ago, perhaps?"
 #
 <removesprite -1 11>
-　俺とフォーゼロッテが始めて行為に及んだ時、フォ
-　ーゼロッテは今のような姿だった。
+The first time we did it, she looked like
+this.
 #
-<name "ダークス">
-「まだ、やってやろうか」
+<name "Darx">
+"Want to keep going?"
 #
 <sprite "ta10a013.agf" 4 4 11>
-<name "フォーゼロッテ" "!XA0085">
-「うーむ。
-　素敵なお誘いだが、その前に一つ。
-　残念なお知らせがある」
+<name "Forzelotte" "!XA0085">
+"Hmm. That's a tempting invitation, but I do
+ have something unfortunate to share."
 #
-<name "ダークス">
-「ん？」
+<name "Darx">
+"Hm?"
 #
 <sprite "ta10a012.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0086">
-「この身体は妊娠せんのだ。
-　できれば、本体で頼む」
+<name "Forzelotte" "!XA0086">
+"This body cannot become pregnant.
+ If possible, I'd prefer the real one."
 #
-<name "ダークス">
-「あー、まあ、そうか」
+<name "Darx">
+"Ah, well, I see."
 #
 <sprite "ta10a005.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0087">
-「しかし、私の意識はここにある。
-　まあ、別に、こういった行為をしても怒ったりは
-　しないつもりだ」
+<name "Forzelotte" "!XA0087">
+"But my mind is here.
+ Well, I will not be angry even if we did."
 #
-<name "ダークス">
-「とりあえず、今日は余計な事は考えないでおこう」
+<name "Darx">
+"Let's not worry about the little things for
+ today."
 #
 <sprite "ta10a024.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0088">
-「うむ」
+<name "Forzelotte" "!XA0088">
+"Mm."
 #
 <removesprite -1 11>
 <background "bg016a0.agf" 10>
-　さらに一日続いた。
+Another day later...
 #
 <background "bg011a0.agf" 10>
 <sprite "ta10a121.agf" 4 4 11>
-<name "フォーゼロッテ" "!XA0089">
-「ちょ、超、ハードプレイだった……」
+<name "Forzelotte" "!XA0089">
+"T-That was quite sadistic..."
 #
-<name "ダークス">
-「仕事が無ければ、もう少し続けるのに……」
+<name "Darx">
+"I'd keep going if there wasn't work to do."
 #
 <sprite "ta10a020.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0090">
-「こちらも、本体……は心配ないが、子供達の様子
-　が気になる」
+<name "Forzelotte" "!XA0090">
+"I as well.
+ I'm worried... both about my body and the
+ children."
 #
-<name "ダークス">
-「……子供の世話、任せっぱなしで悪いな」
+<name "Darx">
+"...Sorry for always making you take care of
+ the kids by yourself."
 #
 <sprite "ta10a005.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0091">
-「私は良い所だけを味わっている。
-　感謝はカーシャやフィリアネにせい」
+<name "Forzelotte" "!XA0091">
+"I only have the good times thanks to 
+ Filliane and Kasha."
 #
-<name "ダークス">
-「だな」
+<name "Darx">
+"Right?"
 #
 <sprite "ta10a006.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0092">
-「あと、お主に子育ては無理だ」
+<name "Forzelotte" "!XA0092">
+"And raising your children is too much for me
+ anyway."
 #
-<name "ダークス">
-「む……
-　時々、戻るよ」
+<name "Darx">
+"Grr...
+ I will come home now and then."
 #
 <sprite "ta10a024.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0093">
-「当たり前だ」
+<name "Forzelotte" "!XA0093">
+"Of course you will."
 #
 <removesprite -1 11>
 \x2B\x78\x78

@@ -1,140 +1,148 @@
 ﻿<music 14>
 <background "ev028a00.agf" 10>
-<name "キュリハ" "!FA0032">
-「本日は、お招きに応じて頂き、ありがとうござい
-　ます」
+<name "Kyuriha" "!FA0032">
+"Thank you for your invitation to be here 
+ today."
 #
-<name "ダークス">
-「いや。
-　こっちも色々と話を聞きたかったからな」
+<name "Darx">
+"It's nothing. 
+ I had lots I wanted to talk to you about
+ too."
 #
-<name "ダークス">
-「ところで、この茶会に関して資料を集め切れなかっ
-　た。
-　悪いが、無作法は咎めてくれ」
+<name "Darx">
+"Also, I couldn't get everything needed for
+ this tea ceremony.
+ Sorry, but you'll have to forgive me."
 #
-<name "キュリハ" "!FA0033">
-「気にされるほど作法に拘ったりはしませんよ。
-　お茶は楽しむものですから」
+<name "Kyuriha" "!FA0033">
+"I am not so particular as to be concerned
+ about proper etiquette.
+ Tea is meant to be enjoyed."
 #
-<name "ダークス">
-「そうか。
-　助かる」
+<name "Darx">
+"I see.
+ Thanks."
 #
-<name "キュリハ" "!FA0034">
-「色々とお話したい事もありますが、まずは一服、
-　差し上げます」
+<name "Kyuriha" "!FA0034">
+"There is much I'd like to speak with you
+ about, but first, let me serve you."
 #
-　キュリハは、東方の形式でお茶を点ててくれた。
+She makes tea in the eastern style.
 #
-　それを頂き、その感想から話題を広げていく。
+I accept it, and we talk at length.
 #
-　なかなか話上手だ。
+She's quite the conversationalist.
 #
-　一方的に情報を奪われないように、こちらも会
-　話を繋げていく。
+She doesn't just take information from me, 
+but makes sure the conversation goes in both
+directions.
 #
-<name "ダークス">
-「そう言えば、魔界と天界は長く戦争をしていた
-　らしいが、どっちが有利だったんだ？」
+<name "Darx">
+"Speaking of which, I've heard Celestia and
+ the Netherworld were at war for a long time,
+ but who was winning?"
 #
-<name "キュリハ" "!FA0035">
-「そうですね。
-　諸説ありますが、私の立場では天界が有利だっ
-　たとお答え致します」
+<name "Kyuriha" "!FA0035">
+"Let's see...
+ There are many opinions, but I believe in my
+ position, I am obligated to say that Celestia
+ was."
 #
-<name "ダークス">
-「ははは。
-　確かにそう答えるしかないか。
-　質問が悪かった」
+<name "Darx">
+"Hahahaha.
+ I guess you'd have to say that.
+ Wrong question then."
 #
-<name "キュリハ" "!FA0036">
-「ふふふ。
-　実際、あらゆる場所で戦いが行われておりまし
-　たので、どちらが有利と言うのはなかなか難し
-　いのです」
+<name "Kyuriha" "!FA0036">
+"Hahaha.
+ In truth, there were battles everywhere.
+ It's quite difficult to say that either side
+ was winning."
 #
-<name "ダークス">
-「ほう」
+<name "Darx">
+"Oh?"
 #
-<name "キュリハ" "!FA0037">
-「途中、竜族が参戦して来て、さらにグチャグチャ
-　になりましたから」
+<name "Kyuriha" "!FA0037">
+"Then the dragons joined in the middle of it,
+ and everything became even more chaotic."
 #
-<name "ダークス">
-「それで手を組んで、撃退したらしいな」
+<name "Darx">
+"Then you teamed up to fight them off."
 #
-<name "キュリハ" "!FA0038">
-「はい。
-　ですが竜族の脅威は、筆舌しがたいものらしく、
-　私のような若輩者にはなかなか詳細が伝わって
-　来ません」
+<name "Kyuriha" "!FA0038">
+"Yes, but the threat of the dragons seems
+ beyond belief, and the details are not 
+ readily available to one as inexperienced as
+ I am."
 #
-<name "ダークス">
-「そんなものか」
+<name "Darx">
+"That kind of thing, huh?"
 #
-<name "キュリハ" "!FA0039">
-「昔の話ですから」
+<name "Kyuriha" "!FA0039">
+"It was a long time ago."
 #
-　この席は、情報交換や情報収集の場として設置
-　されているが、実際はキュリハによる俺の値踏
-　みだろう。
+This was set up as an excuse for exchanging
+information, but I think it's also a way for
+her to get her measure of me.
 #
-　まあ、別にどう評価されても構わないが……
+Well, I don't really care if she likes me or
+not.
 #
-<name "キュリハ" "!FA0040">
-「失礼ですが、こういったお茶会の経験がどこか
-　であるのですか？」
+<name "Kyuriha" "!FA0040">
+"Pardon me for asking, but have you taken tea
+ like this before?"
 #
-<name "ダークス">
-「やっぱりどこか変だったか？」
+<name "Darx">
+"Am I doing something wrong then?"
 #
-<name "キュリハ" "!FA0041">
-「いえ、無作法と仰っていたのが不思議なぐらい、
-　しっかりとされていましたので」
+<name "Kyuriha" "!FA0041">
+"No, it would be rude to say anything was
+ wrong.
+ You seem quite comfortable with it."
 #
-<name "ダークス">
-「一応、冒険者をやっていた頃、東方の連中とも
-　交流があったからな」
+<name "Darx">
+"Back when I was an adventurer, I knew a lot 
+ of people from the east."
 #
-<name "キュリハ" "!FA0042">
-「それでですか」
+<name "Kyuriha" "!FA0042">
+"I see."
 #
-<name "ダークス">
-「まあ、どれもこれも独自流だったからな。
-　今回のを機会にちゃんとしたのを調べようとし
-　たんだ。
-　まあ、調べ切れなかったけど」
+<name "Darx">
+"Well, they were all unique too.
+ I tried to look into how to do this right.
+ Not sure I figured it all out though."
 #
-<name "キュリハ" "!FA0043">
-「ふふ。
-　ダークス様の作法は今のままで十分、通用しま
-　す」
+<name "Kyuriha" "!FA0043">
+"Haha.
+ Your manners are plenty sufficient already."
 #
-<name "キュリハ" "!FA0044">
-「それに、お茶会はやっつけの作法で堅苦しくお
-　茶を飲む場ではありません」
+<name "Kyuriha" "!FA0044">
+"Besides, a tea ceremony is not meant to be an
+ excuse to drink tea in some formal manner."
 #
-<name "キュリハ" "!FA0045">
-「自分を知り、知って貰い、そして相手の事を教
-　えて頂く場です」
+<name "Kyuriha" "!FA0045">
+"This is for getting to know yourself, to 
+ learn, and to teach others about you."
+
 #
-<name "キュリハ" "!FA0046">
-「たとえ無作法でも、もてなそうとする姿勢、もて
-　なされようとする姿勢が大事なのです」
+<name "Kyuriha" "!FA0046">
+"Even if it is rude, it is important to be
+ hospitable, and nothing is more important
+ than earnestly trying."
 #
-<name "キュリハ" "!FA0047">
-「とまあ、自分の無作法に言い訳してみました」
+<name "Kyuriha" "!FA0047">
+"And so, I must beg your own forgiveness of
+ my own poor manners."
 #
-<name "キュリハ" "!FA0048">
-「ふふふ。
-　ダークス様。
-　これからも、よろしくお願いします」
+<name "Kyuriha" "!FA0048">
+"Hahaha.
+ Darx, I look forward to more conversations
+ with you."
 #
-　どうやらキュリハに気に入られたようだ。
+Apparently I made a good first impression.
 #
-　と考えるのは早計か？
+Or maybe it's too early to think that.
 #
-　まあ、マクドゥよりは友好的に感じる。
+Well, she's friendlier than Macdo at any rate.
 #
 \x78\x78

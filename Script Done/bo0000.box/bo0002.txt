@@ -296,7 +296,7 @@
  Ya ain't one of us."
 #
 <name "Darx">
-"Uh, I guess..."
+"Oh, I see..."
 #
 \x0A\x44\x01\xF5\x84\x01
 <exit>

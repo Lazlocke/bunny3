@@ -1,235 +1,244 @@
 ﻿<music 49>
 <background "ev021a00.agf" 10>
-<name "ミアルテ" "!SA0087">
-「ん、うう……」
+<name "Miartei" "!SA0087">
+"Nnh...nngh..."
 #
-　ミアルテは、なかなか俺に屈さなかった。
+Miartei hasn't given in so easily.
 #
-　抵抗は止めたが、ただ行為に耐える。
+She's stopped resisting and just endures it.
 #
-　それだけになってしまった。
+That's all this is now.
 #
-<name "ミアルテ" "!SA0088">
-「んんんんっ……」
+<name "Miartei" "!SA0088">
+"Nnnnnngh..."
 #
-　だが、俺の行為が終わる事はない。
+But I never stop.
 #
-　ミアルテがそういった態度なら、俺は道具のよう
-　にミアルテを扱うだけだ。
+If she's going to be like that, then I'll just
+treat her like a tool.
 #
 <background "ev021a01.agf" 10>
-<name "ミアルテ" "!SA0089">
-「う、く……うぁ……」
+<name "Miartei" "!SA0089">
+"Ngh...ngh...
+ Ah..."
 #
-　俺は何度目かの射精を無遠慮に行い、ミアルテの
-　頬を舐めてやる。
+I come yet again inside her and lick her
+cheek.
 #
-　露骨な嫌悪感を見せるが、暴れたりはしないよう
-　だ。
+She shows open disgust, but doesn't try to
+struggle.
 #
-　まあ、ミアルテには暴れたくても暴れる体力は残っ
-　ていないだろう。
+Well, she wouldn't have the strength even if
+she wanted to.
 #
-<name "ダークス">
-「まあ、このまま延々と相手をしてやっても良いん
-　だが……
-　こっちも忙しいからな。
-　入って来い」
+<name "Darx">
+"Well, I could keep doing this for a while,
+ but... I'm busy too.
+ Come in."
 #
-　俺の言葉に、ミアルテがかなり怯えた。
+My words startle her.
 #
-　入って来いの言葉にだ。
+Specifically telling someone to come in.
 #
-　別の男を意識したのかもしれない。
+She probably thinks it's another man.
 #
-　天界の住人は、血統を重んじる。
+Angels revere pure blood.
 #
-　それゆえ、複数の異性と交わる事をよしとしない。
+It's taboo for them to have multiple partners.
 #
-　が、それは俺もだ。
+But I feel the same way.
 #
-　自分の女をわざわざ、他の男にやって喜ぶ趣味は
-　無い。
+I don't get any thrill from giving my women
+to other men.
 #
-<name "ルーアルテ" "!RA0181">
-「ぁ……」
+<name "Rualtei" "!RA0181">
+"Ah..."
 #
-　俺に呼ばれて部屋に入って来たのは、衣服を全て
-　脱いだルーアルテだ。
+Rualtei is the one I called in, stark naked.
 #
-　その相手に安堵と、そして怒りを俺に見せるミア
-　ルテ。
+Miartei immediately shows her relief and her
+anger.
 #
-　だが、俺は気にせずに行為を続けた。
+But I ignore her.
 #
-　そして、部屋に入って来たルーアルテはミアルテ
-　と俺の接合部に顔を近付け、舌を伸ばした。
+Rualtei comes straight in, leans down close to
+where we're connected, and reaches out with 
+her tongue.
 #
 <background "ev021b00.agf" 10>
-<name "ミアルテ" "!SA0090">
-「や、やめ、ぁ、ふぁ、ぁっ……」
+<name "Miartei" "!SA0090">
+"D-Don't!
+ Ah! Aah...ah..."
 #
-　ミアルテの足は俺が抑えているので閉じる事は出
-　来ない。
+She can't close her legs because I'm holding
+them.
 #
-<name "ルーアルテ" "!RA0182">
-「ん……ぁ、お、お姉様の……」
+<name "Rualtei" "!RA0182">
+"Mm... Ah...
+ T-This is your..."
 #
 <background "ev021b01.agf" 12>
-<name "ミアルテ" "!SA0091">
-「お、怒り、ますよ、ルー！」
+<name "Miartei" "!SA0091">
+"Y-You're making me mad, Ru!"
 #
-　ミアルテが怒るが、ルーアルテは止まらない。
+She can get as angry as she wants, Rualtei
+won't stop.
 #
-　その舌で、延々と俺のモノとミアルテの陰部を舐
-　め続ける。
+She keeps licking my dick and Miartei's
+entrance.
 #
-<name "ミアルテ" "!SA0092">
-「ぁ、うぁ、あっ……んんっ」
+<name "Miartei" "!SA0092">
+"Ah...aah...ahhh...
+ Mmmm!"
 #
-<name "ダークス">
-「俺がルーアルテになんて言ったか考えてみろ」
+<name "Darx">
+"Think about what I must have said to her."
 #
-<name "ミアルテ" "!SA0093">
-「くっ、こ、この……」
+<name "Miartei" "!SA0093">
+"Ngh...
+ Y-You..."
 #
-　ミアルテは俺を睨むが、すぐに諦めた。
+She glares at me, but gives in immediately.
 #
-　そう、何を言っても無駄だし、ルーアルテは止め
-　ない。
+Yeah, she knows it doesn't matter what she
+says.
+Rualtei won't stop.
 #
-　なにせ、ミアルテ自身が人質だ。
+Because Miartei herself is my hostage.
 #
 <background "bg017a0.agf" 10>
 <music 3>
 <background "bg010a0.agf" 10>
-<name "ダークス">
-「ミアルテは抵抗を続けている。
-　そろそろ終わらせたいんだが、協力しないか？」
+<name "Darx">
+"Miartei's still resisting.
+ I want to end this already.
+ Will you help me?"
 #
 <sprite "ta04a009.agf" 4 4 11>
-<name "ルーアルテ" "!RA0183">
-「どうして私が！」
+<name "Rualtei" "!RA0183">
+"Why should I do that!?"
 #
-<name "ダークス">
-「ミアルテの頭の固さ……頑固さは理解しているだ
-　ろ。
-　このままじゃ、気が狂うまで続けなきゃいけなく
-　なる」
+<name "Darx">
+"You know how stubborn she is.
+ Damn near bullheaded.
+ If this keeps up, it's going to break her
+ head."
 #
 <sprite "ta04a008.agf" 4 4 12>
-<name "ルーアルテ" "!RA0184">
-「そ、そうなったら、私がお前を殺す」
+<name "Rualtei" "!RA0184">
+"I-If that happens, I'll kill you."
 #
-<name "ダークス">
-「それは遠慮したいな。
-　だから、お前に協力しろと言ったんだ」
+<name "Darx">
+"I'd rather avoid that.
+ That's why I want your help."
 #
 <sprite "ta04a007.agf" 4 4 12>
-<name "ルーアルテ" "!RA0185">
-「ど、どういう事」
+<name "Rualtei" "!RA0185">
+"W-What are you talking about?"
 #
-<name "ダークス">
-「今の俺とお前は、良い関係だと思わないか？」
+<name "Darx">
+"Wouldn't you say you and I get along well
+ now?"
 #
 <sprite "ta04a008.agf" 4 4 12>
-<name "ルーアルテ" "!RA0186">
-「ど、どこがよ」
+<name "Rualtei" "!RA0186">
+"H-How is that true?"
 #
-<name "ダークス">
-「俺と今のミアルテの関係と比べて、良い関係だと
-　思わないか？」
+<name "Darx">
+"Don't you think it's better than my current
+ relationship with Miartei?"
 #
 <sprite "ta04a012.agf" 4 4 12>
-<name "ルーアルテ" "!RA0187">
-「ぅ……」
+<name "Rualtei" "!RA0187">
+"..."
 #
-<name "ダークス">
-「別に俺はミアルテを殺したいんじゃない。
-　ただ、今の状態で帰しても、またやってくる。
-　それは困る」
+<name "Darx">
+"I don't want to kill her, but if I let her
+ go as she is now, she'll just come back
+ again.
+ That's not an option."
 #
-<name "ダークス">
-「面倒だ。
-　しかし、従わない。
-　となれば、殺すしかないだろ」
+<name "Darx">
+"That's the problem.
+ But I don't have many options.
+ If it comes to it, I will have to kill her."
 #
 <sprite "ta04a017.agf" 4 4 12>
-<name "ルーアルテ" "!RA0188">
-「で、でも……」
+<name "Rualtei" "!RA0188">
+"B-But..."
 #
-<name "ダークス">
-「言い方を変えよう。
-　お前が俺に協力する姿勢を見せてくれるだけでも、
-　俺はミアルテに優しくなるかもしれないぞ」
+<name "Darx">
+"Let me put it this way.
+ If you can show me that you're willing to
+ help, I might be able to go easier on her."
 #
 <sprite "ta04a010.agf" 4 4 12>
-<name "ルーアルテ" "!RA0189">
-「……ほ、本当？」
+<name "Rualtei" "!RA0189">
+"...R-Really?"
 #
-<name "ダークス">
-「ああ。
-　なにせミアルテが落ちれば、ここでお前と一緒に
-　暮らすわけだしな。
-　執拗に恨まれたくない」
+<name "Darx">
+"Yeah. Besides, if she switches sides, she'll
+ be living here with you.
+ I don't want to deal with endless grudges."
 #
 <sprite "ta04a017.agf" 4 4 12>
-<name "ルーアルテ" "!RA0190">
-「ぅ……」
+<name "Rualtei" "!RA0190">
+"..."
 #
 <removesprite -1 11>
 <background "bg017a0.agf" 10>
 <music 49>
 <background "ev021b02.agf" 10>
-<name "ミアルテ" "!SA0094">
-「ん、んん、んんぁ……」
+<name "Miartei" "!SA0094">
+"Mm...mmm...mmm..."
 #
-　ミアルテは頑張って耐えようとしたが、ルーアル
-　テの執拗な舌技によって絶頂を迎えようとしてい
-　た。
+She tries her best to endure it, but Rualtei's
+tongue relentless pushes her closer to orgasm.
 #
-<name "ルーアルテ" "!RA0191">
-「ん、ん……お、お姉様」
+<name "Rualtei" "!RA0191">
+"Mm...mm...
+ S-Sister..."
 #
-　ルーアルテの舌は、俺のモノも刺激するのでなか
-　なか気持ちが良い。
+Her tongue feels pretty good also stimulating
+my dick.
 #
-　油断すると射精しそうになってしまう。
+If I'm not careful, I'll come.
 #
-　だが、俺は耐える。
+But I endure it.
 #
-　射精はミアルテが達した時だ。
+I want to come when Miartei does.
 #
-<name "ミアルテ" "!SA0095">
-「ふぁ、ぁ、んんっ……」
+<name "Miartei" "!SA0095">
+"Aah...ah...mmm..."
 #
-　そして、それはすぐだった。
+And she's almost there.
 #
-<name "ミアルテ" "!SA0096">
-「ぁっ……」
+<name "Miartei" "!SA0096">
+"Ah..."
 #
-　ミアルテの膣内が激しく脈動し始めた。
+Her pussy begins to throb intensely.
 #
-　少し耐えたが、すぐにそれは押しつぶされた。
+She endures it for a moment, but immediately
+succumbs.
 #
-<name "ミアルテ" "!SA0286">
-「ぁ、うぁ、ぁ……うぅぅぅぅっ！」
+<name "Miartei" "!SA0286">
+"Ah...ah...ah...
+ Nnnnnnnnnggggh!"
 #
-　そしてくぐもった声と共に達した。
+She comes through her muffled voice.
 #
-　大きく潮を吹き散らかし、陰部に顔を近づけてい
-　たルーアルテの顔に吹きかかる。
+She gushes all over Rualtei's face.
 #
 <background "ev021b03.agf" 10>
-<name "ミアルテ" "!SA0287">
-「ぁ……ぁ……うぁ……」
+<name "Miartei" "!SA0287">
+"Ah...ah...ahh..."
 #
-　悔しさと快楽に頭を揺さぶられているミアルテに、
-　俺は遠慮の無い何度目かの射精を開始した。
+As she shakes her head in chagrin and
+pleasure, I begin coming yet again.
 #
-<name "ミアルテ" "!SA0288">
-「ぅぅ……」
+<name "Miartei" "!SA0288">
+"..."
 #
-　しかし、ミアルテは落ちなかった。
+But Miartei still didn't give in.
 #
 \x78\x78

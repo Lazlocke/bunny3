@@ -1,108 +1,118 @@
 ﻿<music 5>
 <background "ev045a02.agf" 10>
-<name "フォーゼロッテ" "!XA0108">
-「んぁ、ん、ふぁ……」
+<name "Forzelotte" "!XA0108">
+"Mm...mm...ahhh..."
 #
-　俺はフォーゼロッテ宮に戻り、フォーゼロッテを
-　抱いていた。
+I went back to Forzelotte's Shrine and was
+with Forzelotte.
 #
-<name "フォーゼロッテ" "!XA0109">
-「あん……あの、小さな身体では、味わえん、やは
-　り直の接触は……ふぁ」
+<name "Forzelotte" "!XA0109">
+"Aah... That little body just doesn't feel the
+ same...
+ Touching directly is so... ahhh..."
 #
-　俺はフォーゼロッテとの行為を楽しむ。
+I enjoy myself with her.
 #
-<name "フォーゼロッテ" "!XA0110">
-「んぁ、ふぁ、あ、んんっ」
+<name "Forzelotte" "!XA0110">
+"Mm...aah...ah...mmmm..."
 #
-　そして、射精。
+And come.
 #
 <background "ev045a03.agf" 10>
-<name "フォーゼロッテ" "!XA0111">
-「あんっ」
+<name "Forzelotte" "!XA0111">
+"Aah!"
 #
-　俺の精液を、フォーゼロッテは子宮で受け止める。
+She takes my semen in her womb.
 #
-　運が良ければ、子ができる。
+If we're lucky, she'll get pregnant.
 #
 <background "ev045a04.agf" 10>
-<name "フォーゼロッテ" "!XA0112">
-「ぁ、うぁ……ダークス」
+<name "Forzelotte" "!XA0112">
+"Ah...ahhh...
+ Darx."
 #
-<name "ダークス">
-「ん？」
+<name "Darx">
+"Hm?"
 #
-<name "フォーゼロッテ" "!XA0113">
-「コゼロットの為にも、もう少し子供が欲しい」
+<name "Forzelotte" "!XA0113">
+"I want more children for Kozelotte."
 #
-<name "ダークス">
-「ぁぁ、わかっている」
+<name "Darx">
+"Yeah, I know."
 #
-　俺は行為を続けた。
+I continue.
 #
-　子供が出来る確率を上げる為に。
+So there's a better chance she'll get 
+pregnant.
 #
 <background "ev045a05.agf" 10>
-<name "フォーゼロッテ" "!XA0114">
-「んぁっ、あっ」
+<name "Forzelotte" "!XA0114">
+"Mm...ah..."
 #
-　魔族であるフォーゼロッテの血は、子にその資質
-　を強く残す。
+Her demon blood strongly influences the 
+children she has.
 #
-　簡単に言えば、親が魔力の扱いに優れていれば、
-　子も優れているとなる。
+To put it simply, if both parents are experts
+with mana, the child will be the same.
 #
-　魔族同士であれば、双方からの血によって資質の
-　アップもあれば、ダウンもある。
+If both parents were demons, then the kid 
+would inherit its nature from both of them,
+being better in some ways and worse in
+others.
 #
-　まあ、生まれた子次第だ。
+Well, it depends on how the kid is raised too.
 #
-　俺とフォーゼロッテがコゼロットの事で気にして
-　いるのは、片親が人間の俺であると言う事だ。
+What's concerning about Kozelotte is that one
+of her parents is a human.
 #
-　それも、まだ魔力を扱い切れていなかった頃の。
+And back then, I was very inexperienced with
+mana.
 #
-　結論から言ってしまえば、コゼロットはフォーゼ
-　ロッテの資質をほぼ百パーセント受け継いでいる。
+Which means that Kozelotte inherited basically
+everything about her from Forzelotte.
 #
-　つまり、魔族のほとんどが近付けなくなるレベル
-　にまで発達する魔力吸収能力をコゼロットが将来
-　的に持つ事を意味している。
+Meaning that her mana absorption is going to
+grow as she matures until other demons won't
+be able to even approach her eventually.
 #
-　その事に怯えたのはフォーゼロッテだ。
+That's what Forzelotte's scared of.
 #
-　自身が経験した孤独を、娘に与えたくないと。
+She doesn't want her daughter to suffer the
+same loneliness that she did.
 #
-　そして目をつけられたのが、他の俺の子達だ。
+And that's why my other children are 
+important.
 #
-　俺の子達は、俺の中にあるフォーゼロッテの魔力
-　によって、フォーゼロッテに接触する事が出来た。
+Because of Forzelotte's mana inside me, my
+children are able to approach and even touch
+her.
 #
-　現在の所、その性質はなぜか女児だけにしかみら
-　れないが、高確率でそれが見られる。
+So far, that's only manifested in the girls,
+but it seems to happen with almost all of 
+them.
 #
-　つまり、俺の子を増やす事で、将来的にコゼロッ
-　トと接触できる者を増やそうと言う計画だ。
+So the more children I have, the more people
+that Kozelotte will be able to be around when
+she grows up.
 #
-　これは俺とフォーゼロッテ、そして資質調査を行
-　うラキアさん。
-　後はフォーゼロッテ宮の幹部クラスしか教えてい
-　ない。
+This is something Forzelotte, Rakia, and I 
+have all looked into, and only the top people
+in Forzelotte's Shrine know about.
 #
-　コゼロットにも秘密だ。
+It's especially a secret from Kozelotte.
 #
-　だから、コゼロットに浮気性のお父さんと軽蔑さ
-　れても、耐えれる。
+So I can endure it, even if she resents me for
+cheating on her mother.
 #
-　うん。
+Yeah.
 #
-　将来、わかって貰える筈だ。
+She'll understand someday.
 #
 <background "ev045a07.agf" 10>
-<name "フォーゼロッテ" "!XA0115">
-「ふぁ……わかって貰えると、良いな」
+<name "Forzelotte" "!XA0115">
+"Ahh... I hope she understands."
 #
-<name "ダークス">
-「……少し不安だ」
+<name "Darx">
+"...I'm nervous about that too."
 #
 \x78\x78

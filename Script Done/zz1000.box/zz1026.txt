@@ -1,773 +1,789 @@
 ﻿<music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta06a003.agf" 4 4 11>
-<name "スイセン" "!YA0105">
-「ダークス様。
-　少し、よろしいですか？」
+<name "Suisen" "!YA0105">
+"Darx, can I have minute?"
 #
-<name "ダークス">
-「ん？
-　ああ……駄目だな。
-　そこで止まれ」
+<name "Darx">
+"Hm?
+ Oh, I don't think so.
+ Stop right there."
 #
 <sprite "ta06a010.agf" 4 4 12>
-<name "スイセン" "!YA0106">
-「え？」
+<name "Suisen" "!YA0106">
+"Huh?"
 #
-<name "ダークス">
-「それ以上、俺に近付くな」
+<name "Darx">
+"Don't come another step towards me."
 #
 <sprite "ta06a011.agf" 4 4 12>
-<name "スイセン" "!YA0107">
-「どういう事ですか？」
+<name "Suisen" "!YA0107">
+"Is something the matter?"
 #
-<name "ダークス">
-「んー……殺気が漏れてる」
+<name "Darx">
+"Hmmm...
+ The bloodlust pouring off you."
 #
 <music 9>
 <sprite "ta06a020.agf" 4 4 12>
-<name "スイセン" "!YA0108">
-「…………なるほど」
+<name "Suisen" "!YA0108">
+".........I see."
 #
 <sprite "ta06a019.agf" 4 4 12>
-<name "スイセン" "!YA0109">
-「伊達にミアルテやキュリハを倒していませんね。
-　甘くみておりました」
+<name "Suisen" "!YA0109">
+"You didn't kill Miartei or Kyuriha.
+ I took you for a weakling."
 #
 <sprite "ta06a018.agf" 4 4 12>
-<name "スイセン" "!YA0110">
-「ですが、お気付きですか？」
+<name "Suisen" "!YA0110">
+"But you noticed?"
 #
 <sprite "ta06a020.agf" 4 4 12>
-<name "スイセン" "!YA0111">
-「貴方はすでに応援を……ギュンギュスカー商会の
-　者達を呼んでますが、まだ誰も来ませんよね」
+<name "Suisen" "!YA0111">
+"And your help...
+ You've already signaled for Gunguskar, but
+ nobody seems to be coming."
 #
-<name "ダークス">
-「…………」
+<name "Darx">
+"..."
 #
-<name "スイセン" "!YA0112">
-「あのギュンギュスカー商会の者達が、こんなに遅
-　いのはおかしい。
-　そう思っていますね」
+<name "Suisen" "!YA0112">
+"How strange for those Gunguskar stooges to be
+ so slow.
+ Don't you think so?"
 #
 <sprite "ta06a018.agf" 4 4 12>
-<name "スイセン" "!YA0113">
-「私はキュリハとは違って、正々堂々とはやりませ
-　ん。
-　勝てる時に勝つ。
-　勝たねば全て終わりですから」
+<name "Suisen" "!YA0113">
+"Unlike Kyuriha, I don't play fair.
+ Win at all costs.
+ Because if you don't, you lose everything."
 #
-<name "ダークス">
-「一対一でも、俺はそれなりに戦えるつもりだが？」
+<name "Darx">
+"So you're going to try to take me on one on
+ one?"
 #
 <sprite "ta06a020.agf" 4 4 12>
-<name "スイセン" "!YA0114">
-「ええ、そうでしょう」
+<name "Suisen" "!YA0114">
+"Yes, I am."
 #
-<name "スイセン" "!YA0115">
-「ですから、ちゃんと手は考えました」
+<name "Suisen" "!YA0115">
+"Which is why I made a plan."
 #
 <sprite "ta06a019.agf" 4 4 12>
-<name "スイセン" "!YA0116">
-「お耳の早いダークス様です。
-　コゼロット様のお話を聞いていますか？」
+<name "Suisen" "!YA0116">
+"You seem well informed.
+ Have you heard about Kozelotte?"
 #
-<name "スイセン" "!YA0117">
-「学園を抜け出した後、行方不明だそうですね」
+<name "Suisen" "!YA0117">
+"It would seem that nobody's seen her since
+ she left school."
 #
-<name "ダークス">
-「……貴様」
+<name "Darx">
+"...You..."
 #
 <sprite "ta06a009.agf" 4 4 12>
-<name "スイセン" "!YA0118">
-「良いですね。
-　その怒りに狂った顔。
-　素敵ですよ」
+<name "Suisen" "!YA0118">
+"That's nice.
+ Eyes filled with rage.
+ I love it."
 #
-<name "ダークス">
-「くっ」
+<name "Darx">
+"Ngh..."
 #
 <sprite "ta06a020.agf" 4 4 12>
-<name "スイセン" "!YA0119">
-「ああ、言わせないでください」
+<name "Suisen" "!YA0119">
+"Oh, don't make me say it."
 #
 <sprite "ta06a019.agf" 4 4 12>
-<name "スイセン" "!YA0120">
-「娘の命が惜しかったら動くな。
-　なんて陳腐なセリフ」
+<name "Suisen" "!YA0120">
+"If you move, your daughter will die.
+ What a corny line."
 #
-<name "ダークス">
-「……」
+<name "Darx">
+"..."
 #
 <sprite "ta06a018.agf" 4 4 12>
-<name "スイセン" "!YA0121">
-「私を一撃で倒す事を考えていますね」
+<name "Suisen" "!YA0121">
+"You're thinking about killing me with a
+ single blow."
 #
 <sprite "ta06a019.agf" 4 4 12>
-<name "スイセン" "!YA0122">
-「不可能ですが良いアイディアです」
+<name "Suisen" "!YA0122">
+"It's a good plan, but it won't work."
 #
 <sprite "ta06a020.agf" 4 4 12>
-<name "スイセン" "!YA0123">
-「一撃で倒されると、私が外に連絡できませんから
-　ね。
-　コゼロット様の居場所はわからなくても、なんと
-　かなるかもしれません」
+<name "Suisen" "!YA0123">
+"If you did, I wouldn't be able to do anything
+ anymore. And even if you don't know where she
+ is, maybe you'd be able to do something."
 #
 <sprite "ta06a019.agf" 4 4 12>
-<name "スイセン" "!YA0124">
-「ですが……」
+<name "Suisen" "!YA0124">
+"But..."
 #
-<name "スイセン" "!YA0125">
-「貴方はどうして、ご自分が他の者にしている事が、
-　娘にされないと思うのですか？」
+<name "Suisen" "!YA0125">
+"How can you know there isn't anybody else?
+ Somebody who might do something to your
+ daughter."
 #
-<name "スイセン" "!YA0126">
-「居場所がわからず、救出が長引けば長引くだけ苦
-　しむ事になりますよ」
+<name "Suisen" "!YA0126">
+"You have no idea where she is, and the longer
+ it takes you to rescue her, the more she will
+ suffer."
 #
-<name "スイセン" "!YA0127">
-「私はどちらかと言えば、そういった事には反対派
-　なのですけどね」
+<name "Suisen" "!YA0127">
+"Personally, I would prefer that not to
+ happen to her though."
 #
 <sprite "ta06a020.agf" 4 4 12>
-<name "スイセン" "!YA0128">
-「さて、あまり時間もありません。
-　足止めを色々としていますが、邪魔が入る前に」
+<name "Suisen" "!YA0128">
+"Now then, I don't have much time.
+ There is much to do before anybody interrupts
+ us."
 #
 <sprite "ta06a022.agf" 4 4 12>
-<name "スイセン" "!YA0129">
-「死んで貰えますか」
+<name "Suisen" "!YA0129">
+"Can you just die?"
 #
 <removesprite -1 11>
-　くっ！
+Ngh!
 #
-　スイセンの放つ一撃を俺は避けようとしたが駄目
-　だった。
+I try to avoid her attack, but I'm not fast
+enough.
 #
-　予想以上に速く、そして重い。
+She strikes faster and harder than I expected.
 #
 <sprite "ta06a022.agf" 4 4 11>
-<name "スイセン" "!YA0130">
-「あははははは。
-　卑怯な手段を取る者が、常に弱いとは限らないの
-　ですよ」
+<name "Suisen" "!YA0130">
+"Hahahahaha!
+ Those who use underhanded means are not
+ always weak!"
 #
 <removesprite -1 11>
-　追撃が来る。
+She attacks again immediately.
 #
-　頭ではわかっていても、避けられない。
+Even though I see it coming, I can't stop it.
 #
-<name "ダークス">
-「うおおっ」
+<name "Darx">
+"Aaaah!"
 #
-　あっと言う間に全身にダメージ。
+In seconds, I'm battered, sliced, and bruised.
 #
-　やばい。
+This is bad.
 #
-　まずい。
+This is really bad.
 #
-　頭がフル回転するが、対策が出てこない。
+My mind is racing, but I can't think of any
+way to stop her.
 #
-　考えがまとまらない。
+I can't think straight.
 #
-　コゼロットの事が頭から離れない。
+All I can think about is Kozelotte.
 #
 <sprite "ta06a022.agf" 4 4 11>
-<name "スイセン" "!YA0131">
-「どれだけ強くても、親になった時点で子供という
-　弱点を抱えたのですよ。
-　貴方は」
+<name "Suisen" "!YA0131">
+"No matter how strong someone is, their weak
+ point is always their children.
+ You..."
 #
-<name "スイセン" "!YA0132">
-「まあ、そういったところは嫌いではありませんで
-　したよ」
+<name "Suisen" "!YA0132">
+"Well, I can't say I don't respect that."
 #
 <removesprite -1 11>
-　スイセンのトドメの一撃。
+She strikes to finish me.
 #
-　俺は床に伏した。
+I fall to the floor.
 #
-　意識が遠くなる。
+It's hard to think.
 #
-　駄目だ。
+I can't.
 #
-　そう思っても、身体は動かない。
+My body won't listen to me.
 #
-<name "ダークス">
-「コゼ……」
+<name "Darx">
+"Koze..."
 #
-　俺の意識が途絶えた。
+My thoughts fade into blackness.
 #
 <sprite "ta06a018.agf" 4 4 11>
-<name "スイセン" "!YA0133">
-「さて……物語の敵役なら、ここで高笑いして立ち
-　去るのですが、私は用心深いのです。
-　念には念を入れさせて貰います」
+<name "Suisen" "!YA0133">
+"Now then... if I were the villain of this
+ story, I'd cackle and leave, but I would
+ prefer discretion.
+ Think carefully and calmly."
 #
 <removesprite -1 11>
 <music 31>
 <background "ev057a00.agf" 10>
-<name "マリーアリス" "!LA0044">
-「させませんっ！」
+<name "Marialis" "!LA0044">
+"You're going nowhere!"
 #
-<name "スイセン" "!YA0134">
-「ぬっ」
+<name "Suisen" "!YA0134">
+"Ngh!"
 #
-<name "マリーアリス" "!LA0045">
-「魔王様を守れ！！」
+<name "Marialis" "!LA0045">
+"Protect the Overlord!"
 #
-<name "親衛隊隊員" "!TC0008">
-「はっ！」
+<name "Bodyguard" "!TC0008">
+"Ma'am!"
 #
-<name "スイセン" "!YA0135">
-「裏切り者共ですか……」
+<name "Suisen" "!YA0135">
+"The traitors..."
 #
-<name "マリーアリス" "!LA0046">
-「よくも魔王様を！」
+<name "Marialis" "!LA0046">
+"How dare you!"
 #
-<name "スイセン" "!YA0136">
-「禍根の無いよう、捻り殺してあげましょう」
+<name "Suisen" "!YA0136">
+"You kill a venomous snake by cutting off the
+ head."
 #
 <background "ev057a01.agf" 10>
-<name "マリーアリス" "!LA0047">
-「許しません！」
+<name "Marialis" "!LA0047">
+"You'll pay for this!"
 #
-　戦いはスイセンが圧倒的に強かった。
+They are no match for Suisen.
 #
-　しかし、マリーアリスはなんとか粘り、さらには
-　親衛隊が次々に駆けつけてくる。
+But Marialis is able to remain standing, and
+guards rush in to join the fight, one after
+another.
 #
-<name "スイセン" "!YA0137">
-「ちぃっ」
+<name "Suisen" "!YA0137">
+"Hmph."
 #
-<name "スイセン" "!YA0138">
-「物語のように運が良い」
+<name "Suisen" "!YA0138">
+"He's as lucky as they say."
 #
-<name "スイセン" "!YA0139">
-「だが」
+<name "Suisen" "!YA0139">
+"But..."
 #
-<name "スイセン" "!YA0140">
-「裏切り者が何人集まろうと、この私を止める事は
-　できません」
+<name "Suisen" "!YA0140">
+"No matter how many of you traitors come,
+ you cannot stop me."
 #
-<name "キュリハ" "!FA0399">
-「ならば、私達が相手なら如何ですか」
+<name "Kyuriha" "!FA0399">
+"Then what if we stand in your way?"
 #
-<name "ミアルテ" "!SA0241">
-「ここまでよ。
-　スイセン」
+<name "Miartei" "!SA0241">
+"That's far enough, Suisen."
 #
-<name "スイセン" "!YA0141">
-「………………ふう」
+<name "Suisen" "!YA0141">
+"..."
 #
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta06a020.agf" 4 4 11>
-<name "スイセン" "!YA0142">
-「時間を掛けすぎましたね」
+<name "Suisen" "!YA0142">
+"I took too long, didn't I?"
 #
 <sprite "ta06a018.agf" 4 4 12>
-<name "スイセン" "!YA0143">
-「まさか、自力で逃げて来たのですか？」
+<name "Suisen" "!YA0143">
+"I can't believe you got away on your own."
 #
 <removesprite -1 11>
-　スイセンの瞳は、キュリハやミアルテに向いてい
-　なかった。
+Her words aren't directed to the angels.
 #
 <sprite "ta11a007.agf" 4 4 11>
-<name "コゼロット" "!NA0007">
-「ゴランとトージョに助けて貰いました」
+<name "Kozelotte" "!NA0007">
+"Golan and Tojo rescued me."
 #
 <removesprite -1 11>
 <sprite "ta06a017.agf" 4 4 11>
-<name "スイセン" "!YA0144">
-「ああ……フォーゼロッテ宮の……
-　戦力として数えていませんでした」
+<name "Suisen" "!YA0144">
+"Ah, of Forzelotte's Shrine...
+ I didn't consider them worth accounting for."
 #
 <removesprite -1 11>
 <sprite "ta34b001.agf" 2 4 11>
 <sprite "ta34c001.agf" 4 6 11>
 <sprite "ta34a001.agf" 6 5 11>
-<name "商会メイド" "!AC0064">
-「遅くなりました」
+<name "Company Maid" "!AC0064">
+"Sorry we're late."
 #
 <removesprite -1 11>
 <sprite "ta01a011.agf" 4 4 11>
-<name "ソフィア" "!ZB0507">
-「魔王様、ご無事ですか？」
+<name "Sofia" "!ZB0507">
+"Is the Overlord okay?"
 #
 <removesprite -1 11>
 <sprite "ta06a017.agf" 4 4 11>
-<name "スイセン" "!YA0145">
-「ギュンギュスカー商会の足止めも突破されました
-　か」
+<name "Suisen" "!YA0145">
+"Gunguskar has broken their shackles too?"
 #
 <sprite "ta06a016.agf" 4 4 12>
-<name "スイセン" "!YA0146">
-「これは失敗のようですね。
-　引き上げさせて頂きます」
+<name "Suisen" "!YA0146">
+"This looks like a complete failure.
+ It seems time for me to leave."
 #
 <sprite "ta06a020.agf" 4 4 12>
-<name "スイセン" "!YA0147">
-「ダークス様が生きてましたら、またお会いしましょ
-　うとお伝えください」
+<name "Suisen" "!YA0147">
+"If he lives, tell him I'll be seeing him
+ again."
 #
-<name "スイセン" "!YA0148">
-「失礼します」
+<name "Suisen" "!YA0148">
+"Farewell."
 #
 <removesprite -1 11>
-　スイセンは、すっと窓から飛び出して逃げた。
+She jumps up and out a window.
 #
 <sprite "ta11a009.agf" 4 4 11>
-<name "コゼロット" "!NA0008">
-「追撃を！」
+<name "Kozelotte" "!NA0008">
+"After her!"
 #
-<name "コゼロット" "!NA0009">
-「街の外に出るまでで構いません！
-　倒そうとはせず、追い払うだけで」
+<name "Kozelotte" "!NA0009">
+"I don't care where she goes as long as it's
+ out of the city!
+ Don't try to fight her, just chase her away!"
 #
 <sprite "ta11a007.agf" 4 4 12>
-<name "コゼロット" "!NA0010">
-「キュリハさん、ミアルテさん。
-　追撃に加わって貰えますか」
+<name "Kozelotte" "!NA0010">
+"Kyuriha, Miartei, can you help drive her off?"
 #
 <removesprite -1 11>
 <sprite "ta05a005.agf" 4 4 11>
-<name "キュリハ" "!FA0400">
-「承知しました」
+<name "Kyuriha" "!FA0400">
+"Of course."
 #
 <removesprite -1 11>
 <sprite "ta03a007.agf" 4 4 11>
-<name "ミアルテ" "!SA0242">
-「わかったわ」
+<name "Miartei" "!SA0242">
+"All right."
 #
 <removesprite -1 11>
 <sprite "ta11a007.agf" 4 4 11>
-<name "コゼロット" "!NA0011">
-「残りの者は、お父様の治療を急いでください！」
+<name "Kozelotte" "!NA0011">
+"Everyone else, take care of my father
+ immediately!"
 #
 <removesprite -1 11>
 <sprite "ta01a013.agf" 4 4 11>
-<name "ソフィア" "!ZB0508">
-「治療班、急いで！
-　絶対に死なせないように！」
+<name "Sofia" "!ZB0508">
+"Healers, hurry!
+ Do everything to save his life!"
 #
 <removesprite -1 11>
 <sprite "ta34b005.agf" 2 4 11>
 <sprite "ta34c005.agf" 4 6 11>
 <sprite "ta34a005.agf" 6 5 11>
-<name "治療メイド" "!DC0083">
-「はい！」
+<name "Medic Maid" "!DC0083">
+"Yes, ma'am!"
 #
 <removesprite -1 11>
-　俺は大勢のメイドに運ばれ、治療が開始された。
+The maids carry me off and start treating my
+wounds.
 #
-　……
+...
 #
-<name "ゴラン" "!CA0005" "ka32a000.agf">
-「出て良かったんですか？」
+<name "Golan" "!CA0005" "ka32a000.agf">
+"Are you sure it was right to show yourself?"
 #
-<name "トージョ" "!KA0009" "ka33a000.agf">
-「隠れてて、アイツが人質が居るぞーって言ったと
-　ころを斬りつける作戦だったんじゃ？」
+<name "Tojo" "!KA0009" "ka33a000.agf">
+"Wasn't the plan to hide and attack when she
+ tried to use you as a hostage?"
 #
 <sprite "ta11a003.agf" 4 4 11>
-<name "コゼロット" "!NA0012">
-「あんまり人質に頼ってないみたいだったから、無
-　駄だと思ったの」
+<name "Kozelotte" "!NA0012">
+"She didn't seem like she was going to rely
+ on having a hostage.
+ I decided that wasn't going to work."
 #
-<name "コゼロット" "!NA0013">
-「それより、さっさと引かせてお父様を治療した方
-　が良いでしょ」
+<name "Kozelotte" "!NA0013">
+"I thought it'd be better to finish this
+ quickly and tend to my father."
 #
 <removesprite -1 11>
-<name "ゴラン" "!CA0006" "ka32a000.agf">
-「ですね」
+<name "Golan" "!CA0006" "ka32a000.agf">
+"Yeah."
 #
-<name "トージョ" "!KA0010" "ka33a000.agf">
-「確かに」
+<name "Tojo" "!KA0010" "ka33a000.agf">
+"Good point."
 #
 <sprite "ta11a004.agf" 4 4 11>
-<name "コゼロット" "!NA0014">
-「マリーアリスさん。
-　お父様を守って頂き、ありがとうございます」
+<name "Kozelotte" "!NA0014">
+"Marialis, thank you for protecting my
+ father."
 #
 <removesprite -1 11>
 <sprite "ta15a011.agf" 2 4 11>
 <sprite "ta11a004.agf" 6 5 11>
-<name "マリーアリス" "!LA0048">
-「魔王様は負傷されています。
-　感謝される言われはありません。
-　逆に、役立たずと罵って頂いた方が……」
+<name "Marialis" "!LA0048">
+"He's been gravely injured.
+ I have no right to be thanked.
+ If anything, I should be chastised for my
+ failure..."
 #
 <sprite "ta11a005.agf" 6 5 12>
-<name "コゼロット" "!NA0015">
-「いえ、やはり感謝します。
-　ありがとうございます」
+<name "Kozelotte" "!NA0015">
+"No, I am grateful you were here.
+ Thank you very much."
 #
 <sprite "ta15a012.agf" 2 4 12>
-<name "マリーアリス" "!LA0049">
-「……いえ」
+<name "Marialis" "!LA0049">
+"...It was nothing."
 #
 <sprite "ta15a011.agf" 2 4 12>
-<name "マリーアリス" "!LA0050">
-「ああ、そう言えば先ほど、敵がコゼロット様に自
-　力で逃げたとか言っていましたが……」
+<name "Marialis" "!LA0050">
+"Oh, speaking of which, she seemed to say that
+ you escaped on your own."
 #
 <sprite "ta11a004.agf" 6 5 12>
-<name "コゼロット" "!NA0016">
-「手紙で誘導されたのだけど、途中でゴランとトー
-　ジョに会ったので、大きなピンチには」
+<name "Kozelotte" "!NA0016">
+"I had gotten a letter telling me to go
+ somewhere, but I ran into Golan and Tojo on
+ the way, which saved my life."
 #
-<name "マリーアリス" "!LA0051">
-「お二人はなぜ？」
+<name "Marialis" "!LA0051">
+"What were you two doing there?"
 #
-<name "ゴラン" "!CA0007" "ka32a000.agf">
-「ロギウスから連絡を受けて、探していた」
+<name "Golan" "!CA0007" "ka32a000.agf">
+"Logius told us to go looking for her.
 #
-<name "トージョ" "!KA0011" "ka33a000.agf">
-「コゼロット様が居なくなったのが定時確認の直前
-　だったから連絡が早かったんだ。
-　流石は次世代の魔王様。
-　運が良い」
+<name "Tojo" "!KA0011" "ka33a000.agf">
+"She disappeared right before the regular
+ check-up time, so we found her quick.
+ Just like you'd expect from the next
+ Overlord. Fate is on your side."
 #
 <sprite "ta11a005.agf" 6 5 12>
-<name "コゼロット" "!NA0017">
-「候補の一人なだけです。
-　それよりも、ロギウス先生が私を見張っていたな
-　んて」
+<name "Kozelotte" "!NA0017">
+"I'm just a candidate.
+ More importantly, I wasn't aware Miss Logius
+ was spying on me."
 #
-<name "ゴラン" "!CA0008" "ka32a000.agf">
-「魔王様の命令ですから、ご容赦を」
+<name "Golan" "!CA0008" "ka32a000.agf">
+"By the Overlord's orders.
+ Forgive her."
 #
 <sprite "ta11a004.agf" 6 5 12>
-<name "コゼロット" "!NA0018">
-「怒りはしませんよ」
+<name "Kozelotte" "!NA0018">
+"I'm not mad."
 #
 <sprite "ta11a016.agf" 6 5 12>
-<name "コゼロット" "!NA0019">
-「さて……」
+<name "Kozelotte" "!NA0019">
+"Now then..."
 #
 <sprite "ta11a003.agf" 6 5 12>
-<name "コゼロット" "!NA0020">
-「お父様の傍……治療の邪魔になるわね。
-　適当な場所で回復を待ちます」
+<name "Kozelotte" "!NA0020">
+"I... would be in the way if I were to be at
+ my father's side.
+ I will wait for his recovery somewhere else."
 #
 <sprite "ta11a004.agf" 6 5 12>
-<name "コゼロット" "!NA0021">
-「マリーアリスさんも一緒に。
-　貴女も治療を受けないと」
+<name "Kozelotte" "!NA0021">
+"Marialis, you too.
+ Your wounds need to be treated."
 #
 <sprite "ta15a018.agf" 2 4 12>
-<name "マリーアリス" "!LA0052">
-「……そうですね」
+<name "Marialis" "!LA0052">
+"...Indeed."
 #
 <removesprite -1 11>
 <sprite "ta11a004.agf" 4 4 11>
-<name "コゼロット" "!NA0022">
-「ゴラン、トージョはフォーゼロッテ宮に戻って、
-　メリルさんに事情説明と報告。
-　この隙に向こうが攻めて来ないとも限らないから、
-　用心させて」
+<name "Kozelotte" "!NA0022">
+"Golan, Tojo, return to Forzelotte's Shrine
+ and explain the situation to Meryl.
+ There is no guarantee they won't use this as
+ a chance to attack. Be careful."
 #
-<name "ゴラン" "!CA0009" "ka32a000.agf">
-「承知。
-　エカテーが向こうに居るが、こっちに戻した方が
-　良いのでは？」
+<name "Golan" "!CA0009" "ka32a000.agf">
+"Understood.
+ Ekate is there.
+ Would it be better for us all to go back
+ there?"
 #
 <sprite "ta11a005.agf" 4 4 12>
-<name "コゼロット" "!NA0023">
-「戻しても、エカテーお母様はお父様の傍を離れな
-　いでしょ」
+<name "Kozelotte" "!NA0023">
+"If we did, she wouldn't leave his side for a
+ second."
 #
-<name "ゴラン" "!CA0010" "ka32a000.agf">
-「確かに。
-　しかし、素直に知らせても飛んできそうな気もす
-　るが……」
+<name "Golan" "!CA0010" "ka32a000.agf">
+"Agreed, but I think she may rush here if I
+ tell her exactly what happened..."
 #
 <sprite "ta11a007.agf" 4 4 12>
-<name "コゼロット" "!NA0024">
-「お父様の為に、フォーゼロッテ宮の守りを固めさ
-　せて」
+<name "Kozelotte" "!NA0024">
+"For my father's sake, impress upon her the
+ need to protect Forzelotte's Shrine."
 #
-<name "ゴラン" "!CA0011">
-「努力してみる」
+<name "Golan" "!CA0011">
+"I'll try."
 #
-<name "トージョ" "!KA0012" "ka33a000.agf">
-「なあ、コゼロット様がここで臨時の指揮を執るっ
-　てのは駄目なのか？
-　そうすりゃ、ここにそれなりの戦力を集められる
-　ぜ」
+<name "Tojo" "!KA0012" "ka33a000.agf">
+"Hey, couldn't you take temporary command
+ here?
+ Then we'd be able to put together an actual
+ army."
 #
 <sprite "ta11a003.agf" 4 4 12>
-<name "コゼロット" "!NA0025">
-「それをしたら、お父様の能力証明に問題が出るで
-　しょ」
+<name "Kozelotte" "!NA0025">
+"If I did that, my father's own abilities
+ would be called into doubt."
 #
-<name "トージョ" "!KA0013" "ka33a000.agf">
-「あ、そっか」
+<name "Tojo" "!KA0013" "ka33a000.agf">
+"Ah, I see."
 #
 <sprite "ta11a016.agf" 4 4 12>
-<name "コゼロット" "!NA0026">
-「ここは大丈夫よ」
+<name "Kozelotte" "!NA0026">
+"We'll be fine here."
 #
 <sprite "ta11a012.agf" 4 4 12>
-<name "コゼロット" "!NA0027">
-「なにせ、お父様の街なんだから」
+<name "Kozelotte" "!NA0027">
+"This is his city, after all."
 #
 <removesprite -1 11>
 <music 11>
 <background "bg015a0.agf" 10>
-　俺が目を覚ましたのは、三日後だった。
+I woke up three days later.
 #
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta01a004.agf" 4 4 11>
-<name "ソフィア" "!ZB0509">
-「魔王様。
-　動いても大丈夫なのですか？」
+<name "Sofia" "!ZB0509">
+"Overlord, is it okay for you to be up?"
 #
-<name "ダークス">
-「ああ、大丈夫だ」
+<name "Darx">
+"Yeah, I'm fine."
 #
 <removesprite -1 11>
-<name "ダークス">
-「さて……」
+<name "Darx">
+"Now then..."
 #
-<name "ダークス">
-「まずはキュリハ、ミアルテ。
-　俺が居ない間、この街の防衛、ご苦労だった」
+<name "Darx">
+"First, Kyuriha, Miartei.
+ Thank you for protecting the city while I
+ could not."
 #
 <sprite "ta05a003.agf" 4 4 11>
-<name "キュリハ" "!FA0401">
-「いえ」
+<name "Kyuriha" "!FA0401">
+"It was nothing."
 #
 <removesprite -1 11>
 <sprite "ta03a011.agf" 4 4 11>
-<name "ミアルテ" "!SA0243">
-「魔王様をお守りすべき時におらず、申し訳ありま
-　せん」
+<name "Miartei" "!SA0243">
+"I'm sorry I wasn't there to protect you."
 #
 <removesprite -1 11>
-<name "ダークス">
-「ルーアルテも、色々と手伝ってくれたそうだな」
+<name "Darx">
+"Rualtei, I hear you helped too."
 #
 <sprite "ta04a017.agf" 4 4 11>
-<name "ルーアルテ" "!RA0226">
-「ま、まあね」
+<name "Rualtei" "!RA0226">
+"W-Whatever."
 #
 <removesprite -1 11>
-<name "ダークス">
-「ソフィアを始め、商会の者達にも感謝する」
+<name "Darx">
+"Sofia, and the rest of your company, I owe
+ you a debt as well."
 #
 <sprite "ta01a005.agf" 4 4 11>
-<name "ソフィア" "!ZB0510">
-「魔王様……」
+<name "Sofia" "!ZB0510">
+"Overlord..."
 #
 <removesprite -1 11>
-　そして、俺は街長を筆頭に各部署で働く者達に感
-　謝を述べた。
+I thank a representative in turn of everybody
+who contributes to city.
 #
-<name "ダークス">
-「コゼロットにも心配をかけたな」
+<name "Darx">
+"I caused a lot of trouble for you too,
+ Kozelotte."
 #
 <sprite "ta11a011.agf" 4 4 11>
-<name "コゼロット" "!NA0028">
-「私こそ、ご心配をお掛けしました」
+<name "Kozelotte" "!NA0028">
+"I was just worried about you."
 #
 <removesprite -1 11>
-<name "ダークス">
-「ここには居ないが、ゴラン、トージョ、ロギウス
-　達にも感謝していこう」
+<name "Darx">
+"They're not here, but make sure that Golan,
+ Tojo, and Logius all know that I'm grateful
+ to them too."
 #
-<name "ダークス">
-「マリーアリス」
+<name "Darx">
+"Marialis."
 #
 <sprite "ta15a006.agf" 4 4 11>
-<name "マリーアリス" "!LA0053">
-「はっ」
+<name "Marialis" "!LA0053">
+"Sir."
 #
-<name "ダークス">
-「命を助けられた」
+<name "Darx">
+"You saved my life."
 #
 <sprite "ta15a020.agf" 4 4 12>
-<name "マリーアリス" "!LA0054">
-「はは」
+<name "Marialis" "!LA0054">
+"Sir."
 #
-<name "ダークス">
-「そう、感謝してもしきれない」
+<name "Darx">
+"Yes, I cannot thank you enough."
 #
 <removesprite -1 11>
-<name "ダークス">
-「俺は魔王としての能力を疑われているが……
-　優れた仲間に囲まれている時点で、俺は魔王とし
-　てやっていけると確信している」
+<name "Darx">
+"My abilities as Overlord may be in doubt,
+ but surrounded by the finest companions,
+ I know that I will be able to prove myself."
 #
-　ああ、そうだ。
+Yeah, that's right.
 #
-　俺は確信している。
+I'm sure of it.
 #
-　俺は魔王だ。
+I am an Overlord.
 #
-<name "報告する魔族" "!BC0010">
-「魔王様。
-　街の住民達が、集まってきています」
+<name "Reporting Demon" "!BC0010">
+"My Lord, people of the city are here."
 #
 <music 11>
 <background "bg008a0.agf" 10>
-<name "心配する住民" "!MB0002">
-「魔王様っ！」
+<name "Concerned Citizen" "!MB0002">
+"Overlord!"
 #
-<name "応援する住民" "!CB0002">
-「魔王様ぁ！」
+<name "Cheering Citizen" "!CB0002">
+"Overlord!"
 #
-<name "駆けつけた住民" "!KB0042">
-「ご無事ですかぁ！」
+<name "Panicked Citizen" "!KB0042">
+"Are you okay!?"
 #
-<name "キュリハ" "!FA0402">
-「凄い人気ですね」
+<name "Kyuriha" "!FA0402">
+"You are quite beloved."
 #
-<name "ダークス">
-「……まったく。
-　やめて欲しいな。
-　最近、涙腺が弱くなってるんだから」
+<name "Darx">
+"...Seriously.
+ I wish they'd stop.
+ It's making me weepy."
 #
-　俺は住民達の前に顔を出し、健在をアピールした。
+I show myself to the citizens to prove that I'm
+alive and well.
 #
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta01a005.agf" 4 4 11>
-<name "ソフィア" "!ZB0512">
-「ふう……騒ぎも一段落ですね」
+<name "Sofia" "!ZB0512">
+"Whew...
+ All the commotion's over."
 #
-<name "ダークス">
-「いや、これからだ」
+<name "Darx">
+"No, it's just getting started."
 #
 <sprite "ta01a015.agf" 4 4 12>
-<name "ソフィア" "!ZB0513">
-「え？」
+<name "Sofia" "!ZB0513">
+"Huh?"
 #
-<name "ダークス">
-「スイセンの居場所はどこだ？」
+<name "Darx">
+"Where's Suisen hiding?"
 #
 <sprite "ta01a037.agf" 4 4 12>
-<name "ソフィア" "!ZB0514">
-「どこだって……天界に帰ったのではないんですか？」
+<name "Sofia" "!ZB0514">
+"Where? Wouldn't she go back to Celestia?"
 #
-<name "ダークス">
-「そんなワケないだろう」
+<name "Darx">
+"I doubt it."
 #
 <sprite "ta01a025.agf" 4 4 12>
-<name "ソフィア" "!ZB0515">
-「どうしてそう思うんですか？」
+<name "Sofia" "!ZB0515">
+"Why do you say that?"
 #
-<name "ダークス">
-「天界の総意でスイセンが動いているなら、もっと
-　大々的に攻める。
-　しかし、俺が寝ている間にそんな動きはなかった」
+<name "Darx">
+"That was way too little to be an official
+ attack by Celestia, and they didn't do 
+ anything at all while I was out."
 #
-<name "ダークス">
-「つまり、スイセンの独断か、極少数勢力の行動だ」
+<name "Darx">
+"Which means that she did it on her own, or at
+ most, has a minor faction backing her."
 #
-<name "ダークス">
-「それが俺を攻撃して、天界に逃げるなんてありえ
-　ない」
+<name "Darx">
+"She couldn't have attacked me and then run
+ back to Celestia."
 #
-<name "ダークス">
-「近くに潜んでいる筈だ」
+<name "Darx">
+"Therefore she must be hiding nearby."
 #
 <sprite "ta01a024.agf" 4 4 12>
-<name "ソフィア" "!ZB0516">
-「えっと……」
+<name "Sofia" "!ZB0516">
+"Um..."
 #
-<name "ダークス">
-「隠すな。
-　調べているんだろ。
-　もしくは、スイセンから招待状が来ているんじゃ
-　ないか？」
+<name "Darx">
+"Don't hide it.
+ You're already searching, aren't you?
+ Or maybe even got a challenge from her
+ personally."
 #
 <sprite "ta01a036.agf" 4 4 12>
-<name "ソフィア" "!ZB0517">
-「……その通りです」
+<name "Sofia" "!ZB0517">
+"...You're correct."
 #
 <removesprite -1 11>
-　だと思った。
+I knew it.
 #
-<name "ダークス">
-「報告しろ」
+<name "Darx">
+"Out with it."
 #
 <sprite "ta01a024.agf" 4 4 11>
-<name "ソフィア" "!ZB0518">
-「無茶をしないでください……と言っても聞いてく
-　れませんよね」
+<name "Sofia" "!ZB0518">
+"Please don't be reckless... but you're not
+ going to listen to me, are you?"
 #
-<name "ダークス">
-「スイセンは手強い」
+<name "Darx">
+"She's dangerous."
 #
 <sprite "ta01a004.agf" 4 4 12>
-<name "ソフィア" "!ZB0519">
-「……では、無事にお帰りください」
+<name "Sofia" "!ZB0519">
+"...Then please come back alive."
 #
-<name "ダークス">
-「死ぬ気は無い。
-　スイセンはどこだ？」
+<name "Darx">
+"I don't plan on dying.
+ Where is she?"
 #
 <sprite "ta01a011.agf" 4 4 12>
-<name "ソフィア" "!ZB0520">
-「……氷掌閣です」
+<name "Sofia" "!ZB0520">
+"...The Frostgrip Dome."
 #
-<name "ダークス">
-「不似合いな場所だな」
+<name "Darx">
+"That's a strange place."
 #
 <removesprite -1 11>
-　ヘビを連れているのに、寒い場所に行くのか？
+A snake somewhere cold?
 #
 <sprite "ta01a011.agf" 4 4 11>
-<name "ソフィア" "!ZB0521">
-「以前から、何度かスイセンを確認している場所ら
-　しく、間違いは無いかと」
+<name "Sofia" "!ZB0521">
+"It seems that she's been seen there multiple
+ times. I don't think it's incorrect."
 #
-<name "ダークス">
-「そんな報告、俺は受けてないぞ」
+<name "Darx">
+"I didn't see those reports."
 #
 <sprite "ta01a036.agf" 4 4 12>
-<name "ソフィア" "!ZB0522">
-「ラキア様の方で監視していたようです。
-　私の手の者では、そこまで監視できませんでした。
-　申し訳ありません」
+<name "Sofia" "!ZB0522">
+"Rakia was apparently tracking her.
+ My people haven't seen a trace of her.
+ I'm sorry."
 #
-<name "ダークス">
-「わかった」
+<name "Darx">
+"Got it."
 #
-<name "ダークス">
-「何度か見かけた場所って事は、適当に逃げたって
-　ワケじゃなさそうだよな」
+<name "Darx">
+"If she's been seen there repeatedly, it seems
+ like she has no intention of running."
 #
 <sprite "ta01a011.agf" 4 4 11>
-<name "ソフィア" "!ZB0523">
-「そうですね。
-　拠点を作っている可能性があります」
+<name "Sofia" "!ZB0523">
+"No, it doesn't.
+ She may have set up a base there."
 #
-<name "ダークス">
-「……だな」
+<name "Darx">
+"...Yeah."
 #
-<name "ダークス">
-「まあ、いつも通りやる」
+<name "Darx">
+"Well, same as usual."
 #
-<name "ダークス">
-「そう心配するな。
-　負けはしないさ」
+<name "Darx">
+"Don't worry.
+ I'm not going to lose."
 #
 <sprite "ta01a033.agf" 4 4 11>
-<name "ソフィア" "!ZB0524">
-「頑張ってください！」
+<name "Sofia" "!ZB0524">
+"Good luck!"
 #
-<name "ダークス">
-「おう」
+<name "Darx">
+"Yeah."
 #
 <removesprite -1 11>
-　目指すは氷掌閣だ！
+To the Frostgrip Dome!
 #
 \x78\x78

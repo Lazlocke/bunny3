@@ -1,295 +1,298 @@
 ﻿<music 3>
 <background "bg010a0.agf" 10>
-<name "ダークス">
-「なにがあった？」
+<name "Darx">
+"What happened?"
 #
 <sprite "ta34a008.agf" 4 4 11>
-<name "商会メイド" "!AC0073">
-「魔王様の分身体です」
+<name "Company Maid" "!AC0073">
+"It's your other body."
 #
-<name "ダークス">
-「分身体？」
+<name "Darx">
+"My other body?"
 #
-<name "商会メイド" "!AC0074">
-「はい！
-　それが急遽暴れだし、逃走しました」
+<name "Company Maid" "!AC0074">
+"Yes!
+ It suddenly went crazy and escaped."
 #
-<name "ダークス">
-「は？」
+<name "Darx">
+"Huh?"
 #
 <removesprite -1 11>
-　何を言っているのか理解できなかった。
+I have no idea what I'm hearing.
 #
-　ともかく、俺は目を閉じ、自身の分身体に意識を
-　送ろうとした。
+I close my eyes and try to send my thoughts
+to it.
 #
-　が、駄目だった。
+But it doesn't work.
 #
-　行き先が無いような感覚。
+It's like floating in a void.
 #
-　だが、分身体は居る。
+But I can sense it.
 #
-　居るのだが、どういう事だ？
+It's there, but... what does this mean?
 #
 <sprite "ta34a008.agf" 4 4 11>
-<name "商会メイド" "!AC0075">
-「フォーゼロッテ宮の施設被害、甚大。
-　特に分身体の居た部屋周辺は壊滅的です」
+<name "Company Maid" "!AC0075">
+"The damage to Forzelotte's Shrine is
+ considerable, especially around the room it
+ was in."
 #
-<name "商会メイド" "!AC0076">
-「人的被害はありません。
-　ただ、逃げるのを止めようとした者が負傷」
+<name "Company Maid" "!AC0076">
+"There were no casualties, but a few people
+ who tried to stop its escape were hurt."
 #
-<name "商会メイド" "!AC0077">
-「扉を使って逃げたそうです」
+<name "Company Maid" "!AC0077">
+"It seems to have gotten away using a Door."
 #
 <removesprite -1 11>
-　少しゾッとした。
+That makes me shiver.
 #
-　扉の間から、ここにすぐの場所だ。
+A lot of the Doors lead to near here.
 #
-　街に大被害が出るところだった。
+It could cause a lot of harm to the city.
 #
-<name "ダークス">
-「どこに行った？」
+<name "Darx">
+"Where did it go?"
 #
 <sprite "ta34a008.agf" 4 4 11>
-<name "商会メイド" "!AC0078">
-「光峰の壁と報告を受けています」
+<name "Company Maid" "!AC0078">
+"Reports say it's near the Lucent Crown Wall."
 #
-<name "商会メイド" "!AC0079">
-「現在、扉の間の警備を最優先しています」
+<name "Company Maid" "!AC0079">
+"Currently, security around the Doors is our
+ top priority."
 #
-<name "ダークス">
-「襲ってきたら、俺だと思わずに倒して良いと伝え
-　てくれ」
+<name "Darx">
+"If it attacks, kill it without any regard for
+ it being me."
 #
 <sprite "ta34a001.agf" 4 4 12>
-<name "商会メイド" "!AC0080">
-「承知しました」
+<name "Company Maid" "!AC0080">
+"Understood."
 #
 <removesprite -1 11>
 <sprite "ta01a010.agf" 4 4 11>
-<name "ソフィア" "!ZB0525">
-「魔王様。
-　被害状況の速報です」
+<name "Sofia" "!ZB0525">
+"Overlord, I have a preliminary report of the
+ damage."
 #
-<name "ダークス">
-「ああ」
+<name "Darx">
+"Okay."
 #
 <removesprite -1 11>
-　かなりの被害だ。
+It's pretty bad.
 #
-　イラつく。
+This is frustrating.
 #
-　が、落ち着け。
+But I need to stay calm.
 #
-<name "ダークス">
-「……まず、まとめよう」
+<name "Darx">
+"...First, put it all together."
 #
-<name "ダークス">
-「なぜ、俺の分身体は暴走した？」
+<name "Darx">
+"Why did my body go crazy?"
 #
-　ここしばらく、スイセンに掛かりっきりだったと
-　は言え、その前に暴走しない程度には繋がってい
-　た。
+I've been focused on Suisen for a while, but
+I was still connected enough with it to keep
+it under control.
 #
-<name "ダークス">
-「高魔力によって自我が目覚めたのか？」
+<name "Darx">
+"Did it become sentient from too much mana?"
 #
 <sprite "ta01a011.agf" 4 4 11>
-<name "ソフィア" "!ZB0526">
-「可能性が無いワケでは、ないですが……
-　限りなく低いかと」
+<name "Sofia" "!ZB0526">
+"There's not impossible, but I think that's
+ very unlikely."
 #
-<name "ダークス">
-「だろうな。
-　となると、何者かの作為だろう」
+<name "Darx">
+"Right?
+ Then someone must have done something."
 #
 <removesprite -1 11>
-　スイセンの態度からも、そう考えるのが自然だ。
+Given what Suisen said, that seems the most
+likely.
 #
-<name "ダークス">
-「…………逃げるのを止めようとした者が負傷した
-　と言っていたが、詳しく説明できるか？」
+<name "Darx">
+"...You said the people who tried to stop it
+ were hurt. 
+ Can you tell me more about that?"
 #
 <sprite "ta01a010.agf" 4 4 11>
-<name "ソフィア" "!ZB0527">
-「はい」
+<name "Sofia" "!ZB0527">
+"Yes, sir."
 #
 <sprite "ta01a011.agf" 4 4 12>
-<name "ソフィア" "!ZB0528">
-「分身体は部屋の扉を破壊した後、一直線で扉の間
-　に向かったようです」
+<name "Sofia" "!ZB0528">
+"After it broke through the door of its room,
+ it seemed like it went straight to the Hall
+ of Doors."
 #
 <sprite "ta01a012.agf" 4 4 12>
-<name "ソフィア" "!ZB0529">
-「その様子を見た王宮関係者から各者に報告。
-　扉の間を使わせないように、エカテー様、パニバ
-　ーナ様、他数名が動いたのですが、阻止できずに
-　扉を使われてしまったそうです」
+<name "Sofia" "!ZB0529">
+"It was immediately reported to everyone in
+ the palace. Ekate, Paniverna, and others 
+ tried to stop it from using the doors, but
+ they weren't successful."
 #
-<name "ダークス">
-「エカテーとパニバーナで止められなかったのか？」
+<name "Darx">
+"Ekate and Paniverna couldn't stop it?"
 #
 <sprite "ta01a024.agf" 4 4 12>
-<name "ソフィア" "!ZB0530">
-「そのようです」
+<name "Sofia" "!ZB0530">
+"That's correct."
 #
 <sprite "ta01a036.agf" 4 4 12>
-<name "ソフィア" "!ZB0532">
-「お二人に怪我はなく。
-　現在、エカテー様は扉の間の防衛の指揮を。
-　パニバーナ様は王宮の被害確認を行っています」
+<name "Sofia" "!ZB0532">
+"Neither of them were hurt.
+ Ekate has taken charge of security in the
+ Hall of Doors, and Paniverna is reviewing the
+ damage to the palace."
 #
-<name "ダークス">
-「そうか」
+<name "Darx">
+"I see."
 #
 <removesprite -1 11>
-　どういう事だ？
-　あの分身体は、図体はデカいが、それほど強くは
-　無い。
+What's going on?
+That body's big, but it's not a real threat.
 #
-　触手も、女を捕縛する程度の力を持ってはいるが、
-　それだけだ。
+The tentacles are strong enough to restrain a
+woman, but that's it.
 #
-　武器を持ち、それなりの数で掛かれば問題無く倒
-　せる筈だ。
+With weapons and numbers, it shouldn't have
+been a match for them.
 #
-<name "ダークス">
-「ひょっとして……俺だと思って、手が出なかった
-　のか？」
+<name "Darx">
+"Wait, did they assume it was me and hold
+ back?"
 #
 <sprite "ta01a024.agf" 4 4 11>
-<name "ソフィア" "!ZB0533">
-「最初はそうでしたが、パニバーナ様が敵と認定し、
-　攻撃しています。
-　それにエカテー様も続いたかと」
+<name "Sofia" "!ZB0533">
+"At first, but Paniverna saw it as an enemy
+ and attacked, with Ekate followed her lead."
 #
-<name "ダークス">
-「むう……」
+<name "Darx">
+"Hmmm..."
 #
 <removesprite -1 11>
-　悩んでいると、パニバーナがやってきた。
+As I think about it, Paniverna comes in.
 #
 <sprite "ta14a000.agf" 4 4 11>
-<name "パニバーナ" "!DA0050">
-「報告に参りました」
+<name "Paniverna" "!DA0050">
+"Reporting."
 #
 <removesprite -1 11>
-　事態の詳細が報告される。
+She summarizes the situation.
 #
-　内容的には、ソフィアの報告の補足で、大きな違
-　いはなかった。
+But all she does is fill in some minor details
+that Sofia overlooked.
 #
-<name "ダークス">
-「とりあえず、どうするかだな」
+<name "Darx">
+"So, now what?"
 #
-　スイセンが関わっている事だろうし、無視はでき
-　ない。
+Suisen must be involved, and we can't just
+ignore this.
 #
-　なにせ、自分の分身体だ。
+It is my body after all.
 #
-<name "ダークス">
-「逃げた先は、光峰の壁で間違いないな？」
+<name "Darx">
+"We think it went to the Lucent Crown Wall?"
 #
 <sprite "ta14a001.agf" 4 4 11>
-<name "パニバーナ" "!DA0051">
-「はい。
-　追跡に何人か送り込み、確認しています」
+<name "Paniverna" "!DA0051">
+"Yes. I've sent some people to track it and
+ confirm that."
 #
 <sprite "ta14a000.agf" 4 4 12>
-<name "パニバーナ" "!DA0052">
-「ただ、現在はわかりません」
+<name "Paniverna" "!DA0052">
+"But it's not certain yet."
 #
-<name "ダークス">
-「どういう事だ？」
+<name "Darx">
+"What do you mean?"
 #
 <sprite "ta14a018.agf" 4 4 12>
-<name "パニバーナ" "!DA0053">
-「天界の者達が追跡の妨害を」
+<name "Paniverna" "!DA0053">
+"Celestials are obstructing us."
 #
-<name "ダークス">
-「……」
+<name "Darx">
+"..."
 #
 <removesprite -1 11>
-　やはりかと思う。
+I knew it.
 #
-　そこに、慌てたラキアさんがやってきた。
+And then Rakia comes running up in a panic.
 #
 <sprite "ta08a008.agf" 4 4 11>
-<name "ラキア" "!ZC0207">
-「魔王様。
-　一大事です」
+<name "Rakia" "!ZC0207">
+"My Lord, emergency."
 #
-<name "ダークス">
-「ああ、フォーゼロッテ宮は大変らしいな」
-#
-<sprite "ta08a009.agf" 4 4 12>
-<name "ラキア" "!ZC0208">
-「違います！」
-#
-<name "ダークス">
-「え？」
-#
-<sprite "ta08a008.agf" 4 4 12>
-<name "ラキア" "!ZC0209">
-「フォーゼロッテ様が、浚われました」
-#
-<name "ダークス">
-「！」
-#
-<sprite "ta08a010.agf" 4 4 12>
-<name "ラキア" "!ZC0210">
-「あの分身体です！」
-#
-<sprite "ta08a008.agf" 4 4 12>
-<name "ラキア" "!ZC0211">
-「分身体が、小さなフォーゼロッテ様を浚ったので
-　す！」
-#
-<sprite "ta08a010.agf" 4 4 12>
-<name "ラキア" "!ZC0212">
-「目撃者が複数居る事から、間違いありません」
+<name "Darx">
+"Yeah, Forzelotte's Shrine is wrecked."
 #
 <sprite "ta08a009.agf" 4 4 12>
-<name "ラキア" "!ZC0213">
-「現在、コゼロット様にお願いして、フォーゼロッ
-　テ様の本体の確認をして貰っています」
+<name "Rakia" "!ZC0208">
+"Not that!"
+#
+<name "Darx">
+"Huh?"
+#
+<sprite "ta08a008.agf" 4 4 12>
+<name "Rakia" "!ZC0209">
+"Forzelotte was taken."
+#
+<name "Darx">
+"...!"
+#
+<sprite "ta08a010.agf" 4 4 12>
+<name "Rakia" "!ZC0210">
+"Your body did it!"
+#
+<sprite "ta08a008.agf" 4 4 12>
+<name "Rakia" "!ZC0211">
+"Your body took the little Forzelotte!"
+#
+<sprite "ta08a010.agf" 4 4 12>
+<name "Rakia" "!ZC0212">
+"Multiple people confirmed it.
+ There's no doubt."
+#
+<sprite "ta08a009.agf" 4 4 12>
+<name "Rakia" "!ZC0213">
+"I've already asked Kozelotte to check up on
+ her main body."
 #
 <removesprite -1 11>
-<name "ダークス">
-「……………………………………」
+<name "Darx">
+"........."
 #
-<name "ダークス">
-「なるほど」
+<name "Darx">
+"I see."
 #
-　俺の頭が回転する。
+My thoughts race.
 #
-　色々と繋がった気がした。
+This has to all be connected.
 #
-　スイセン……いや、スイセンの他に事態を操作し
-　ているヤツが居る。
+Suisen... 
+No, whoever's pulling her strings...
 #
-　そいつが、俺の分身体のコントロールを奪い、小
-　さなフォーゼロッテを浚った。
+They hijacked control of my body and used it
+to steal the little Forzelotte.
 #
-　小さなフォーゼロッテでも、触れたら魔力を奪わ
-　れる。
+Even her little body is capable of draining
+mana by touch.
 #
-　だが、俺は大丈夫だ。
+But not mine.
 #
-　そして、俺の分身体も。
+And not my other body either.
 #
-　スイセンの上のヤツの狙いは、フォーゼロッテか。
+Is this puppet master's real aim Forzelotte?
 #
-<name "ダークス">
-「殺す」
+<name "Darx">
+"I'll kill them."
 #
-　誰かは知らんが、殺す！
+I have no idea who it is, but they're dead!
 #
-<name "ダークス">
-「フォーゼロッテは、すぐにはやられん。
-　が、悠長にもしてられん」
+<name "Darx">
+"She won't go down that easily, but I'm not
+ going to give them the chance."
 #
 \x78\x78

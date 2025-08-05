@@ -1,136 +1,135 @@
 ﻿<music 11>
 <background "bg008a0.agf" 10>
 <sprite "ta06a001.agf" 4 4 11>
-<name "スイセン" "!YA0297">
-「アンゼルム商会の売り上げは、どう？」
+<name "Suisen" "!YA0297">
+"How are Anselm's sales?"
 #
-<name "元天界兵" "!TC0062">
-「良い感じです。
-　ただ、やはりギュンギュスカー商会が……」
+<name "Angel Soldier" "!TC0062">
+"Mostly good, but Gunguskar is still..."
 #
 <sprite "ta06a003.agf" 4 4 12>
-<name "スイセン" "!YA0298">
-「ふふ。
-　すでに手はうってある」
+<name "Suisen" "!YA0298">
+"Heheh.
+ I've already got it well in hand."
 #
-<name "元天界兵" "!TC0063">
-「流石はスイセン様」
+<name "Angel Soldier" "!TC0063">
+"As I'd expect of you."
 #
-<name "スイセン" "!YA0299">
-「……」
+<name "Suisen" "!YA0299">
+"..."
 #
-<name "元天界兵" "!TC0064">
-「……」
+<name "Angel Soldier" "!TC0064">
+"..."
 #
 <sprite "ta06a005.agf" 4 4 12>
-<name "スイセン" "!YA0300">
-「ありがとう。
-　少し、気が楽になったわ。
-　これ、お礼」
+<name "Suisen" "!YA0300">
+"Thank you.
+ That made me feel a little better.
+ Here, your reward."
 #
-<name "元天界兵" "!TC0065">
-「いえいえ。
-　また呼んでください」
+<name "Angel Soldier" "!TC0065">
+"It was nothing.
+ Call me again any time."
 #
 <removesprite -1 11>
 <sprite "ta05a014.agf" 4 4 11>
-<name "キュリハ" "!FA0521">
-「……なに、今の？」
+<name "Kyuriha" "!FA0521">
+"...What was that?"
 #
 <removesprite -1 11>
 <sprite "ta05a014.agf" 2 4 11>
 <sprite "ta06a003.agf" 6 5 11>
-<name "スイセン" "!YA0301">
-「一人で寂しいから雰囲気作り」
+<name "Suisen" "!YA0301">
+"Just setting the mood because I'm lonely."
 #
 <sprite "ta05a015.agf" 2 4 12>
-<name "キュリハ" "!FA0522">
-「……………………言ってくれれば、手伝うわよ」
+<name "Kyuriha" "!FA0522">
+"...You can just ask me for help."
 #
 <sprite "ta06a004.agf" 6 5 12>
-<name "スイセン" "!YA0302">
-「本当？」
+<name "Suisen" "!YA0302">
+"Really?"
 #
 <sprite "ta05a017.agf" 2 4 12>
-<name "キュリハ" "!FA0523">
-「ええ」
+<name "Kyuriha" "!FA0523">
+"Yes."
 #
 <sprite "ta06a005.agf" 6 5 12>
-<name "スイセン" "!YA0303">
-「じゃあ、これ」
+<name "Suisen" "!YA0303">
+"Then here."
 #
 <sprite "ta05a010.agf" 2 4 12>
-<name "キュリハ" "!FA0524">
-「なに、これ？」
+<name "Kyuriha" "!FA0524">
+"What's this?"
 #
-<name "スイセン" "!YA0304">
-「台本」
+<name "Suisen" "!YA0304">
+"Your script."
 #
 <sprite "ta05a009.agf" 2 4 12>
-<name "キュリハ" "!FA0525">
-「えっと……」
+<name "Kyuriha" "!FA0525">
+"Um..."
 #
 <removesprite -1 11>
 <sprite "ta06a004.agf" 4 4 11>
-<name "スイセン" "!YA0305">
-「さっきの子、ごめん。
-　もうちょっとやれる？」
+<name "Suisen" "!YA0305">
+"I'm sorry about her.
+ Can you do a little more?"
 #
-<name "元天界兵" "!TC0066">
-「良いですよ」
+<name "Angel Soldier" "!TC0066">
+"That's fine."
 #
 <sprite "ta06a003.agf" 4 4 12>
-<name "スイセン" "!YA0306">
-「ありがとう。
-　じゃあ、これ台本。
-　いける？」
+<name "Suisen" "!YA0306">
+"Thank you.
+ Okay, here's your script.
+ Can you do it?"
 #
-<name "元天界兵" "!TC0067">
-「……なんとか、最初の雰囲気は？」
+<name "Angel Soldier" "!TC0067">
+"...What's the mood here?"
 #
 <sprite "ta06a004.agf" 4 4 12>
-<name "スイセン" "!YA0307">
-「絶望した感じから」
+<name "Suisen" "!YA0307">
+"A feeling of despair."
 #
-<name "元天界兵" "!TC0068">
-「わかりました。
-　あとは……流れですね」
+<name "Angel Soldier" "!TC0068">
+"All right.
+ So... just go with it."
 #
 <sprite "ta06a005.agf" 4 4 12>
-<name "スイセン" "!YA0308">
-「ええ」
+<name "Suisen" "!YA0308">
+"Yeah."
 #
 <sprite "ta06a003.agf" 4 4 12>
-<name "スイセン" "!YA0309">
-「よし、始めるわよ！」
+<name "Suisen" "!YA0309">
+"Okay, let's begin!"
 #
 <removesprite -1 11>
 <sprite "ta05a016.agf" 4 4 11>
-<name "キュリハ" "!FA0526">
-「え、あの、え……」
+<name "Kyuriha" "!FA0526">
+"Huh? Um... huh?"
 #
 <removesprite -1 11>
 <background "bg015a0.agf" 10>
-　……
+...
 #
 <music 3>
 <background "bg010a0.agf" 10>
-<name "ダークス">
-「演劇、やったんだって？」
+<name "Darx">
+"I hear you were in a play?"
 #
 <sprite "ta05a015.agf" 4 4 11>
-<name "キュリハ" "!FA0527">
-「ええ……まあ」
+<name "Kyuriha" "!FA0527">
+"Yes, well..."
 #
 <removesprite -1 11>
 <sprite "ta05a015.agf" 2 4 11>
 <sprite "ta01a005.agf" 6 5 11>
-<name "ソフィア" "!ZB0631">
-「もう一回やって欲しいとか、次はどこでやるのか
-　と質問が殺到していますよ」
+<name "Sofia" "!ZB0631">
+"People keep asking me over and over when
+ they're going to do it again."
 #
-<name "キュリハ" "!FA0528">
-「あはは……」
+<name "Kyuriha" "!FA0528">
+"Hahaha..."
 #
 <removesprite -1 11>
 \x2B\x78\x78

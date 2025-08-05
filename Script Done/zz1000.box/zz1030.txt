@@ -2,59 +2,59 @@
 <background "bg011a0.agf" 10>
 <sprite "ta13a016.agf" 2 4 11>
 <sprite "ta10a025.agf" 6 5 11>
-<name "フォーゼロッテ" "!XA0120">
-「ふふふ」
+<name "Forzelotte" "!XA0120">
+"Heheheh..."
 #
 <sprite "ta13a018.agf" 2 4 12>
-<name "エカテー" "!TA0012">
-「うぬぬぬぬ」
+<name "Ekate" "!TA0012">
+"Rrrrrrrr..."
 #
-<name "ダークス">
-「どうして、俺の部屋で二人が睨み合っているかな」
+<name "Darx">
+"Why are you two staring daggers in my room?"
 #
 <removesprite -1 11>
-　正確には、エカテーが睨んでいる。
+Or more accurately, Ekate is.
 #
 <sprite "ta13a001.agf" 2 4 11>
 <sprite "ta10a005.agf" 6 5 11>
-<name "フォーゼロッテ" "!XA0121">
-「私は夫の部屋の清掃をしに来ただけだ」
+<name "Forzelotte" "!XA0121">
+"I just came to clean my husband's room."
 #
 <sprite "ta13a005.agf" 2 4 12>
-<name "エカテー" "!TA0013">
-「私もです」
+<name "Ekate" "!TA0013">
+"Me too."
 #
-<name "ダークス">
-「はぁ。
-　その割には、ベッド以外が片付いていないような
-　気が……」
+<name "Darx">
+"Uh...
+ Then why does it look like nothing's cleaned
+ up besides the bed?"
 #
 <removesprite -1 11>
-　多分、清掃メイドを追い出したんだろうな。
+They probably chased out the regular maid.
 #
 <sprite "ta13a001.agf" 2 4 11>
 <sprite "ta10a008.agf" 6 5 11>
-<name "フォーゼロッテ" "!XA0122">
-「とりあえず、エカテー。
-　ここは私に譲るのが筋ではないか？」
+<name "Forzelotte" "!XA0122">
+"Ekate, don't you think this is best left to
+ me?"
 #
 <sprite "ta13a005.agf" 2 4 12>
-<name "エカテー" "!TA0014">
-「いえいえ、公平に何かで勝負しましょう」
+<name "Ekate" "!TA0014">
+"No, no. Let's have a fair match."
 #
 <sprite "ta10a010.agf" 6 5 12>
-<name "フォーゼロッテ" "!XA0123">
-「ふむ。
-　チェスでどうだ？」
+<name "Forzelotte" "!XA0123">
+"Hmm...
+ How about chess?"
 #
 <sprite "ta13a006.agf" 2 4 12>
-<name "エカテー" "!TA0015">
-「いいでしょう」
+<name "Ekate" "!TA0015">
+"Fine."
 #
 <removesprite -1 11>
-　二人はチェスを始めた。
+The two start playing.
 #
-<name "ダークス">
-「掃除、終わってないの忘れないようにね」
+<name "Darx">
+"Don't forget to clean up after you finish."
 #
 \x78\x78

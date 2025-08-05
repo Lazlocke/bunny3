@@ -1,215 +1,223 @@
 ﻿<music 46>
 <background "bg008a1.agf" 10>
-　街を大きな衝撃が襲った。
+A huge impact rocks the city.
 #
-<name "ダークス">
-「な、な、なんだ？」
+<name "Darx">
+"W-W-What was that?"
 #
 <sprite "ta34a008.agf" 4 4 11>
-<name "商会メイド" "!AC0046">
-「攻撃されました！」
+<name "Company Maid" "!AC0046">
+"We're under attack!"
 #
-<name "ダークス">
-「相手はどこだ？」
+<name "Darx">
+"By who?"
 #
-<name "商会メイド" "!AC0047">
-「それが、視認できませんでした。
-　方角は多分、こちら側」
+<name "Company Maid" "!AC0047">
+"I didn't see anything.
+ I think it came from that direction."
 #
 <removesprite -1 11>
 <background "bg001a3.agf" 10>
-　指差す方向にあるのは、落ちた城。
+She's pointing towards the fallen castle.
 #
-<name "ダークス">
-「光峰の壁か」
+<name "Darx">
+"The Lucent Crown Wall?"
 #
 <sprite "ta34a002.agf" 4 4 11>
-<name "商会メイド" "!AC0048">
-「はい。
-　あそこはまだ天界の勢力が頑張っていますので、
-　攻撃を仕掛けた者もそこかと……」
+<name "Company Maid" "!AC0048">
+"Yes. There are still angels active there.
+ I think that's where the attack came from."
 #
 <sprite "ta34a008.agf" 4 4 12>
-<name "商会メイド" "!AC0049">
-「また来ます！」
+<name "Company Maid" "!AC0049">
+"Another coming!"
 #
-<name "ダークス">
-「防御は？」
+<name "Darx">
+"Our defenses?"
 #
-<name "商会メイド" "!AC0050">
-「親衛隊の方々が出ました！
-　来ます！」
+<name "Company Maid" "!AC0050">
+"The guards are here!
+ Incoming!"
 #
 <removesprite -1 11>
-　巨大な魔力の塊が、飛んできた。
+A huge mass of mana shoots towards us.
 #
-　早くはない。
+But not that fast.
 #
-　だから、親衛隊の者達が個々に魔法をぶつけ迎撃
-　する事が出来た。
+So the guards are able to get in front of it
+and use their own mana to deflect it.
 #
-<name "ダークス">
-「これなら大丈夫だ！
-　最初の攻撃の被害を確認しろ！
-　負傷者の救助もだ！」
+<name "Darx">
+"That did it!
+ Check the damage from the first attack!
+ And see to the wounded!"
 #
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!AC0051">
-「はい！」
+<name "Company Maid" "!AC0051">
+"Yes, sir!"
 #
 <removesprite -1 11>
 <music 45>
-　攻撃はこの後、七回行われた。
+Seven more attacks came after that.
 #
-　一回一回、調整をされたようで狙いは街の中央に
-　寄っていく。
+Each time, the target changed slightly, moving
+ever closer to the center of the city.
 #
-　だが、来るのが解っていたので全て防げた。
+But once we knew it was coming, we were able
+to completely block it.
 #
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta15a014.agf" 4 4 11>
-<name "マリーアリス" "!LA0039">
-「な、なんとか……」
+<name "Marialis" "!LA0039">
+"U-Unbelievable..."
 #
-<name "ダークス">
-「よくやった」
+<name "Darx">
+"You did well."
 #
-<name "ダークス">
-「しかし、あの攻撃はなんだったんだ？」
+<name "Darx">
+"But what the hell was that attack?"
 #
 <sprite "ta15a015.agf" 4 4 12>
-<name "マリーアリス" "!LA0040">
-「高く飛びましたが、敵の姿は見えませんでした」
+<name "Marialis" "!LA0040">
+"I flew up high, but I didn't see any trace
+ of enemies."
 #
 <sprite "ta15a017.agf" 4 4 12>
-<name "マリーアリス" "!LA0041">
-「光峰の壁の辺りから放たれた攻撃なのは確かです」
+<name "Marialis" "!LA0041">
+"I'm pretty certain that the attack came from
+ near the Lucent Crown Wall."
 #
 <removesprite -1 11>
-　攻撃は、魔法なのは確かだ。
+It was definitely some kind of magical attack.
 #
-　ただ、湾曲して飛んできた。
+But it flew in a curved arc.
 #
-　石を投げた時のような軌道で街を狙って来た。
+It came at us like a rock being thrown at the
+city.
 #
-<name "ダークス">
-「新兵器か……」
+<name "Darx">
+"Some new weapon..."
 #
-<name "ダークス">
-「ともかく、放置はできん」
+<name "Darx">
+"Anyway, we can't just ignore it."
 #
-<name "ダークス">
-「いつ、同じ攻撃をされるかわからないからな」
+<name "Darx">
+"We don't know when they might attack with it
+ again."
 #
-<name "ダークス">
-「警戒は解くな」
+<name "Darx">
+"Stay on constant alert."
 #
 <sprite "ta15a006.agf" 4 4 11>
-<name "マリーアリス" "!LA0042">
-「はっ」
+<name "Marialis" "!LA0042">
+"Sir."
 #
 <removesprite -1 11>
 <sprite "ta05a015.agf" 4 4 11>
-<name "キュリハ" "!FA0174">
-「ダークス様」
+<name "Kyuriha" "!FA0174">
+"Darx."
 #
-<name "ダークス">
-「キュリハさん。
-　大丈夫でしたか？」
+<name "Darx">
+"Are you okay, Kyuriha?"
 #
 <sprite "ta05a016.agf" 4 4 12>
-<name "キュリハ" "!FA0175">
-「ええ。
-　今の攻撃に関して、ご報告をと思いまして」
+<name "Kyuriha" "!FA0175">
+"Yes. I would like to inform you about the
+ attack that just occurred."
 #
-<name "ダークス">
-「心当たりが？」
+<name "Darx">
+"You know something about it?"
 #
 <sprite "ta05a005.agf" 4 4 12>
-<name "キュリハ" "!FA0176">
-「はい。
-　今の攻撃はミアルテが研究していたものです」
+<name "Kyuriha" "!FA0176">
+"Yes. That attack was just like something
+ Miartei was studying."
 #
-<name "ダークス">
-「……なるほど」
+<name "Darx">
+"...I see."
 #
 <sprite "ta05a006.agf" 4 4 12>
-<name "キュリハ" "!FA0177">
-「それなりに大きな装置が必要でしたので、そうそ
-　う移動は出来なかったかと」
+<name "Kyuriha" "!FA0177">
+"It required a very large piece of equipment,
+ so I do not believe she will be able to
+ relocate it."
 #
-<name "ダークス">
-「発射間隔は？」
+<name "Darx">
+"How long until it can fire again?"
 #
 <sprite "ta05a003.agf" 4 4 12>
-<name "キュリハ" "!FA0178">
-「私が知っている限りでは、今回かなり使ったので
-　しばらく整備が必要かと」
+<name "Kyuriha" "!FA0178">
+"As far as I'm aware, after how much she
+ used it this time, it will take quite a
+ while before it's functional again."
 #
-<name "ダークス">
-「結構、不便なんだな」
+<name "Darx">
+"That seems pretty inconvenient."
 #
 <sprite "ta05a014.agf" 4 4 12>
-<name "キュリハ" "!FA0179">
-「自分の領地や最前線ならともかく、物資の搬入に
-　手間取る場所ですから」
+<name "Kyuriha" "!FA0179">
+"It has its uses in your own territory or near
+ the front line, but it takes time to set up
+ and bring in the needed supplies."
 #
-<name "ダークス">
-「不似合いな武器って事か」
+<name "Darx">
+"An obnoxious weapon then."
 #
 <sprite "ta05a016.agf" 4 4 12>
-<name "キュリハ" "!FA0180">
-「ですね。
-　ひょっとしたら、城にあったものでなんとか組み
-　立てた可能性もあります」
+<name "Kyuriha" "!FA0180">
+"Indeed.
+ Perhaps they were able to assemble it somehow
+ with things left in the castle."
 #
-<name "ダークス">
-「むう。
-　なんにせよ、放置は出来ない方針は一緒だな」
+<name "Darx">
+"Hmm.
+ In any case, we can't just leave it there
+ pointed at us."
 #
 <sprite "ta05a019.agf" 4 4 12>
-<name "キュリハ" "!FA0181">
-「では、こちらを」
+<name "Kyuriha" "!FA0181">
+"Then take this."
 #
-<name "ダークス">
-「なんだ？」
+<name "Darx">
+"What is it?"
 #
 <removesprite -1 11>
-　鍵？
+A key?
 #
 <sprite "ta05a019.agf" 4 4 11>
-<name "キュリハ" "!FA0182">
-「通行証のようなものです」
+<name "Kyuriha" "!FA0182">
+"Consider it a pass."
 #
 <sprite "ta05a017.agf" 4 4 12>
-<name "キュリハ" "!FA0183">
-「これで、光峰の壁の奥にも行けるかと」
+<name "Kyuriha" "!FA0183">
+"This will let you through the Lucent Crown
+ Wall."
 #
-<name "ダークス">
-「……」
+<name "Darx">
+"..."
 #
 <sprite "ta05a015.agf" 4 4 12>
-<name "キュリハ" "!FA0184">
-「もっと早く欲しかった、というのはご容赦くださ
-　い」
+<name "Kyuriha" "!FA0184">
+"Forgive me for not giving it to you sooner."
 #
-<name "ダークス">
-「わかっている。
-　でも、良いのか？」
+<name "Darx">
+"Fine.
+ But you're sure?"
 #
 <sprite "ta05a019.agf" 4 4 12>
-<name "キュリハ" "!FA0185">
-「ミアルテは私を怒らせました」
+<name "Kyuriha" "!FA0185">
+"Miartei has incurred my ire."
 #
-<name "ダークス">
-「……そ、そうか」
+<name "Darx">
+"...I-I see."
 #
 <removesprite -1 11>
-　少し怖かった。
+That's a little scary.
 #
-　ともかく、こっちを攻撃してきた装置を潰す。
+Anyway, we need to destroy that thing they
+attacked us with.
 #
-　そして、ミアルテが居るなら、ミアルテも倒す。
+And if Miartei is there, she'll pay for this.
 #
 \x78\x78

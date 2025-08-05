@@ -1,24 +1,23 @@
 ﻿<music 18>
 <background "ev033a00.agf" 10>
-<name "ルーアルテ" "!RA0211">
-「お姉様。
-　私はどうかしてしまったのでしょうか」
+<name "Rualtei" "!RA0211">
+"Sister, is there something wrong with me?"
 #
-<name "ミアルテ" "!SA0199">
-「どうしたのです？」
+<name "Miartei" "!SA0199">
+"What do you mean?"
 #
-<name "ルーアルテ" "!RA0212">
-「実は、私の目の前に不思議な光景が広がっている
-　のです」
+<name "Rualtei" "!RA0212">
+"I swear I see something completely
+ unbelievable."
 #
-<name "ミアルテ" "!SA0200">
-「ご安心なさい。
-　実は私もです」
+<name "Miartei" "!SA0200">
+"Don't worry.
+ Actually, so do I."
 #
-<name "ルーアルテ" "!RA0213">
-「……とりあえず、出直しますか」
+<name "Rualtei" "!RA0213">
+"...Should we come back later?"
 #
-<name "ミアルテ" "!SA0201">
-「そうしましょう」
+<name "Miartei" "!SA0201">
+"Let's do that."
 #
 \x78\x78
