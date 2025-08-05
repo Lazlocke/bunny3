@@ -1,43 +1,42 @@
 ﻿<music 17>
 <background "ev014a02.agf" 10>
-<name "マクドゥ" "!ZA0153">
-「ん、んぁ、ふぁっ、あっ、んんんっ……」
+<name "Macdo" "!ZA0153">
+"Mm...mm...aah...ah...mmm..."
 #
 <background "ev014a03.agf" 10>
-<name "マクドゥ" "!ZA0154">
-「んぁぁぁぁぁぁぁっ！」
+<name "Macdo" "!ZA0154">
+"Aaaaahhhhh!"
 #
-　俺はマクドゥが達したのを確認してから、射精を
-　開始した。
+After making sure she came, I start to come
+myself.
 #
 <background "ev014a04.agf" 10>
-<name "マクドゥ" "!ZA0155">
-「ぁ、……うぁ、ぁ……」
+<name "Macdo" "!ZA0155">
+"Ah...aah...ah..."
 #
-　ストレス解消として関係を持ち始め、それなりに
-　結構な回数を相手にした事になる。
+This relationship began to relieve her stress,
+and we've done it quite a bit since then.
 #
-<name "マクドゥ" "!ZA0156">
-「ぁ……」
+<name "Macdo" "!ZA0156">
+"Ah..."
 #
-<name "マクドゥ" "!ZA0157">
-「か、勘違いするな……」
+<name "Macdo" "!ZA0157">
+"D-Don't misunderstand."
 #
-<name "マクドゥ" "!ZA0158">
-「ただのストレス発散の為に、貴様を使ってやって
-　いるだけだ」
+<name "Macdo" "!ZA0158">
+"I'm just using you to relieve my stress."
 #
-<name "ダークス">
-「ああ、わかっている」
+<name "Darx">
+"Yeah, I know."
 #
-<name "ダークス">
-「条件を達成した俺へのご褒美みたいなものなんだ
-　ろ」
+<name "Darx">
+"Like a reward for fulfilling your conditions,
+ right?"
 #
-<name "マクドゥ" "!ZA0159">
-「そうだ」
+<name "Macdo" "!ZA0159">
+"That's right."
 #
-<name "ダークス">
-「ああ、それで構わないさ」
+<name "Darx">
+"Yeah, I don't mind that."
 #
 \x78\x78

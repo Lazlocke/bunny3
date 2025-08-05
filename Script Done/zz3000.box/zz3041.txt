@@ -1,133 +1,136 @@
 ﻿<music 4>
 <background "bg009a0.agf" 10>
 <sprite "ta01a025.agf" 4 4 11>
-<name "ソフィア" "!ZB0239">
-「……あれ」
+<name "Sofia" "!ZB0239">
+"...Huh?"
 #
 <removesprite -1 11>
 <sprite "ta34a000.agf" 4 4 11>
-<name "商会メイド" "!DC0052">
-「ソフィア様。
-　私の話、聞いていました？」
+<name "Company Maid" "!DC0052">
+"Sofia, did you hear what I said?"
 #
 <sprite "ta01a045.agf" 4 4 11>
-<name "ソフィア" "!ZB0240">
-「え？
-　あ……ご、ごめんな……」
+<name "Sofia" "!ZB0240">
+"Huh?
+ Oh...
+ S-Sorry..."
 #
 <removesprite -1 11>
-　ソフィアは倒れた。
+Sofia fainted.
 #
 <sprite "ta34a008.agf" 4 4 11>
-<name "商会メイド" "!DC0053">
-「ソフィア様！」
+<name "Company Maid" "!DC0053">
+"Sofia!"
 #
 <removesprite -1 11>
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta34a001.agf" 4 4 11>
-<name "商会メイド" "!DC0054">
-「過労だそうです。
-　しばらく休養が必要かと」
+<name "Company Maid" "!DC0054">
+"It looks like she's been working too hard.
+ She may need to rest for a while."
 #
-<name "ダークス">
-「そうか」
+<name "Darx">
+"I see."
 #
 <removesprite -1 11>
 <sprite "ta08a016.agf" 4 4 11>
-<name "ラキア" "!ZC0168">
-「ダークス様。
-　申し訳ありません。
-　私共の不手際です」
+<name "Rakia" "!ZC0168">
+"Forgive me, Darx.
+ This is our fault."
 #
-<name "ダークス">
-「いや、俺も少し頼り過ぎた」
+<name "Darx">
+"No, I was relying on her for too much too."
 #
 <sprite "ta08a015.agf" 4 4 12>
-<name "ラキア" "!ZC0169">
-「いえ。
-　ギュンギュスカー商会の者であるなら、頼られて
-　当然です。
-　倒れたのは、当商会の管理が甘かった所為です」
+<name "Rakia" "!ZC0169">
+"No. You should be relying on someone from
+ Gunguskar.
+ She collapsed because we were lax in the
+ management of this branch."
 #
-<name "ダークス">
-「……そうか。
-　まあ、ソフィアには気にせず、養生させてくれ」
+<name "Darx">
+"...I see.
+ Well, go easy on her, and give her a chance
+ to get better."
 #
 <sprite "ta08a016.agf" 4 4 12>
-<name "ラキア" "!ZC0170">
-「はい」
+<name "Rakia" "!ZC0170">
+"Yes."
 #
-<name "ダークス">
-「復帰は急がなくて良い……
-　と言いたいが、そうもいかないな」
+<name "Darx">
+"I wish I could ask for her back as quickly as
+ possible, but I know I can't."
 #
-<name "ダークス">
-「俺がパンクする前に、戻らせてくれ」
+<name "Darx">
+"Just get her back on her feet before everything
+ goes to hell."
 #
 <sprite "ta08a000.agf" 4 4 12>
-<name "ラキア" "!ZC0171">
-「それですが……」
+<name "Rakia" "!ZC0171">
+"About that..."
 #
-<name "ダークス">
-「ソフィアの代わりは要らないぞ」
+<name "Darx">
+"I don't want a replacement for her."
 #
 <sprite "ta08a016.agf" 4 4 12>
-<name "ラキア" "!ZC0172">
-「…………承知しました」
+<name "Rakia" "!ZC0172">
+"...As you wish."
 #
 <removesprite -1 11>
 <music 11>
 <background "bg015a0.agf" 10>
-　五日後。
+Five days later.
 #
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta01a036.agf" 4 4 11>
-<name "ソフィア" "!ZB0241">
-「すみません。
-　ご迷惑をお掛けしました」
+<name "Sofia" "!ZB0241">
+"I'm sorry.
+ I just made more trouble."
 #
-<name "ダークス">
-「いや、気にするな。
-　それより、身体はもう大丈夫か？」
+<name "Darx">
+"Nah, don't sweat it.
+ More importantly, are you okay now?"
 #
 <sprite "ta01a004.agf" 4 4 12>
-<name "ソフィア" "!ZB0242">
-「はい。
-　もう元気満々です」
+<name "Sofia" "!ZB0242">
+"Yes.
+ I'm full of energy again."
 #
-<name "ダークス">
-「そうか。
-　本来なら、色々と気を遣いたいところだが……」
+<name "Darx">
+"I see.
+ Normally, I'd try to take care of as much as
+ I can for you, but..."
 #
-<name "ダークス">
-「そうもいかない。
-　仕事が溜まっている」
+<name "Darx">
+"That's not an option.
+ Work's piling up."
 #
-<name "ダークス">
-「頼んだぞ」
+<name "Darx">
+"I need your help."
 #
 <sprite "ta01a033.agf" 4 4 12>
-<name "ソフィア" "!ZB0243">
-「はい。
-　お任せください！」
+<name "Sofia" "!ZB0243">
+"Okay.
+ Leave it to me!"
 #
-<name "ダークス">
-「あと」
+<name "Darx">
+"And..."
 #
 <sprite "ta01a016.agf" 4 4 12>
-<name "ソフィア" "!ZB0244">
-「は、はい？」
+<name "Sofia" "!ZB0244">
+"Y-Yes?"
 #
-<name "ダークス">
-「疲れたと思ったら休め。
-　無理して頑張っても、倒れたら台無しだぞ」
+<name "Darx">
+"If you feel tired, get some rest.
+ Pushing yourself too hard until you collapse
+ will just make it all for nothing."
 #
 <sprite "ta01a034.agf" 4 4 12>
-<name "ソフィア" "!ZB0245">
-「はい。
-　疲れたら休みます」
+<name "Sofia" "!ZB0245">
+"Yes, sir.
+ I'll take a break when I'm tired."
 #
 <removesprite -1 11>
 \x2B\x78\x78

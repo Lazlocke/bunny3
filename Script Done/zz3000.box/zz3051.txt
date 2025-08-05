@@ -1,39 +1,39 @@
 ﻿<music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta01a004.agf" 4 4 11>
-<name "ソフィア" "!ZB0483">
-「魔王様。
-　本日の予定です」
+<name "Sofia" "!ZB0483">
+"Overlord, today's schedule."
 #
-<name "ダークス">
-「ありがとう」
+<name "Darx">
+"Thank you."
 #
 <sprite "ta01a005.agf" 4 4 12>
-<name "ソフィア" "!ZB0484">
-「……お着替え、お手伝いしましょうか？」
+<name "Sofia" "!ZB0484">
+"...Shall I help you get dressed?"
 #
-<name "ダークス">
-「そうか？
-　じゃあ、上着を頼む」
+<name "Darx">
+"Oh?
+ Then get my jacket, please."
 #
 <sprite "ta01a004.agf" 4 4 12>
-<name "ソフィア" "!ZB0485">
-「はい。
-　では……」
+<name "Sofia" "!ZB0485">
+"Okay, then..."
 #
 <removesprite -1 11>
-　行為後、自然な接触を求めるようになってきたソ
-　フィアだった。
+After we did it, she's gotten especially
+touchy.
 #
-<name "ダークス">
-「あの、着替えている最中に抱きつかれると……」
+<name "Darx">
+"Um, it's hard to dress when you're hugging
+ me."
 #
 <sprite "ta01a122.agf" 4 4 11>
-<name "ソフィア" "!ZB0486">
-「え、あ、す、すみません。
-　つい……」
+<name "Sofia" "!ZB0486">
+"Huh? Oh, s-sorry.
+ I just..."
 #
 <removesprite -1 11>
-　問題が無いわけでもないが、まあ許容範囲だ。
+It's not without issues, but it's enjoyable
+enough.
 #
 \x78\x78

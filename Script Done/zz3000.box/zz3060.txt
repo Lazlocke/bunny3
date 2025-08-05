@@ -1,57 +1,58 @@
 ﻿<music 39>
 <background "bg002a0.agf" 10>
 <sprite "ta08a004.agf" 4 4 11>
-<name "ラキア" "!ZC0197">
-「あの、ダークス様」
+<name "Rakia" "!ZC0197">
+"Um, Darx."
 #
-<name "ダークス">
-「ん？」
+<name "Darx">
+"Hm?"
 #
 <sprite "ta08a005.agf" 4 4 12>
-<name "ラキア" "!ZC0198">
-「マクドゥ様との件、聞きました」
+<name "Rakia" "!ZC0198">
+"I heard about Macdo."
 #
-<name "ダークス">
-「そうか」
+<name "Darx">
+"Oh?"
 #
 <sprite "ta08a026.agf" 4 4 12>
-<name "ラキア" "!ZC0199">
-「まずは、凄い！」
+<name "Rakia" "!ZC0199">
+"First, incredible!"
 #
-<name "ダークス">
-「ははは」
+<name "Darx">
+"Hahaha."
 #
 <sprite "ta08a011.agf" 4 4 12>
-<name "ラキア" "!ZC0200">
-「ついで、私というものがありながら」
+<name "Rakia" "!ZC0200">
+"Second, how could you not tell me?"
 #
-<name "ダークス">
-「はははは」
+<name "Darx">
+"Hahahaha..."
 #
 <sprite "ta08a004.agf" 4 4 12>
-<name "ラキア" "!ZC0201">
-「どうやって、あのマクドゥ様を？」
+<name "Rakia" "!ZC0201">
+"Just what did you do to her?"
 #
-<name "ダークス">
-「絡まっていた糸を解いただけだ」
+<name "Darx">
+"Just untied something that was knotted up."
 #
 <sprite "ta08a012.agf" 4 4 12>
-<name "ラキア" "!ZC0202">
-「？」
+<name "Rakia" "!ZC0202">
+"Huh?"
 #
-<name "ダークス">
-「卑怯な事はしてないから、安心してくれ」
+<name "Darx">
+"Don't worry, I didn't do anything 
+ underhanded."
 #
 <sprite "ta08a004.agf" 4 4 12>
-<name "ラキア" "!ZC0203">
-「ええ、それは信じてます」
+<name "Rakia" "!ZC0203">
+"Yes, I believe that."
 #
-<name "ダークス">
-「ま、話せる部分だけな」
+<name "Darx">
+"Well, that's all I can tell you."
 #
 <sprite "ta08a023.agf" 4 4 12>
-<name "ラキア" "!ZC0204">
-「一杯、奢りましょう」
+<name "Rakia" "!ZC0204">
+"Drinks are on me."
 #
 <removesprite -1 11>
 \x2B\x78\x78

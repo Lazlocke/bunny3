@@ -1,260 +1,270 @@
 ﻿<music 41>
 <background "ev043a00.agf" 10>
-　俺は条件を達成した事をラキアさんに伝えると、
-　家に向かった。
+After reporting to Rakia that I finished my
+tasks, I went home.
 #
-<name "角のある娘" "!HC0049">
-「あ、パパだー」
+<name "Horned Girl" "!HC0049">
+"Ah, it's daddy!"
 #
-<name "羽の綺麗な娘" "!SB0130">
-「お帰りー」
+<name "Pretty Winged Girl" "!SB0130">
+"Welcome home."
 #
-<name "フォーゼロッテ" "!XA0156">
-「うむ。
-　お帰り。
-　どうかしたのか？」
+<name "Forzelotte" "!XA0156">
+"Mm.
+ Welcome home.
+ How have you been?"
 #
-<name "ダークス">
-「その前に……
-　カーシャがお菓子を作ってくれているぞ。
-　急いで、移動だ」
+<name "Darx">
+"First...
+ Kasha is making sweets for you.
+ Hurry up and go get some."
 #
-<name "角のある娘" "!HC0050">
-「ほんとー」
+<name "Horned Girl" "!HC0050">
+"Really?"
 #
-<name "羽の綺麗な娘" "!SB0131">
-「やたー！」
+<name "Pretty Winged Girl" "!SB0131">
+"Yay!"
 #
 <background "bg003a0.agf" 10>
-　フォーゼロッテの周りに居た俺の子供達が、一斉
-　に部屋から出て行く。
+My kids around Forzelotte all go racing out
+of the room.
 #
-　最後の一人が部屋から出て行った瞬間、俺は部屋
-　の鍵を閉めた。
+As soon as the last one's out, I lock the 
+door.
 #
 <sprite "ta09a003.agf" 4 4 11>
-<name "フォーゼロッテ" "!XA0157">
-「え？」
+<name "Forzelotte" "!XA0157">
+"Huh?"
 #
 <removesprite -1 11>
-　そして、フォーゼロッテを押し倒す。
+And push down Forzelotte.
 #
 <music 50>
 <background "ev045a00.agf" 10>
-<name "フォーゼロッテ" "!XA0158">
-「きゅ、急になんじゃ。
-　こら、あっ、ま、待て、まだ近くに……」
+<name "Forzelotte" "!XA0158">
+"S-So sudden.
+ Hey, ah, w-wait, they're still near..."
 #
-　遠慮無く胸に吸い付き、その味を確かめながらフォ
-　ーゼロッテの身体を弄る。
+I immediately begin sucking on her chest and
+touch her all over as I taste her.
 #
 <background "ev045a01.agf" 10>
-<name "フォーゼロッテ" "!XA0159">
-「んぁ、ふぁ、あっ、ああっ……も、もう」
+<name "Forzelotte" "!XA0159">
+"Mm...aah...ah...aaah...
+ H-Honestly..."
 #
-　フォーゼロッテは抵抗したが、すぐに諦めた。
+She resists for a moment, but quickly gives 
+in.
 #
-<name "フォーゼロッテ" "!XA0160">
-「ふぁ、ぁっ……んん、んぁっ」
+<name "Forzelotte" "!XA0160">
+"Aah...ah...mmm...mmm..."
 #
-　フォーゼロッテの肉体も、俺を求めていたからだ。
+Her body also wants me.
 #
-<name "フォーゼロッテ" "!XA0161">
-「ん、も、急に帰ったと思ったら、んぁ、あっ」
+<name "Forzelotte" "!XA0161">
+"Mmm... Honestly...
+ I was wondering why you'd suddenly come
+ back...
+ Mmm...ah!"
 #
-　俺は早々に股間のモノをフォーゼロッテの膣内に
-　挿入する。
+I quickly put my dick inside her.
 #
-<name "フォーゼロッテ" "!XA0162">
-「んっ……」
+<name "Forzelotte" "!XA0162">
+"Mmm..."
 #
-　フォーゼロッテの膣内は、キツい締まりながらも
-　優しく俺のモノを咥え込んでくれた。
+Her pussy gently sucks me in and squeezes
+tight.
 #
 <background "ev045a02.agf" 10>
-<name "フォーゼロッテ" "!XA0163">
-「ぁ、ん」
+<name "Forzelotte" "!XA0163">
+"Ah...mmm..."
 #
-　そして感じる温かさ。
+And soaks me in her warmth.
 #
-<name "フォーゼロッテ" "!XA0164">
-「ぁ、や、ふぁ……」
+<name "Forzelotte" "!XA0164">
+"Ah...ah...ahhh..."
 #
-　あっと言う間に、膣内はフォーゼロッテの分泌し
-　た愛液によって満たされ、俺のモノの動きをサポ
-　ートしてくれる。
+Her insides are filled with her love juices,
+letting me move easily.
 #
-<name "フォーゼロッテ" "!XA0165">
-「ひぁ、ぁっ、うぁ……ぁあん」
+<name "Forzelotte" "!XA0165">
+"Aah...ah...aah...aaah..."
 #
-　俺は全身でフォーゼロッテを感じる。
+I experience her with my entire body.
 #
-　姿、声、匂い、味、感触……
+Her appearance, her voice, her smell, her
+taste, her touch...
 #
-　そして、その全てに俺の肉体は素直に反応し、フォ
-　ーゼロッテの身体を求めた。
+And my body reacts to all of it.
+It demands her body.
 #
-<name "フォーゼロッテ" "!XA0166">
-「ぁ、ぁっ、ふぁっ、ひぁうっ」
+<name "Forzelotte" "!XA0166">
+"Ah...aah...ahhh...ah!"
 #
-　傍から見れば、俺がフォーゼロッテを襲っている
-　ようにしか見えないだろう。
+If you were watching us, it would look like
+I'm one-sidedly assaulting her.
 #
-　だが、それをも受け止めてくれると解るフォーゼ
-　ロッテにしかしない。
+But she knows what I want, and completely
+accepts it.
 #
-　激しい行為。
+An intense act.
 #
-<name "フォーゼロッテ" "!XA0167">
-「んぁ、ふぁ、あっ、あっ、ああっ」
+<name "Forzelotte" "!XA0167">
+"Aah! Ahh! Ah! Ah! Aah!"
 #
-　少し前まで、魔王として迷宮に君臨していた者と
-　は思えない可愛い声を上げながら、フォーゼロッ
-　テは感情を高めていった。
+Not that long ago, nobody would ever think the
+Overlord reigning over the dungeon would moan
+like this, but she's learned to enjoy her
+emotions.
 #
-　それに遅れまいと、俺もさらに高めていく。
+And I help her enjoy them even more.
 #
 <background "ev045a03.agf" 10>
-<name "フォーゼロッテ" "!XA0168">
-「ひぁ、ぁ、ふぁっ、ぁぁぁぁぁぁぁぁぁっ！」
+<name "Forzelotte" "!XA0168">
+"Ah! Aah! Ahh! Aaaahhhh!!!"
 #
-　フォーゼロッテが達したのは、俺の射精が終わっ
-　たすぐだった。
+She climaxes just as I finish coming myself.
 #
-　離れていた所為で、俺が少し我慢できなかった。
+After being away from her, I was a little
+impatient.
 #
 <background "ev045a04.agf" 10>
-<name "フォーゼロッテ" "!XA0169">
-「ん、んぁ、ふぁ……ダークス」
+<name "Forzelotte" "!XA0169">
+"Mm...mm...ah...
+ Darx..."
 #
-<name "ダークス">
-「ん？」
+<name "Darx">
+"Hm?"
 #
-<name "フォーゼロッテ" "!XA0170">
-「ここで終わったりしないのが、お主の良い所でも
-　あり、悪い所でもある」
+<name "Forzelotte" "!XA0170">
+"It's a strength of yours to not be finished
+ with just this, but also a weakness."
 #
-<name "ダークス">
-「……駄目か？」
+<name "Darx">
+"...I can't?"
 #
-<name "フォーゼロッテ" "!XA0171">
-「断るなら、さっさと突き放しておる」
+<name "Forzelotte" "!XA0171">
+"If you refuse, I will rid myself of you
+ immediately."
 #
-<name "ダークス">
-「だな」
+<name "Darx">
+"Right?"
 #
-　俺はフォーゼロッテと融合するかのように、お互
-　いを求め続けた。
+We continued to covet each other's body, as
+if we were one.
 #
 <background "bg017a0.agf" 10>
 <music 41>
 <background "bg003a0.agf" 10>
 <sprite "ta09a014.agf" 4 4 11>
-<name "フォーゼロッテ" "!XA0172">
-「ひ、久しぶりだと、キツい」
+<name "Forzelotte" "!XA0172">
+"I-It has been a while.
+ That hurt."
 #
-<name "ダークス">
-「可愛かったぞ」
+<name "Darx">
+"You were cute."
 #
 <sprite "ta09a016.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0173">
-「むう……」
+<name "Forzelotte" "!XA0173">
+"Mmm..."
 #
-<name "ダークス">
-「愛してる」
+<name "Darx">
+"I love you."
 #
 <sprite "ta09a023.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0174">
-「私もだ」
+<name "Forzelotte" "!XA0174">
+"And I you."
 #
 <sprite "ta09a010.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0175">
-「しかし、行為には手順というものがあってだな」
+<name "Forzelotte" "!XA0175">
+"However, there is an order to things."
 #
-<name "ダークス">
-「ああ、これプレゼント」
+<name "Darx">
+"Yeah. Here, a present."
 #
 <sprite "ta09a004.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0176">
-「お土産か？」
+<name "Forzelotte" "!XA0176">
+"A souvenir?"
 #
-<name "ダークス">
-「いや、それは向こうで子供達に渡した。
-　これはフォーゼだけの特別」
+<name "Darx">
+"No, that's for the children.
+ This one's special, just for you."
 #
 <sprite "ta09a023.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0177">
-「特別というのは良い響きだ」
+<name "Forzelotte" "!XA0177">
+"Special has a nice ring to it."
 #
 <sprite "ta09a003.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0178">
-「しかし、中はなんだ？
-　まさか、お主のモノを模ったハリガタとかだと怒
-　るぞ」
+<name "Forzelotte" "!XA0178">
+"But what is inside?
+ I will be very angry if it is a mold of your
+ thing."
 #
-<name "ダークス">
-「俺のプレゼントセンス、どう思われているんだ？」
+<name "Darx">
+"Just what do you think I would call a
+ present?"
 #
 <sprite "ta09a020.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0179">
-「以前、穴空きの下着とか、拘束器具とか……」
+<name "Forzelotte" "!XA0179">
+"In the past, it has been underwear full of
+ holes, bondage equipment..."
 #
-<name "ダークス">
-「あれは、カタログで目に入ったからで……
-　それに実用的だったろ」
+<name "Darx">
+"Those were in the catalog.
+ And they were practical."
 #
 <sprite "ta09a023.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0180">
-「その話は、タブーとしよう。
-　で、今回のは？」
+<name "Forzelotte" "!XA0180">
+"Let us not speak any more of that.
+ So, what is it this time?"
 #
-<name "ダークス">
-「今回のは大丈夫だ」
+<name "Darx">
+"It'll be fine."
 #
 <sprite "ta09a005.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0181">
-「そうか」
+<name "Forzelotte" "!XA0181">
+"I see."
 #
 <removesprite -1 11>
-　フォーゼロッテは、俺の手渡した小箱を開けた。
+She opens the small box I gave her.
 #
 <sprite "ta09a004.agf" 4 4 11>
-<name "フォーゼロッテ" "!XA0182">
-「ふむ。
-　スカーフか。
-　なかなか高級そうな生地だし……
-　デザインも悪くない」
+<name "Forzelotte" "!XA0182">
+"Hmm. A scarf?
+ The fabric seems quite expensive...
+ The design is not bad as well."
 #
-<name "ダークス">
-「だろ」
+<name "Darx">
+"Right?"
 #
 <sprite "ta09a006.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0183">
-「大事にさせて貰おう」
+<name "Forzelotte" "!XA0183">
+"I shall treasure it."
 #
-<name "ダークス">
-「そうしてくれ」
+<name "Darx">
+"I told you so."
 #
 <sprite "ta09a005.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0184">
-「今日はゆっくりできるのか？」
+<name "Forzelotte" "!XA0184">
+"Do you have today off?"
 #
-<name "ダークス">
-「一日ぐらいなら」
+<name "Darx">
+"Just about a day."
 #
 <sprite "ta09a001.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0185">
-「そうか。
-　では、久しぶりにお主の手料理を味わいたい」
+<name "Forzelotte" "!XA0185">
+"I see.
+ Then since it has been so long, I would like
+ to taste your cooking."
 #
-<name "ダークス">
-「わかった。
-　サービスします」
+<name "Darx">
+"All right.
+ My special treat."
 #
 <sprite "ta09a006.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0186">
-「ふふふ。
-　流石は私の旦那様だ」
+<name "Forzelotte" "!XA0186">
+"Heheheh. 
+ I expect no less of my husband."
 #
 <removesprite -1 11>
 \x2B\x78\x78

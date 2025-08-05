@@ -1,70 +1,70 @@
 ﻿<music 18>
 <background "ev086a00.agf" 10>
-<name "ソフィア" "!ZB0425">
-「んぁ、も、もう、魔王様、まだ仕事が……」
+<name "Sofia" "!ZB0425">
+"Mm... G-Geez, Overlord, there's still
+ work..."
 #
-<name "ダークス">
-「そう言いながらも、しっかりと咥え込んでいるぞ」
+<name "Darx">
+"You say that, but you're holding on tight."
 #
-　俺のモノは、すでにソフィアの膣内に収まっている。
+MY dick is already inside her.
 #
-<name "ソフィア" "!ZB0426">
-「それは魔王様が無理矢理に……」
+<name "Sofia" "!ZB0426">
+"You forced me to..."
 #
-<name "ダークス">
-「こんなに濡れているのも？」
+<name "Darx">
+"And made you this wet?"
 #
-　すでにソフィアの陰部は濡れ始めている。
+She's already soaked.
 #
-<name "ソフィア" "!ZB0427">
-「そ、そうです」
+<name "Sofia" "!ZB0427">
+"T-That's right."
 #
-<name "ダークス">
-「スムーズに動けるのもか？」
+<name "Darx">
+"And let me move so smoothly?"
 #
-<name "ソフィア" "!ZB0428">
-「魔王様が無理矢理にそうしたんです」
+<name "Sofia" "!ZB0428">
+"You forced me to."
 #
-<name "ダークス">
-「そうか」
+<name "Darx">
+"I see."
 #
-<name "ダークス">
-「じゃあ、止めるか？」
+<name "Darx">
+"So should I stop?"
 #
-<name "ソフィア" "!ZB0429">
-「え？」
+<name "Sofia" "!ZB0429">
+"Huh?"
 #
-<name "ダークス">
-「止めよう。
-　抜け」
+<name "Darx">
+"Let's stop.
+ Get off."
 #
-<name "ソフィア" "!ZB0430">
-「………………魔王様」
+<name "Sofia" "!ZB0430">
+".........Overlord."
 #
-<name "ダークス">
-「なんだ？」
+<name "Darx">
+"Yes?"
 #
-<name "ソフィア" "!ZB0431">
-「怒りますよ」
+<name "Sofia" "!ZB0431">
+"Now I'm mad."
 #
-<name "ダークス">
-「…………悪かった。
-　じゃあ、全力でやってやるからな」
+<name "Darx">
+"...Sorry.
+ Then I'll give it my all."
 #
 <background "ev086a01.agf" 10>
-<name "ソフィア" "!ZB0432">
-「え、あっ、ちょっと待って、まだ覚悟が……
-　あひっ、ひっ、ひぁっ！」
+<name "Sofia" "!ZB0432">
+"Huh? Ah, wait a minute, I'm not rea...
+ Aah! Ah! Aaah!"
 #
-　その日、ソフィアは仕事を休んだ。
+She took the rest of the day off from work.
 #
-<name "商会メイド" "!PC0042">
-「まおーさま。
-　申し訳ありませんが、ソフィア支店長はそれなり
-　に大事なポジションなので、手加減をお願いします」
+<name "Company Maid" "!PC0042">
+"Overlord, I'm sorry, but she has a very
+ important job, so please go easy on her."
 #
-<name "ダークス">
-「すまん。
-　反省している」
+<name "Darx">
+"Sorry.
+ I'll be better."
 #
 \x78\x78

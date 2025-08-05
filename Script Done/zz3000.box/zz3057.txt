@@ -1,47 +1,52 @@
 ﻿<music 19>
 <background "ev012a01.agf" 10>
-<name "マクドゥ" "!ZA0280">
-「んぁ、ふぁ、あ、んんぁ、ああむ」
+<name "Macdo" "!ZA0280">
+"Mm...ahh...ah...mmm...aaah..."
 #
-　マクドゥが来ると、だいたいの夜はこうなる。
+Whenever Macdo comes, the nights always end up
+like this.
 #
-<name "マクドゥ" "!ZA0281">
-「ふぁ、ぁ、ダ、ダークス様、んぁ、ふぁ、ぁっ」
+<name "Macdo" "!ZA0281">
+"Aah...ah... D-Darx...
+ Mm...aah...ah!"
 #
-　誘うのは俺だが、誘って欲しいオーラを全開で出
-　されては無視できない。
+Technically, I'm the one who asks for her, but
+I can't exactly ignore the aura she's putting
+out demanding it.
 #
-　他の者達が睨むものの、マクドゥを相手に露骨に
-　喧嘩を売る者もいない。
+Other people give her dirty looks, but nobody
+is willing to pick a fight with her.
 #
-<name "マクドゥ" "!ZA0282">
-「んぁ、ぁ、ぁ、く、くる、ふぁ、ぁ……」
+<name "Macdo" "!ZA0282">
+"Mm...ah...ah...ahh...
+ C-Come...
+ Aah...ah..."
 #
-　俺はマクドゥの高まりに合わせ、腰を動かす。
+I move my hips with her climax.
 #
 <background "ev012a02.agf" 10>
-<name "マクドゥ" "!ZA0283">
-「ぁぁぁぁぁぁぁぁっ」
+<name "Macdo" "!ZA0283">
+"Aaaaahhhhh!!!"
 #
-　そして、マクドゥの絶頂と同時の射精。
+And come at the same time as she orgasms.
 #
 <background "ev012a03.agf" 10>
-<name "マクドゥ" "!ZA0284">
-「ふぁ……」
+<name "Macdo" "!ZA0284">
+"Aah..."
 #
-<name "マクドゥ" "!ZA0285">
-「ぁ……ダークス様」
+<name "Macdo" "!ZA0285">
+"Ah... Darx..."
 #
-<name "ダークス">
-「ん？」
+<name "Darx">
+"Hm?"
 #
-<name "マクドゥ" "!ZA0286">
-「次は、もう少し激しく……お願いします」
+<name "Macdo" "!ZA0286">
+"Next time, a little rougher... please."
 #
-<name "ダークス">
-「了解」
+<name "Darx">
+"Roger."
 #
-　最初の件もあるし、なんだかんだでマクドゥに甘
-　い俺だった。
+Considering her first time, maybe I do have a
+soft spot for her.
 #
 \x78\x78

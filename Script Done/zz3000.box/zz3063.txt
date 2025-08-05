@@ -2,76 +2,78 @@
 <background "bg010a0.agf" 10>
 \x2B
 <sprite "ta02a000.agf" 4 4 11>
-<name "マクドゥ" "!ZA0298">
-「ダークス様」
+<name "Macdo" "!ZA0298">
+"Darx."
 #
 <removesprite -1 11>
 <sprite "ta10a001.agf" 4 4 11>
-<name "フォーゼロッテ" "!XA0007">
-「ん」
+<name "Forzelotte" "!XA0007">
+"Hm?"
 #
 <sprite "ta10a004.agf" 4 4 12>
-<name "フォーゼロッテ" "!XA0008">
-「ずいぶんと雰囲気が変わったな」
+<name "Forzelotte" "!XA0008">
+"You've changed quite a lot."
 #
 <removesprite -1 11>
 <sprite "ta02a002.agf" 2 4 11>
 <sprite "ta10a004.agf" 6 5 11>
-<name "マクドゥ" "!ZA0299">
-「そうですか。
-　それほど変わったつもりはありませんが」
+<name "Macdo" "!ZA0299">
+"Have I?
+ It wasn't my intention to change that much."
 #
 <sprite "ta10a020.agf" 6 5 12>
-<name "フォーゼロッテ" "!XA0009">
-「ふむ。
-　我が夫が魅力的過ぎるのも、問題だな」
+<name "Forzelotte" "!XA0009">
+"Hmmm.
+ There is also the problem that my husband's
+ charisma is too excessive."
 #
 <sprite "ta02a026.agf" 2 4 12>
-<name "マクドゥ" "!ZA0300">
-「ああ、妻が見劣りしますものね」
+<name "Macdo" "!ZA0300">
+"Yeah, completely unfitting to him to have
+ such a lacking wife."
 #
 <sprite "ta10a008.agf" 6 5 12>
-<name "フォーゼロッテ" "!XA0010">
-「……ほう」
+<name "Forzelotte" "!XA0010">
+"...Oh?"
 #
 <sprite "ta02a000.agf" 2 4 12>
-<name "マクドゥ" "!ZA0301">
-「なにか？」
+<name "Macdo" "!ZA0301">
+"What?"
 #
-<name "ダークス">
-「フォーゼ、緊張感を変に高めるな」
+<name "Darx">
+"Forze, don't start a fight."
 #
 <sprite "ta10a022.agf" 6 5 12>
-<name "フォーゼロッテ" "!XA0011">
-「だってぇ」
+<name "Forzelotte" "!XA0011">
+"But..."
 #
-<name "ダークス">
-「すまん。
-　マクドゥ。
-　今日の俺はフォーゼロッテのものだ」
+<name "Darx">
+"I'm sorry.
+ Macdo, today I'm with Forzelotte."
 #
 <removesprite -1 11>
-　妻であるフォーゼロッテ第一は、変わらない。
+She's the wife, and top of the pecking order.
+That hasn't changed.
 #
 <sprite "ta02a004.agf" 4 4 11>
-<name "マクドゥ" "!ZA0302">
-「心得ております。
-　フォーゼロッテ様にお飽きになられた際は、お申
-　し出ください」
+<name "Macdo" "!ZA0302">
+"I'm aware.
+ When you get tired of her, come see me."
 #
 <sprite "ta02a026.agf" 4 4 12>
-<name "マクドゥ" "!ZA0303">
-「フォーゼロッテ様にない魅力を教えて差し上げま
-　す」
+<name "Macdo" "!ZA0303">
+"I'll let you experience the charm that she
+ lacks."
 #
 <removesprite -1 11>
 <sprite "ta10a010.agf" 4 4 11>
-<name "フォーゼロッテ" "!XA0012">
-「小娘ぇ……」
+<name "Forzelotte" "!XA0012">
+"That girl..."
 #
 <removesprite -1 11>
-　その日のフォーゼロッテは、超激しかった。
+Forzelotte was extremely intense that day.
 #
-　あとで本体の方にも、機嫌を取りに行こう。
+I'll have to go to her main body to fix her
+mood later.
 #
 \x78\x78

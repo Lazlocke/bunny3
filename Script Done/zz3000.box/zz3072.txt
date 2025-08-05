@@ -1,138 +1,142 @@
 ﻿<music 50>
 <background "ev045a05.agf" 10>
-<name "フォーゼロッテ" "!XA0187">
-「んぁ、ふぁ、ふぁ、あ、ん、むぁっ」
+<name "Forzelotte" "!XA0187">
+"Mm...ahh...ahh...ah...mm...mmm..."
 #
-　俺はフォーゼロッテと何度目かの行為を行ってい
-　た。
+I've done it several times with her now.
 #
-<name "フォーゼロッテ" "!XA0188">
-「ん、ん、んぁ、ひぁ、ん、ふぁ、ぁ、ダー、ダー
-　クス……ん、んぁ、ひぁ、ふぁっ！」
+<name "Forzelotte" "!XA0188">
+"Mm...mmm...mm...ah...mmm...
+ D-Darx...
+ Mmm...mmm...aah...aah!"
 #
-　疲労が無いわけでは無いが、魔力で回復したりは
-　しない。
+I'm getting tired, but I'm not recovering
+with magic.
 #
-　この疲労も、行為の一環だ。
+Exhaustion is part of the act.
 #
-　フォーゼロッテの為に疲れるのに、抵抗は無い。
+I'm completely fine with exhausting myself
+for Forzelotte.
 #
-<name "フォーゼロッテ" "!XA0189">
-「ん、んん、あぁ、ふぁ、ぁっ」
+<name "Forzelotte" "!XA0189">
+"Mm...mmm...aaah...aah...ah!"
 #
-　フォーゼロッテがキスをせがんで来た。
+She pesters me for a kiss.
 #
-　俺は少し焦らしてから、濃厚なキスする。
+I tease her for just a moment, and then kiss
+her.
 #
-<name "フォーゼロッテ" "!XA0190">
-「むぅぁ、んん、ふぁ、ん、ぬぁんっ」
+<name "Forzelotte" "!XA0190">
+"Mmm...mmm...ahh...mmm...mmmmm!"
 #
-　それが決め手になったのだろう。
+That was probably the tipping point.
 #
-<name "フォーゼロッテ" "!XA0191">
-「ん、んっ、んぁ、ぁ、んんっ」
+<name "Forzelotte" "!XA0191">
+"Mm! Mm! Mmm! Ah! Mmmm!"
 #
-　フォーゼロッテが絶頂に向かっていく。
+She's on the edge of orgasm.
 #
-　俺はそれをサポートするように、腰を動かし、膣
-　内をかき回す。
+I move my hips to help her and stir up her
+insides.
 #
-　俺も限界が近い。
+I'm almost there too.
 #
 <background "ev045a06.agf" 10>
-<name "フォーゼロッテ" "!XA0192">
-「ぁ……んぁぁぁぁぁぁぁぁぁぁ！」
+<name "Forzelotte" "!XA0192">
+"Ah...mmmmmaaaaaahhhhhh!!!"
 #
-　フォーゼロッテの達した声。
+She comes loudly.
 #
-　それを聞きながら、俺の射精も開始されている。
+As I listen to her voice, I start to come too.
 #
-<name "フォーゼロッテ" "!XA0193">
-「ぁ、ふぁ、ぁ……ぁ……ぁぁ」
+<name "Forzelotte" "!XA0193">
+"Ah...aah...ah...ah...aah..."
 #
-<name "フォーゼロッテ" "!XA0194">
-「……ダークス」
+<name "Forzelotte" "!XA0194">
+"...Darx..."
 #
-<name "ダークス">
-「ん？」
+<name "Darx">
+"Hm?"
 #
-<name "フォーゼロッテ" "!XA0195">
-「次をやっても良いが、少し休憩だ。
-　抱き締めてくれ」
+<name "Forzelotte" "!XA0195">
+"You may continue, but a short break.
+ Hold me close."
 #
-<name "ダークス">
-「ああ」
+<name "Darx">
+"Yeah."
 #
-　俺は素直に抱き締める。
+I hug her obediently.
 #
-<name "フォーゼロッテ" "!XA0196">
-「こうやって他者と触れ合える。
-　お前と出会えた」
+<name "Forzelotte" "!XA0196">
+"I can touch others like this.
+ Because I met you."
 #
-<name "フォーゼロッテ" "!XA0197">
-「それだけで、私は十分なのに子供まで出来た」
+<name "Forzelotte" "!XA0197">
+"That alone was enough for me, but I also had
+ a child."
 #
-<name "フォーゼロッテ" "!XA0198">
-「ダークス」
+<name "Forzelotte" "!XA0198">
+"Darx."
 #
-<name "ダークス">
-「ん？」
+<name "Darx">
+"Hm?"
 #
-<name "フォーゼロッテ" "!XA0199">
-「感謝している」
+<name "Forzelotte" "!XA0199">
+"I truly am thankful."
 #
-<name "ダークス">
-「こちらこそだ」
+<name "Darx">
+"Me too."
 #
-<name "フォーゼロッテ" "!XA0200">
-「……ダークス」
+<name "Forzelotte" "!XA0200">
+"...Darx."
 #
-<name "ダークス">
-「ん？」
+<name "Darx">
+"Hm?"
 #
-<name "フォーゼロッテ" "!XA0201">
-「もう少し、こうしていたい気持ちも無いわけでも
-　ないが……休憩は終わりにしよう」
+<name "Forzelotte" "!XA0201">
+"I would like to be like this a little
+ longer... but I also want to end this break."
 #
-<name "ダークス">
-「わかった」
+<name "Darx">
+"All right."
 #
-　俺は激しく、フォーゼロッテとの行為を楽しんだ。
+I enjoy an intense session with her.
 #
 <background "bg017a0.agf" 10>
 <music 41>
 <background "ev043a00.agf" 10>
-<name "角のある娘" "!HC0051">
-「ママ、元気になったね」
+<name "Horned Girl" "!HC0051">
+"Mommy's feeling better now."
 #
-<name "羽の綺麗な娘" "!SB0132">
-「うん、元気になったね」
+<name "Pretty Winged Girl" "!SB0132">
+"Yep. She's better."
 #
-<name "フォーゼロッテ" "!XA0202">
-「ふふ。
-　私は前から元気だぞ」
+<name "Forzelotte" "!XA0202">
+"Haha...
+ I have been well for a long time."
 #
-<name "フォーゼロッテ" "!XA0203">
-「お前達が居るからな」
+<name "Forzelotte" "!XA0203">
+"Because you're all here."
 #
-<name "角のある娘" "!HC0052">
-「えへへ。
-　ママ、本じゃなくてボール投げしよう」
+<name "Horned Girl" "!HC0052">
+"Hahaha...
+ Mommy, let's throw the ball instead of
+ reading."
 #
-<name "羽の綺麗な娘" "!SB0133">
-「あ、私もー」
+<name "Pretty Winged Girl" "!SB0133">
+"Ah, me too."
 #
-<name "フォーゼロッテ" "!XA0204">
-「ああ、動くのは無理だ。
-　今日は許してくれ」
+<name "Forzelotte" "!XA0204">
+"Oh, I can't move.
+ Please go easy on me today."
 #
-<name "角のある娘" "!HC0053">
-「ええー」
+<name "Horned Girl" "!HC0053">
+"Eeeh?"
 #
-<name "羽の綺麗な娘" "!SB0134">
-「どうしてー」
+<name "Pretty Winged Girl" "!SB0134">
+"Why?"
 #
-<name "フォーゼロッテ" "!XA0205">
-「あ、愛情の深さ、とだけ答えておこう」
+<name "Forzelotte" "!XA0205">
+"L-Let's leave it at the price of love."
 #
 \x78\x78

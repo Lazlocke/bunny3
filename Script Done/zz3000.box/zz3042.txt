@@ -1,794 +1,823 @@
 ﻿<music 5>
 <background "bg011b0.agf" 10>
 <sprite "ta01a004.agf" 4 4 11>
-<name "ソフィア" "!ZB0287">
-「魔王様」
+<name "Sofia" "!ZB0287">
+"Overlord."
 #
-<name "ダークス">
-「どうした？
-　報告忘れか？」
+<name "Darx">
+"What is it?
+ You forgot a report?"
 #
 <removesprite -1 11>
-　俺の部屋に来るのは珍しい。
+It's unusual for her to come to my room.
 #
 <sprite "ta01a005.agf" 4 4 11>
-<name "ソフィア" "!ZB0288">
-「好きです！
-　抱いてください！」
+<name "Sofia" "!ZB0288">
+"I love you!
+ Please make love to me!"
 #
-<name "ダークス">
-「…………え？」
+<name "Darx">
+"...Huh?"
 #
 <sprite "ta01a007.agf" 4 4 12>
-<name "ソフィア" "!ZB0289">
-「好きです！
-　抱いてください！」
+<name "Sofia" "!ZB0289">
+"I love you!
+ Please make love to me!"
 #
-<name "ダークス">
-「えっと……誰かに唆されたのか？
-　それとも、ラキアさんかマクドゥの仕掛けか？」
+<name "Darx">
+"Um... Did someone put you up to this?
+ Or is this some trick by Rakia or Macdo?"
 #
 <sprite "ta01a004.agf" 4 4 12>
-<name "ソフィア" "!ZB0290">
-「いいえ。
-　私の本心です」
+<name "Sofia" "!ZB0290">
+"No.
+ This is how I really feel."
 #
-<name "ダークス">
-「…………俺、嫁もいるし、他にも女はたくさん」
+<name "Darx">
+"...I have a wife, and plenty of other women."
 #
 <sprite "ta01a005.agf" 4 4 12>
-<name "ソフィア" "!ZB0291">
-「知っています」
+<name "Sofia" "!ZB0291">
+"I know that."
 #
 <sprite "ta01a006.agf" 4 4 12>
-<name "ソフィア" "!ZB0292">
-「その上で、お願いしています」
+<name "Sofia" "!ZB0292">
+"Please do it anyway."
 #
-<name "ダークス">
-「……………………………………」
+<name "Darx">
+"........."
 #
 <sprite "ta01a024.agf" 4 4 12>
-<name "ソフィア" "!ZB0293">
-「それとも、私では魅力が足りませんか？」
+<name "Sofia" "!ZB0293">
+"Or am I not pretty enough?"
 #
-<name "ダークス">
-「あー、そんな事は無いが……」
+<name "Darx">
+"Aah, that's not quite it..."
 #
 <sprite "ta01a025.agf" 4 4 12>
-<name "ソフィア" "!ZB0294">
-「私をそんな目で見た事は無いと？」
+<name "Sofia" "!ZB0294">
+"You've never looked at me like that?"
 #
-<name "ダークス">
-「答え難い質問だな」
+<name "Darx">
+"That's hard to answer."
 #
-<name "ダークス">
-「頑張っている姿に好感は持っていた」
+<name "Darx">
+"I liked always seeing how hard you were
+ trying."
 #
-<name "ダークス">
-「商会のヤツにしては甘い。
-　まあ、これはラキアさんを見てたからだろうけど」
+<name "Darx">
+"You were innocent for someone from that 
+ company.
+ Well, that's probably because Rakia had a
+ close eye on you too."
 #
-<name "ダークス">
-「女というよりは、娘として見ていたって感じかな」
+<name "Darx">
+"I feel like I saw you more like a daughter
+ than a woman."
 #
 <sprite "ta01a036.agf" 4 4 12>
-<name "ソフィア" "!ZB0295">
-「それでは不満です」
+<name "Sofia" "!ZB0295">
+"I can't accept that."
 #
 <sprite "ta01a038.agf" 4 4 12>
-<name "ソフィア" "!ZB0296">
-「一人の女として見て下さい」
+<name "Sofia" "!ZB0296">
+"Please see me as a woman."
 #
 <removesprite -1 11>
-　……
+...
 #
-　色々と言いたい事はある。
+There's a lot that I want to say.
 #
-　だが……
+But...
 #
-　ソフィアの覚悟、決意は本物と感じた。
+Her resolution and determination seem genuine.
 #
-<name "ダークス">
-「再確認は、その決意に対して無礼だが……」
+<name "Darx">
+"I know it's rude to ask again if you're sure
+ about this, but..."
 #
-<name "ダークス">
-「俺は、敵でない限り、他に男が居るヤツは抱かない」
+<name "Darx">
+"Unless you want to make me your enemy, you
+ won't be with any other man."
 #
-<name "ダークス">
-「そういったのは居ないな」
+<name "Darx">
+"You won't be with anybody like that."
 #
 <sprite "ta01a005.agf" 4 4 11>
-<name "ソフィア" "!ZB0297">
-「い、いません」
+<name "Sofia" "!ZB0297">
+"I-I won't."
 #
-<name "ダークス">
-「俺は抱いた女を他にやる気はない」
+<name "Darx">
+"That's all I ask for the women I'm with."
 #
-<name "ダークス">
-「俺は他の女を抱くが、抱いた女が他の男に抱かれ
-　るのは我慢できない」
+<name "Darx">
+"I have a lot of women, but I can't stand
+ women who are with a lot of men."
 #
-<name "ダークス">
-「それでも、良いんだな」
+<name "Darx">
+"You're still okay with it?"
 #
 <removesprite -1 11>
-　俺の言葉にソフィアは強く頷く。
+She nods emphatically.
 #
-<name "ダークス">
-「……ベッドに上がれ」
+<name "Darx">
+"...Get on the bed."
 #
 <removesprite -1 11>
 <music 17>
 <background "ev005a00.agf" 10>
-<name "ソフィア" "!ZB0298">
-「ぁ……」
+<name "Sofia" "!ZB0298">
+"Ah..."
 #
-<name "ダークス">
-「恥ずかしいなら、止めるか？」
+<name "Darx">
+"If you're embarrassed, we can stop here."
 #
-　ベッドの上で、ブラウス姿のソフィア。
+She sits on the bed in just her blouse.
 #
-<name "ソフィア" "!ZB0299">
-「い、いえ……」
+<name "Sofia" "!ZB0299">
+"N-No..."
 #
-<name "ソフィア" "!ZB0300">
-「お願いします」
+<name "Sofia" "!ZB0300">
+"Please."
 #
-<name "ダークス">
-「わかったが……
-　ある程度まで行くと、止めてくれと泣いても止ま
-　らないぞ」
+<name "Darx">
+"All right...
+ Once we get started, I won't stop, even if
+ you cry."
 #
-<name "ソフィア" "!ZB0301">
-「構いません」
+<name "Sofia" "!ZB0301">
+"I don't care."
 #
-　そうかと、俺はソフィアのブラウスを脱がした。
+I take off her blouse.
 #
 <background "ev005b00.agf" 10>
-<name "ソフィア" "!ZB0302">
-「ぅ……」
+<name "Sofia" "!ZB0302">
+"..."
 #
-<name "ダークス">
-「意外と胸があるな」
+<name "Darx">
+"Your chest is bigger than I thought."
 #
-<name "ソフィア" "!ZB0303">
-「そ、そうですか？」
+<name "Sofia" "!ZB0303">
+"I-Is it?"
 #
-<name "ダークス">
-「ああ」
+<name "Darx">
+"Yeah."
 #
-　もう少し、無いと思っていたが……
+I thought it'd be pretty small...
 #
-<name "ダークス">
-「十分だ」
+<name "Darx">
+"It's plenty."
 #
-<name "ソフィア" "!ZB0304">
-「じゅ、十分って……あっ」
+<name "Sofia" "!ZB0304">
+"P-Plenty...
+ Ah!"
 #
-　俺はソフィアの意識が胸にいったので、その顔に
-　キスをしてやる。
+I kiss her cheek as she looks down at her
+breasts.
 #
-<name "ソフィア" "!ZB0305">
-「ぁ、ぁ……」
+<name "Sofia" "!ZB0305">
+"Ah...ah..."
 #
-　そして、驚いたところでさらに唇を奪う。
+And then take her lips by surprise.
 #
-<name "ソフィア" "!ZB0306">
-「ぅぁ……」
+<name "Sofia" "!ZB0306">
+"Aah..."
 #
-　最初は軽めに。
+Gently at first.
 #
-　そして、少し休憩してからもう一度。
+And then again after a moment.
 #
-<name "ソフィア" "!ZB0307">
-「ぁ、うぁ……ん……」
+<name "Sofia" "!ZB0307">
+"Ah...aah...mm..."
 #
-　俺はソフィアとのキスを楽しみながら、ブラを外
-　す。
+I take off her bra as I enjoy kissing her.
 #
 <background "ev005c00.agf" 10>
-<name "ソフィア" "!ZB0308">
-「ぁ、うぁ、ま、魔王様」
+<name "Sofia" "!ZB0308">
+"Ah...aah...
+ O-Overlord..."
 #
-　ソフィアの胸が露わになる。
+Her breasts are completely exposed.
 #
-　自分でも理性が弱いなと思いつつも、完全に俺は
-　抱くモードに入った。
+The thought passes for a moment that my own
+resolve is weak, and I'm already completely in
+the mood.
 #
 <background "ev005c01.agf" 10>
-<name "ソフィア" "!ZB0309">
-「ぁ」
+<name "Sofia" "!ZB0309">
+"Ah..."
 #
-　もう逃さない。
+There's no getting away.
 #
-　俺はソフィアを抱き締めながら、その身体を愛撫
-　していく。
+I embrace her, caressing her entire body.
 #
-<name "ソフィア" "!ZB0310">
-「ふぁ、ぁ、んっ……」
+<name "Sofia" "!ZB0310">
+"Aah...ah...mmm..."
 #
-　腰、胸、お尻……
+Her waist... breast... hips...
 #
-　小さな身体だが、しっかりと女である事を認識さ
-　せてくれる。
+She's small, but definitely a woman.
 #
-<name "ソフィア" "!ZB0311">
-「ぁ……ふぁ……」
+<name "Sofia" "!ZB0311">
+"Ah...aah..."
 #
-　ソフィアはテレてはいるが、行為には積極的だ。
+She blushes, but responds enthusiastically.
 #
-　自分から胸や腰を俺に押し付けてくる。
+She's pressing her breasts and butt against
+me on her own.
 #
-　さすがに、股間部に手を伸ばした時は、少しビクッ
-　としていたが。
+As I expected, she jolts a little bit when I
+reach between her legs.
 #
-　覚悟を決めて、差し出すように股間部を俺に押し
-　付けてきた。
+But then she steels herself and presses that
+against me too.
 #
-　その態度に、俺は素直に喜び、受け入れる。
+I obediently accept her attitude with
+pleasure.
 #
-<name "ソフィア" "!ZB0312">
-「んぁ、ぁ……」
+<name "Sofia" "!ZB0312">
+"Mm...ah..."
 #
-　俺の指が下着越しにソフィアの陰部を刺激する。
+I use my fingers to stimulate her pussy
+through her underwear.
 #
-<name "ソフィア" "!ZB0313">
-「ふぁ、ぁ、うううううっ」
+<name "Sofia" "!ZB0313">
+"Aah...ah...nnnnnnhhh..."
 #
-　ソフィアの身体が一気に硬直した。
+Her body instantly goes rigid.
 #
-　だが、俺は指を止めない。
+But I don't stop.
 #
-<name "ソフィア" "!ZB0314">
-「うう、うううう、うう」
+<name "Sofia" "!ZB0314">
+"Nnnh...nnnh...nnnnnnhhh..."
 #
-　そうしていると、指の動きに合わせて水音が聞こ
-　え始める。
+And as my fingers move, it starts to make a
+moist sound.
 #
 <background "ev005c02.agf" 10>
-<name "ソフィア" "!ZB0315">
-「ぁ……」
+<name "Sofia" "!ZB0315">
+"Ah..."
 #
-　受け入れる準備をしつつある音だ。
+The sound that she's getting ready to accept
+me.
 #
-　その音に、ソフィアはさらにテレたが、俺はさら
-　に指の動きを複雑にしていった。
+The sound makes her blush even more, and I
+move my fingers in more complicated ways.
 #
-<name "ソフィア" "!ZB0316">
-「ぁ、ぁっ、ふぁ……」
+<name "Sofia" "!ZB0316">
+"Ah...ah...aah..."
 #
-　そして、下着に指を掛けると、一気に下にズラし
-　た。
+I hook my fingers into her panties and quickly
+lower them.
 #
 <background "ev005d00.agf" 10>
-<name "ソフィア" "!ZB0317">
-「っ」
+<name "Sofia" "!ZB0317">
+"Nh!"
 #
-　もう逃がす気はない。
+There's no turning back now.
 #
-　ゆっくりと脱がして、気が変わられても困る。
+If I did it slowly, she might still change her
+mind.
 #
-<name "ソフィア" "!ZB0318">
-「うぅっ」
+<name "Sofia" "!ZB0318">
+"Nnh..."
 #
-　俺の眼前に、ソフィアの陰部がある。
+Her pussy is right in front of me.
 #
-　むあっとした匂いと湿気を感じさせる。
+I can feel the smell and the wetness.
 #
-　性器はまだ未熟なのだが、割れ目からはしっかり
-　と小さなピンク色の豆が姿を見せていた。
+Her pussy is still inexperienced, but the
+small pink bean is visible from above the
+entrance.
 #
-<name "ソフィア" "!ZB0319">
-「ぅぁ……ん」
+<name "Sofia" "!ZB0319">
+"Ah...mm..."
 #
-　俺の指による愛撫で、ああなったのかもしれない。
+Probably from my fingers' caress.
 #
-<name "ソフィア" "!ZB0320">
-「ううう……」
+<name "Sofia" "!ZB0320">
+"Oooh..."
 #
-　ソフィアは腰を引いて俺の指から逃れようとした
-　が、思い返したようにその動きを止めた。
+She starts to pull back to get away from my
+fingers, but stops like she realized what she
+was doing.
 #
-　元の位置に戻ってこようとしているのはわかるが、
-　俺はそれを待ってやらない。
+I know she's going to go back to where she
+was, but I'm not going to wait for her.
 #
-　手をソフィアの腰に伸ばし、引き寄せる。
+I reach out, grab her by the hips, and pull
+her close.
 #
-<name "ソフィア" "!ZB0321">
-「あっ、ま、魔王様、ふぁ、だ、駄目っ」
+<name "Sofia" "!ZB0321">
+"Ah... O-Overlord...
+ Aahh... D-Don't..."
 #
-　そして、ソフィアの股間部に指を伸ばし、陰部に
-　直接触れた。
+Then I reach out again to her pussy and touch
+it directly.
 #
-<name "ソフィア" "!ZB0322">
-「ふぁ……ぁっ」
+<name "Sofia" "!ZB0322">
+"Aah...ah!"
 #
-　俺は複雑に指を動かしつつも優しく、その陰部を
-　刺激する。
+I move my fingers various ways, but gently
+simulating her.
 #
-　すると、ほどなくしてソフィアは身体を震わせた。
+Soon, her whole body quivers.
 #
 <background "ev005d01.agf" 10>
-<name "ソフィア" "!ZB0323">
-「ぁ、ぁ、むぁぁっっっ！」
+<name "Sofia" "!ZB0323">
+"Ah...ah...mmmmmmmaaah!"
 #
-　ソフィアは小さく達していた。
+She has a small orgasm.
 #
 <music 18>
 <background "ev006a00.agf" 10>
-<name "ソフィア" "!ZB0324">
-「ん……」
+<name "Sofia" "!ZB0324">
+"Mm..."
 #
-　俺はソフィアが達した後、さらに愛撫を繰り返し、
-　その肉体を求めた。
+After she came, I kept caressing her and
+exploring more of her body.
 #
-　そして、俺のモノ先がソフィアの足の間、陰部に
-　向けられる。
+And I put my dick between her legs, pointed
+at her entrance.
 #
-　いまさら、確認はしない。
+I'm not going to ask if she's ready.
 #
-　俺はゆっくりとモノ先をソフィアの陰部に押し当
-　てた。
+I slowly push it against her.
 #
-<name "ソフィア" "!ZB0325">
-「ひっ」
+<name "Sofia" "!ZB0325">
+"Ah!"
 #
-　ソフィアの身体に力が入った。
+She tenses up.
 #
-　俺はモノ先を少し動かして膣口を見つけると、そ
-　のまま押し込んだ。
+I move forward a little bit, finding her
+opening, and pushing inside.
 #
 <background "ev006a01.agf" 10>
-<name "ソフィア" "!ZB0326">
-「んんっ」
+<name "Sofia" "!ZB0326">
+"Nnnh!"
 #
-　ソフィアの身体に力は入っているが、十分な愛撫
-　によってその膣口は十分にほぐれており、俺のモ
-　ノを拒絶したりはしない。
+She's tense, but her pussy is loose from my
+caresses and doesn't reject my dick.
 #
-　俺のモノ先をしっかりと咥え込んでいる。
+The head is completely inside her.
 #
-<name "ソフィア" "!ZB0327">
-「くぅぁ……」
+<name "Sofia" "!ZB0327">
+"Ngh..."
 #
-　俺は腰に力を入れ、モノ先をゆっくりと奥に押し
-　込んでいく。
+I push harder with my hips and slowly sink
+into her.
 #
-<name "ソフィア" "!ZB0328">
-「ぁ、うぁっ」
+<name "Sofia" "!ZB0328">
+"Ah...aah!"
 #
-　途中、弾力のある抵抗。
+Partway, I feel an elastic resistance.
 #
-　膣内が急に狭くなった感覚。
+A sudden sensation that she's much tighter.
 #
-　膜だ。
+Her hymen.
 #
-　俺はその膜を破ろうと、さらに腰に力を入れる。
+I put more strength into it, trying to break
+through her hymen.
 #
-<name "ソフィア" "!ZB0329">
-「ひぎっ」
+<name "Sofia" "!ZB0329">
+"Aagh!"
 #
-　ソフィアが痛そうな表情を見せたので、少し休憩。
+She looks like she's in pain, so I relax for
+a moment.
 #
-<name "ソフィア" "!ZB0330">
-「ぁ、ぁ……うぁ……ま、魔王様」
+<name "Sofia" "!ZB0330">
+"Ah...ah...aah...
+ O-Overlord..."
 #
-<name "ダークス">
-「ん？」
+<name "Darx">
+"Hm?"
 #
-<name "ソフィア" "!ZB0331">
-「ちゅ、中途半端は……怖いので、もう……一気に」
+<name "Sofia" "!ZB0331">
+"P-Part way is... scary, so...
+ Just do it fast..."
 #
-<name "ダークス">
-「……一気に貫いた後、痛がっているお前に俺はさ
-　らに腰を振るのか？」
+<name "Darx">
+"...If I do it all at once, do you want me to
+ keep moving even more while you're already
+ in pain?"
 #
-<name "ソフィア" "!ZB0332">
-「ぁ……う……」
+<name "Sofia" "!ZB0332">
+"Ah...ah..."
 #
-<name "ダークス">
-「無理をするな。
-　それより、身体の力を抜け」
+<name "Darx">
+"Don't push yourself.
+ Instead, relax."
 #
-　俺はソフィアにキスをする。
+I kiss her.
 #
-<name "ソフィア" "!ZB0333">
-「ふぁ……」
+<name "Sofia" "!ZB0333">
+"Ahh..."
 #
-<name "ダークス">
-「俺はもう止めない。
-　お前が何を言っても最後までやる」
+<name "Darx">
+"I'm not stopping now.
+ No matter what you say, I'll go the whole
+ way."
 #
-<name "ダークス">
-「もうお前は俺の女だ」
+<name "Darx">
+"You're my woman now."
 #
-<name "ダークス">
-「逃さない」
+<name "Darx">
+"There's no escaping it."
 #
-<name "ソフィア" "!ZB0334">
-「ぁ……」
+<name "Sofia" "!ZB0334">
+"Ah..."
 #
-<name "ダークス">
-「だから、慌てるな」
+<name "Darx">
+"So don't panic."
 #
-<name "ソフィア" "!ZB0335">
-「……は、はい」
+<name "Sofia" "!ZB0335">
+"...O-Okay."
 #
-　ソフィアは深呼吸をする。
+She takes a deep breath.
 #
-<name "ダークス">
-「そうだ」
+<name "Darx">
+"That's right."
 #
-<name "ダークス">
-「まあ、意識するなって方が無理だが……」
+<name "Darx">
+"Well, it's hard not to think about..."
 #
-　俺のモノがソフィアの膣内に少しだけ潜り込んだ
-　ままだ。
+My dick is still inside of her after all.
 #
-<name "ダークス">
-「少しづつで良いから力を抜け」
+<name "Darx">
+"Just relax, little by little."
 #
-<name "ソフィア" "!ZB0336">
-「は、い」
+<name "Sofia" "!ZB0336">
+"O-Okay..."
 #
-<name "ダークス">
-「力んでいると、逆に痛い」
+<name "Darx">
+"If you tense up, it'll just hurt."
 #
-<name "ダークス">
-「自慢じゃないが、俺のモノはそれなりに大きい。
-　が、お前のこの穴は、将来的にもっと大きな物が
-　通る」
+<name "Darx">
+"Not to boast, but my dick is pretty big.
+ However, something much larger will be going
+ through that hole in the future."
 #
-<name "ソフィア" "!ZB0337">
-「将来？」
+<name "Sofia" "!ZB0337">
+"The future?"
 #
-<name "ダークス">
-「子供だ」
+<name "Darx">
+"A child."
 #
-<name "ソフィア" "!ZB0338">
-「ぁ」
+<name "Sofia" "!ZB0338">
+"Ah..."
 #
-<name "ダークス">
-「抱かれたいって事は、そういう事」
+<name "Darx">
+"That's what it means to make love."
 #
-<name "ソフィア" "!ZB0339">
-「……は、はい」
+<name "Sofia" "!ZB0339">
+"...Y-Yeah."
 #
-　ソフィアは少し微笑み、力を抜いた。
+She smiles a little bit and relaxes.
 #
-　逆に、俺は腰に力を入れる。
+I push forward more.
 #
-<name "ソフィア" "!ZB0340">
-「んっ」
+<name "Sofia" "!ZB0340">
+"Nnh!"
 #
-　ソフィアの身体にまた力が入るが、すぐに思い出
-　したように力を抜こうとしてくれる。
+She starts to tense up again, but immediately
+tries to relax as soon as she realizes.
 #
-　その姿勢に愛らしさを覚えつつ、俺は腰にさらに
-　力を入れた。
+I push harder, enjoying her adorable 
+attitude.
 #
-<name "ソフィア" "!ZB0341">
-「うううっ……」
+<name "Sofia" "!ZB0341">
+"Nnnnnhhh..."
 #
-　モノ先がソフィアの処女膜を圧迫する。
+My dick presses against her hymen.
 #
-　ミリッ……
+Bit by bit...
 #
-　肉が引っ張られるような音。
+I hear the soft sound of flesh tearing.
 #
-<name "ソフィア" "!ZB0342">
-「ぁっ」
+<name "Sofia" "!ZB0342">
+"Ah!"
 #
-　そして、ブチッという音が聞こえた瞬間、俺のモ
-　ノ先がズルッと奥に潜り込んだ。
+And as soon as I hear the snap, my dick slides
+all the way into her.
 #
-　勢いがあったのでモノ先がソフィアの膣奥の壁を
-　圧迫する。
+The momentum is so much that it presses 
+against the back of her pussy.
 #
 <background "ev006a02.agf" 10>
-<name "ソフィア" "!ZB0343">
-「っっっっ！」
+<name "Sofia" "!ZB0343">
+"Nnnnnh!"
 #
-　ソフィアが苦痛の表情を見せる。
+She grimaces in pain.
 #
-　俺は少し腰を引き、そのままの体勢でソフィアを
-　抱き締める。
+I pull back a little bit and hug her, staying
+in that position.
 #
-<name "ソフィア" "!ZB0344">
-「っっ……！」
+<name "Sofia" "!ZB0344">
+"...!"
 #
-　数分だろうか、お互いの心音を聞いていると、ソ
-　フィアが俺の脇を叩いた。
+We spend a couple minutes just listening to
+each other's heart beat, until she taps me on
+the side.
 #
-<name "ダークス">
-「ん」
+<name "Darx">
+"Mm."
 #
 <background "ev006a03.agf" 10>
-<name "ソフィア" "!ZB0345">
-「も、もう、大丈夫……ですから」
+<name "Sofia" "!ZB0345">
+"I-I'm okay now, so..."
 #
-　ソフィアのその言葉に俺の腰が動き出す。
+I start to move.
 #
 <background "ev006a04.agf" 10>
-<name "ソフィア" "!ZB0346">
-「くううっ！」
+<name "Sofia" "!ZB0346">
+"Nngh!"
 #
-　乱暴に、激しく求めそうになるのを理性で押し留
-　めながら、俺の腰はゆっくりと前後に動き始めた。
+I hold back my desire to thrust wildly and
+slowly rock back and forth.
 #
-<name "ソフィア" "!ZB0347">
-「ん、ううっ、くううっ」
+<name "Sofia" "!ZB0347">
+"Nnh...aah...nngh..."
 #
-　ソフィアの膣壁が俺のモノに絡みつく。
+Her walls squeeze around my dick.
 #
-<name "ソフィア" "!ZB0348">
-「ひぁ、くっ、くぁっ、ぁぁっ」
+<name "Sofia" "!ZB0348">
+"Ah! Ngh...nngh...aah..."
 #
-　愛液は十分だが、狭さがそれに拍車を掛けている。
+She's wet enough, but her tightness is making
+it difficult.
 #
-<name "ソフィア" "!ZB0349">
-「ひ、ひぁ、ひぁぅっ」
+<name "Sofia" "!ZB0349">
+"Ah! Ah! Aah!"
 #
-　俺のモノが前後する度に、ソフィアの膣壁を引っ
-　張るので苦痛が出ているようだ。
+Every time I move back and forth, it feels 
+like it's dragging through her walls and
+causing her pain.
 #
-<name "ソフィア" "!ZB0350">
-「ぁぅぅぅ、くっ」
+<name "Sofia" "!ZB0350">
+"Aaahhh...ngh!"
 #
-　俺は苦痛に悶えるソフィアをなんとかしたいとい
-　う思いながらも、もっと乱暴に動きたいと思う欲
-　望が湧き出すのを止められなかった。
+I wish I could do something about her pain,
+but I can't hold back my desire to move more
+roughly.
 #
-　しかし、俺は耐える。
+Still, I endure it.
 #
-　好きだ。
+I like her.
 #
-　抱かれたいと言ってくれたソフィアの為に。
+For her sake, who wanted to make love.
 #
-　出来る限り、ソフィアに負担の掛からないように、
-　リズムを一定にし、動きは小さめにして変化を減
-　らす。
+I keep my rhythm consistent and movements
+small to not hurt her as much as I can.
 #
-<name "ソフィア" "!ZB0351">
-「ふぁ、ぁ、ぁ、うぁ……」
+<name "Sofia" "!ZB0351">
+"Aah...ah...ah..aah..."
 #
-　今はソフィアが最優先だ。
+Right now, she's the top priority.
 #
-　俺はそう思いながら、行為を続けた。
+I keep that foremost in my mind as I continue.
 #
 <music 19>
 <background "ev007a00.agf" 10>
-<name "ソフィア" "!ZB0352">
-「ぁ、ふぁ、ぁ……んぁ」
+<name "Sofia" "!ZB0352">
+"Ah...aah...ah...mmm..."
 #
-　ソフィアの声から苦痛以外の声が聞こえ始めた。
+I start to hear something other than pain in
+her voice.
 #
-　痛いのはまだ痛いだろう。
+The pain isn't going away though.
 #
-　感覚が麻痺してきたのか、苦痛に慣れたのかはわ
-　からないが、十分に感じ始めていた。
+Maybe she's becoming numb to it, or getting
+used to the pain, but she's starting to get
+turned on too.
 #
-<name "ソフィア" "!ZB0353">
-「ぁん、ん、ふぁ、ぁうううっ」
+<name "Sofia" "!ZB0353">
+"Aah...mmm...aah...aaah..."
 #
-　存分に声を上げて貰いたいが、恥ずかしいのかソ
-　フィアはそれを出さないように耐えていた。
+I want to tell her to moan as loud as she
+needs to, but she's clearly too embarrassed
+to and is holding it in.
 #
-　もう限界だ。
+I can't take any more.
 #
-　俺の腰の動きが早まる。
+I start moving faster.
 #
-<name "ソフィア" "!ZB0354">
-「ぁ、うぁ、ぁ、ひぁ、ひぁ、ふいぁ、ふぁん」
+<name "Sofia" "!ZB0354">
+"Ah! Aah! Ah! Aah! Ahh! Ahhh!"
 #
-　ソフィアの膣内でモノが凄い速さで前後する。
+My dick slides back and forth quickly inside
+her.
 #
-　先ほどよりも、断然動きやすい。
+It's definitely easier to move than before.
 #
-<name "ソフィア" "!ZB0355">
-「ぁ、ぁ、ぁ……」
+<name "Sofia" "!ZB0355">
+"Ah...ah...ah..."
 #
-　俺は一気に射精にまで行為を高めた。
+I go fast to come right away.
 #
-<name "ソフィア" "!ZB0356">
-「ふぁっ」
+<name "Sofia" "!ZB0356">
+"Ahh!"
 #
-　ソフィアの膣奥にモノ先を押し付け、そしてソフィ
-　アを強く抱き締める。
+I bury my dick deep inside her pussy and hold
+her tight.
 #
-<name "ソフィア" "!ZB0357">
-「ぁうっ」
+<name "Sofia" "!ZB0357">
+"Aaah..."
 #
-　そして、俺は全身を震わせながらソフィアの膣奥
-　での射精を開始した。
+And I start to come deep inside her while her
+whole body quivers.
 #
-　ドクンッ！
+Throb!
 #
-　大きな鼓動。
+A huge pulse.
 #
-　それにあわせて、大量の精液が吐き出された。
+And a flood of semen with it.
 #
-　ドクンッドクンッドクンッ……
+Throb... throb... throb...
 #
-　さらに鼓動は続き、精液を吐き出し続ける。
+The throbbing continues as my dick spurts out
+semen.
 #
-　ドクンッドクンッドクンッドクンッドクンッ……
+Throb... throb... throb... throb... throb...
 #
-　それは長く続いた。
+It keeps going for a long time.
 #
 <background "ev007a01.agf" 10>
-<name "ソフィア" "!ZB0358">
-「ぁ、うぁ、ぁっ！」
+<name "Sofia" "!ZB0358">
+"Ah! Aah! Ah!"
 #
-　そしてそれは、大量の精液がソフィアの膣奥、そ
-　して子宮に流し込まれた事を示す。
+Semen floods into her pussy, and fills her
+womb.
 #
-<name "ソフィア" "!ZB0359">
-「ふぁ……ぁ……」
+<name "Sofia" "!ZB0359">
+"Aah...ah..."
 #
-　俺の射精が終わると、お互いの顔を見合わせた。
+When I finish coming, I look in her eyes.
 #
-<name "ソフィア" "!ZB0360">
-「ぁ……」
+<name "Sofia" "!ZB0360">
+"Ah..."
 #
-　男のエゴだと思われるかもしれないが、ソフィア
-　を手に入れたという達成感、充実感、幸福感。
+Maybe it's a man's ego, but I feel 
+accomplishment, fulfillment, and happiness
+that I got her.
 #
-　それらが俺の感情を支配する。
+Those feelings dominate my emotions.
 #
-　行為による最高の瞬間だ。
+It's the best moment of sex.
 #
-　世の中の問題など、小さな事だと言えてしまう。
+All the problems of the world feel small.
 #
-　このまま浸り続けられれば良いのだが、そうはい
-　かない。
+I wish I could bask in this, but that's not
+going to happen.
 #
-　それらの感情はすぐに収束していく。
+Those feelings quickly subside.
 #
-　だから、俺の肉体はさらに求める。
+And the flesh wants more.
 #
-　もっとだと。
+More.
 #
-<name "ダークス">
-「続けるぞ」
+<name "Darx">
+"Let's continue."
 #
-<name "ソフィア" "!ZB0361">
-「……は、はい」
+<name "Sofia" "!ZB0361">
+"...O-Okay."
 #
-　俺は二回目の射精に向け、腰を動かした。
+I start moving to come again.
 #
 <background "ev007a02.agf" 10>
-<name "ソフィア" "!ZB0362">
-「ふぁ、ぁ、んぁ、ふぁ、ふぁ、ぁぁっ！」
+<name "Sofia" "!ZB0362">
+"Aah! Ahh! Ahh! Ahh! Aahh! Ahh!"
 #
-　先ほどよりも乱暴なモノの動きだが、ソフィアの
-　甘い声は苦痛を感じさせない。
+Even though my dick is moving more violently
+than before, the moans in her voice contain
+no pain.
 #
-　それはさらに俺のモノの動きを加速させる。
+They let me accelerate even more.
 #
-<name "ソフィア" "!ZB0363">
-「ぁ、ん、んぁ、ふぁ、ふひっ、ぁぁ、んぁ、ぁ」
+<name "Sofia" "!ZB0363">
+"Ah! Mm! Mmm! Ahh! Ahh! Aahh! Aah!"
 #
-　ソフィアの鼓動を感じる。
+I can feel her heart beating.
 #
-<name "ソフィア" "!ZB0364">
-「んひ、んひ、ひぁ、んぁ、ああ、んぁ、ふぁ」
+<name "Sofia" "!ZB0364">
+"Aah! Ah! Aah! Ahh! Aah! Ah! Aah!"
 #
-　もっとだと俺の腰がさらに動く。
+My waist moves more and more.
 #
-<name "ソフィア" "!ZB0365">
-「ふひ、ふぃっ、ひぁ、ああ、んぁ、あっ、ぁっ」
+<name "Sofia" "!ZB0365">
+"Aah! Aah! Ah! Aah! Aah! Ah! Ah!"
 #
-　部屋中に俺とソフィアがぶつかる音を響かせなが
-　ら。
+The sound of me slapping against her echoes in
+the room.
 #
-<name "ソフィア" "!ZB0366">
-「ぁ、ぁ、ぁん、んぁ、ふぁ、ふあ、あひっ」
+<name "Sofia" "!ZB0366">
+"Ah! Ah! Aah! Aah! Ahh! Aaah! Aah!"
 #
-　いやらしい音と匂いを振り撒く。
+A filthy sound and smell fills the air.
 #
-<name "ソフィア" "!ZB0367">
-「んぁ、あぁ、あ、ぁ、ひっ、くぁっ」
+<name "Sofia" "!ZB0367">
+"Aah! Ah! Ah! Ah! Ah! Ahh!"
 #
-　頭の中がソフィアで一杯になりながら、俺は限界
-　を迎えた。
+With nothing but her in my head, I reach my
+limit.
 #
 <background "ev007a03.agf" 10>
-<name "ソフィア" "!ZB0368">
-「ま、魔王様ぁぁぁぁぁ」
+<name "Sofia" "!ZB0368">
+"O-Overloooord!"
 #
-　そして、ソフィアも絶頂を迎えた。
+And she climaxes with me.
 #
-　お互いに身体を震わせながら、快楽を貪る。
+We sink into pleasure, both our bodies
+trembling.
 #
 <background "ev007a04.agf" 10>
-<name "ソフィア" "!ZB0369">
-「ぁ、ふぁ……ぁ……ぁぁ……」
+<name "Sofia" "!ZB0369">
+"Ah...aah...ah...aaah..."
 #
-　二回目の俺の射精も長かった。
+My second ejaculation also lasts a long time.
 #
-　ソフィアは絶頂の余韻に浸り、そしてそのまま寝
-　息を立て始めた。
+She basks in the echoes of her orgasm, and
+sinks into the deep breathing of sleep.
 #
-<name "ダークス">
-「……」
+<name "Darx">
+"..."
 #
-　普段の俺なら、まだ続けたくなる所なのだが、今
-　回の俺は十分な満足感を得ていた。
+I would usually want to keep going, but this
+time, I feel satisfied already.
 #
-　俺は優しくソフィアの頬にキスをし、行為を終え
-　た。
+I gently kiss her on the cheek and finish.
 #
 <background "bg018a0.agf" 10>
 <music 5>
 <background "bg011b0.agf" 10>
-<name "ダークス">
-「大丈夫か？」
+<name "Darx">
+"Are you okay?"
 #
 <sprite "ta01a104.agf" 4 4 11>
-<name "ソフィア" "!ZB0370">
-「少し、痛いですけど……なんとか」
+<name "Sofia" "!ZB0370">
+"It still hurts a little, but I'll manage."
 #
-<name "ダークス">
-「薬が確か……」
+<name "Darx">
+"I'm sure there's medicine..."
 #
 <sprite "ta01a133.agf" 4 4 12>
-<name "ソフィア" "!ZB0371">
-「商会で用意した薬なら、所持しています。
-　お気遣いなく」
+<name "Sofia" "!ZB0371">
+"If you mean the medicine the company makes,
+ I already have it.
+ Don't worry."
 #
-<name "ダークス">
-「そうか」
+<name "Darx">
+"I see."
 #
 <sprite "ta01a104.agf" 4 4 12>
-<name "ソフィア" "!ZB0372">
-「魔王様」
+<name "Sofia" "!ZB0372">
+"Overlord."
 #
-<name "ダークス">
-「ん？」
+<name "Darx">
+"Hm?"
 #
 <sprite "ta01a105.agf" 4 4 12>
-<name "ソフィア" "!ZB0373">
-「私の我侭に応えて頂き、ありがとうございます」
+<name "Sofia" "!ZB0373">
+"Thank you for responding to my selfish
+ desire."
 #
-<name "ダークス">
-「気にするな。
-　自分の女の我侭には、それなりに応えるのが男だ」
+<name "Darx">
+"Don't worry about it.
+ I am the kind of guy who indulges a woman's
+ selfishness."
 #
 <sprite "ta01a104.agf" 4 4 12>
-<name "ソフィア" "!ZB0374">
-「魔王様」
+<name "Sofia" "!ZB0374">
+"Overlord."
 #
 <sprite "ta01a133.agf" 4 4 12>
-<name "ソフィア" "!ZB0375">
-「……好きです」
+<name "Sofia" "!ZB0375">
+"...I love you."
 #
-<name "ダークス">
-「ああ。
-　俺もだ」
+<name "Darx">
+"Yeah.
+ I love you too."
 #
 <removesprite -1 11>
-　俺はソフィアとキスをした。
+I kiss her.
 #
 <sprite "ta01a104.agf" 4 4 11>
-<name "ソフィア" "!ZB0376">
-「ああ。
-　でも、お仕事はお仕事ですからね」
+<name "Sofia" "!ZB0376">
+"Aah, but work is still work, okay?"
 #
 <sprite "ta01a133.agf" 4 4 12>
-<name "ソフィア" "!ZB0377">
-「恋人割引とかはありませんので」
+<name "Sofia" "!ZB0377">
+"No discounts for lovers."
 #
-<name "ダークス">
-「……わかってるよ」
+<name "Darx">
+"...I know."
 #
-<name "ダークス">
-「これからも頼むぞ」
+<name "Darx">
+"I'm still counting on you."
 #
 <sprite "ta01a134.agf" 4 4 12>
-<name "ソフィア" "!ZB0378">
-「はい。
-　お任せください」
+<name "Sofia" "!ZB0378">
+"Yep.
+ Leave it to me."
 #
 <removesprite -1 11>
 \x2B\x78\x78

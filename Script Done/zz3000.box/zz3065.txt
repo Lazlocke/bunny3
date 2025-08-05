@@ -1,174 +1,173 @@
 ﻿<music 40>
 <background "bg004a0.agf" 10>
 <sprite "ta08a004.agf" 4 4 11>
-<name "ラキア" "!ZC0393">
-「もう達成されたのですか？
-　凄い速さですね」
+<name "Rakia" "!ZC0393">
+"You've finished already?
+ Very impressively quick."
 #
-<name "ダークス">
-「運が良かったって事かな」
+<name "Darx">
+"I just got lucky, I guess."
 #
 <sprite "ta08a023.agf" 4 4 12>
-<name "ラキア" "!ZC0394">
-「運も実力の内です。
-　次も頑張ってくださいね」
+<name "Rakia" "!ZC0394">
+"Luck is also a skill.
+ Work hard for the next time too, all right?"
 #
-<name "ダークス">
-「ああ、そうしたいから」
+<name "Darx">
+"Yeah, I intend to."
 #
 <sprite "ta08a001.agf" 4 4 12>
-<name "ラキア" "!ZC0395">
-「え？」
+<name "Rakia" "!ZC0395">
+"Huh?"
 #
 <removesprite -1 11>
-　俺はラキアさんを裏手の倉庫に連れ込んだ。
+I pull her to the back of the storage area.
 #
 <music 49>
 <background "ev042a00.agf" 10>
-<name "ラキア" "!ZC0396">
-「も、もうっ、ダークス様ったら……
-　ぁっ、ん、んぁっ、ふぁ」
+<name "Rakia" "!ZC0396">
+"H-Honestly, Darx...
+ Ah...mmm...mm...aah..."
 #
-　倉庫にあるテーブルにラキアさんを座らせ、強引
-　にキスをする。
+I push her onto a table in the warehouse and
+force a kiss on her.
 #
-<name "ラキア" "!ZC0397">
-「んんぁ……ぁっ」
+<name "Rakia" "!ZC0397">
+"Mmmm...ah!"
 #
-　そうして口を塞いでおきながら、俺は手早くラキ
-　アさんの衣服を脱がす。
+While keeping her mouth closed, I quickly
+undress her.
 #
-　ラキアさんもそれに気付いているが、キスによっ
-　て抵抗できない。
+She realizes what's happening, but can't 
+resist the kiss.
 #
-<name "ラキア" "!ZC0398">
-「ふぁ、んっ」
+<name "Rakia" "!ZC0398">
+"Ahh...mmm..."
 #
-　そして、一気に愛撫。
+And immediately caress her.
 #
-　間髪を入れない挿入。
+Then stick it in immediately after.
 #
 <background "ev042a01.agf" 10>
-<name "ラキア" "!ZC0399">
-「ふぁ、も、もうっ、ダークス様は……」
+<name "Rakia" "!ZC0399">
+"Aah... H-Honestly, you're so..."
 #
-　俺のモノがラキアさんの膣内をかき回し始めると、
-　ラキアさんは抵抗を諦めた。
+As soon as my dick begins stirring up her
+pussy, she gives up fighting it.
 #
-<name "ラキア" "!ZC0400">
-「強引なんですから、んあ、はぁん、ぁ、ぁっ」
+<name "Rakia" "!ZC0400">
+"You're so pushy...
+ Mmm...aaah...ah...ah..."
 #
-<name "ダークス">
-「ラキアさんが魅力的過ぎるんだよ」
+<name "Darx">
+"Because you're too attractive."
 #
-<name "ラキア" "!ZC0401">
-「ぁ、んぁ、ど、どうして、ふぁ、私の時は……
-　そうやって、んんぁ、ほ、褒めて、ぁぁん」
+<name "Rakia" "!ZC0401">
+"Ah...ah... W-Why...ah... when you do this...
+ you only...mmm... f-flatter me...
+ Ahhhh!"
 #
-<name "ダークス">
-「褒めるところしかないからさ」
+<name "Darx">
+"There's only things to flatter."
 #
-<name "ラキア" "!ZC0402">
-「ぁ……ん、も、もう」
+<name "Rakia" "!ZC0402">
+"Am...mm...
+ H-Honestly..."
 #
-　俺はラキアさんの胸に吸い付く。
+I suck on her breasts.
 #
-<name "ラキア" "!ZC0403">
-「あっ、ふぁ、あっ、そ、そんな。
-　噛むのは、や、ひぁ、んんんっ」
+<name "Rakia" "!ZC0403">
+"Ah...aah...ah... D-Don't...
+ Y-You're biti...ah!
+ Aah! Mmmm!"
 #
-　ラキアさんとも長い付き合いだ。
+I've known her for a very long time.
 #
-　弱点はほぼ理解している。
+I know almost all her weaknesses.
 #
-　しかし、回数を重ねての新たな発見もある。
+But there are always new things to discover,
+even ones I've found before.
 #
-　褒めるのは、その一旦。
+One of the first ones was flattery.
 #
-　ラキアさんは仕事以外を褒められる事に弱い。
+Aside from her work, she's exceptionally weak
+to flattery.
 #
-　だが、行為に及びたいから言っているワケではな
-　い。
+But I'm not saying it just to turn her on.
 #
-　本心だ。
+It's the truth.
 #
 <background "ev042a02.agf" 10>
-<name "ラキア" "!ZC0404">
-「ぁ、ぁ、ぁ、ふぁ」
+<name "Rakia" "!ZC0404">
+"Ah...ah...ah...ahhh..."
 #
-　ラキアさんに、虚偽の褒め言葉など通用する筈が
-　ない。
+She has no need for insincere praise.
 #
-　俺の本心だと理解してくれているからこそ、弱い
-　のだろう。
+Maybe she's so weak to it because she knows
+it's how I really feel.
 #
-<name "ラキア" "!ZC0405">
-「ん、ぁ、ダ、ダークス、様ぁ」
+<name "Rakia" "!ZC0405">
+"Mm...ah... D-Darx..."
 #
-　ラキアさんが、腰を動かし始めた。
+She starts moving her hips.
 #
-　台にしているテーブルがガタガタと音を立て始め
-　る。
+The table she's sitting on creaks and groans.
 #
-　俺はラキアさんの要求に応えるように、さらに腰
-　の動きを速くしていく。
+I move my hips faster like she wants.
 #
-<name "ラキア" "!ZC0406">
-「ぁ、うぁ、あ、ふぁ、ああ、んんんんっ」
+<name "Rakia" "!ZC0406">
+"Ah...aah...ah...ahhh...aaah...mmmmmm!"
 #
-　腰の速度を速くしようと前屈みになった所を、ラ
-　キアさんが俺の頭を掴んでキスをしてきた。
+When I bend forward to go faster, she grabs
+my face and kisses me.
 #
-<name "ラキア" "!ZC0407">
-「むぁ、あっ、ぬぁん、んぬぁっ、あっ」
+<name "Rakia" "!ZC0407">
+"Mmmm...ah...mmmm...mmm...ah!"
 #
-　行為がエスカレートしていく。
+The act quickly escalates.
 #
-　机の音、俺とラキアさんの肉体がぶつかる音、そ
-　してラキアさんの膣内を俺のモノがかき回す音。
+The sound of the table, the sound of our
+bodies slapping together, and the sound of my
+dick stirring up her pussy. 
 #
-　それらを感じながら、俺とラキアさんは一つになっ
-　ていく。
+The feeling of us being one.
 #
-<name "ラキア" "!ZC0408">
-「むぅ、ぁ、ぁ、ふぁ、ぁっ、ぁぁっ！」
+<name "Rakia" "!ZC0408">
+"Mmm...aah! Ah! Ahh! Ah! Aahhh!"
 #
-　ラキアさんが俺を強く抱き締め、大きく達した。
+She hugs me tight and has a big orgasm.
 #
-<name "ラキア" "!ZC0409">
-「ふぁぁぁぁぁぁぁぁっ！」
+<name "Rakia" "!ZC0409">
+"Aaaaaahhhhhhhhh!!!"
 #
-　それに少し遅れ、俺はラキアさんの膣奥で射精を
-　開始する。
+Just after her, I come in her pussy.
 #
 <background "ev042a03.agf" 10>
-<name "ラキア" "!ZC0410">
-「ぁ、うぁ……ふぁ……」
+<name "Rakia" "!ZC0410">
+"Ah...aah...ahhh..."
 #
-　俺とラキアさんの目が合う。
+Our eyes meet.
 #
 <background "ev042a04.agf" 10>
-<name "ラキア" "!ZC0411">
-「まだ、終わりませんよね」
+<name "Rakia" "!ZC0411">
+"You're not done yet, are you?"
 #
-<name "ダークス">
-「当然だ」
+<name "Darx">
+"Of course not."
 #
-　俺はまた腰を動かし、ラキアさんの肉体を求める。
+I move my hips again, coveting her body.
 #
-　ラキアさんも腰を動かし、全身を使って俺を求め
-　てくる。
+She moves her hips as well, using her whole
+body to entice me.
 #
-　それらを楽しみながら、俺は何度も何度も射精を
-　繰り返した。
+We enjoy each other, and I come over and over.
 #
 <background "ev042a06.agf" 10>
-<name "ラキア" "!ZC0412">
-「ぁ……ふぁ……ぁ……」
+<name "Rakia" "!ZC0412">
+"Ah...aahhh...ah..."
 #
-　……少し、やりすぎた。
+...I may have overdone it a little.
 #
-　ラキアさんは、この日。
-　お店を休んだ。
+Rakia took a break from the store that day.
 #
 \x78\x78

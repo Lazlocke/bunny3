@@ -1,42 +1,44 @@
 ﻿<music 49>
 <background "ev042a05.agf" 10>
-<name "ラキア" "!ZC0450">
-「ふぁ……ぁぁぁぁ……」
+<name "Rakia" "!ZC0450">
+"Aah...ahhh..."
 #
-<name "ダークス">
-「ん……大丈夫？」
+<name "Darx">
+"Mmm...
+ Are you okay?"
 #
-<name "ラキア" "!ZC0451">
-「んぁ……ぁ……駄目……です」
+<name "Rakia" "!ZC0451">
+"Mm...ah...
+ I can't... move."
 #
 <music 40>
 <background "bg004a0.agf" 10>
 <sprite "ta08a004.agf" 4 4 11>
-<name "ラキア" "!ZC0452">
-「いらっしゃいませ」
+<name "Rakia" "!ZC0452">
+"Welcome."
 #
-<name "ダークス">
-「回復、早くなったな」
+<name "Darx">
+"You recover quickly."
 #
 <sprite "ta08a023.agf" 4 4 12>
-<name "ラキア" "!ZC0453">
-「な、慣れですね」
+<name "Rakia" "!ZC0453">
+"Y-You get used to it."
 #
-<name "ダークス">
-「そうか。
-　慣れられたかぁ」
+<name "Darx">
+"I see.
+ So, you're used to it, huh?"
 #
 <sprite "ta08a018.agf" 4 4 12>
-<name "ラキア" "!ZC0454">
-「へ、変な事、考えてませんよね」
+<name "Rakia" "!ZC0454">
+"D-Don't get any funny ideas."
 #
-<name "ダークス">
-「変な事じゃない。
-　素敵な事だ」
+<name "Darx">
+"Not funny.
+ Wonderful."
 #
 <sprite "ta08a021.agf" 4 4 12>
-<name "ラキア" "!ZC0455">
-「も、もう……」
+<name "Rakia" "!ZC0455">
+"H-Honestly..."
 #
 <removesprite -1 11>
 \x2B\x78\x78

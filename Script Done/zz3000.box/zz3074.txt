@@ -1,52 +1,54 @@
 ﻿<music 50>
 <background "ev045a04.agf" 10>
-<name "フォーゼロッテ" "!XA0212">
-「少し、思い出すな」
+<name "Forzelotte" "!XA0212">
+"This brings back memories."
 #
-<name "ダークス">
-「ん？」
+<name "Darx">
+"Hm?"
 #
-<name "フォーゼロッテ" "!XA0213">
-「コゼが産まれたばかりの頃、お前はやたらと私の
-　胸を吸っていたな」
+<name "Forzelotte" "!XA0213">
+"Just after Koze was born, you would suck on
+ my breasts quite frequently."
 #
-<name "ダークス">
-「だったか？」
+<name "Darx">
+"Did I?"
 #
-<name "フォーゼロッテ" "!XA0217">
-「今思えば、コゼに対する嫉妬か？
-　私をコゼに取られるとでも思ったか？」
+<name "Forzelotte" "!XA0217">
+"Thinking about it now, were you jealous of
+ her?
+ Did you think she'd steal me away?"
 #
-<name "ダークス">
-「……かもな」
+<name "Darx">
+"...Maybe."
 #
-<name "フォーゼロッテ" "!XA0215">
-「ふふふ……
-　私の気持ちは……コゼに少しは分けるが、基本的
-　にはお主のものだ」
+<name "Forzelotte" "!XA0215">
+"Heheheh...
+ My heart... I have given some of it to Koze,
+ but it chiefly belongs to you." 
 #
-<name "ダークス">
-「わかってる」
+<name "Darx">
+"I see."
 #
-<name "フォーゼロッテ" "!XA0216">
-「……ところで、母乳はもう出ないが、私の胸もな
-　かなかのものだと自負している」
+<name "Forzelotte" "!XA0216">
+"...Just so you are aware, while I am not
+ producing milk any longer, I am proud of how
+ well endowed my breasts are."
 #
-<name "ダークス">
-「胸を責めて欲しいなら、回りくどい事を言わない
-　で欲しいな」
+<name "Darx">
+"That's a roundabout way of telling me you
+ want me to tease your breasts."
 #
-　俺が断ったりはしないのだから。
+I don't refuse her.
 #
-　俺は徹底してフォーゼロッテの胸を責めたプレイ
-　を続けた。
+I continue playing with her, focusing
+thoroughly on her chest.
 #
 <background "bg017a0.agf" 10>
 <music 41>
 <background "bg003a0.agf" 10>
 <sprite "ta09a019.agf" 4 4 11>
-<name "フォーゼロッテ" "!XA0218">
-「い、弄り過ぎだ」
+<name "Forzelotte" "!XA0218">
+"Y-You groped too much."
 #
 <removesprite -1 11>
 \x2B\x78\x78

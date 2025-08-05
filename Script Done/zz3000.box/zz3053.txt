@@ -1,81 +1,82 @@
 ﻿<music 18>
 <background "ev086a00.agf" 10>
-<name "ソフィア" "!ZB0495">
-「魔王様」
+<name "Sofia" "!ZB0495">
+"Overlord."
 #
-<name "ダークス">
-「ん？」
+<name "Darx">
+"Hm?"
 #
-<name "ソフィア" "!ZB0496">
-「私を抱くまで、娘のように思っていたって言って
-　ましたけど……」
+<name "Sofia" "!ZB0496">
+"You said you saw me as a daughter until we
+ made love..."
 #
-<name "ダークス">
-「ああ」
+<name "Darx">
+"Yeah."
 #
-<name "ソフィア" "!ZB0497">
-「それって、私の発育がイマイチだからですか？」
+<name "Sofia" "!ZB0497">
+"Is that because I wasn't adult enough?"
 #
-<name "ダークス">
-「違う違う」
+<name "Darx">
+"Not at all."
 #
-<name "ダークス">
-「俺の勝手な防衛線」
+<name "Darx">
+"It was my own line of defense."
 #
-<name "ソフィア" "!ZB0498">
-「え？」
+<name "Sofia" "!ZB0498">
+"Huh?"
 #
-<name "ダークス">
-「手を出すと、多分こうなるだろ？」
+<name "Darx">
+"If I messed with you, this would probably
+ happen, right?"
 #
-<name "ソフィア" "!ZB0499">
-「ええ」
+<name "Sofia" "!ZB0499">
+"Yeah."
 #
-<name "ダークス">
-「仕事が進まないかなぁって」
+<name "Darx">
+"So I thought it'd get in the way of work."
 #
-<name "ソフィア" "!ZB0501">
-「………………確かに仕事、遅れてますよね」
+<name "Sofia" "!ZB0501">
+"...It has made me fall behind in work."
 #
-<name "ダークス">
-「だろ」
+<name "Darx">
+"See?"
 #
-<name "ソフィア" "!ZB0502">
-「しかし、そんな理由で遠ざけられ……
-　それなりに苦悩した私はいったい」
+<name "Sofia" "!ZB0502">
+"But keeping away from me because of that...
+ Do you know how much that upset me?"
 #
-<name "ダークス">
-「苦悩したのか？」
+<name "Darx">
+"It upset you?"
 #
-<name "ソフィア" "!ZB0503">
-「手を出されないのは、女として魅力が無いのかな
-　と」
+<name "Sofia" "!ZB0503">
+"You never hit on me.
+ I worried I was unattractive as a woman."
 #
-<name "ダークス">
-「魅力は十分だぞ」
+<name "Darx">
+"You're plenty attractive."
 #
-<name "ソフィア" "!ZB0504">
-「まあ、あの小さなフォーゼロッテ様でも大丈夫で
-　すからね」
+<name "Sofia" "!ZB0504">
+"Well, even that little Forzelotte is good
+ enough for you."
 #
-<name "ダークス">
-「ははは。
-　抱かれている最中に、他の女性の名前は出さない
-　ように」
+<name "Darx">
+"Hahaha.
+ Don't bring up other women when you're having
+ sex."
 #
-<name "ソフィア" "!ZB0505">
-「んぁ、す、すみません。
-　私が悪かったですから、お尻を左右に引っ張るの
-　はやめてください」
+<name "Sofia" "!ZB0505">
+"Mm... S-Sorry...
+ I shouldn't have said it, okay.
+ Please stop tugging on my butt."
 #
-<name "ダークス">
-「では、もっと速く動いてくれ。
-　それとも、俺は動こうか？」
+<name "Darx">
+"Then move faster.
+ Or do you want me to?"
 #
-<name "ソフィア" "!ZB0506">
-「私が動きます。
-　お任せください」
+<name "Sofia" "!ZB0506">
+"I'll do it.
+ Leave it to me."
 #
-　仲良くやる俺達だった。
+We're getting along well.
 #
 \x78\x78

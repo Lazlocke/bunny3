@@ -1,74 +1,86 @@
 ﻿<music 17>
 <background "ev087a01.agf" 10>
-<name "ソフィア" "!ZB0455">
-「んぁ、ふぁ、ぁ、んんぁぁぁ」
+<name "Sofia" "!ZB0455">
+"Mm...aah...ah...mmmmm..."
 #
-<name "ダークス">
-「最近……俺の身体を洗う事を放棄してないか？」
+<name "Darx">
+"Recently... it feels like you're not even
+ pretending to wash me."
 #
-<name "ソフィア" "!ZB0456">
-「ふぁ、ぁ、んんぁ、そ、そんな、ふぁ、ぁ、そん
-　な事はぁ、あ、ありませ、んんぅ」
+<name "Sofia" "!ZB0456">
+"Aah...ah...mmm... T-That's not...
+ Ahhh...ah...
+ That's not... ah... t-true...
+ Mmmmm..."
 #
-　そうは思えないが……
+That's hard to believe.
 #
-<name "ソフィア" "!ZB0457">
-「あん、あん、ふぁ、ふぁ、ぁ、ぁぁ、んんぁ」
+<name "Sofia" "!ZB0457">
+"Ah! Aah! Ahh!
+ Ahhh...ah...aah...mmm..."
 #
-　まあ、気持ち良いから任せよう。
+Well, I'm enjoying it, so she can do what she
+wants.
 #
-<name "ソフィア" "!ZB0458">
-「ぁ、ぁ、や、ひぁ、ぁ……」
+<name "Sofia" "!ZB0458">
+"Ah...ah...ah!
+ Aah...ah..."
 #
-　ソフィアの動きから、そろそろ達しようとしてい
-　るのはわかるが、最後の一手が足りないようだ。
+I can tell from her movements that she's 
+close, but can't quite get there.
 #
-<name "ソフィア" "!ZB0459">
-「ぁぁん、ん、ふぁ……ん……んん……」
+<name "Sofia" "!ZB0459">
+"Aaah...mmm...aah...mmm...mmmmm..."
 #
-　俺はこれまでジッとさせていた腰を不意に動かし
-　た。
+After staying still the whole time, I suddenly
+thrust up.
 #
-<name "ソフィア" "!ZB0460">
-「ひぁっ！」
+<name "Sofia" "!ZB0460">
+"Aaah!"
 #
-　その不意打ちに、ソフィアの肉体は驚き、そして
-　歓喜した。
+Her body is surprised and delighted by the
+unexpected attack.
 #
-<name "ソフィア" "!ZB0461">
-「ふぁぁっ、ぁっ、むぅぅぁぁぁぁぁぁぁぁぁっ！」
+<name "Sofia" "!ZB0461">
+"Aaaaah!
+ Aah!
+ Aaaaaahhhhhhhhh!!!"
 #
-　大きく潮を吹き達した。
+She gusts and comes.
 #
-　それに誘われるように、俺も射精を開始する。
+Drawn by it, I start to come too.
 #
 <background "ev087a02.agf" 10>
-<name "ソフィア" "!ZB0462">
-「ぁ、うぁ、ぁぁ……はぁ、はぁ……」
+<name "Sofia" "!ZB0462">
+"Ah...aah...aah...
+ Ahhh...ahhh..."
 #
-<name "ダークス">
-「大丈夫か？」
+<name "Darx">
+"Are you okay?"
 #
-<name "ソフィア" "!ZB0463">
-「うぁ……は、はい……急に動くのは……」
+<name "Sofia" "!ZB0463">
+"Ahhh... Y-Yes...
+ Y-You suddenly moved..."
 #
-<name "ダークス">
-「悪かった」
+<name "Darx">
+"Sorry."
 #
-<name "ソフィア" "!ZB0464">
-「ぁぁ……」
+<name "Sofia" "!ZB0464">
+"Aaah..."
 #
-<name "ダークス">
-「余韻が収まったら、身体を洗ってくれ」
+<name "Darx">
+"When the echoes settle, please wash me."
 #
-<name "ソフィア" "!ZB0465">
-「は、はい」
+<name "Sofia" "!ZB0465">
+"O-Okay."
 #
-　そう返事したソフィアだが、二回目を求め始めた。
+That's what she said, but then she started to
+go again.
 #
-<name "ソフィア" "!ZB0466">
-「お願いします」
+<name "Sofia" "!ZB0466">
+"Please."
 #
-　なかなか風呂場から解放されない、俺だった。
+I wasn't able to escape the bathroom so
+easily.
 #
 \x78\x78

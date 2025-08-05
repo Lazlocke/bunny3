@@ -1,69 +1,70 @@
 ﻿<music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta01a036.agf" 4 4 11>
-<name "ソフィア" "!ZB0487">
-「魔王様」
+<name "Sofia" "!ZB0487">
+"Overlord."
 #
-<name "ダークス">
-「なんだ？」
+<name "Darx">
+"Yes?"
 #
 <sprite "ta01a028.agf" 4 4 12>
-<name "ソフィア" "!ZB0488">
-「ところ構わず、求められると……その、仕事に支
-　障がでます」
+<name "Sofia" "!ZB0488">
+"I'm willing to do whatever you need, but,
+ um, that might interfere with work."
 #
 <sprite "ta01a029.agf" 4 4 12>
-<name "ソフィア" "!ZB0489">
-「違った。
-　もう出てます」
+<name "Sofia" "!ZB0489">
+"No.
+ It already is."
 #
-<name "ダークス">
-「しかし、ソフィアのその可愛いお尻を見て、我慢
-　しろと言われてもだな」
+<name "Darx">
+"But I saw your cute butt.
+ I can't just ignore it."
 #
 <sprite "ta01a036.agf" 4 4 12>
-<name "ソフィア" "!ZB0490">
-「スカートを捲くらなければ良いのでは？」
+<name "Sofia" "!ZB0490">
+"Then don't flip up my skirt?"
 #
-<name "ダークス">
-「確かに」
+<name "Darx">
+"Fair enough."
 #
 <sprite "ta01a028.agf" 4 4 12>
-<name "ソフィア" "!ZB0491">
-「スカートの上から、弄れと言っているワケではあ
-　りませんからね」
+<name "Sofia" "!ZB0491">
+"I'm not saying that you're allowed to play
+ with what's above the skirt either."
 #
-<name "ダークス">
-「ぬう」
+<name "Darx">
+"Grr..."
 #
 <sprite "ta01a004.agf" 4 4 12>
-<name "ソフィア" "!ZB0492">
-「仕事が終わった後でしたら、いつでもお相手しま
-　すから」
+<name "Sofia" "!ZB0492">
+"I'll be with you whenever you want, after I'm
+ done with work."
 #
-<name "ダークス">
-「じゃあ、ソフィアが仕事中は無しだな」
+<name "Darx">
+"Then not when you're at work?"
 #
 <sprite "ta01a136.agf" 4 4 12>
-<name "ソフィア" "!ZB0493">
-「……………………い、一日、二回まででしたら」
+<name "Sofia" "!ZB0493">
+".........O-Once or twice a day."
 #
-<name "ダークス">
-「努力しよう」
+<name "Darx">
+"I'll try."
 #
 <removesprite -1 11>
 <music 11>
 <background "bg015a0.agf" 10>
-　……
+...
 #
 <music 3>
 <background "bg010a0.agf" 10>
-<name "ダークス">
-「結果が伴わなくても努力した事が大事だ」
+<name "Darx">
+"It's the effor that matters, not the
+ results."
 #
 <sprite "ta01a128.agf" 4 4 11>
-<name "ソフィア" "!ZB0494">
-「結果が大事です！」
+<name "Sofia" "!ZB0494">
+"Results matter too!"
 #
 <removesprite -1 11>
 \x2B\x78\x78

@@ -1,41 +1,43 @@
 ﻿<music 49>
 <background "ev042a00.agf" 10>
-<name "ラキア" "!ZC0420">
-「きゅ、急には流石に困るのですが……」
+<name "Rakia" "!ZC0420">
+"D-Doing it without warning is quite
+ bothersome..."
 #
-<name "ダークス">
-「ラキアさん」
+<name "Darx">
+"Rakia."
 #
-<name "ラキア" "!ZC0421">
-「な、なんです」
+<name "Rakia" "!ZC0421">
+"W-What?"
 #
-<name "ダークス">
-「困った顔も魅力的だ」
+<name "Darx">
+"You're pretty when you're bothered."
 #
-<name "ラキア" "!ZC0422">
-「もう……ダークス様は……」
+<name "Rakia" "!ZC0422">
+"Honestly...
+ You're..."
 #
 <background "ev042a01.agf" 10>
-<name "ラキア" "!ZC0423">
-「いいです。
-　好きにしてください」
+<name "Rakia" "!ZC0423">
+"Very well.
+ Do as you wish."
 #
-<name "ダークス">
-「じゃあ」
+<name "Darx">
+"Then..."
 #
-<name "ラキア" "!ZC0424">
-「ああ、その前に」
+<name "Rakia" "!ZC0424">
+"Ah, but first..."
 #
-<name "ダークス">
-「？」
+<name "Darx">
+"Hm?"
 #
-<name "ラキア" "!ZC0425">
-「キス、してからです」
+<name "Rakia" "!ZC0425">
+"Kiss me."
 #
-<name "ダークス">
-「ああ」
+<name "Darx">
+"Yeah."
 #
-　俺はラキアさんと濃厚なキスをしてから、何度も
-　行為を楽しんだ。
+I share a passionate kiss with her, and then
+enjoy myself many times.
 #
 \x78\x78

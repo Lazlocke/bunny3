@@ -1,106 +1,108 @@
 ﻿<music 29>
 <background "ev078a00.agf" 10>
-<name "商会メイド" "!PC0091">
-「やりましたね」
+<name "Company Maid" "!PC0091">
+"We did it."
 #
-<name "ダークス">
-「いや、まだだ」
+<name "Darx">
+"No, not yet."
 #
-<name "商会メイド" "!PC0092">
-「え？」
+<name "Company Maid" "!PC0092">
+"Huh?"
 #
-<name "ダークス">
-「まだなんだ」
+<name "Darx">
+"They're not done."
 #
-<name "商会メイド" "!PC0093">
-「どういう事です？」
+<name "Company Maid" "!PC0093">
+"What do you mean?"
 #
-<name "ダークス">
-「再生する」
+<name "Darx">
+"They regenerate."
 #
-　俺の言葉通り、触手は再生を始めた。
+Just like I said, the tentacles start 
+regrowing.
 #
-<name "商会メイド" "!PC0094">
-「そんなっ」
+<name "Company Maid" "!PC0094">
+"No way!"
 #
-<name "ダークス">
-「驚くな。
-　それより、そこにヘビが落ちているだろ。
-　回収できるか？」
+<name "Darx">
+"Don't be so surprised.
+ More importantly, there's a snake over there.
+ Can you grab it?"
 #
-<name "商会メイド" "!PC0095">
-「え？
-　あー……はい」
+<name "Company Maid" "!PC0095">
+"Huh?
+ Oh, yes, sir."
 #
-<name "ダークス">
-「スイセンの情報提供の代金だから、丁重に運んで
-　やってくれ」
+<name "Darx">
+"That's the price for Suisen's intelligence.
+ Take good care of it."
 #
-<name "商会メイド" "!PC0096">
-「噛みませんよね」
+<name "Company Maid" "!PC0096">
+"As long as it doesn't bite."
 #
-<name "ダークス">
-「大丈夫……だろう。
-　多分」
+<name "Darx">
+"You should be okay... probably.
+ Maybe."
 #
-<name "商会メイド" "!PC0097">
-「適当ですね」
+<name "Company Maid" "!PC0097">
+"That's no convincing."
 #
-<name "ダークス">
-「まあ、頼んだ」
+<name "Darx">
+"Well, please do it."
 #
-<name "ダークス">
-「俺は最後の戦いをしないといけないからな」
+<name "Darx">
+"I've got one more battle to fight."
 #
-　触手は再生を続けた。
+The tentacles continue to regrow.
 #
-　ただ、先ほどと違う点が一つあった。
+But not quite the same as before.
 #
-　触手が人間のサイズに塊、蠢き、そして生み出し
-　た。
+They lump together, wriggle, and grow to
+human size.
 #
 <background "ev078b00.agf" 10>
-　俺だ。
+To me.
 #
 <background "ev078c00.agf" 10>
-　それも無数に。
+Dozens of me.
 #
-<name "ダークス">
-「予想通りだが……
-　ちょっと数がズルいんじゃないか？」
+<name "Darx">
+"I thought so...
+ But isn't this many cheating?"
 #
-<name "ダークス" "!BA0001">
-「うぐぁぁぁぁぁ」
+<name "Darx" "!BA0001">
+"Grrraaaaaggggh!"
 #
-　目の前に居るのは俺だ。
+I stand right before me.
 #
-　スイセンのヘビによって、俺の分身体のコントロ
-　ールは奪われた。
+Suisen's snake took control of my other body.
 #
-　だが、俺の分身体は負けなかった。
+But my body didn't succumb to it.
 #
-　それが、分身体の行動に違和感を残した。
+That's what made it feel so wrong.
 #
-　フォーゼロッテを浚ったのに、何もしなかったり、
-　ワダツミを殺したりだ。
+It grabbed Forzelotte, but didn't do anything
+to her, then it killed Wadatsumi.
 #
-　全て俺の意思だ。
+All of it was my will.
 #
-　触手が街やフォーゼロッテ宮に進むのも、俺の意思。
+Same as it going to the city and Forzelotte's
+Shrine.
 #
-　あれは、攻撃したいと思ったんじゃない。
+It wasn't an attack.
 #
-　ただ、戻りたいと思っただけだ。
+It just wanted to go home.
 #
-　それがどんな被害をもたらすかも考えずに。
+Without any thought to the damage it would
+cause.
 #
-<name "ダークス">
-「まあ、責任は取るさ」
+<name "Darx">
+"Well, I'm still to blame."
 #
-<name "ダークス" "!BA0002">
-「うぐぁぁぁぁぁぁぁっ」
+<name "Darx" "!BA0002">
+"Grraaaghhhhh!"
 #
-<name "ダークス">
-「行くぞ」
+<name "Darx">
+"Let's do this."
 #
 \x78\x78

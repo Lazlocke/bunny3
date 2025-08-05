@@ -1,197 +1,206 @@
 ﻿<music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta01a004.agf" 4 4 11>
-<name "ソフィア" "!ZB0433">
-「魔王様。
-　お風呂のご用意ができました」
+<name "Sofia" "!ZB0433">
+"Overlord, your bath is ready."
 #
-<name "ダークス">
-「そうか。
-　入らせて貰おう」
+<name "Darx">
+"I see.
+ Then I'll go in."
 #
 <sprite "ta01a033.agf" 4 4 12>
-<name "ソフィア" "!ZB0434">
-「ごゆっくり」
+<name "Sofia" "!ZB0434">
+"Enjoy yourself."
 #
 <removesprite -1 11>
 <music 17>
 <background "ev087a00.agf" 10>
-<name "ソフィア" "!ZB0435">
-「どうです？」
+<name "Sofia" "!ZB0435">
+"How's this?"
 #
-<name "ダークス">
-「良い感じだが……」
+<name "Darx">
+"Feels good, but..."
 #
-　ソフィアは俺を風呂場に連れて行き、その身で身
-　体を洗い始めた。
+She took me to the bathroom and started 
+washing me with her own body.
 #
-<name "ダークス">
-「積極的だな」
+<name "Darx">
+You're quite assertive.
 #
-<name "ソフィア" "!ZB0436">
-「他の方と違って、あまりご奉仕が出来ませんから」
+<name "Sofia" "!ZB0436">
+"Unlike other people, I can't serve you very
+ well."
 #
-<name "ダークス">
-「仕事、頑張ってくれていると思うが？」
+<name "Darx">
+"I feel like you're working hard enough at 
+ your job though."
 #
-<name "ソフィア" "!ZB0438">
-「もっとご奉仕したいです」
+<name "Sofia" "!ZB0438">
+"I want to do more for you."
 #
-　もちろん、その気持ちに嘘はないだろう。
+Of course, her feelings are genuine.
 #
-　しかし、ソフィアに下心が無いワケでもなかった。
+But that doesn't mean she doesn't have 
+something else in mind either.
 #
-　その証拠に、ソフィアの行為によって大きくなっ
-　た俺のモノは、ソフィアの膣内によって咥え込ま
-　れ解放される気配が無い
+As proof of that, my dick's already hard from
+what she's doing, and buried inside her with
+no sign of that she's going to let go of it.
 #
-<name "ダークス">
-「任せるが……誰に、これを教えられた？」
+<name "Darx">
+"I'll let you handle it then...
+ Who taght you this?"
 #
-<name "ソフィア" "!ZB0439">
-「多数の方々から」
+<name "Sofia" "!ZB0439">
+"Multiple people."
 #
-　まあ、他の女性とこういったプレイをした事が無
-　いわけではない。
+Well, it's not like I haven't done this kind
+of thing with other women.
 #
-　お風呂どうぞからこの流れは、女性主導として中
-　級レベル。
+This is kind of like mid-level as far as
+women initiating things goes.
 #
-　自分から求めたいが、なかなか言い出せない女性
-　が、頑張ってみました感が非常に良い。
+She wants it, but it's hard for her to come 
+out and say it. Knowing how hard she's trying
+feels pretty good.
 #
-　誰が教えたか心当たりがあり過ぎる。
+I have plenty of ideas about who might have
+suggested this to her.
 #
-　まあ、良いか。
+Well, whatever.
 #
-　教えたやつは、後でかならず俺に同じ事を求めて
-　くる。
+Whoever told her will inevitably ask for the
+same thing for themselves later.
 #
-　あの子だけずるい、の流れにしたいからだ。
+Because it wouldn't be fair for just one girl
+to have all the fun.
 #
-<name "ソフィア" "!ZB0440">
-「では、続けます」
+<name "Sofia" "!ZB0440">
+"Then I'll keep going."
 #
-　ソフィアは、俺の身体を洗っていく。
+She washes me.
 #
-　しっかり洗う部分は、タオルで。
+With a towel for the places that need to
+actually be washed.
 #
-　それ以外は、身体で洗ってくれる。
+And for the rest, with her body.
 #
-<name "ソフィア" "!ZB0441">
-「痛くないですか？」
+<name "Sofia" "!ZB0441">
+"Does that hurt?"
 #
-<name "ダークス">
-「大丈夫だ」
+<name "Darx">
+"I'm okay."
 #
-　そうしながら、ソフィアは腰をグニグニと動かし、
-　俺のモノを刺激していく。
+And as she did, she keeps moving her hips,
+stimulating my dick.
 #
-<name "ソフィア" "!ZB0442">
-「ふぁ」
+<name "Sofia" "!ZB0442">
+"Aah..."
 #
-　その動きは未熟だが、それを補うように全身を使っ
-　て俺に擦り付けてくる。
+Her movements are still awkward, but she makes
+up for it by using her entire body.
 #
-　その積極性に負け、俺の身体は快楽に浸っていく。
+I give in to her aggressiveness and soak in
+pleasure.
 #
 <background "ev087a01.agf" 10>
-<name "ソフィア" "!ZB0443">
-「っ、あぁ、ぁ、んんぁ……ぁぁ」
+<name "Sofia" "!ZB0443">
+"Ah..aaah...ah...mmm...aaah..."
 #
-　だが、快楽に浸ったのは俺だけではない。
+But I'm not the only one enjoying it.
 #
-　ソフィアもだ。
+She is too.
 #
-　最初は俺を喜ばせようと動かしていた腰が、自身
-　の快楽の為に変化し始めていた。
+Her hips that had originally been moving to
+pleasure me are starting to change to focus on
+her own pleasure.
 #
-　時々、思い出したように戻ってくるが、やはり抗
-　えないらしい。
+Sometimes, she switches back when she 
+realizes, but she can't resist it.
 #
-　まあ、気持ちはわからなくもない。
+Well, I can't say I don't know the feeling.
 #
-　俺だって、相手を思って動いていても、自分の快
-　楽を優先してしまう場合がある。
+Even when I'm trying to think about the person
+I'm with, sometimes the pleasure wins.
 #
-　俺の快楽と相手の快楽が同調すれば良いのだが、
-　それには経験が必要だ。
+It's best to have both your pleasure and
+theirs in sync, but that takes experience.
 #
-　最初の頃は、相手の事など気にせず、自身が喜べ
-　ば良い。
+Starting out, you shouldn't worry too much
+about the other person. 
+Just please yourself.
 #
-　相手が喜んでいるだけで、こちらも嬉しくなる。
+When your partner is happy, you're happy.
 #
-<name "ソフィア" "!ZB0444">
-「んぁ、ふぁ、あっ、んぁ、ぁぁ……ぅぅ」
+<name "Sofia" "!ZB0444">
+"Aah...aaah...ah...mmm...aaah..."
 #
-　俺は自分の腰をゆっくりと動かし始める。
+I slowly start moving my hips.
 #
-<name "ソフィア" "!ZB0445">
-「ぁ、うぁ、ぁっ？」
+<name "Sofia" "!ZB0445">
+"Ah...ah...ah?"
 #
-　そして、主導権をソフィアから奪い、一気に最後
-　まで持っていく。
+And take the initiative away from her, and
+bring things to an end quickly.
 #
-<name "ソフィア" "!ZB0446">
-「ふひっ、ひっ、ひぁっ、ぁ、ふぁ、ぁ、ま、魔王、
-　様ぁっ、ぁ、ぁぁっ！」
+<name "Sofia" "!ZB0446">
+"Aah! Ah! Ah! Ah! Aah! Ah!
+ O-Overlord! Ah! Ah! Aaaah!"
 #
-　ソフィアが俺に抱きついた。
+She clings to me.
 #
-　同時に、ソフィアの全身が震え、大きく達する。
+At the same time, her entire body shudders and
+she has a big orgams.
 #
 <background "ev087a02.agf" 10>
-<name "ソフィア" "!ZB0447">
-「ぅ、ぅぁぁぁぁぁぁぁぁぁぁ」
+<name "Sofia" "!ZB0447">
+"A-Aaaaahhhhhhhhhh!!!"
 #
-　その達したソフィアに、少し遅れて俺は射精を開
-　始した。
+I start to come just after she does.
 #
-<name "ソフィア" "!ZB0448">
-「ぁ……うぁ……ぁぁ……」
+<name "Sofia" "!ZB0448">
+"Ah...aah...aah..."
 #
-　休憩。
+Rest.
 #
-<name "ソフィア" "!ZB0449">
-「す、すみません……」
+<name "Sofia" "!ZB0449">
+"S-Sorry..."
 #
-<name "ダークス">
-「ん？」
+<name "Darx">
+"Hm?"
 #
-<name "ソフィア" "!ZB0450">
-「私が、その……」
+<name "Sofia" "!ZB0450">
+"I, um..."
 #
-<name "ダークス">
-「可愛かったぞ」
+<name "Darx">
+"It was cute."
 #
-<name "ソフィア" "!ZB0451">
-「え、ぁっ……そんな」
+<name "Sofia" "!ZB0451">
+"Huh? Ah...
+ No..."
 #
-<name "ダークス">
-「だが、身体はまだ洗えていないな」
+<name "Darx">
+"But you haven't washed me yet."
 #
-　俺の身体を洗うという行為は、途中で止まってい
-　る。
+We stopped any pretense of washing partway.
 #
-<name "ソフィア" "!ZB0452">
-「……す、すみません」
+<name "Sofia" "!ZB0452">
+"...S-Sorry."
 #
-<name "ダークス">
-「続けてくれ」
+<name "Darx">
+"Don't stop."
 #
-<name "ソフィア" "!ZB0453">
-「はい」
+<name "Sofia" "!ZB0453">
+"Okay."
 #
-<name "ダークス">
-「ああ、こっちも動かしたままな」
+<name "Darx">
+"Oh, and keep moving here too."
 #
-　俺はソフィアの尻を軽く叩き、動く事を要望した。
+I slap her lightly on the butt.
 #
-<name "ソフィア" "!ZB0454">
-「が、頑張ります」
+<name "Sofia" "!ZB0454">
+"I-I'll try."
 #
-　俺の身体が洗い終わるまで、俺は四回の射精を行っ
-　た。
+I come four more times before I'm cleaned up.
 #
 \x78\x78

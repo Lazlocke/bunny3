@@ -1,42 +1,42 @@
 ﻿<music 19>
 <background "ev012a03.agf" 10>
-<name "マクドゥ" "!ZA0287">
-「ダークス」
+<name "Macdo" "!ZA0287">
+"Darx."
 #
-<name "ダークス">
-「ん？」
+<name "Darx">
+"Hm?"
 #
-<name "マクドゥ" "!ZA0288">
-「分身体、出せるか？」
+<name "Macdo" "!ZA0288">
+"Can you bring out the other you?"
 #
-<name "ダークス">
-「ああ」
+<name "Darx">
+"Yeah."
 #
-　俺は肩口から触手を数本、出してみせる。
+I summon a couple tentacles from my shoulders.
 #
-<name "マクドゥ" "!ZA0289">
-「……ふふ」
+<name "Macdo" "!ZA0289">
+"...Heheh..."
 #
-<name "ダークス">
-「どうした？」
+<name "Darx">
+"What is it?"
 #
-<name "マクドゥ" "!ZA0290">
-「あれほど嫌悪していたのに、愛おしく見えてしま
-　うとは……」
+<name "Macdo" "!ZA0290">
+"I hated them so much, I never though they'd
+ look lovable..."
 #
-<name "マクドゥ" "!ZA0291">
-「私の心は単純なようだ」
+<name "Macdo" "!ZA0291">
+"My mind is apparently simple."
 #
-<name "ダークス">
-「どうする？
-　これで苛めてやろうか？」
+<name "Darx">
+"Now what?
+ Tease you with them?"
 #
-<name "マクドゥ" "!ZA0292">
-「いや、本体で頼む」
+<name "Macdo" "!ZA0292">
+"No, the real you, please."
 #
-<name "ダークス">
-「良いだろう」
+<name "Darx">
+"Sounds good."
 #
-　俺はマクドゥとの行為を楽しみ続けた。
+I continue enjoying myself with her.
 #
 \x78\x78

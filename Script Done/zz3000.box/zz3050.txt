@@ -1,105 +1,107 @@
 ﻿<music 18>
 <background "ev086a03.agf" 10>
-<name "ソフィア" "!ZB0474">
-「ぉぉぉぉぉっ」
+<name "Sofia" "!ZB0474">
+"Aaaaaah!"
 #
 <music 3>
 <background "bg010a0.agf" 10>
-<name "ダークス">
-「大丈夫か？」
+<name "Darx">
+"Are you okay?"
 #
 <sprite "ta01a128.agf" 4 4 11>
-<name "ソフィア" "!ZB0475">
-「あ、歩け……ません」
+<name "Sofia" "!ZB0475">
+"I-I can't... walk."
 #
-<name "ダークス">
-「そうか。
-　やっぱり、あれは無茶だったんじゃ……」
+<name "Darx">
+"I see.
+ I guess that was a little too much."
 #
 <removesprite -1 11>
-　行為中、ソフィアは後ろの穴を使って欲しいと要
-　求してきた。
+Partway through, she demanded I do it in her
+ass.
 #
-　どうやら、無理矢理にやった連中から情報を入手
-　したらしい。
+Apparently she heard from somewhere that I
+did that by force.
 #
-　先に言っておくが、俺は一度は断った。
+I tried to warn her, but she wouldn't listen.
 #
-　それでも強く要求したのはソフィアだ。
+She kept demanding it.
 #
-　うん、俺は悪くない。
+Yeah, this isn't my fault.
 #
 <sprite "ta01a128.agf" 4 4 11>
-<name "ソフィア" "!ZB0476">
-「ま、まさか……」
+<name "Sofia" "!ZB0476">
+"N-No way..."
 #
 <removesprite -1 11>
-　前の穴を使いながら後ろの穴をほぐし、魔法で回
-　復させながらの挿入。
+I stick it in her front hole while using a
+quick spell to heal and relax her ass.
 #
 <sprite "ta01a129.agf" 4 4 11>
-<name "ソフィア" "!ZB0477">
-「まさか……」
+<name "Sofia" "!ZB0477">
+"No way..."
 #
 <removesprite -1 11>
-　……あれ、その後の記憶がない。
+...That's the last thing I remember.
 #
 <sprite "ta01a113.agf" 4 4 11>
-<name "ソフィア" "!ZB0478">
-「あそこまでされるとは、想像していませんでした」
+<name "Sofia" "!ZB0478">
+"I never imagined it'd go that far."
 #
-<name "ダークス">
-「え？
-　俺、何をしたんだ？」
+<name "Darx">
+"Huh?
+ What did I do?"
 #
-<name "ソフィア" "!ZB0479">
-「きっ」
+<name "Sofia" "!ZB0479">
+"Eep!"
 #
 <removesprite -1 11>
-　睨まれた。
+She glares at me.
 #
 <sprite "ta01a113.agf" 4 4 11>
-<name "ソフィア" "!ZB0480">
-「説明プレイまでご要望とは……
-　魔王様に対する理解が不十分でした。
-　反省します」
+<name "Sofia" "!ZB0480">
+"Is demanding an explanation also some kind of
+ game? I clearly don't know you well enough.
+ I need to rethink things."
 #
 <sprite "ta01a132.agf" 4 4 12>
-<name "ソフィア" "!ZB0481">
-「魔王様が説明しろと仰るなら、説明しますが……
-　一度は断らせて頂きます」
+<name "Sofia" "!ZB0481">
+"If you really want to know, I'll tell you...
+ but right now I'm saying no."
 #
 <removesprite -1 11>
-　え？
-　なに？
-　俺、何をしたんだ？
+Huh?
+What?
+What did I do?
 #
-　しかし、聞ける雰囲気ではない。
+But she's in no mood to talk about it.
 #
-　いや、聞かない方が正解なんだろう。
+It's probably better not to ask.
 #
-　ははは。
+Hahaha...
 #
-　この件には、触れないでおこう。
+Let's put this behind us.
 #
-　そう誓う俺だったが、ソフィアはこの件の行為の
-　再現をチラチラ希望してきた。
+That's what I swore, but then she wanted to do
+whatever I did again.
+Insistently.
 #
-　何をしたかは未だに知らないが、気持ちは良かっ
-　たらしい。
+I'm not sure what I did, but apparently she
+liked it.
 #
 <sprite "ta34a001.agf" 4 4 11>
-<name "商会メイド" "!PC0043">
-「これ、何をされたんですか？」
+<name "Company Maid" "!PC0043">
+"Just what exactly did he do?"
 #
 <removesprite -1 11>
 <sprite "ta01a033.agf" 2 5 11>
 <sprite "ta34a001.agf" 6 4 11>
-<name "ソフィア" "!ZB0482">
-「命を賭けるのならば、お教えしますよ」
+<name "Sofia" "!ZB0482">
+"I'll tell you, if you're willing to wager
+ your life on it."
 #
-<name "商会メイド" "!PC0044">
-「………………失礼しました」
+<name "Company Maid" "!PC0044">
+".........No thank you."
 #
 <removesprite -1 11>
 \x2B\x78\x78

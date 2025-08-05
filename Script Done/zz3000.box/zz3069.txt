@@ -1,195 +1,200 @@
 ﻿<music 49>
 <background "ev041c00.agf" 10>
-<name "ラキア" "!ZC0431">
-「あの……」
+<name "Rakia" "!ZC0431">
+"Um..."
 #
-<name "ダークス">
-「なに？」
+<name "Darx">
+"What?"
 #
-<name "ラキア" "!ZC0432">
-「どうして、先ほどからお尻を撫でるだけなのです
-　か？」
+<name "Rakia" "!ZC0432">
+"Why have you only been stroking my butt?"
 #
-<name "ダークス">
-「早く挿入した方が良かった？」
+<name "Darx">
+"You want me to put it in faster?"
 #
-　ラキアさんの太ももには、愛液が伝っている。
+Her juices are dripping down her thighs.
 #
-<name "ラキア" "!ZC0433">
-「いえ、そうではなく……」
+<name "Rakia" "!ZC0433">
+"No, that's not it..."
 #
-<name "ダークス">
-「えっと……
-　タイミングを見計らっているんだ」
+<name "Darx">
+"Um...
+ Just thinking about the timing."
 #
-<name "ラキア" "!ZC0434">
-「タイミング？」
+<name "Rakia" "!ZC0434">
+"The timing?"
 #
-<name "ダークス">
-「ああ。
-　ん……」
+<name "Darx">
+"Yeah.
+ Hm..."
 #
-<name "商会メイド" "!PC0231">
-「ラキア様、いますかー？」
+<name "Company Maid" "!PC0231">
+"Rakia, are you here?"
 #
-<name "ラキア" "!ZC0435">
-「ぁ」
+<name "Rakia" "!ZC0435">
+"Ah..."
 #
-　メイドの一人がラキアさんを探しに来たタイミン
-　グで、俺はラキアさんの膣内にモノを捻じ込んだ。
+Right as one of the maids comes looking for
+her, I sink my dick inside her.
 #
 <background "ev041c01.agf" 10>
-<name "ラキア" "!ZC0436">
-「ダ、ダークス様、だ、駄目、あ、ひぁ、ぁっ」
+<name "Rakia" "!ZC0436">
+"D-Darx, d-don't...
+ Ah! Aahh!"
 #
-　ずっと撫でられていたラキアさんの下半身は、準
-　備万端だ。
+Her body is more than ready after the long
+foreplay.
 #
-　俺のモノを素直に受け入れている。
+It accepts my dick immediately.
 #
-　が、近くにメイドが居る事で、抵抗する。
+But with a maid nearby, she tries to fight it.
 #
-<name "ラキア" "!ZC0437">
-「ダークス様、お、怒りますよ。
-　ふぁ、ぁ、ぁ……」
+<name "Rakia" "!ZC0437">
+"Darx, y-you'll make me mad.
+ Aah...ah...ah..."
 #
-<name "商会メイド" "!PC0232">
-「ラキア様、いませんかー？」
+<name "Company Maid" "!PC0232">
+"Rakia, where are you?"
 #
-<name "ダークス">
-「返事をどうぞ」
+<name "Darx">
+"You should answer her."
 #
-<name "ラキア" "!ZC0438">
-「ぁ、う、ぁ……ひぁ」
+<name "Rakia" "!ZC0438">
+"Ah...ah...ah...ahh!"
 #
-<name "ダークス">
-「じゃあ代わりに、ここにラキアさんが居るぞー」
+<name "Darx">
+"Then I'll have to tell her you're here."
 #
-<name "商会メイド" "!PC0233">
-「魔王様？
-　あ、そこでしたか」
+<name "Company Maid" "!PC0233">
+"Overlord?
+ Oh, you're here?"
 #
-<name "ダークス">
-「ああ、すまない。
-　そこでストップだ」
+<name "Darx">
+"Yeah, sorry.
+ Stop right there."
 #
-<name "商会メイド" "!PC0234">
-「え？」
+<name "Company Maid" "!PC0234">
+"Huh?"
 #
-<name "ダークス">
-「ちょっとした秘密会議をしてる最中だ。
-　見られちゃマズイ物を広げているんだ」
+<name "Darx">
+"We're having a private meeting.
+ Not for your eyes."
 #
-<name "商会メイド" "!PC0235">
-「そ、そうでしたか。
-　お邪魔して申し訳ありません」
+<name "Company Maid" "!PC0235">
+"I-I see.
+ I'm sorry for bothering you."
 #
-<name "ダークス">
-「いや、気にするな。
-　ラキアさんへの用事は？」
+<name "Darx">
+"No, it's fine.
+ Did you need Rakia for something?"
 #
-<name "商会メイド" "!PC0236">
-「はい。
-　ソフィア様のお店に送る商品リストはどこかと」
+<name "Company Maid" "!PC0236">
+"Yes.
+ Where is the list of products that need to
+ be sent to Sofia's store?"
 #
-<name "ダークス">
-「だって？」
+<name "Darx">
+"Well?"
 #
-　俺はメイドとの会話中、常にラキアさんの膣内を
-　掻き回していたが、ラキアさんはそれに声を出さ
-　ないように耐えていた。
+I keep moving inside of Rakia's pussy as I
+talk to the maid, even as she fights not to
+moan.
 #
-<name "ラキア" "!ZC0439">
-「ぁ、うぁ……ごめんなさい。
-　渡そうと思っていたのに、うっかりしていました。
-　私の事務机の横にある棚。
-　わかりますか？」
+<name "Rakia" "!ZC0439">
+"Ah...ah... I'm sorry.
+ I meant to give it to her but I forgot.
+ It's on the shelf in my office next to my 
+ desk. Do you know where that is?"
 #
-<name "商会メイド" "!PC0237">
-「ええ。
-　あの青い背表紙の本が沢山ある棚ですよね」
+<name "Company Maid" "!PC0237">
+"Yes.
+ The shelf with the blue books on it?"
 #
-<name "ラキア" "!ZC0440">
-「そう。
-　そこの真ん中の段、開けてすぐの所にあります」
+<name "Rakia" "!ZC0440">
+"That's right.
+ It's in the middle row there, right at the
+ front."
 #
-<name "ラキア" "!ZC0441">
-「日付を確認後、手配をお願いします」
+<name "Rakia" "!ZC0441">
+"Check the date, and then please take care of
+ the rest."
 #
-<name "商会メイド" "!PC0238">
-「はい。
-　承知しました。
-　失礼します」
+<name "Company Maid" "!PC0238">
+"Yes, ma'am.
+ I understand.
+ Excuse me."
 #
-　……
+...
 #
-　メイドは去っていった。
+The maid leaves.
 #
-<name "ラキア" "!ZC0442">
-「ぁ、ふぁ、ダ、ダークス様ぁ」
+<name "Rakia" "!ZC0442">
+"Ah...aah...
+ D-Darx..."
 #
-　怒って涙目のラキアさんに、俺は大量の膣内射精
-　を開始した。
+I start to come inside her as she glares at
+me through tears.
 #
 <music 40>
 <background "bg004a0.agf" 10>
 <sprite "ta08a118.agf" 4 4 11>
-<name "ラキア" "!ZC0443">
-「き、気付かれたらどうするんですか」
+<name "Rakia" "!ZC0443">
+"W-What would have happened if she saw us?"
 #
-<name "ダークス">
-「別におかしい事じゃないだろ」
+<name "Darx">
+"It's nothing special, right?"
 #
 <sprite "ta08a116.agf" 4 4 12>
-<name "ラキア" "!ZC0444">
-「私にも威厳というものがあります」
+<name "Rakia" "!ZC0444">
+"I have my dignity too."
 #
 <removesprite -1 11>
 <sprite "ta08a116.agf" 2 5 11>
 <sprite "ta34b000.agf" 6 4 11>
-<name "商会メイド" "!PC0239">
-「あ、ラキア様。
-　会議は終わりましたか？」
+<name "Company Maid" "!PC0239">
+"Ah, Rakia.
+ Are you done with your meeting?"
 #
 <sprite "ta08a022.agf" 2 5 12>
-<name "ラキア" "!ZC0445">
-「え？
-　ええ、なんとか。
-　リストは見つかったのですか？」
+<name "Rakia" "!ZC0445">
+"Huh?
+ Yes, I think so.
+ Did you find the list?"
 #
-<name "商会メイド" "!PC0240">
-「はい。
-　なんとか。
-　では、失礼します」
+<name "Company Maid" "!PC0240">
+"Yes, eventually.
+ Okay, excuse me."
 #
 <removesprite -1 11>
 <sprite "ta08a024.agf" 4 4 11>
-<name "ラキア" "!ZC0446">
-「……あの様子ですと、気付いていませんね」
+<name "Rakia" "!ZC0446">
+"...She really didn't realize."
 #
-<name "ダークス">
-「まあ、ラキアさんが仕事中に裏でＨな事をしてい
-　るなんて、想像もしないんじゃないか」
+<name "Darx">
+"Well, she probably wouldn't even imagine the
+ great Rakia having sex in the back while at
+ work."
 #
 <sprite "ta08a018.agf" 4 4 12>
-<name "ラキア" "!ZC0447">
-「うう」
+<name "Rakia" "!ZC0447">
+"Oooh..."
 #
-<name "ダークス">
-「ラキアさんが、嫌がるならもうしないでおくよ」
+<name "Darx">
+"If you don't like it, I won't do it
+ anymore."
 #
 <sprite "ta08a116.agf" 4 4 12>
-<name "ラキア" "!ZC0448">
-「……ズ、ズルいです」
+<name "Rakia" "!ZC0448">
+"...Y-You're mean."
 #
-<name "ダークス">
-「じゃあ、またしよう」
+<name "Darx">
+"Then let's do it again."
 #
 <sprite "ta08a117.agf" 4 4 12>
-<name "ラキア" "!ZC0449">
-「そ、それも困ります」
+<name "Rakia" "!ZC0449">
+"T-That's also questionable."
 #
 <removesprite -1 11>
-　俺はラキアさんとイチャイチャした。
+I make love with her.
 #
 \x78\x78

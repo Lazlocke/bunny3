@@ -1,308 +1,316 @@
 ﻿<music 4>
 <background "bg009a0.agf" 10>
 <sprite "ta02a016.agf" 4 4 11>
-<name "マクドゥ" "!ZA0113">
-「むう……」
+<name "Macdo" "!ZA0113">
+"Hmmmmm..."
 #
-<name "ダークス">
-「マクドゥか、久しぶりだな」
-#
-<sprite "ta02a032.agf" 4 4 12>
-<name "マクドゥ" "!ZA0114">
-「ふんっ」
-#
-<name "ダークス">
-「つれないな。
-　条件はちゃんと今回も達成したぞ」
-#
-<sprite "ta02a012.agf" 4 4 12>
-<name "マクドゥ" "!ZA0115">
-「魔王を名乗るなら、達成できて当然だ」
-#
-<sprite "ta02a013.agf" 4 4 12>
-<name "マクドゥ" "!ZA0116">
-「それと、お前と親しくした覚えはない」
-#
-<name "ダークス">
-「そうか。
-　ところでマクドゥは……まあ、いいか」
-#
-<sprite "ta02a012.agf" 4 4 12>
-<name "マクドゥ" "!ZA0117">
-「……途中で話を止めるな、気になるだろう」
-#
-<name "ダークス">
-「いや、余計なお世話かなと思って」
-#
-<name "マクドゥ" "!ZA0118">
-「それを判断するのは私だ。
-　言え」
-#
-<name "ダークス">
-「マクドゥの身体は大丈夫かと思ってな」
-#
-<name "マクドゥ" "!ZA0119">
-「なんの事だ？」
-#
-<name "ダークス">
-「ああいった事があって、しばらく経っただろ」
+<name "Darx">
+"Macdo?
+ Been a while."
 #
 <sprite "ta02a032.agf" 4 4 12>
-<name "マクドゥ" "!ZA0120">
-「ふんっ」
+<name "Macdo" "!ZA0114">
+"Hmph!"
 #
-<name "ダークス">
-「途中でラキアさんに発見されて、解放したから中
-　途半端になっていないかなって」
+<name "Darx">
+"Don't be rude.
+ I fulfilled all your conditions again."
 #
 <sprite "ta02a012.agf" 4 4 12>
-<name "マクドゥ" "!ZA0121">
-「……中途半端？」
-#
-<name "ダークス">
-「最近、ストレスが溜まっていないか？」
+<name "Macdo" "!ZA0115">
+"If you're calling yourself Overlord, I would
+ expect you to."
 #
 <sprite "ta02a013.agf" 4 4 12>
-<name "マクドゥ" "!ZA0122">
-「お前と話をしているのがストレスだ」
+<name "Macdo" "!ZA0116">
+"And I don't remember being your friend."
 #
-<name "ダークス">
-「イライラしているだろ」
+<name "Darx">
+"I see.
+ By the way, you...
+ Well, forget it."
 #
 <sprite "ta02a012.agf" 4 4 12>
-<name "マクドゥ" "!ZA0123">
-「お前と話をしていればな」
+<name "Macdo" "!ZA0117">
+"...Don't bring something up and then stop.
+ Now I need to know."
 #
-<name "ダークス">
-「……俺の分身体に弄ばれている女達をどう見てい
-　る」
+<name "Darx">
+"No, I think it's probably none of my
+ business."
 #
-<name "マクドゥ" "!ZA0124">
-「……なにが言いたい？」
+<name "Macdo" "!ZA0118">
+"I'll be the judge of that.
+ Out with it."
 #
-<name "ダークス">
-「お前のストレス解消に、付き合ってやろうと言っ
-　ているんだ」
+<name "Darx">
+"I just wanted to make sure you were feeling
+ okay."
+#
+<name "Macdo" "!ZA0119">
+"What do you mean?"
+#
+<name "Darx">
+"It's been a while since that happened."
+#
+<sprite "ta02a032.agf" 4 4 12>
+<name "Macdo" "!ZA0120">
+"Hmph!"
+#
+<name "Darx">
+"Rakia found you in the middle of it, and you
+ were let go halfway, without finishing."
+#
+<sprite "ta02a012.agf" 4 4 12>
+<name "Macdo" "!ZA0121">
+"...Halfway?"
+#
+<name "Darx">
+"Hasn't the stress been piling up lately?"
 #
 <sprite "ta02a013.agf" 4 4 12>
-<name "マクドゥ" "!ZA0125">
-「殴られてくれるのか？」
+<name "Macdo" "!ZA0122">
+"My stress is from talking to you."
 #
-<name "ダークス">
-「お前の身体の疼きを、止めてやろうと言っている
-　んだ」
+<name "Darx">
+"You must be frustrated."
 #
 <sprite "ta02a012.agf" 4 4 12>
-<name "マクドゥ" "!ZA0126">
-「余計なお世話だ」
+<name "Macdo" "!ZA0123">
+"From talking to you."
 #
-<name "ダークス">
-「だろ。
-　だから、余計なお世話かなって言うのを止めたん
-　だ」
+<name "Darx">
+"...Haven't you seen how the women are who
+ get played with by my other body?"
 #
-<name "ダークス">
-「言わせたのはそっちだぞ」
+<name "Macdo" "!ZA0124">
+"...What are you trying to say?"
+#
+<name "Darx">
+"I'm saying I can be with you to get rid of
+ some of that stress."
+#
+<sprite "ta02a013.agf" 4 4 12>
+<name "Macdo" "!ZA0125">
+"Are you trying to make me kill you?"
+#
+<name "Darx">
+"I'm saying it'll stop that ache inside you."
+#
+<sprite "ta02a012.agf" 4 4 12>
+<name "Macdo" "!ZA0126">
+"Mind your own business."
+#
+<name "Darx">
+"Right, see?
+ That's why I said I shouldn't say anything."
+#
+<name "Darx">
+"You're the one who made me say it."
 #
 <sprite "ta02a016.agf" 4 4 12>
-<name "マクドゥ" "!ZA0127">
-「う……」
+<name "Macdo" "!ZA0127">
+"..."
 #
-<name "ダークス">
-「まあ、ものは試しだ。
-　少しやってみるか？」
+<name "Darx">
+"Well, no harm in trying.
+ Want to give it a go?"
 #
 <sprite "ta02a017.agf" 4 4 12>
-<name "マクドゥ" "!ZA0128">
-「あっ」
+<name "Macdo" "!ZA0128">
+"Ah!"
 #
 <removesprite -1 11>
 <music 17>
 <background "ev014a00.agf" 10>
-<name "マクドゥ" "!ZA0129">
-「ぅぁ、くっ」
+<name "Macdo" "!ZA0129">
+"Ah...ngh..."
 #
-　俺はマクドゥの胸を揉みながら、モノを少しずつ
-　挿入していく。
+I slowly push my dick into her as I rub her
+breasts.
 #
-<name "マクドゥ" "!ZA0130">
-「ううっ」
+<name "Macdo" "!ZA0130">
+"Nnnh..."
 #
-　マクドゥの膣内は、行為に始まった瞬間から濡れ
-　始めていた。
+Her pussy started getting wet the second that
+we started.
 #
-　予想通り、マクドゥの身体は男を求めて疼いてい
-　たのだろう。
+Just like I thought, her body was aching for a
+man.
 #
-　マクドゥは俺の分身体の責めに精神は耐えられて
-　も、肉体は耐えられていなかったと言う事だ。
+Even if her mind resists the torture my other
+body put he through, her body didn't.
 #
-　そして、その精神と肉体のバランスが崩れていた
-　のが、ここ最近の荒れ具合なのだろう。
+And the balance between what her body wants
+and what her mind wants was broken, so she's
+been in a particularly bad mood.
 #
-　別に気を回してやる事もないが、ああいった事を
-　した手前、フォローはしてやろう。
+I don't think I need to be the one to take
+care of her, but I did start this, so I can
+at least deal with it.
 #
-<name "マクドゥ" "!ZA0131">
-「ぁっ」
+<name "Macdo" "!ZA0131">
+"Ah!"
 #
-　俺のモノ先がマクドゥの膣奥に到達した。
+The head of my dick reaches the back of her
+pussy.
 #
-<name "マクドゥ" "!ZA0132">
-「んぁ……ぁ」
+<name "Macdo" "!ZA0132">
+"Mmm...ah..."
 #
-<name "ダークス">
-「大丈夫か？」
+<name "Darx">
+"Are you okay?"
 #
-<name "マクドゥ" "!ZA0133">
-「こ、これしきで……」
+<name "Macdo" "!ZA0133">
+"T-This is nothing..."
 #
-<name "ダークス">
-「力を抜け」
+<name "Darx">
+"Relax."
 #
-<name "マクドゥ" "!ZA0134">
-「ぅぅ」
+<name "Macdo" "!ZA0134">
+"..."
 #
-　マクドゥは俺の指示に従わず、力を入れて身体を
-　強張らせる。
+She ignores me and just stiffens up more.
 #
-<name "ダークス">
-「まあ、いいけどな」
+<name "Darx">
+"Well, whatever."
 #
-　俺はマクドゥの胸を優しく揉みながら、腰をゆっ
-　くりと動かした。
+I gently rub her breasts and move slowly.
 #
 <background "ev014a01.agf" 10>
-<name "マクドゥ" "!ZA0135">
-「ぁ、ううっ、くぅぅっ……」
+<name "Macdo" "!ZA0135">
+"Ah...nnnh...nnngh..."
 #
-　俺の分身体に責められていたとはいえ、まだまだ
-　未熟なマクドゥの膣内は狭く俺のモノもスムーズ
-　に動けない。
+Even after all the toying my other self did to
+her, her pussy is still inexperienced and it's
+hard to move.
 #
-<name "マクドゥ" "!ZA0136">
-「ううっ、ふぁ、あっ……うぁ」
+<name "Macdo" "!ZA0136">
+"Nnnn...ahh...ah...aah..."
 #
-　しかし、マクドゥが身体を強張らせているので、
-　モノはなんとか膣内を前後する。
+But because she's holding so stiff, I can at 
+least smoothly go back and forth.
 #
-<name "マクドゥ" "!ZA0137">
-「んぁ……ぁ、ふぁ……んんっ」
+<name "Macdo" "!ZA0137">
+"Mm...ah...ah...nnh..."
 #
-　まずは、マクドゥが慣れるまでは単純な動きを繰
-　り返す。
+Just simple motions until she gets used to it.
 #
-<name "マクドゥ" "!ZA0138">
-「ぁ、ふぁ、あっ、んんぁ」
+<name "Macdo" "!ZA0138">
+"A...ahh...ah...mmm..."
 #
-　胸の方も、リズミカルに。
+Massaging her chest rhythmically too.
 #
-　どうされるかを予想しやすいようにしてやる。
+I'm making it easy for her to tell what's 
+going to happen.
 #
-<name "マクドゥ" "!ZA0139">
-「ふぁ、ぁ、ぁあ、ん、あ、ふぁっ」
+<name "Macdo" "!ZA0139">
+"Aah...ah...aah...mmm...ah...ahhh..."
 #
-　そして、マクドゥがそれに慣れを見せ始めた頃に、
-　腰の動きに変化を持たせる。
+And as she starts to get used to it, I change
+how I'm moving my hips.
 #
 <background "ev014a02.agf" 10>
-<name "マクドゥ" "!ZA0140">
-「あっ、ひあっ、あ、うあっ、あっ、ああっ」
+<name "Macdo" "!ZA0140">
+"Aah! Ahh! Ah! Aah! Ah! Aaah!"
 #
-　その変化に少しは驚いたようだったが、マクドゥ
-　はすぐに受け入れた。
+She seems a little surprised, but accepts it
+right away.
 #
-<name "マクドゥ" "!ZA0141">
-「ん、んん、ふぁ、ぁっ、ひぁっ、あ……」
+<name "Macdo" "!ZA0141">
+"Mm...mmm...aah...ah...aah...ah..."
 #
-　そして、さらなる刺激を求めて自分から腰を揺す
-　り始めた。
+And then she starts shaking her hips on her
+own for more stimulation.
 #
-　良い感じだ。
+It feels good.
 #
-　俺は自分が喜ぶ事よりも、マクドゥを喜ばせる事
-　を重視して腰を動かす。
+I move my hips, concentrating on pleasuring
+her more than myself.
 #
-<name "マクドゥ" "!ZA0142">
-「ぁ、ふぁ、あっ」
+<name "Macdo" "!ZA0142">
+"Ah...ahh...ah!"
 #
-　俺とマクドゥの肉体がぶつかり、良い音が響く。
+My body hits against hers, making a nice 
+sound.
 #
-<name "マクドゥ" "!ZA0143">
-「んぁ、ぁっ、ぁっ、ふぁぁ……」
+<name "Macdo" "!ZA0143">
+"Mm...ah...ah...aahhh..."
 #
-　不意に、マクドゥが身体の動きを止めた。
+She unexpectedly suddenly stops.
 #
-　が、俺はそれに合わせるようにさらに腰の動きを
-　速めた。
+But I speed up to make up for it.
 #
-<name "マクドゥ" "!ZA0144">
-「ぁ、ぁ、うぁ、ぁ、や、やめ、ふぁ……」
+<name "Macdo" "!ZA0144">
+"Ah...ah...ah...ah...
+ S-Stop...
+ Ahhh..."
 #
-　マクドゥが耐える。
+She holds herself back.
 #
-<name "マクドゥ" "!ZA0145">
-「ぁ……うぁ……」
+<name "Macdo" "!ZA0145">
+"Ah...aah..."
 #
-　だが、俺はそれを許さない。
+But I don't let her.
 #
-　さらに激しく腰を動かし、マクドゥの膣内に深く
-　潜り込み、子宮を突き上げた。
+I move my hips more violently and drive deep
+into her pussy, stabbing at her womb.
 #
 <background "ev014a03.agf" 10>
-<name "マクドゥ" "!ZA0146">
-「ぁ……うぁ、ひ……ぁっ。
-　っ、っ……ふぁぁぁぁぁぁぁぁぁぁっ！！」
+<name "Macdo" "!ZA0146">
+"Ah...aah...ah...ah!
+ Ah...aaaaaaaaaahhhhhhhh!!!"
 #
-　マクドゥが達した。
+She comes.
 #
-　その達したマクドゥの膣内の脈動に誘われるよう
-　に、俺は射精を開始していた。
+Drawn by the throbbing of her pussy as she
+orgasms, I start coming too.
 #
 <background "ev014a04.agf" 10>
-<name "マクドゥ" "!ZA0147">
-「ぁ、うぁ……ぁ…………ぁぁ」
+<name "Macdo" "!ZA0147">
+"Ah...aah...ah...ah...aaaahh..."
 #
-　……
+...
 #
-<name "マクドゥ" "!ZA0148">
-「ぁ……ふぁ」
+<name "Macdo" "!ZA0148">
+"Ah...aah..."
 #
-　本来なら、このまま続けるのが俺だが、今日はこ
-　こまでにしておく。
+Normally, I'd keep going, but that's enough
+for today.
 #
 <music 4>
 <background "bg009a0.agf" 10>
-<name "ダークス">
-「楽になったか？」
+<name "Darx">
+"Feel better?"
 #
 <sprite "ta02a012.agf" 4 4 11>
-<name "マクドゥ" "!ZA0149">
-「……ふん」
+<name "Macdo" "!ZA0149">
+"...Hmph."
 #
-<name "ダークス">
-「駄目だったなら、申し訳ない」
+<name "Darx">
+"If not, I'm sorry."
 #
 <removesprite -1 11>
-　俺はマクドゥの頭を撫でてやる。
+I pat her on the head.
 #
 <sprite "ta02a013.agf" 4 4 11>
-<name "マクドゥ" "!ZA0150">
-「撫でるなっ」
+<name "Macdo" "!ZA0150">
+"Don't touch me."
 #
-<name "ダークス">
-「可愛かったぞ」
+<name "Darx">
+"You were cute."
 #
 <sprite "ta02a012.agf" 4 4 12>
-<name "マクドゥ" "!ZA0151">
-「だ、黙れ」
+<name "Macdo" "!ZA0151">
+"S-Shut up."
 #
-<name "ダークス">
-「また、ストレスを発散したくなったら言ってくれ」
+<name "Darx">
+"If you ever need to relieve some stress
+ again, just tell me."
 #
 <sprite "ta02a013.agf" 4 4 12>
-<name "マクドゥ" "!ZA0152">
-「言うか！」
+<name "Macdo" "!ZA0152">
+"Like hell!"
 #
 <removesprite -1 11>
 \x2B\x78\x78

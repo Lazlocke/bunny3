@@ -1,275 +1,269 @@
 ﻿<music 40>
 <background "bg004a0.agf" 10>
 <sprite "ta08a004.agf" 4 4 11>
-<name "ラキア" "!ZC0363">
-「おや、ダークス様。
-　どうされました？」
+<name "Rakia" "!ZC0363">
+"If it isn't Darx.
+ Can I help you?"
 #
-<name "ダークス">
-「ああ、条件を達成したから証明書類を持ってきた」
+<name "Darx">
+"Yeah, I'm finished with my assignment, so I
+ brought the report."
 #
 <sprite "ta08a023.agf" 4 4 12>
-<name "ラキア" "!ZC0364">
-「……確かに。
-　お疲れ様です」
+<name "Rakia" "!ZC0364">
+"...Indeed.
+ Well done."
 #
-<name "ダークス">
-「しかし、条件が徐々に厳しくなるな」
+<name "Darx">
+"Still, don't these conditions keep getting
+ tougher each time?"
 #
 <sprite "ta08a004.agf" 4 4 12>
-<name "ラキア" "!ZC0365">
-「申し訳ありません。
-　ですが、ダークス様ならこなせると信じておりま
-　す」
+<name "Rakia" "!ZC0365">
+"I'm very sorry, but I have faith that you can
+ handle them."
 #
-<name "ダークス">
-「……」
+<name "Darx">
+"..."
 #
 <sprite "ta08a002.agf" 4 4 12>
-<name "ラキア" "!ZC0366">
-「あの？
-　なにか？」
+<name "Rakia" "!ZC0366">
+"Um, what is it?"
 #
 <removesprite -1 11>
-　俺はラキアさんを物陰に連れ込む。
+I pull Rakia into a corner.
 #
 <music 49>
 <background "ev041a00.agf" 10>
-<name "ラキア" "!ZC0367">
-「ぁ、ちょ、ちょっと、ダークス様？」
+<name "Rakia" "!ZC0367">
+"Ah... H-Hold on, Darx?"
 #
-<name "ダークス">
-「駄目か？」
+<name "Darx">
+"No?"
 #
-　俺はそう言いながら、ラキアさんのお尻を撫で回
-　す。
+I stroke her butt as I speak.
 #
-<name "ラキア" "!ZC0368">
-「……も、もう。
-　じゃあ、一回だけ……
-　でも、これでお怒りは鎮めてくださいね」
+<name "Rakia" "!ZC0368">
+"...H-Honestly.
+ Then, just once, but please let this calm
+ your temper."
 #
-<name "ダークス">
-「別に怒ってないよ」
+<name "Darx">
+"I'm not mad."
 #
-<name "ラキア" "!ZC0369">
-「そうですか？
-　そんな風には見えませんけど」
+<name "Rakia" "!ZC0369">
+"Really?
+ It doesn't seem that way to me."
 #
-<name "ダークス">
-「じゃあ、怒ってる」
+<name "Darx">
+"Okay, then I am mad."
 #
-<name "ラキア" "!ZC0370">
-「はい、わかりました。
-　では、ん、ぁ……」
+<name "Rakia" "!ZC0370">
+"Yes, I understand.
+ So...mm...ah..."
 #
-　俺はラキアさんのスカートを捲り上げた。
+I lift her skirt.
 #
 <background "ev041b00.agf" 10>
-<name "ラキア" "!ZC0371">
-「ぁ……そんなにじっくり見ないでください」
+<name "Rakia" "!ZC0371">
+"Ah...
+ Please don't stare so hard."
 #
-<name "ダークス">
-「じゃあ」
+<name "Darx">
+"Then..."
 #
-　下着越しに、ラキアさんのお尻を撫でる。
+I stroke her butt over her underwear.
 #
-<name "ラキア" "!ZC0372">
-「んぁ……ぁ、その……」
+<name "Rakia" "!ZC0372">
+"Mm...ah... 
+ Um..."
 #
-<name "ダークス">
-「わかってる」
+<name "Darx">
+"I know."
 #
-　このまま続けたら、下着が汚れる事を心配してい
-　るのだろう。
+She's worried about her clothes getting dirty
+if I keep this up.
 #
-　俺はラキアさんの下着をゆっくりとずらした。
+I slowly lower her underwear.
 #
 <background "ev041c00.agf" 10>
-<name "ラキア" "!ZC0373">
-「ぁ……」
+<name "Rakia" "!ZC0373">
+"Ah..."
 #
-　ラキアさんの陰部が丸見えになる。
+All of her is completely visible.
 #
-　俺は早々に、そこに顔を近づけ、舌を伸ばして愛
-　撫を始めた。
+I immediately bring my face close, reach out
+with my tongue, and begin caressing her. 
 #
-<name "ラキア" "!ZC0374">
-「ぁ、ん、んんぁ……」
+<name "Rakia" "!ZC0374">
+"Ah...mm...mmm..."
 #
-　ラキアさんは、受け入れるつもりになっているの
-　で、あっと言う間に陰部は愛液でベトベトになっ
-　ていく。
+Because she has every intention of accepting
+me, her entrance immediately gets dripping
+wet.
 #
-<name "ラキア" "!ZC0375">
-「ふぁ……ぁっ」
+<name "Rakia" "!ZC0375">
+"Aah...ah..."
 #
-　俺はラキアさんの陰部から顔を離し、代わりに腰
-　で暴発しそうなほど大きくなっているモノを近づ
-　けた。
+I move away and instead bring out my dick,
+already big enough and ready to explode.
 #
 <background "ev041c01.agf" 10>
-<name "ラキア" "!ZC0376">
-「ん、んんっ」
+<name "Rakia" "!ZC0376">
+"Mm...mmm..."
 #
-　俺のモノ先がラキアさんの陰部を分け入り、膣口
-　にハマる。
+My dick goes through her lips and enters her.
 #
-　そして、そのままゆっくりと腰に力を入れると、
-　俺のモノは吸い込まれるようにラキアさんの膣内
-　に潜り込んでいく。
+And as I slowly push forward, it sinks deep
+inside of her like it's being sucked in.
 #
-<name "ラキア" "!ZC0377">
-「んはぁ……」
+<name "Rakia" "!ZC0377">
+"Mmmm..."
 #
-　俺のモノ先がラキアさんの膣奥を突くと同時に発
-　せられた甘い声。
+She moans at the same time as I pierce her.
 #
-　それを合図にしたかのように、俺の腰が激しく動
-　き出す。
+And as if that was a signal, I intensely start
+thrusting my hips.
 #
-<name "ラキア" "!ZC0378">
-「んぁ、ふぁ、あっ、んん、ダ、ダークス、様っ、
-　ふぁ、ぁ、ぁ、んぁぁぁっ！」
+<name "Rakia" "!ZC0378">
+"Mm...aah...ah...mm... D-Darx...
+ Aah...ah...ah...aaah!"
 #
-　俺の激しい動きに対し、ラキアさんはジッとして
-　動かない。
+She holds still against my intense movements.
 #
-<name "ラキア" "!ZC0379">
-「ひぅ、ひぅぁ、あ、んぁ、ふぁ、あんっ、んぁっ、
-　や、やぁ、ひぁ、ひぁぅぁ、ぁぁぁひっ」
+<name "Rakia" "!ZC0379">
+"Ah! Ahh! Ah! Ahh! Ah! Aah! Ah!
+ Ah! Aah! Ahhh! Ah! Aaaahhh! Ahhh!"
 #
-　俺の好きなようにしろと言う事だろう。
+Like she's telling me to do whatever I want.
 #
-<name "ラキア" "!ZC0380">
-「あん、んっ、んんぁ、ふぁ、ふぁ、ぁっ」
+<name "Rakia" "!ZC0380">
+"Aah! Ahh! Mmmm! Ahhh! Ahh! Ah!"
 #
-　そう察した俺は、ラキアさんのお尻に身体をぶつ
-　け、激しい音を立てながら一回目の射精に向かっ
-　た。
+Which is why I slam against her butt, aiming
+to come right away through the intense sounds.
 #
-<name "ラキア" "!ZC0381">
-「ぁ、んぁ、あっ、ふぁ、ぁっ、ぁっ、ひぁ」
+<name "Rakia" "!ZC0381">
+"Ah! Aah! Ah! Ahh! Ah! Ahh! Aah!"
 #
-　だが、勝手に俺だけ射精するような真似はしない。
+But I don't intend to come on my own.
 #
-<name "ラキア" "!ZC0382">
-「ひ、ひっ、ひぁっ、うぁ、あっ、だ、駄目、ひぁ、
-　そ、そこは、ぁっ」
+<name "Rakia" "!ZC0382">
+"Ah! Ah! Ah! Aah! Ah!
+ N-No! Aah!
+ T-That spot's... Ah!"
 #
-　そう、俺がラキアさんを喜ばせても問題は無い筈
-　だ。
+Yeah, she won't have any complaints if I
+pleasure her too.
 #
-<name "ラキア" "!ZC0383">
-「ぁ、ぁ、ぁ……」
+<name "Rakia" "!ZC0383">
+"Ah...ah...ah..."
 #
-　俺はラキアさんをイかせようとモノを動かし、そ
-　して達すると思った瞬間にラキアさんにキスをし
-　た。
+I move to try to make her come too, and kiss
+her right at the moment I know she's close.
 #
-<name "ラキア" "!ZC0384">
-「むううううううううっ！」
+<name "Rakia" "!ZC0384">
+"Mmmmmmmmmmm!!!"
 #
-　そして、俺の射精。
+And then I come.
 #
-　ドクンッドクンッドクンッとモノを震わせながら、
-　ラキアさんの子宮に精液を流し込んでいく。
+My dick throbs and pours semen into her womb.
 #
 <background "ev041c02.agf" 10>
-<name "ラキア" "!ZC0385">
-「ん、んんんんっ……」
+<name "Rakia" "!ZC0385">
+"Mm...mmmmmmm..."
 #
-　俺は自分の長い射精が終わるまで、ラキアさんと
-　のキスを楽しみ続けた。
+I enjoy kissing her until my long ejaculation
+finishes.
 #
 <background "ev041c03.agf" 10>
-<name "ラキア" "!ZC0386">
-「ぁ、うぁ……ぁ……も、もう、キスする体位じゃ
-　ないと思います」
+<name "Rakia" "!ZC0386">
+"Ah...aah...ah...
+ H-Honestly, that isn't a position for
+ kissing..."
 #
-<name "ダークス">
-「そう？」
+<name "Darx">
+"Oh?"
 #
-　十分に堪能できた、つもりだが。
+I think we both enjoyed it though.
 #
-<name "ラキア" "!ZC0387">
-「それと、どうしてまた腰を動かしているんですか？」
+<name "Rakia" "!ZC0387">
+"And why are you moving your hips again?"
 #
-<name "ダークス">
-「二回目」
+<name "Darx">
+"Another time."
 #
-<name "ラキア" "!ZC0388">
-「……ですよね。
-　んぁ、ふぁ、も、もう……諦めました。
-　好きにしてください」
+<name "Rakia" "!ZC0388">
+"...Very well.
+ Mmm...aah... H-Honestly... I give up.
+ Do whatever you like."
 #
-<name "ダークス">
-「ああ」
+<name "Darx">
+"Yeah."
 #
-　俺はラキアさんとの行為を楽しみ、ラキアさんの
-　二回目の絶頂と共に、そのお尻に精液をぶっかけ
-　た。
+I enjoy myself with her, and for the second
+time, come over her ass.
 #
 <background "ev041c05.agf" 10>
-<name "ラキア" "!ZC0389">
-「ぁ、ん、んぁ…………そ、外ですか？」
+<name "Rakia" "!ZC0389">
+"Ah...mm...mm...
+ O-Outside?"
 #
-<name "ダークス">
-「基本、膣内射精派の俺だが、ラキアさんには掛け
-　たくなる」
+<name "Darx">
+"I normally prefer to come inside, but I 
+ wanted to mark you."
 #
-<name "ラキア" "!ZC0390">
-「ど、どういう意味ですか？」
+<name "Rakia" "!ZC0390">
+"W-What do you mean?"
 #
-<name "ダークス">
-「ラキアさんを俺の精液塗れにしたい」
+<name "Darx">
+"I wanted to paint you with my semen."
 #
-<name "ラキア" "!ZC0391">
-「ぇ、ぁ、ダークス様」
+<name "Rakia" "!ZC0391">
+"Ah...ah...
+ Darx..."
 #
-<name "ダークス">
-「ラキアさん」
+<name "Darx">
+"Rakia."
 #
-　俺はラキアさんを離さず、行為を続けた。
+I didn't let her go for a long time.
 #
 <background "bg017a0.agf" 10>
 <music 40>
 <background "bg004a0.agf" 10>
 <sprite "ta34b000.agf" 4 4 11>
-<name "商会メイド" "!AC0203">
-「ダークス様。
-　ラキア様を知りませんか？」
+<name "Company Maid" "!AC0203">
+"Darx, do you know where Rakia is?"
 #
-<name "ダークス">
-「あー、今日は病欠だ」
+<name "Darx">
+"Oh, she's out sick today."
 #
 <sprite "ta34b002.agf" 4 4 12>
-<name "商会メイド" "!AC0204">
-「え？
-　あのラキア様が？」
+<name "Company Maid" "!AC0204">
+"Huh?
+ Rakia is?"
 #
-<name "ダークス">
-「ははは。
-　詮索は止めてやってくれ」
+<name "Darx">
+"Hahaha.
+ No questions."
 #
 <sprite "ta34b001.agf" 4 4 12>
-<name "商会メイド" "!AC0205">
-「はぁ」
+<name "Company Maid" "!AC0205">
+"Um..."
 #
 <removesprite -1 11>
 <music 11>
 <background "bg016a0.agf" 10>
-　ラキアさんが動けなくなるほど続けた俺は、満足
-　して帰る事にした。
+I didn't stop until she could no longer stand
+straight, and then went home satisfied.
 #
-<name "ラキア" "!ZC0392" "ka08a111.agf">
-「ダークス様。
-　後で怖いですからね」
+<name "Rakia" "!ZC0392" "ka08a111.agf">
+"Darx, be afraid of what comes after this."
 #
-<name "ダークス">
-「……」
+<name "Darx">
+"..."
 #
-　もちろん、ラキアさんをラキアさんの家まで、丁
-　寧に送ってからだ。
+Of course, after I very politely made sure she
+got home okay.
 #
 \x78\x78

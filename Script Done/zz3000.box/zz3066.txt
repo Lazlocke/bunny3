@@ -1,57 +1,58 @@
 ﻿<music 49>
 <background "ev041c05.agf" 10>
-<name "ラキア" "!ZC0413">
-「ふぁ……ぁ……ぁぁ……
-　うう、またこんなに精液塗れにされてしまいまし
-　た……」
+<name "Rakia" "!ZC0413">
+"Aah...ah...aahh...
+ Oooh... 
+ You smeared me in so much semen again..."
 #
-<name "ダークス">
-「駄目だった？」
+<name "Darx">
+"I shouldn't have?"
 #
-<name "ラキア" "!ZC0414">
-「ここまでされると、着替えに戻らないといけませ
-　ん。
-　それに、シャワーも浴びないとお客様の前には出
-　れませんから」
+<name "Rakia" "!ZC0414">
+"When it's this bad, I need to change clothes
+ before going back.
+ And if I don't take a shower, I can't go in
+ front of customers."
 #
-<name "ダークス">
-「じゃあ、もう少し徹底的にやっても同じだな」
+<name "Darx">
+"Then it's the same if I go a little further."
 #
-<name "ラキア" "!ZC0415">
-「え？
-　あ、ま、待って、ダークス様。
-　待って……ひぁ、あっ、ああああっ」
+<name "Rakia" "!ZC0415">
+"Huh?
+ Ah, w-wait, Darx.
+ Wait... Aah! Ah! Aahhh!"
 #
-　俺はラキアさんとの行為を、存分に楽しんだ。
+I fully enjoyed myself with her.
 #
-<name "ラキア" "!ZC0416">
-「う、後ろの穴まで使われてしまった……」
+<name "Rakia" "!ZC0416">
+"Y-You even used the other hole..."
 #
-<name "ダークス">
-「ラキアさん」
+<name "Darx">
+"Rakia."
 #
-<name "ラキア" "!ZC0417">
-「なんですか？」
+<name "Rakia" "!ZC0417">
+"What?"
 #
-<name "ダークス">
-「ラキアさん、ラキアさん、ラキアさん」
+<name "Darx">
+"Rakia, Rakia, Rakia."
 #
-　発情した犬のように、俺はラキアさんに抱きつい
-　た。
+I cling to her like a horny dog.
 #
-<name "ラキア" "!ZC0418">
-「ダークス様？
-　あ、また、大きくなって、ちょ、だ、駄目、シャ
-　ワー浴びたのに、あ、あ、あぁあぁっ！」
+<name "Rakia" "!ZC0418">
+"Darx?
+ Ah... It's getting big again...
+ Hey, n-no, I just took a shower...
+ Ah! Ah! Aaahhh!"
 #
-　その日、ラキアさんはお店を欠席した。
+She didn't get back to work in the shop that
+day.
 #
-　あと、俺にあだ名がついた。
+And I got a new nickname.
 #
-<name "ラキア" "!ZC0419">
-「は、発情犬」
+<name "Rakia" "!ZC0419">
+"H-Horny dog."
 #
-　不名誉なあだ名だが、ラキアさんから言われる分
-　には受け止めよう。
+It's an unpleasant nickname, but I'll accept
+it from her.
 #
 \x78\x78
