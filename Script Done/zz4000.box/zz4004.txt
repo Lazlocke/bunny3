@@ -1,108 +1,108 @@
 ﻿<music 10>
 <background "ev079a00.agf" 10>
-<name "ファレン" "!FB0165">
-「アオ、作業は？」
+<name "Farren" "!FB0165">
+"Ao, how's the work coming?"
 #
-<name "アオ" "!WA0157">
-「なんとか」
+<name "Ao" "!WA0157">
+"It's getting there."
 #
-<name "ファレン" "!FB0166">
-「タマガの方は？」
+<name "Farren" "!FB0166">
+"What about you, Tamaga?"
 #
-<name "タマガ" "!PB0120">
-「問題無い」
+<name "Tamaga" "!PB0120">
+"No problems."
 #
-<name "ファレン" "!FB0167">
-「ロッタ、遊ばないようにね」
+<name "Farren" "!FB0167">
+"Lotta, quit playing around."
 #
-<name "ロッタ" "!HB0097">
-「ちょっとー。
-　どうして私が遊んでるって決め付けるの」
+<name "Lotta" "!HB0097">
+"Hey. Why is it so obvious to you I'm playing?"
 #
-<name "ファレン" "!FB0168">
-「遊んでないの？」
+<name "Farren" "!FB0168">
+"Are you not?"
 #
-<name "ロッタ" "!HB0098">
-「遊んでいるけど……」
+<name "Lotta" "!HB0098">
+"Maybe I am, but..."
 #
-<name "ファレン" "!FB0169">
-「サボらないで、頑張りなさい。
-　ここが完成しないと、魔王様が困るからね」
+<name "Farren" "!FB0169">
+"Don't slack off.
+ Work hard.
+ If this doesn't get finished, the Overlord
+ will be in trouble."
 #
-<name "ロッタ" "!HB0099">
-「はーい」
+<name "Lotta" "!HB0099">
+"Okaaaay."
 #
-<name "ラフィノー" "!EB0093">
-「ファレン様……じゃなくて、ファレンさん。
-　仮門が完成しました。
-　確認して貰えますか」
+<name "Raffino" "!EB0093">
+"Miss Farren... I mean, Farren, the temporary
+ gate is finished.
+ Can you check it?"
 #
-<name "ファレン" "!FB0170">
-「ええ。
-　しかし、なんで私が監督なのかしら？」
+<name "Farren" "!FB0170">
+"Yes, but since when am I in charge of that?"
 #
-<name "ラフィノー" "!EB0094">
-「無難だからじゃないですか？」
+<name "Raffino" "!EB0094">
+"Isn't it for security?"
 #
-<name "ファレン" "!FB0171">
-「無難……」
+<name "Farren" "!FB0171">
+"Security..."
 #
-<name "ラフィノー" "!EB0095">
-「では、ファレンさんが監督を指名するとしたら、
-　誰にします？」
+<name "Raffino" "!EB0095">
+"I mean, if you put one of them in charge, 
+ who is it?"
 #
-<name "イシュ" "!AB0087">
-「あはははは」
+<name "Ish" "!AB0087">
+"Hahahaha!"
 #
-<name "ヤーヌ" "!NB0062">
-「こらー、遊ばない！」
+<name "Yahnu" "!NB0062">
+"Hey! No playing around!"
 #
-<name "イシュ" "!AB0088">
-「遊んでないよ。
-　ほら、完成！」
+<name "Ish" "!AB0088">
+"I'm not playing. 
+ See? All done!"
 #
-<name "ヤーヌ" "!NB0063">
-「……完成してるわね」
+<name "Yahnu" "!NB0063">
+"...Finished, you say."
 #
-<name "ナイン" "!QA0120">
-「大半、私が作ったんだけどね」
+<name "Nein" "!QA0120">
+"I made most of it though."
 #
-<name "ヒビ" "!DB0053">
-「あのー」
+<name "Hibi" "!DB0053">
+"Um..."
 #
-<name "ヤーヌ" "!NB0064">
-「なに？」
+<name "Yahnu" "!NB0064">
+"What?"
 #
-<name "ヒビ" "!DB0054">
-「それ、作る場所が違ってますよ」
+<name "Hibi" "!DB0054">
+"You built that in the wrong place."
 #
-<name "ヤーヌ" "!NB0065">
-「え？」
+<name "Yahnu" "!NB0065">
+"Huh?"
 #
-<name "イシュ" "!AB0089">
-「あれ？」
+<name "Ish" "!AB0089">
+"Huh?"
 #
-<name "ナイン" "!QA0121">
-「本当だ！
-　あ、地図を逆さまに見てた！」
+<name "Nein" "!QA0121">
+"You're right!
+ Ah! I was looking at the map upside down!"
 #
-<name "ファレン" "!FB0172">
-「…………………………なかなか、難問ね」
+<name "Farren" "!FB0172">
+".........That's a difficult question."
 #
-<name "ラフィノー" "!EB0096">
-「でしょ」
+<name "Raffino" "!EB0096">
+"Right?"
 #
-<name "ラフィノー" "!EB0097">
-「それに、なんだかんだで一生懸命ですから。
-　ファレンさんは」
+<name "Raffino" "!EB0097">
+"Besides, it seems like you're working harder
+ than anybody."
 #
-<name "ファレン" "!FB0173">
-「そ、そんなつもりは……」
+<name "Farren" "!FB0173">
+"I-I didn't mean to..."
 #
-<name "ラフィノー" "!EB0098">
-「魔王様の為に頑張りましょう」
+<name "Raffino" "!EB0098">
+"Let's all work hard for the Overlord."
 #
-<name "ファレン" "!FB0174">
-「ええ」
+<name "Farren" "!FB0174">
+"Yes."
 #
 \x78\x78

@@ -1,130 +1,135 @@
 ﻿<music 10>
 <background "ev008a00.agf" 10>
-<name "ソフィア" "!ZB1005">
-「まったくもー」
+<name "Sofia" "!ZB1005">
+"Honestly."
 #
-<name "ソフィア" "!ZB1006">
-「こちらの仕事、しっかりお願いしますね」
+<name "Sofia" "!ZB1006">
+"Please make sure you do your job."
 #
-<name "ダークス">
-「はいはい」
+<name "Darx">
+"Yeah, yeah."
 #
-<name "ソフィア" "!ZB1007">
-「あと、こっちの書類も」
+<name "Sofia" "!ZB1007">
+"Also, these documents."
 #
-<name "ダークス">
-「了解」
+<name "Darx">
+"Roger."
 #
-<name "ソフィア" "!ZB1008">
-「メリル様から、ご報告です」
+<name "Sofia" "!ZB1008">
+"Meryl is here to report."
 #
-<name "メリル" "!HA0080">
-「非統治エリアの勢力二つが、新たに臣従を申し出
-　て来ましたので、以前の指示通りに受け入れまし
-　た」
+<name "Meryl" "!HA0080">
+"Two forces in the independent area have made
+ new offers to become vassals, which we 
+ accepted as per your orders."
 #
-<name "メリル" "!HA0081">
-「それと、フォーゼロッテ宮の王宮周辺の修理が完
-　了しました。
-　ご報告致します」
+<name "Meryl" "!HA0081">
+"Also, the repairs around the royal palace in
+ Forzelotte's Shrine have finished.
+ That's all I have to report."
 #
-<name "ダークス">
-「王宮周辺は後回しだと言わなかったか？」
+<name "Darx">
+"Didn't you say before that we were putting off
+ that area?"
 #
-<name "メリル" "!HA0082">
-「その予定でしたが、有志の方々がここは大事な場
-　所だからと」
+<name "Meryl" "!HA0082">
+"That was the plan, but volunteers insisted
+ that it was important."
 #
-<name "ソフィア" "!ZB1009">
-「魔王様、尊敬されてますね」
+<name "Sofia" "!ZB1009">
+"Overlord, you are very revered."
 #
-<name "メリル" "!HA0083">
-「いえ、フォーゼロッテ様、コゼロット様の通行に
-　邪魔なのでさっさと直そうと……」
+<name "Meryl" "!HA0083">
+"No. Forzelotte wanted it fixed right away 
+ because it's a path that Kozelotte uses..."
 #
-<name "メリル" "!HA0084">
-「すみません。
-　言わなくて良い事でした」
+<name "Meryl" "!HA0084">
+"Sorry.
+ I should've held my tongue."
 #
-<name "ダークス">
-「まったくだ。
-　ご苦労」
+<name "Darx">
+"Definitely.
+ Good work."
 #
-<name "メリル" "!HA0085">
-「時々、フォーゼロッテ宮の方にもお越し下さい」
+<name "Meryl" "!HA0085">
+"Please come visit us in Forzelotte's Shrine
+ once in a while."
 #
-<name "ダークス">
-「ああ」
+<name "Darx">
+"Yeah."
 #
-<name "ソフィア" "!ZB1010">
-「続いて、ラキア様からご報告です」
+<name "Sofia" "!ZB1010">
+"Rakia will report next."
 #
-<name "ラキア" "!ZC0472">
-「復興計画の見直し案に関して、予算の変更があり
-　ましたのでご報告を。
-　詳細はこちらに」
+<name "Rakia" "!ZC0472">
+"I have to report that there's been a change in
+ the budget in the reconstruction plans.
+ Please see here."
 #
-<name "ダークス">
-「安くなったのか？」
+<name "Darx">
+"It's cheaper?"
 #
-<name "ラキア" "!ZC0473">
-「アンゼルム商会には負けてられませんので」
+<name "Rakia" "!ZC0473">
+"We can't let Anselm outdo us."
 #
-<name "ダークス">
-「悪いな」
+<name "Darx">
+"Sorry."
 #
-<name "ラキア" "!ZC0474">
-「いえ。
-　これからも、ギュンギュスカー商会をよろしくお
-　願いします」
+<name "Rakia" "!ZC0474">
+"It's fine.
+ Gunguskar looks forward to your continued
+ business."
 #
-<name "ダークス">
-「ああ」
+<name "Darx">
+"Yeah."
 #
-<name "ラキア" "!ZC0475">
-「ソフィアも、頑張ってくださいね」
+<name "Rakia" "!ZC0475">
+"Sofia, you keep working hard too, okay?"
 #
-<name "ソフィア" "!ZB1011">
-「はい」
+<name "Sofia" "!ZB1011">
+"Yes, ma'am."
 #
-<name "ラキア" "!ZC0476">
-「あと……アンゼルム商会のスイセン様は、ダーク
-　ス様にお体を差し出しているそうですね」
+<name "Rakia" "!ZC0476">
+"And... I hear that Suisen of Anselm is now
+ offering herself to him?"
 #
-<name "ソフィア" "!ZB1012">
-「え、あ……」
+<name "Sofia" "!ZB1012">
+"Huh?
+ Oh..."
 #
-<name "ラキア" "!ZC0477">
-「負けてはいけませんよ」
+<name "Rakia" "!ZC0477">
+"Don't let her outdo you."
 #
-<name "ソフィア" "!ZB1013">
-「ははは……頑張ります」
+<name "Sofia" "!ZB1013">
+"Hahaha...
+ I'll try."
 #
-<name "ラキア" "!ZC0478">
-「では、失礼します」
+<name "Rakia" "!ZC0478">
+"Then, excuse me."
 #
-　ラキアさんが部屋から出て行く。
+She leaves the room.
 #
-<name "ダークス">
-「負けてはいないよな」
+<name "Darx">
+"You're not being outdone, you know?"
 #
-<name "ソフィア" "!ZB1014">
-「ええ。
-　回数も愛情も、私の方が上です」
+<name "Sofia" "!ZB1014">
+"Yes.
+ I have her beat, in both times and affection."
 #
-<name "ダークス">
-「……頼りにしているぞ」
+<name "Darx">
+"...I'm counting on you."
 #
-<name "ソフィア" "!ZB1015">
-「お任せください」
+<name "Sofia" "!ZB1015">
+"Leave it to me."
 #
-　ソフィアの返事に、俺は満足して頷いた。
+I nod in satisfaction at her reply.
 #
-<name "ソフィア" "!ZB1016">
-「そして、こちらの書類をご覧下さい。
-　サインが二箇所、必要です」
+<name "Sofia" "!ZB1016">
+"And please look at this document.
+ It needs two signatures."
 #
-<name "ダークス">
-「はいはい、俺も頑張るよ」
+<name "Darx">
+"Yeah, yeah.
+ I'll do my best too."
 #
 \x78\x78

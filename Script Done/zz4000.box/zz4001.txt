@@ -1,169 +1,187 @@
 ﻿<music 11>
 <background "bg001a3.agf" 10>
-　俺の分身体は消滅し、戦いは終わった。
+My other body was gone, and the battle was 
+over.
 #
-　さすがに被害が大きかったのか、非統治エリアの
-　者達は街に救援を要請。
-　統治下に入る事になった。
+As we expected, the damage was severe, and the
+people still in the independent areas asked for
+help from the city.
+They decided to join us.
 #
-　また、残って抵抗していた天界の者達も、ワダツ
-　ミが倒れた事による指導者不在が原因で、順次引
-　き上げを開始していた。
+And the Angels who had stayed behind to keep
+fighting slowly began to withdraw without 
+Wadatsumi leading them and pulling their
+strings.
 #
-　分身体の被害が大きくてどうしようもなくなった
-　のが本音だろう。
+But the truth might be that they suffered
+extensive damage from my tentacles and could
+no longer effectively fight.
 #
-　まだ一部、非統治エリアで頑張っている勢力はあ
-　るが、表立って攻撃してくる事はないだろうし、
-　あっても問題の無いレベルだ。
+There are still some people in the independent
+areas still resisting, but they're unlikely to
+seriously attack us, so it's not worth worrying
+too much about.
 #
-　しかし、だからと言って喜んでもいられない。
+However, that doesn't mean we can celebrate.
 #
-　分身体の侵攻により、街やフォーゼロッテ宮は大
-　きな被害を受けた。
+My body's attack severely damaged the city and
+Forzelotte's Shrine.
 #
-　場所によっては、城の落下より酷い。
+In some places, it's even worse than when the
+castles fell.
 #
-　復旧にどれだけ掛かるかを考えると、頭が痛い。
+It hurts my head trying to think about how long
+it's going to take to rebuild.
 #
-<name "ソフィア" "!ZB0999">
-「まあ、なんとかなりますよ」
+<name "Sofia" "!ZB0999">
+"Well, we'll manage."
 #
-<name "ダークス">
-「……そうだな。
-　なんとかしよう」
+<name "Darx">
+"...Yeah.
+ We'll manage."
 #
 <music 19>
 <background "ev035a00.agf" 10>
-<name "キュリハ" "!FA0552">
-「んぁ、ふぁ、ああん、魔王様」
+<name "Kyuriha" "!FA0552">
+"Mm! Aah! Aaah!
+ Overlord!"
 #
-<name "ミアルテ" "!SA0268">
-「ふぁん、んぁ、そ、そこは、ふぁっ」
+<name "Miartei" "!SA0268">
+"Aah! Aah!
+ T-That's my... Aaah!"
 #
-<name "スイセン" "!YA0310">
-「そ、そんなに胸を掴まれては……」
+<name "Suisen" "!YA0310">
+"I-If you grab my breasts so much..."
 #
-<name "ミアルテ" "!SA0269">
-「ぁ、ふぁ、ぁ、んんっ」
+<name "Miartei" "!SA0269">
+"Ah! Aah! Ah! Mmm!"
 #
-<name "キュリハ" "!FA0553">
-「んぁ、ふぁっ」
+<name "Kyuriha" "!FA0553">
+"Mm! Aah!"
 #
-<name "スイセン" "!YA0311">
-「ぁ、ぁ、ふぁっ」
+<name "Suisen" "!YA0311">
+"Ah! Ah! Ahh!"
 #
-　俺はミアルテの膣内に射精を開始した。
+I start to come inside Miartei.
 #
 <background "ev035a01.agf" 10>
-<name "ミアルテ" "!SA0270">
-「んんぁ……」
+<name "Miartei" "!SA0270">
+"Mmmm..."
 #
-<name "キュリハ" "!FA0554">
-「ぁぁん、次は私ですね」
+<name "Kyuriha" "!FA0554">
+"Aaah.
+ Me next."
 #
-<name "スイセン" "!YA0312">
-「ふぁ、ん、そ、そろそろ、胸を、んぁ、ぁ」
+<name "Suisen" "!YA0312">
+"Aah...mmm... 
+ H-Haven't you... my breasts...
+ Mm...aah..."
 #
-<name "ダークス">
-「なんだ、もっと強く揉んで欲しいのか？」
+<name "Darx">
+"What? You want me to rub them harder?"
 #
-<name "キュリハ" "!FA0555">
-「ふぁ……んん。
-　スイセンも、ずいぶんと素直になりましたね」
+<name "Kyuriha" "!FA0555">
+"Aahh...mmm...
+ Suisen's become quite well-behaved as well."
 #
-<name "ミアルテ" "!SA0272">
-「ええ、そうですね」
+<name "Miartei" "!SA0272">
+"Yes, she has."
 #
-<name "スイセン" "!YA0313">
-「そんな事は……」
+<name "Suisen" "!YA0313">
+"That's not..."
 #
-<name "キュリハ" "!FA0556">
-「こうして肌をさらし合っているのです。
-　いまさらですよ」
+<name "Kyuriha" "!FA0556">
+"We are all completely exposed to each other
+ here.
+ There's no point hiding it."
 #
-<name "ミアルテ" "!SA0273">
-「私もそう思います」
+<name "Miartei" "!SA0273">
+"I feel the same way."
 #
-<name "スイセン" "!YA0314">
-「私は、その……スーちゃんのお礼と言うか」
+<name "Suisen" "!YA0314">
+"I, um...
+ It's just thanks for Sue..."
 #
-<name "キュリハ" "!FA0557">
-「そこまでスーちゃんが心配なら、危険な事をさせ
-　てはいけません」
+<name "Kyuriha" "!FA0557">
+"If you're so worried about her, then you
+ shouldn't be forcing her to do anything so
+ dangerous."
 #
-<name "ミアルテ" "!SA0274">
-「そうよね」
+<name "Miartei" "!SA0274">
+"That's right."
 #
-<name "スイセン" "!YA0315">
-「危険は無いって言われたから……」
+<name "Suisen" "!YA0315">
+"He said it wouldn't be dangerous..."
 #
-<name "キュリハ" "!FA0558">
-「商売人なのに、そういった所が弱いのよね」
+<name "Kyuriha" "!FA0558">
+"You may be a merchant, but you do have your
+ weak points."
 #
-<name "ミアルテ" "!SA0275">
-「ギュンギュスカー商会に負けるワケよ」
+<name "Miartei" "!SA0275">
+"No wonder Gunguskar is beating you."
 #
-<name "スイセン" "!YA0316">
-「負けてません。
-　この街の復興に、アンゼルム商会はどれだけ頑張っ
-　ているか」
+<name "Suisen" "!YA0316">
+"I haven't lost yet.
+ Anselm is hard at work rebuilding the city."
 #
-<name "ダークス">
-「確かに助かっている」
+<name "Darx">
+"It's certainly been helpful."
 #
-<name "スイセン" "!YA0317">
-「ですよね」
+<name "Suisen" "!YA0317">
+"See?"
 #
-<name "ソフィア" "!ZB1000">
-「それは構わないのですが……」
+<name "Sofia" "!ZB1000">
+"That's fine, but..."
 #
-<name "ミアルテ" "!SA0276">
-「うわっ」
+<name "Miartei" "!SA0276">
+"Aah!"
 #
-<name "ダークス">
-「ど、どうした？」
+<name "Darx">
+"W-What is it?"
 #
-<name "ソフィア" "!ZB1001">
-「どうしたじゃありません。
-　何をやっているんですか！」
+<name "Sofia" "!ZB1001">
+"Don't give me that.
+ What do you think you're doing!?"
 #
-<name "ダークス">
-「え、あ、いや、ほら」
+<name "Darx">
+"Huh?
+ Oh, uh, see?"
 #
-<name "キュリハ" "!FA0559">
-「魔王様と天界の友好を図っていたのです」
+<name "Kyuriha" "!FA0559">
+"We were just improving relations between the
+ Overlord and Celestia."
 #
-<name "ミアルテ" "!SA0277">
-「そうです。
-　スイセンも、正式に謝罪したいと言っていました
-　し」
+<name "Miartei" "!SA0277">
+"That's right.
+ Suisen also said she wanted to formally
+ apologize."
 #
-<name "スイセン" "!YA0318">
-「わ、私は別に……」
+<name "Suisen" "!YA0318">
+"I-I didn't exactly..."
 #
-<name "ソフィア" "!ZB1002">
-「アンゼルム商会の活動は非常に助かっていますが、
-　貴女が不在ですので進まない案件がいくつかあり
-　ます。
-　魔王様、キュリハ様、ミアルテ様もです」
+<name "Sofia" "!ZB1002">
+"While Anselm has been very helpful, quite a
+ bit of work has been unable to progress due to
+ your absence.
+ Overlord, Kyuriha, and you too, Miartei."
 #
-<name "ソフィア" "!ZB1003">
-「ここでイチャイチャしている場合ではありません」
+<name "Sofia" "!ZB1003">
+"This is not the time to be flouncing around."
 #
-<name "ミアルテ" "!SA0278">
-「えー、でも」
+<name "Miartei" "!SA0278">
+"Eeeh? But..."
 #
-<name "ソフィア" "!ZB1004">
-「怒りますよ。
-　着替えなさい」
+<name "Sofia" "!ZB1004">
+"I'm already mad.
+ Get dressed."
 #
-<name "ミアルテ" "!SA0279">
-「は、はい」
+<name "Miartei" "!SA0279">
+"Y-Yes, ma'am."
 #
-<name "ルーアルテ" "!RA0249">
-「お姉様のイメージが、どんどんと壊れていく」
+<name "Rualtei" "!RA0249">
+"The image of my sister keeps falling apart."
 #
-　天界の三人とは友好的な関係を築けた。
+I was able to build a cordial relationship with
+the three angels.
 #
 \x78\x78

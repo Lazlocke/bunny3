@@ -1,357 +1,374 @@
 ﻿<music 5>
 <background "bg011a0.agf" 10>
-<name "ダークス">
-「さて、仕事を……ん？」
+<name "Darx">
+"Okay, let's get to work...
+ Hm?"
 #
-<name "ダークス">
-「なんだこれ？」
+<name "Darx">
+"What's this?"
 #
 <sprite "ta34a000.agf" 4 4 11>
-<name "秘書メイド" "!AC0308">
-「あー、ダークス宮に来た冒険者の持ち物です。
-　なんでも、魔王様向きだって担当者が持ってきま
-　したよ」
+<name "Secretary Maid" "!AC0308">
+"Oh, that belonged to an adventurer who came to
+ the Temple of Darx.
+ I believe the person in charge thought you
+ would like it.
 #
-<name "ダークス">
-「俺向き？」
+<name "Darx">
+"It's for me?
 #
 <removesprite -1 11>
-<name "ダークス">
-「まあ、読めばわかるか」
+<name "Darx">
+"Well, maybe I'll read it and see."
 #
-　俺は本を開いた。
+I open the book.
 #
 <background "bg017a0.agf" 10>
 <music 9>
 <background "ev100a00.agf" 10>
-　ちぃっ！
+Tch!
 #
-　なんてこった。
+What the hell!?
 #
-　くそっ、くそっ、くそっ！
+Damn it!
+Damn it!
+Damn it!!!
 #
-　半年掛けて仕込んだ仕事がパーだ！
+Six months of work is ruined!
 #
-　二百万Ｂの仕事だってのに……
+This was a 2,000,000Ｂ job too...
 #
-　挙句、手に入れたのがこの娘だけ？
+And in the end, all I get is this girl?
 #
-　ふざけるな。
+Don't fuck with me.
 #
-　娼館に売っても、二百万Ｂにはならねぇ！
+Even if I sold her to a brothel, she's not
+worth 2,000,000Ｂ!
 #
-　身代金……
+I could ransom her...
 #
-　無理だ。
+That won't work.
 #
-　つーか、こいつが起きて騒いだ時点で終わりだ。
+The moment she wakes up and makes any noise,
+it's all over.
 #
-　マズい。
+This is bad.
 #
-　ヤバイ。
+Shit.
 #
-　くそっ。
+Damn it.
 #
-　どこで間違えた。
+Where did I go wrong?
 #
-　俺は、俺は、こんな場所で……
+I... I...
 #
-<name "ファーリィー" "!WC0001">
-「すぅー……」
+<name "Fahlry" "!WC0001">
+"..."
 #
-　ビ、ビ、ビビらせんじゃねぇ！
+D-D-Don't scare me like that!
 #
-　くそっ。
+Damn it.
 #
-　落ち着け。
+Calm down.
 #
-　俺は何をした。
+What happened?
 #
-　詐欺だ。
+I was tricked.
 #
-　相手は誰だ？
+By who?
 #
-　この街の名士って触れ込みの商人だ。
+The big shot in this city is posing as a
+merchant.
 #
-　だが、裏社会と繋がってた。
+But he's connected to the underworld.
 #
-　それを知った時には、引き返せない所まで話が進
-　んでいた。
+Once I found that out, there was no turning
+back.
 #
-　だから、騙し切るしかないと覚悟した。
+My only choice was to swindle them.
 #
-　そこまでは良い。
+That was all working.
 #
-　俺は詐欺師だ。
+I'm a swindler too.
 #
-　腕に自信はあった。
+I know what I'm doing.
 #
-　あと少し。
+It was after that.
 #
-　そう、本当にあと少しで全てが上手く行く所だっ
-　たのに、この娘が邪魔をした。
+Yeah.
+Everything had almost worked out, and then this
+girl got in the way.
 #
-　ファーリィー。
+Fahlry.
 #
-　騙そうとした商人の娘だ。
+The daughter of the merchant I was trying to
+steal from.
 #
-　考えれば、この娘。
+Thinking back...
 #
-　最初っから俺を疑っていたのかもしれない。
+I think she might've been suspicious of me all
+along.
 #
-　ああ、もうどうでも良い。
+Urgh, I don't care anymore.
 #
-　俺の詐欺は失敗した。
+My scheme failed.
 #
-　相手にバレ、逃げた。
+They found out and ran.
 #
-　しかし、裏社会と繋がっているヤツを敵に回す怖
-　さを、俺は甘く見ていた。
+But I wasn't wary enough of making enemies of
+people connected to the underworld.
 #
-　執拗な追跡。
+They're relentless.
 #
-　やっと潜り込めた、隠れ家の一つ。
+I was finally able to slip into one of their
+hideouts.
 #
-　なんとかなったのは、この娘を人質にしたからだ。
+The only reason I could is because I took this
+girl hostage.
 #
-　だが、一時凌ぎだ。
+But it won't last long.
 #
-　わかっている。
+I know that.
 #
-　どう考えても、俺は詰んでいる。
+Any way you look at it, I'm cornered.
 #
-　殺される。
+They're going to kill me.
 #
-　いやだ。
+No.
 #
-　殺されたくない。
+I don't want to be killed.
 #
-　死にたくない！
+I don't want to die!
 #
-　どうすれば良い！
+What do I do!?
 #
-　俺の手元には何がある？
+What can I do?
 #
-　僅かな金。
+I have a little money.
 #
-　着替え、腐りかけのワイン、錆びたナイフ。
+A change of clothes, spoiled wine, a rusty
+knife.
 #
-　あとは……この娘。
+And... her.
 #
-　……
+...
 #
-<name "ファーリィー" "!WC0002">
-「んぁ……」
+<name "Fahlry" "!WC0002">
+"Mm..."
 #
-　……
+...
 #
-　もう駄目なら……いっそ……
+There's nothing left...
+Or rather...
 #
-　邪悪な考えに支配された俺は、娘の身体に手を伸
-　ばした。
+I reach for her body as evil thoughts begin to
+fill my head.
 #
 <music 52>
 <background "ev101a00.agf" 10>
-　寝息を立てる娘をベッドに縛り、衣服を破ってい
-　く。
+I tie her to the bed and rip off her clothes.
 #
-　ああ……
+Yeah...
 #
-　下着をずらし、女である部分を目にした時、俺の
-　股間のモノは痛いぐらいにそそり立っていた。
+I move her underwear out of the way and look
+at her pussy.
+My dick is already straining painfully.
 #
-　この娘さえ邪魔しなければという苛立ちもあった。
+I'm still frustrated about this girl getting in
+my way.
 #
-　ねじ込む。
+I'm gonna stick it in her.
 #
-　劣等な男の感性だと理解しつつも、それを抑える
-　事を俺は放棄していた。
+I know I'm just being a savage brute, but I
+don't care anymore.
 #
-　自暴自棄。
+I'm desperate.
 #
-　逃避。
+I need to escape.
 #
-　どうとでも言えば良い。
+It doesn't matter either way.
 #
-　俺は今から、この娘を犯す。
+I'm going to fuck her.
 #
 <background "ev101a01.agf" 10>
-<name "ファーリィー" "!WC0003">
-「ん……ぁ……え？」
+<name "Fahlry" "!WC0003">
+"Mm...ah...
+ Huh?"
 #
-　娘が目を覚ました。
+She wakes up.
 #
-　それを合図にしたかのように、俺はモノ先を娘の
-　膣内に捻じ込んだ。
+I take that as a signal and thrust my dick into
+her.
 #
 <background "ev101a02.agf" 10>
-<name "ファーリィー" "!WC0004">
-「ひっ、あひっ」
+<name "Fahlry" "!WC0004">
+"A-Aah!"
 #
-　愛撫も何もしていない。
+No carressing or anything.
 #
-　ただ、ある穴に捻じ込んだだけだ。
+Just shoving it into her hole.
 #
-　そのキツさは、そのまま娘の苦痛となる。
+All her tightness is pain for her.
 #
-<name "ファーリィー" "!WC0005">
-「っ！！」
+<name "Fahlry" "!WC0005">
+"Ah!!!"
 #
-　娘の悲鳴を聞きながら、俺はモノ先をグリグリと
-　力任せに捻じ込んでいく。
+I grind and twist my dick into her as she
+screams.
 #
-　強引に。
+Forcefully.
 #
-　根元まで。
+All the way.
 #
-<name "ファーリィー" "!WC0006">
-「っ、ぎぎっ！」
+<name "Fahlry" "!WC0006">
+"Ngggh!"
 #
-　モノ先が膣内の中ほどで障害にぶつかる。
+The tip of my dick hits an obstacle partway.
 #
-　処女膜か。
+Her hymen?
 #
-　俺は笑いながら、それを一気に貫く。
+I laugh and pierce straight through it.
 #
-<name "ファーリィー" "!WC0007">
-「！！」
+<name "Fahlry" "!WC0007">
+"Nnh!!!"
 #
-　ブチッと肉壁を千切るような音を聞きながら、俺
-　のモノ先はさらに奥へと進んでいく。
+I continue burying it in her despite the fleshy
+ripping sound.
 #
-<name "ファーリィー" "!WC0008">
-「ひっ、ひっ……！」
+<name "Fahlry" "!WC0008">
+"A-Ah!"
 #
-　そして、モノ先が娘の膣奥にぶつかった。
+And finally it hits the back of her pussy.
 #
 <background "ev101a03.agf" 10>
-<name "ファーリィー" "!WC0009">
-「ぁ……ぁ……ひぁ……」
+<name "Fahlry" "!WC0009">
+"Ah...ah...ah..."
 #
-　娘の目に涙が浮かぶ。
+Tears fill her eyes.
 #
-　その様子に、俺の心の中の黒い部分が、さらに黒
-　く染まっていく。
+The black part of my heart turns even blacker
+seeing them.
 #
-　俺は夢中で腰を動かし始めた。
+I start moving my hips in a frenzy.
 #
-<name "ファーリィー" "!WC0010">
-「あひっ、ひっ、ひっ！」
+<name "Fahlry" "!WC0010">
+"Aah! Ah! Ah!"
 #
-　娼婦の穴とは違い、男を知らない娘の膣内は狭く、
-　そして硬い。
+Unlike a whore, her virgin pussy is narrow
+and tight.
 #
-　愛撫をしなかったのは、少し失敗だったと思いな
-　がらも、その所為でこの娘が苦痛を感じているの
-　だから、まあ良いかと考える。
+It's a bit of a shame to not caress her, but
+as long as she's suffering, this is probably
+better.
 #
-<name "ファーリィー" "!WC0011">
-「や、やめっ、止めて……ひっ」
+<name "Fahlry" "!WC0011">
+"S-Stop! Stop it!
+ Ah!"
 #
-　俺は娘の膣内を、ことさら乱暴に掻き回す。
+I slam her pussy harder.
 #
-<name "ファーリィー" "!WC0012">
-「あっ、ああっ、うぁあっ！」
+<name "Fahlry" "!WC0012">
+"Ah! Aaah! Ahhh!"
 #
-　そうしていると、娘の膣内から湧き出したヌメヌ
-　メする液体によって、俺のモノの動きがスムーズ
-　になっていく。
+Liquid starts to gush out of her pussy, letting
+me move smoother.
 #
-<name "ファーリィー" "!WC0013">
-「ぁっ、うぁっ、ぁぁっ！」
+<name "Fahlry" "!WC0013">
+"Ah! Aah! Aaah!"
 #
-　感じて生み出された愛液ではないだろう。
+It's not love juices from arousal.
 #
-　ただ弱い膣内を保護する為の液体だ。
+Just liquid to protect her defenseless pussy.
 #
-　まあ、それが俺の行為を助けるのだから、まぬけ
-　な事だ。
+Well, it helps me, so it's her body being
+stupid.
 #
-<name "ファーリィー" "!WC0014">
-「ぁひっ、ひっ、やめ、やめて、ぁっ、ぁぁっ！」
+<name "Fahlry" "!WC0014">
+"Ah! Aah!
+ Stop it! Stop it!
+ Ah! Aaah!"
 #
-　俺の行為はさらに激しさを増した。
+I thrust faster.
 #
-　獣のように娘を求め続ける。
+Attacking her like an animal.
 #
-　縛られ、身動きが取れない娘。
+She's tied up and can't move.
 #
-　俺の仕事を邪魔してくれた娘。
+She ruined my job.
 #
-　俺は大笑いしながら、モノ先で娘の子宮を強く突
-　いた。
+I laugh as I poke her womb with my dick.
 #
-<name "ファーリィー" "!WC0015">
-「おあっ！」
+<name "Fahlry" "!WC0015">
+"Aaah!"
 #
-　苦痛に歪んだ顔。
+Her face twists in pain.
 #
-　その顔を見ながら、俺は射精を開始した。
+Seeing that makes me start to come.
 #
 <background "ev101a04.agf" 10>
-<name "ファーリィー" "!WC0016">
-「ぁ、ぁ、ひぁ……ぁ……ぁ……」
+<name "Fahlry" "!WC0016">
+"Ah...ah...ah...ah...ah..."
 #
-　ドクドクとまるで娘の子宮に注ぐように精液がモ
-　ノ先から流れ出していく。
+Semen pours out of my dick right into her
+womb.
 #
-<name "ファーリィー" "!WC0017">
-「ぅぁ……ぁ……ひ、酷い……」
+<name "Fahlry" "!WC0017">
+"Ah...ah...
+ H-How could you..."
 #
-　酷い。
+It's cruel.
 #
-　酷いか。
+Cruel?
 #
-　確かにな。
+That's true.
 #
-　だが、まだこれは入り口だ。
+But this is just the beginning.
 #
-　行為は続く。
+I'm not finished.
 #
-<name "ファーリィー" "!WC0018">
-「ぁ、ぁ……」
+<name "Fahlry" "!WC0018">
+"Ah...ah..."
 #
-　俺は笑いながら、娘を犯し続けた。
+I laugh and continue fucking her.
 #
 <background "ev101a05.agf" 10>
-<name "ファーリィー" "!WC0019">
-「ひっ、ひっ、ひぁ……ぁ……」
+<name "Fahlry" "!WC0019">
+"Ah...ah...aah...ah..."
 #
-　娘の全身に精液を浴びせかけるように。
+I spray semen all over her body.
 #
-　執拗に娘の膣内に精液を流し込み続けた。
+And into her pussy over and over again.
 #
-　俺を殺しに来る連中が、ここに踏み込んで来るま
-　で。
+Until the people coming to kill me stop me.
 #
 <background "bg017a0.agf" 10>
 <music 5>
 <background "bg011a0.agf" 10>
 <sprite "ta34a000.agf" 4 4 11>
-<name "秘書メイド" "!AC0309">
-「どうでした？」
+<name "Secretary Maid" "!AC0309">
+"How was it?"
 #
-<name "ダークス">
-「どうもこうも……」
+<name "Darx">
+"It's a bit, um..."
 #
-<name "秘書メイド" "!AC0310">
-「魔王様向きではありませんでしたか？」
+<name "Secretary Maid" "!AC0310">
+"It wasn't to your liking?"
 #
-<name "ダークス">
-「俺向きだったけどさ」
+<name "Darx">
+"I did like it, I guess."
 #
 <removesprite -1 11>
-　周囲にどう思われているか、疑ってしまう俺だっ
-　たが……
+Though I'd curious about how the people around
+me see me...
 #
-<name "ダークス">
-「とりあえず、ちょっと来い」
+<name "Darx">
+"Anyway, come here a minute."
 #
 <sprite "ta34a002.agf" 4 4 11>
-<name "秘書メイド" "!AC0311">
-「え？」
+<name "Secretary Maid" "!AC0311">
+"Huh?"
 #
 <removesprite -1 11>
-　ベッド縛りプレイを楽しむ俺だった。
+I enjoy some bed bondage play.
 #
 \x78\x78

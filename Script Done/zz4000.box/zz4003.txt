@@ -1,84 +1,88 @@
 ﻿<music 41>
 <background "ev046a00.agf" 10>
-<name "コゼロット" "!NA0173">
-「お父様」
+<name "Kozelotte" "!NA0173">
+"Father."
 #
-<name "ダークス">
-「おう」
+<name "Darx">
+"Hey."
 #
-<name "フォーゼロッテ" "!XA0296">
-「ふむ。
-　家族サービスというヤツか？」
+<name "Forzelotte" "!XA0296">
+"Mm.
+ Obligatory family time?"
 #
-<name "ダークス">
-「まあな」
+<name "Darx">
+"Something like that."
 #
-<name "元気な娘" "!HC0195">
-「パパだー」
+<name "Energetic Girl" "!HC0195">
+"It's Daddy!"
 #
-<name "駆け寄る娘" "!SB0264">
-「パパー、パパー」
+<name "Running Girl" "!SB0264">
+"Daddy! Daddy!"
 #
-<name "お淑やかな娘" "!RB0175">
-「お父様ですよ」
+<name "Graceful Girl" "!RB0175">
+"Father."
 #
-<name "元気な娘" "!HC0196">
-「あははは」
+<name "Energetic Girl" "!HC0196">
+"Hahaha..."
 #
-<name "フォーゼロッテ" "!XA0297">
-「ダークス。
-　子供の名前、言えるであろうな」
+<name "Forzelotte" "!XA0297">
+"Darx, are you able to remember all your 
+ children's names?"
 #
-<name "ダークス">
-「大丈夫だよ。
-　フィーナ、マリア、エリニテー、メニアウス」
+<name "Darx">
+"Don't worry.
+ Fina, Maria, Elinitei, Meniaus." 
 #
-<name "ダークス">
-「そこの可愛いのがコゼロット。
-　向こうで寝てるのがオルデウス」
+<name "Darx">
+"The cute one over there is Kozelotte.
+ The sleeping one if Oldeus."
 #
-<name "フォーゼロッテ" "!XA0298">
-「うむ。
-　さすがだな」
+<name "Forzelotte" "!XA0298">
+"Mm.
+ As I expected."
 #
-<name "ダークス">
-「俺も一時期不安になったが、自分の子だと覚えら
-　れるもんだ」
+<name "Darx">
+"I was worried about that for a while too, but
+ when it's your own kids, you remember."
 #
-<name "ダークス">
-「見分けもつくぞ」
+<name "Darx">
+"I know all of them."
 #
-<name "ダークス">
-「パニッテとパニットは少し難しいけど……ん？」
+<name "Darx">
+"Panitte and Panitto are a little difficult
+ though...
+ Hm?"
 #
-　袖が引っ張られた先を見る。
+I look down to who's pulling on my sleeves.
 #
-<name "元気な娘" "!HC0197">
-「パパ、私も可愛いよ」
+<name "Energetic Girl" "!HC0197">
+"Daddy, I'm cute too."
 #
-<name "ダークス">
-「ああ、そうだったな。
-　すまんすまん」
+<name "Darx">
+"Yeah, you are.
+ Sorry, sorry."
 #
-　俺はぎゅっとフィーナを抱き締めた。
+I hug Fina tight.
 #
-<name "駆け寄る娘" "!SB0265">
-「パパ、私もー」
+<name "Running Girl" "!SB0265">
+"Me too, Daddy."
 #
-<name "お淑やかな娘" "!RB0176">
-「私も私もー」
+<name "Graceful Girl" "!RB0176">
+"Me too, me too."
 #
-　次々来たが、それらを抱き締めてやる。
+I hug them all, one after another.
 #
-<name "コゼロット" "!NA0174">
-「えへへ、私もー」
+<name "Kozelotte" "!NA0174">
+"Hahaha...
+ Me too."
 #
-<name "フォーゼロッテ" "!XA0299">
-「…………私も」
+<name "Forzelotte" "!XA0299">
+"...Me too."
 #
-<name "ダークス">
-「そ、それは流石に……」
+<name "Darx">
+"I-I knew it'd turn out like this..."
 #
-　潰されながら、その重みに幸せを感じる俺だった。
+I'm crushed under their affection, but the
+weight is pure happiness.
 #
 \x78\x78

@@ -1,25 +1,25 @@
 ﻿<music 39>
 <background "ev080a00.agf" 10>
-<name "マクドゥ" "!ZA0476">
-「色々あったが、認めよう」
+<name "Macdo" "!ZA0476">
+"A lot has happened, but I admit it."
 #
-<name "マクドゥ" "!ZA0477">
-「貴方は魔王だ」
+<name "Macdo" "!ZA0477">
+"You are the Overlord."
 #
-　そして、俺は魔王と認められた。
+And I was recognized as the Overlord.
 #
-<name "マクドゥ" "!ZA0478">
-「住民が待っている。
-　挨拶をしてやれ」
+<name "Macdo" "!ZA0478">
+"Your people are waiting.
+ Go greet them."
 #
-<name "ダークス">
-「ああ」
+<name "Darx">
+"Yeah."
 #
-　俺は待ちわびる住民達に向け、手を上げた。
+I wave to the waiting people.
 #
-　そして響き渡る歓声。
+And they let out a loud cheer.
 #
-　魔王としては、まだまだ未熟だが、なんとか頑張っ
-　ていこうと思った。
+I may still be a new Overlord, but I'll do
+everything I can.
 #
 \x78\x78

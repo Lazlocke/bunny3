@@ -1,44 +1,45 @@
 ﻿<music 11>
 <background "ev080a00.agf" 10>
-<name "マクドゥ" "!ZA5019">
-「大魔王アイシエス様は、覇王鎚をここで使わせる
-　為に私を派遣したのだろうか？」
+<name "Macdo" "!ZA5019">
+"Did Great Overlord Aishies send me here 
+ because of the Dynast's Mace?"
 #
-<name "マクドゥ" "!ZA5020">
-「覇王鎚……」
+<name "Macdo" "!ZA5020">
+"The Dynast's Mace...
 #
-<name "マクドゥ" "!ZA5021">
-「魔界が用意した人間の為の武器」
+<name "Macdo" "!ZA5021">
+"A human weapon, created by the Netherworld."
 #
-<name "マクドゥ" "!ZA5023">
-「あの武器の威力を十全に発揮するには、我がマル
-　クマルタ家の寵愛を受けた人間が必要」
+<name "Macdo" "!ZA5023">
+"The full power of that weapon can only be used
+ by a human with the favor of my Markmalta
+ family."
 #
-<name "マクドゥ" "!ZA5024">
-「寵愛は……まあ、私が受けた側のようだが……
-　問題はなかった」
+<name "Macdo" "!ZA5024">
+"My favor is... Well, I do believe he had it...
+ That's not in question."
 #
-<name "マクドゥ" "!ZA5025">
-「問題は無かったが……
-　遠大な私のお見合いというか、相手探しというか、
-　種付けだった気もするのだが……」
+<name "Macdo" "!ZA5025">
+"It's not, but...
+ Was this some kind of matchmaking or setup?
+ It felt more like a breeding..."
 #
-<name "マクドゥ" "!ZA5026">
-「ううう……」
+<name "Macdo" "!ZA5026">
+"..."
 #
-<name "マクドゥ" "!ZA5027">
-「考えるの、やめよう」
+<name "Macdo" "!ZA5027">
+"I should stop thinking."
 #
-<name "マクドゥ" "!ZA5028">
-「答えがあるワケでもなし。
-　あの大魔王様が口を割るとも思えない」
+<name "Macdo" "!ZA5028">
+"I don't have the answers, and I doubt that
+ the Great Overlord will tell me."
 #
-<name "マクドゥ" "!ZA5029">
-「まあ、魔界へ戻って来いとの命令がないのが答え
-　な気もする」
+<name "Macdo" "!ZA5029">
+"Well, I think the answer is that I haven't
+ been ordered to return to the Netherworld."
 #
-<name "マクドゥ" "!ZA5031">
-「しばらくは、魔王ダークスの行く末を楽しませて
-　貰う事にしよう」
+<name "Macdo" "!ZA5031">
+"For now, I will enjoy seeing where Overlord
+ Darx's fate takes him."
 #
 \x78\x78

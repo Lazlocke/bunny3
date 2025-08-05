@@ -1,450 +1,476 @@
 ﻿<music 5>
 <background "bg011a0.agf" 10>
-<name "ダークス">
-「新しい本か」
+<name "Darx">
+"A new book?"
 #
 <sprite "ta34b000.agf" 4 4 11>
-<name "清掃メイド" "!PC0563">
-「本です」
+<name "Cleaning Maid" "!PC0563">
+"It's a book."
 #
-<name "ダークス">
-「学術書とか、そういった高尚な本じゃないよな」
+<name "Darx">
+"Not a text book or anything serious though."
 #
 <removesprite -1 11>
-　いつも通りなら、エッチな本だ。
+Like usual, it's a romance book.
 #
-<name "ダークス">
-「冒険者がこういった本を持っている事にも疑問だ」
+<name "Darx">
+"Sometimes I wonder why adventurers have these
+ kinds of books."
 #
-　ブツブツ言いながらも、ページをめくる俺だった。
+I mumble as I open it up.
 #
 <background "bg017a0.agf" 10>
 <music 49>
 <background "ev106a00.agf" 10>
-<name "ナツ" "!DD0001">
-「えへへー」
+<name "Natsu" "!DD0001">
+"Ahahaha..."
 #
-<name "ナツ" "!DD0002">
-「久しぶりのお兄ちゃんとのお風呂だー」
+<name "Natsu" "!DD0002">
+"It's been a long time since I took a bath
+ with you."
 #
-<name "アキヒコ" "!JB0001">
-「そうハシャぐな。
-　危ないぞ」
+<name "Akihiko" "!JB0001">
+"Don't get so worked up.
+ Be careful."
 #
-<name "ナツ" "!DD0003">
-「だって最近、一緒に入ってくれないじゃない」
+<name "Natsu" "!DD0003">
+"But you haven't been coming in with me
+ recently."
 #
-<name "アキヒコ" "!JB0002">
-「そりゃ、いい歳なんだから当たり前だ」
+<name "Akihiko" "!JB0002">
+"Well, you're at that age, so of course not."
 #
-<name "アキヒコ" "!JB0003">
-「お前の方が嫌がると思ったけどな」
+<name "Akihiko" "!JB0003">
+"I thought you hated me."
 #
-<name "ナツ" "!DD0004">
-「嫌がったりしないよ」
+<name "Natsu" "!DD0004">
+"I don't hate you."
 #
-<name "ナツ" "!DD0005">
-「大好きなお兄ちゃんと一緒だもん」
+<name "Natsu" "!DD0005">
+"I'm with my beloved brother."
 #
-<name "アキヒコ" "!JB0004">
-「……そうか。
-　ありがとな」
+<name "Akihiko" "!JB0004">
+"...I see.
+ Thank you."
 #
-<name "ナツ" "!DD0006">
-「うん」
+<name "Natsu" "!DD0006">
+"Yep."
 #
-<name "ナツ" "!DD0007">
-「だから、いつものヤツ」
+<name "Natsu" "!DD0007">
+"So just like usual."
 #
-<name "アキヒコ" "!JB0005">
-「いつものヤツか」
+<name "Akihiko" "!JB0005">
+"Just like usual."
 #
-<name "ナツ" "!DD0008">
-「うん」
+<name "Natsu" "!DD0008">
+"Yep."
 #
-<name "アキヒコ" "!JB0006">
-「やめとかない？」
+<name "Akihiko" "!JB0006">
+"Why don't we stop?"
 #
-<name "ナツ" "!DD0009">
-「えー、どうしてー」
+<name "Natsu" "!DD0009">
+"Eeeh? Why?"
 #
-<name "アキヒコ" "!JB0007">
-「どうしてって……」
+<name "Akihiko" "!JB0007">
+"Why..."
 #
-<name "ナツ" "!DD0010">
-「気持ち良いでしょ？」
+<name "Natsu" "!DD0010">
+"It feels good, doesn't it?"
 #
-<name "アキヒコ" "!JB0008">
-「そりゃな」
+<name "Akihiko" "!JB0008">
+"Well..."
 #
-<name "ナツ" "!DD0011">
-「ナツだって気持ち良いもん」
+<name "Natsu" "!DD0011">
+"I feel good."
 #
-<name "アキヒコ" "!JB0009">
-「そうかもしれないが、その……」
+<name "Akihiko" "!JB0009">
+"Maybe, but, um..."
 #
-<name "ナツ" "!DD0012">
-「お兄ちゃん」
+<name "Natsu" "!DD0012">
+"Onii-chan."
 #
-<name "アキヒコ" "!JB0010">
-「む、胸を押し付けるな」
+<name "Akihiko" "!JB0010">
+"D-Don't press your breasts against me."
 #
-<name "ナツ" "!DD0013">
-「えへへ……ちょっと大きくなったでしょ」
+<name "Natsu" "!DD0013">
+"Hahaha...
+ They've gotten a little bigger, haven't they?"
 #
-<name "アキヒコ" "!JB0011">
-「ん……そうか？」
+<name "Akihiko" "!JB0011">
+"Mm...
+ I guess?"
 #
-<name "ナツ" "!DD0014">
-「そうだよ。
-　ほら」
+<name "Natsu" "!DD0014">
+"They have.
+ See?"
 #
-<name "アキヒコ" "!JB0012">
-「ああ、確かに……少しだけ」
+<name "Akihiko" "!JB0012">
+"Yeah, you're right.
+ But just a little."
 #
-<name "ナツ" "!DD0015">
-「他にも成長してるところ、あるかもしれないよ」
+<name "Natsu" "!DD0015">
+"There might be other places that are growing
+ up too."
 #
-<name "アキヒコ" "!JB0013">
-「むう……」
+<name "Akihiko" "!JB0013">
+"..."
 #
-<name "ナツ" "!DD0016">
-「だからね。
-　いつものヤツ」
+<name "Natsu" "!DD0016">
+"So, okay?
+ Just like usual."
 #
-<name "アキヒコ" "!JB0014">
-「……わかったよ」
+<name "Akihiko" "!JB0014">
+"...All right."
 #
-　態度では拒否する俺だが、ナツの誘いだけで、股
-　間のモノはすでに大きくなりつつあった。
+I try to refuse, but her invitation is enough
+to make my dick start getting big.
 #
-　もちろん、全裸な風呂場だ。
+Of course, we're both completely naked in the
+bathroom.
 #
-　それはナツの目にも映っていただろう。
+She's looking right at it too.
 #
 <music 50>
 \x2B
 <background "ev107a00.agf" 10>
-<name "ナツ" "!DD0017">
-「えへ、ムズムズする」
+<name "Natsu" "!DD0017">
+"Haha...
+ It's all squirmy."
 #
-<name "アキヒコ" "!JB0015">
-「ほら、ふざけるな」
+<name "Akihiko" "!JB0015">
+"Come on. 
+ Don't mess around."
 #
-<name "ナツ" "!DD0018">
-「うん」
+<name "Natsu" "!DD0018">
+"'Kay."
 #
-　風呂の椅子に座る俺の上に、ナツが来る。
+She comes over and sits in my lap.
 #
-　ナツは両足を俺の太ももに乗せ、しゃがみ込む。
+She puts both her legs on my thighs and then
+lowers herself.
 #
-　俺の股間のモノに跨る格好。
+Straddling my dick between her legs.
 #
-　このままじゃ危ないので、俺の手は自然とナツの
-　胸を支え、身体を固定する。
+It's dangerous to stay like this, so I grab
+her by the chest and hold her in place.
 #
-<name "アキヒコ" "!JB0016">
-「いいぞ。
-　いつも通りにやってみろ」
+<name "Akihiko" "!JB0016">
+"Okay.
+ Just do it like normal."
 #
-<name "ナツ" "!DD0019">
-「うん」
+<name "Natsu" "!DD0019">
+"'Kay."
 #
-　ナツはゆっくりと腰を動かし、自分の股間で俺の
-　モノを刺激する。
+She slowly moves her hips, rubbing my dick
+against herself.
 #
-　ナツは足を広げているので、素股ではない。
+She's spreading her legs, so it's not against
+her thighs.
 #
-　性器と性器を擦り合わせる。
+Just rubbing her entrance against my dick.
 #
-　そんな行為だ。
+That's all it is.
 #
-<name "アキヒコ" "!JB0017">
-「そうだ。
-　良い動きだ」
+<name "Akihiko" "!JB0017">
+"That's right.
+ That's good movement."
 #
-<name "ナツ" "!DD0020">
-「ん、時々、リズムを変えるんだよね」
+<name "Natsu" "!DD0020">
+"Mm...
+ Sometimes you have to change the rhythm
+ though, right?"
 #
-<name "アキヒコ" "!JB0018">
-「ああ、そうだ。
-　よく覚えていたな」
+<name "Akihiko" "!JB0018">
+"Yeah, that's right.
+ You remembered well."
 #
-<name "ナツ" "!DD0021">
-「えへへ。
-　んぁ、お、お兄ちゃんも、ナツの胸、しっかり揉
-　んで」
+<name "Natsu" "!DD0021">
+"Hahaha...
+ Mm... 
+ Y-You also need to hold by breasts tight."
 #
-<name "アキヒコ" "!JB0019">
-「ああ」
+<name "Akihiko" "!JB0019">
+"Yeah."
 #
-<name "ナツ" "!DD0022">
-「んぁ、あ、やっぱりお兄ちゃんの手が一番」
+<name "Natsu" "!DD0022">
+"Mm...ah...
+ Your hands really are the best."
 #
-<name "アキヒコ" "!JB0020">
-「ん？」
+<name "Akihiko" "!JB0020">
+"Hm?"
 #
-<name "ナツ" "!DD0023">
-「自分でするより、お兄ちゃんに揉んで貰った方が
-　気持ち良い」
+<name "Natsu" "!DD0023">
+"It feels better having you rub me than doing
+ it myself."
 #
-<name "アキヒコ" "!JB0021">
-「まあ、そうだろうな」
+<name "Akihiko" "!JB0021">
+"Well, I guess so."
 #
-<name "ナツ" "!DD0024">
-「だから、この胸はお兄ちゃん専用。
-　いつでも好きに揉んで良いからね」
+<name "Natsu" "!DD0024">
+"That's why my breasts are only for you.
+ You can rub them whenever you want."
 #
-<name "アキヒコ" "!JB0022">
-「そりゃありがたいが、お前に良い人が出来たらど
-　うするんだよ」
+<name "Akihiko" "!JB0022">
+"Thank you, but what if you find someone you
+ like more?"
 #
-<name "ナツ" "!DD0025">
-「良い人って恋人って事？」
+<name "Natsu" "!DD0025">
+"Someone I like more, like a boyfriend?"
 #
-<name "アキヒコ" "!JB0023">
-「そうだな」
+<name "Akihiko" "!JB0023">
+"Yeah."
 #
-<name "ナツ" "!DD0026">
-「お兄ちゃんで間に合ってるよ」
+<name "Natsu" "!DD0026">
+"You're enough for me."
 #
-<name "アキヒコ" "!JB0024">
-「それはそれで嬉しいけど……」
+<name "Akihiko" "!JB0024">
+"I'm happy to hear that, but..."
 #
-<name "ナツ" "!DD0027">
-「んっ」
+<name "Natsu" "!DD0027">
+"Mm!"
 #
-　会話をしながらも、ナツは腰の動きを止めていな
-　い。
+All the time we're talking, her hips don't stop
+moving.
 #
-　俺の膨張したモノに、ナツの股間から湧き出す愛
-　液が絡みつく。
+My swollen dick is covered in the juices 
+pouring out of her.
 #
-<name "ナツ" "!DD0028">
-「んぁ……んっ……」
+<name "Natsu" "!DD0028">
+"Mm...mm..."
 #
-　慣れたナツの腰使いで、俺のモノがどんどんと刺
-　激されていく。
+She's done this so much, and is stimulating my
+dick more and more.
 #
-<name "ナツ" "!DD0029">
-「ぁ、んぁ、ふぁ、ぁ、ぁぁ」
+<name "Natsu" "!DD0029">
+"Ah...mmm...ahhh...ah...aaah..."
 #
-　ナツの声は喘ぎ声だけになっている。
+She's just moaning now.
 #
-　いつもの事だ。
+Same as usual.
 #
-　俺達がこうして風呂場で、お互いのモノを弄り出
-　してから数年。
+It's been a few years since we started playing
+with each other in the bath like this.
 #
-　俺は何度か止めようとした。
+I tried to stop several times.
 #
-　しかし、その度にナツの誘惑に負けた。
+But I always succumb to her temptation.
 #
-　いや、言い訳だな。
+No, that's just an excuse.
 #
-　俺がナツから離れられなかったんだ。
+I can't stay away from her.
 #
-<name "ナツ" "!DD0030">
-「ん、ん、ふぁ、ぁ、ぁ、ぉ、お兄ちゃん」
+<name "Natsu" "!DD0030">
+"Mm...mmm...aah...ah...ah...
+ O-Onii-chan..."
 #
-　ナツの動きが激しくなる。
+Her movements intensify.
 #
-　そろそろ達するのだろう。
+She's almost there.
 #
-　俺もだ。
+Me too.
 #
-<name "ナツ" "!DD0031">
-「ぁ、い、一緒に、ふぁ、ぁっ、ぁっ」
+<name "Natsu" "!DD0031">
+"Ah... T-Together...
+ Aaah! Ah! Ah!"
 #
-　わかっている。
+I can tell.
 #
-　俺はナツにリズムを合わせながら、タイミングを
-　見計らった。
+I keep rhythm with her and try to match her
+timing.
 #
-<name "ナツ" "!DD0032">
-「ふぁっ」
+<name "Natsu" "!DD0032">
+"Aah!"
 #
-　そして、ナツが達する。
+And then she comes.
 #
-　そう感じた瞬間、俺のモノ先から精液が飛び出し
-　ていった。
+The moment I feel it, semen shoots out of my
+dick.
 #
-　風呂場の壁が俺の精液で汚れていく。
+The walls of the bathroom are stained with my
+semen.
 #
-　そしてナツの股間から零れる愛液が、俺の股間ま
-　でビチャビチャにしてくれた。
+And the love juices spilling out of her are
+making my legs all sticky.
 #
-　この量……少し、漏らしたみたいだ。
+So much...
+I think she peed a little.
 #
-<name "ナツ" "!DD0033">
-「ふぁ、ぁ……ぁ……お兄ちゃん」
+<name "Natsu" "!DD0033">
+"Aah...ah...ah...
+ Onii-chan..."
 #
-<name "アキヒコ" "!JB0025">
-「ん？」
+<name "Akihiko" "!JB0025">
+"Hm?"
 #
-<name "ナツ" "!DD0034">
-「気持ちよかった？」
+<name "Natsu" "!DD0034">
+"Did you feel good?"
 #
-<name "アキヒコ" "!JB0026">
-「ああ」
+<name "Akihiko" "!JB0026">
+"Yeah."
 #
-<name "ナツ" "!DD0035">
-「私も」
+<name "Natsu" "!DD0035">
+"Me too."
 #
-<name "アキヒコ" "!JB0027">
-「それは良かった」
+<name "Akihiko" "!JB0027">
+"I'm glad."
 #
-　今日も無事に終わった。
+It ended safely again today.
 #
-　残念と思いつつも、俺は安堵する。
+I feel bad, but I'm also relieved.
 #
-　目の前にいるのは妹だ。
+This is my little sister.
 #
-　手を出しちゃいけないし、本来はこんな事もしちゃ
-　いけない。
+I can't lay a hand on her, and I shouldn't be
+doing this.
 #
-　射精をして落ち着いた俺の思考が、そう叱る。
+My thoughts after coming scold me.
 #
-　いつもの事だ。
+Same as always.
 #
-　また、しばらくすればこうやってナツと一緒に風
-　呂に入っている自分が容易に想像できる。
+And then, after a while, I know that I'll be
+getting into the bath with her again like 
+this.
 #
-<name "ナツ" "!DD0036">
-「お兄ちゃん」
+<name "Natsu" "!DD0036">
+"Onii-chan."
 #
-<name "アキヒコ" "!JB0028">
-「ん？
-　ああ、すまない、ぼーっとしたな」
+<name "Akihiko" "!JB0028">
+"Hm?
+ Oh, sorry.
+ I was spacing out."
 #
-<name "ナツ" "!DD0037">
-「ううん。
-　ところで、あのね」
+<name "Natsu" "!DD0037">
+"It's okay.
+ By the way, you know..."
 #
-<name "アキヒコ" "!JB0029">
-「ん？」
+<name "Akihiko" "!JB0029">
+"Hm?"
 #
-　俺はナツの目を見てゾクリとした。
+I look into her eyes and am shook.
 #
-　妹の目じゃない。
+They're not the eyes of my sister.
 #
-　男を狙う女の目だ。
+They're the eyes of a woman lusting for man.
 #
-　子供だと思っていたナツが、そんな目をするのか
-　と驚く。
+I'm taken aback to see her look like that.
+I've always thought of her as a kid.
 #
-<name "ナツ" "!DD0038">
-「ここに、お兄ちゃんが欲しいな」
+<name "Natsu" "!DD0038">
+"I want you here."
 #
-<name "アキヒコ" "!JB0030">
-「…………だ、駄目……だ」
+<name "Akihiko" "!JB0030">
+"...W-We... can't."
 #
-　搾り出すように、そう言うのが精一杯だった。
+It took everything just to squeeze that out.
 #
-<name "ナツ" "!DD0039">
-「なにが駄目なのかな？」
+<name "Natsu" "!DD0039">
+"Why can't we?"
 #
-　そう答えながらも、ナツは俺の言葉など聞いてい
-　なかった。
+She's not listening to me.
 #
-　その代わりに、ナツの股間の前で暴発せんばかり
-　に膨張している俺のモノの欲望を聞いていた。
+The only thing in her head is lust for my dick
+that was swelling like crazy right against her
+pussy.
 #
-<name "ナツ" "!DD0040">
-「ふふ。
-　ちょっと挿入れるだけだから」
+<name "Natsu" "!DD0040">
+"Heheh...
+ We can put it in just a little."
 #
-<name "ナツ" "!DD0041">
-「ああ、でも膣内で気持ち良くなったら、遠慮しな
-　くて良いからね」
+<name "Natsu" "!DD0041">
+"Ah, but if it feels good inside my pussy,
+ you don't need to hold back."
 #
-<name "ナツ" "!DD0042">
-「お兄ちゃん」
+<name "Natsu" "!DD0042">
+"Onii-chan."
 #
-　俺は自分の中に湧き上がる欲望に押しつぶされた。
+I'm crushed by the desire swelling up inside 
+me.
 #
 <background "bg017a0.agf" 10>
 <music 5>
 <background "bg011a0.agf" 10>
-<name "ダークス">
-「女って、怖いなぁ」
+<name "Darx">
+"Women can be scary."
 #
 <sprite "ta34b002.agf" 4 4 11>
-<name "清掃メイド" "!PC0564">
-「え？」
+<name "Cleaning Maid" "!PC0564">
+"Huh?"
 #
-<name "ダークス">
-「あ、いや、なんでもない」
+<name "Darx">
+"Oh, no, it's nothing."
 #
 <sprite "ta34b000.agf" 4 4 12>
-<name "清掃メイド" "!PC0565">
-「そうですか？
-　ですが、女の私からすれば、男の方が怖いですけ
-　ど」
+<name "Cleaning Maid" "!PC0565">
+"Really?
+ But for a woman like me, men are the far
+ scarier ones."
 #
-<name "ダークス">
-「ん？
-　そうなのか？」
+<name "Darx">
+"Hm?
+ Really?"
 #
-<name "清掃メイド" "!PC0566">
-「ええ、いつ襲われるかわかりませんから」
+<name "Cleaning Maid" "!PC0566">
+"Yes. You never know when you might be
+ attacked."
 #
-<name "ダークス">
-「おおっと。
-　俺を警戒しているのかな？」
+<name "Darx">
+"Hey now.
+ Are you scared of me?"
 #
-<name "清掃メイド" "!PC0567">
-「魔王様は優しいですから」
+<name "Cleaning Maid" "!PC0567">
+"You're gentle."
 #
-<name "ダークス">
-「それは光栄だな」
+<name "Darx">
+"It's an honor."
 #
 <sprite "ta34b002.agf" 4 4 12>
-<name "清掃メイド" "!PC0568">
-「でも、他の方は……ちょっと」
+<name "Cleaning Maid" "!PC0568">
+"But others... a little."
 #
-<name "ダークス">
-「しかし、それだと仕事に支障が出るだろう」
+<name "Darx">
+"But doesn't that get in the way of your
+ work?"
 #
-<name "清掃メイド" "!PC0569">
-「ええ、なんとかなりませんか」
+<name "Cleaning Maid" "!PC0569">
+"Yes, but you learn to manage it."
 #
-<name "ダークス">
-「なんとかしてやろう。
-　とりあえず、襲われた時の対処法の研究などはど
-　うだろう？」
+<name "Darx">
+"We should do something about that.
+ For now, how about we work on what to do if
+ you're attacked?"
 #
-<name "清掃メイド" "!PC0570">
-「ベッドの中で、ですか？」
+<name "Cleaning Maid" "!PC0570">
+"Like in bed?"
 #
-<name "ダークス">
-「襲われた感を出す為、床で」
+<name "Darx">
+"On the floor, so it feels like you're being
+ attacked."
 #
 <sprite "ta34b000.agf" 4 4 12>
-<name "清掃メイド" "!PC0571">
-「望む所です」
+<name "Cleaning Maid" "!PC0571">
+"If that's what you want."
 #
 <removesprite -1 11>
 <sprite "ta34a001.agf" 2 4 11>
 <sprite "ta34b000.agf" 6 5 11>
-<name "秘書メイド" "!AC0315">
-「あー……盛り上がっている所、すみませんが。
-　仕事が終わってからにしてください」
+<name "Secretary Maid" "!AC0315">
+"Uhh... I can see you're excited, but please
+ do it after you finish your work."
 #
 <sprite "ta34b004.agf" 6 5 12>
-<name "清掃メイド" "!PC0572">
-「はーい」
+<name "Cleaning Maid" "!PC0572">
+"Yes, maaa'am."
 #
 <sprite "ta34a000.agf" 2 4 12>
-<name "秘書メイド" "!AC0316">
-「あと、その際は私も参加希望です」
+<name "Secretary Maid" "!AC0316">
+"Also, in that case, I'd like to join you."
 #
-<name "ダークス">
-「……」
+<name "Darx">
+"..."
 #
 <removesprite -1 11>
-　夜、ちょっとした乱交パーティになってしまった。
+It turned into something of an orgy that night.
 #
-　やはり、女は怖いと思う。
+Women really are scary.
 #
 \x78\x78

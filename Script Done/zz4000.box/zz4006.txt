@@ -1,62 +1,65 @@
 ﻿<music 39>
 <background "ev080b00.agf" 10>
-<name "マクドゥ" "!ZA0479">
-「見事だ」
+<name "Macdo" "!ZA0479">
+"Splendid."
 #
-<name "ダークス">
-「という事は……」
+<name "Darx">
+"Meaning..."
 #
-<name "マクドゥ" "!ZA0480">
-「認めよう」
+<name "Macdo" "!ZA0480">
+"I admit it."
 #
-<name "マクドゥ" "!ZA0481">
-「貴方が魔王だと」
+<name "Macdo" "!ZA0481">
+"You're the Overlord."
 #
-　俺は魔王と認められた。
+I've been accepted as Overlord.
 #
-<name "ダークス">
-「しばらくは、これで安泰って事だな」
+<name "Darx">
+"So for a while, everything's resolved?"
 #
-<name "マクドゥ" "!ZA0482">
-「油断は禁物だ」
+<name "Macdo" "!ZA0482">
+"I wouldn't be careless."
 #
-<name "マクドゥ" "!ZA0483">
-「過去を振り返れば、臣下や住民に殺された魔王の
-　数は少なくない」
+<name "Macdo" "!ZA0483">
+"When you think about the past, there are
+ numerous Overlords who have been killed by
+ their own advisors and followers."
 #
-<name "ダークス">
-「うっ」
+<name "Darx">
+"..."
 #
-<name "マクドゥ" "!ZA0484">
-「まあ、そうならぬように見張ってはやる」
+<name "Macdo" "!ZA0484">
+"Well, I will keep an eye on them to make sure
+ that doesn't happen."
 #
-<name "ダークス">
-「まだ居るのか？」
+<name "Darx">
+"You're staying here?"
 #
-<name "マクドゥ" "!ZA0485">
-「大魔王様から、帰って来いと言われていない」
+<name "Macdo" "!ZA0485">
+"The Great Overlord told me not to come back."
 #
-<name "マクドゥ" "!ZA0486">
-「寂しくはあるが、ひょっとしたら元よりここに私
-　を配するつもりだったのかもしれん」
+<name "Macdo" "!ZA0486">
+"It's sad, but I I think perhaps he intended
+ to send me here from the start."
 #
-<name "ダークス">
-「そうなのか？」
+<name "Darx">
+"Really?"
 #
-<name "マクドゥ" "!ZA0487">
-「勝手な私の解釈だ」
+<name "Macdo" "!ZA0487">
+"That's my own interpretation."
 #
-<name "マクドゥ" "!ZA0488">
-「ともかく、そろそろ住民達に挨拶を」
+<name "Macdo" "!ZA0488">
+"In any case, it's time to go greet your
+ citizens."
 #
-<name "ダークス">
-「おう」
+<name "Darx">
+"Yeah."
 #
-　俺は待ちわびる住民達に向け、手を上げた。
+I wave to the waiting people.
 #
-　そして響き渡る歓声。
+And they let out a loud cheer.
 #
-　魔王としては、まだまだ未熟だが、なんとか頑張っ
-　ていこうと思った。
+I may still be a new Overlord, but I'll do
+everything I can.
 #
 \x78\x78

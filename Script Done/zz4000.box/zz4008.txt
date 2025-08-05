@@ -1,333 +1,346 @@
 ﻿<music 11>
 <background "ev080b00.agf" 10>
-<name "街の住民" "!HC0198">
-「魔王様！」
+<name "City Dweller" "!HC0198">
+"Overlord!"
 #
-<name "街の住民" "!ZD0172">
-「魔王様ー」
+<name "City Dweller" "!ZD0172">
+"Overlord!"
 #
-<name "街の住民" "!UA0190">
-「ありがとう魔王様」
+<name "City Dweller" "!UA0190">
+"Thank you, Overlord!"
 #
-<name "街の住民" "!ZE0269">
-「これからもよろしくお願いします。
-　魔王様」
+<name "City Dweller" "!ZE0269">
+"Thank you for everything you've done,
+ Overlord."
 #
-<name "街の住民" "!JA0173">
-「魔王様、ついていきますよ」
+<name "City Dweller" "!JA0173">
+"Overlord, I'll follow you anywhere."
 #
-<name "街の住民" "!RB0177">
-「私達の魔王様！」
+<name "City Dweller" "!RB0177">
+"You're our Overlord!"
 #
-<name "街の住民" "!ZF0152">
-「魔王様の為に頑張ります」
+<name "City Dweller" "!ZF0152">
+"We'll do our best for you, Overlord!"
 #
-<name "街の住民" "!ZG0164">
-「魔王様、いえー！」
+<name "City Dweller" "!ZG0164">
+"Overlord, yay!"
 #
-<name "街の住民" "!ZH0137">
-「助かったよ、魔王様ー」
+<name "City Dweller" "!ZH0137">
+"You saved us, Overlord!"
 #
-<name "街の住民" "!SB0266">
-「魔王様っ！」
+<name "City Dweller" "!SB0266">
+"Overlord!"
 #
-<name "街の住民" "!MB0167">
-「街をもっと大きくしてくれー」
+<name "City Dweller" "!MB0167">
+"Make the city bigger!"
 #
-<name "街の住民" "!LB0190">
-「すてきー」
+<name "City Dweller" "!LB0190">
+"You're wonderful!"
 #
-<name "街の住民" "!CB0193">
-「女の子の独り占め、禁止ー」
+<name "City Dweller" "!CB0193">
+"Don't keep all the women to yourself!"
 #
-<name "街の住民" "!KB0296">
-「そうだそうだー」
+<name "City Dweller" "!KB0296">
+"Yeah, yeah!"
 #
-<name "街の住民" "!GB0279">
-「こっちみてー」
+<name "City Dweller" "!GB0279">
+"Look over here!"
 #
-<name "街の住民" "!BC0212">
-「これからもお願いしますよー」
+<name "City Dweller" "!BC0212">
+"Keep up the good work!"
 #
-<name "街の住民" "!ZD0173">
-「ゴラン様ー」
+<name "City Dweller" "!ZD0173">
+"Golan!"
 #
-<name "街の住民" "!UA0191">
-「誰だ。
-　ゴラン様の名前を言ったヤツ！」
+<name "City Dweller" "!UA0191">
+"Who was that!?
+ Who said Golan!?"
 #
-<name "街の住民" "!ZE0270">
-「マニアだな」
+<name "City Dweller" "!ZE0270">
+"Some crazy."
 #
-<name "街の住民" "!ZD0174">
-「マニアじゃないよ」
+<name "City Dweller" "!ZD0174">
+"I'm not crazy."
 #
-<name "街の住民" "!UA0192">
-「こいつだ！」
+<name "City Dweller" "!UA0192">
+"It's her!"
 #
-<name "街の住民" "!ZD0175">
-「えへへ」
+<name "City Dweller" "!ZD0175">
+"Hahaha..."
 #
-<name "街の住民" "!UA0193">
-「俺もゴラン様、好きだぜ」
+<name "City Dweller" "!UA0193">
+"Me too, Golan!
+ I love you!"
 #
-<name "街の住民" "!ZD0176">
-「お前もか」
+<name "City Dweller" "!ZD0176">
+"You too?"
 #
-<name "街の住民" "!ZE0271">
-「実は俺も」
+<name "City Dweller" "!ZE0271">
+"Actually, me too."
 #
-<name "街の住民" "!ZD0177">
-「おおっ」
+<name "City Dweller" "!ZD0177">
+"Aaah!"
 #
-<name "街の住民" "!UA0194">
-「おう。
-　よーし、ゴラン様コールだ！」
+<name "City Dweller" "!UA0194">
+"Yeah!
+ Okay, cheer for Golan!"
 #
-<name "街の住民" "!ZE0272">
-「ゴラン様、ゴラン様♪」
+<name "City Dweller" "!ZE0272">
+"Golan!♪ Golan!♪"
 #
-<name "街の住民" "!LB0191">
-「誰か、トージョ様の名前、呼んであげて。
-　泣いてるから」
+<name "City Dweller" "!LB0191">
+"Someone yell Tojo's name.
+ He's crying."
 #
-<name "トージョ" "!KA0079">
-「なんだかんだあっても、なんとかするのが魔王様
-　だな」
+<name "Tojo" "!KA0079">
+"No matter what happens, the Overlord will be
+ able to handle it."
 #
-<name "ゴラン" "!CA0042">
-「そうだな」
+<name "Golan" "!CA0042">
+"That's right."
 #
-<name "トージョ" "!KA0080">
-「ところで、エカテーは？」
+<name "Tojo" "!KA0080">
+"By the way, where's Ekate?"
 #
-<name "ゴラン" "!CA0043">
-「魔王様に仕事を貰って、喜んで飛んでいった」
+<name "Golan" "!CA0043">
+"She got a job from the Overlord and happily
+ went flying off."
 #
-<name "トージョ" "!KA0081">
-「はぁ。
-　俺も結婚したいなぁ」
+<name "Tojo" "!KA0081">
+"...I want to get married too."
 #
-<name "ゴラン" "!CA0044">
-「誰も止めないぞ」
+<name "Golan" "!CA0044">
+"Nobody's stopping you."
 #
-<name "トージョ" "!KA0082">
-「相手が居ないんだよ！」
+<name "Tojo" "!KA0082">
+"I don't have anybody!"
 #
-<name "ゴラン" "!CA0045">
-「魔王様の街、男の数が少ないらしいぞ」
+<name "Golan" "!CA0045">
+"I hear there are very few men in the 
+ Overlord's city."
 #
-<name "トージョ" "!KA0083">
-「それは聞いている。
-　しかし、変わった噂も聞いていてだな」
+<name "Tojo" "!KA0083">
+"I heard that too, but I've also heard some
+ suspicious rumors."
 #
-<name "ゴラン" "!CA0046">
-「どんな噂だ？」
+<name "Golan" "!CA0046">
+"Like what?"
 #
-<name "トージョ" "!KA0084">
-「男狩りだ」
+<name "Tojo" "!KA0084">
+"Like man hunters."
 #
-<name "ゴラン" "!CA0047">
-「え？」
+<name "Golan" "!CA0047">
+"Huh?"
 #
-<name "トージョ" "!KA0085">
-「男不足に悩んだ女が、相手を捕まえる為に行うそ
-　うだ」
+<name "Tojo" "!KA0085">
+"Women who are scared about the lack of men
+ and will go to great lengths to trap one."
 #
-<name "ゴラン" "!CA0048">
-「噂じゃないのか？
-　まさか、魔王様の街でそんな事はおこらないだろ
-　う」
+<name "Golan" "!CA0048">
+"Isn't that just a rumor?
+ There's no way that's happening in the
+ Overlord's city."
 #
-<name "トージョ" "!KA0086">
-「ああ、確かめたが……俺は狩られなかった」
+<name "Tojo" "!KA0086">
+"Yeah, I went to check, but...
+ I wasn't hunted."
 #
-<name "ゴラン" "!CA0049">
-「……………………そ、そうか」
+<name "Golan" "!CA0049">
+".........I-I see."
 #
-<name "トージョ" "!KA0087">
-「服装変えたり、変装もしたけど、狩られなかった」
+<name "Tojo" "!KA0087">
+"I changed my clothes and disguised myself, but
+ wasn't hunted."
 #
-<name "ゴラン" "!CA0050">
-「噂なんだよ。
-　ははははは」
+<name "Golan" "!CA0050">
+"So it's just a rumor.
+ Hahahaha..."
 #
-<name "トージョ" "!KA0088">
-「俺の相手はどこだろう」
+<name "Tojo" "!KA0088">
+"I wonder where my wife is."
 #
-<name "フラン" "!HC0199">
-「ロギウス様ー、こっちこっち」
+<name "Flan" "!HC0199">
+"Logius, this way!"
 #
-<name "アリィ" "!SB0267">
-「ロギウス様。
-　こっちですよー」
+<name "Aly" "!SB0267">
+"Logius, over here."
 #
-<name "ロギウス" "!PA0082">
-「あー……幸せ」
+<name "Logius" "!PA0082">
+"Aaah... Happiness."
 #
-<name "パニバーナ" "!DA0096">
-「よーし、歌っちゃうぞー」
+<name "Paniverna" "!DA0096">
+"Okay, I'm gonna sing."
 #
-<name "イザナ" "!AA0074">
-「お付き合い、しましょう」
+<name "Izana" "!AA0074">
+"We'll join you."
 #
-<name "ウルティニア" "!EA0084">
-「ええ」
+<name "Ultinia" "!EA0084">
+"Yes."
 #
-<name "カーシャ" "!TB0001">
-「あー、お茶が美味しい」
+<name "Kasha" "!TB0001">
+"Aah, this tea is delicious."
 #
-<name "フィリアネ" "!GA0050">
-「ああ！
-　お茶菓子を用意しているのに先に飲むなんて」
+<name "Filliane" "!GA0050">
+"Aah!
+ How could you start drinking while I was still
+ getting the snacks ready!?"
 #
-<name "カーシャ" "!TB0002">
-「すみません」
+<name "Kasha" "!TB0002">
+"Sorry."
 #
-<name "フィリアネ" "!GA0051">
-「オルデウスは、もう寝たの？」
+<name "Filliane" "!GA0051">
+"Is Oldeus already asleep?"
 #
-<name "カーシャ" "!TB0003">
-「ええ。
-　素直ですよー」
+<name "Kasha" "!TB0003">
+"Yes.
+ Such a good boy."
 #
-<name "フィリアネ" "!GA0052">
-「いいわねー。
-　フィーナやマリアは反抗してばっかりで」
+<name "Filliane" "!GA0052">
+"I'm jealous.
+ Fina and Maria are so rebellious all the
+ time."
 #
-<name "カーシャ" "!TB0004">
-「そんなものよ」
+<name "Kasha" "!TB0004">
+"That's how it is."
 #
-<name "フィリアネ" "!GA0053">
-「いや、男の子の方が素直な気がする」
+<name "Filliane" "!GA0053">
+"No, I think boys are just better behaved."
 #
-<name "カーシャ" "!TB0005">
-「あー……そう言われてみれば」
+<name "Kasha" "!TB0005">
+"Ummm, if you say so."
 #
-<name "フィリアネ" "!GA0054">
-「姉や妹に虐げられてしまうのかしら」
+<name "Filliane" "!GA0054">
+"I wonder if he's been picked on by his
+ sisters."
 #
-<name "カーシャ" "!TB0006">
-「そうなった時は、私が相手をしましょう。
-　全力で」
+<name "Kasha" "!TB0006">
+"If that happens, I'll deal with it.
+ Will full force."
 #
-<name "フィリアネ" "!GA0055">
-「子供の喧嘩に親が出るの、魔王様は嫌うよー」
+<name "Filliane" "!GA0055">
+"The Overlord hates it when parents get into
+ children's squabbles."
 #
-<name "カーシャ" "!TB0007">
-「うう、そう言われると……悩ましい」
+<name "Kasha" "!TB0007">
+"Ooh...
+ When you say that... it's vexing."
 #
-<name "フィリアネ" "!GA0056">
-「ま、たくましく育つ事を祈るだけだね」
+<name "Filliane" "!GA0056">
+"L-Let's just pray he grows up strong."
 #
-<name "カーシャ" "!TB0008">
-「確かに」
+<name "Kasha" "!TB0008">
+"Indeed."
 #
-<name "メリル" "!HA0086">
-「魔王様。
-　向こうで頑張るのも良いのですが、もう少しこち
-　らにも気を遣って欲しいですね」
+<name "Meryl" "!HA0086">
+"It's all well and good for the Overlord to
+ be working hard over there, but I'd like him
+ to be a little more concerned with us."
 #
-<name "マリーアリス" "!LA0120">
-「十分、遣っていると思いますよ」
+<name "Marialis" "!LA0120">
+"I think he's doing plenty."
 #
-<name "メリル" "!HA0087">
-「貴女はここに戻って大丈夫なの？」
+<name "Meryl" "!HA0087">
+"You're okay going back here?"
 #
-<name "マリーアリス" "!LA0121">
-「ええ。
-　魔王様に、メリル様のお手伝いを命じられました。
-　なんなりと」
+<name "Marialis" "!LA0121">
+"Yes. I was assigned by him to help you.
+ However I can."
 #
-<name "メリル" "!HA0088">
-「そう。
-　じゃあ、とりあえず……お茶にしましょうか」
+<name "Meryl" "!HA0088">
+"I see.
+ Then for now... I'd like some tea."
 #
-<name "マリーアリス" "!LA0122">
-「承知しました」
+<name "Marialis" "!LA0122">
+"Understood."
 #
-<name "エカテー" "!TA0081">
-「魔王様、魔王様、魔王様♪」
+<name "Ekate" "!TA0081">
+"Overlord!♪ Overlord!♪ Overlord!♪" 
 #
-<name "ダークス">
-「よしよし」
+<name "Darx">
+"Good girl."
 #
-<name "エカテー" "!TA0082">
-「ダークス宮、解放したんでしょ。
-　そっちに戻って良い？」
+<name "Ekate" "!TA0082">
+"You freed the Temple of Darx, right?
+ Can I go back there?"
 #
-<name "ダークス">
-「もう少し、落ち着いてからな」
+<name "Darx">
+"Once things settle down a little more."
 #
-<name "エカテー" "!TA0083">
-「えー！」
+<name "Ekate" "!TA0083">
+"Eeeh!?"
 #
-<name "ダークス">
-「扉の間の守備が退屈なのはわかるが、あそこは重
-　要な場所だ。
-　お前を置くのは、その信頼だと思って欲しいな」
+<name "Darx">
+"I know protecting the hall of doors is boring,
+ but it's very important.
+ Please think of it as a sign of how much I
+ trust you."
 #
-<name "エカテー" "!TA0084">
-「それは解ってるけどー」
+<name "Ekate" "!TA0084">
+"I know that, but..."
 #
-<name "ダークス">
-「なら、こっちの仕事をやろう」
+<name "Darx">
+"Then how about another job?"
 #
-<name "エカテー" "!TA0085">
-「え？」
+<name "Ekate" "!TA0085">
+"Huh?"
 #
-<name "ダークス">
-「北に行った所に、山賊が拠点を構えたらしい」
+<name "Darx">
+"Apparently some bandits have set up a 
+ stronghold just to the north."
 #
-<name "エカテー" "!TA0086">
-「蹴散らして良いの？」
+<name "Ekate" "!TA0086">
+"I can chase them out?"
 #
-<name "ダークス">
-「ああ。
-　大半が軍隊崩れで、数も二百人ぐらい居るらしい。
-　油断するなよ」
+<name "Darx">
+"Yeah.
+ Most of them are refuge soldiers, and 
+ apparently there's a couple hundred.
+ Don't be careless."
 #
-<name "エカテー" "!TA0087">
-「任せて」
+<name "Ekate" "!TA0087">
+"Leave it to me."
 #
-<name "ダークス">
-「戦利品を持ち帰る為に、何人か連れて行けよ」
+<name "Darx">
+"Take some people with you to bring back the
+ loot."
 #
-<name "エカテー" "!TA0088">
-「うん、お土産、期待していてね」
+<name "Ekate" "!TA0088">
+"Yep.
+ Look forward to some souvenirs."
 #
-<name "ダークス">
-「おう」
+<name "Darx">
+"Yeah."
 #
-<name "マクドゥ" "!ZA0489">
-「……私は、ここに何をしに来たのだ？」
+<name "Macdo" "!ZA0489">
+"...What am I doing here?"
 #
-<name "マクドゥ" "!ZA0490">
-「大魔王様が何を考えているのか、未だにわからな
-　い」
+<name "Macdo" "!ZA0490">
+"I still don't know what the Great Overlord was
+ thinking."
 #
-<name "マクドゥ" "!ZA0491">
-「ダークスに教えた分身体を作る魔法。
-　あれが上手くいってるかどうかのチェックとか？」
+<name "Macdo" "!ZA0491">
+"He taught Darx how to create that other body.
+ Was this a check to make sure it's working?"
 #
-<name "マクドゥ" "!ZA0492">
-「……ないな」
+<name "Macdo" "!ZA0492">
+"...No."
 #
-<name "ソフィア" "!ZB1017">
-「魔王様」
+<name "Sofia" "!ZB1017">
+"Overlord."
 #
-<name "ダークス">
-「ん？」
+<name "Darx">
+"Hm?"
 #
-<name "ソフィア" "!ZB1018">
-「頑張りましょう」
+<name "Sofia" "!ZB1018">
+"Let's do out best."
 #
-<name "ダークス">
-「ああ」
+<name "Darx">
+"Yeah."
 #
-　魔王ダークス。
+Overlord Darx.
 #
-　後に魔神と呼ばれる男ダークスは、自分の作った
-　街での生活を好み続けたと言われる。
+Darx, the man who would eventually be known as
+the Great Devil, is said to have continued his
+life in the city he built.
 #
 \x78\x78
