@@ -322,7 +322,7 @@ We just need to cut it down.
 #
 <removesprite -1 11>
 <name "Darx">
-"Is the hall of doors safe?"
+"Is the Hall of Doors safe?"
 #
 <sprite "ta01a016.agf" 4 4 11>
 <name "Sofia" "!ZB0549">

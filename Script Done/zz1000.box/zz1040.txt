@@ -1,106 +1,106 @@
 ﻿<music 30>
 <background "bg029a0.agf" 10>
-<name "商会メイド" "!AC0107" "ka34c000.agf">
-「制圧完了」
+<name "Company Maid" "!AC0107" "ka34c000.agf">
+"Control complete."
 #
-<name "支援メイド" "!DC0127" "ka34d000.agf">
-「おめでとうございます。
-　ここを制覇したと言っても過言ではないでしょう」
+<name "Support Maid" "!DC0127" "ka34d000.agf">
+"Congratulations.
+ It's no exaggeration to say that you have
+ completely conquered this place."
 #
-<name "ダークス">
-「そうか。
-　よし」
+<name "Darx">
+"I see.
+ All right."
 #
-<name "商会メイド" "!AC0108" "ka34c000.agf">
-「しかし……もう少し、何かないかな。
-　財宝とか、お宝とか、お金とか」
+<name "Company Maid" "!AC0108" "ka34c000.agf">
+"However, maybe there's a little more?
+ Like riches, treasure, or money?"
 #
-<name "支援メイド" "!DC0128" "ka34d000.agf">
-「貴女、素直過ぎるわよ」
+<name "Support Maid" "!DC0128" "ka34d000.agf">
+"You're too transparent."
 #
-<name "商会メイド" "!AC0109" "ka34c000.agf">
-「あはは」
+<name "Company Maid" "!AC0109" "ka34c000.agf">
+"Hahaha..."
 #
-<name "支援メイド" "!DC0129" "ka34d000.agf">
-「ですが……確かに何もありませんね。
-　魔王様がここまでされたのに、これでは申し訳が
-　ありません」
+<name "Support Maid" "!DC0129" "ka34d000.agf">
+"Still, there certainly is nothing.
+ I feel bad after how hard you worked."
 #
-<name "ダークス">
-「気にするな。
-　こんなもんだ」
+<name "Darx">
+"Don't worry about it.
+ That's just how things are."
 #
-<name "支援メイド" "!DC0130" "ka34d000.agf">
-「いえいえ。
-　魔王様。
-　ここに何も無くても、私達が居ます」
+<name "Support Maid" "!DC0130" "ka34d000.agf">
+"No, no.
+ Overlord, even if there's nothing here, you
+ have us."
 #
-<name "ダークス">
-「ん？
-　なにかしてくれるのか？」
+<name "Darx">
+"Hm?
+ Are you going to do something?"
 #
-<name "支援メイド" "!DC0131" "ka34d000.agf">
-「お任せください」
+<name "Support Maid" "!DC0131" "ka34d000.agf">
+"Leave it to us."
 #
-<name "ダークス">
-「え？」
+<name "Darx">
+"Huh?"
 #
 <music 8>
 <background "ev088a00.agf" 10>
-<name "支援メイド" "!DC0132">
-「流石、魔王様」
+<name "Support Maid" "!DC0132">
+"I knew you could do it, Overlord."
 #
-<name "商会メイド" "!AC0110">
-「やったね、魔王様」
+<name "Company Maid" "!AC0110">
+"You did it, Overlord."
 #
-<name "戦闘メイド" "!PC0145">
-「素敵です、魔王様」
+<name "Battle Maid" "!PC0145">
+"You're wonderful, Overlord."
 #
-<name "支援メイド" "!DC0133">
-「ささ、飲んで飲んで」
+<name "Support Maid" "!DC0133">
+"Come on, drink up."
 #
-<name "商会メイド" "!AC0111">
-「いえー！」
+<name "Company Maid" "!AC0111">
+"Yay!"
 #
-<name "ダークス">
-「お前らが騒ぎたかっただけじゃ……」
+<name "Darx">
+"You guys just wanted to have a party..."
 #
-<name "戦闘メイド" "!PC0146">
-「気にしてはいけません。
-　はい、全裸の女性」
+<name "Battle Maid" "!PC0146">
+"Don't worry about it.
+ Here's some naked women for you."
 #
-<name "ダークス">
-「お前ら、俺に女を与えておけば、なんでも許され
-　ると思っているんじゃないだろうな」
+<name "Darx">
+"You're probably thinking that if you give me
+ women, you can get away with anything."
 #
-<name "支援メイド" "!DC0135">
-「なんでもとは思っていませんよ」
+<name "Support Maid" "!DC0135">
+"I'm not thinking anything."
 #
-<name "商会メイド" "!AC0112">
-「大体、ですよね」
+<name "Company Maid" "!AC0112">
+"More or less."
 #
-<name "戦闘メイド" "!PC0147">
-「あははははは」
+<name "Battle Maid" "!PC0147">
+"Hahahaha..."
 #
-<name "ダークス">
-「……全裸よりも、多少は何かを着させろ」
+<name "Darx">
+"...Put at least some clothes on."
 #
 <background "ev088b00.agf" 10>
-<name "支援メイド" "!DC0136">
-「では、宴会装備で」
+<name "Support Maid" "!DC0136">
+"Then banquet wear."
 #
-<name "ダークス">
-「……」
+<name "Darx">
+"..."
 #
-<name "支援メイド" "!DC0137">
-「どうですか？」
+<name "Support Maid" "!DC0137">
+"How's that?"
 #
-<name "ダークス">
-「全てを許してしまいそうだ」
+<name "Darx">
+"Apparently I will allow anything."
 #
-　その後、その場でちょっとしたパーティーになっ
-　た。
+It turned into an impromptu party.
 #
-　敵地のど真ん中で、余裕だなぁと思った。
+In the middle of enemy territory, but we could
+afford it.
 #
 \x78\x78

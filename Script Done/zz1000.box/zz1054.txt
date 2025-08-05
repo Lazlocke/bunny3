@@ -1,204 +1,208 @@
 ﻿<music 62>
 <background "bg021a0.agf" 10>
 <sprite "ta04a017.agf" 4 4 11>
-<name "ルーアルテ" "!RA0052">
-「そんな……私が……」
+<name "Rualtei" "!RA0052">
+"No...
+ I can't have..."
 #
-<name "ダークス">
-「なかなか、強かったな」
+<name "Darx">
+"You're pretty strong."
 #
 <sprite "ta04a018.agf" 4 4 12>
-<name "ルーアルテ" "!RA0053">
-「ううっ」
+<name "Rualtei" "!RA0053">
+"Oooh..."
 #
-<name "ダークス">
-「さて、お仕置きの時間だ」
+<name "Darx">
+"Now, it's time for punishment."
 #
 <sprite "ta04a024.agf" 4 4 12>
-<name "ルーアルテ" "!RA0054">
-「ひっ」
+<name "Rualtei" "!RA0054">
+"Eep!"
 #
 <removesprite -1 11>
 <sprite "ta05a002.agf" 4 4 11>
-<name "キュリハ" "!FA0110">
-「お、お待ちください」
+<name "Kyuriha" "!FA0110">
+"P-Please wait!"
 #
-<name "ダークス">
-「……ん？」
+<name "Darx">
+"...Hm?"
 #
 <sprite "ta05a002.agf" 4 4 12>
-<name "キュリハ" "!FA0111">
-「ダークス様。
-　申し訳ありません。
-　処分はお待ちください」
+<name "Kyuriha" "!FA0111">
+"Darx, forgive me.
+ Please stay your hand."
 #
-<name "ダークス">
-「……前に聞いた言葉と違うな。
-　あの時、言っていたように無視すれば良いのか？」
+<name "Darx">
+"...That's not what you said to me before.
+ Am I supposed to ignore your previous words?"
 #
 <sprite "ta05a001.agf" 4 4 12>
-<name "キュリハ" "!FA0112">
-「ダークス様の仰りたいのは重々承知していますが、
-　お待ち下さい」
+<name "Kyuriha" "!FA0112">
+"I am well aware of what you are trying to
+ say, but please don't."
 #
 <sprite "ta05a002.agf" 4 4 12>
-<name "キュリハ" "!FA0113">
-「その者は負けた時の覚悟ができていない未熟者で
-　す。
-　どうか、ご容赦を」
+<name "Kyuriha" "!FA0113">
+"She is a child who was not prepared for the
+ consequences of defeat.
+ Please show her mercy."
 #
-<name "ダークス">
-「…………」
+<name "Darx">
+"........."
 #
 <removesprite -1 11>
-　キュリハの言葉に考え込む俺を他所に、入って来
-　たのが当人だった。
+While I'm thinking it over, the other one
+interjects.
 #
 <sprite "ta04a009.agf" 4 4 11>
-<name "ルーアルテ" "!RA0055">
-「私は、未熟者じゃない！」
+<name "Rualtei" "!RA0055">
+"I'm not a child!"
 #
 <removesprite -1 11>
-　が、言った瞬間、キュリハさんの握り拳がカナヅ
-　チのように上から振り下ろされ、ルーアルテの頭
-　部に直撃した。
+But as soon as the words leave her lips, 
+Kyuriha's clenched fist swings down like a
+hammer and strikes her directly on the head.
 #
 <sprite "ta05a007.agf" 4 4 11>
-<name "キュリハ" "!FA0114">
-「黙りなさいっ！」
+<name "Kyuriha" "!FA0114">
+"You will be silent!"
 #
 <removesprite -1 11>
-　戦闘でダメージを受けたルーアルテの致命傷にな
-　りそう音がした。
+That genuinely sounded like it cracked her
+skull, especially after she's already worn out
+from fighting.
 #
 <sprite "ta04a023.agf" 4 4 11>
-<name "ルーアルテ" "!RA0056">
-「ぅぅぅぅぅ……」
+<name "Rualtei" "!RA0056">
+"Oooooohhhhh..."
 #
 <removesprite -1 11>
-　なんとか生きてた。
+She seems to still be alive though.
 #
 <sprite "ta05a016.agf" 4 4 11>
-<name "キュリハ" "!FA0115">
-「本当に、本当に、申し訳ありません。
-　なにとぞ、この度だけは」
+<name "Kyuriha" "!FA0115">
+"I am truly, truly sorry.
+ Please, just this once, show mercy."
 #
-<name "ダークス">
-「……今回だけだぞ」
+<name "Darx">
+"...Just this once."
 #
 <sprite "ta05a004.agf" 4 4 12>
-<name "キュリハ" "!FA0116">
-「本当ですか」
+<name "Kyuriha" "!FA0116">
+"Really?"
 #
-<name "ダークス">
-「キュリハさんの頼みだから、今回だけだ。
-　次はない。
-　他のヤツの時でもだ」
+<name "Darx">
+"Because you begged, just this once.
+ There will be no next time.
+ Even if it's someone else."
 #
 <sprite "ta05a017.agf" 4 4 12>
-<name "キュリハ" "!FA0117">
-「は、はい。
-　ルーアルテ、謝罪っ」
+<name "Kyuriha" "!FA0117">
+"Y-Yes.
+ Rualtei, apologize!"
 #
 <removesprite -1 11>
 <sprite "ta04a027.agf" 4 4 11>
-<name "ルーアルテ" "!RA0057">
-「……ぷいっ」
+<name "Rualtei" "!RA0057">
+"...Hmph!"
 #
 <removesprite -1 11>
 <sprite "ta05a007.agf" 2 4 11>
 <sprite "ta04a027.agf" 6 5 11>
-<name "キュリハ" "!FA0118">
-「もう一回、殴られたい？」
+<name "Kyuriha" "!FA0118">
+"Do you want me to hit you again?"
 #
 <sprite "ta04a023.agf" 6 5 12>
-<name "ルーアルテ" "!RA0058">
-「ひっ」
+<name "Rualtei" "!RA0058">
+"Eep!"
 #
 <removesprite -1 11>
-<name "ダークス">
-「別にいいさ。
-　が、お前も覚えておけ。
-　次は無い」
+<name "Darx">
+"It doesn't matter.
+ But you should remember that too.
+ There won't be a next time."
 #
 <sprite "ta04a024.agf" 4 4 11>
-<name "ルーアルテ" "!RA0059">
-「ぅぅ……」
+<name "Rualtei" "!RA0059">
+"..."
 #
 <removesprite -1 11>
-　俺はルーアルテを解放した。
+I let her go.
 #
 <sprite "ta05a015.agf" 4 4 11>
-<name "キュリハ" "!FA0119">
-「本当に、ありがとうございました」
+<name "Kyuriha" "!FA0119">
+"Truly, thank you from the bottom of my heart."
 #
-<name "ダークス">
-「ああ」
+<name "Darx">
+"Yeah."
 #
-<name "ダークス">
-「それより、キュリハさんはどうしてここに？」
+<name "Darx">
+"Anyway, what are you doing here?"
 #
 <sprite "ta05a016.agf" 4 4 12>
-<name "キュリハ" "!FA0120">
-「ルーアルテがウロウロしていると聞いて、嫌な予
-　感がしましたから」
+<name "Kyuriha" "!FA0120">
+"I had a bad feeling when I heard that Rualtei
+ was wandering around here."
 #
 <sprite "ta05a015.agf" 4 4 12>
-<name "キュリハ" "!FA0121">
-「すみません。
-　もう少し早く到着していれば、戦いになる前に止
-　められたのですが……」
+<name "Kyuriha" "!FA0121">
+"Forgive me.
+ If I had arrived sooner, I might have been
+ able to stop this before a fight broke out."
 #
-<name "ダークス">
-「……まあ、気にしないでくれ」
+<name "Darx">
+"...Well, don't sweat it."
 #
 <sprite "ta05a014.agf" 4 4 12>
-<name "キュリハ" "!FA0122">
-「はい。
-　次はもう無い。
-　心に留めておきます」
+<name "Kyuriha" "!FA0122">
+"Yes.
+ There won't be a next time.
+ I shall not forget that."
 #
 <sprite "ta05a015.agf" 4 4 12>
-<name "キュリハ" "!FA0123">
-「というか、本当に止めるつもりなんて欠片もなかっ
-　たのですが、すみません。
-　ルーアルテには甘くて……」
+<name "Kyuriha" "!FA0123">
+"Well, I mean to say that I truly did not 
+ intend to stand in your way, but I am sorry.
+ I have a soft spot for her..."
 #
-<name "ダークス">
-「名前からミアルテの妹なんだろ？
-　てことは、付き合いもそれなりに長いって事だ」
+<name "Darx">
+"I take it from her name that she's Miartei's
+ sister?
+ So you've known her for a long time."
 #
 <sprite "ta05a019.agf" 4 4 12>
-<name "キュリハ" "!FA0124">
-「はい。
-　小さい時から知っています」
+<name "Kyuriha" "!FA0124">
+"Yes.
+ Ever since she was a little girl."
 #
-<name "ダークス">
-「なら、仕方が無いさ」
+<name "Darx">
+"Then you couldn't help it."
 #
-<name "ダークス">
-「それに、感謝はしない方が良いと思うぞ」
+<name "Darx">
+"Also, I don't think you should be thanking
+ me."
 #
 <sprite "ta05a012.agf" 4 4 12>
-<name "キュリハ" "!FA0125">
-「え？」
+<name "Kyuriha" "!FA0125">
+"Huh?"
 #
-<name "ダークス">
-「絶対にもう一度、仕掛けてくる」
+<name "Darx">
+"She's definitely going to try again."
 #
-<name "ダークス">
-「そういう性格じゃないか？」
+<name "Darx">
+"Isn't that how she is?"
 #
 <sprite "ta05a014.agf" 4 4 12>
-<name "キュリハ" "!FA0126">
-「ぅ……」
+<name "Kyuriha" "!FA0126">
+"..."
 #
-<name "ダークス">
-「出会わないように、祈っていてくれ」
+<name "Darx">
+"You better pray she doesn't find me a second
+ time."
 #
 <sprite "ta05a016.agf" 4 4 12>
-<name "キュリハ" "!FA0127">
-「……そうします」
+<name "Kyuriha" "!FA0127">
+"...I shall."
 #
 <removesprite -1 11>
 \x2B\x78\x78

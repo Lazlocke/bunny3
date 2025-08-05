@@ -1,18 +1,18 @@
 ﻿<music 8>
 <background "ev047b00.agf" 10>
-<name "ダークス">
-「ロギウス君。
-　もう少し、俺を信じてくれても良いんじゃないかな」
+<name "Darx">
+"Logius, couldn't you have a little more faith
+ in me?"
 #
-<name "ロギウス" "!PA0073">
-「面白い冗談です」
+<name "Logius" "!PA0073">
+"What a funny joke."
 #
-　ものっ凄い目で見られた。
+She looks at me in naked disbelief.
 #
-<name "ダークス">
-「あれ、俺の部下だよな」
+<name "Darx">
+"I am her boss, right?"
 #
-<name "ソフィア" "!ZB0787">
-「た、多分」
+<name "Sofia" "!ZB0787">
+"P-Probably."
 #
 \x78\x78

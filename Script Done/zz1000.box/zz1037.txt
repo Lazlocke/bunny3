@@ -1,76 +1,87 @@
 ﻿<music 16>
 <background "ev023a00.agf" 10>
-<name "ルーアルテ" "!RA0021">
-「ちょ、な、なによっ」
+<name "Rualtei" "!RA0021">
+"Hey! W-What the heck!?"
 #
-　不意に、ルーアルテに巨大なベトが絡みついた。
+All of a sudden, a huge slime wraps around
+her.
 #
-<name "ルーアルテ" "!RA0022">
-「くっ、ふぁ、あっ……」
+<name "Rualtei" "!RA0022">
+"Ngh! Aah...ah..."
 #
-　木の上にでも忍んでいたのだろう。
+It must have been hiding in a tree.
 #
-　かなり大きい。
+It's very large.
 #
-　未熟な冒険者などは、これで終わりである。
+For an inexperienced adventurer, this would
+be the end.
 #
-　どうしようもない。
+There's nothing they can do.
 #
-　だが、ルーアルテは未熟な冒険者ではなかった。
+But Rualtei is not an inexperienced 
+adventurer.
 #
-<name "ルーアルテ" "!RA0023">
-「こ、こんなものっ！」
+<name "Rualtei" "!RA0023">
+"Y-You damn thing!"
 #
-　ルーアルテは全身に光を集めて一閃する。
+She gathers light all over her body and
+unleashes it.
 #
 <music 7>
 <background "ev023b00.agf" 10>
-　それにより、それなりに巨大だったベトは蒸発し
-　た。
+The huge slime evaporates.
 #
-　振り払われたのではなく、蒸発。
+Not blown off, evaporated.
 #
-　その事からも、ルーアルテの力量が伺える。
+That alone is enough to display Rualtei's
+strength.
 #
-<name "ルーアルテ" "!RA0024">
-「よし」
+<name "Rualtei" "!RA0024">
+"Okay."
 #
-　しかし、褒めては貰えないだろう。
+But nobody would praise her for it.
 #
-　なぜなら、ベトに絡みつかれた時点で失格だから
-　だ。
+Because getting ambushed by a slime is 
+shameful on its own.
 #
-<name "ルーアルテ" "!RA0025">
-「ううー、気持ち悪い。
-　なんなのよ、まったく」
+<name "Rualtei" "!RA0025">
+"Oooh. So gross.
+ What the hell?
+ Geez."
 #
-<name "ルーアルテ" "!RA0026">
-「ま、私に掛かればこんなもんだけどね」
+<name "Rualtei" "!RA0026">
+"Well, that's what happens when you jump on
+ me."
 #
-<name "ルーアルテ" "!RA0027">
-「ん？」
+<name "Rualtei" "!RA0027">
+"Hm?"
 #
 <background "ev023c00.agf" 10>
-<name "ルーアルテ" "!RA0028">
-「え？」
+<name "Rualtei" "!RA0028">
+"Huh?"
 #
 <background "ev023d00.agf" 10>
-<name "ルーアルテ" "!RA0029">
-「ちょっと、え、なに、服が！」
+<name "Rualtei" "!RA0029">
+"Hey!
+ Huh?
+ What?
+ My clothes!"
 #
 <background "ev023e00.agf" 10>
-<name "ルーアルテ" "!RA0030">
-「きゃぁぁぁぁぁぁっ！」
+<name "Rualtei" "!RA0030">
+"Eeeeeek!"
 #
-　ルーアルテを襲った巨大なベトは、ソフィアが逃
-　がした改造ベトだった。
+The giant slime was the modified one that
+Sofia accidentally let go.
 #
-　衣服だけを溶かす、魔王ダークス好みの。
+It only melts clothing, just like the Overlord
+prefers.
 #
-<name "ルーアルテ" "!RA0031">
-「も、もう、なんなのよー」
+<name "Rualtei" "!RA0031">
+"G-Geez!
+ What the hell!?"
 #
-　ともかく、ルーアルテは近くの葉で身体の各所を
-　隠し、帰る事になった。
+Rualtei tries to cover herself with leaves
+and runs away.
 #
 \x78\x78

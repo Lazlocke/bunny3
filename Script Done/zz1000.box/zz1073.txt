@@ -1,86 +1,92 @@
 ﻿<music 53>
 <background "ev081d01.agf" 10>
-<name "ダークス">
-「それで、こうされるとわかっていて、また来た理
-　由は？
-　まさか、勝てると思っていたとか言わないよな」
+"So, you knew it'd end up like this and you
+ came back anyway?
+ You can't possibly have thought you were
+ going to beat me."
 #
-<name "戦闘狂な冒険者" "!LB0133">
-「ふん」
+<name "Berserker Adventurer" "!LB0133">
+"Hmph."
 #
-<name "ダークス">
-「…………」
+<name "Darx">
+"..."
 #
-<name "戦闘狂な冒険者" "!LB0134">
-「な、なによ」
+<name "Berserker Adventurer" "!LB0134">
+"W-What?"
 #
-<name "ダークス">
-「名前は？」
+<name "Darx">
+"What's your name?"
 #
-<name "戦闘狂な冒険者" "!LB0135">
-「フレーよ」
+<name "Berserker Adventurer" "!LB0135">
+"Frei."
 #
-<name "ダークス">
-「俺の部下になれ」
+<name "Darx">
+"Join me."
 #
-<name "戦士フレー" "!LB0136">
-「え？」
+<name "Frei" "!LB0136">
+"Huh?"
 #
-<name "ダークス">
-「ああ、ＯＫするまで抱き続けるから、その気にな
-　ったらそう言えよ」
+<name "Darx">
+"Oh, I'll just keep fucking you until you say
+ okay, so just say if that's what you want."
 #
-<name "戦士フレー" "!LB0137">
-「え、あ、え、ちょ、ちょっと……あっ、あー！」
+<name "Frei" "!LB0137">
+"Huh? Ah, huh? H-Hold on...
+ Ah! Aaah!"
 #
-　その後、六度目の射精を終えると同時に、フレー
-　は俺の仲間になった。
+After coming in her six more times, Frei
+joined me.
 #
 \xBC 0  "味方戦士"  -1 \x00\x00\x8A 1  0  0  0  "戦士フレーが仲間になった。" 
 <music 11>
 <background "bg008a0.agf" 10>
 <sprite "ta34c001.agf" 4 4 11>
-<name "商会メイド" "!AC0236">
-「よろしいので？」
+<name "Company Maid" "!AC0236">
+"Are you sure about this?"
 #
-<name "ダークス">
-「ああ、構わんし、ここにも馴染むだろう」
+<name "Darx">
+"Yeah, I'm fine with it, and she'll get used
+ to things here."
 #
-<name "ダークス">
-「ま、最初はどうしてもお前らに苦労を掛けるだろ
-　うがな」
+<name "Darx">
+"Well, I'm sure she'll be a handful for you
+ guys to start out."
 #
-<name "商会メイド" "!AC0237">
-「いえ」
+<name "Company Maid" "!AC0237">
+"It's nothing."
 #
-<name "ダークス">
-「……お前ら魔族は、同じ事を繰り返すのや、ある
-　物の改良には長けている」
+<name "Darx">
+"...You demons do the same things over and
+ over. You're very good at mastering a known
+ thing."
 #
-<name "ダークス">
-「しかし、何も無い所に物を生み出すのは苦手だ」
+<name "Darx">
+"But you're bad at creating something out of
+ nothing."
 #
-<name "商会メイド" "!AC0238">
-「街の発展には、人間が居ると？」
+<name "Company Maid" "!AC0238">
+"You think humans will help develop the city?"
 #
-<name "ダークス">
-「違う発想をする者が居るのは、大きい」
+<name "Darx">
+"It's best to have people with different ways
+ of thinking."
 #
-<name "ダークス">
-「と、素人ながらに考えたわけだ。
-　これで納得してくれるか？」
+<name "Darx">
+"Well, that's my inexperienced assumption.
+ Convincing enough?"
 #
 <sprite "ta34c000.agf" 4 4 12>
-<name "商会メイド" "!AC0239">
-「はい。
-　ご配慮、ありがとうございます」
+<name "Company Maid" "!AC0239">
+"Yes.
+ Thank you for your concern."
 #
-<name "ダークス">
-「ま、人間の悪い面も理解している。
-　そうそう数は増やさんから安心しろ」
+<name "Darx">
+"I know humans have their bad side too.
+ Don't worry, there won't be too many of
+ them."
 #
-<name "商会メイド" "!AC0240">
-「はい」
+<name "Company Maid" "!AC0240">
+"Okay."
 #
 <removesprite -1 11>
 \x2B\x78\x78

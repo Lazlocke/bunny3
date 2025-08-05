@@ -1,159 +1,164 @@
 ﻿<music 7>
 <background "bg025a0.agf" 10>
 <sprite "ta07a003.agf" 4 4 11>
-<name "謎の声" "!MA0015">
-「うむ。
-　君がダークスだな。
-　よく参られた」
+<name "Mysterious Voice" "!MA0015">
+"Hmm.
+ So you're Darx.
+ You did well to make it here."
 #
-<name "ダークス">
-「誰だ？」
+<name "Darx">
+"Who are you?"
 #
 <sprite "ta07a004.agf" 4 4 12>
-<name "謎の声" "!MA0016">
-「私の名はワダツミ」
+<name "Mysterious Voice" "!MA0016">
+"My name is Wadatsumi."
 #
 <sprite "ta07a003.agf" 4 4 12>
-<name "ワダツミ" "!MA0017">
-「君の敵だ」
+<name "Wadatsumi" "!MA0017">
+"I am your enemy."
 #
-<name "ダークス">
-「スイセンの上に居たのはお前か」
+<name "Darx">
+"So you're the one giving orders to Suisen?"
 #
 <sprite "ta07a004.agf" 4 4 12>
-<name "ワダツミ" "!MA0018">
-「その通りだ」
+<name "Wadatsumi" "!MA0018">
+"That is correct."
 #
 <sprite "ta07a003.agf" 4 4 12>
-<name "ワダツミ" "!MA0019">
-「別に私の名前とか言ってくれても良かったのだが、
-　スイセン君は忠義深いようだ」
+<name "Wadatsumi" "!MA0019">
+"Apparently she told you my name, but her
+ devotion to me is still admirable."
 #
 <sprite "ta07a004.agf" 4 4 12>
-<name "ワダツミ" "!MA0020">
-「お陰でかなり時間を稼いでくれた。
-　感謝すべきだな。
-　うむ」
+<name "Wadatsumi" "!MA0020">
+"She has bought me considerable time.
+ I must be grateful.
+ Mmhmm."
 #
-<name "ダークス">
-「ずいぶんと俺を前に余裕だな」
+<name "Darx">
+"You seem confident standing here before me."
 #
 <sprite "ta07a003.agf" 4 4 12>
-<name "ワダツミ" "!MA0021">
-「余裕？
-　私の態度がかね？」
+<name "Wadatsumi" "!MA0021">
+"Confident?
+ You mean my attitude?"
 #
 <sprite "ta07a004.agf" 4 4 12>
-<name "ワダツミ" "!MA0022">
-「人間の世界に来るのに、かなりの力を削ぎ落とさ
-　れたこの私が、余裕に見えるかね？」
+<name "Wadatsumi" "!MA0022">
+"I had to sacrifice a considerable amount of
+ strength to come to the human world, and
+ you see this as confidence?"
 #
-<name "ダークス">
-「切羽詰っているようには見えないな」
+<name "Darx">
+"It doesn't seem like you're up against the
+ wall."
 #
 <sprite "ta07a003.agf" 4 4 12>
-<name "ワダツミ" "!MA0023">
-「それはね、年の功というものだよ」
+<name "Wadatsumi" "!MA0023">
+"That is the wisdom that comes with age."
 #
 <sprite "ta07a004.agf" 4 4 12>
-<name "ワダツミ" "!MA0024">
-「長く生きていると、色々な事態に遭遇する」
+<name "Wadatsumi" "!MA0024">
+"If you live long enough, you will learn many
+ things."
 #
 <sprite "ta07a003.agf" 4 4 12>
-<name "ワダツミ" "!MA0025">
-「その度に、策を弄して粘ったものだよ」
+<name "Wadatsumi" "!MA0025">
+"And in all cases, you must have a plan, and
+ you must stick to it."
 #
 <sprite "ta07a004.agf" 4 4 12>
-<name "ワダツミ" "!MA0026">
-「今回もそうだ」
+<name "Wadatsumi" "!MA0026">
+"Now is no exception."
 #
 <sprite "ta07a003.agf" 4 4 12>
-<name "ワダツミ" "!MA0027">
-「天界の者が、魔界の者と手を組み、一つの街で生
-　きる」
+<name "Wadatsumi" "!MA0027">
+"Celestials joining with demons, living in a
+ city together."
 #
 <sprite "ta07a004.agf" 4 4 12>
-<name "ワダツミ" "!MA0028">
-「とんでもない事態だ」
+<name "Wadatsumi" "!MA0028">
+"It is outrageous."
 #
 <sprite "ta07a005.agf" 4 4 12>
-<name "ワダツミ" "!MA0029">
-「許しがたい」
+<name "Wadatsumi" "!MA0029">
+"It is absurd."
 #
 <sprite "ta07a006.agf" 4 4 12>
-<name "ワダツミ" "!MA0030">
-「いや、許してはいけない」
+<name "Wadatsumi" "!MA0030">
+"No, it is unacceptable."
 #
 <sprite "ta07a005.agf" 4 4 12>
-<name "ワダツミ" "!MA0031">
-「君は、隣人が凶暴な者とわかっていて、日々を安
-　心して暮らせるかい？」
+<name "Wadatsumi" "!MA0031">
+"You know your neighbors are savages.
+ How can you live in peace?"
 #
 <sprite "ta07a000.agf" 4 4 12>
-<name "ワダツミ" "!MA0032">
-「無理だろう」
+<name "Wadatsumi" "!MA0032">
+"You cannot."
 #
 <sprite "ta07a001.agf" 4 4 12>
-<name "ワダツミ" "!MA0033">
-「なのに、そんな街が出来てしまうと、純粋な天界
-　の者達はコロッと騙されてしまう」
+<name "Wadatsumi" "!MA0033">
+"And yet, creating such a city tricks the
+ innocents of Celestia."
 #
 <sprite "ta07a002.agf" 4 4 12>
-<name "ワダツミ" "!MA0034">
-「隣人は、実は良いヤツなんじゃないかと」
+<name "Wadatsumi" "!MA0034">
+"Perhaps our neighbors are actually fine
+ people."
 #
 <sprite "ta07a006.agf" 4 4 12>
-<name "ワダツミ" "!MA0035">
-「愚かしい」
+<name "Wadatsumi" "!MA0035">
+"How foolish."
 #
 <sprite "ta07a003.agf" 4 4 12>
-<name "ワダツミ" "!MA0036">
-「愚かしいが愛しい天界の者達の為に。
-　あの街と……そして君には消えて貰いたい」
+<name "Wadatsumi" "!MA0036">
+"For the foolish Celestials that I cherish,
+ that city... must be erased."
 #
-<name "ダークス">
-「俺もか？」
+<name "Darx">
+"And me too?"
 #
 <sprite "ta07a004.agf" 4 4 12>
-<name "ワダツミ" "!MA0037">
-「ああ、君もだ」
+<name "Wadatsumi" "!MA0037">
+"Yes, you as well."
 #
 <removesprite -1 11>
 <music 9>
 <background "ev075c00.agf" 10>
-　ワダツミの背後に、俺の分身体の姿が見える。
+I can see my other body behind him.
 #
-　その分身体の中央には、フォーゼロッテの姿。
+And in the middle of it is Forzelotte.
 #
-<name "ワダツミ" "!MA0038">
-「この分身体。
-　なかなかのものだ」
+<name "Wadatsumi" "!MA0038">
+"This separate body is quite impressive."
 #
-<name "ワダツミ" "!MA0039">
-「私の子であるなら、よくやったと頭を撫でてやる
-　ところだが……」
+<name "Wadatsumi" "!MA0039">
+"If it was my son, I would pat its head and
+ tell it that it had done well..."
 #
-<name "ワダツミ" "!MA0040">
-「人間となると、そうもいかん」
+<name "Wadatsumi" "!MA0040">
+"But it's not a human."
 #
-<name "ワダツミ" "!MA0041">
-「人間の分際で、これだけの魔力を持つ者など、存
-　在を許してはいかんのだ」
+<name "Wadatsumi" "!MA0041">
+"A human having this much mana is something
+ that cannot be allowed to exist."
 #
-<name "ダークス">
-「なるほど。
-　それだけ喋っているのに、話し合いでの解決は無
-　理って事だな」
+<name "Darx">
+"I see.
+ So after all this talk, there's nothing I
+ can say?"
 #
-<name "ワダツミ" "!MA0042">
-「うむ。
-　素直に死んでくれと頼んでも、無理だろう」
+<name "Wadatsumi" "!MA0042">
+"Mmm.
+ I suppose I cannot ask you to just lay down
+ and die."
 #
-<name "ダークス">
-「確かにな」
+<name "Darx">
+"I suppose."
 #
-<name "ワダツミ" "!MA0043">
-「では、命令だ。
-　死にたまえ」
+<name "Wadatsumi" "!MA0043">
+"Then I'm not asking.
+ Die."
 #
 \x78\x78

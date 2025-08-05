@@ -1,102 +1,106 @@
 ﻿<music 12>
 <background "ev074a00.agf" 10>
-<name "戦士な冒険者" "!ZF0052">
-「よーし、良い感じに進めたな」
+<name "Warrior Adventurer" "!ZF0052">
+"Okay, we're making good progress."
 #
-<name "侍な冒険者" "!ZG0024">
-「ああ。
-　俺のカンだと、そろそろ最深部だ」
+<name "Samurai Adventurer" "!ZG0024">
+"Yeah.
+ My instincts tell me we're almost to the 
+ end."
 #
-<name "戦士な冒険者" "!ZF0053">
-「そうか。
-　じゃあ、壁にでっかく名前を書いてやるぜ」
+<name "Warrior Adventurer" "!ZF0053">
+"I see.
+ Okay then, I'll write my name in huge letters
+ on the wall."
 #
-<name "侍な冒険者" "!ZG0025">
-「いいねぇ……ん？」
+<name "Samurai Adventurer" "!ZG0025">
+"Sound g... hm?"
 #
-<name "戦士な冒険者" "!ZF0054">
-「誰か居るな。
-　警戒しろ」
+<name "Warrior Adventurer" "!ZF0054">
+"Someone's there.
+ Be careful."
 #
-<name "侍な冒険者" "!ZG0026">
-「おう。
-　後衛、戦闘準備だ」
+<name "Samurai Adventurer" "!ZG0026">
+"Yeah.
+ Rear guard, prepare for battle."
 #
-<name "魔法使いな冒険者" "!LB0113">
-「出来てるよ」
+<name "Wizard Adventurer" "!LB0113">
+"I'm ready."
 #
-<name "戦士な冒険者" "!ZF0055">
-「奥に居るヤツだ、油断するなよ」
+<name "Warrior Adventurer" "!ZF0055">
+"You in the back, don't get careless."
 #
-<name "魔法使いな冒険者" "!LB0114">
-「任せなって」
+<name "Wizard Adventurer" "!LB0114">
+"Leave it to me."
 #
 <music 16>
 <background "ev049a00.agf" 10>
-<name "エカテー" "!TA0061">
-「いらっしゃい」
+<name "Ekate" "!TA0061">
+"Welcome."
 #
-<name "侍な冒険者" "!ZG0027">
-「……あれ？」
+<name "Samurai Adventurer" "!ZG0027">
+"...Huh?"
 #
-<name "戦士な冒険者" "!ZF0056">
-「どうしたんだ！
-　斬り掛かろうぜ」
+<name "Warrior Adventurer" "!ZF0056">
+"What's the matter!?
+ Slice her up!"
 #
-<name "侍な冒険者" "!ZG0028">
-「黙れ、そして武器をしまえ」
+<name "Samurai Adventurer" "!ZG0028">
+"Shut up!
+ And put your weapons away!"
 #
-<name "戦士な冒険者" "!ZF0057">
-「な、なにを……」
+<name "Warrior Adventurer" "!ZF0057">
+"W-What?"
 #
-<name "侍な冒険者" "!ZG0029">
-「後ろ、絶対に攻撃するな！」
+<name "Samurai Adventurer" "!ZG0029">
+"You back there, absolutely don't attack her!"
 #
-<name "魔法使いな冒険者" "!LB0115">
-「え？」
+<name "Wizard Adventurer" "!LB0115">
+"Huh?"
 #
-<name "エカテー" "!TA0062">
-「なかなか、ここまで来るのが居なくて退屈してい
-　たのよ」
+<name "Ekate" "!TA0062">
+"Not many make it this far.
+ I was getting bored."
 #
-<name "エカテー" "!TA0063">
-「ふふふ。
-　さあ、どうやって、持てなしてあげましょうか」
+<name "Ekate" "!TA0063">
+"Heheheh.
+ Now, how shall I have you entertain me?"
 #
-<name "侍な冒険者" "!ZG0030">
-「そ、そこに居られるのは、ひょっとして高名な魔
-　王の美しい奥方様ですか！」
+<name "Samurai Adventurer" "!ZG0030">
+"Y-You over there.
+ Could you by chance be the beautiful wife of
+ the famous Overlord?"
 #
 <music 17>
-<name "エカテー" "!TA0064">
-「………………座りなさい。
-　お茶を出します。
-　お茶菓子は甘い物しかないけど、構わない？」
+<name "Ekate" "!TA0064">
+".........Have a seat.
+ I'll get drinks.
+ I only have candy for snacks, do you mind?"
 #
-<name "侍な冒険者" "!ZG0031">
-「あざっす」
+<name "Samurai Adventurer" "!ZG0031">
+"Thanks."
 #
-<name "戦士な冒険者" "!ZF0058">
-「あ、あの、なんですか？
-　これ？」
+<name "Warrior Adventurer" "!ZF0058">
+"U-Um, what's going on here?"
 #
-<name "侍な冒険者" "!ZG0032">
-「いいから、絶対に逆らうな。
-　そして、褒めろ。
-　褒めちぎれ」
+<name "Samurai Adventurer" "!ZG0032">
+"Just do it. Don't fight it.
+ And compliment her.
+ Flatter her."
 #
-<name "侍な冒険者" "!ZG0033">
-「死にたくなかったら、そうしろ」
+<name "Samurai Adventurer" "!ZG0033">
+"Do it if you don't want to die."
 #
-<name "戦士な冒険者" "!ZF0059">
-「は、はぁ」
+<name "Warrior Adventurer" "!ZF0059">
+"U-Um..."
 #
-<name "侍な冒険者" "!ZG0034">
-「大丈夫だ。
-　三時間ほど惚気話を聞けば、解放して貰える。
-　回避不能な罠の一種だと思え」
+<name "Samurai Adventurer" "!ZG0034">
+"It'll be okay. If you listen to her talk 
+ about her love life for about three hours,
+ she'll let us go. Think about it like a kind
+ of inescapable trap."
 #
-　最終防衛ラインの要として、エカテーは万全の働
-　きをしてくれた。
+Ekate worked hard as the final line of 
+defense.
 #
 \x78\x78

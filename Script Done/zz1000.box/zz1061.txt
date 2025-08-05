@@ -1,130 +1,139 @@
 ﻿<music 8>
 <background "ev047b00.agf" 10>
-<name "喜ぶ学園生徒" "!HC0054">
-「ひゃぁっ、冷たい」
+<name "Happy Student" "!HC0054">
+"Aaah!
+ It's cold!"
 #
-<name "笑顔の学園生徒" "!SB0135">
-「気持ち良いわね」
+<name "Smiling Student" "!SB0135">
+"It feels nice."
 #
-<name "体操する学園生徒" "!RB0110">
-「うん」
+<name "Exercising Student" "!RB0110">
+"Yeah."
 #
-<name "喜ぶ学園生徒" "!HC0055">
-「迷宮の中じゃ、こんな開放感は無いもんね」
+<name "Happy Student" "!HC0055">
+"You don't get this kind of openness in the
+ dungeon."
 #
-<name "監督する学園教師" "!TC0142">
-「遊んでないで準備運動。
-　終わったら、泳げない者は第一コースに集合。
-　泳げるのは第一コース以外で自由に泳いで良し」
+<name "Supervising Teacher" "!TC0142">
+"Quit messing around and start stretching.
+ When you're finished, whoever can't swim head
+ to the first lane. If you can swim, you're
+ free to swim outside that area."
 #
-<name "喜ぶ学園生徒" "!HC0056">
-「はーい」
+<name "Happy Student" "!HC0056">
+"Yes, ma'am."
 #
-<name "コゼロット" "!NA0043">
-「ん？」
+<name "Kozelotte" "!NA0043">
+"Hm?"
 #
-<name "体操する学園生徒" "!RB0111">
-「生徒会長、なにかあった？」
+<name "Exercising Student" "!RB0111">
+"Is something the matter, president?"
 #
-<name "コゼロット" "!NA0044">
-「いえ……あ」
+<name "Kozelotte" "!NA0044">
+"No...
+ Ah."
 #
-<name "ダークス">
-「よっ」
+<name "Darx">
+"Hey."
 #
-<name "コゼロット" "!NA0045">
-「お、お父様」
+<name "Kozelotte" "!NA0045">
+"D-Dad."
 #
-<name "ダークス">
-「いやー、学園の生徒がプールを使うからって見学
-　に来たんだ」
+<name "Darx">
+"Ah, well, I came to visit because I heard
+ the students would be using the pool."
 #
-<name "ダークス">
-「なかなか似合うな」
+<name "Darx">
+"You look pretty good."
 #
-<name "コゼロット" "!NA0046">
-「ありがとうございます。
-　ですが、今は女子の時間です。
-　男性であるお父様が近付くのは……」
+<name "Kozelotte" "!NA0046">
+"Thank you very much, but it's the girls' time
+ right now.
+ You, a man, should not be here..."
 #
-<name "ダークス">
-「大丈夫大丈夫。
-　俺、魔王だぞ」
+<name "Darx">
+"Don't sweat it.
+ I'm the Overlord."
 #
-<name "コゼロット" "!NA0047">
-「お父様、そういった態度は反感を買います。
-　ご自重下さい」
+<name "Kozelotte" "!NA0047">
+"Dad, that attitude just makes me angry.
+ Please show some dignity."
 #
-<name "ロギウス" "!PA0059">
-「ええ、まったく、その通りですね」
+<name "Logius" "!PA0059">
+"Yes. Honestly.
+ You're exactly right."
 #
-<name "ダークス">
-「おう、ロギウス。
-　お前もなかなか似合ってるぞ」
+<name "Darx">
+"Hey, Logius.
+ You're looking pretty good too."
 #
-<name "ロギウス" "!PA0060">
-「ありがとうございます」
+<name "Logius" "!PA0060">
+"Thank you very much."
 #
-<name "ロギウス" "!PA0061">
-「しかし……やはり来ましたね」
+<name "Logius" "!PA0061">
+"But... 
+ So you came after all."
 #
-<name "ロギウス" "!PA0062">
-「私は色々と対策したんですよ。
-　警備員を増やし、トラップを仕掛け、さらには親
-　衛隊の方々にも協力して頂き……」
+<name "Logius" "!PA0062">
+"I took a lot of precautions.
+ Increased patrols, set traps, and enlisted
+ the help of the bodyguards..."
 #
-<name "ロギウス" "!PA0063">
-「ですが、それらを突破して来ました。
-　流石は魔王様ですね」
+<name "Logius" "!PA0063">
+"But you made it through all of them.
+ You indeed are the Overlord."
 #
-<name "ダークス">
-「ははは、そう褒めるなよ」
+<name "Darx">
+"Hahaha.
+ No need for such praise."
 #
-<name "ロギウス" "!PA0064">
-「あははははは。
-　では、さようならです」
+<name "Logius" "!PA0064">
+"Hahahahahaha.
+ Well then, goodbye."
 #
-<name "ダークス">
-「え？」
+<name "Darx">
+"Huh?"
 #
-<name "ロギウス" "!PA0065">
-「死ねぃっ！」
+<name "Logius" "!PA0065">
+"Die!"
 #
-<name "ダークス">
-「うおおっ！」
+<name "Darx">
+"Aah!"
 #
-<name "ロギウス" "!PA0066">
-「止められるなら、この私が止めて見せる！」
+<name "Logius" "!PA0066">
+"If you won't stop, then I'll stop you
+ myself!"
 #
-<name "ダークス">
-「な、な、なんだ、え、うおおっ！」
+<name "Darx">
+"W-W-What the... Ah!
+ Aaahh!"
 #
-<name "ロギウス" "!PA0067">
-「生徒はこの私が守る！」
+<name "Logius" "!PA0067">
+"I will protect my students!"
 #
-<name "ロギウス" "!PA0068">
-「生徒会長、君はどちらにつく！」
+<name "Logius" "!PA0068">
+"Student president, which side are you on!?"
 #
-<name "コゼロット" "!NA0048">
-「今回の件ではお父様に非があります。
-　ロギウス教師長、援護します」
+<name "Kozelotte" "!NA0048">
+"In this case, my dad's wrong.
+ Ms. Logius, I'll support you."
 #
-<name "ロギウス" "!PA0069">
-「よし！
-　他の者はそのまま授業を続行。
-　担当教師、監視を怠るな！
-　生徒を溺れさせたら首を物理的に切るからな」
+<name "Logius" "!PA0069">
+"Okay! The rest of you, back to class.
+ Teacher, do not take your eyes off them!
+ If any students drown, I will cut off your
+ head myself!"
 #
-<name "監督する学園教師" "!TC0143">
-「は、はい！」
+<name "Supervising Teacher" "!TC0143">
+"Y-Yes, ma'am!"
 #
-<name "ロギウス" "!PA0070">
-「では、行くぞ魔王！」
+<name "Logius" "!PA0070">
+"Now, face us, Overlord!"
 #
-　俺はロギウスとコゼロットのコンビの攻撃を避け
-　ながら撤退するしかなかった。
+I was forced to beat a hasty retreat while
+dodging the attacks of Logius and Kozelotte.
 #
-　まあ、ロギウスとコゼロットの水着姿は堪能でき
-　たので良しとしよう。
+Well, I got to see those two in their
+swimsuits, so we can call that a success.
 #
 \x78\x78

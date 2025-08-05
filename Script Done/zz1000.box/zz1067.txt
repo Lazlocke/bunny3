@@ -1,385 +1,404 @@
 ﻿<music 3>
 <background "bg010a0.agf" 10>
-　俺はとある報告を受け、耳を疑った。
+I couldn't believe my ears when I heard the
+report.
 #
-<name "ダークス">
-「冗談……じゃないよな」
+<name "Darx">
+"This... isn't a joke, is it?"
 #
 <sprite "ta34a002.agf" 4 4 11>
-<name "商会メイド" "!AC0222">
-「は、はい……かなり確かな情報で……」
+<name "Company Maid" "!AC0222">
+"N-No...
+ It's pretty reliable information."
 #
-<name "ダークス">
-「確認……した方がいいよな」
+<name "Darx">
+"I had... better check for myself."
 #
-<name "商会メイド" "!AC0223">
-「できれば」
+<name "Company Maid" "!AC0223">
+"If you can."
 #
 <removesprite -1 11>
-　俺は報告の場所に向かった。
+I head to the location.
 #
-　それはダークス宮。
+It's the Temple of Darx.
 #
-　俺の迷宮、最深部。
+The deepest part of my personal dungeon.
 #
-　つまり、魔王亭から一番近い場所。
+In other words, the closest place to the
+Overlord's Retreat.
 #
 <music 12>
 <background "ev049a00.agf" 10>
-<name "エカテー" "!TA0020">
-「あははははは」
+<name "Ekate" "!TA0020">
+"Hahahahaha!"
 #
-<name "エカテー" "!TA0022">
-「よく来たわね！」
+<name "Ekate" "!TA0022">
+"You've come this far!"
 #
-<name "エカテー" "!TA0023">
-「しかし、その快進撃もここまで！」
+<name "Ekate" "!TA0023">
+"But this is as far as you go!"
 #
-<name "エカテー" "!TA0024">
-「魔王の妻！
-　であるこの私が、この先には通しません！」
+<name "Ekate" "!TA0024">
+"The Overlord's wife will not let you take a
+ single step further!"
 #
-<name "エカテー" "!TA0025">
-「もう一度、言います」
+<name "Ekate" "!TA0025">
+"I will say it again."
 #
-<name "エカテー" "!TA0026">
-「魔王の妻！
-　であるこの私が、この先には通しません！」
+<name "Ekate" "!TA0026">
+"The Overlord's wife will not let you take a
+ single step further!"
 #
-<name "戦士な冒険者" "!MB0043">
-「お、おい、嘘だろ？
-　あれ、エカテーだよな」
+<name "Warrior Adventurer" "!MB0043">
+"H-Hey, is this for real?
+ Isn't that Ekate?"
 #
-<name "僧侶な冒険者" "!CB0056">
-「ああ、中央の迷宮に居るバケモンだ」
+<name "Monk Adventurer" "!CB0056">
+"Yeah, she's the monster at the end of the
+ dungeon."
 #
-<name "戦士な冒険者" "!MB0044">
-「俺、先輩から、出会ったら全力で逃げろって教え
-　られた」
+<name "Warrior Adventurer" "!MB0044">
+"I heard it's best to run away as quick as you
+ can if you ever run into her."
 #
-<name "僧侶な冒険者" "!CB0057">
-「無理だよ。
-　俺、腰が抜けてるもん」
+<name "Monk Adventurer" "!CB0057">
+"I can't do it.
+ I can't even stand anymore."
 #
-<name "戦士な冒険者" "!MB0045">
-「ありえねぇ。
-　なんでこんなショボイ迷宮にエカテーが居るんだ
-　よ」
+<name "Warrior Adventurer" "!MB0045">
+"It can't be.
+ What would Ekate be doing in such a crappy
+ dungeon?"
 #
-<name "僧侶な冒険者" "!CB0058">
-「酷い、酷過ぎる！」
+<name "Monk Adventurer" "!CB0058">
+"It's too much!
+ It's too horrible!"
 #
-<name "エカテー" "!TA0027">
-「ふふふふふ。
-　安心しなさい。
-　簡単に殺したりはしないから」
+<name "Ekate" "!TA0027">
+"Heheheheheheh.
+ Don't worry.
+ You won't die so easily."
 #
-<name "エカテー" "!TA0028">
-「それどころか、こちらのお願いを聞いてくれれば、
-　見逃してあげます。
-　ああ、先には行かせませんけどね」
+<name "Ekate" "!TA0028">
+"On the contrary, if you do me a favor, I'll
+ let you live.
+ Oh, but you still can't go past here."
 #
-<name "戦士な冒険者" "!MB0046">
-「え？」
+<name "Warrior Adventurer" "!MB0046">
+"Huh?"
 #
-<name "僧侶な冒険者" "!CB0059">
-「本当？」
+<name "Monk Adventurer" "!CB0059">
+"Really?"
 #
-<name "戦士な冒険者" "!MB0047">
-「き、聞く。
-　お願いを聞くから、見逃してくれ」
+<name "Warrior Adventurer" "!MB0047">
+"T-Tell us.
+ We'll do whatever you want.
+ Just let us go."
 #
-<name "エカテー" "!TA0029">
-「よろしい。
-　ではまず、これから私のいう言葉を覚えなさい」
+<name "Ekate" "!TA0029">
+"Very well.
+ Then first, memorize what I'm about to say."
 #
-<name "エカテー" "!TA0030">
-「魔王の妻はエカテー」
+<name "Ekate" "!TA0030">
+"The wife of the Overlord, Ekate."
 #
-<name "エカテー" "!TA0031">
-「覚えたかな？」
+<name "Ekate" "!TA0031">
+"Can you remember that?"
 #
-<name "戦士な冒険者" "!MB0048">
-「お、覚えた」
+<name "Warrior Adventurer" "!MB0048">
+"I-I can."
 #
-<name "エカテー" "!TA0032">
-「では、どうぞ」
+<name "Ekate" "!TA0032">
+"Then let's hear it."
 #
-<name "戦士な冒険者" "!MB0049">
-「ま、魔王の妻はエカテー」
+<name "Warrior Adventurer" "!MB0049">
+"T-The wife of the Overlord, Ekate."
 #
-<name "エカテー" "!TA0033">
-「そちらの貴方は」
+<name "Ekate" "!TA0033">
+"You there."
 #
-<name "僧侶な冒険者" "!CB0060">
-「魔王の妻はエカテー」
+<name "Monk Adventurer" "!CB0060">
+"The wife of the Overlord, Ekate."
 #
-<name "エカテー" "!TA0034">
-「大変、よく出来ました」
+<name "Ekate" "!TA0034">
+"Very well done."
 #
-<name "戦士な冒険者" "!MB0050">
-「よ、よし！」
+<name "Warrior Adventurer" "!MB0050">
+"O-Okay!"
 #
-<name "僧侶な冒険者" "!CB0061">
-「やった！」
+<name "Monk Adventurer" "!CB0061">
+"We did it!"
 #
-<name "エカテー" "!TA0035">
-「では、地上に帰ったら十人以上の方にこの言葉を
-　伝えなさい」
+<name "Ekate" "!TA0035">
+"Now, when you return to the surface, tell 
+ that to at least ten people."
 #
-<name "エカテー" "!TA0036">
-「わかりましたか？」
+<name "Ekate" "!TA0036">
+"Understand?"
 #
-<name "戦士な冒険者" "!MB0051">
-「は、はい。
-　わかりました」
+<name "Warrior Adventurer" "!MB0051">
+"O-Okay.
+ I understand."
 #
-<name "僧侶な冒険者" "!CB0062">
-「必ず、十人以上にこの言葉を伝えます」
+<name "Monk Adventurer" "!CB0062">
+"I swear I'll tell it to at least ten people."
 #
-<name "エカテー" "!TA0037">
-「では、去りなさい！」
+<name "Ekate" "!TA0037">
+"Then leave!"
 #
-<name "戦士な冒険者" "!MB0052">
-「は、はいー！」
+<name "Warrior Adventurer" "!MB0052">
+"Y-Yes, ma'am!"
 #
-　……
+...
 #
 <music 11>
-<name "エカテー" "!TA0038">
-「ふう、一仕事を終えたー」
+<name "Ekate" "!TA0038">
+"Whew.
+ Job complete."
 #
-<name "ダークス">
-「えっとだな」
+<name "Darx">
+"Um, a word."
 #
-<name "エカテー" "!TA0039">
-「魔王様♪」
+<name "Ekate" "!TA0039">
+"Overlord!♪"
 #
-　俺の元にやって来たとある報告。
+This is the report I got.
 #
-　エカテーが、ダークス宮の最深部で人間を苛めて
-　いる。
+That Ekate was tormenting humans deep inside
+the Temple of Darx.
 #
-　耳を疑ったが、本当だった。
+I couldn't believe it, but it was true.
 #
 <music 18>
 <background "ev050a00.agf" 10>
-<name "エカテー" "!TA0040">
-「あん……魔王様ぁ♪」
+<name "Ekate" "!TA0040">
+"Aah! My Lord!♪"
 #
-　魔王亭の俺の部屋までエカテーを連れて来た俺は、
-　その場でベッドに雪崩れ込まされた。
+I brought her to my room in the Overlord's
+Retreat and immediately threw her on the bed.
 #
-　まあ、拒否をする気はないので、たっぷりと楽し
-　み、楽しませてやった。
+Well, I'm not going to say no to her, so I'm
+more than happy enough to have plenty of fun
+with her.
 #
-<name "エカテー" "!TA0041">
-「ふふふ……」
+<name "Ekate" "!TA0041">
+"Heheheh..."
 #
-<name "ダークス">
-「珍しく甘えるな」
+<name "Darx">
+"You're being unusually clingy."
 #
-<name "エカテー" "!TA0042">
-「そう？」
+<name "Ekate" "!TA0042">
+"Am I?"
 #
-　エカテーは胸を俺の背中に押し付けながら、抱き
-　しめてくる。
+She hugs me tight from behind, pressing her
+breasts against my back.
 #
-<name "エカテー" "!TA0043">
-「いつも甘えていた気がするけど」
+<name "Ekate" "!TA0043">
+"I think I always cling to you."
 #
-<name "ダークス">
-「確かにな」
+<name "Darx">
+"That's true."
 #
-<name "エカテー" "!TA0044">
-「……寂しかったんだから」
+<name "Ekate" "!TA0044">
+"...It's cause I missed you."
 #
-<name "ダークス">
-「悪かった」
+<name "Darx">
+"Sorry."
 #
-<name "ダークス">
-「でも、扉の間の守備をやってれば、それなりに俺
-　とも会えたんじゃないのか？」
+<name "Darx">
+"But if you were guarding the Hall of Doors,
+ wouldn't you still be able to see me?"
 #
-<name "エカテー" "!TA0045">
-「そう思っていたけど、全然来なかったじゃない！」
+<name "Ekate" "!TA0045">
+"That's what I thought, but you never came 
+ even once!"
 #
-<name "ダークス">
-「まあ、最初の頃はな」
+<name "Darx">
+"Well, things were busy."
 #
-　開墾に忙しく、扉をあまり使わなかった。
+I had a lot of land work to do, and didn't use
+the Doors much.
 #
-<name "エカテー" "!TA0046">
-「むう。
-　もう一回」
+<name "Ekate" "!TA0046">
+"Grr.
+ Again."
 #
-<name "ダークス">
-「はいはい」
+<name "Darx">
+"Yeah, yeah."
 #
-　俺はエカテーの身体を優しく抱き締める。
+I gently embrace her.
 #
-<name "ダークス">
-「そう言えば、どうしてあそこで、あんなことを？」
+<name "Darx">
+"Speaking of which, why were you doing that in
+ there?"
 #
-<name "エカテー" "!TA0047">
-「ち、近くに居たかったけど……
-　邪魔しちゃ駄目だと思ったし……」
+<name "Ekate" "!TA0047">
+"I-I wanted to be nearby, but...
+ I thought I shouldn't bother you."
 #
-<name "ダークス">
-「で、あそこと」
+<name "Darx">
+"So you went there."
 #
-<name "エカテー" "!TA0048">
-「うん」
+<name "Ekate" "!TA0048">
+"Yep."
 #
-<name "ダークス">
-「……寂しい思いをさせて悪かったな」
+<name "Darx">
+"...I'm sorry I made you feel lonely."
 #
-<name "エカテー" "!TA0049">
-「うん」
+<name "Ekate" "!TA0049">
+"Yep."
 #
-<name "ダークス">
-「今日は好きに甘えて良いぞ」
+<name "Darx">
+"You can dote on me however much you want
+ today."
 #
-<name "エカテー" "!TA0050">
-「本当？」
+<name "Ekate" "!TA0050">
+"Really?"
 #
-<name "ダークス">
-「ああ、寂しい思いをさせたお詫びだ」
+<name "Darx">
+"Yeah, as an apology for making you lonely."
 #
-<name "エカテー" "!TA0051">
-「じゃ、じゃあね」
+<name "Ekate" "!TA0051">
+"T-Then..."
 #
-　俺は明け方まで、エカテーの要望に応え続けた。
+I satisfy each and every one of her demands
+until morning.
 #
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta13a006.agf" 4 4 11>
-<name "エカテー" "!TA0052">
-「向こうは辞めて、こっちで再雇用されました」
+<name "Ekate" "!TA0052">
+"I'm quitting there and coming to work here."
 #
 <removesprite -1 11>
-<name "ダークス">
-「と主張を……」
+<name "Darx">
+"She insisted..."
 #
 <sprite "ta08a019.agf" 4 4 11>
-<name "ラキア" "!ZC0458">
-「それを認めると、色々と問題が……」
+<name "Rakia" "!ZC0458">
+"There are a lot of problems with approving
+ that..."
 #
-<name "ダークス">
-「なんとか」
+<name "Darx">
+"We'll figure things out."
 #
 <sprite "ta08a014.agf" 4 4 12>
-<name "ラキア" "!ZC0459">
-「出来れば、戻って頂けると……」
+<name "Rakia" "!ZC0459">
+"If you could possibly just come back..."
 #
 <removesprite -1 11>
 <sprite "ta13a005.agf" 4 4 11>
-<name "エカテー" "!TA0053">
-「やだ」
+<name "Ekate" "!TA0053">
+"Nope."
 #
 <removesprite -1 11>
 <sprite "ta08a013.agf" 4 4 11>
-<name "ラキア" "!ZC0460">
-「で、では……
-　扉の間の守備担当を拡大解釈しまして、ダークス
-　宮とこの街を繋ぐ昇降機、その周囲の守備をする。
-　と言うのはどうでしょう」
+<name "Rakia" "!ZC0460">
+"T-Then... I can expand the definition of the
+ guard area from around the Hall of Doors to
+ the elevator connecting the dungeon to the
+ city. How does that sound?"
 #
-<name "ダークス">
-「良いのか？」
+<name "Darx">
+"Are you sure?"
 #
 <removesprite -1 11>
-　大きな譲歩だ。
+It's a big concession.
 #
-　不機嫌なまま、連れ帰ってもトラブルにしかなら
-　ないとの判断だろうか。
+Maybe she figures that even if she convinced
+Ekate to come back, she'd just be upset and
+more trouble than it's worth.
 #
 <removesprite -1 11>
 <sprite "ta08a011.agf" 4 4 11>
-<name "ラキア" "!ZC0461">
-「ただし、所属はフォーゼロッテ宮。
-　向こうでの仕事もちゃんとして貰います。
-　あと、可能な限り、フォーゼロッテ宮の自宅を拠
-　点としてください」
+<name "Rakia" "!ZC0461">
+"However, you'd work for Forzelotte's Shrine.
+ You would have to do your job for both sides.
+ And as much as possible, you'd have to be
+ stationed in Forzelotte's Shrine."
 #
-<name "ダークス">
-「エカテー、これでどうだ？」
+<name "Darx">
+"How about that, Ekate?"
 #
 <removesprite -1 11>
 <sprite "ta13a017.agf" 4 4 11>
-<name "エカテー" "!TA0054">
-「むうー」
+<name "Ekate" "!TA0054">
+"Mrrrrr..."
 #
 <removesprite -1 11>
 <sprite "ta08a015.agf" 4 4 11>
-<name "ラキア" "!ZC0462">
-「守る場所は、もう一度言いますが、ダークス宮と
-　この街を繋ぐ昇降機、及びその周辺」
+<name "Rakia" "!ZC0462">
+"I'll say it again, the place you'd be 
+ guarding would be the elevator connecting the
+ Temple of Darx to the city, and the area
+ around it."
 #
 <sprite "ta08a016.agf" 4 4 12>
-<name "ラキア" "!ZC0463">
-「周辺の拡大解釈はやめてください。
-　昇降機の見えない場所での戦闘は、ダークス様の
-　能力証明の補助と見なします」
+<name "Rakia" "!ZC0463">
+"Please don't stretch the definition of that
+ either. Fighting outside of eyeshot of the
+ elevator would be seen as assisting Darx in
+ his evaluation."
 #
-<name "ダークス">
-「見なされるとどうなるんだ？」
+<name "Darx">
+"What happens if she does?"
 #
 <sprite "ta08a023.agf" 4 4 12>
-<name "ラキア" "!ZC0464">
-「マクドゥ様のお心次第となります」
+<name "Rakia" "!ZC0464">
+"That depends on Macdo's mood."
 #
-<name "ダークス">
-「……わかった。
-　エカテーもそれで良いな？」
+<name "Darx">
+"...I see.
+ Does that work for you, Ekate?"
 #
 <removesprite -1 11>
 <sprite "ta13a005.agf" 4 4 11>
-<name "エカテー" "!TA0055">
-「うん」
+<name "Ekate" "!TA0055">
+"Yep."
 #
 <removesprite -1 11>
 <sprite "ta08a016.agf" 2 5 11>
 <sprite "ta13a005.agf" 6 4 11>
-<name "ラキア" "!ZC0465">
-「あと、こちらに居る時は、出来るだけダークス宮
-　に居るようにお願いします」
+<name "Rakia" "!ZC0465">
+"And while you're here, please try to stay in
+ the Temple of Darx as much as you can."
 #
 <sprite "ta13a006.agf" 6 4 12>
-<name "エカテー" "!TA0056">
-「頑張る」
+<name "Ekate" "!TA0056">
+"I'll try."
 #
 <removesprite -1 11>
 <music 4>
 <background "bg009a0.agf" 10>
 <sprite "ta08a016.agf" 4 4 11>
-<name "ラキア" "!ZC0466">
-「はぁ」
+<name "Rakia" "!ZC0466">
+"Sigh..."
 #
-<name "ダークス">
-「苦労を掛けるな」
+<name "Darx">
+"Sorry for the headache."
 #
 <sprite "ta08a014.agf" 4 4 12>
-<name "ラキア" "!ZC0467">
-「まったくです」
+<name "Rakia" "!ZC0467">
+"Honestly."
 #
-<name "ダークス">
-「ははは」
+<name "Darx">
+"Hahaha..."
 #
 <sprite "ta08a012.agf" 4 4 12>
-<name "ラキア" "!ZC0468">
-「ところで……エカテー様、幼児化してません？」
+<name "Rakia" "!ZC0468">
+"By the way, have you made her even more of a
+ little girl?"
 #
-<name "ダークス">
-「あー、昨日の晩。
-　ちょっと甘やかしたからなぁ」
+<name "Darx">
+"Aah, that was from last night.
+ She was a little spoiled."
 #
-<name "ダークス">
-「なに、数日で元に戻るさ」
+<name "Darx">
+"She should be back to normal in a few days."
 #
 <sprite "ta08a023.agf" 4 4 12>
-<name "ラキア" "!ZC0469">
-「そう期待します」
+<name "Rakia" "!ZC0469">
+"I certainly hope so."
 #
 <removesprite -1 11>
 \x2B\x78\x78

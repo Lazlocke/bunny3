@@ -1,33 +1,33 @@
 ﻿<music 8>
 <background "ev047b00.agf" 10>
-<name "気になる学園生徒" "!RB0112">
-「ロギウス先生。
-　妙に周囲を気にしているような」
+<name "Concerned Student" "!RB0112">
+"Ms. Logius seems unusually on guard."
 #
-<name "普通の学園生徒" "!LB0096">
-「男子の目を気にしているんじゃない？」
+<name "Regular Student" "!LB0096">
+"Is she worried about boys peeping?"
 #
-<name "気になる学園生徒" "!RB0113">
-「テレているようには見えないわよ。
-　どちらかと言えば、殺気立っている感じ……
-　あ、魔法を使った」
+<name "Concerned Student" "!RB0113">
+"It doesn't seem like she's embarrassed.
+ If anything, more like murderous...
+ Ah, she cast a spell."
 #
-<name "警備する学園生徒" "!GB0089">
-「覗き犯、確保！」
+<name "Guarding Student" "!GB0089">
+"Peeping tom captured!"
 #
-<name "ロギウス" "!PA0071">
-「魔王様か！」
+<name "Logius" "!PA0071">
+"The Overlord!?"
 #
-<name "警備する学園生徒" "!GB0090">
-「違います」
+<name "Guarding Student" "!GB0090">
+"No."
 #
-<name "ロギウス" "!PA0072">
-「ちいっ」
+<name "Logius" "!PA0072">
+"Tch."
 #
-<name "気になる学園生徒" "!RB0114">
-「思いっきり、舌打ちしたよね」
+<name "Concerned Student" "!RB0114">
+"She seems really annoyed by that."
 #
-<name "普通の学園生徒" "!LB0097">
-「あはは……見なかった事にしよう」
+<name "Regular Student" "!LB0097">
+"Hahaha...
+ Let's pretend we didn't see anything."
 #
 \x78\x78

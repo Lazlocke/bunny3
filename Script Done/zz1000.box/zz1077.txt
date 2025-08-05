@@ -1,191 +1,202 @@
 ﻿<music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta34c001.agf" 4 4 11>
-<name "商会メイド" "!DC0254">
-「あの、魔王様。
-　ダークス宮で少々、問題がありまして」
+<name "Company Maid" "!DC0254">
+"Um, Overlord, we have a little problem in
+ the Temple of Darx."
 #
-<name "ダークス">
-「どうしたんだ？」
+<name "Darx">
+"What's the matter?"
 #
-<name "商会メイド" "!DC0255">
-「それが、ダークス宮で魔法実験をする者が居るそ
-　うなんです」
+<name "Company Maid" "!DC0255">
+"There's someone doing magical experiments
+ there."
 #
-<name "ダークス">
-「魔法実験か」
+<name "Darx">
+"Magical experiments?"
 #
 <removesprite -1 11>
-　ありえる話だ。
+I can believe that.
 #
-　というか珍しい話でもない。
+Or rather, it's not uncommon.
 #
-<name "ダークス">
-「なのに俺に相談するって事は……ヤバいのか？」
+<name "Darx">
+"But you're asking me for help so...
+ Something dangerous?"
 #
 <sprite "ta34c001.agf" 4 4 11>
-<name "商会メイド" "!DC0256">
-「はい。
-　閉鎖空間での大規模魔法の実験をしていまして、
-　今の所は大丈夫なのですが、このままエスカレー
-　トされるとダークス宮の崩壊に繋がるかと……」
+<name "Company Maid" "!DC0256">
+"Yes. They're conducting large-scale magic in
+ an enclosed space. It's been okay so far,
+ but if it escalates, it could lead to the
+ collapse of the Temple of Darx."
 #
-<name "ダークス">
-「崩壊か」
+<name "Darx">
+"That bad?"
 #
-<name "商会メイド" "!DC0257">
-「ダークス宮は、このダークスの街の地下まで伸び
-　ていますから、影響が皆無とは……」
+<name "Company Maid" "!DC0257">
+"The Temple of Darx is under Darx City, so
+ there would be consequences..."
 #
-<name "ダークス">
-「蹴散らすか？」
+<name "Darx">
+"So I need to drive them out?"
 #
-<name "商会メイド" "!DC0258">
-「それもありですが、ここに良い商品がございます」
+<name "Company Maid" "!DC0258">
+"That's a possibility, but I have a perfect
+ product for this."
 #
-<name "ダークス">
-「？」
+<name "Darx">
+"Hm?"
 #
-<name "商会メイド" "!DC0259">
-「仮名称ダーンドッパー。
-　試作品でして、これの効果を試して貰えればと」
+<name "Company Maid" "!DC0259">
+"For now, we're calling it darn dopper.
+ We'd like you to test out the prototype."
 #
-<name "ダークス">
-「ほう」
+<name "Darx">
+"Oh?"
 #
 <removesprite -1 11>
 <music 12>
 <background "ev083a00.agf" 10>
-<name "魔法使いな冒険者" "!HC0088">
-「ふふふ……」
+<name "Wizard Adventurer" "!HC0088">
+"Heheheh..."
 #
-<name "ダークス">
-「あいつか」
+<name "Darx">
+"Her?"
 #
-<name "商会メイド" "!DC0260">
-「はい。
-　間違いありません」
+<name "Company Maid" "!DC0260">
+"Yes.
+ She's definitely the one."
 #
-<name "商会メイド" "!DC0261">
-「ダーンドッパーの扱い方は、マスターしています
-　か？」
+<name "Company Maid" "!DC0261">
+"Do you know how to use the darn dopper?"
 #
-<name "ダークス">
-「ああ」
+<name "Darx">
+"Yeah."
 #
-<name "商会メイド" "!DC0262">
-「では、よろしくお願いします」
+<name "Company Maid" "!DC0262">
+"Then I'll leave you to it."
 #
-<name "ダークス">
-「了解」
+<name "Darx">
+"Roger."
 #
-<name "魔法使いな冒険者" "!HC0089">
-「さーて、今日もぶっぱなしますかー」
+<name "Wizard Adventurer" "!HC0089">
+"Now then, let's blow some stuff up again."
 #
-<name "魔法使いな冒険者" "!HC0090">
-「ん？
-　同業者？」
+<name "Wizard Adventurer" "!HC0090">
+"Hm?
+ Another adventurer?"
 #
-<name "魔法使いな冒険者" "!HC0091">
-「イカれた格好ね」
+<name "Wizard Adventurer" "!HC0091">
+"You look pretty crazy."
 #
-<name "魔法使いな冒険者" "!HC0092">
-「あー、ここに居ると危ないわよ。
-　魔法をぶっ放すから」
+<name "Wizard Adventurer" "!HC0092">
+"Oh, it's not safe to be here.
+ I'm gonna let loose some magic."
 #
-<name "魔法使いな冒険者" "!HC0093">
-「さっさと他所に行ってちょうだい」
+<name "Wizard Adventurer" "!HC0093">
+"So get your butt out of here."
 #
-<name "ダークス">
-「悪いが敵だ」
+<name "Darx">
+"Sorry, but I'm an enemy."
 #
-<name "魔法使いな冒険者" "!HC0094">
-「……冗談じゃ済まさないわよ」
+<name "Wizard Adventurer" "!HC0094">
+"...You have got to be kidding me."
 #
-<name "ダークス">
-「ああ、遠慮するな」
+<name "Darx">
+"Yeah, don't hold back."
 #
-<name "魔法使いな冒険者" "!HC0095">
-「本当に敵なのね」
+<name "Wizard Adventurer" "!HC0095">
+"You really are an enemy then?"
 #
-<name "ダークス">
-「そうだ。
-　ここでの魔法実験は迷惑でな、駆り出された」
+<name "Darx">
+"That's right.
+ Your magic experiments here are a problem.
+ I was sent to drive you out."
 #
-<name "魔法使いな冒険者" "!HC0096">
-「ふーん」
+<name "Wizard Adventurer" "!HC0096">
+"Hmmm?"
 #
-<name "魔法使いな冒険者" "!HC0097">
-「じゃあ、ぶっとべ」
+<name "Wizard Adventurer" "!HC0097">
+"Then explode."
 #
-　女が魔法を使おうとした寸前で、俺はダーンドッ
-　パーを使った。
+Before she can cast a spell, I use the darn
+dopper.
 #
 <background "ev083b00.agf" 10>
-　女の衣服が脱げた。
+Her clothes disappear.
 #
-　いや、バラけた。
+No, they fall apart.
 #
-　縫製が解けた感じだ。
+Like all the sewing came undone.
 #
-<name "魔法使いな冒険者" "!HC0098">
-「……え？」
+<name "Wizard Adventurer" "!HC0098">
+"...Huh?"
 #
-　あまりの事に、女の詠唱が中断された。
+It's enough to interrupt her spell chant too.
 #
-<name "魔法使いな冒険者" "!HC0099">
-「え？
-　あれ？
-　え？」
+<name "Wizard Adventurer" "!HC0099">
+"Huh?
+ Uh?
+ Huh?"
 #
-　女は何が起こったか一瞬理解できず、そして、数
-　呼吸後に大きな悲鳴を上げた。
+She doesn't realize what happened for a few
+moments before letting out a huge scream.
 #
-　俺は大笑いだった。
+I can't stop laughing.
 #
-　女は近くの元々服だった布を身体に当てようとす
-　るが、布は手から滑って取れない。
+She tries to hold up the cloth around her and
+cover herself, but it keeps slipping from her
+hands.
 #
 <background "ev083b01.agf" 10>
-<name "魔法使いな冒険者" "!HC0100">
-「なに、これ、え、えー、えええっ！」
+<name "Wizard Adventurer" "!HC0100">
+"What just...
+ Huh? Huuuh?
+ Eeeeeh!?"
 #
-　俺は笑いながら、その場から逃げた。
+I beat a hasty retreat, laughing the whole 
+way.
 #
-<name "ダークス">
-「どうだった？」
+<name "Darx">
+"How was that?"
 #
-<name "商会メイド" "!DC0263">
-「最高でした」
+<name "Company Maid" "!DC0263">
+"It was spectacular."
 #
-<name "ダークス">
-「ははははは……しかし、どういった原理だ？
-　衣服を一瞬で脱がすなんて」
+<name "Darx">
+"Hahahahaha...
+ But what's the theory behind it?
+ I can't imagine it's just to instantly
+ destroy clothing."
 #
-<name "商会メイド" "!DC0264">
-「開発者が言うには、なんでも物体にある抵抗をゼ
-　ロにしたとかなんとか……すみません。
-　詳しい話はちょっと」
+<name "Company Maid" "!DC0264">
+"The makers said they reduced the friction of
+ materials to zero or something like that...
+ I'm sorry.
+ I'm not sure the details."
 #
-<name "ダークス">
-「これ、魔族とかにも効果あるのか？」
+<name "Darx">
+"Does this work on things like demons too?"
 #
-<name "商会メイド" "!DC0265">
-「それが、魔力で作られた衣服等には効果がありま
-　せんので、魔族には無力です」
+<name "Company Maid" "!DC0265">
+"It doesn't have any effect on clothing made
+ with mana, so it's useless against demons."
 #
-<name "ダークス">
-「そ、そうか……残念だな」
+<name "Darx">
+"I-I see...
+ Too bad."
 #
-<name "商会メイド" "!DC0266">
-「あはは」
+<name "Company Maid" "!DC0266">
+"Hahaha..."
 #
-<name "ダークス">
-「まあ良い。
-　これが正式発売になったら、大量購入させて貰お
-　う」
+<name "Darx">
+"Well, that's fine.
+ Once this comes out for sale, I'll be sure to
+ buy a ton of it."
 #
-<name "商会メイド" "!DC0267">
-「えーっと、開発者にそう伝えておきます」
+<name "Company Maid" "!DC0267">
+"Umm... I'll be sure to tell the creators
+ that."
 #
 \x78\x78

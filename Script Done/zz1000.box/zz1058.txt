@@ -1,198 +1,202 @@
 ﻿<music 9>
 <background "ev075b00.agf" 10>
-　ワダツミは倒れていた。
+Wadatsumi falls.
 #
-<name "ダークス">
-「縛り上げろ。
-　尋問する」
+<name "Darx">
+"Tie him up.
+ I have questions for him."
 #
-<name "商会メイド" "!PC0077">
-「はっ。
-　魔王様はフォーゼロッテ様を」
+<name "Company Maid" "!PC0077">
+"Sir.
+ And Forzelotte..."
 #
-<name "ダークス">
-「ああ、そうだったな」
+<name "Darx">
+"Yeah, you're right."
 #
 <background "ev075a00.agf" 10>
-　分身体に絡まっていたフォーゼロッテは、あっけ
-　ないほど簡単に救出できた。
+She's wrapped up in my other body, but I'm able
+to free her almost disappointingly easily.
 #
-<name "ダークス">
-「無事だったか」
+<name "Darx">
+"Are you okay?"
 #
-<name "フォーゼロッテ" "!XA0024">
-「うむ」
+<name "Forzelotte" "!XA0024">
+"Mm."
 #
-<name "ダークス">
-「エロい事はされたか？」
+<name "Darx">
+"Did they do anything sexy?"
 #
-<name "フォーゼロッテ" "!XA0025">
-「それより先に聞く事はあると思うが……
-　されておらん。
-　動けなかっただけだ」
+<name "Forzelotte" "!XA0025">
+"I feel that there are more important 
+ questions...
+ But no. They just stopped me from moving."
 #
-<name "ダークス">
-「良かった」
+<name "Darx">
+"Good."
 #
-<name "フォーゼロッテ" "!XA0026">
-「うむ。
-　心配を掛けた」
+<name "Forzelotte" "!XA0026">
+"Mm.
+ Thank you for your concern."
 #
-<name "ダークス">
-「まったくだ」
+<name "Darx">
+"Don't mention it."
 #
-<name "商会メイド" "!PC0078">
-「魔王様。
-　分身体を如何いたしましょう？」
+<name "Company Maid" "!PC0078">
+"Overlord, what should we do with your other
+ body?"
 #
-　俺の分身体は、待機状態で反応が無い。
+It's just sitting there, completely inert.
 #
-<name "ダークス">
-「放置はできんが……」
+<name "Darx">
+"We can't just leave it here..."
 #
-<name "商会メイド" "!PC0079">
-「魔王様との一体化は無理なのですか？」
+<name "Company Maid" "!PC0079">
+"Can you not absorb it back into yourself?"
 #
-　俺の分身体なのだから、俺に戻せる筈なのだが……
+It is part of me, so I should be able to 
+bring it back.
 #
-<name "ダークス">
-「……弾かれる」
+<name "Darx">
+"...I don't want it."
 #
-<name "フォーゼロッテ" "!XA0027">
-「これだけの魔力は勿体無いが、倒すしかないので
-　はないか？」
+<name "Forzelotte" "!XA0027">
+"It's a waste of so much mana, but is our only
+ choice to destroy it?"
 #
-<name "ダークス">
-「それしかないか」
+<name "Darx">
+"Seems like it."
 #
-　色々と謎は残っているが、仕方が無い。
+I still have a lot of questions, but there's
+no other choice.
 #
-　俺は分身体を攻撃した。
+I attack my other body.
 #
-　あっけないほど簡単に倒れる。
+It falls effortlessly.
 #
-　本来の強さだ。
+Because it's back to its usual strength.
 #
-<name "商会メイド" "!PC0080">
-「これで一安心ですね」
+<name "Company Maid" "!PC0080">
+"That's a relief."
 #
-<name "ダークス">
-「ああ。
-　……ん？」
+<name "Darx">
+"Yeah.
+ ...Hm?"
 #
-　倒したはずの分身体が、すごい勢いで再生していっ
-　た。
+It should be dead, but it instantly regenerates
+from the wound.
 #
-<name "ダークス">
-「なんだ？」
+<name "Darx">
+"What?"
 #
-　そんな能力を与えた覚えは無い。
+I don't remember giving it that power.
 #
-　俺は危険を察知して、身構えた。
+I sense danger and brace myself.
 #
-　同時に、分身体から伸びた圧倒的な数の触手が俺
-　を襲う。
+At the same time, dozens of tentacles whip out
+from it and attack me.
 #
-<name "ダークス">
-「くっ！」
+<name "Darx">
+"Ngh!"
 #
-　斬っても次々に触手が襲ってくる。
+I slash one, but another immediately takes its
+place.
 #
-　キリがない。
+There's no end to them.
 #
-<name "フォーゼロッテ" "!XA0028">
-「ダークスっ！」
+<name "Forzelotte" "!XA0028">
+"Darx!"
 #
-　横合いから悲鳴が聞こえた。
+I hear her scream.
 #
-　フォーゼロッテが触手に絡められている。
+She's wrapped up in tentacles.
 #
-<name "ダークス">
-「フォーゼロッテ！」
+<name "Darx">
+"Forzelotte!"
 #
-<name "フォーゼロッテ" "!XA0029">
-「うううっ」
+<name "Forzelotte" "!XA0029">
+"Nnngh!"
 #
-　フォーゼロッテは、圧倒的な触手に絡められ、姿
-　が見えなくなった。
+She disappears into the writhing mass.
 #
-<name "ダークス">
-「ちいっ、舐めた真似をっ！」
+<name "Darx">
+"Tch!
+ Don't underestimate me!"
 #
 <background "ev075d00.agf" 10>
-<name "ワダツミ" "!MA0044">
-「わはははははは。
-　させん、させんよ！
-　人間！」
+<name "Wadatsumi" "!MA0044">
+"Wahahahahaha!
+ No! You will not!
+ Human!"
 #
-　いつの間にか、ワダツミが分身体の傍に立ってい
-　た。
+Wadatsumi is suddenly standing next to my body
+again.
 #
-<name "ダークス">
-「！」
+<name "Darx">
+"Ah!"
 #
 <background "ev075d01.agf" 12>
-　ワダツミは、分身体から伸びた触手によって、胸
-　を貫かれた。
+A tentacle stabs out and pierces him through
+the chest.
 #
-<name "ワダツミ" "!MA0045">
-「え？」
+<name "Wadatsumi" "!MA0045">
+"Huh?"
 #
-　油断していたのだろう。
+Looks like that caught him by surprise.
 #
-　ワダツミも、自分の胸から生えた触手を奇妙そう
-　に見た。
+He looks down at the tentacles coming out of
+his chest in disbelief.
 #
-　そして、呻き声と共に絶命した。
+And then dies with a groan.
 #
 <background "ev075a00.agf" 10>
-　大きな振動が、この場所、光峰の壁を揺らしている。
+A quake rocks the entire area.
 #
-<name "商会メイド" "!PC0081">
-「魔王様！
-　崩れます！
-　撤退を！」
+<name "Company Maid" "!PC0081">
+"Overlord!
+ It's going to collapse!
+ We have to retreat!"
 #
-<name "ダークス">
-「出来るか！
-　フォーゼが捕まったままだ！」
+<name "Darx">
+"Like hell!
+ Forze's still in there!"
 #
-<name "フォーゼロッテ" "!XA0030">
-「私は大丈夫だ。
-　生きておる」
+<name "Forzelotte" "!XA0030">
+"I'll be fine.
+ Live."
 #
-<name "ダークス">
-「フォーゼ！」
+<name "Darx">
+"Forze!"
 #
-<name "フォーゼロッテ" "!XA0031">
-「私を捕まえているだけで、何もしてこぬ。
-　先ほどと同じだ。
-　すぐに何かされるというワケではなかろう」
+<name "Forzelotte" "!XA0031">
+"It's just holding me, not doing anything, 
+ the same as before.
+ I don't think that it's going to do 
+ anything to me just yet."
 #
-<name "フォーゼロッテ" "!XA0032">
-「ここは引き、態勢を立て直せ」
+<name "Forzelotte" "!XA0032">
+"Withdraw and regroup."
 #
-<name "ダークス">
-「悪いが、聞けないな！」
+<name "Darx">
+"Sorry, but I can't do that!"
 #
-　俺は剣を振り回しながら、フォーゼロッテが居る
-　であろう場所を目指す。
+I swing my sword, aiming for where I think I
+can cut her loose.
 #
-<name "ダークス">
-「そこかっ！」
+<name "Darx">
+"There!"
 #
 <background "ev075e00.agf" 10>
-　フォーゼロッテの手を見つけ、その手を掴んで一
-　気に引き抜く！
+I find her hand, grab it, and pull her out in
+one motion.
 #
 <background "ev075a00.agf" 10>
-<name "フォーゼロッテ" "!XA0033">
-「う……無茶をしおって」
+<name "Forzelotte" "!XA0033">
+"Ngh...
+ You are reckless."
 #
-<name "ダークス">
-「引き上げるぞ」
+<name "Darx">
+"Up and move."
 #
-　俺はフォーゼロッテを抱え、そのまま全速力でこ
-　の場から逃げ出した。
+I grab her and we run away as fast as we can.
 #
 \x78\x78

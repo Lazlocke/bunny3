@@ -1,81 +1,81 @@
 ﻿<music 23>
 <background "bg022a0.agf" 10>
-<name "ラッサン" "!ZE0023" "ka38a000.agf">
-「兄ちゃん、強いなぁ」
+<name "Lassan" "!ZE0023" "ka38a000.agf">
+"Yer strong, bro."
 #
-<name "ラッサン" "!ZE0024" "ka38a000.agf">
-「すまん！
-　悪かった！
-　かんにんしてや！」
+<name "Lassan" "!ZE0024" "ka38a000.agf">
+"Sorry!
+ Mah bad!
+ Go easy!"
 #
-<name "ラッサン" "!ZE0025" "ka38a000.agf">
-「なに、許してくれる！
-　うぉぉぉっ！
-　心が広い！」
+<name "Lassan" "!ZE0025" "ka38a000.agf">
+"Wha!? Ya forgive me!?
+ Oooooh!
+ What a heart!"
 #
-<name "ラッサン" "!ZE0026" "ka38a000.agf">
-「一生、ついていきますぜ！」
+<name "Lassan" "!ZE0026" "ka38a000.agf">
+"I'll follow ya foreva!"
 #
-<name "ダークス">
-「俺、まだ何も言ってないけど」
+<name "Darx">
+"I haven't said anything yet."
 #
-<name "ラッサン" "!ZE0027" "ka38a000.agf">
-「兄ちゃん。
-　細かい事、気にしたらあかんで」
+<name "Lassan" "!ZE0027" "ka38a000.agf">
+"Don' swea' the de'ails, bro."
 #
-<name "ダークス">
-「細かいって……」
+<name "Darx">
+"The details..."
 #
-<name "ラッサン" "!ZE0028" "ka38a000.agf">
-「ふふふ。
-　兄ちゃん、これ見てもまだ同じ事、言えますか？」
+<name "Lassan" "!ZE0028" "ka38a000.agf">
+"Heheheh.
+ Bro, can ya still say the same when ya see
+ dis?"
 #
-<name "ダークス">
-「え？」
+<name "Darx">
+"Huh?"
 #
-<name "ラッサン" "!ZE0029" "ka38a000.agf">
-「秘技！
-　ローリングおむすび！」
+<name "Lassan" "!ZE0029" "ka38a000.agf">
+"Secre' move!
+ Rollin' rice ball!"
 #
-<name "ダークス">
-「うおおおっ！
-　なんだ！
-　急に転がり始めた！
-　凄い勢いだ！」
+<name "Darx">
+"Ooooh!
+ What the!?
+ He suddenly started rolling!
+ And so fast!"
 #
-<name "ラッサン" "!ZE0030" "ka38a000.agf">
-「そして、そこからの土下座！」
+<name "Lassan" "!ZE0030" "ka38a000.agf">
+"An' from there, han's and knees!"
 #
-<name "ダークス">
-「…………そのスタイル、東方仕込みの土下座！
-　しかも、形だけを真似たワケじゃない！
-　何百、いや、何千回と繰り返した土下座！
-　年季が入った土下座だ！」
+<name "Darx">
+"...That's the eastern way of prostration!
+ And not just the form!
+ It's bowing with centuries of refinement!
+ Bowing with the weight of history!"
 #
-<name "ラッサン" "!ZE0031" "ka38a000.agf">
-「わかってくれますか」
+<name "Lassan" "!ZE0031" "ka38a000.agf">
+"Ya' can tell?"
 #
-<name "ダークス">
-「み、見事だ。
-　ここまでの土下座、これまで二人ぐらいしか見た
-　事がない」
+<name "Darx">
+"I-Impressive.
+ I've only seen two other people get down on
+ their hands and knees like this before."
 #
-<name "ラッサン" "!ZE0032" "ka38a000.agf">
-「では、許して貰えますか」
+<name "Lassan" "!ZE0032" "ka38a000.agf">
+"Then ya can forgive me?"
 #
-<name "ダークス">
-「そんな土下座を前にしたら、仕方が無い。
-　許そう」
+<name "Darx">
+"Against that kind of bowing, I have no choice.
+ I forgive you."
 #
-<name "ラッサン" "!ZE0033" "ka38a000.agf">
-「よしっ！」
+<name "Lassan" "!ZE0033" "ka38a000.agf">
+"Yo!"
 #
-<name "ダークス">
-「あ、今のもう一回、見たい」
+<name "Darx">
+"Oh, let me see it again."
 #
-<name "ラッサン" "!ZE0034" "ka38a000.agf">
-「お任せあれ！
-　秘技！
-　ローリングおむすび！」
+<name "Lassan" "!ZE0034" "ka38a000.agf">
+"Leave it ta me!
+ Secre' move!
+ Rollin' rice ball!"
 #
 \x78\x78

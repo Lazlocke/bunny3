@@ -1,85 +1,89 @@
 ﻿<music 16>
 <background "ev049a00.agf" 10>
-<name "エカテー" "!TA0065">
-「ふふふ。
-　よくここまで辿り付けたわね」
+<name "Ekate" "!TA0065">
+"Heheheh.
+ You've done well to make it this far."
 #
-<name "ベテラン冒険者" "!ZG0035">
-「へっ。
-　テメェが引っ越したって話、本当だったみたいだ
-　な」
+<name "Veteran Adventurer" "!ZG0035">
+"Oh?
+ So it seems to be true that you've moved
+ here."
 #
-<name "ベテラン冒険者" "!ZG0036">
-「今日こそ、ぶち殺してやるぜ」
+<name "Veteran Adventurer" "!ZG0036">
+"Today I will have your head!"
 #
-<name "エカテー" "!TA0066">
-「その威勢、いつまで続くかしらね」
+<name "Ekate" "!TA0066">
+"Let's see how long that spirit lasts."
 #
-<name "事務担当の魔族" "!QB0163">
-「あの、エカテー様。
-　すみません、こちらの書類にサインを」
+<name "Office Demon" "!QB0163">
+"Um, Miss Ekate.
+ Excuse me, could you please sign this
+ document?"
 #
-<name "エカテー" "!TA0067">
-「……今、忙しいの。
-　見てわからない？」
+<name "Ekate" "!TA0067">
+"...I'm busy right now.
+ Can't you see that?"
 #
-<name "事務担当の魔族" "!QB0164">
-「わかりますが、こっちも大変なんです。
-　お願いします」
+<name "Office Demon" "!QB0164">
+"I know, but this is very important too.
+ Please."
 #
-<name "エカテー" "!TA0068">
-「も、もう……」
+<name "Ekate" "!TA0068">
+"G-Geez..."
 #
 <music 43>
-<name "エカテー" "!TA0069">
-「ああ、ごめん。
-　ちょっと待って。
-　えっと……ここね」
+<name "Ekate" "!TA0069">
+"Oh, sorry.
+ Wait a second.
+ Um... here, right?"
 #
-<name "事務担当の魔族" "!QB0165">
-「あと、こちらの書類にも」
+<name "Office Demon" "!QB0165">
+"And these documents too."
 #
-<name "エカテー" "!TA0070">
-「け、結構あるわね」
+<name "Ekate" "!TA0070">
+"T-There's so many."
 #
-<name "事務担当の魔族" "!QB0166">
-「お願いします」
+<name "Office Demon" "!QB0166">
+"Please."
 #
-<name "エカテー" "!TA0071">
-「わかったわよ。
-　迷惑掛けてるからね。
-　出来るだけの事はするから」
+<name "Ekate" "!TA0071">
+"All right already.
+ Just cause you're getting in the way.
+ I'll do what I have to."
 #
-<name "事務担当の魔族" "!QB0167">
-「で、では、三日に一回は、向こうで作業を……」
+<name "Office Demon" "!QB0167">
+"T-Then, once every three days, if you could
+ do your work back there..."
 #
-<name "エカテー" "!TA0072">
-「それは無理」
+<name "Ekate" "!TA0072">
+"That's not happening."
 #
-<name "ベテラン冒険者" "!ZG0037">
-「えっと……あの、忙しいみたいだから、また今度
-　に……」
+<name "Veteran Adventurer" "!ZG0037">
+"Uh...
+ Um, you seem busy, so maybe another time..."
 #
-<name "エカテー" "!TA0073">
-「え、あー、待って。
-　あと五分。
-　五分で終わらせるから」
+<name "Ekate" "!TA0073">
+"Huh? Ooh, wait.
+ Just five minutes.
+ I'll be done in five minutes."
 #
-<name "ベテラン冒険者" "!ZG0038">
-「いえ、帰ります。
-　なんだか死闘を繰り広げる空気じゃないみたいだ
-　し……また来ます」
+<name "Veteran Adventurer" "!ZG0038">
+"No, I'm leaving.
+ It's not the atmosphere for a fight to the
+ death anymore.
+ I'll come back another time."
 #
-<name "エカテー" "!TA0074">
-「ご、ごめんねー、本当にごめんねー」
+<name "Ekate" "!TA0074">
+"I-I'm sorry.
+ I'm really sorry."
 #
-<name "事務担当の魔族" "!QB0168">
-「すみません。
-　でも、こちらも切羽詰っていて、本当にどうして
-　良いかの瀬戸際なんです」
+<name "Office Demon" "!QB0168">
+"Sorry, but I was in trouble too.
+ It's really not good to wait until the very,
+ very last minute."
 #
-<name "エカテー" "!TA0075">
-「わ、わかったから。
-　すぐに終わらせてあげるから、泣かないの」
+<name "Ekate" "!TA0075">
+"I-I know, I said.
+ I'll finish right away, so stop crying."
 #
 \x78\x78

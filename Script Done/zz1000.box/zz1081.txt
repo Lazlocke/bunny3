@@ -1,196 +1,206 @@
 ﻿<music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta34c001.agf" 4 4 11>
-<name "商会メイド" "!PC0290">
-「魔王様。
-　ダークス宮で冒険者が暴れております」
+<name "Company Maid" "!PC0290">
+"Overlord, there's an adventurer rampaging in
+ the Temple of Darx."
 #
-<name "ダークス">
-「あの侍か」
+<name "Darx">
+"Is it that samurai?"
 #
-<name "商会メイド" "!PC0291">
-「はい」
+<name "Company Maid" "!PC0291">
+"Yes."
 #
-<name "ダークス">
-「良いだろう」
+<name "Darx">
+"Good."
 #
 <removesprite -1 11>
-　俺は準備運動をする。
+I stretch out.
 #
-　前回は不覚だった。
+Last time I screwed up.
 #
-　この俺が押し倒され、一方的に蹂躙されたままと
-　は……
+I got pushed down and taken advantage of...
 #
-　敗因は、油断と疲労だ。
+I was careless and tired.
 #
-　そう、様子を見るつもりだったので、何の準備も
-　していなかった。
+Yeah, I was just there to check things out.
+I wasn't prepared.
 #
-　そして、俺は色々と疲れていた。
+And I was tired from various things.
 #
-　だが！
+However!
 #
-　今の俺は万全だ。
+This time, I'm ready.
 #
-　覚悟もある。
+I'm prepared too.
 #
-<name "ダークス">
-「ゆくぞ！」
+<name "Darx">
+"Let's go!"
 #
 <sprite "ta34c001.agf" 4 4 11>
-<name "商会メイド" "!PC0292">
-「え、あの、一人でですか？」
+<name "Company Maid" "!PC0292">
+"Huh? Um, by yourself?"
 #
-<name "ダークス">
-「当然だ！」
+<name "Darx">
+"Of course!"
 #
 <removesprite -1 11>
 <music 22>
 <background "ev084b00.agf" 10>
-<name "欲求不満な冒険者" "!SB0173">
-「はぁ、ああ、んぁ、あああん」
+<name "Frustrated Adventurer" "!SB0173">
+"Aah...aah...aah...aaah!"
 #
-<name "ダークス">
-「ば、馬鹿なっ！」
+<name "Darx">
+"N-No way!"
 #
-<name "欲求不満な冒険者" "!SB0175">
-「あ、あ、んっ、んぁっ！」
+<name "Frustrated Adventurer" "!SB0175">
+"Ah...ah...mmm...mmm!"
 #
-　しかも、この女！
+Once again, this woman!
 #
-　前回よりテクニックが向上している！
+She's gotten even better than last time!
 #
-<name "欲求不満な冒険者" "!SB0176">
-「んぁっ、あ、も、もっと、もっとぉ」
+<name "Frustrated Adventurer" "!SB0176">
+"Mm...ah...
+ M-More... More..."
 #
-　だ、だが、負けられん！
+B-But I won't lose!
 #
-<name "ダークス">
-「うおおおおっ！」
+<name "Darx">
+"Ooooohhhh!"
 #
-<name "欲求不満な冒険者" "!SB0177">
-「ぁ、ん、んぁ、きゅ、急に……ふあっ」
+<name "Frustrated Adventurer" "!SB0177">
+"Ah...mm...mmm...
+ S-So sudden...
+ Ahhh..."
 #
-　負けられないのだ！
+I can't afford to lose!
 #
-　俺は腰を動かし、奪われた主導権を取り戻そうと
-　試みる。
+I move my hips and try to regain the control
+that's been taken from me.
 #
-<name "欲求不満な冒険者" "!SB0178">
-「んぁ……い、いいぞ、んぁ、良い動きだ。
-　ふはっ、ん、んぁ」
+<name "Frustrated Adventurer" "!SB0178">
+"Mm... Y-Yes...mm...
+ That feels good...
+ Ahhh...mmm...mmm..."
 #
-　だが、相手も手強い。
+But my opponent is strong.
 #
-<name "欲求不満な冒険者" "!SB0179">
-「そうだ、ん、そう、ふぁ、も、もっと、強く、ぁ、
-　あはっ、ははっ、いい、その調子だ」
+<name "Frustrated Adventurer" "!SB0179">
+"Yes... Mm... Yes... Ahh...
+ M-More... Harder...
+ Ah... Haha... 
+ Yes... Like that..."
 #
-　負けるか。
+Am I going to lose?
 #
-<name "欲求不満な冒険者" "!SB0180">
-「んぁ、あっ、んぁ、ふぁ、あん、あ、あひっ、っ、
-　んひっ、ひっ……」
+<name "Frustrated Adventurer" "!SB0180">
+"Mm...ah...mmm...aah...ah...ah...ahhh...
+ Mmm...ah..."
 #
-　俺と女の勝負は、女が有利なまま続いた。
+The battle between us continues with her
+having the advantage.
 #
-　だが、それは俺のモノ先が女の膣内のとある場所
-　を擦るまでだった。
+Until my dick rubs a certain spot inside her
+pussy.
 #
-<name "欲求不満な冒険者" "!SB0181">
-「あひっ！」
+<name "Frustrated Adventurer" "!SB0181">
+"Aah!"
 #
-　予想以上の反応。
+She reacts more than I expected.
 #
-　幾多の女性を抱いた俺の直感が、そこだと叫ぶ。
+My instincts from being with many women tell
+me that's the spot.
 #
-<name "欲求不満な冒険者" "!SB0182">
-「ひっ、ひあっ、あっ、あっ、あっ……」
+<name "Frustrated Adventurer" "!SB0182">
+"Ah...ahh...ah...ah...ah..."
 #
-　予想通り、女の弱い部分だった。
+I knew it. 
+That's a woman's weak point.
 #
-　ひと擦りする度に、女の腰から力が抜けていく。
+Each time I rub there, her hips get weaker.
 #
-<name "欲求不満な冒険者" "!SB0183">
-「あぁっ」
+<name "Frustrated Adventurer" "!SB0183">
+"Aaah!"
 #
-　小さく、小水も漏らした。
+She also lets out a small trickle of water.
 #
-　いける。
+I can do it.
 #
-　俺の動きは激しくなり、さらに女を責め立てた。
+My movements become more intense and I attack
+that spot.
 #
-　そして……
+And...
 #
-<name "欲求不満な冒険者" "!SB0184">
-「ひぁぁぁぁぁぁぁっ！！」
+<name "Frustrated Adventurer" "!SB0184">
+"Aaaaaaaaahhhhhh!!!!"
 #
-　一瞬、女の身体が痙攣し、膣内がビクビクと震え
-　た。
+Her whole body suddenly convulses and a
+throbbing goes through her entire pussy.
 #
-　達した。
+She came.
 #
-　女が達した。
+She climaxed.
 #
-　女の目が、快楽に浸る。
+Her eyes are soaked in pleasure.
 #
-　いまだ。
+Now.
 #
-　俺は一瞬遅れ、射精を開始する。
+Just after her, I start to come.
 #
-　ドクドクドクッと流れるように飛び出す精液。
+Semen floods out of my dick.
 #
 <background "ev084b01.agf" 10>
-<name "欲求不満な冒険者" "!SB0185">
-「あっ……ぁ……ぁぁっ！」
+<name "Frustrated Adventurer" "!SB0185">
+"Ah...ah...ahh!"
 #
-　その射精を終えると同時に、また腰を動かす。
+As soon as I finish coming, I start moving my
+hips again.
 #
-<name "欲求不満な冒険者" "!SB0186">
-「あひっ！」
+<name "Frustrated Adventurer" "!SB0186">
+"Aaah!"
 #
-　余韻は後だ。
+The afterglow comes later.
 #
-<name "欲求不満な冒険者" "!SB0187">
-「あっ、あっ、あっ、ああっ！」
+<name "Frustrated Adventurer" "!SB0187">
+"Ah! Aah! Ah! Aaahh!"
 #
-　やっと見せたこの女の隙。
+I finally found an opening.
 #
-　俺の逆襲が始まった。
+My counterattack has begun.
 #
 <music 11>
 <background "bg008a0.agf" 10>
-<name "商会メイド" "!PC0293">
-「す、凄かったですね」
+<name "Company Maid" "!PC0293">
+"T-That was incredible."
 #
-<name "ダークス">
-「まあな」
+<name "Darx">
+"I guess."
 #
-<name "商会メイド" "!PC0294">
-「まさか、あそこから相手が失神するまで続けるな
-　んて思いませんでした」
+<name "Company Maid" "!PC0294">
+"I can't believe you kept going until she
+ passed out."
 #
-<name "ダークス">
-「ふふふ」
+<name "Darx">
+"Heheheh..."
 #
-<name "商会メイド" "!PC0295">
-「でも、魔王様も優しいですよね」
+<name "Company Maid" "!PC0295">
+"But you're very kind too."
 #
-<name "商会メイド" "!PC0296">
-「身体を綺麗にしてあげて、入り口まで運んであげ
-　たんですから」
+<name "Company Maid" "!PC0296">
+"You cleaned her up and brought her back to
+ the entrance."
 #
-<name "ダークス">
-「まあ、あんな所に放置はできないからな」
+<name "Darx">
+"Well, I couldn't just leave here there."
 #
-<name "商会メイド" "!PC0297">
-「よっ。
-　流石は我らの魔王様！」
+<name "Company Maid" "!PC0297">
+"Yo.
+ That's our Overlord!"
 #
-<name "ダークス">
-「はははははは」
+<name "Darx">
+"Hahahahaha!"
 #
-　勝利できた事で、有頂天な俺だった。
+I'm just overjoyed that I won.
 #
 \x78\x78

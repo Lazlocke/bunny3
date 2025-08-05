@@ -1,28 +1,29 @@
 ﻿<music 20>
 <background "ev085a00.agf" 10>
-　ふむ。
+Hmm...
 #
-　時々、人間を抱くのも悪くない。
+Sometimes, it's not bad to fuck humans.
 #
-　耐久度の面では肉体的にも精神的にも、天界の連
-　中や魔界の連中に比べて脆弱と言っても良いレベ
-　ルだが……
+Physically and mentally, they're delicate
+compared to angels or demons, but...
 #
-　お陰で、加減を思い出す。
+Thanks to that, I remember how different
+they are.
 #
-　最近、無茶なプレイも多いからな。
+I've been pretty reckless lately.
 #
-<name "商会メイド" "!PC0307">
-「魔王様、あとどれぐらい続けますか？」
+<name "Company Maid" "!PC0307">
+"Overlord, how much longer will you be?"
 #
-<name "ダークス">
-「ここに居る奴等に、後……二回づつかな」
+<name "Darx">
+"After the ones here... two more times, 
+ maybe?"
 #
-<name "商会メイド" "!PC0308">
-「承知しました。
-　頑張ってください」
+<name "Company Maid" "!PC0308">
+"Understood.
+ Good luck."
 #
-<name "ダークス">
-「おう！」
+<name "Darx">
+"Yeah!"
 #
 \x78\x78

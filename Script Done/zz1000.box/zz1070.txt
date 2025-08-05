@@ -1,56 +1,59 @@
 ﻿<music 12>
 <background "ev074a00.agf" 10>
-<name "後輩冒険者" "!JA0047">
-「先輩。
-　ここの迷宮、最深部にエカテーが居るって話です
-　よ。
-　やばくないですか？」
+<name "Rookie Adventurer" "!JA0047">
+"Sir, I heard that Ekate was in the deepest
+ part of this dungeon.
+ Isn't she dangerous?"
 #
-<name "先輩冒険者" "!BC0069">
-「ははは。
-　どーせ、噂だろ」
+<name "Seasoned Adventurer" "!BC0069">
+"Hahaha.
+ Come on.
+ It's just a rumor."
 #
-<name "後輩冒険者" "!JA0048">
-「でも、真ん中の方に城とか落ちましたから、棲家
-　を変えた可能性とか……」
+<name "Rookie Adventurer" "!JA0048">
+"But a castle fell in the middle of this
+ forest. Maybe she moved to a different home
+ or something..."
 #
-<name "先輩冒険者" "!BC0070">
-「ないない。
-　見ろよ。
-　どうみてもショボイ」
+<name "Seasoned Adventurer" "!BC0070">
+"No way.
+ Look around.
+ This place is just cruddy."
 #
-<name "先輩冒険者" "!BC0071">
-「魔物のレベルも低い」
+<name "Seasoned Adventurer" "!BC0071">
+"Low level monsters too."
 #
-<name "先輩冒険者" "!BC0072">
-「こんな場所にエカテーが居るワケがないだろ」
+<name "Seasoned Adventurer" "!BC0072">
+"There's no way Ekate would be somewhere like
+ this."
 #
-<name "後輩冒険者" "!JA0049">
-「先輩。
-　俺にはその言動、エカテーに遭いたいと言ってい
-　るようにしか聞こえません」
+<name "Rookie Adventurer" "!JA0049">
+"Sir, when you talk to me about that, it just
+ makes me feel like you're forcing us to run
+ into Ekate."
 #
-<name "先輩冒険者" "!BC0073">
-「あー、それってアレだろ。
-　戦闘前に結婚話とかしたら、その戦闘で死ぬって
-　言ってるようにしか聞こえないってヤツ」
+<name "Seasoned Adventurer" "!BC0073">
+"Oh, you mean like that stuff.
+ Like how talking about getting married before
+ battle makes everybody think that you're 
+ going to die in that fight."
 #
-<name "後輩冒険者" "!JA0050">
-「ええ。
-　ジンクスです」
+<name "Rookie Adventurer" "!JA0050">
+"Yes.
+ A jinx."
 #
-<name "先輩冒険者" "!BC0074">
-「ははは。
-　そんなジンクス、俺は信じないよ」
+<name "Seasoned Adventurer" "!BC0074">
+"Hahaha.
+ I don't believe in jinxes."
 #
 <music 16>
 <background "ev049a00.agf" 10>
-<name "先輩冒険者" "!BC0075">
-「えっと……
-　俺、今日からジンクス信奉者になるわ」
+<name "Seasoned Adventurer" "!BC0075">
+"Um...
+ From now on, I believe in jinxes."
 #
-<name "後輩冒険者" "!JA0051">
-「いまなったら、死ぬって事です。
-　生きて帰ってからにしてください」
+<name "Rookie Adventurer" "!JA0051">
+"That means that we're gonna die.
+ Please let us make it home alive first."
 #
 \x78\x78

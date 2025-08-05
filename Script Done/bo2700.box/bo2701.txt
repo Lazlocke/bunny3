@@ -2441,7 +2441,7 @@ kept going.
 <sprite "ta05a001.agf" 4 4 12>
 <name "Kyuriha" "!FA0112">
 "I am well aware of what you are trying to
- stay, but please don't."
+ say, but please don't."
 #
 <sprite "ta05a002.agf" 4 4 12>
 <name "Kyuriha" "!FA0113">
@@ -4290,7 +4290,7 @@ The battle's over.
 #
 \xAD\x22\x00\x02 0  "味方ルーアルテ"  0 \x1A\x01\x0A\x43\x00\x4C\x00\x30\x00\x30\x00\x32\x00\x20\x00\x3E\x00\x3D\x00\x20\x00\x31\x00 :1499F: 
 <name "Darx">
-"There!"
+"That's it!"
 #
 <name "Darx">
 "Call Rualtei!"

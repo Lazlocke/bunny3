@@ -1,55 +1,58 @@
 ﻿<music 12>
 <background "ev049a00.agf" 10>
-<name "エカテー" "!TA0057">
-「ここは通さないわよ」
+<name "エカテー" "!TA0057"><name "Ekate" "!TA0057">
+"You'll go no further."
 #
-<name "戦士な冒険者" "!ZD0055">
-「ひ、ひぃっ！」
+<name "Warrior Adventurer" "!ZD0055">
+"A-Aiee!
 #
-<name "盗賊な冒険者" "!UA0070">
-「ちくしょう、こんな所でエカテーに遭うなんてよ」
+<name "Thief Adventurer" "!UA0070">
+"Damn it. I can't believe we ran into Ekate
+ here."
 #
-<name "魔法使いな冒険者" "!ZE0074">
-「やめろ。
-　刃向かうな。
-　逃げるんだ」
+<name "Wizard Adventurer" "!ZE0074">
+"Let's give up.
+ Don't fight her.
+ I'm running."
 #
-　最終門番として活躍するエカテーだった。
+Ekate played her role as the final boss.
 #
 <music 10>
-<name "エカテー" "!TA0058">
-「ふふふ」
+<name "Ekate" "!TA0058">
+"Heheheh..."
 #
-<name "迷宮を守る魔族" "!GB0111">
-「撃退、お疲れ様です」
+<name "Guard Demon" "!GB0111">
+"Thank you for the hard work driving them
+ off."
 #
-<name "エカテー" "!TA0059">
-「疲れるほど何もしていないわよ」
+<name "Ekate" "!TA0059">
+"I didn't do anything.
+ It wasn't hard at all."
 #
-<name "迷宮を守る魔族" "!GB0112">
-「そうですか。
-　さすがです」
+<name "Guard Demon" "!GB0112">
+"That's right.
+ That's what I expect of you."
 #
-<name "エカテー" "!TA0060">
-「まあね。
-　じゃあ邪魔者は帰ったし、訓練の続きをしましょ
-　うか」
+<name "Ekate" "!TA0060">
+"I guess.
+ Then since the annoyances are gone, shall we
+ get back to training?"
 #
-<name "迷宮を守る魔族" "!GB0113">
-「は、はい。
-　それじゃあ、隠れている方達を呼んできます」
+<name "Guard Demon" "!GB0113">
+"Y-Yes, ma'am.
+ Okay, I'll call the people hiding back out."
 #
-　そして、迷宮内に居る者達を鍛えるエカテーだっ
-　た。
+And she trained the other people in the 
+dungeon too.
 #
-<name "商会メイド" "!AC0224">
-「えっと、あれはよろしいので？」
+<name "Company Maid" "!AC0224">
+"Um, is this okay?"
 #
-<name "ラキア" "!ZC0470">
-「レ、レクリエーションを妨害するほど、野暮では
-　ありません」
+<name "Rakia" "!ZC0470">
+"I-It would be a bad idea to interfere with
+ her fun and games."
 #
-<name "商会メイド" "!AC0225">
-「承知しました」
+<name "Company Maid" "!AC0225">
+"Understood."
 #
 \x78\x78

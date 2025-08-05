@@ -1,54 +1,55 @@
 ﻿<music 8>
 <background "ev054a00.agf" 10>
-<name "提案する学園生徒" "!HC0064">
-「イザナ先生のイチャイチャ授業♪」
+<name "Proposing Student" "!HC0064">
+"It's Izana's love class!♪"
 #
-<name "イザナ" "!AA0066">
-「え？
-　なに、それ？」
+<name "Izana" "!AA0066">
+"Huh?
+ What's that?"
 #
-<name "提案する学園生徒" "!HC0065">
-「イチャイチャ授業ですよ」
+<name "Proposing Student" "!HC0065">
+"A love class."
 #
-<name "イザナ" "!AA0067">
-「そう言われても……
-　なにをどうすればいいんだ？」
+<name "Izana" "!AA0067">
+"You said that already...
+ What am I supposed to do?"
 #
-<name "提案する学園生徒" "!HC0066">
-「そうですね。
-　あ、そうだ！
-　魔王様との馴れ初めとか、教えてください」
+<name "Proposing Student" "!HC0066">
+"Let's see.
+ Ah, I know!
+ Tell us about how you fell in love with the
+ Overlord."
 #
-<name "イザナ" "!AA0068">
-「あ、あはは……」
+<name "Izana" "!AA0068">
+"A-Ahaha..."
 #
-<name "イザナ" "!AA0070">
-「その話を、天界からの移住組に聞くのは無しだ」
+<name "Izana" "!AA0070">
+"Never ask the immigrants from Celestia about
+ that."
 #
-<name "提案する学園生徒" "!HC0067">
-「え？」
+<name "Proposing Student" "!HC0067">
+"Huh?"
 #
-<name "イザナ" "!AA0071">
-「マジな話です。
-　禁止事項にしなさい」
+<name "Izana" "!AA0071">
+"I'm serious.
+ It's strictly off-limits."
 #
-<name "コゼロット" "!NA0167">
-「先生。
-　生徒会規約に追加しておきます」
+<name "Kozelotte" "!NA0167">
+"Ma'am, I'll add it to the school rules."
 #
-<name "イザナ" "!AA0072">
-「そうすべきです」
+<name "Izana" "!AA0072">
+"You absolutely should."
 #
-<name "提案する学園生徒" "!HC0068">
-「どういう事？」
+<name "Proposing Student" "!HC0068">
+"What does that mean?"
 #
-<name "イザナ" "!AA0073">
-「貴女がもう少し大人になったら、わかるから」
+<name "Izana" "!AA0073">
+"You'll understand when you get older."
 #
-<name "コゼロット" "!NA0168">
-「知らない方が幸せって事もあるのよ」
+<name "Kozelotte" "!NA0168">
+"Ignorance is bliss."
 #
-<name "提案する学園生徒" "!HC0069">
-「ワ、ワケがわからない」
+<name "Proposing Student" "!HC0069">
+"I-I don't get it."
 #
 \x78\x78

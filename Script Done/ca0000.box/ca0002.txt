@@ -544,7 +544,7 @@ Another busy school day.
 "Y-Yes, ma'am!"
 #
 <name "Logius" "!PA0070">
-"Now, let's go, Overlord!"
+"Now, face us, Overlord!"
 #
 I was forced to beat a hasty retreat while
 dodging the attacks of Logius and Kozelotte.

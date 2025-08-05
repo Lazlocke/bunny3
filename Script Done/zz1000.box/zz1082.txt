@@ -1,31 +1,33 @@
 ﻿<music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta34c001.agf" 4 4 11>
-<name "商会メイド" "!PC0298">
-「あの、魔王様」
+<name "Company Maid" "!PC0298">
+"Um, Overlord."
 #
-<name "ダークス">
-「なんだ？」
+<name "Darx">
+"Yes?"
 #
-<name "商会メイド" "!PC0299">
-「人間の冒険者が、仲間になりたそうにしています」
+<name "Company Maid" "!PC0299">
+"A human adventurer is asking to join us."
 #
-<name "ダークス">
-「ほう……」
+<name "Darx">
+"Oh?"
 #
-<name "商会メイド" "!PC0300">
-「その人間の冒険者ですが……
-　その、例の女侍でして……」
+<name "Company Maid" "!PC0300">
+"This adventurer...
+ Um, it's that samurai woman."
 #
-<name "ダークス">
-「……まさか、あの女か？」
+<name "Darx">
+"...No way.
+ Her?"
 #
-<name "商会メイド" "!PC0301">
-「はい。
-　報酬は、時々相手をして貰えたらと……」
+<name "Company Maid" "!PC0301">
+"Yes.
+ In return, she asks if you could sometimes
+ be with her..."
 #
-<name "ダークス">
-「……」
+<name "Darx">
+"..."
 #
 <removesprite -1 11>
 \x2B\x78\x78

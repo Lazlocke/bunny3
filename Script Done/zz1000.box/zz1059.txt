@@ -1,119 +1,122 @@
 ﻿<music 29>
 <background "bg028a0.agf" 10>
-<name "ダークス">
-「ふう……」
+<name "Darx">
+"Whew..."
 #
-　戦いは終わった。
+The battle's over.
 #
 <music 9>
 <background "ev078a00.agf" 10>
-<name "ダークス">
-「と言いたいが……こりゃ、駄目だな」
+<name "Darx">
+"...I wish I could say, but I can't."
 #
-<name "マクドゥ" "!ZA5006">
-「大火力で、一気に叩くしかないだろう」
+<name "Macdo" "!ZA5006">
+"We have to hit it all at once with an
+ overwhelming attack."
 #
-<name "ダークス">
-「マクドゥ」
+<name "Darx">
+"Macdo."
 #
-<name "マクドゥ" "!ZA5007">
-「放置しては、出来立ての支店を潰す事になりそう
-　だからな」
+<name "Macdo" "!ZA5007">
+"If left alone, it'd likely destroy our new
+ branch."
 #
-<name "ダークス">
-「で、大火力ってのは？」
+<name "Darx">
+"So what's the overwhelming attack?"
 #
-<name "マクドゥ" "!ZA5008">
-「覇王鎚」
+<name "Macdo" "!ZA5008">
+"The Dynast's Mace."
 #
-<name "マクドゥ" "!ZA5010">
-「天界では、天雷棒と呼ばれている、ルーアルテが
-　持つ武器だ。
-　あれの封印を外せば、なんとかなる」
+<name "Macdo" "!ZA5010">
+"That Celestial weapon used by Rualtei that 
+ they call the Fulmination Rod.
+ If we remove the seal on it, it could work."
 #
-<name "ダークス">
-「あれか！」
+<name "Darx">
+"That's it!"
 #
-<name "ダークス">
-「ルーアルテを呼べ！」
+<name "Darx">
+"Call Rualtei!"
 #
-<name "ルーアルテ" "!RA5003">
-「も、もう居るけど……」
+<name "Rualtei" "!RA5003">
+"I-I'm already here..."
 #
-<name "ルーアルテ" "!RA5005">
-「封印の解き方なんて知らないわよ」
+<name "Rualtei" "!RA5005">
+"I don't know how to break the seal."
 #
-<name "ルーアルテ" "!RA5008">
-「お姉様やキュリハ様、スイセン様だって……」
+<name "Rualtei" "!RA5008">
+"If my sister or Kyuriha or Suisen were
+ here..."
 #
-<name "ダークス">
-「マクドゥ。
-　言ったんだから、封印を解く方法はあるんだろ」
+<name "Darx">
+"Macdo, you brought it up.
+ You know how to break the seal, right?"
 #
-<name "マクドゥ" "!ZA5011">
-「当然だ」
+<name "Macdo" "!ZA5011">
+"Of course."
 #
-<name "ダークス">
-「どうすれば良い？」
+<name "Darx">
+"What do we need to do?"
 #
-<name "マクドゥ" "!ZA5012">
-「何もしなくて良い。
-　私が封印を解く」
+<name "Macdo" "!ZA5012">
+"You don't do anything.
+ I'll break the seal."
 #
-<name "ダークス">
-「出来るのか？」
+<name "Darx">
+"You can?"
 #
-<name "マクドゥ" "!ZA5013">
-「覇王鎚は、私の家が作った武器だ。
-　封印も同じく」
+<name "Macdo" "!ZA5013">
+"The Dynast's Mace was created by my family.
+ So was the seal."
 #
-<name "マクドゥ" "!ZA5015">
-「その方法も聞いている」
+<name "Macdo" "!ZA5015">
+"I've heard how to do it."
 #
-<name "ダークス">
-「おお！」
+<name "Darx">
+"Ooh!"
 #
-<name "マクドゥ" "!ZA5016">
-「ただし、振るうのは魔王様だ」
+<name "Macdo" "!ZA5016">
+"However, you'll have to use it."
 #
-<name "ダークス">
-「ルーアルテじゃ駄目なのか？」
+<name "Darx">
+"Rualtei can't do it?"
 #
-<name "マクドゥ" "!ZA5017">
-「覇王鎚は、人間用の武器だ」
+<name "Macdo" "!ZA5017">
+"The Dynast's Mace is a weapon for humans."
 #
-<name "ダークス">
-「なるほど」
+<name "Darx">
+"I see."
 #
-<name "マクドゥ" "!ZA5018">
-「では、後は任せる」
+<name "Macdo" "!ZA5018">
+"Okay, the rest is up to you."
 #
-<name "ダークス">
-「おうよ！」
+<name "Darx">
+"Got it!"
 #
-　俺はマクドゥから、天雷棒……覇王鎚を受け取った。
+I take the Fulmination Rod... the Dynast's Mace
+from her.
 #
-<name "ルーアルテ" "!RA5009">
-「あの、私の武器なんだけど……」
+<name "Rualtei" "!RA5009">
+"Um, that's my weapon though..."
 #
-<name "ダークス">
-「お前にも感謝する。
-　よく持っていた」
+<name "Darx">
+"Thank you too.
+ You took good care of it."
 #
-<name "ルーアルテ" "!RA5010">
-「ふ、ふん」
+<name "Rualtei" "!RA5010">
+"H-Hmph."
 #
-<name "ルーアルテ" "!RA5012">
-「し、失敗しないようにね」
+<name "Rualtei" "!RA5012">
+"D-Don't screw it up."
 #
-<name "ダークス">
-「任せておけ！」
+<name "Darx">
+"Leave it to me!"
 #
-　そう。
+Yeah.
 #
-　俺は魔王だ。
+I'm the Overlord.
 #
-　これしきの出来事、吹き飛ばしてやるさ。
+I'm going to finish this here and now.
 #
 <background "bg017a0.agf" 10>
 \x2B\x78\x78

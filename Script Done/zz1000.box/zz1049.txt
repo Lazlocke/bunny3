@@ -1,31 +1,33 @@
 ﻿<music 62>
 <background "bg021a0.agf" 10>
-<name "ネイマール" "!UA0023" "ka39a000.agf">
-「やーらーれーたー」
+<name "Neymal" "!UA0023" "ka39a000.agf">
+"You got me!"
 #
-<name "ネイマール" "!UA0024" "ka39a000.agf">
-「うおー、なんて強さだー」
+<name "Neymal" "!UA0024" "ka39a000.agf">
+"Ooh! 
+ What strength!"
 #
-<name "ネイマール" "!UA0025" "ka39a000.agf">
-「この方に逆らうなんて、愚か者のする事だー」
+<name "Neymal" "!UA0025" "ka39a000.agf">
+"It was foolish to oppose you!"
 #
-<name "ネイマール" "!UA0026" "ka39a000.agf">
-「降伏する。
-　命だけは助けてくれ」
+<name "Neymal" "!UA0026" "ka39a000.agf">
+"I surrender.
+ Just spare my life."
 #
-<name "ダークス">
-「……お前、手を抜いてなかったか？」
+<name "Darx">
+"...You really don't half-ass anything, do
+ you?"
 #
-<name "ネイマール" "!UA0027" "ka39a000.agf">
-「全力だ。
-　街への移住は、あっちのメイド達に聞けば良いの
-　かな？」
+<name "Neymal" "!UA0027" "ka39a000.agf">
+"I'm giving it my all.
+ Should I talk to the maids over there about
+ moving to the city?"
 #
-<name "ダークス">
-「そうだ」
+<name "Darx">
+"Yeah."
 #
-<name "ネイマール" "!UA0028" "ka39a000.agf">
-「そうか、じゃあ世話になる。
-　よろしくな」
+<name "Neymal" "!UA0028" "ka39a000.agf">
+"Okay, I owe you one.
+ Thanks."
 #
 \x78\x78

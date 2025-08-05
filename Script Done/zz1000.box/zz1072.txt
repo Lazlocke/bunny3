@@ -1,237 +1,253 @@
 ﻿<music 3>
 <background "bg010a0.agf" 10>
-<name "ダークス">
-「人間の捕虜？」
+<name "Darx">
+"Human captives?"
 #
 <sprite "ta34c001.agf" 4 4 11>
-<name "商会メイド" "!AC0226">
-「はい」
+<name "Company Maid" "!AC0226">
+"Yes."
 #
-<name "ダークス">
-「捕虜を取れと言った覚えが無いが？」
+<name "Darx">
+"I don't remember telling you to take 
+ prisoners."
 #
 <removesprite -1 11>
-　逆に、捕虜を取るなと指示した覚えはある。
+The opposite.
+I remember ordering them to not take 
+prisoners.
 #
-　ラキアさんの居るフォーゼロッテ宮なら捕虜の管
-　理も出来たが、ここでは少ない人員を見張りなん
-　かには回せない。
+If this was Forzelotte's Shrine, we'd have 
+room and people to manage that, but we barely
+have enough people here to stand guard as it
+is.
 #
-　また、解放を交渉するにも手間が掛かる。
+Also, it takes time and effort to negotiate
+their release.
 #
-　この街では、捕虜を取っている余裕など無い筈だ
-　が……
+There's no room for prisoners in this city.
 #
 <sprite "ta34c001.agf" 4 4 11>
-<name "商会メイド" "!AC0227">
-「申し訳ありません」
+<name "Company Maid" "!AC0227">
+"I'm very sorry."
 #
-<name "商会メイド" "!AC0228">
-「牢屋がありますので、過度に暴れる冒険者などを
-　懲罰する意味でそこに放り込み、二～三日で解放
-　していたのです」
+<name "Company Maid" "!AC0228">
+"We do have a prison, so we throw adventurers
+ in it who have gotten too destructive to
+ punish them, and we let them out after two
+ or three days."
 #
-<name "ダークス">
-「なるほど」
+<name "Darx">
+"I see."
 #
-<name "商会メイド" "!AC0229">
-「ところが、その……」
+<name "Company Maid" "!AC0229">
+"However, um..."
 #
 <sprite "ta34c002.agf" 4 4 12>
-<name "商会メイド" "!AC0230">
-「あまりにオーバーキルをされる冒険者で、迷宮で
-　働く者から強く解放を渋る声が上がりまして」
+<name "Company Maid" "!AC0230">
+"There's an adventurer who's gotten too
+ troublesome even for that, and those who
+ work in the dungeon strongly oppose 
+ releasing them."
 #
-<name "商会メイド" "!AC0231">
-「流石に無視できず、魔王様にご相談をと」
+<name "Company Maid" "!AC0231">
+"We can't ignore that, so I came to you."
 #
-<name "ダークス">
-「俺に相談するって事は……」
+<name "Darx">
+"By coming to me, you mean..."
 #
 <sprite "ta34c000.agf" 4 4 12>
-<name "商会メイド" "!AC0232">
-「女性です」
+<name "Company Maid" "!AC0232">
+"It's a woman."
 #
 <removesprite -1 11>
 <music 53>
 <background "ev081a00.agf" 10>
-<name "戦闘狂な冒険者" "!LB0116">
-「ひぁ……ぁ……」
+<name "Berserker Adventurer" "!LB0116">
+"Aah...ah..."
 #
-　とりあえず、全裸で捕縛されていたので、強引に
-　処女を奪って三回ほど楽しませて貰った。
+Since she was already tied up and naked, I
+forcibly took her virginity and then had 
+about three more rounds of fun.
 #
-<name "ダークス">
-「覚えておけ。
-　お前の初めての男は俺だ」
+<name "Darx">
+"Remember this.
+ Your first man was me."
 #
-<name "戦闘狂な冒険者" "!LB0117">
-「ぅ……ぁ……こ、殺してやる」
+<name "Berserker Adventurer" "!LB0117">
+"Ah...ah...
+ I-I'll kill you."
 #
-<name "ダークス">
-「良い殺意だが……」
+<name "Darx">
+"That's a nice glare, but..."
 #
-<name "ダークス">
-「狂気が足りない」
+<name "Darx">
+"Not nearly crazy enough."
 #
-　天界の連中は、もっと怖かった。
+The angels were far scarier.
 #
-　一人一人、油断すれば殺しに来ると言う覚悟を感
-　じられた。
+For every single one of them, it felt like
+they'd kill me the moment I let my guard
+down.
 #
-　しかし、この女からはそれを感じない。
+But I don't feel that from this woman.
 #
-　処女を散らされ、膣内に強引に三回。
+I took her virginity and fucked her three
+more times after that.
 #
-　天界の連中なら、噛み付いて殺そうとしてくる。
+If she was an angel, she would've tried to
+bite me to death.
 #
-<name "ダークス">
-「こいつが、本当にオーバーキルする女なのか？」
+<name "Darx">
+"Is this really the woman who's so much
+ trouble?"
 #
-　ただの普通の戦士にしか見えん。
+She just seems like a regular warrior.
 #
-<name "商会メイド" "!AC0233">
-「間違いありません」
+<name "Company Maid" "!AC0233">
+"There's no doubt about it."
 #
-　俺は後ろで控えていた者が答える。
+The maid waiting behind me answers.
 #
-<name "ダークス">
-「しかしだな」
+<name "Darx">
+"And yet..."
 #
-<name "商会メイド" "!AC0234">
-「この者、剣を持つと性格が豹変するそうです」
+<name "Company Maid" "!AC0234">
+"Apparently she completely changes when she
+ has her sword."
 #
-<name "ダークス">
-「なるほど……」
+<name "Darx">
+"I see..."
 #
-<name "ダークス">
-「お前、その自覚があるか？
-　答えろ」
+<name "Darx">
+"You, are you aware of this?
+ Answer me."
 #
 <background "ev081a01.agf" 10>
-<name "戦闘狂な冒険者" "!LB0118">
-「うう……」
+<name "Berserker Adventurer" "!LB0118">
+"..."
 #
-<name "ダークス">
-「もう一回、捻じ込まれたいか？
-　俺は別に構わないぞ」
+<name "Darx">
+"You want me to fuck you again?
+ I don't mind."
 #
 <background "ev081a02.agf" 10>
-<name "戦闘狂な冒険者" "!LB0119">
-「け、剣を持っていれば、き、気が大きくなった感
-　じがする」
+<name "Berserker Adventurer" "!LB0119">
+"W-When I hold a sword, I-I feel stronger
+ than anything."
 #
-<name "ダークス">
-「どんな剣でも良いのか？」
+<name "Darx">
+"Any kind of sword?"
 #
-<name "戦闘狂な冒険者" "!LB0120">
-「自分の剣以外、持った事は無い」
+<name "Berserker Adventurer" "!LB0120">
+"I've never had anything but my sword."
 #
-<name "ダークス">
-「そうか」
+<name "Darx">
+"I see."
 #
-　俺は普通の剣を持たせてみた。
+I try holding up a regular sword in front of
+her.
 #
-<name "ダークス">
-「どうだ？」
+<name "Darx">
+"How's this?"
 #
-<name "ダークス">
-「俺が憎いか？」
+<name "Darx">
+"Do you hate me?"
 #
-<name "戦闘狂な冒険者" "!LB0121">
-「あ、当たり前だ」
+<name "Berserker Adventurer" "!LB0121">
+"O-Of course I do."
 #
-<name "ダークス">
-「……駄目だな」
+<name "Darx">
+"...Nothing."
 #
-　さっきと変わらない。
+It's the same as before.
 #
-<name "ダークス">
-「こいつの剣を持って来い」
+<name "Darx">
+"Bring me her sword."
 #
-<name "商会メイド" "!AC0235">
-「で、ですが……」
+<name "Company Maid" "!AC0235">
+"B-But..."
 #
-<name "ダークス">
-「構わん」
+<name "Darx">
+"Do it."
 #
-　……
+...
 #
 <background "ev081b00.agf" 10>
-<name "戦闘狂な冒険者" "!LB0122">
-「あっ」
+<name "Berserker Adventurer" "!LB0122">
+"Ah!"
 #
-　自分の剣を見せると、確かに女の目の色が変わっ
-　た。
+As soon as I hold up her sword, the look in
+her eyes completely changes.
 #
 <background "ev081b01.agf" 10>
-<name "戦闘狂な冒険者" "!LB0123">
-「渡せ！
-　その剣を！」
+<name "Berserker Adventurer" "!LB0123">
+"Give it!
+ Give me that sword!"
 #
-<name "戦闘狂な冒険者" "!LB0124">
-「そして貴様を斬り殺してやる！」
+<name "Berserker Adventurer" "!LB0124">
+"And I will slice you to shreds!"
 #
-<name "戦闘狂な冒険者" "!LB0125">
-「あははははははははは」
+<name "Berserker Adventurer" "!LB0125">
+"Ahahahahahahaha!!!!!"
 #
-<name "ダークス">
-「……ふむ」
+<name "Darx">
+"Hmm..."
 #
-　確かに豹変するようだ。
+Definitely an immediate change.
 #
-<name "ダークス">
-「悪いな」
+<name "Darx">
+"Sorry."
 #
 <background "ev081c00.agf" 10>
-　俺は一謝りした後、その剣を叩き折った。
+After apologizing, I slam the sword on the 
+ground, breaking it.
 #
-<name "戦闘狂な冒険者" "!LB0126">
-「ぁ……」
+<name "Berserker Adventurer" "!LB0126">
+"Ah..."
 #
-<name "ダークス">
-「どうだ？」
+<name "Darx">
+"How's that?"
 #
-<name "戦闘狂な冒険者" "!LB0127">
-「え、あ……え？」
+<name "Berserker Adventurer" "!LB0127">
+"Huh?
+ Ah... huh?"
 #
-<name "ダークス">
-「気分はどうだ？」
+<name "Darx">
+"How do you feel?"
 #
-<name "戦闘狂な冒険者" "!LB0128">
-「え……へ、変な感じで……」
+<name "Berserker Adventurer" "!LB0128">
+"I... I-I feel strange..."
 #
-<name "ダークス">
-「あの剣は呪いの剣だ。
-　冒険者の間では、それなりに有名だぞ」
+<name "Darx">
+"That was a cursed sword.
+ They're well-known among adventurers."
 #
-<name "戦闘狂な冒険者" "!LB0129">
-「そうなんですか」
+<name "Berserker Adventurer" "!LB0129">
+"It was?"
 #
-<name "ダークス">
-「新しい剣は何かくれてやる」
+<name "Darx">
+"I'll give you some kind of new sword."
 #
-<name "ダークス">
-「それで、勘弁しろ」
+<name "Darx">
+"So call it even."
 #
 <background "ev081d00.agf" 10>
-<name "戦闘狂な冒険者" "!LB0130">
-「え、あ、は、はい」
+<name "Berserker Adventurer" "!LB0130">
+"Huh? Oh, o-okay."
 #
-<name "ダークス">
-「じゃあ、再開するか」
+<name "Darx">
+"Then, shall we continue?"
 #
-<name "戦闘狂な冒険者" "!LB0131">
-「え？」
+<name "Berserker Adventurer" "!LB0131">
+"Huh?"
 #
-　俺はその後、半日ぐらい、目の前の女を相手にし
-　続けた。
+I enjoyed her for another half day.
 #
 <background "ev081d01.agf" 10>
-<name "戦闘狂な冒険者" "!LB0132">
-「ぜ、ぜ、絶対に殺す！」
+<name "Berserker Adventurer" "!LB0132">
+"I-I-I swear I'll kill you!"
 #
-<name "ダークス">
-「楽しみに待っているぞ」
+<name "Darx">
+"I'm looking forward to it."
 #
 \x78\x78

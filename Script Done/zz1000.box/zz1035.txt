@@ -1,658 +1,695 @@
 ﻿<music 45>
 <background "ev038a00.agf" 10>
-<name "ダークス">
-「気付いたか」
+<name "Darx">
+"Awake yet?"
 #
-<name "スイセン" "!YA0168">
-「……良い趣味ね」
+<name "Suisen" "!YA0168">
+"...You have quite the taste."
 #
-　俺はスイセンを拘束具で縛り付けていた。
+I have her tied up in front of me.
 #
-　二本の棒の間にスイセンを立たせ、手足をその二
-　本の棒に括りつけている。
+Her arms and legs are strapped tight to two
+poles.
 #
-　少し、間の抜けた格好だ。
+It does look a little dumb, I'll admit.
 #
-<name "スイセン" "!YA0169">
-「こんな格好をさせるって事は……
-　何か聞きたい事でもあるの？」
+<name "Suisen" "!YA0169">
+"Making me look like this...
+ Is there something you want from me?"
 #
-<name "ダークス">
-「ああ」
+<name "Darx">
+"Yeah."
 #
-<name "ダークス">
-「色々と話をして貰おうと思ってな」
+<name "Darx">
+"I have a lot to speak with you about."
 #
-<name "スイセン" "!YA0170">
-「例えば？」
+<name "Suisen" "!YA0170">
+"For example?"
 #
-<name "ダークス">
-「そうだな……」
+<name "Darx">
+"Let's see..."
 #
-<name "ダークス">
-「誰に言われて、何をやっていた？」
+<name "Darx">
+"Who was telling you what to do?"
 #
-<name "スイセン" "!YA0171">
-「……私が自分で考えた事だけど」
+<name "Suisen" "!YA0171">
+"...I came up with all of it myself."
 #
-<name "ダークス">
-「それは無い」
+<name "Darx">
+"No you didn't."
 #
-<name "スイセン" "!YA0172">
-「……どうしてそう思うのかしら？」
+<name "Suisen" "!YA0172">
+"...What makes you think that?"
 #
-<name "ダークス">
-「俺を襲ったタイミングが悪いからだ」
+<name "Darx">
+"Because you attacked me at the wrong time."
 #
-<name "ダークス">
-「キュリハ、ミアルテが俺についたのに、俺を襲う
-　のはおかしい」
+<name "Darx">
+"Kyuriha and Miartei joined my side, and yet
+ you attacked me. 
+ That doesn't make sense."
 #
-<name "スイセン" "!YA0173">
-「キュリハが陵辱されたからとは考えないの？」
+<name "Suisen" "!YA0173">
+"Isn't it because you violated Kyuriha?"
 #
-<name "ダークス">
-「ミアルテを無視してか？」
+<name "Darx">
+"You're just ignoring Miartei?"
 #
-<name "ダークス">
-「俺はミアルテをここに連れ帰ってから抱いた」
+<name "Darx">
+"I had my way with her when I brought her
+ back."
 #
-<name "ダークス">
-「キュリハに配慮したのもあるが、あれはお前にも
-　配慮した」
+<name "Darx">
+"Partially out of consideration for Kyuriha,
+ but for you too."
 #
-<name "ダークス">
-「しかし、お前はノーリアクションだった」
+<name "Darx">
+"But you didn't care at all."
 #
-<name "ダークス">
-「なのに、キュリハが襲われたから？」
+<name "Darx">
+"And you're saying it's because of Kyuriha?"
 #
-<name "ダークス">
-「助けるチャンスはいくらでもあったろうし、それ
-　ならキュリハが戦っている時にいくらでも動けた
-　よな」
+<name "Darx">
+"You had plenty of chances to save her.
+ You could have done all kinds of things while
+ I was fighting her."
 #
-<name "ダークス">
-「つまり、お前は衝動的でなく、俺をあのタイミン
-　グで襲う理由があった」
+<name "Darx">
+"In short, you're not emotional, so you must
+ have had a specific reason to attack me then."
 #
-<name "ダークス">
-「それが知りたい」
+<name "Darx">
+"That's what I want to know."
 #
-<name "スイセン" "!YA0174">
-「気まぐれって事には出来ない？」
+<name "Suisen" "!YA0174">
+"Can't it be a whim?"
 #
-<name "ダークス">
-「……俺の推測では、お前の上に誰か居る。
-　そいつの命令だ」
+<name "Darx">
+"...I'm guessing there's someone above you.
+ You were following their orders."
 #
-<name "スイセン" "!YA0175">
-「………………」
+<name "Suisen" "!YA0175">
+"........."
 #
-<name "ダークス">
-「言え」
+<name "Darx">
+"Tell me."
 #
-<name "スイセン" "!YA0176">
-「断るわ」
+<name "Suisen" "!YA0176">
+"No."
 #
-<name "ダークス">
-「そうか」
+<name "Darx">
+"I see."
 #
 <background "ev038b00.agf" 10>
-　俺は乱暴に、スイセンの衣服を引っ張った。
+I violently pull at her clothing.
 #
-　前ははだけ、ブラや下着が見える。
+Her dress splits, exposing her underwear.
 #
 <background "ev038b01.agf" 10>
-<name "スイセン" "!YA0177">
-「高い服なんだから、乱暴に扱わないでよ」
+<name "Suisen" "!YA0177">
+"This dress is expensive.
+ Don't be so rough with it." 
 #
-<name "ダークス">
-「乱暴？
-　十分に優しいと思うがな」
+<name "Darx">
+"Rough?
+ I think that's still pretty gentle."
 #
-　それはそのまま、スイセンのブラを引き剥がす。
+I rip off her bra.
 #
 <background "ev038c00.agf" 10>
-<name "スイセン" "!YA0178">
-「うっ」
+<name "Suisen" "!YA0178">
+"Nngh."
 #
-<name "ダークス">
-「なかなかのサイズだな」
+<name "Darx">
+"Pretty big."
 #
-　俺はスイセンの胸を、あえて優しく揉む。
+I gently rub her breasts.
 #
-<name "スイセン" "!YA0179">
-「くっ……」
+<name "Suisen" "!YA0179">
+"Ngh..."
 #
-<name "ダークス">
-「命令を出したヤツの名前が言えないのなら、目的
-　を言え」
+<name "Darx">
+"If you won't tell me who gave you the order,
+ tell me what the goal was."
 #
-<name "スイセン" "!YA0180">
-「…………そんなの決まってるでしょ」
+<name "Suisen" "!YA0180">
+"...Isn't that obvious?"
 #
-<name "スイセン" "!YA0181">
-「天界と魔界が混じる場所なんか、許せないからよ」
+<name "Suisen" "!YA0181">
+"A place where angels and demons live side by
+ side is unacceptable."
 #
-<name "ダークス">
-「その主張はこれまで色々なヤツ……天界の連中や、
-　魔界の連中からも聞かされた。
-　そいつらの言葉は、それなりに迫力があったし、
-　覚悟もあった」
+<name "Darx">
+"I've heard that from a lot of people, both
+ from Celestia and the Netherworld.
+ Their words were forceful, and they were
+ prepared to follow through."
 #
-<name "ダークス">
-「それに比べると、お前の言葉は薄っぺらい」
+<name "Darx">
+"You, on the other hand, are unconvincing."
 #
-<name "ダークス">
-「魔界を嫌っているのは感じるが、それだけだ」
+<name "Darx">
+"I can tell you hate demons, but that's it."
 #
-<name "ダークス">
-「もう少し、マシな事を言え」
+<name "Darx">
+"Give me a better reason."
 #
-<name "ダークス">
-「それとも……」
+<name "Darx">
+"Or else..."
 #
-　俺はスイセンの胸をさらに揉む。
+I rub her breasts more.
 #
-<name "ダークス">
-「胸を揉まれた程度で動揺しているのか？」
+<name "Darx">
+"Does touching your chest upset you?"
 #
-<name "スイセン" "!YA0182">
-「ふん。
-　それぐらいで動揺などしないわよ」
+<name "Suisen" "!YA0182">
+"Hmph.
+ As if this was enough to bother me."
 #
-<name "ダークス">
-「そうか」
+<name "Darx">
+"I see."
 #
-　俺はスイセンの下着を剥ぐ。
+I rip off her underwear.
 #
 <background "ev038d00.agf" 10>
-<name "スイセン" "!YA0183">
-「ぁ」
+<name "Suisen" "!YA0183">
+"Ah..."
 #
-　スイセンは足を閉じようと力を入れるが、拘束具
-　が邪魔をする。
+She struggles to close her legs, but they're
+tied tight.
 #
-　無防備な股間が俺の前に晒されたままだ。
+Her unprotected crotch is exposed to me.
 #
-<name "スイセン" "!YA0184">
-「ぅ、ぅう……」
+<name "Suisen" "!YA0184">
+"..."
 #
-　これまで冷静な様子を見せていたスイセンだが、
-　さすがに恥ずかしいのだろう。
+She's been composed up to now, but her shame
+is self-evident.
 #
-　大きく動揺している。
+She's extremely upset.
 #
-<name "ダークス">
-「なかなか、可愛いじゃないか」
+<name "Darx">
+"Pretty cute, aren't you?"
 #
-<name "スイセン" "!YA0185">
-「うう……」
+<name "Suisen" "!YA0185">
+"..."
 #
-<name "ダークス">
-「罵倒されると思ったが……やめたか？
-　良い判断だな」
+<name "Darx">
+"You just almost taunted me, but stopped
+ yourself.
+ Good decision."
 #
-<name "ダークス">
-「それとも、罵倒の言葉も思いつかないほど動揺し
-　ているのか？
-　身体がかなり硬くなっているぞ」
+<name "Darx">
+"Or are you so upset that you can't even think
+ of any insults?
+ You're extremely tense."
 #
-<name "スイセン" "!YA0186">
-「ぬぁ……ぁ、こ、殺すっ！」
+<name "Suisen" "!YA0186">
+"Nngh...
+ I-I'll kill you!"
 #
-<name "ダークス">
-「いいぞ。
-　そうだ。
-　本音でぶつかり合おうか」
+<name "Darx">
+"Good.
+ That's the spirit.
+ Let's get it all out in the open."
 #
-　俺の手がスイセンの陰部を鷲掴む。
+I grab her entrance in my hand.
 #
 <background "ev038d01.agf" 10>
-<name "スイセン" "!YA0187">
-「ひっ」
+<name "Suisen" "!YA0187">
+"Ah!"
 #
-<name "ダークス">
-「俺も娘を誘拐されかけたんだ。
-　お前を捕らえるまで、どんな目に合わせてやろう
-　か色々と考えた」
+<name "Darx">
+"You nearly kidnapped my daughter too.
+ I've thought a lot about what I would do to
+ you when I caught you."
 #
-<name "ダークス">
-「素直に色々と喋られたら手加減してやらないとい
-　けないのかと心配したが……」
+<name "Darx">
+"I was worried that maybe if you just
+ surrendered and told me everything, I might
+ have to go easy on you."
 #
-<name "ダークス">
-「余計な心配だったな」
+<name "Darx">
+"But there was no need that."
 #
-<name "ダークス">
-「どれだけ耐えるか楽しみだ」
+<name "Darx">
+"I can't wait to see how much you can take."
 #
-　俺はスイセンの陰部を指で刺激しながら、その胸
-　に吸い付く。
+I suck on her breasts while toying with her
+pussy.
 #
-<name "スイセン" "!YA0188">
-「ふぁ、うっ、うううっ」
+<name "Suisen" "!YA0188">
+"Aah...nnh...nnnngh..."
 #
-<name "ダークス">
-「俺が聞きたいのは、お前の上は誰だって事と目的
-　の二つだ」
+<name "Darx">
+"I'm asking you two questions.
+ Who gave you your orders?
+ And what are you after?"
 #
-<name "ダークス">
-「お前相手に、俺は遠慮はせん。
-　あらゆる手段を使う」
+<name "Darx">
+"I'm not going to hold back with you.
+ I'll do whatever it takes."
 #
-<name "ダークス">
-「限界を越える前に喋ってくれ」
+<name "Darx">
+"Talk before I break you."
 #
-<name "スイセン" "!YA0189">
-「だ、誰がうあっ！」
+<name "Suisen" "!YA0189">
+"L-Like hell!"
 #
-　俺はスイセンの胸を強く噛んだ。
+I bite her nipple.
 #
-<name "ダークス">
-「ああ……
-　だが、すぐ喋られても面白くないからな。
-　粘れよ」
+<name "Darx">
+"Oh, but it's no fun if you talk right away.
+ Hold out a little."
 #
 <music 53>
 <background "ev039a00.agf" 10>
-<name "スイセン" "!YA0190">
-「ぅぁ……」
+<name "Suisen" "!YA0190">
+"Nnh..."
 #
-　俺はスイセンの陰部にモノを押し付けた。
+I press my dick against her entrance.
 #
-<name "スイセン" "!YA0191">
-「ううっ」
+<name "Suisen" "!YA0191">
+"Nnngh..."
 #
-　俺のモノ先は陰部を押し広げ、さらに膣口を抉じ
-　開ける。
+The tip of my dick pushes her lips open and
+spreads her entrance.
 #
-　スイセンの高さは、俺のモノが完全に挿入された
-　状態で丁度になるようにしているので、挿入する
-　には俺は少し腰を落とさなければならない。
+Because of how high up she's strung, I have to
+lower my hips a little bit to get completely
+inside her.
 #
-　少し間抜けな格好だ。
+This is a little silly.
 #
-<name "ダークス">
-「身体が硬くなっているぞ。
-　緊張しているのか？」
+<name "Darx">
+"You're tense.
+ Are you nervous?"
 #
-<name "スイセン" "!YA0192">
-「っ！！！」
+<name "Suisen" "!YA0192">
+"Ngh!"
 #
-　俺はスイセンが何か言おうとした瞬間に、俺は脚
-　を伸ばしてモノを突き入れた。
+The moment she's about to say something, I 
+shove my dick entirely inside her.
 #
 <background "ev039a01.agf" 10>
-<name "スイセン" "!YA0193">
-「ぁっ、かっ、ふぁ！！！」
+<name "Suisen" "!YA0193">
+"Ah! Agh! Ahh!"
 #
-　俺のモノ先はスイセンの膣内に深々と潜り込み、
-　膣奥の壁を突き上げていた。
+My dick drives deep into her pussy, all the
+way up against the back wall.
 #
-　途中にあった処女膜は、当然ながら破れている。
+I tear through her hymen on the way, of course.
 #
-　その証拠に、モノを少し引けば破瓜の血が流れ出
-　てくる。
+A little bit of blood drips out of her, proving
+that.
 #
 <background "ev039a02.agf" 10>
-<name "スイセン" "!YA0194">
-「ぅぁ……」
+<name "Suisen" "!YA0194">
+"Aah..."
 #
-　まあ、とりあえずは一回。
+Well, this is just the first.
 #
-　スッキリさせて貰おう。
+I already feel a little better.
 #
-　俺はスイセンの尻を揉みながら、腰を動かす。
+I move my hips while rubbing her ass.
 #
-<name "スイセン" "!YA0195">
-「ひぁ、あっ、ううううっ」
+<name "Suisen" "!YA0195">
+"Ah! Aah! Aaahhh!"
 #
-　行為はワザと乱暴に行う。
+Violently, on purpose.
 #
-　恥辱と苦痛を与える為だ。
+To shame and hurt her.
 #
-　優しくするのはある程度、慣れてからだ。
+I can actually enjoy myself after she gets
+used to it.
 #
-<name "スイセン" "!YA0196">
-「うぁ、くっ、ふひっ」
+<name "Suisen" "!YA0196">
+"Ah! Ngh! Ah!"
 #
-　まずは自分の体内に異性が侵入し、自分の意思と
-　は関係無く暴れる恐怖、屈辱、不快感を味わって
-　貰おう。
+I want her to feel the fear, humiliation, and
+pain of having a man forcibly fuck her against
+her will.
 #
-<name "スイセン" "!YA0197">
-「うう、くっ、あひっ、こ、殺す！
-　絶対に！」
+<name "Suisen" "!YA0197">
+"Nngh! Ah! Ahh! 
+ I-I'll kill you!
+ I swear I'll kill you!"
 #
-　俺はそうかと、軽く流して行為を続ける。
+I ignore her and continue.
 #
-　しばらくの間は、スイセンの意思は無視だ。
+For now, I'm going to ignore whatever she says.
 #
-　どうせ、俺に対する罵倒か、偽情報しか言わない。
+It's only going to be abuse or lies.
 #
-　俺は確信している。
+I'm sure of it.
 #
-　天界の連中が、これしきで心が折れたりはしない
-　と。
+No angel has been given in from just this much.
 #
-　まだ、一度の射精も受けていないのに、モノを突
-　き入れられただけで喋る筈がない。
+I haven't even come once yet.
+There's no way she would talk just from 
+sticking it in her.
 #
-　それで喋るなら、もっと前の段階で何かしら言っ
-　ている。
+And if she was willing to talk, she would've
+done so before this.
 #
-<name "スイセン" "!YA0198">
-「うぁ、ひっ、き、聞きなさい、あひっ」
+<name "Suisen" "!YA0198">
+"Ah! Aah!
+ I-I'll talk!
+ Aah!"
 #
-　お断りだ。
+Not interested.
 #
-　俺はさらに腰の動きを速め、スイセンの膣内で自
-　分のモノを擦り上げ続けた。
+I keep moving faster, scraping my dick through
+her pussy.
 #
-<name "スイセン" "!YA0199">
-「くっ、うひっ、ぁ、うぁっ……」
+<name "Suisen" "!YA0199">
+"Ngh! Aah! Ah! Aah..."
 #
-　モノ先がスイセンの膣奥の壁を突き上げる。
+I push the tip up against the back wall inside
+her.
 #
-<name "スイセン" "!YA0200">
-「あうっ、ううっ、くうっ！」
+<name "Suisen" "!YA0200">
+"Aah! Ahhh! Aah!"
 #
-　初めて異性を迎え入れたスイセンの膣内は狭くて
-　キツい。
+Her pussy is narrow and tight from accepting
+a man for the first time.
 #
-　もう少し丁寧に扱ってやれば、具合も良くなるの
-　だろうが、俺にその気はない。
+I'm sure it would feel better if I was being a
+little more considerate, but I'm not interested
+in that.
 #
-<name "スイセン" "!YA0201">
-「んうっ、うひっ、ぁっ、あっ、くあっ」
+<name "Suisen" "!YA0201">
+"Nnngh! Aah! Ah! Ah! Aagh!"
 #
-　俺はモノを動かし続け、一回目の射精を迎える。
+I keep moving in order to come.
 #
-<name "スイセン" "!YA0202">
-「ぁ……」
+<name "Suisen" "!YA0202">
+"Ah..."
 #
-　俺のモノの動きが止まった事にスイセンは驚き、
-　そして次に行われる事に恐怖した。
+She's surprised when I suddenly stop, and
+terrified of what will come next.
 #
-<name "スイセン" "!YA0203">
-「い、いやっ」
+<name "Suisen" "!YA0203">
+"N-No!"
 #
-　否定の言葉。
+She cries out.
 #
-　それを無視して、俺のモノ先から大量の精液が飛
-　び出し、スイセンの膣奥、そして子宮に流し込ま
-　れた。
+I ignore her and flood her pussy and womb with
+my semen.
 #
 <background "ev039a03.agf" 10>
-<name "スイセン" "!YA0204">
-「ぁ、うぁ、あっ、ぁっ、うああああああああっ！」
+<name "Suisen" "!YA0204">
+"Ah! Aah! Ah! Aah! 
+ Aaaaaaaaaahhhhhhh!!!!!"
 #
-　俺のモノがビクビクと動き、射精されている事に
-　スイセンは怒り狂った。
+My dick throbs and twitches as she struggles,
+taking my ejaculation.
 #
-　何度も俺を罵倒し、叫びを上げた。
+She curses and screams at me.
 #
-<name "スイセン" "!YA0205">
-「殺す、絶対に殺してやる！」
+<name "Suisen" "!YA0205">
+"I'll kill you!
+ I swear I'll kill you!"
 #
-　油断すれば、その口で噛み千切られそうだ。
+If I'm not careful, she may genuinely bite me.
 #
-　だが、俺は気にしない。
+But I don't care.
 #
-<name "ダークス">
-「黙ってろ」
+<name "Darx">
+"Shut up."
 #
-　射精を終えた俺は、次の射精に向けてまた腰を動
-　かす。
+I finish coming and start moving to come again.
 #
 <background "ev039a04.agf" 10>
-<name "スイセン" "!YA0206">
-「ぁ、うぁ、ぁ」
+<name "Suisen" "!YA0206">
+"Ah...aah...ah..."
 #
-　流し込んだ精液で、先ほどよりスムーズに動く事
-　に満足しながら、俺は延々とスイセンの肉体を貪
-　り続ける。
+I can move much smoother thanks to my semen
+inside her.
+Satisfied by that, I continue indulging in her
+body.
 #
-<name "スイセン" "!YA0207">
-「うひ、ひっ、ひぁ、ひぁ、うぁ、くぁぁっ」
+<name "Suisen" "!YA0207">
+"Aah! Ah! Aah! Ah! Aah! Aagh!"
 #
-　スイセンの肉体は、女としてみれば十分だ。
+Her body is more than woman enough.
 #
-　違う出会いがあればと考えてしまう。
+I do wish this was different.
 #
-　まあ、考えても仕方が無い事だ。
+Well, there's no point worrying about it.
 #
-　こいつは、俺の敵だ。
+She's my enemy.
 #
-　そして、コゼロットにまで手を出した。
+And she went after Kozelotte.
 #
-　許さない。
+She can't get away with that.
 #
 <background "ev039a05.agf" 10>
-<name "スイセン" "!YA0208">
-「ううぁっ！」
+<name "Suisen" "!YA0208">
+"Aaah!"
 #
-　俺は二回目の射精を行う。
+I come inside her again.
 #
-　それが終われば、またすぐに次だ。
+As soon as I finish, I move on to the next
+time.
 #
-<name "スイセン" "!YA0209">
-「ぁ、うぁ、ぁ……」
+<name "Suisen" "!YA0209">
+"Ah...ah...ah..."
 #
-<name "ダークス">
-「甘い声が混じってきたな」
+<name "Darx">
+"You're starting to moan."
 #
-<name "スイセン" "!YA0210">
-「ぁ、うぁ、だ、誰が……」
+<name "Suisen" "!YA0210">
+"Ah...ah...
+ Like hell..."
 #
-<name "ダークス">
-「抵抗しても無駄だ。
-　お前は少しづつ変わっていく、いや変えてやる」
+<name "Darx">
+"Don't resist it.
+ You'll change, little by little.
+ No, I'll change you."
 #
-<name "ダークス">
-「俺のモノを突き入れられ、喜ぶ女に」
+<name "Darx">
+"Into a woman who wants my dick thrust into
+ her."
 #
-<name "ダークス">
-「そして、泣きながら俺の質問に答える事になる」
+<name "Darx">
+"And then, when you're in tears, you'll answer
+ my questions."
 #
-<name "スイセン" "!YA0211">
-「く……」
+<name "Suisen" "!YA0211">
+"Ngh..."
 #
-　俺は笑いながら、行為を続けた。
+I laugh and continue.
 #
 <background "bg017a0.agf" 10>
 <music 54>
 <background "ev040a00.agf" 10>
-<name "スイセン" "!YA0212">
-「ぅぅ……」
+<name "Suisen" "!YA0212">
+"Nnngh..."
 #
-　スイセンを捕らえてから、十日ほど経っただろう
-　か。
+It's been about ten days since we captured her.
 #
-　俺は休みを挟みながらも、行為を続けた。
+I took the occasional break, but have fucked
+her the entire time.
 #
-　スイセンの体力は何度か限界を迎えたが、暴れら
-　れない程度に回復魔法を使ってやる。
+Her strength gave out a few times, but healing
+magic has kept her conscious without being
+strong enough to fight back.
 #
-　殺す気はまだない。
+I don't want her to die yet.
 #
-　聞きたい事もある。
+We also have questions for her.
 #
-　俺が休むのは、仕事があるからだ。
+I also take breaks because there's work to do.
 #
-　その間、分身体に任せても良いのだが、行為に慣
-　れ過ぎても困る。
+While I'm gone, I let my other body play with
+her, but I don't want her getting too used to
+it.
 #
-　休憩中は、メイド達がスイセンの身体を洗い、部
-　屋を掃除する。
+On my breaks, the maids clean her and the room
+up.
 #
-　そして再開によってまた汚される。
+It'll be a mess again after I come back.
 #
-　この繰り返しで、かなり追い詰めているのだが、
-　スイセンは口を割らなかった。
+Doing this over and over again has worn her
+down, but she hasn't broken yet.
 #
-<name "スイセン" "!YA0213">
-「んんんっ……」
+<name "Suisen" "!YA0213">
+"Nnngh..."
 #
-　俺は何度目かの射精を開始し、スイセンに受け止
-　めさせる。
+I come inside her yet again, and she takes it
+all.
 #
 <background "ev040a01.agf" 10>
-<name "スイセン" "!YA0214">
-「ぅぅ……」
+<name "Suisen" "!YA0214">
+"..."
 #
-　スイセンの肉体のほとんどに、精液が掛かった。
+Most of her body is covered in semen.
 #
-　後ろの穴も、口も、脇や胸、徹底して甚振った。
+Her ass, her mouth, and her breasts have all
+been thoroughly violated.
 #
-　だが、スイセンは耐える。
+But still, she endures it.
 #
-<name "ダークス">
-「なかなかしぶといな」
+<name "Darx">
+"You're very tenacious."
 #
-　思わず感嘆の声が漏れてしまう。
+I can't help but be impressed.
 #
-<name "スイセン" "!YA0215">
-「ふん……色々やるとか……言って、この程度？」
+<name "Suisen" "!YA0215">
+"Hmph...
+ After all you did...
+ That's all you have to say?"
 #
-<name "ダークス">
-「そう思えるなら、キュリハとミアルテに感謝しろ」
+<name "Darx">
+"If that's how you feel, be grateful to
+ Kyuriha and Miartei."
 #
-　二人には、休憩している時にかなり懇願された。
+They both begged for mercy for her while I was
+taking a break.
 #
-<name "スイセン" "!YA0216">
-「……余計な……お世話よ」
+<name "Suisen" "!YA0216">
+"I don't need... your concern..."
 #
-<name "ダークス">
-「そうか。
-　では、あの二人には悪いが……解禁するか」
+<name "Darx">
+"I see.
+ Well, I feel bad for them, but maybe it's 
+ time to break the rules."
 #
-<name "ダークス">
-「お前ら天界の連中がもっとも嫌う事を」
+<name "Darx">
+"I know what you angels hate more than
+ anything."
 #
-　複数の異性との交わり。
+Sex with multiple people.
 #
-<name "スイセン" "!YA0217">
-「くっ」
+<name "Suisen" "!YA0217">
+"Urgh."
 #
-　天界の住人は血統を重んじる。
+Angels value bloodlines above all.
 #
-　それゆえ、多数の男と交わる者は皆無に近い。
+Virtually none of them would dare think of
+being with more than one man.
 #
-　天界の住人で、俺の部下に素直になっている者の
-　半数ぐらいは、これが理由だ。
+That's the sole reason why about half of the
+ones who joined my side are actually loyal to
+me.
 #
-　理由はどうであれ、俺に抱かれたから俺の傍で暮
-　らす。
+The only reason that matters is that they had
+sex with me, therefore they will stay by my
+side.
 #
-　激しい抵抗を続けた者でも、他の男の存在を匂わ
-　すだけで降伏した。
+Even the ones who fought back the hardest
+gave in with just the hint of being given to
+another man.
 #
-<name "ダークス">
-「もっと早くやるつもりだったんだが、お前が壊れ
-　る可能性があったからな」
+<name "Darx">
+"I would have done it sooner, but I was worried
+ that it might break you."
 #
-<name "ダークス">
-「本来は……俺は抱いた女を他の男には渡さないの
-　が信条だが、お前はコゼロットに手を出そうとし
-　たからな」
+<name "Darx">
+"Normally, I hate to give the women I fuck to
+ other men, but you tried to hurt Kozelotte."
 #
-<name "ダークス">
-「例外扱いする事に抵抗が無い」
+<name "Darx">
+"I have no problem making an exception."
 #
-<name "ダークス">
-「最初は五人を相手に三日ほど……
-　いや、ベトやナメッドと絡む方が好みか？」
+<name "Darx">
+"I think we'll start with five men for three
+ days...
+ Or maybe you'd prefer to be thrown to the
+ slimes and slugs instead?"
 #
-<name "スイセン" "!YA0218">
-「……殺してやる」
+<name "Suisen" "!YA0218">
+"...I'll kill you."
 #
-<name "ダークス">
-「そうだ。
-　そのまま、俺を憎しみ続けろ」
+<name "Darx">
+"That's it.
+ Hate me with all your heart."
 #
-　俺はまた、スイセンの膣内でモノを前後させた。
+I shove my dick back into her pussy.
 #
-　俺はスイセンを挑発する。
+I'm trying to provoke her.
 #
-　自分の気を晴らす為だけではない。
+It's not just about revenge.
 #
-　情報を吸い取る為だ。
+I need information.
 #
-　口からでなく、スイセンの魔力から。
+Not from her mouth.
+From her mana.
 #
-　俺の行為は、相手から魔力を奪える。
+I can take mana from her by fucking her.
 #
-　奪った魔力から、相手の経験を読み取る。
+And it's possible to read the mana that's been
+taken.
 #
-　これまではやった事は無いが、ラキアさんにそれ
-　が出来ると言われた事がある。
+I've never done it before, but Rakia says that
+it's possible.
 #
-　少しでも読み取り易くする為に、相手を怒らせる。
+But I need to make her mad to make it easier
+to read.
 #
-　執拗に聞く事で、意識させる。
+I need to focus and comprehend it.
 #
-　これでも無理なら、本気で他の男を使う。
+If it doesn't work, I will actually hand her
+over to other men.
 #
-　今はまだ脅しだが……スイセンを放置できない。
+That's still just a threat right now, but I
+can't leave her like this.
 #
-　俺の心が危険だと騒いでいる。
+My instincts are yelling that we're in danger.
 #
-　ギュンギュスカー商会やフォーゼロッテ宮の者達
-　に各地を調べさせているが、期待する報告はまだ
-　聞けていない。
+People from Gunguskar and Forzelotte's Shrine
+are searching all over, but we haven't gotten
+reports of anything yet.
 #
-　だが、スイセンは何かを隠している。
+Suisen has to still be hiding something.
 #
-　それがスイセンが耐える理由。
+That's why she's still holding on.
 #
-　つまり、俺達を破滅させる何かがあると言う事だ
-　ろう。
+There's still something out there that could
+destroy us.
 #
-<name "スイセン" "!YA0219">
-「うぁっ！」
+<name "Suisen" "!YA0219">
+"Aah!"
 #
-　俺はスイセンの膣内に射精を開始した。
+I start coming in her again.
 #
 <background "ev040a02.agf" 10>
-<name "スイセン" "!YA0220">
-「く……」
+<name "Suisen" "!YA0220">
+"Ngh..."
 #
-　心は耐えていても、肉体は俺の射精に喜ぶように
-　ビクビクと反応している。
+Even if her mind is fighting it, her body
+twitches in pleasure with my ejaculation.
 #
-　っと、俺は目的を思い出し、スイセンの魔力を読
-　み取ろうとする。
+Oops. I remember what I'm doing and try to
+read her mana.
 #
-　……
+...
 #
-　……駄目だ。
+...It's no good.
 #
-　上手く行かない。
+It's not working.
 #
-　そう簡単なものではないか。
+I guess it's not so easy.
 #
-　そう思った瞬間、部屋が大きく揺れた。
+All of a sudden, the room shakes.
 #
-<name "ダークス">
-「？」
+<name "Darx">
+"Huh?"
 #
-<name "商会メイド" "!AC0072">
-「魔王様！
-　フォーゼロッテ宮で異常事態です！」
+<name "Company Maid" "!AC0072">
+"Overlord!
+ Something's wrong at Forzelotte's Shrine!"
 #
-<name "ダークス">
-「なに！」
+<name "Darx">
+"What!?"
 #
-　俺は驚いた瞬間、スイセンの魔力から歓喜を感じ
-　た。
+Just then, I feel elation from Suisen's mana.
 #
-　スイセンはこれを待っていた。
+This is what she's been waiting for.
 #
 <background "ev040b00.agf" 10>
-<name "スイセン" "!YA0221">
-「……絶望しなさい」
+<name "Suisen" "!YA0221">
+"...There's no hope for you."
 #
 \x78\x78

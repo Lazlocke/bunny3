@@ -1,318 +1,337 @@
 ﻿<music 42>
 <background "bg005a0.agf" 10>
-<name "ダークス">
-「さーて、どこにしようかな」
+<name "Darx">
+"All right.
+ Where to this time?"
 #
 <sprite "ta14a005.agf" 4 4 11>
-<name "パニバーナ" "!DA0001">
-「魔王様。
-　お久しぶり」
+<name "Paniverna" "!DA0001">
+"Overlord.
+ It's been a while."
 #
-　元天蓋の城、三領主の一人で名をパニバーナ。
+This is Paniverna, one of the three leaders of
+Castle Baldaquin.
 #
-　俺の嫁の一人であり、現在は王宮の警備担当だ。
+She's one of my wives, and is in charge of
+guarding the royal palace right now.
 #
-<name "ダークス">
-「元気にしていたか？」
+<name "Darx">
+"How have you been?"
 #
 <sprite "ta14a006.agf" 4 4 12>
-<name "パニバーナ" "!DA0002">
-「それはもう。
-　でも、そっちの様子を見に行く事すら禁止にされ
-　ているから、色々な所から不満が出てるわよ」
+<name "Paniverna" "!DA0002">
+"Well enough, but because we're not allowed to
+ go check on how things are going, a lot of
+ people are grumbling."
 #
-<name "ダークス">
-「そうか」
+<name "Darx">
+"I see."
 #
 <sprite "ta14a018.agf" 4 4 12>
-<name "パニバーナ" "!DA0003">
-「もちろん、私も不満だからね」
+<name "Paniverna" "!DA0003">
+"Of course, I'm unhappy about it too."
 #
-<name "ダークス">
-「……悪かったな」
+<name "Darx">
+"...Sorry."
 #
 <sprite "ta14a019.agf" 4 4 12>
-<name "パニバーナ" "!DA0004">
-「あのマクドゥって女を殺そうとしたのが居たから
-　止めたけど、止めない方が良かった？」
+<name "Paniverna" "!DA0004">
+"There was somebody who wanted to kill this
+ Macdo women, but I stopped them.
+ Should I get out of their way?"
 #
-<name "ダークス">
-「あはは……
-　色々とマズイから止めてくれ」
+<name "Darx">
+"Hahaha...
+ None of that.
+ It'd just cause more problems."
 #
 <sprite "ta14a005.agf" 4 4 12>
-<name "パニバーナ" "!DA0005">
-「魔王様がそう言うなら」
+<name "Paniverna" "!DA0005">
+"If you say so."
 #
-<name "ダークス">
-「ああ。
-　で、ここには偶然か？」
+<name "Darx">
+"Yeah.
+ So, just here by chance?"
 #
 <sprite "ta14a006.agf" 4 4 12>
-<name "パニバーナ" "!DA0006">
-「ううん。
-　魔王様が来たら案内しろって言われた行き先があ
-　るの」
+<name "Paniverna" "!DA0006">
+"No. I was told that when you made it here,
+ I was supposed to show you somewhere." 
 #
-<name "ダークス">
-「誰から？」
+<name "Darx">
+"By who?"
 #
 <sprite "ta14a005.agf" 4 4 12>
-<name "パニバーナ" "!DA0007">
-「マクドゥ」
+<name "Paniverna" "!DA0007">
+"Macdo."
 #
-<name "ダークス">
-「……」
+<name "Darx">
+"..."
 #
 <sprite "ta14a001.agf" 4 4 12>
-<name "パニバーナ" "!DA0008">
-「どうしたの？
-　微妙な顔をして」
+<name "Paniverna" "!DA0008">
+"What?
+ That's quite the look."
 #
-<name "ダークス">
-「いや、そういった仕事を引き受けてくれてありが
-　とうって気持ちと、一応は幹部なんだからもう少
-　し威厳をって気持ちがぶつかった」
+<name "Darx">
+"It's nothing. Just grateful you took on a job
+ like this, and annoyed that one of my top
+ people is being forced to play errand girl."
 #
 <removesprite -1 11>
-　パニバーナの階級は迷宮長。
+Her rank is Dungeon Master.
 #
-　俺不在時のトップ、迷宮総長の下だから、かなり
-　偉い立場の筈だ。
+With me gone and the Dungeon Lord taking my
+place, that puts her right at the very top of
+the pecking order.
 #
 <sprite "ta14a006.agf" 4 4 11>
-<name "パニバーナ" "!DA0009">
-「まあまあ、こうやって話す機会も欲しかったし」
+<name "Paniverna" "!DA0009">
+"Well, I also wanted a chance to talk to you."
 #
 <sprite "ta14a005.agf" 4 4 12>
-<name "パニバーナ" "!DA0010">
-「久しぶりに会えて、嬉しかったでしょ」
+<name "Paniverna" "!DA0010">
+"It's nice to see you again after so long."
 #
-<name "ダークス">
-「まあな
-　しかし、マクドゥが指示した場所だから、何かあ
-　るんだろうなぁ」
+<name "Darx">
+"I guess, but if Macdo is behind this, then
+ I assume she's up to something."
 #
 <sprite "ta14a022.agf" 4 4 12>
-<name "パニバーナ" "!DA0011">
-「魔王様なら、大丈夫よ。
-　なにせ、天蓋の城に乗り込んだぐらいなんだから」
+<name "Paniverna" "!DA0011">
+"You'll be fine.
+ After all, you conquered Castle Baldaquin."
 #
-<name "ダークス">
-「だと良いが……」
-#
-<sprite "ta14a006.agf" 4 4 12>
-<name "パニバーナ" "!DA0012">
-「案内する場所は、このフォーゼロッテ宮の非統治
-　エリア。
-　要は魔王様の言う事を聞かない勢力の場所」
-#
-<sprite "ta14a005.agf" 4 4 12>
-<name "パニバーナ" "!DA0013">
-「マクドゥの言い分としては、街作りと平行して統
-　治エリアの拡大を目指す。
-　だったかな」
-#
-<name "ダークス">
-「なるほど」
-#
-　まあ、理に適っている。
+<name "Darx">
+"I sure hope so."
 #
 <sprite "ta14a006.agf" 4 4 12>
-<name "パニバーナ" "!DA0014">
-「その場にラキアも居たから、仕掛けがあるとは思
-　えないけど……油断はしないでね」
-#
-<name "ダークス">
-「おう」
+<name "Paniverna" "!DA0012">
+"I'm supposed to show you to the disputed area
+ of Forzelotte's Shrine.
+ Basically, where the forces who don't obey
+ you are."
 #
 <sprite "ta14a005.agf" 4 4 12>
-<name "パニバーナ" "!DA0015">
-「あ、ここの扉」
+<name "Paniverna" "!DA0013">
+"Macdo's plan is to expand the area we control
+ while also developing the city.
+ At least, I think."
 #
-<name "ダークス">
-「わかった」
+<name "Darx">
+"I see."
+#
+Well, that does make sense.
+#
+<sprite "ta14a006.agf" 4 4 12>
+<name "Paniverna" "!DA0014">
+"Rakia was there too, so I don't think that
+ she has anything up her sleeve, but don't be
+ careless."
+#
+<name "Darx">
+"Right."
+#
+<sprite "ta14a005.agf" 4 4 12>
+<name "Paniverna" "!DA0015">
+"Ah, the Door's here."
+#
+<name "Darx">
+"Got it."
 #
 <sprite "ta14a018.agf" 4 4 12>
-<name "パニバーナ" "!DA0017">
-「できれば一緒に行きたいんだけど……」
+<name "Paniverna" "!DA0017">
+"I wish I could go with you, but..."
 #
-<name "ダークス">
-「禁止されているんだろ」
+<name "Darx">
+"Not allowed, right?"
 #
 <sprite "ta14a020.agf" 4 4 12>
-<name "パニバーナ" "!DA0018">
-「うん」
+<name "Paniverna" "!DA0018">
+"Yeah."
 #
-<name "ダークス">
-「その気持ちで十分だ」
+<name "Darx">
+"The sentiment's enough."
 #
 <removesprite -1 11>
-　まあ、頑張るしかない。
+Well, just gotta do it then.
 #
 <sprite "ta14a013.agf" 4 4 11>
-<name "パニバーナ" "!DA0019">
-「あと一つ、報告し忘れ」
+<name "Paniverna" "!DA0019">
+"I forgot to report one other thing."
 #
-<name "ダークス">
-「ん？」
+<name "Darx">
+"Hm?"
 #
 <sprite "ta14a005.agf" 4 4 12>
-<name "パニバーナ" "!DA0020">
-「私のこの案内に関しては、とある方から奪った
-　形になっちゃった」
+<name "Paniverna" "!DA0020">
+"This job here?
+ I took it from someone else."
 #
-<name "ダークス">
-「？」
+<name "Darx">
+"Huh?"
 #
 <sprite "ta14a006.agf" 4 4 12>
-<name "パニバーナ" "!DA0021">
-「伝言や案内を頼むなら、王宮守備担当の私より、
-　扉の間の守備担当の方が適任じゃない？」
+<name "Paniverna" "!DA0021">
+"Wouldn't it make more sense to have someone
+ who guards the Hall of Doors deliver a 
+ message or guide you around instead of the
+ me, the royal palace's guard?"
 #
-<name "ダークス">
-「ああ、確かにそうだな、……え」
+<name "Darx">
+"Yeah, that's true...
+ Oh."
 #
 <removesprite -1 11>
-　扉の間の守備担当。
+The one who guards the Hall of Doors.
 #
-　エカテー。
+Ekate.
 #
-　頼もしい俺の味方であり、俺の嫁の一人だ。
+Another dependable ally, and one of my wives.
 #
-<name "ダークス">
-「そう言えば、俺が来るとなれば即座に此処に飛ん
-　できそうだが……」
+<name "Darx">
+"Come to think of it, I would think that she'd
+ rush right here when I came."
 #
-　来ていない？
+But she's not here?
 #
 <sprite "ta14a005.agf" 4 4 11>
-<name "パニバーナ" "!DA0022">
-「さっき、言ったでしょ」
+<name "Paniverna" "!DA0022">
+"I told you already, didn't I?"
 #
-<name "ダークス">
-「え？」
+<name "Darx">
+"Huh?"
 #
 <sprite "ta14a006.agf" 4 4 12>
-<name "パニバーナ" "!DA0023">
-「マクドゥを殺そうとしたのが居たから、止めたっ
-　て」
+<name "Paniverna" "!DA0023">
+"That I stopped someone who was trying to kill
+ Macdo."
 #
-<name "ダークス">
-「…………えー、あれエカテーの事なのか？」
+<name "Darx">
+"...Oh, it was Ekate?"
 #
 <sprite "ta14a022.agf" 4 4 12>
-<name "パニバーナ" "!DA0024">
-「最初の頃は納得していたみたいだけど、やっぱり
-　キレちゃって……」
+<name "Paniverna" "!DA0024">
+"I think I was getting through to her at the
+ start, but then she snapped..."
 #
-<name "ダークス">
-「よ、よく止められたな」
+<name "Darx">
+"S-So you really had to stop her then."
 #
 <removesprite -1 11>
-　エカテーは、別の場所なら魔王と呼ばれていても
-　おかしくない実力者だ。
+Ekate is strong enough that she could 
+undoubtedly be an Overlord somewhere else.
 #
-　与えられた仕事は完璧にこなすが、基本的に面倒
-　事は嫌い。
+She does her job well, but hates anything and
+everything complicated.
 #
-　その癖、裏方よりも現場を楽しみ、遊び気が強い。
+She likes to be in the field, but hates the
+work behind it, and is fiercely free-spirited.
 #
-　それゆえ、迷宮総長候補に何度も名前が上がって
-　は、辞退し続けている。
+Her name has come up several times as a 
+possible Dungeon Master, but she's always
+turned it down.
 #
-　扉の間の守備担当も、超嫌がっていたのを俺の説
-　得で押し付けたようなものだ。
+Even being put in charge of protecting the 
+Hall of Doors is something she hates, but I
+was able to force her into doing.
 #
-　しかし、扉の間の守備担当は、このフォーゼロッ
-　テ宮での最重要ポジションでもある。
+At the same time, guarding the Hall of Doors
+is the most important job in Forzelotte's
+Shrine.
 #
-　そこを任せるポジションの者が、殺しに動いた。
+The person responsible for it has to be ready
+to kill.
 #
-<name "ダークス">
-「マクドゥが善戦したのか？」
+<name "Darx">
+"Did Macdo put up a good fight?"
 #
 <sprite "ta14a006.agf" 4 4 11>
-<name "パニバーナ" "!DA0025">
-「あはは……」
+<name "Paniverna" "!DA0025">
+"Hahaha..."
 #
 <sprite "ta14a018.agf" 4 4 12>
-<name "パニバーナ" "!DA0026">
-「エカテーの動きを察した私、ウルティニア、イザ
-　ナ、ゴラン、トージョ、ロギウスの総掛りで抑え
-　込んだ」
+<name "Paniverna" "!DA0026">
+"We knew what Ekate was up to, so Ultinia,
+ Izana, Golan, Tojo, Logius, and I worked
+ together to stop her."
 #
-<name "ダークス">
-「おお」
+<name "Darx">
+"Good."
 #
-　幹部勢だ。
+Those are my top troops.
 #
 <sprite "ta14a019.agf" 4 4 12>
-<name "パニバーナ" "!DA0027">
-「ロギウスが、かなり根性を見せて頑張ってくれた
-　から、なんとか抑え込んだって感じ」
+<name "Paniverna" "!DA0027">
+"Logius fought hard and showed a lot of guts,
+ and managed to keep her mostly in check."
 #
 <sprite "ta14a018.agf" 4 4 12>
-<name "パニバーナ" "!DA0029">
-「被害としては一部施設の崩壊と、ロギウス、ウル
-　ティニア、ゴラン、トージョが負傷」
+<name "Paniverna" "!DA0029">
+"As for the damage, aside from a few 
+ buildings, Logius, Ultinia, Golan, and Tojo
+ were hurt."
 #
-<name "ダークス">
-「大丈夫なのか？」
+<name "Darx">
+"Are they okay?"
 #
 <sprite "ta14a005.agf" 4 4 12>
-<name "パニバーナ" "!DA0030">
-「負傷と言っても、四人とも仕事に向かったから大
-　丈夫でしょ」
+<name "Paniverna" "!DA0030">
+"They may be hurt, but all four still went
+ right back to work, so they seem well
+ enough."
 #
-<name "ダークス">
-「で、エカテーは？」
+<name "Darx">
+"And what about Ekate?"
 #
 <sprite "ta14a018.agf" 4 4 12>
-<name "パニバーナ" "!DA0031">
-「隙を見て逃走して、行方不明」
+<name "Paniverna" "!DA0031">
+"She saw an opening and got away.
+ She's in the wind."
 #
-<name "ダークス">
-「え、えっと……」
+<name "Darx">
+"U-Uh..."
 #
 <sprite "ta14a019.agf" 4 4 12>
-<name "パニバーナ" "!DA0032">
-「臨時で、私が扉の間の警備をやっているわけ」
+<name "Paniverna" "!DA0032">
+"For now, I'm guarding the Hall of Doors."
 #
-<name "ダークス">
-「な、なるほど……」
+<name "Darx">
+"I-I see."
 #
 <sprite "ta14a005.agf" 4 4 12>
-<name "パニバーナ" "!DA0033">
-「マクドゥの警備はメリルとラキアの部下がこっそ
-　りとやっているけど、エカテーの不意打ちはちょっ
-　と怖いわね」
+<name "Paniverna" "!DA0033">
+"Meryl and Rakia's people are secretly
+ guarding Macdo, but we're a little scared of
+ a possible ambush by Ekate right now."
 #
-<name "ダークス">
-「ああ」
+<name "Darx">
+"Yeah."
 #
-　考えただけで、足が震えそうだ。
+Just thinking about it makes my knees tremble.
 #
 <sprite "ta14a006.agf" 4 4 12>
-<name "パニバーナ" "!DA0034">
-「見つけたら報告するから、魔王様の方でフォロー
-　をなんとかお願いできないかな」
+<name "Paniverna" "!DA0034">
+"I'll report to you if we find her, so 
+ hopefully you'll be able to do something
+ after that, if you would please?"
 #
-<name "ダークス">
-「出来る限りの事はする。
-　頼んだぞ」
+<name "Darx">
+"I'll do what I can.
+ I'm counting on you."
 #
 <sprite "ta14a005.agf" 4 4 12>
-<name "パニバーナ" "!DA0035">
-「うん。
-　そっちで見つけた時もよろしくね」
+<name "Paniverna" "!DA0035">
+"Yep.
+ Give her my regards if you find her."
 #
-<name "ダークス">
-「了解した」
+<name "Darx">
+"Will do."
 #
 <removesprite -1 11>
-　……
+...
 #
-　出発前に、思い切り疲れた気分だ。
+I haven't even left yet and I'm already
+exhausted.
 #
 \x78\x78

@@ -1,14 +1,14 @@
 ﻿<music 21>
 <background "ev082a03.agf" 10>
-　数日後、女僧侶は解放を断った。
+It's been a few days, and that priestess is
+refusing to be released.
 #
-<name "ダークス">
-「まだ、やられ足りないのか？」
+<name "Darx">
+"Haven't you had enough?"
 #
-<name "狂信的な冒険者" "!GB0129">
-「あのような目に遭わされては、もう戻れません。
-　どうか、お拾い下さい」
+<name "Fanatical Adventurer" "!GB0129">
+"I can't go back after what was done to me.
+ Please, take me in."
 #
-　アイマスクの向こうの目は、雌になっていた。
-#
+There's nothing in her eyes now but desire.#
 \x78\x78

@@ -1,148 +1,158 @@
 ﻿<music 20>
 <background "ev068a00.agf" 10>
-<name "ヤーヌ" "!NB0014">
-「ううう……や、やめ、ぁぁっ」
+<name "Yahnu" "!NB0014">
+"Ooooohhh...
+ D-Don't...
+ Aah!"
 #
-　俺はヤーヌの身体を触手で縛って固定し、その膣
-　内にモノを捻じ込みながら胸を揉んでやる。
+I bind her with my tentacles to hold her in
+place, and rub her breasts while twisting my
+dick into her pussy.
 #
-　なかなかのボリュームと弾力で、非常に心地良い。
+She's pretty well endowed and feels really
+good.
 #
-　その感触に歓喜するように、俺の腰が勝手に激し
-　く動く。
+My hips move intensely on their own, like 
+they're also enjoying the feeling.
 #
-<name "ヤーヌ" "!NB0015">
-「ううっ、うひうっ！」
+<name "Yahnu" "!NB0015">
+"Nnngh!
+ Nnnnnh!"
 #
-　ヤーヌの胸を揉んでいると、不自然に俺の手が濡
-　れ始めた。
+As I rub her breasts, my hands start getting
+unusually wet.
 #
-<name "ダークス">
-「ん？」
+<name "Darx">
+"Hm?"
 #
 <background "ev068a01.agf" 10>
-　気付いたら、ヤーヌの胸から母乳が噴出していた。
+I realize that breast milk is gushing out of
+her.
 #
-　俺が揉み絞る度に、ビュッと噴出す。
+Every time I squeeze, it jets out.
 #
-　妊娠中？
+Is she pregnant?
 #
-　いや、処女膜の感触はあった。
+No, I definitely felt a hymen.
 #
-　それを突き破り、膣内でモノを前後させているが、
-　まだ一回目の射精も終わらせていない。
+I broke through it when I thrust into her, and
+I haven't even come once yet.
 #
-　どういう事だ？
+What's going on here?
 #
-　体質か？
+Is that how her race is?
 #
-　それとも……
+Or maybe...
 #
-　俺が考えながら胸を揉んでいると、メイドの一人
-　が説明してくれた。
+As I keep rubbing her breasts and thinking
+about it, one of the maids begins to explain.
 #
-<name "商会メイド" "!PC0121">
-「アンゴラメイ種族の女性は、生殖可能な時期を迎
-　えると母乳を出し、異性を誘うのに使うそうです」
+<name "Company Maid" "!PC0121">
+"Angolamay women start producing breast milk
+ when they reach maturity.
+ They use it to attract a man."
 #
-<name "ダークス">
-「なるほど。
-　種族の特徴か」
+<name "Darx">
+"I see.
+ So it's a race thing."
 #
-　俺は納得し、さらに揉み絞る。
+I squeeze her even harder.
 #
-<name "商会メイド" "!PC0122">
-「そのアンゴラメイ種族の母乳なのですが、薬の原
-　材料として利用出来るのと、一日に搾取できる量
-　が限られている事から、それなりのお値段で取引
-　されております」
+<name "Company Maid" "!PC0122">
+"The breast milk of an angolamay can be used as
+ a component for many medicines, and because
+ only so much is available every day, it does
+ fetch a decent price."
 #
-<name "商会メイド" "!PC0123">
-「できれば、それを捨てるような行為は……」
+<name "Company Maid" "!PC0123">
+"If possible, instead of wasting it..."
 #
-　揉むのを止めろと言いたいのかと思ったが、違った。
+I thought she wanted me to stop squeezing her,
+but I was wrong.
 #
-　メイドはガラス瓶を用意していた。
+She brings out a glass bottle.
 #
-<name "ダークス">
-「わかった」
+<name "Darx">
+"All right."
 #
 <background "ev068b00.agf" 10>
-　俺は触手でガラス瓶を受け取り、ヤーヌの母乳を
-　受け止めた。
+I pick it up with a tentacle and stick it over
+her nipple.
 #
-<name "ダークス">
-「さて、どれだけ搾れるか楽しみだな」
+<name "Darx">
+"Okay, let's see how much I can squeeze out."
 #
-<name "ヤーヌ" "!NB0016">
-「うううっ」
+<name "Yahnu" "!NB0016">
+"Nnnnngh!"
 #
-　俺はヤーヌの膣内で射精を繰り返しながら、ヤー
-　ヌの母乳が枯れるまで搾り続けた。
+I come repeatedly inside her and continue
+milking her.
 #
-　搾取できた量はガラス瓶、四本。
+I manage to fill about four bottles.
 #
-<name "商会メイド" "!PC0124">
-「最初に無駄にした分を考えると平均的な搾取量よ
-　り、かなり多いですね。
-　流石は勢力の代表と言う事でしょうか」
+<name "Company Maid" "!PC0124">
+"Considering how much you wasted at the start,
+ this is a lot more than you'd normally expect.
+ She really must be their leader."
 #
-<name "ダークス">
-「かもな」
+<name "Darx">
+"I guess."
 #
-<name "商会メイド" "!PC0125">
-「こちら、どうします？」
+<name "Company Maid" "!PC0125">
+"So what do we do with it?"
 #
-<name "ダークス">
-「欲しいんだろ。
-　売ってやる」
+<name "Darx">
+"You wanted it, right?
+ Go sell it."
 #
-<name "商会メイド" "!PC0126">
-「ありがとうございます」
+<name "Company Maid" "!PC0126">
+"Thank you very much."
 #
-<name "ヤーヌ" "!NB0017">
-「ぅぅ……」
+<name "Yahnu" "!NB0017">
+"..."
 #
-　目の前で自分の母乳が売り買いされた事に対する
-　抗議だろう。
+She's probably angry about seeing her breast
+milk bartered for right in front of her.
 #
-　俺を怖い目で睨んでくる。
+That's quite the glare.
 #
-<name "ダークス">
-「怒るな。
-　さて、そろそろ質問だ」
+<name "Darx">
+"Don't get mad.
+ Well, it's time for questions."
 #
-　俺はヤーヌの耳元に囁く。
+I whisper in her ear.
 #
-<name "ヤーヌ" "!NB0018">
-「ぅ……ぁ……」
+<name "Yahnu" "!NB0018">
+"..."
 #
-<name "ダークス">
-「お前には二つの道がある。
-　街の家畜になるか、街の住民になるかだ」
+<name "Darx">
+"Two paths lay before you.
+ Will you live in the city as a citizen, or as
+ livestock?"
 #
-<name "ダークス">
-「家畜になるなら、このままジッとしていろ。
-　住民になるなら、尻を振って俺のモノを喜ばせろ」
+<name "Darx">
+"If livestock, then just sit there.
+ If citizen, shake your ass and please me."
 #
-<name "ヤーヌ" "!NB0019">
-「ぅぅ」
+<name "Yahnu" "!NB0019">
+"..."
 #
-<name "ダークス">
-「ああ、返事をする前に言っておく。
-　この質問は他の連中には聞かない。
-　お前の返事が、全員の返事だ」
+<name "Darx">
+"Oh, and before you answer, I'm not asking
+ any of the rest of you this question.
+ Your answer goes for all of them."
 #
-<name "ヤーヌ" "!NB0020">
-「ぅ……」
+<name "Yahnu" "!NB0020">
+"..."
 #
-<name "ヤーヌ" "!NB0021">
-「ぅぅ……」
+<name "Yahnu" "!NB0021">
+"........."
 #
-　ヤーヌは、ゆっくりと自分から腰を動かし始めた。
+She slowly starts moving her hips on her own.
 #
-<name "ダークス">
-「いい返事だ。
-　この行為が終わったら、お前らは俺の街の住民だ」
+<name "Darx">
+"Good answer.
+ Once we're finished, you'll be citizens of my
+ city."
 #
 \x78\x78

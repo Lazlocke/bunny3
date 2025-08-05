@@ -1,15 +1,16 @@
 ﻿<music 21>
 <background "ev082a03.agf" 10>
-<name "僧侶エイリス" "!GB0130">
-「ひぁ、うあああ……」
+<name "Aerys" "!GB0130">
+"Ah...aaah..."
 #
-　このプレイが癖になったエイリスの相手を、する
-　俺だった。
+I've gotten used to this kind of play when I'm
+with Aerys.
 #
-<name "僧侶エイリス" "!GB0131">
-「うあ、うあっ、ああううっ……」
+<name "Aerys" "!GB0131">
+"Aah...aah...aah..."
 #
-　快楽に溺れるエイリスの相手をしながら、何事も
-　一番最初が大事なんだなと、少し思った俺だった。
+Looking at her drowning in pleasure, I can't
+help but thinking that the first time is 
+pretty influential.
 #
 \x78\x78

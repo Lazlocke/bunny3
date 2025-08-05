@@ -1,76 +1,80 @@
 ﻿<music 3>
 <background "bg010a0.agf" 10>
-<name "ダークス">
-「この要望書。
-　どうなっているんだ？」
+<name "Darx">
+"I got a request.
+ What's going on?"
 #
 <sprite "ta34c001.agf" 4 4 11>
-<name "商会メイド" "!PC0302">
-「す、すみません」
+<name "Company Maid" "!PC0302">
+"I-I'm sorry."
 #
-<name "ダークス">
-「俺、捕虜を取るなって指示したよな」
+<name "Darx">
+"I thought I told you not to take prisoners."
 #
-<name "商会メイド" "!PC0303">
-「はい」
+<name "Company Maid" "!PC0303">
+"Yes."
 #
 <removesprite -1 11>
-　だが、現場判断で一部の冒険者を懲罰的に監禁。
+But apparently some people have decided to
+hold onto some adventurers for punishment.
 #
-　つまり、捕虜にしていた。
+In other words, taken prisoners.
 #
-<name "ダークス">
-「なのに、この要望書はなんだ？」
+<name "Darx">
+"And yet, I get this request."
 #
-　牢屋が一杯で、広げて欲しい。
+It's a request to expand the prison.
 #
-<name "ダークス">
-「おかしいよな」
+<name "Darx">
+"This doesn't make sense."
 #
 <sprite "ta34c001.agf" 4 4 11>
-<name "商会メイド" "!PC0304">
-「はい。
-　おかしいです」
+<name "Company Maid" "!PC0304">
+"Yes. It's strange."
 #
-<name "ダークス">
-「原因は？
-　調査したんだろ」
+<name "Darx">
+"Why?
+ You looked into that, right?"
 #
-<name "商会メイド" "!PC0305">
-「フォーゼロッテ宮から移ってきた住民です」
+<name "Company Maid" "!PC0305">
+"It's because of the citizens who moved here
+ from Forzelotte's Shrine."
 #
-<name "ダークス">
-「どういう事だ？」
+<name "Darx">
+"What do you mean?"
 #
-<name "商会メイド" "!PC0306">
-「その、こちらが指導しても、魔王様が喜ぶからと
-　捕虜の確保を続けまして」
+<name "Company Maid" "!PC0306">
+"Um, no matter what we tell them to do, they
+ keep taking prisoners because they believe
+ that will please you."
 #
-<name "ダークス">
-「…………」
+<name "Darx">
+"..."
 #
 <removesprite -1 11>
 <music 20>
 <background "ev085a00.agf" 10>
-<name "悶える女冒険者" "!RB0150">
-「んぁ、あ、ふぁ、あ、ああん」
+<name "Writhing Adventurer" "!RB0150">
+"Aaah...ah...ahh...ah...aaah..."
 #
-　俺は牢屋の中で、捕らえられた女冒険者を片っ端
-　から抱き続ける。
+I fuck the captured women in the jail, one
+after another.
 #
-　昔、天界の連中を相手にしていた時を思い出す。
+It reminds me of when I had to deal with the
+angels.
 #
-　だが、あの時と違い、相手は人間だ。
+But unlike then, these are humans.
 #
-　乱暴にやり過ぎてもいけない。
+I can't go too overboard with them.
 #
-　妙なもどかしさに、逆に俺は喜んでいるようだっ
-　た。
+But actually, it feels nice and different.
 #
-<name "悶える女冒険者" "!RB0151">
-「ぁ、ぁ、ぁ……も、ぁ、ひ、ゆ、許して……」
+<name "Writhing Adventurer" "!RB0151">
+"Ah...ah...ah...
+ N-No mo...ah...
+ F-Forgive me..."
 #
-　俺は女冒険者を数人づつ相手にしながら、牢屋の
-　中を楽しんだ。
+I enjoy my time in the prison with the 
+adventurers.
 #
 \x78\x78

@@ -1,192 +1,208 @@
 ﻿<music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta34c001.agf" 4 4 11>
-<name "商会メイド" "!PC0280">
-「魔王様。
-　お願いの儀がございます」
+<name "Company Maid" "!PC0280">
+"Overlord, I had a request for you."
 #
-<name "ダークス">
-「？」
+<name "Darx">
+"Hm?"
 #
-<name "商会メイド" "!PC0281">
-「かなり強い冒険者がダークス宮を徘徊していて、
-　現行の戦力では手が出ません。
-　魔王様直々の討伐をお願いできますか」
+<name "Company Maid" "!PC0281">
+"There's a very powerful adventurer wandering
+ through the Temple of Darx. We can't handle
+ it with our current forces. Can we ask you
+ to quickly take care of them yourself?"
 #
-<name "ダークス">
-「そんなに強いのか？」
+<name "Darx">
+"They're that strong?"
 #
-<name "商会メイド" "!PC0282">
-「はい。
-　単身の方なのですが、その剣技は近付く者全てを
-　斬る感じで……」
+<name "Company Maid" "!PC0282">
+"Yes. It's just one person, but their
+ technique is enough to cut down anybody who
+ gets near."
 #
-<name "ダークス">
-「なるほど」
+<name "Darx">
+"I see."
 #
-<name "ダークス">
-「わかったが……まずは実際に見させてくれ」
+<name "Darx">
+"All right.
+ I'll take a look myself to start."
 #
-<name "商会メイド" "!PC0283">
-「はい」
+<name "Company Maid" "!PC0283">
+"Yes, sir."
 #
 <removesprite -1 11>
 <music 22>
 <background "ev084a00.agf" 10>
-<name "欲求不満な冒険者" "!SB0164">
-「お、男、男ぉっ！」
+<name "Frustrated Adventurer" "!SB0164">
+"A-A man!
+ A man!"
 #
-<name "ダークス">
-「え、お、おい、こら、ちょっ……あっ」
+<name "Darx">
+"Huh? H-Hey!
+ Hold it!
+ He...ah!"
 #
-　様子を見に行ったら、即座で見つかり押し倒され
-　た。
+When I went to investigate the situation,
+she instantly found me and tackled me.
 #
-　ワケがわからない。
+I have no idea what's going on.
 #
-　しかも、本気で性行為目当てだ。
+But the only thing on her mind is sex.
 #
-　恥女か？
+Is she some kind of crazy slut?
 #
-　俺のモノを強引に握り、擦り、大きくしたと思っ
-　たら自分の膣内に挿入し始めた。
+She forcefully grabs my dick, starts rubbing
+it, and as soon as it's big enough, starts
+putting it inside her.
 #
-<name "欲求不満な冒険者" "!SB0165">
-「あっ、んんっ、んぁっ……！」
+<name "Frustrated Adventurer" "!SB0165">
+"Ah...mm...mmm!"
 #
-　だが、その感触から俺は察する。
+But I can tell from the feeling.
 #
-　恥女ではない。
+She's not a slut.
 #
-　女は初物だ。
+She's a virgin.
 #
-　その証拠の処女膜を、進行形で破っている。
+The proof is that I can feel her hymen 
+tearing.
 #
 <background "ev084a01.agf" 10>
-<name "欲求不満な冒険者" "!SB0166">
-「あんっ、んあっ、ああっ！」
+<name "Frustrated Adventurer" "!SB0166">
+"Aah! Aah! Aaah!"
 #
-　痛くないのか？
+Doesn't it hurt?
 #
-　女の動きに淀みがない。
+She doesn't slow down at all.
 #
-　戦闘によって興奮し過ぎ、それが快楽、発情へと
-　繋がったのか？
+Was she so overstimulated by fighting that
+it started feeling good and she went into
+heat?
 #
-　考えがまとまらない。
+I can hardly even think straight.
 #
-　下半身の快楽に、思考が奪われる。
+The pleasure from the lower half of my body
+is dominating my thoughts.
 #
-　だが、こんな乱暴な行為で、俺は達したりはしな
-　い！
+But I'm not going to be able to come from
+such a violent act!
 #
 <background "ev084a02.agf" 10>
-<name "欲求不満な冒険者" "!SB0167">
-「あん、ん、んぁ、んぁ、あっ……」
+<name "Frustrated Adventurer" "!SB0167">
+"Ah...mmm...mmm...mmm...ah..."
 #
-　だが、女の目。
+But the look in her eyes...
 #
-　たった一つ見える目に、俺は惹きつけられる。
+I'm drawn in by the only eye I can see.
 #
-　雄を求める雌の目。
+The look of lust demanding a man.
 #
-　求められる喜び。
+Demanding pleasure.
 #
-<name "欲求不満な冒険者" "!SB0168">
-「あ、あ、あ、来た、ふぁ、あっ、も、もう」
+<name "Frustrated Adventurer" "!SB0168">
+"Ah...ah...ah...
+ Come...
+ Aah...ah...
+ A-Almost..."
 #
-　女の動きがさらに激しくなる。
+Her movements become even more violent.
 #
-　そして、不意に女が俺に身体を密着させて来た。
+She suddenly pulls close to me.
 #
-　唇を奪われる。
+And takes my lips.
 #
-　舌を潜り込まされ、俺の口内を嘗め回してくる。
+She thrusts her tongue in and licks the inside
+of my mouth.
 #
-　その攻撃に、俺の股間のモノがさらに大きくなっ
-　た。
+The attack makes my dick even bigger.
 #
-<name "欲求不満な冒険者" "!SB0169">
-「ふぁぁっ！
-　あっ、うぁっ、あああっ！」
+<name "Frustrated Adventurer" "!SB0169">
+"Aaaahh!
+ Ah! Aah! Aaahhhh!"
 #
-　女はそれにさらに歓喜し、腰を動かした。
+She's even more ecstatic from that and swings
+her hips more.
 #
-　俺は女の下で抵抗できない。
+I can't resist, pinned under her.
 #
-　女の膣内で、無理矢理に射精させられる。
+She forces me to come inside her.
 #
-<name "欲求不満な冒険者" "!SB0170">
-「あ、あ、ふぁ、あ、あ、あ、ああっ」
+<name "Frustrated Adventurer" "!SB0170">
+"Ah! Ah! Ahh! Ah! Ah! Ah! Aaahh!"
 #
-　その事に驚きを感じながら、俺は大量の精液をモ
-　ノ先から吐き出した。
+As I stay shocked at what's going on, a huge
+amount of semen erupts from my dick.
 #
 <background "ev084a03.agf" 10>
-<name "欲求不満な冒険者" "!SB0171">
-「んんんんんっ！」
+<name "Frustrated Adventurer" "!SB0171">
+"Mmmmmmmm!!!!"
 #
-　女は俺の精液を膣内と子宮で受け止めながら、全
-　身を震わせて達していた。
+She comes, trembling from head to toe, as she
+takes my semen into her pussy and womb.
 #
-　射精を終えた俺は、頭が冷静になってきた。
+As I finish coming, my head starts to calm
+down.
 #
-　女も、一度、達してしまえば正気に戻るだろう。
+Now that she's orgasmed, she should come back
+to her senses too.
 #
-　立場は交代だ。
+And then we'll switch roles.
 #
-　俺にここまでした女と言う事で、たっぷりと甚振っ
-　てやる。
+After what she did to me, I owe her quite a
+bit in return.
 #
-　俺はそう決意し、女の胸に手を伸ばそうとした。
+I decide that and try to reach up to her 
+chest.
 #
-　しかし、その手を女に掴まれ阻まれてしまう。
+But she grabs my wrists and stops me.
 #
-<name "欲求不満な冒険者" "!SB0172">
-「ふぁん、ん、ぁぁーん、もっとだ」
+<name "Frustrated Adventurer" "!SB0172">
+"Aaah...mmm...ahhhh...
+ More..."
 #
-　……
+...
 #
-　女の目は、雌のままだった。
+Her eyes remain inflamed with desire.
 #
-　俺はしばらく、解放されなかった。
+I wasn't let go for a long time.
 #
 <music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta34c002.agf" 4 4 11>
-<name "商会メイド" "!PC0284">
-「えっと……」
+<name "Company Maid" "!PC0284">
+"Um..."
 #
 <sprite "ta34c000.agf" 4 4 12>
-<name "商会メイド" "!PC0285">
-「ひ、酷い目に遭いましたね」
+<name "Company Maid" "!PC0285">
+"T-That must have been terrible."
 #
-<name "ダークス">
-「俺……助けてって言ったのに。
-　お前、逃げたな」
+<name "Darx">
+"I... told you to help me.
+ You ran away."
 #
 <sprite "ta34c008.agf" 4 4 12>
-<name "商会メイド" "!PC0286">
-「すみません。
-　あまりの出来事に混乱してしまい……」
+<name "Company Maid" "!PC0286">
+"I'm sorry.
+ I was so confused by what was happening..."
 #
-<name "ダークス">
-「お前、逃げたな」
+<name "Darx">
+"You ran away."
 #
 <sprite "ta34c004.agf" 4 4 12>
-<name "商会メイド" "!PC0287">
-「あ、あはは……」
+<name "Company Maid" "!PC0287">
+"H-Hahaha..."
 #
 <sprite "ta34c001.agf" 4 4 12>
-<name "商会メイド" "!PC0288">
-「わかりました」
+<name "Company Maid" "!PC0288">
+"I understand."
 #
-<name "商会メイド" "!PC0289">
-「逃げた私にお仕置きして良いので、機嫌を直して
-　ください」
+<name "Company Maid" "!PC0289">
+"You can punish me for running away, so please
+ feel better."
 #
 <removesprite -1 11>
-　俺はベッドの中でメイドにお仕置きをしながら、
-　あの侍女に復讐する事を決意した。
+I punish the maid in bed while swearing
+vengeance on that woman.
 #
 \x78\x78

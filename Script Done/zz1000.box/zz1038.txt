@@ -1,32 +1,32 @@
 ﻿<music 7>
 <background "bg001a3.agf" 10>
 <sprite "ta04a017.agf" 4 4 11>
-<name "ルーアルテ" "!RA0032">
-「ぜ、前回は酷い目に遭ったわ」
+"L-Last time was terrible."
 #
 <removesprite -1 11>
 <background "ev023e00.agf" 10>
-<name "ルーアルテ" "!RA0033">
-「うう、思い出しても腹が立つ」
+<name "Rualtei" "!RA0033">
+"Oooh...
+ Just thinking about it makes me mad."
 #
 <background "bg001a3.agf" 10>
 <sprite "ta04a007.agf" 4 4 11>
-<name "ルーアルテ" "!RA0034">
-「なんであんなのが居るのよ」
+<name "Rualtei" "!RA0034">
+"Why was there something like that?"
 #
 <sprite "ta04a017.agf" 4 4 12>
-<name "ルーアルテ" "!RA0035">
-「お姉様にお願いして、森ごと焼いて貰いたいんだ
-　けど、どうしてそんなお願いをするのって言われ
-　ると困るし……」
+<name "Rualtei" "!RA0035">
+"I'd ask my sister to burn the whole forest
+ down, but I don't want her to ask me why I'd
+ ask her to do that..."
 #
 <sprite "ta04a018.agf" 4 4 12>
-<name "ルーアルテ" "!RA0036">
-「うう」
+<name "Rualtei" "!RA0036">
+"Ooohh..."
 #
 <removesprite -1 11>
-　上を注意するルーアルテだった。
+Rualtei paid careful attention above her.
 #
-　もちろん、木の根に躓いて、転んだ。
+Of course, she tripped over a root and fell.
 #
 \x78\x78

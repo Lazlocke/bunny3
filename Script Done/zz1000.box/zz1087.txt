@@ -1,62 +1,63 @@
 ﻿<music 20>
 <background "ev085a00.agf" 10>
-<name "悶える女冒険者" "!RB0152">
-「んぁ、ひっ、ひぁっ、うぁっ……」
+<name "Writhing Adventurer" "!RB0152">
+"Ah...ah...aah...ahh..."
 #
-<name "商会メイド" "!PC0309">
-「魔王様」
+<name "Company Maid" "!PC0309">
+"Overlord."
 #
-<name "ダークス">
-「ん？
-　どうした？」
+<name "Darx">
+"Hm?
+ Is something the matter?"
 #
-<name "商会メイド" "!PC0310">
-「いえ、ここに長く篭られているので……」
+<name "Company Maid" "!PC0310">
+"No, you've just been shut up in here for a
+ very long time..."
 #
-<name "ダークス">
-「そんなに長く居たか？」
+<name "Darx">
+"Has it been that long?"
 #
-<name "商会メイド" "!PC0311">
-「ええ……」
+<name "Company Maid" "!PC0311">
+"Yes..."
 #
-　二日も経っていたらしい。
+Apparently it's been two days.
 #
-　周りを見渡せば、確かにそれぐらいはやっただろ
-　う痕跡がある。
+Looking around me now, I certainly do seem to
+have been in a trance.
 #
-<name "ダークス">
-「そうか。
-　だが、まだまだ身体が女を求めていてな」
+<name "Darx">
+"I see.
+ But my body still needs a woman."
 #
-<name "ダークス">
-「ああ、お前も混ざるか？」
+<name "Darx">
+"Oh, do you want to do it too?"
 #
-<name "商会メイド" "!PC0312">
-「素敵な提案ですが、お世話をする者も居ないとい
-　けませんので」
+<name "Company Maid" "!PC0312">
+"That's a tempting offer, but somebody needs
+ to take care of them."
 #
-<name "ダークス">
-「それもそうだな」
+<name "Darx">
+"I guess so."
 #
-<name "商会メイド" "!PC0313">
-「また、適当なタイミングでお声をお掛けします」
+<name "Company Maid" "!PC0313">
+"I'll let you know when I'm available."
 #
-<name "ダークス">
-「ああ、頼んだ」
+<name "Darx">
+"Yeah, please do."
 #
-　俺が冒険者達の居る牢屋から出たのは、三日後だっ
-　た。
+Three days later, I leave the adventurers'
+prison.
 #
 <music 5>
 <background "bg011b0.agf" 10>
-<name "ダークス">
-「うぁ……なんだ？
-　まだ足りない」
+<name "Darx">
+"Urgh... What the hell?
+ That's still not enough."
 #
-<name "ダークス">
-「どうも、女を求めてしまう」
+<name "Darx">
+"I still need a woman."
 #
-<name "ダークス">
-「やり足りない筈は無いのだが……」
+<name "Darx">
+"It should've been enough..."
 #
 \x78\x78

@@ -1,325 +1,340 @@
 ﻿<music 9>
 <background "ev077a00.agf" 10>
-　街の外周部では、巨大な触手が迫っていた。
+Giant tentacles are approaching the edge of
+the city.
 #
-<name "驚く街の住民" "!ZH0001">
-「な、なんだ、これは！」
+<name "Surprised Citizen" "!ZH0001">
+"W-What is that!?"
 #
-<name "恐怖する街の住民" "!MB0003">
-「逃げろ！」
+<name "Scared Citizen" "!MB0003">
+"Run away!"
 #
-<name "留まる街の住民" "!CB0003">
-「馬鹿やろう！
-　逃げるな！
-　戦うんだよ！」
+<name "Steadfast Citizen" "!CB0003">
+"Idiots!
+ Don't run!
+ We have to fight!"
 #
-<name "怯える街の住民" "!KB0043">
-「無理だよ。
-　あれ、なんだよ」
+<name "Afraid Citizen" "!KB0043">
+"We can't.
+ What are those?"
 #
-<name "戦う街の住民" "!BC0011">
-「斬ってもすぐに別のが出てくる」
+<name "Fighting Citizen" "!BC0011">
+"You cut one down and another takes its place."
 #
-<name "冷静な街の住民" "!LB0040">
-「守備に専念してください」
+<name "Calm Citizen" "!LB0040">
+"Focus on defending."
 #
-<name "指示する街の住民" "!GB0026">
-「前には出ないで！
-　来たものだけを叩いてください」
+<name "Commanding Citizen" "!GB0026">
+"Don't go forward!
+ Just hit what comes at you!"
 #
-<name "驚く街の住民" "!ZH0002">
-「お、おう。
-　そうだな」
+<name "Surprised Citizen" "!ZH0002">
+"Y-Yeah.
+ Got it."
 #
-<name "恐怖する街の住民" "!MB0004">
-「くそ、やってやる」
+<name "Scared Citizen" "!MB0004">
+"Damn it.
+ I'll do it."
 #
 <music 16>
 <background "ev076a00.agf" 10>
-　そして、その触手はフォーゼロッテ宮にも迫って
-　いた。
+The tentacles are also closing in on 
+Forzelotte's Shrine.
 #
-<name "トージョ" "!KA0014">
-「焼いてもすぐに次のが出てくる」
+<name "Tojo" "!KA0014">
+"Blast one and another takes its place."
 #
-<name "ゴラン" "!CA0012">
-「むう」
+<name "Golan" "!CA0012">
+"Grr."
 #
-<name "ベテラン兵" "!BC0012">
-「トージョ様。
-　各エリアの防壁、無事に閉鎖しました」
+<name "Veteran Soldier" "!BC0012">
+"Tojo, we've closed the barriers in each
+ place."
 #
-<name "トージョ" "!KA0015">
-「よーし、そうなるとここが一番の防御地点だ。
-　ここから先には通すな」
+<name "Tojo" "!KA0015">
+"Okay, then this is the best place to stand our
+ ground.
+ Don't let them through here."
 #
-<name "トージョ" "!KA0016">
-「なに、大丈夫だ。
-　それほど強いわけじゃない」
+<name "Tojo" "!KA0016">
+"Come on, we'll be fine.
+ They're not so strong."
 #
-<name "トージョ" "!KA0017">
-「ちょっとばかし数が多いだけだ」
+<name "Tojo" "!KA0017">
+"There's just a ton of them."
 #
-<name "トージョ" "!KA0018">
-「俺達なら防げる」
+<name "Tojo" "!KA0018">
+"We can stop them."
 #
-<name "ゴラン" "!CA0013">
-「行くぞ」
+<name "Golan" "!CA0013">
+"Let's go."
 #
-<name "ベテラン兵" "!BC0013">
-「おおっ！」
+<name "Veteran Soldier" "!BC0013">
+"Yeah!"
 #
 <music 9>
 <background "ev077a00.agf" 10>
-<name "指示する学園教師" "!BC0014">
-「火で壁を作れ！」
+<name "Commanding Teacher" "!BC0014">
+"Block them with fire!"
 #
-<name "報告する学園教師" "!GB0027">
-「扉の間は使用制限されました！」
+<name "Reporting Teacher" "!GB0027">
+"We can't use the hall of doors!"
 #
-<name "イザナ" "!AA0015">
-「怪我人を後ろに。
-　ヘタに手を出すな」
+<name "Izana" "!AA0015">
+"Take the injured inside.
+ Don't take any risks."
 #
-<name "ロギウス" "!PA0037">
-「教師は学園の防衛。
-　街は街の者に任せます」
+<name "Logius" "!PA0037">
+"The teachers must defend the school.
+ Leave the city to the people in it."
 #
-<name "ロギウス" "!PA0038">
-「見捨てるワケではありません。
-　信頼です」
+<name "Logius" "!PA0038">
+"We will not abandon you.
+ Have faith in us."
 #
-<name "ロギウス" "!PA0040">
-「とにかく、今は耐えるのです」
+<name "Logius" "!PA0040">
+"Anyway, we've got to endure for now."
 #
-<name "守備する学園教師" "!KB0044">
-「はい！」
+<name "Defending Teacher" "!KB0044">
+"Yes!"
 #
-<name "ロギウス" "!PA0041">
-「まったく。
-　新しい魔王様になってから、トラブル続き」
+<name "Logius" "!PA0041">
+"Honestly, ever since the new Overlord took
+ over, it's been one problem after another."
 #
-<name "ロギウス" "!PA0042">
-「フォーゼロッテ様の時は、静かで良かったのに」
+<name "Logius" "!PA0042">
+"It was nice and quiet when Forzelotte was in
+ charge."
 #
-<name "フラン" "!HC0005">
-「ロギウス様、私達はどこを守れば良いの」
+<name "Flan" "!HC0005">
+"Logius, where should we protect?"
 #
-<name "アリィ" "!SB0007">
-「僕達も戦うよ」
+<name "Aly" "!SB0007">
+"We'll fight too."
 #
-<name "ロギウス" "!PA0043">
-「生徒に危険な真似はさせられません！」
+<name "Logius" "!PA0043">
+"I can't let our students do anything
+ dangerous!"
 #
-<name "アリィ" "!SB0008">
-「で、でも」
+<name "Aly" "!SB0008">
+"B-But..."
 #
-<name "ロギウス" "!PA0044">
-「こういった時は、教師に任せなさい」
+<name "Logius" "!PA0044">
+"Leave this to your teachers."
 #
-<name "ロギウス" "!PA0045">
-「それに、生徒は生徒で仕事があります。
-　防災です。
-　火事が起こった時、すぐに鎮火できるように準備
-　してください」
+<name "Logius" "!PA0045">
+"Besides, students have their own jobs to do.
+ Disaster prevention.
+ If something catches fire, be ready to 
+ immediately extinguish it."
 #
-<name "ロギウス" "!PA0046">
-「これはとても大事な役目なんですよ」
+<name "Logius" "!PA0046">
+"That's also a very important job."
 #
-<name "アリィ" "!SB0009">
-「うん、わかった」
+<name "Aly" "!SB0009">
+"Yeah, okay."
 #
-<name "フラン" "!HC0006">
-「頑張ります」
+<name "Flan" "!HC0006">
+"We can do it."
 #
-<name "ロギウス" "!PA0047">
-「では、後ろに下がっていなさい」
+<name "Logius" "!PA0047">
+"Okay, now stay back."
 #
-<name "フラン" "!HC0007">
-「はい。
-　行こう、アリィ」
+<name "Flan" "!HC0007">
+"Yes, ma'am.
+ Let's go, Aly."
 #
-<name "アリィ" "!SB0010">
-「うん」
+<name "Aly" "!SB0010">
+"Yep."
 #
-　……
+...
 #
-<name "ロギウス" "!PA0048">
-「まあ、火事など起こさせませんけどね」
+<name "Logius" "!PA0048">
+"Well, I won't let any fires happen."
 #
-<name "イザナ" "!AA0016">
-「過保護ですね」
+<name "Izana" "!AA0016">
+"You're overprotective."
 #
-<name "ロギウス" "!PA0049">
-「では、生徒達を危険な場所に？」
+<name "Logius" "!PA0049">
+"What? You put your students in danger?"
 #
-<name "イザナ" "!AA0017">
-「愚問ですね」
+<name "Izana" "!AA0017">
+"Don't be silly."
 #
-<name "ロギウス" "!PA0050">
-「でしょう。
-　ここは死守します」
+<name "Logius" "!PA0050">
+"Right?
+ I will protect this place with my life."
 #
-<name "イザナ" "!AA0018">
-「ええ」
+<name "Izana" "!AA0018">
+"Yes."
 #
-　……
+...
 #
-<name "ウルティニア" "!EA0019">
-「むう」
+<name "Ultinia" "!EA0019">
+"Mm..."
 #
-<name "報告する元天界兵" "!QB0046">
-「すみません。
-　防衛で手が一杯です」
+<name "Reporting Angel" "!QB0046">
+"I'm sorry.
+ We have our hands full holding on here."
 #
-<name "頑張る魔族" "!UA0005">
-「突破できません！」
+<name "Fighting Demon" "!UA0005">
+"Don't let them through!"
 #
-<name "ウルティニア" "!EA0020">
-「無理をしないで、守り難い場所は放棄。
-　戦力を集中して耐えます」
+<name "Ultinia" "!EA0020">
+"Don't take risks.
+ Abandon anywhere that's hard to defend.
+ Pull together and hold the line."
 #
-<name "守備する元天界兵" "!WB0031">
-「わかりました」
+<name "Defending Angel" "!WB0031">
+"Understood."
 #
-　……
+...
 #
-<name "ソフィア" "!ZB0540">
-「住民を街の中心に誘導。
-　治療できる者は、所定の場所に」
+<name "Sofia" "!ZB0540">
+"Guide people to the center of the city.
+ Bring those who need treatment to the
+ specified locations."
 #
-<name "駆け回るメイド" "!AC0085">
-「はい！」
+<name "Bustling Maid" "!AC0085">
+"Yes, ma'am!"
 #
-<name "報告するメイド" "!DC0089">
-「警備砦から連絡。
-　住民の収容数を越えた段階で閉門。
-　防衛に専念するそうです」
+<name "Reporting Maid" "!DC0089">
+"Report from the garrison.
+ The gates are closed and they can't take in 
+ any more people.
+ They're focusing on defense."
 #
-<name "ソフィア" "!ZB0541">
-「問題ありません」
+<name "Sofia" "!ZB0541">
+"No problem."
 #
-<name "報告するメイド" "!DC0090">
-「はっ！」
+<name "Reporting Maid" "!DC0090">
+"Ma'am!"
 #
-<name "指揮するメイド" "!PC0082">
-「ダークス宮の閉鎖、完了。
-　戦力を街に向かわせます」
+<name "Commanding Maid" "!PC0082">
+"The Temple of Darx's closure is complete.
+ The fighters are making their way to the
+ city."
 #
-<name "ソフィア" "!ZB0542">
-「よろしくお願いします」
+<name "Sofia" "!ZB0542">
+"Thank you very much."
 #
-<name "ソフィア" "!ZB0543">
-「ともかく、住民の安全確保を最優先です！」
+<name "Sofia" "!ZB0543">
+"For now, the safety of our citizens is our
+ top priority!"
 #
-　触手の攻撃を受けた街やフォーゼロッテ宮は一時
-　的に混乱を引き起こしたが、個々に役目を理解し、
-　なんとか対処した。
+The city and Forzelotte's Shrine are under
+attack by the tentacles, causing chaos, but
+everyone knows their jobs and is managing to
+deal with the situation.
 #
-　しかし、現状維持、もしくは遅らせるのが精一杯
-　の現状であった。
+However, all that's being achieved is delaying
+the inevitable.
 #
-<name "駆け回るメイド" "!AC0086">
-「魔王様。
-　ご帰還！
-　フォーゼロッテ様もご一緒です」
+<name "Bustling Maid" "!AC0086">
+"Overlord, you're back!
+ And Forzelotte's with you!"
 #
-<name "喜ぶ街の住民" "!ZE0011">
-「おおっ！」
+<name "Celebrating Citizen" "!ZE0011">
+"Yes!"
 #
-<name "ダークス">
-「状況説明が出来る者を！」
+<name "Darx">
+"Someone explain what's going on!"
 #
-<name "ソフィア" "!ZB0544">
-「はい。
-　そちらに」
+<name "Sofia" "!ZB0544">
+"Yes, sir. 
+ This way."
 #
-　だが、この混乱の隙に、一人の女性が逃走してい
-　た。
+But in the middle of the chaos, one woman is
+on the run.
 #
-<name "驚く商会メイド" "!DC0091">
-「スイセンが居ない？」
+<name "Surprised Maid" "!DC0091">
+"Suisen's gone?"
 #
-<name "慌てる商会メイド" "!PC0083">
-「さ、探すのです！」
+<name "Panicking Maid" "!PC0083">
+"F-Find her!"
 #
 <background "bg017a0.agf" 10>
 <music 3>
 <background "bg010a0.agf" 10>
-<name "ダークス">
-「つまり……
-　触手の攻撃を各地で受け、防衛中と」
+<name "Darx">
+"So... tentacles are attacking all over, and
+ we're currently holding them back."
 #
 <sprite "ta01a024.agf" 4 4 11>
-<name "ソフィア" "!ZB0545">
-「はい」
+<name "Sofia" "!ZB0545">
+"Yes."
 #
 <sprite "ta01a025.agf" 4 4 12>
-<name "ソフィア" "!ZB0546">
-「触手の形状から魔王様の分身体と思われるのです
-　が、サイズが違い過ぎますよね」
+<name "Sofia" "!ZB0546">
+"The form of the tentacles suggests that 
+ they're your body, but isn't the size 
+ completely wrong?"
 #
-<name "ダークス">
-「いや、俺の分身体だろう」
+<name "Darx">
+"No, that is my body."
 #
 <removesprite -1 11>
-　ワダツミとの戦いで暴れだし、フォーゼロッテを
-　浚おうとした俺の分身体。
+It went berserk during the fight with Wadatsumi
+and tried to pull in Forzelotte.
 #
-<name "ダークス">
-「何をされたか知らないが、敵の手によってコント
-　ロール……されてるようには見えないよな」
+<name "Darx">
+"I don't know what exactly they did, but the
+ enemy took control of it... though it looks
+ like they've lost control."
 #
 <sprite "ta01a025.agf" 4 4 11>
-<name "ソフィア" "!ZB0547">
-「はい。
-　暴れているだけかと」
+<name "Sofia" "!ZB0547">
+"Okay.
+ So it's just going crazy?"
 #
-<name "ダークス">
-「むう」
+<name "Darx">
+"Mmhmm."
 #
 <removesprite -1 11>
 <sprite "ta10a008.agf" 4 4 11>
-<name "フォーゼロッテ" "!XA0034">
-「悩むな。
-　退治すれば良かろう」
+<name "Forzelotte" "!XA0034">
+"Do not concern yourself with it.
+ Just destroy it."
 #
-<name "ダークス">
-「そうだな」
+<name "Darx">
+"Yeah."
 #
 <removesprite -1 11>
-　驚異的な再生力を持っていたが、あれを倒すのに
-　何か手を……ああ、考えても仕方が無い。
-　殴るだけだ。
+It has incredible regenerative powers, but 
+there's got to be a way to beat it...
+Ugh, no point thinking about it.
+We just need to cut it down.
 #
-<name "ダークス">
-「街、フォーゼロッテ宮の防衛は各員に任せた。
-　俺が分身体……いや、触手をぶっ倒してくる」
+<name "Darx">
+"The city and Forzelotte's Shrine are going to
+ have to protect themselves.
+ I'm going to kill my body...
+ No, my tentacles."
 #
 <sprite "ta01a004.agf" 4 4 11>
-<name "ソフィア" "!ZB0548">
-「はい」
+<name "Sofia" "!ZB0548">
+"Yes, sir."
 #
 <removesprite -1 11>
 <sprite "ta10a005.agf" 4 4 11>
-<name "フォーゼロッテ" "!XA0035">
-「うむ」
+<name "Forzelotte" "!XA0035">
+"Mm."
 #
 <removesprite -1 11>
-<name "ダークス">
-「扉の間は、守れているか？」
+<name "Darx">
+"Is the Hall of Doors safe?"
 #
 <sprite "ta01a016.agf" 4 4 11>
-<name "ソフィア" "!ZB0549">
-「問題ありませんが……
-　どこに向かわれるので？」
+<name "Sofia" "!ZB0549">
+"It's okay, but... where are you going?"
 #
-<name "ダークス">
-「光峰の壁」
+<name "Darx">
+"The Lucent Crown Wall."
 #
 <removesprite -1 11>
-　多分、あそこだろう。
+That's probably where it is.
 #
-　俺は直感していた。
+I just have a hunch.
+
 #
 \x78\x78

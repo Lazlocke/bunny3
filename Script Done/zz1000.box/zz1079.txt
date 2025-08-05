@@ -1,76 +1,81 @@
 ﻿<music 3>
 <background "bg010a0.agf" 10>
-<name "魔法使いミレ" "!HC0101">
-「あの、魔王様」
+<name "Mirei" "!HC0101">
+"Um, Overlord."
 #
-<name "ダークス">
-「ん？」
+<name "Darx">
+"Hm?"
 #
-<name "魔法使いミレ" "!HC0102">
-「わ、私の胸、どうでした？」
+<name "Mirei" "!HC0102">
+"H-How were my breasts?"
 #
-<name "ダークス">
-「胸と言うと……」
+<name "Darx">
+"Your breasts?"
 #
 <background "ev083b00.agf" 10>
-<name "ダークス">
-「ああ、まあまあだな」
+<name "Darx">
+"Oh, they were okay."
 #
-<name "魔法使いミレ" "!HC0103">
-「まあまあ……ですか？」
+<name "Mirei" "!HC0103">
+"Okay?"
 #
-　杖を構えるミレ。
+She lifts her staff.
 #
-<name "ダークス">
-「失礼。
-　良かったぞ」
+<name "Darx">
+"Excuse me.
+ They were good."
 #
-<name "魔法使いミレ" "!HC0104">
-「ですよねぇ」
+<name "Mirei" "!HC0104">
+"I know, right?"
 #
-<name "ダークス">
-「あははは」
+<name "Darx">
+"Hahahaha..."
 #
-<name "ダークス">
-「ああ、そうだ。
-　いまさらだが……あの時は悪かったな」
+<name "Darx">
+"Oh, that's right.
+ It's a little late, but sorry about what
+ happened back then."
 #
-<name "魔法使いミレ" "!HC0105">
-「ほ、本当にですよ」
+<name "Mirei" "!HC0105">
+"S-Seriously."
 #
-<name "魔法使いミレ" "!HC0106">
-「恥ずかしかったし、全裸だから助けも呼べないし。
-　効果が続いている間は、泣きそうでした」
+<name "Mirei" "!HC0106">
+"I was so embarrassed, and because I was 
+ totally naked, I couldn't call for help.
+ I was practically in tears the whole time
+ that was happening."
 #
-<name "ダークス">
-「すまん」
+<name "Darx">
+"Sorry."
 #
-<name "魔法使いミレ" "!HC0107">
-「そう言えばあの時、私に何を？」
+<name "Mirei" "!HC0107">
+"Speaking of which, what did you do to me
+ back then?"
 #
-<name "ダークス">
-「ああ、ダーンドッパーというアイテムがあってな」
+<name "Darx">
+"Oh, I used something called darn dopper."
 #
-<name "魔法使いミレ" "!HC0108">
-「魔法使いとして、ぜひ詳しく」
+<name "Mirei" "!HC0108">
+"As a wizard, I'd love to know more about it."
 #
-<name "ダークス">
-「残念ながら、商品化は見送られた……」
+<name "Darx">
+"Unfortunately, its production was delayed."
 #
-<name "魔法使いミレ" "!HC0109">
-「資料だけでも、取り寄せて貰えると」
+<name "Mirei" "!HC0109">
+"Even if you just have the data, I could make
+ it."
 #
-<name "ダークス">
-「再現できるか？」
+<name "Darx">
+"You can reproduce it?"
 #
-<name "魔法使いミレ" "!HC0110">
-「やってみせましょう」
+<name "Mirei" "!HC0110">
+"I'll show you how it's done."
 #
-<name "ダークス">
-「俺は良い部下を持った」
+<name "Darx">
+"You're a good minion."
 #
-　ダーンドッパー、それは男の夢。
+Darn dopper is a man's dream.
 #
-　しかし、その再現は酷く険しい道だった。
+But recreating it was a long and arduous road.
 #
 \x78\x78

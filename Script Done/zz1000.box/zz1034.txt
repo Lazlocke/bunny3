@@ -1,85 +1,88 @@
 ﻿<music 9>
 <background "ev073b00.agf" 10>
-<name "ファレン" "!FB0001">
-「最初に言っておくけど、誰かの下についたってワ
-　ケじゃないからね」
+<name "Farren" "!FB0001">
+"Just so we're all clear, nobody's taking
+ orders from anybody else."
 #
-<name "タマガ" "!PB0001">
-「うむ」
+<name "Tamaga" "!PB0001">
+"Mmhmm."
 #
-<name "アオ" "!WA0001">
-「わかってるさ。
-　全員平等に、物事の決定は相談で多数決」
+<name "Ao" "!WA0001">
+"We know that.
+ Everybody's equal.
+ We decide by majority rule."
 #
-<name "ファレン" "!FB0002">
-「ええ」
+<name "Farren" "!FB0002">
+"Yeah."
 #
-<name "アオ" "!WA0002">
-「で、最終確認だけど……」
+<name "Ao" "!WA0002">
+"So, final vote..."
 #
-<name "アオ" "!WA0003">
-「あそこに攻め込んでも良いよね」
+<name "Ao" "!WA0003">
+"Do we attack them?"
 #
-<name "タマガ" "!PB0002">
-「賛成する」
+<name "Tamaga" "!PB0002">
+"Approved."
 #
-<name "イシュ" "!AB0001">
-「賛成。
-　さっさと攻めようよ」
+<name "Ish" "!AB0001">
+"Aye.
+ Let's get them already."
 #
-<name "ラフィノー" "!EB0001">
-「賛成で問題ありません」
+<name "Raffino" "!EB0001">
+"No objections."
 #
-<name "ロッタ" "!HB0001">
-「賛成ー♪」
+<name "Lotta" "!HB0001">
+"Agreed!♪"
 #
-<name "ファレン" "!FB0003">
-「賛成」
+<name "Farren" "!FB0003">
+"Agreed."
 #
-<name "アオ" "!WA0004">
-「当然、僕も賛成。
-　こっちの領地を荒らされて、黙ってるワケにはい
-　かないからね」
+<name "Ao" "!WA0004">
+"Of course, I agree too.
+ We can't just sit back and let them raid our
+ land."
 #
-<name "アオ" "!WA0005">
-「賛成多数で、攻め込む事は決定」
+<name "Ao" "!WA0005">
+"The majority has agreed to attack."
 #
-<name "ラフィノー" "!EB0002">
-「部下からの報告です。
-　偵察は完了。
-　情報通り、結界は強固だけど穴があると。
-　準備していた進路で問題はありません」
+<name "Raffino" "!EB0002">
+"I have a report from my people.
+ Scouting's complete. Their defenses are
+ strong, but there are lots of holes.
+ The planned route looks good."
 #
-<name "アオ" "!WA0006">
-「進路も決定」
+<name "Ao" "!WA0006">
+"The route's set too then."
 #
-<name "タマガ" "!PB0003">
-「時々、飛んでいる連中は？」
+<name "Tamaga" "!PB0003">
+"Aren't there sometimes people flying?"
 #
-<name "ファレン" "!FB0004">
-「あれが警戒しているのは人間でしょ。
-　タイミングを見計らえば抜けるし、ぶつかっても
-　蹴散らすだけよ」
+<name "Farren" "!FB0004">
+"They're on the lookout for humans.
+ If we time it right, we can slip by, and even
+ if we run into them, just take them out."
 #
-<name "ロッタ" "!HB0002">
-「確かにねー♪」
+<name "Lotta" "!HB0002">
+"That's right!♪"
 #
-<name "アオ" "!WA0007">
-「そろそろ、そのタイミングです。
-　仕掛けますか」
+<name "Ao" "!WA0007">
+"Seems like it's about time.
+ Are we ready?"
 #
 <background "ev073a00.agf" 10>
-<name "イシュ" "!AB0002">
-「おうさ！」
+<name "Ish" "!AB0002">
+"Yeah!"
 #
-<name "イシュ" "!AB0003">
-「破壊して、燃やして、あははははははは」
+<name "Ish" "!AB0003">
+"Pillage!
+ Burn!
+ Ahahahahahaha!"
 #
-<name "タマガ" "!PB0004">
-「いくぞ」
+<name "Tamaga" "!PB0004">
+"Let's go."
 #
-<name "イシュ" "!AB0004">
-「一番乗りだー！」
+<name "Ish" "!AB0004">
+"Me first!"
 #
 <music 31>
 <background "ev072c00.agf" 10>
@@ -87,126 +90,129 @@
 <background "bg017a0.agf" 10>
 <music 15>
 <background "ev089a00.agf" 10>
-　俺が見た光景は、荒野となった畑だった。
+The farm here has returned to wilderness.
 #
-<name "マリーアリス" "!LA0016">
-「も、申し訳ありません魔王様。
-　なんとか撃退はしたのですが……」
+<name "Marialis" "!LA0016">
+"I-I'm so sorry, Overlord.
+ We managed to drive them off, but..."
 #
-<name "ダークス">
-「誰がやった？」
+<name "Darx">
+"Who did it?"
 #
-<name "マリーアリス" "!LA0017">
-「く、詳しくは……申し訳ありません」
+<name "Marialis" "!LA0017">
+"I-I'm... not exactly sure."
 #
-　元々、天界の住人のマリーアリスだ。
+She's from Celestia.
 #
-　犯人探しは無理か。
+Can she not find the culprits?
 #
-　となると……
+Or...
 #
-<name "負傷した魔族" "!ZE0001">
-「あ、あの、魔王様」
+<name "Injured Demon" "!ZE0001">
+"U-Um, Overlord."
 #
-<name "ダークス">
-「ん？」
+<name "Darx">
+"Hm?"
 #
-<name "負傷した魔族" "!ZE0002">
-「やったのは非統治エリアの連中です」
+<name "Injured Demon" "!ZE0002">
+"They were from the independent areas."
 #
-<name "ダークス">
-「知っているのか」
+<name "Darx">
+"You recognized them?"
 #
-<name "負傷した魔族" "!ZE0003">
-「はい、知った顔のヤツがいました。
-　間違いありません」
+<name "Injured Demon" "!ZE0003">
+"Yes, there was someone I recognized.
+ It was definitely them."
 #
-<name "ダークス">
-「そうか。
-　助かった。
-　ありがとう」
+<name "Darx">
+"I see.
+ Thank you.
+ That's a big help."
 #
-<name "負傷した魔族" "!ZE0004">
-「で、でも、その……」
+<name "Injured Demon" "!ZE0004">
+"B-But, um..."
 #
-<name "ダークス">
-「なんだ？」
+<name "Darx">
+"What?"
 #
-<name "負傷した魔族" "!ZE0005">
-「お、おかしいんです」
+<name "Injured Demon" "!ZE0005">
+"I-It's strange."
 #
-<name "ダークス">
-「？」
+<name "Darx">
+"Hm?"
 #
-<name "負傷した魔族" "!ZE0006">
-「非統治エリアには、いくつもの勢力があるんです
-　けど」
+<name "Injured Demon" "!ZE0006">
+"There's a bunch of different groups in the
+ independent area."
 #
-<name "負傷した魔族" "!ZE0007">
-「その勢力同士は常に争っているような状態なんで
-　す」
+<name "Injured Demon" "!ZE0007">
+"They're always all fighting with each other
+ over control."
 #
-<name "負傷した魔族" "!ZE0008">
-「なのに、ここを攻撃した連中は、いくつもの勢力
-　が混ざっていました」
+<name "Injured Demon" "!ZE0008">
+"But the people who attacked here was a mix of
+ different groups."
 #
-<name "ダークス">
-「連合した。
-　と言う事か」
+<name "Darx">
+"They're working together?
+ Is that what you're saying?"
 #
-<name "負傷した魔族" "!ZE0009">
-「かもしれませんが、連中の仲の悪さから……」
+<name "Injured Demon" "!ZE0009">
+"I'm not sure, but they've always hated each
+ other before..."
 #
-<name "マクドゥ" "!ZA0065">
-「考えられない事も無いかと」
+<name "Macdo" "!ZA0065">
+"It's not unthinkable."
 #
-　いつの間にか、マクドゥが居た。
+Macdo appears out of nowhere.
 #
-<name "マクドゥ" "!ZA0066">
-「ここにダークス様の新たな拠点が出来るとなれば、
-　それは彼らにとって大きな脅威」
+<name "Macdo" "!ZA0066">
+"You setting up a new base here would be a
+ significant threat to them."
 #
-<name "マクドゥ" "!ZA0067">
-「近隣の非統治エリアの者達が、群れても仕方が無
-　いかと」
+<name "Macdo" "!ZA0067">
+"I would think that the people in the nearby
+ uncontrolled areas would have no choice but
+ to band together."
 #
-<name "ダークス">
-「マクドゥ」
+<name "Darx">
+"Macdo."
 #
-<name "マクドゥ" "!ZA0068">
-「なにか？」
+<name "Macdo" "!ZA0068">
+"What?"
 #
-<name "ダークス">
-「これ、お前の誘導じゃないよな」
+<name "Darx">
+"You're not behind this, right?"
 #
-<name "マクドゥ" "!ZA0069">
-「そんな真似はしません」
+<name "Macdo" "!ZA0069">
+"I would never."
 #
-<name "ダークス">
-「そうか。
-　良かったよ」
+<name "Darx">
+"I see.
+ That's a relief."
 #
-<name "マクドゥ" "!ZA0070">
-「……」
+<name "Macdo" "!ZA0070">
+"..."
 #
-<name "ダークス">
-「ああ、心配するな。
-　なんとか条件をクリアするようにする」
+<name "Darx">
+"Oh, don't worry.
+ We'll still find a way to meet your
+ requirements."
 #
-<name "ダークス">
-「はははは」
+<name "Darx">
+"Hahahaha!"
 #
-<name "ダークス">
-「なーに、これしきの被害。
-　跳ね返してみせるさ」
+<name "Darx">
+"Come on. This is nothing!
+ We'll bounce right back!"
 #
-<name "ダークス">
-「そうだろ」
+<name "Darx">
+"Right?"
 #
-<name "負傷した魔族" "!ZE0010">
-「は、はい！」
+<name "Injured Demon" "!ZE0010">
+"Y-Yeah!"
 #
-<name "立ち上がる魔族" "!JA0001">
-「頑張ります！」
+<name "Recovering Demon" "!JA0001">
+"Let's work hard!"
 #
 \x78\x78

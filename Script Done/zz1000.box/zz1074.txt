@@ -1,281 +1,237 @@
 ﻿<music 3>
 <background "bg010a0.agf" 10>
 <sprite "ta34c001.agf" 4 4 11>
-<name "商会メイド" "!DC0244">
-「魔王様。
-　お手数ですが、捕虜のお相手をお願いできますか」
+<name "Darx">
+"I don't care if you hate demons and monsters.
+ I just want you to stop going over the line
+ after defeating them.
+ That's all I want."
 #
-<name "ダークス">
-「何があった？」
+<name "Fanatical Adventurer" "!GB0115">
+"Mmpgh!"
 #
-<name "商会メイド" "!DC0245">
-「はい。
-　捕虜は女僧侶なのですが、その……」
+<name "Darx">
+"Oh, just shake or nod your head to answer."
 #
-<name "ダークス">
-「？」
+Her mouth is gagged.
 #
-<name "商会メイド" "!DC0246">
-「あまりに狂信的で」
+Because nothing but abuse was coming out of
+it.
 #
-<name "ダークス">
-「狂信的？
-　どんな感じなんだ」
+<name "Fanatical Adventurer" "!GB0116">
+"Mphphghpgh!"
 #
-<name "商会メイド" "!DC0247">
-「えっと、とにかく、魔族、魔物を敵視しており、
-　殲滅しなければならないと思い込んでいます」
+She shakes her head angrily and shouts.
 #
-<name "ダークス">
-「天界の連中に対しては？」
+Underneath that blindfold, her eyes are
+undoubtedly burning with hatred.
 #
-<sprite "ta34c006.agf" 4 4 12>
-<name "商会メイド" "!DC0248">
-「それはもう、別人のような対応を」
+Pretty bold of her considering the situation.
 #
-<name "ダークス">
-「どこで区別しているんだ？」
+I put two fingers into her pussy and slide
+them in.
 #
-<name "商会メイド" "!DC0249">
-「容姿かと」
+<name "Fanatical Adventurer" "!GB0117">
+"Nnh!"
 #
-<name "商会メイド" "!DC0250">
-「特にベトやナメッドに対する行為は、想像を絶し
-　ます」
+And forcefully feel inside her.
 #
-<name "ダークス">
-「困ったものだな」
+<name "Darx">
+"I'm not saying not to kill them.
+ It's kill or be killed.
+ I won't want revenge for that."
 #
-<name "商会メイド" "!DC0251">
-「はい。
-　困っておりますので、魔王様に……」
+<name "Darx">
+"But what you're doing after killing them is
+ unacceptable."
 #
-<removesprite -1 11>
-<music 21>
-<background "ev082a00.agf" 10>
-<name "ダークス">
-「別に魔族や魔物を憎むのは構わないから、殺害後
-　の過剰な攻撃をやめてくれないか。
-　それだけで良いんだ」
+What she did was cruel and unusual.
 #
-<name "狂信的な冒険者" "!GB0115">
-「だへが」
+It's not just killing, it's desecrating the
+bodies.
 #
-<name "ダークス">
-「ああ、返事は首の動きで頼む」
+<name "Darx">
+"This is your last chance.
+ If you don't give me the answer I want, I
+ will just violate you."
 #
-　女の口は塞いである。
+I push my fingers in deeper and feel the
+obstruction of her hymen.
 #
-　罵倒しか出なかったからだ。
+<name "Fanatical Adventurer" "!GB0118">
+"Nnnnnh!"
 #
-<name "狂信的な冒険者" "!GB0116">
-「はひへはひっ！」
+<name "Darx">
+"Stop going too far."
 #
-　女は叫びながら強く首を横に振る。
+<name "Fanatical Adventurer" "!GB0119">
+"M-Mph!
+ Mmghmphghmpghmpgh!"
 #
-　多分、アイマスクの下は憎しみに燃え上がってい
-　るのだろう。
+<name "Fanatical Adventurer" "!GB0120">
+"Mmghpgh!
+ Mmghmmnghnghmgh!"
 #
-　こんな格好をさせられているのに、なかなか強気
-　な事だ。
+<name "Darx">
+"...I see."
 #
-　俺は女の陰部に指を二本あて、潜り込ませた。
+<name "Darx">
+"Oh, you can stop talking now.
+ It's getting messy.
+ You're covered in drool."
 #
-<name "狂信的な冒険者" "!GB0117">
-「うひっ」
+<name "Darx">
+"Well, I guess there's no worrying about that
+ now."
 #
-　そして、膣内の感触を強引に確かめる。
+I scoop up her saliva with my fingers and rub
+it on her face.
 #
-<name "ダークス">
-「殺すなと言ってるワケじゃない。
-　やったり、やられたりだ。
-　そんな事で恨みは持たない」
+<name "Darx">
+"Hahahahahahaha!"
 #
-<name "ダークス">
-「だが、殺した後の君の行為は酷い」
+I undress and bring out my dick.
 #
-　女の行為は、俺が見ても常軌を逸していた。
+That seems to scare her for a moment, but
+that's it.
 #
-　まさに、殺した後まで殺す所業だった。
+I don't hold back.
 #
-<name "ダークス">
-「これが最後だ。
-　返事が悪ければ、このまま犯す」
+I press the tip of it against her.
 #
-　二本の指をさらに潜り込ませ、障害……処女膜の
-　存在を確認する。
+<name "Fanatical Adventurer" "!GB0121">
+"Ahh!"
 #
-<name "狂信的な冒険者" "!GB0118">
-「うううっ」
+And slowly push in.
 #
-<name "ダークス">
-「過剰な攻撃を止めろ」
+Not to be gentle.
 #
-<name "狂信的な冒険者" "!GB0119">
-「は、はへは！
-　はふはひひゃひゃひゃ」
+She can't move or see.
+It's to inflict fear and pain.
 #
-<name "狂信的な冒険者" "!GB0120">
-「はひは、ひっははい！
-　ははひ、はひひがはひひはは」
+The tip of my dick hits the hymen I felt 
+before.
 #
-<name "ダークス">
-「……わかった」
+It's very elastic.
 #
-<name "ダークス">
-「ああ、みっともないからもう喋らなくて良いぞ。
-　涎まみれじゃないか」
+It'd be hard to break with a slow insertion.
 #
-<name "ダークス">
-「まあ、そう気にする事も無いか」
+But I press against it while grinding into
+her.
 #
-　俺は女の涎を指ですくい、女の顔にこすりつけた。
+<name "Fanatical Adventurer" "!GB0122">
+"Aah! Ah! Ah!"
 #
-<name "ダークス">
-「ふははははははははは」
+She stiffens rigidly.
 #
-　俺は服を脱ぎ、自分の股間のモノを放り出す。
+Resisting as hard as she can.
 #
-　その気配に、女は一瞬だけ怯えたようだが、それ
-　だけだった。
-#
-　遠慮はしない。
-#
-　モノ先を、女の陰部に押し当てる。
-#
-<name "狂信的な冒険者" "!GB0121">
-「ふぁっ」
-#
-　そして、ゆっくりと捻じ込んでいく。
-#
-　優しくする為じゃない。
-#
-　身動きが取れず、視界を塞がれた彼女に、恐怖と
-　苦痛を与える為だ。
-#
-　モノ先が、先ほど二本の指で確かめた処女膜にぶ
-　ち当たる。
-#
-　なかなかの弾力。
-#
-　ゆっくりな挿入では、なかなか破れない。
-#
-　しかし、俺は自分の身体を揺すりながら、その膜
-　を圧迫していく。
-#
-<name "狂信的な冒険者" "!GB0122">
-「ふあっ、あっ、あっ！」
-#
-　女の身体に力が入る。
-#
-　良い抵抗感だ。
-#
-　俺の腰の動きは強くなる。
+I move my hips harder.
 #
 <background "ev082a01.agf" 10>
-<name "狂信的な冒険者" "!GB0123">
-「はあああああっ！」
+<name "Fanatical Adventurer" "!GB0123">
+"Aaaaaahhhh!"
 #
-　そして、突破。
+And break through.
 #
-　周囲の身ごと膜を引き剥がし、最深部に俺のモノ
-　が到達する。
+Her hymen is ripped through and my dick 
+arrives at the deepest point inside her.
 #
-<name "狂信的な冒険者" "!GB0124">
-「あっ、ああっ、うあっ……」
+<name "Fanatical Adventurer" "!GB0124">
+"Ah...aah...aah..."
 #
-　女は苦痛に悶え、痙攣を起こしていた。
+She writhes and spasms in pain.
 #
-　だが、俺の行為は止まらない。
+But I don't stop.
 #
-　最深部にまで到達した後は、帰還だ。
+Once I reach the deepest part, I pull back.
 #
-　俺はモノを一気に引き摺りだす。
+I drag it out of her quickly.
 #
-　声にならない悲鳴。
+She screams voicelessly.
 #
-　それを嘲笑うかのように、俺はまた挿入する。
+Like I'm mocking her, I stick it back in.
 #
-　今度はすばやく、強引に、捻り込む。
+Quickly and forcefully twisted into her.
 #
-<name "狂信的な冒険者" "!GB0125">
-「ひっ、あひっ」
+<name "Fanatical Adventurer" "!GB0125">
+"Ah! Aah!"
 #
-　息はつかせない。
+She can't catch her breath.
 #
-　俺は腰を激しく動かし、女の膣内でモノを暴れさ
-　せる。
+I thrust violently and ransack her insides.
 #
-　犯している。
+Violating her.
 #
-　どう表現しても、そうとられる行為。
+No matter how you say it, that's what I'm
+doing.
 #
-　妻や愛する者達には決してしない、目の前の女を
-　屈服させようとする雄の本能のような性行為。
+I would never do this to my wife, or to one I
+love. Just a sexual act to force the woman
+before me to surrender.
 #
-　唾棄すべき行為である事は理解している。
+I know that it's a disgusting thing.
 #
-　しているが、止まらない。
+But I don't stop.
 #
-　俺は、この女を犯す。
+I violate this woman.
 #
-　ただそれだけの為に腰を振り、その膣内を蹂躙し
-　た。
+I shape my hips just for that, and abuse her.
 #
-　そして、その欲望の塊である精液を、女の膣内と
-　子宮に流し込んでいく。
+And pour my semen, the symbol of my lust,
+into her pussy and womb.
 #
 <background "ev082a02.agf" 10>
-<name "狂信的な冒険者" "!GB0126">
-「ぅあ、あ、うあ……」
+<name "Fanatical Adventurer" "!GB0126">
+"Aah...ah...aah..."
 #
-<name "ダークス">
-「わかったか？
-　今、一回目の射精が終わった」
+<name "Darx">
+"Do you understand?
+ I finished coming for the first time."
 #
-<name "狂信的な冒険者" "!GB0127">
-「ふは……ぁ……」
+<name "Fanatical Adventurer" "!GB0127">
+"Aah...ah..."
 #
-<name "ダークス">
-「ああ、お前の根性は理解している。
-　信仰も尊重しよう」
+<name "Darx">
+"Yeah, I can tell you're spirited.
+ I respect your devotion."
 #
-<name "ダークス">
-「もう過剰な攻撃を止めろとも言わない」
+<name "Darx">
+"I won't tell you to hold back anymore."
 #
-<name "ダークス">
-「だから、遠慮もしない」
+<name "Darx">
+"So I won't either."
 #
-<name "ダークス">
-「これから、たっぷりとこちらの怒りを受け取って
-　くれ」
+<name "Darx">
+"This is how you will bear the grudges that
+ you have inflicted."
 #
-<name "狂信的な冒険者" "!GB0128">
-「うぁ……ぁ……」
+<name "Fanatical Adventurer" "!GB0128">
+"Aah...ah..."
 #
 <background "ev082a03.agf" 10>
-　俺は数日間、この女を抱き続けた。
+I fucked her for several days.
 #
-　女の肉体は、数時間毎に魔法で回復させる。
+Her body was healed magically every few hours.
 #
-　疲労や苦痛で死ぬ事も無いし、死なせない。
+I won't let her die from fatigue or pain.
 #
-　存分に、信仰を守って貰いたい。
+I want her keep clinging to her faith.
 #
 <music 11>
 <background "bg008a0.agf" 10>
-<name "商会メイド" "!DC0252">
-「ご苦労様でした」
+<name "Company Maid" "!DC0252">
+"Thank you for your hard work."
 #
-<name "ダークス">
-「適当なタイミングで、解放してやれ」
+<name "Darx">
+"Find a good time and let her go."
 #
-<name "ダークス">
-「あれだけやったんだ。
-　文句を言うヤツも居ないだろう」
+<name "Darx">
+"I did what needed to be done.
+ Nobody can say that she got off too easy."
 #
-<name "商会メイド" "!DC0253">
-「ですね。
-　承知しました」
+<name "Company Maid" "!DC0253">
+"Indeed.
+ Understood."
 #
 \x78\x78

@@ -1,31 +1,30 @@
 ﻿<music 24>
 <background "bg023a0.agf" 10>
-<name "ダークス">
-「うおおおおおおおおおおおっ！」
+<name "Darx">
+"Aaaaaaaaaaaaggggghhhhhh!"
 #
-　……
+...
 #
-<name "商会メイド" "!AC0102" "ka34a000.agf">
-「魔王様。
-　どうして転がっているの？」
+<name "Company Maid" "!AC0102" "ka34a000.agf">
+"Why is the Overlord rolling around?"
 #
-<name "事情を知るメイド" "!DC0122" "ka34c000.agf">
-「えっと……」
+<name "Knowing Maid" "!DC0122" "ka34c000.agf">
+"Um..."
 #
-<name "事情を知るメイド" "!DC0123" "ka34c000.agf">
-「あの方……長時間、触れないんです」
+<name "Knowing Maid" "!DC0123" "ka34c000.agf">
+"He... can't touch for very long."
 #
-<name "黒い婦人" "!HC0036" "ka37a000.agf">
-「三秒ぐらいが限界です」
+<name "Black Lady" "!HC0036" "ka37a000.agf">
+"Three seconds is the most for anybody."
 #
-<name "商会メイド" "!AC0103" "ka34a000.agf">
-「あー、なるほど」
+<name "Company Maid" "!AC0103" "ka34a000.agf">
+"Aaah, I see."
 #
-<name "黒い婦人" "!HC0037" "ka37a000.agf">
-「な、なんだか、すみません」
+<name "Black Lady" "!HC0037" "ka37a000.agf">
+"I-I think... I'm sorry?"
 #
-<name "商会メイド" "!AC0104" "ka34a000.agf">
-「いいから、いいから。
-　住民登録はこっちでよろしくお願いします」
+<name "Company Maid" "!AC0104" "ka34a000.agf">
+"It's fine. It's fine.
+ Please register as a citizen over here."
 #
 \x78\x78
