@@ -516,15 +516,15 @@ Performs well as Deputy Mayor or|Dungeon Keeper.
 //entry 103 -----------------------
 Loving Cheer
 Loving Cheer
-攻撃強化／主
+Loving Cheer
 Greatly increase Darx's Attack.
 //entry 104 -----------------------
 Loving Bolster
 Loving Bolster
-Iron／主
+Loving Bolster
 Greatly increase Darx's Defense.
 //entry 105 -----------------------
 Loving Haste
 Loving Haste
-速度強化／主
+Loving Haste
 Greatly increase Darx's Speed.

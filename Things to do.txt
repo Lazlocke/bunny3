@@ -1,6 +1,9 @@
 Check Page 101 Health Captain
 
 
+
+
+
 ======SOMEBODY TEST THIS=====
 I think these stat buff passive may be a mess
 Oookay. I think it's coming back to me.
@@ -22,3 +25,8 @@ The "Darx Love" passives are really weird. I have no idea if they're working, an
 AOE HEALING NEEDS TO BE FIXED
 ALL TARGETING MAY BE BUGGED
 !!!!!!!!!!!!!!
+
+
+TEST GUEST CHARACTER UNLOCKS (BB1/BB2/NG+)
+
+Table with unlocks and invisible character passives

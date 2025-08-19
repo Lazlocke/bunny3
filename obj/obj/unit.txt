@@ -1048,7 +1048,7 @@ Holy Slasher
 攻撃タイプ
 基本
 行動回数+1
-凶暴者
+Ferocious
 Wary
 Inept
 固定／真っ二つ
@@ -1568,7 +1568,7 @@ Seraphim of Seed
 奇才タイプ
 基本
 必殺耐性+50|異常耐性+50|土耐性+35
-凶暴者
+Ferocious
 Loving Haste
 Imposing
 固定／樹神の腕
@@ -1802,7 +1802,7 @@ Holy Flame
 体力タイプ
 基本
 必殺耐性+100|異常耐性+100|打耐性+30
-凶暴者
+Ferocious
 Loving Haste
 Aide
 剣撃
@@ -2712,7 +2712,7 @@ Slasher
 攻撃タイプ
 基本
 *
-凶暴者
+Ferocious
 Wary
 General
 固定／斬り
@@ -2738,7 +2738,7 @@ Slasher
 攻撃タイプ
 基本
 *
-凶暴者
+Ferocious
 Wary
 General
 固定／斬り
@@ -2764,7 +2764,7 @@ Slasher
 攻撃タイプ
 基本
 *
-凶暴者
+Ferocious
 Wary
 General
 固定／斬り
@@ -7418,7 +7418,7 @@ Holy Slasher
 攻撃タイプ
 基本
 行動回数+1
-凶暴者
+Ferocious
 Wary
 Inept
 固定／真っ二つ
@@ -7444,7 +7444,7 @@ Holy Slasher
 攻撃タイプ
 基本
 行動回数+1
-凶暴者
+Ferocious
 Wary
 Inept
 固定／真っ二つ
@@ -7470,7 +7470,7 @@ Holy Slasher
 攻撃タイプ
 基本
 行動回数+1
-凶暴者
+Ferocious
 Wary
 Inept
 固定／真っ二つ
@@ -10096,7 +10096,7 @@ Seraphim of Seed
 無成長タイプ
 基本
 必殺耐性+100|異常耐性+100|土耐性+70
-凶暴者
+Ferocious
 Inspiring
 Imposing
 固定／樹神の腕
@@ -10616,7 +10616,7 @@ Tentacle
 防御タイプ
 基本
 必殺耐性+100|異常耐性+100|光耐性+40
-凶暴者
+Ferocious
 Guardian
 Subcommander
 固定／突き刺し
