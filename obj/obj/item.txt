@@ -931,7 +931,7 @@ Buckler
 盾
 *
 *
-射耐性+25|回避+4
+射耐性+25|Evade+4
 *
 *
 *
@@ -1443,7 +1443,7 @@ Fancy Shoes
 靴
 *
 *
-速度+1
+Speed+1
 *
 *
 *
@@ -1459,7 +1459,7 @@ Stylish Shoes
 靴
 *
 *
-速度+2
+Speed+2
 *
 *
 *
@@ -1475,7 +1475,7 @@ Popular Shoes
 靴
 *
 *
-速度+3
+Speed+3
 *
 *
 *
@@ -1491,7 +1491,7 @@ Alluring Shoes
 靴
 *
 *
-速度+4
+Speed+4
 *
 *
 *
@@ -1507,7 +1507,7 @@ Rumored Shoes
 靴
 *
 *
-速度+5
+Speed+5
 *
 *
 *
@@ -1523,7 +1523,7 @@ Famous Shoes
 靴
 *
 *
-速度+6
+Speed+6
 *
 *
 *
@@ -1539,7 +1539,7 @@ Flashy Shoes
 靴
 *
 *
-速度+7
+Speed+7
 *
 *
 *
@@ -1555,7 +1555,7 @@ Magic Shoes
 靴
 *
 *
-速度+8
+Speed+8
 *
 *
 *
@@ -1571,7 +1571,7 @@ Ambush Shoes
 靴
 *
 *
-速度+9
+Speed+9
 *
 *
 *
@@ -1587,7 +1587,7 @@ Assassin Shoes
 靴
 *
 *
-速度+10
+Speed+10
 *
 *
 *
@@ -1603,7 +1603,7 @@ Lucky Shoes
 靴
 *
 *
-速度+11
+Speed+11
 *
 *
 *
@@ -1619,7 +1619,7 @@ Fancy Boots
 ブーツ
 *
 *
-回避+2
+Evade+2
 *
 *
 *
@@ -1635,7 +1635,7 @@ Stylish Boots
 ブーツ
 *
 *
-回避+3
+Evade+3
 *
 *
 *
@@ -1651,7 +1651,7 @@ Cool Boots
 ブーツ
 *
 *
-回避+4
+Evade+4
 *
 *
 *
@@ -1667,7 +1667,7 @@ Popular Boots
 ブーツ
 *
 *
-回避+5
+Evade+5
 *
 *
 *
@@ -1683,7 +1683,7 @@ Questing Boots
 ブーツ
 *
 *
-回避+6
+Evade+6
 *
 *
 *
@@ -1699,7 +1699,7 @@ Hero's Boots
 ブーツ
 *
 *
-回避+7
+Evade+7
 *
 *
 *
@@ -1715,7 +1715,7 @@ Legendary Boots
 ブーツ
 *
 *
-回避+8
+Evade+8
 *
 *
 *
@@ -1731,7 +1731,7 @@ Lucky Boots
 ブーツ
 *
 *
-回避+9
+Evade+9
 *
 *
 *
@@ -1747,7 +1747,7 @@ Attack Banner
 旗
 *
 *
-攻撃%味+1|速度%味+1
+攻撃%味+1|Speed%味+1
 *
 *
 *
@@ -1763,7 +1763,7 @@ Charging Banner
 旗
 *
 *
-攻撃%味+2|速度%味+1
+攻撃%味+2|Speed%味+1
 *
 *
 *
@@ -1779,7 +1779,7 @@ Marching Banner
 旗
 *
 *
-攻撃%味+2|速度%味+2
+攻撃%味+2|Speed%味+2
 *
 *
 *
@@ -1795,7 +1795,7 @@ Invasion Banner
 旗
 *
 *
-攻撃%味+2|速度%味+3
+攻撃%味+2|Speed%味+3
 *
 *
 *
