@@ -1,5 +1,4 @@
-images missing from patch:
-ite_j00 and others placed in update folder
+
 
 skill up names are inconsistent with status screen names (magic vs magic attack, magic defense vs resistance)
 
