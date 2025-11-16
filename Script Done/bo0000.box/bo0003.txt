@@ -1531,8 +1531,8 @@ bed.
 #
 <sprite "ta15a006.agf" 4 4 11>
 <name "Marialis" "!LA0019">
-"From now on, almost all of us will be 
- deployed to combat the humans."
+"From now on, our main focus will no longer
+ be the humans, but the forces hostile to us."
 #
 <name "Serious Bodyguard" "!QB0026" "ka35b000.agf">
 "Ma'am!"
