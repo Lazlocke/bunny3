@@ -1,0 +1,12 @@
+images missing from patch:
+ite_j00 and others placed in update folder
+
+skill up names are inconsistent with status screen names (magic vs magic attack, magic defense vs resistance)
+
+the no map trap debuff is not translated: http://puu.sh/KDX53/4c1ce37ac1.jpg
+
+exe dialogue not translated: http://puu.sh/KDXMh/edf9d58fa3.jpg
+
+some text in the resource exchange dialogues not translated: http://puu.sh/KDXO3/dcdb3be0a1.jpg
+
+some untranslated text in the unit recovery dialogue: http://puu.sh/KDXOB/993747de54.jpg
