@@ -1260,7 +1260,7 @@ I enjoyed her for another half day.
 After coming in her six more times, Frei
 joined me.
 #
-\xBC 0  "味方戦士"  -1 \x00\x00\x8A 1  0  0  0  "戦士フレーが仲間になった。" 
+\xBC 0  "味方戦士"  -1 \x00\x00\x8A 1  0  0  0  "Frei has joined." 
 <music 11>
 <background "bg008a0.agf" 10>
 <sprite "ta34c001.agf" 4 4 11>
@@ -1620,7 +1620,7 @@ refusing to be released.
 #
 There's nothing in her eyes now but desire.
 #
-\xBC 0  "味方僧侶"  -1 \x00\x00\x8A 1  0  0  0  "女僧侶エイリスが仲間になった。" \x0A\x44\x02\x3F\x84\x01
+\xBC 0  "味方僧侶"  -1 \x00\x00\x8A 1  0  0  0  "Aerys has joined." \x0A\x44\x02\x3F\x84\x01
 <exit>
 :7D8A
 <music 21>
@@ -1888,7 +1888,7 @@ way.
 "...Well, whatever."
 #
 <removesprite -1 11>
-\x2B\xBC 0  "味方魔法使い"  -1 \x00\x00\x8A 1  0  0  0  "魔法使いミレが仲間になった。" \x0A\x44\x02\x42\x84\x01
+\x2B\xBC 0  "味方魔法使い"  -1 \x00\x00\x8A 1  0  0  0  "Mirei has joined." \x0A\x44\x02\x42\x84\x01
 <exit>
 :9103
 <music 3>
@@ -2424,7 +2424,7 @@ I'm just overjoyed that I won.
 "..."
 #
 <removesprite -1 11>
-\x2B\xBC 0  "味方侍"  -1 \x00\x00\x8A 1  0  0  0  "侍ツララが仲間になった。" \x0A\x44\x02\x46\x84\x01
+\x2B\xBC 0  "味方侍"  -1 \x00\x00\x8A 1  0  0  0  "Tsulara has joined." \x0A\x44\x02\x46\x84\x01
 <exit>
 :B595
 <music 3>

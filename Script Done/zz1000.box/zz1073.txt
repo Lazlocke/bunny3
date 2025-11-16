@@ -37,7 +37,7 @@
 After coming in her six more times, Frei
 joined me.
 #
-\xBC 0  "味方戦士"  -1 \x00\x00\x8A 1  0  0  0  "戦士フレーが仲間になった。" 
+\xBC 0  "味方戦士"  -1 \x00\x00\x8A 1  0  0  0  "Frei has joined." 
 <music 11>
 <background "bg008a0.agf" 10>
 <sprite "ta34c001.agf" 4 4 11>

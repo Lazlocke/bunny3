@@ -10,3 +10,6 @@ exe dialogue not translated: http://puu.sh/KDXMh/edf9d58fa3.jpg
 some text in the resource exchange dialogues not translated: http://puu.sh/KDXO3/dcdb3be0a1.jpg
 
 some untranslated text in the unit recovery dialogue: http://puu.sh/KDXOB/993747de54.jpg
+
+Doctor's Report string (for units recovering from injury)
+--TECHNICAL EXE ISSUE--
