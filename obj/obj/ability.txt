@@ -514,17 +514,17 @@ Aide
 Aide
 Performs well as Deputy Mayor or|Dungeon Keeper.
 //entry 103 -----------------------
-Loving Cheer
-Loving Cheer
-Loving Cheer
+Fierce Love
+Fierce Love
+Aggressive Love
 Greatly increase Darx's Attack.
 //entry 104 -----------------------
-Loving Bolster
-Loving Bolster
-Loving Bolster
+Protective Love
+Protective Love
+Iron Love
 Greatly increase Darx's Defense.
 //entry 105 -----------------------
-Loving Haste
-Loving Haste
-Loving Haste
+Hasty Love
+Hasty Love
+Swift Love
 Greatly increase Darx's Speed.

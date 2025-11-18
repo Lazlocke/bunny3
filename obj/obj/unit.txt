@@ -763,7 +763,7 @@ Steppe
 基本
 必殺耐性+5
 Evasive Ally
-Loving Cheer
+Fierce Love
 Festive
 固定／剣の舞
 固定／刃の舞
@@ -789,7 +789,7 @@ Songstress
 基本
 必殺耐性+5
 Vigilant
-Loving Bolster
+Protective Love
 Merchant
 固定／混乱の歌
 固定／癒しの歌
@@ -1413,7 +1413,7 @@ Imp
 基本
 必殺耐性+20|異常耐性+20|闇耐性+50
 Sickening
-Loving Haste
+Hasty Love
 Independent
 固定／悪魔の槍
 固定／悪魔王の槍
@@ -1439,7 +1439,7 @@ Rousette
 基本
 必殺耐性+20|異常耐性+20|風耐性+50
 Aggressive Wall
-Loving Bolster
+Protective Love
 Subcommander
 固定／逆斬り
 固定／逆乱れ斬り
@@ -1465,7 +1465,7 @@ Khione
 基本
 必殺耐性+20|異常耐性+20|水耐性+50
 Iron Ally
-Loving Haste
+Hasty Love
 Accountant
 固定／二連ツララ
 固定／三連ツララ
@@ -1491,7 +1491,7 @@ Angolamay
 基本
 必殺耐性+20|異常耐性+20|土耐性+50
 Evasive Ally
-Loving Cheer
+Fierce Love
 Governor
 固定／山羊の拳
 固定／山羊の強打
@@ -1517,7 +1517,7 @@ Seraphim of Light
 基本
 必殺耐性+50|異常耐性+50|光耐性+40
 Resistant
-Loving Cheer
+Fierce Love
 Politician
 固定／光神の光
 固定／貫く光
@@ -1543,7 +1543,7 @@ Holy Light
 基本
 必殺耐性+50|異常耐性+50|光耐性+15|雷耐性+25
 Diligent
-Loving Bolster
+Protective Love
 Genius
 固定／光神の光
 固定／天雷棒
@@ -1569,7 +1569,7 @@ Seraphim of Seed
 基本
 必殺耐性+50|異常耐性+50|土耐性+35
 Ferocious
-Loving Haste
+Hasty Love
 Imposing
 固定／樹神の腕
 固定／樹神の知恵
@@ -1673,7 +1673,7 @@ Warrior
 基本
 必殺耐性+20|異常耐性+20|斬耐性+50
 Iron Wall
-Loving Bolster
+Protective Love
 General
 剣撃
 乱舞斬
@@ -1751,7 +1751,7 @@ Samurai
 基本
 必殺耐性+30|異常耐性+20|行動回数+1
 Aggressive Wall
-Loving Cheer
+Fierce Love
 Independent
 剣撃
 秘剣・鶯
@@ -1777,7 +1777,7 @@ Holy Light
 基本
 必殺耐性+100|異常耐性+100|斬耐性+30
 Anticipation
-Loving Bolster
+Protective Love
 Commander
 剣撃
 光槍
@@ -1803,7 +1803,7 @@ Holy Flame
 基本
 必殺耐性+100|異常耐性+100|打耐性+30
 Ferocious
-Loving Haste
+Hasty Love
 Aide
 剣撃
 乱舞斬
@@ -1829,7 +1829,7 @@ Dungeon Master
 基本
 必殺耐性+100|異常耐性+100|闇耐性+100
 Intimidating
-Loving Cheer
+Fierce Love
 Imposing
 漆黒
 漆黒砲
