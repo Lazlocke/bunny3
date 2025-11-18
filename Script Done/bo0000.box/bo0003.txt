@@ -2940,7 +2940,7 @@ She'll understand someday.
 #
 <sprite "ta15a004.agf" 4 4 12>
 <name "Marialis" "!LA0031">
-"The Holy Speed is a vassal of another kingdom
+"The Holy Seed is a vassal of another kingdom
  called the Holy Spirit."
 #
 <name "Darx">
@@ -2981,7 +2981,7 @@ She'll understand someday.
 #
 <sprite "ta15a017.agf" 4 4 12>
 <name "Marialis" "!LA0036">
-"I-I'm sure it's fun, but, um...
+"I-I'm sure it's fine, but, um...
  You shouldn't lay a hand on her."
 #
 <name "Darx">
