@@ -1,4 +1,4 @@
-Darx specific passives don't work, e.g. Ish's Loving Haste gives no speed bonus: http://puu.sh/KE3Oy/eb795c188f.png http://puu.sh/KE3OM/443e0fdb78.jpg
+
 
 skill up names are inconsistent with status screen names (magic vs magic attack, magic defense vs resistance)
 
