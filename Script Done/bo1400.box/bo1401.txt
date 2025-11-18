@@ -426,7 +426,7 @@
 #
 <sprite "ta22a009.agf" 4 4 12>
 <name "Nein" "!QA0022">
-"Alos, as soon as it gets out that I'm working
+"Also, as soon as it gets out that I'm working
  for you, my people will be driven out of the
  alliance."
 #
