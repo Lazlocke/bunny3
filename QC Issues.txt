@@ -1,4 +1,4 @@
-Darx specific passives don't work, e.g. Ish's Loving Haste gives no speed bonus: http://puu.sh/KE3Oy/eb795c188f.png http://puu.sh/KE3OM/443e0fdb78.jpg
+the Governer civic passive is either translated wrong, or the description of it is wrong originally, the actual effect of it appears to be bonus in ANY government position, not just mayor and deputy mayor
 
 skill up names are inconsistent with status screen names (magic vs magic attack, magic defense vs resistance)
 
