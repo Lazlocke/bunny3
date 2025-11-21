@@ -842,7 +842,7 @@ Bookmark
 斬耐性+50
 Sturdy Wall
 Trap Sense
-Governor
+Foreman
 固定／紙斬り
 *
 *
@@ -946,7 +946,7 @@ Gooette
 光耐性+50
 Iron Support
 Trap Sense
-Governor
+Foreman
 固定／ベトアタック
 *
 *
@@ -998,7 +998,7 @@ Circumgoo
 斬耐性+50
 Tenacious
 Hawkeye
-Governor
+Foreman
 固定／粘液
 *
 *
@@ -1492,7 +1492,7 @@ Angolamay
 必殺耐性+20|異常耐性+20|土耐性+50
 Evasive Ally
 Fierce Love
-Governor
+Foreman
 固定／山羊の拳
 固定／山羊の強打
 固定／山羊の豪打
@@ -4456,7 +4456,7 @@ Flying Karg
 *
 Covering Escort
 Reservist
-Governor
+Foreman
 固定／ウォーターショット
 氷水砲
 氷水幕
@@ -4482,7 +4482,7 @@ Flying Karg
 *
 Covering Escort
 Reservist
-Governor
+Foreman
 固定／ウォーターショット
 氷水砲
 氷水幕
@@ -4508,7 +4508,7 @@ Flying Karg
 *
 Covering Escort
 Reservist
-Governor
+Foreman
 固定／ウォーターショット
 氷水砲
 氷水幕
@@ -6016,7 +6016,7 @@ Bookmark
 斬耐性+50
 Sturdy Wall
 Trap Sense
-Governor
+Foreman
 固定／紙斬り
 無心
 無心三連
@@ -6042,7 +6042,7 @@ Bookmark
 斬耐性+50
 Sturdy Wall
 Trap Sense
-Governor
+Foreman
 固定／紙斬り
 無心
 無心三連
@@ -6068,7 +6068,7 @@ Bookmark
 斬耐性+50
 Sturdy Wall
 Trap Sense
-Governor
+Foreman
 固定／紙斬り
 無心
 無心三連
@@ -6406,7 +6406,7 @@ Gooette
 光耐性+50
 Iron Support
 Trap Sense
-Governor
+Foreman
 固定／ベトアタック
 乱射
 狙い撃ち
@@ -6432,7 +6432,7 @@ Gooette
 光耐性+50
 Iron Support
 Trap Sense
-Governor
+Foreman
 固定／ベトアタック
 乱射
 狙い撃ち
@@ -6458,7 +6458,7 @@ Gooette
 光耐性+50
 Iron Support
 Trap Sense
-Governor
+Foreman
 固定／ベトアタック
 乱射
 狙い撃ち
@@ -6562,7 +6562,7 @@ Circumgoo
 斬耐性+50
 Tenacious
 Hawkeye
-Governor
+Foreman
 固定／粘液
 払い
 フラッシュブロー
@@ -6588,7 +6588,7 @@ Circumgoo
 斬耐性+50
 Tenacious
 Hawkeye
-Governor
+Foreman
 固定／粘液
 払い
 フラッシュブロー
@@ -6614,7 +6614,7 @@ Circumgoo
 斬耐性+50
 Tenacious
 Hawkeye
-Governor
+Foreman
 固定／粘液
 払い
 フラッシュブロー
@@ -8902,7 +8902,7 @@ Angolamay
 必殺耐性+10|異常耐性+10|土耐性+30
 Evasive Ally
 Diligent
-Governor
+Foreman
 固定／殴る
 固定／山羊の強打
 リフ
@@ -8928,7 +8928,7 @@ Angolamay
 必殺耐性+10|異常耐性+10|土耐性+30
 Evasive Ally
 Diligent
-Governor
+Foreman
 固定／殴る
 固定／山羊の強打
 リフ
@@ -8954,7 +8954,7 @@ Angolamay
 必殺耐性+10|異常耐性+10|土耐性+30
 Evasive Ally
 Diligent
-Governor
+Foreman
 固定／殴る
 固定／山羊の強打
 リフ
@@ -10020,7 +10020,7 @@ Angolamay
 必殺耐性+100|異常耐性+100|土耐性+50
 Evasive Ally
 Cheer
-Governor
+Foreman
 固定／山羊の拳
 固定／山羊の強打
 固定／山羊の豪打

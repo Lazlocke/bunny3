@@ -492,17 +492,17 @@ Performs well in all lesser dungeon|combat positions.
 Genius
 Genius
 Genius
-Performs well in all government|positions.
+Performs well in all civic and|dungeon positions.
 //entry 99 -----------------------
 Inept
 Inept
 Inept
 Performs terribly in all government|positions.
 //entry 100 -----------------------
-Governor
-Governor
-Governor
-Performs well as Mayor or Deputy|Mayor.
+Foreman
+Foreman
+Foreman
+Performs well in all civic|positions.
 //entry 101 -----------------------
 General
 General
