@@ -4,3 +4,6 @@ skill up names are inconsistent with status screen names (magic vs magic attack,
 
 some untranslated text in the unit recovery dialogue: http://puu.sh/KDXOB/993747de54.jpg
 --THIS IS TECHNICAL EXE ISSUE--
+
+MILLENIANA RECRUITMENT
+--This is bugged in the base game. Recruitment silently fails if resistance is already disbanded. Modifications were made to the recruitment script, and it seems to work correctly now, BUT should be tested a bit more.

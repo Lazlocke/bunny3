@@ -769,7 +769,7 @@ The whole floor collapses out from under me.
 <exit>
 :5D0C
 <music 9>
-\x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
+\x2B\x6E 1  "bo1000.box" \x2B\x89\x02\x00\x46\x02\x00\x47\x02\x00\x48 10 \x2B
 <name "Raffino's Subordinate" "!HC0023">
 "Our defensive line was defeated.
  The line won't last."
