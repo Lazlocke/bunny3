@@ -4607,7 +4607,7 @@ attacked us with.
 #
 And if Miartei is there, she'll pay for this.
 #
-\x2E\x22\x00\x08 -60  -40 \xEF 0 \x22\x00\x08 0 \x94 1001 \x00\x8A 0  0  0  0  "『光峰の鍵』を入手しました。|街の施設がダメージを受けました。|（経験値ダウン）" \x0A\x44\x02\x0A\x84\x01
+\x2E\x22\x00\x08 -60  -40 \xEF 0 \x22\x00\x08 0 \x94 1001 \x00\x8A 0  0  0  0  "Key of Light obtained.|City buildings were damaged.|(Experience Points lost)" \x0A\x44\x02\x0A\x84\x01
 <exit>
 :19A7B
 <music 3>
