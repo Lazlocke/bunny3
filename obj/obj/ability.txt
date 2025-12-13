@@ -334,9 +334,9 @@ Diligent
 Diligent
 Increase experience earned by 20%.
 //entry 67 -----------------------
-Trap Sense
-Trap Sense
-Trap Sense
+Alert
+Alert
+Alert
 Higher chance to detect traps.
 //entry 68 -----------------------
 Blessing

@@ -607,7 +607,7 @@ Triclops
 基本
 闇耐性+30
 Tutor
-Trap Sense
+Alert
 Charismatic
 固定／魔力の玉
 *
@@ -684,8 +684,8 @@ Pixie
 回避タイプ
 基本
 必殺耐性+15|異常耐性+100
-Trap Sense
-Trap Sense
+Alert
+Alert
 Gourmand
 固定／小さな風
 固定／フワの癒し
@@ -815,7 +815,7 @@ Page
 基本
 斬耐性+20
 Sturdy Ally
-Trap Sense
+Alert
 Germaphobe
 固定／魔力の文字
 *
@@ -841,7 +841,7 @@ Bookmark
 基本
 斬耐性+50
 Sturdy Wall
-Trap Sense
+Alert
 Foreman
 固定／紙斬り
 *
@@ -867,7 +867,7 @@ Dista Egg
 基本
 *
 Iron Escort
-Trap Sense
+Alert
 Logistician
 固定／レーザー
 *
@@ -945,7 +945,7 @@ Gooette
 基本
 光耐性+50
 Iron Support
-Trap Sense
+Alert
 Foreman
 固定／ベトアタック
 *
@@ -4533,7 +4533,7 @@ Triclops
 基本
 闇耐性+30
 Tutor
-Trap Sense
+Alert
 Charismatic
 固定／魔力の玉
 無心砲
@@ -4559,7 +4559,7 @@ Triclops
 基本
 闇耐性+30
 Tutor
-Trap Sense
+Alert
 Charismatic
 固定／魔力の玉
 無心砲
@@ -4585,7 +4585,7 @@ Triclops
 基本
 闇耐性+30
 Tutor
-Trap Sense
+Alert
 Charismatic
 固定／魔力の玉
 無心砲
@@ -5078,8 +5078,8 @@ Monkie
 普通タイプ
 基本
 異常耐性+100
-Trap Sense
-Trap Sense
+Alert
+Alert
 Politician
 固定／爪
 狙い斬り
@@ -5104,8 +5104,8 @@ Monkie
 普通タイプ
 基本
 異常耐性+100
-Trap Sense
-Trap Sense
+Alert
+Alert
 Politician
 固定／爪
 狙い斬り
@@ -5130,8 +5130,8 @@ Monkie
 普通タイプ
 基本
 異常耐性+100
-Trap Sense
-Trap Sense
+Alert
+Alert
 Politician
 固定／爪
 狙い斬り
@@ -5312,8 +5312,8 @@ Pixie
 回避タイプ
 基本
 必殺耐性+15|異常耐性+100
-Trap Sense
-Trap Sense
+Alert
+Alert
 Gourmand
 固定／小さな風
 固定／フワの癒し
@@ -5338,8 +5338,8 @@ Pixie
 回避タイプ
 基本
 必殺耐性+15|異常耐性+100
-Trap Sense
-Trap Sense
+Alert
+Alert
 Gourmand
 固定／小さな風
 固定／フワの癒し
@@ -5364,8 +5364,8 @@ Pixie
 回避タイプ
 基本
 必殺耐性+15|異常耐性+100
-Trap Sense
-Trap Sense
+Alert
+Alert
 Gourmand
 固定／小さな風
 固定／フワの癒し
@@ -5937,7 +5937,7 @@ Page
 基本
 斬耐性+20
 Sturdy Ally
-Trap Sense
+Alert
 Germaphobe
 固定／魔力の文字
 無心三連
@@ -5963,7 +5963,7 @@ Page
 基本
 斬耐性+20
 Sturdy Ally
-Trap Sense
+Alert
 Germaphobe
 固定／魔力の文字
 無心三連
@@ -5989,7 +5989,7 @@ Page
 基本
 斬耐性+20
 Sturdy Ally
-Trap Sense
+Alert
 Germaphobe
 固定／魔力の文字
 無心三連
@@ -6015,7 +6015,7 @@ Bookmark
 基本
 斬耐性+50
 Sturdy Wall
-Trap Sense
+Alert
 Foreman
 固定／紙斬り
 無心
@@ -6041,7 +6041,7 @@ Bookmark
 基本
 斬耐性+50
 Sturdy Wall
-Trap Sense
+Alert
 Foreman
 固定／紙斬り
 無心
@@ -6067,7 +6067,7 @@ Bookmark
 基本
 斬耐性+50
 Sturdy Wall
-Trap Sense
+Alert
 Foreman
 固定／紙斬り
 無心
@@ -6171,7 +6171,7 @@ Dista Egg
 基本
 *
 Iron Escort
-Trap Sense
+Alert
 Logistician
 固定／レーザー
 光槍
@@ -6197,7 +6197,7 @@ Dista Egg
 基本
 *
 Iron Escort
-Trap Sense
+Alert
 Logistician
 固定／レーザー
 光槍
@@ -6223,7 +6223,7 @@ Dista Egg
 基本
 *
 Iron Escort
-Trap Sense
+Alert
 Logistician
 固定／レーザー
 光槍
@@ -6405,7 +6405,7 @@ Gooette
 基本
 光耐性+50
 Iron Support
-Trap Sense
+Alert
 Foreman
 固定／ベトアタック
 乱射
@@ -6431,7 +6431,7 @@ Gooette
 基本
 光耐性+50
 Iron Support
-Trap Sense
+Alert
 Foreman
 固定／ベトアタック
 乱射
@@ -6457,7 +6457,7 @@ Gooette
 基本
 光耐性+50
 Iron Support
-Trap Sense
+Alert
 Foreman
 固定／ベトアタック
 乱射
@@ -6951,7 +6951,7 @@ Hexagoo
 基本
 闇耐性+50
 Sturdy Leader
-Trap Sense
+Alert
 Germaphobe
 固定／ベトインパクト
 恐怖の霧
@@ -6977,7 +6977,7 @@ Hexagoo
 基本
 闇耐性+50
 Sturdy Leader
-Trap Sense
+Alert
 Germaphobe
 固定／ベトインパクト
 恐怖の霧
@@ -7003,7 +7003,7 @@ Hexagoo
 基本
 闇耐性+50
 Sturdy Leader
-Trap Sense
+Alert
 Germaphobe
 固定／ベトインパクト
 恐怖の霧
@@ -9577,7 +9577,7 @@ Rocker
 基本
 *
 Resistant
-Trap Sense
+Alert
 Farmer
 固定／石
 強射撃
@@ -9603,7 +9603,7 @@ Rocker
 基本
 *
 Resistant
-Trap Sense
+Alert
 Farmer
 固定／石
 強射撃
@@ -9629,7 +9629,7 @@ Rocker
 基本
 *
 Resistant
-Trap Sense
+Alert
 Farmer
 固定／石
 強射撃
@@ -10435,7 +10435,7 @@ Tentacle
 基本
 必殺耐性+100|異常耐性+100|斬耐性+30
 Iron Leader
-Trap Sense
+Alert
 Commander
 固定／大きな光
 光槍砲
