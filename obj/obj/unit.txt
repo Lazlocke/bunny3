@@ -1690,7 +1690,7 @@ Cursed by her sword, but|actually is also a sword|fanatic.
 IF SEEN, PLEASE REPORT THIS
 //entry 65 -----------------------
 味方僧侶
-Ayliss
+Aerys
 冒険者|人間
 Priest
 光

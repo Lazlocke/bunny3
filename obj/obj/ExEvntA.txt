@@ -334,17 +334,17 @@ zz1000.box
 ev081d01.agf
 ０１２３４５６７８９Ａ１２３４５６７８９Ｂ１２３４５６７８９
 //entry 67 -----------------------
-Priestess Ayliss 1
+Priestess Aerys 1
 zz1000.box
 bg010a0.agf
 ０１２３４５６７８９Ａ１２３４５６７８９Ｂ１２３４５６７８９
 //entry 68 -----------------------
-Priestess Ayliss 2
+Priestess Aerys 2
 zz1000.box
 ev082a03.agf
 ０１２３４５６７８９Ａ１２３４５６７８９Ｂ１２３４５６７８９
 //entry 69 -----------------------
-Priestess Ayliss 3
+Priestess Aerys 3
 zz1000.box
 ev082a03.agf
 ０１２３４５６７８９Ａ１２３４５６７８９Ｂ１２３４５６７８９
