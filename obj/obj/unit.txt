@@ -816,7 +816,7 @@ Page
 斬耐性+20
 Sturdy Ally
 Trap Sense
-Neat Freak
+Germaphobe
 固定／魔力の文字
 *
 *
@@ -1102,7 +1102,7 @@ Kiwi
 *
 Covering Escort
 Tutor
-Green Thumb
+Farmer
 固定／種
 *
 *
@@ -2090,7 +2090,7 @@ Pigman
 *
 Selfless
 Tutor
-Green Thumb
+Farmer
 固定／斧
 固定／噛み付き
 *
@@ -2116,7 +2116,7 @@ Pigman
 *
 Selfless
 Tutor
-Green Thumb
+Farmer
 固定／斧
 固定／噛み付き
 *
@@ -2142,7 +2142,7 @@ Pigman
 *
 Selfless
 Tutor
-Green Thumb
+Farmer
 固定／斧
 固定／噛み付き
 *
@@ -2168,7 +2168,7 @@ Beladonna
 土耐性+30
 Tenacious
 Reservist
-Green Thumb
+Farmer
 固定／ツタ
 *
 *
@@ -2194,7 +2194,7 @@ Beladonna
 土耐性+30
 Tenacious
 Reservist
-Green Thumb
+Farmer
 固定／ツタ
 *
 *
@@ -2220,7 +2220,7 @@ Beladonna
 土耐性+30
 Tenacious
 Reservist
-Green Thumb
+Farmer
 固定／ツタ
 *
 *
@@ -2246,7 +2246,7 @@ Kudzu
 土耐性+30
 Tenacious
 Reservist
-Green Thumb
+Farmer
 固定／ツタ
 *
 *
@@ -2272,7 +2272,7 @@ Kudzu
 土耐性+30
 Tenacious
 Reservist
-Green Thumb
+Farmer
 固定／ツタ
 *
 *
@@ -2298,7 +2298,7 @@ Kudzu
 土耐性+30
 Tenacious
 Reservist
-Green Thumb
+Farmer
 固定／ツタ
 *
 *
@@ -4846,7 +4846,7 @@ Slime
 打耐性+50
 Evasive Support
 Lucky
-Neat Freak
+Germaphobe
 固定／突き刺し
 毒斬り
 麻痺斬り
@@ -4872,7 +4872,7 @@ Slime
 打耐性+50
 Evasive Support
 Lucky
-Neat Freak
+Germaphobe
 固定／突き刺し
 毒斬り
 麻痺斬り
@@ -4898,7 +4898,7 @@ Slime
 打耐性+50
 Evasive Support
 Lucky
-Neat Freak
+Germaphobe
 固定／突き刺し
 毒斬り
 麻痺斬り
@@ -5938,7 +5938,7 @@ Page
 斬耐性+20
 Sturdy Ally
 Trap Sense
-Neat Freak
+Germaphobe
 固定／魔力の文字
 無心三連
 無心五連
@@ -5964,7 +5964,7 @@ Page
 斬耐性+20
 Sturdy Ally
 Trap Sense
-Neat Freak
+Germaphobe
 固定／魔力の文字
 無心三連
 無心五連
@@ -5990,7 +5990,7 @@ Page
 斬耐性+20
 Sturdy Ally
 Trap Sense
-Neat Freak
+Germaphobe
 固定／魔力の文字
 無心三連
 無心五連
@@ -6952,7 +6952,7 @@ Hexagoo
 闇耐性+50
 Sturdy Leader
 Trap Sense
-Neat Freak
+Germaphobe
 固定／ベトインパクト
 恐怖の霧
 強連射
@@ -6978,7 +6978,7 @@ Hexagoo
 闇耐性+50
 Sturdy Leader
 Trap Sense
-Neat Freak
+Germaphobe
 固定／ベトインパクト
 恐怖の霧
 強連射
@@ -7004,7 +7004,7 @@ Hexagoo
 闇耐性+50
 Sturdy Leader
 Trap Sense
-Neat Freak
+Germaphobe
 固定／ベトインパクト
 恐怖の霧
 強連射
@@ -7264,7 +7264,7 @@ Holy Beladonna
 土耐性+30
 Tenacious
 Tenacious
-Green Thumb
+Farmer
 固定／ツタ
 連突き
 毒
@@ -7290,7 +7290,7 @@ Holy Beladonna
 土耐性+30
 Tenacious
 Tenacious
-Green Thumb
+Farmer
 固定／ツタ
 連突き
 毒
@@ -7316,7 +7316,7 @@ Holy Beladonna
 土耐性+30
 Tenacious
 Tenacious
-Green Thumb
+Farmer
 固定／ツタ
 連突き
 毒
@@ -7342,7 +7342,7 @@ Holy Kudzu
 土耐性+30
 Tenacious
 Tenacious
-Green Thumb
+Farmer
 固定／ツタ
 連突き
 リフ
@@ -7368,7 +7368,7 @@ Holy Kudzu
 土耐性+30
 Tenacious
 Tenacious
-Green Thumb
+Farmer
 固定／ツタ
 連突き
 リフ
@@ -7394,7 +7394,7 @@ Holy Kudzu
 土耐性+30
 Tenacious
 Tenacious
-Green Thumb
+Farmer
 固定／ツタ
 連突き
 リフ
@@ -8200,7 +8200,7 @@ Holy Tree
 斬耐性+50|光耐性+50|火耐性+50|水耐性+50
 Selfless
 Reassuring
-Neat Freak
+Germaphobe
 固定／盾打
 振り回し
 中回復
@@ -8226,7 +8226,7 @@ Holy Tree
 斬耐性+50|光耐性+50|火耐性+50|水耐性+50
 Selfless
 Reassuring
-Neat Freak
+Germaphobe
 固定／盾打
 振り回し
 中回復
@@ -8252,7 +8252,7 @@ Holy Tree
 斬耐性+50|光耐性+50|火耐性+50|水耐性+50
 Selfless
 Reassuring
-Neat Freak
+Germaphobe
 固定／盾打
 振り回し
 中回復
@@ -8980,7 +8980,7 @@ Kiwi
 *
 Covering Escort
 Tutor
-Green Thumb
+Farmer
 固定／種
 強射撃
 斬撃属性防御
@@ -9006,7 +9006,7 @@ Kiwi
 *
 Covering Escort
 Tutor
-Green Thumb
+Farmer
 固定／種
 強射撃
 斬撃属性防御
@@ -9032,7 +9032,7 @@ Kiwi
 *
 Covering Escort
 Tutor
-Green Thumb
+Farmer
 固定／種
 強射撃
 斬撃属性防御
@@ -9578,7 +9578,7 @@ Rocker
 *
 Resistant
 Trap Sense
-Green Thumb
+Farmer
 固定／石
 強射撃
 毒射ち
@@ -9604,7 +9604,7 @@ Rocker
 *
 Resistant
 Trap Sense
-Green Thumb
+Farmer
 固定／石
 強射撃
 毒射ち
@@ -9630,7 +9630,7 @@ Rocker
 *
 Resistant
 Trap Sense
-Green Thumb
+Farmer
 固定／石
 強射撃
 毒射ち

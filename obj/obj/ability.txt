@@ -439,9 +439,9 @@ Bureaucrat
 Bureaucrat
 Performs well in lesser city|positions.
 //entry 88 -----------------------
-Green Thumb
-Green Thumb
-Green Thumb
+Farmer
+Farmer
+Farmer
 Performs well as Farm Manager.
 //entry 89 -----------------------
 Merchant
@@ -469,9 +469,9 @@ Festive
 Festive
 Performs well as Morale Officer.
 //entry 94 -----------------------
-Neat Freak
-Neat Freak
-Neat Freak
+Germaphobe
+Germaphobe
+Germaphobe
 Performs well as Health Captain.
 //entry 95 -----------------------
 Commander
