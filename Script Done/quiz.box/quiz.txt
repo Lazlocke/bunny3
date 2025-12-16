@@ -699,7 +699,7 @@
 :34AA
 \x1C\x01\x0B\x43\x00\x4C\x00\x30\x00\x31\x00\x38\x00\x20\x00\x3D\x00\x3D\x00\x20\x00\x34\x00\x36\x00 :3583: 
 <name "Quiz Maid" "*" "ka34e000.agf">
-"What removed Mirei's clothing?"
+"What removed Mirre's clothing?"
 <choice :112B: "Zenler" \x00\x00>
 <choice :112B: "Nudester" \x00\x00>
 <choice :112B: "Splapper" \x00\x00>
