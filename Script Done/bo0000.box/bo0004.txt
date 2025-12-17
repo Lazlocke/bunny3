@@ -369,9 +369,9 @@
 "Days like this make you feel wealthy."
 #
 <name "Serene Citizen" "!BC0068">
-「素直に帰って、
-今日は良い日だったって
-事にした方が絶対に良いと思うけどなぁ」
+"Go home already.
+ Just call it a good day and don't
+ tempt fate."
 #
 <exit>
 :2CE4
